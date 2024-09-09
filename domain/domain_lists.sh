@@ -22,9 +22,8 @@ echo "Output file: $output_file"
 # 确保目标目录存在
 mkdir -p "$output_dir" || { echo "Failed to create directory $output_dir"; exit 1; }
 
-# 清空临时文件和输出文件
+# 清空临时文件
 > "$temp_file"
-> "$output_file"
 
 # 下载、过滤并合并所有域名列表
 for url in $urls; do
@@ -32,11 +31,11 @@ for url in $urls; do
   curl -s "$url" | awk 'NF && !/^#|^!/' >> "$temp_file" || { echo "Failed to process $url"; exit 1; }
 done
 
-# 创建最终的 allow1.txt 文件，添加 @@||...^ 格式
+# 生成新的 allow1.txt 文件，无论之前的内容是否相同，都覆盖旧文件
 awk '{ print "@@||" $0 "^" }' "$temp_file" > "$output_file" || { echo "Failed to create $output_file"; exit 1; }
 
 # 输出生成的文件路径
-echo "Generated file: $output_file"
+echo "Generated and updated file: $output_file"
 
 # 可选：查看生成的文件内容
 cat "$output_file"
