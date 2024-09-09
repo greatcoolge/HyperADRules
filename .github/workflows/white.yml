@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 */12 * * *'
-    
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -22,14 +22,13 @@ jobs:
           chmod +x ./domain/domain_lists.sh
           ./domain/domain_lists.sh
 
-      - name: Git Push Changes to GitHub
+      - name: Commit and Push Changes
         run: |
-          git init
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
           git add --all
-          git commit -m "Updated at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）"
-          git push -u origin master --force
+          git commit -m "Updated at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）" || echo "No changes to commit"
+          git push origin HEAD:master --force
 
       - name: Delete Workflow Runs 
         uses: Mattraks/delete-workflow-runs@main
