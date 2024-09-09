@@ -42,3 +42,8 @@ cat "$output_file"
 
 # 确保文件被写入并刷新
 sync
+
+# 清理临时文件
+rm -f "$temp_file"
+
+echo "Temporary file $temp_file has been deleted."
