@@ -5,6 +5,7 @@ set -x  # 输出每一条命令在执行时的状态
 
 # 定义要处理的 URL 列表
 urls="
+https://raw.githubusercontent.com/FusionPlmH/dead-block/master/splitblock40
 https://raw.githubusercontent.com/Cats-Team/AdRules/script/script/allowlist.txt
 https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt
 "
