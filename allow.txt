@@ -2,9 +2,9 @@
 ! Title: HyperADRules
 ! Homepage: https://github.com/Lynricsy/HyperADRules
 ! Expires: 12 Hours
-! Version: 2024-09-10 20:17:39（北京时间）
+! Version: 2024-09-11 08:40:41（北京时间）
 ! Description: HyperADRules，一个集合众家之长的、强力去广告的规则
-! Total count: 15980
+! Total count: 15985
 @-webkit-keyframes tooltip-appear{from{opacity:0;}to{opacity:1;}}/*!sc*/
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
@@ -67,6 +67,7 @@
 @@.net/click-$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@.online^$xmlhttprequest,stealth=referrer,domain=playru.net
 @@.pexcard.com^$jsinject,elemhide,extension
+@@.php$subdocument,stealth=referrer,domain=/dizipal\d+.com/
 @@.php?play_vid=$subdocument,stealth=referrer,domain=xyflv.cc
 @@.png#$domain=3dpchip.com|9zvip.net|club.tgfcer.com|coolinet.com|d1-dm.com|digit77.com|e9china.net|upxin.net
 @@.png#$domain=almezoryae.com
@@ -4255,6 +4256,7 @@
 @@||da.mgtv.com/m/player?
 @@||da.mgtv.com/m5/page?
 @@||da.mmarket.com^
+@@||dactylogagnant.click^$stealth=referrer,domain=inatflix9.xyz
 @@||daddylive.me^$generichide
 @@||daemon-hentai.com^$generichide
 @@||daemonanime.net/*/adex.js
@@ -5376,6 +5378,7 @@
 @@||forexprostools.com/?columns=$domain=investmentwatchblog.com
 @@||forexprostools.com^$domain=shougedui.com
 @@||forexprostools.com^$subdocument,domain=fx-rashinban.com
+@@||forfesvecter.site/*.jpg$stealth=referrer
 @@||forgeofempires.com/game/json
 @@||forms.anthology.com^$domain=anthology.com
 @@||forms.ministryforms.net/*.aspx^$stealth,domain=app.clovergive.com
@@ -9777,6 +9780,7 @@
 @@||munchkin.marketo.net/munchkin.js$domain=telus.com
 @@||mundodebolso.me^$generichide
 @@||mundotec.pro^$stealth
+@@||muralmasterpieces.site/*.jpg$stealth=referrer
 @@||museum-29.dajya-ranger.com^$generichide
 @@||music.amazon.$generichide
 @@||music.youtube.com^$generichide
@@ -10478,6 +10482,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=akinator.com|akinator.mobi
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=akinator.mobi|akinator.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=akunssh.net
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=allb.game-db.tw|battlecats-db.com|cpu-world.com|game.anymanager.io|games.wkb.jp|html5.gamedistribution.com|knowfacts.info|lacoste.com|megagames.com|megaleech.us|newson.us|real-sports.jp|slideplayer.com|sudokugame.org|tampermonkey.net|teemo.gg|thefreedictionary.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=alliptvlinks.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=allkaicerteam.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ally.sh
@@ -11087,7 +11092,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=leakshaven.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=lenouvelliste.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=linetv.tw
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=lokerwfh.net|tutwuri.id
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=lokerwfh.net|tutwuri.id|techbloogs.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=mangas-raw.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=maxcheaters.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=mbjremix.com
@@ -15955,25 +15960,25 @@
 @@||zylom.com/images/site/zylom/scripts/google-analytics.js
 @@||zynga.com/current/iframe/track.php?$domain=apps.facebook.com
 @keyframes tooltip-appear{from{opacity:0;}to{opacity:1;}}/*!sc*/
-@media (forced-colors:active){.bDTxaK:focus{outline:solid 1px transparent;}}/*!sc*/
-@media (forced-colors:active){.bSuTpL:focus{outline:solid 1px transparent;}}/*!sc*/
 @media (forced-colors:active){.bfWknm:focus{outline:solid 1px transparent;}}/*!sc*/
-@media (forced-colors:active){.cRDVgI:focus{outline:solid 1px transparent;}}/*!sc*/
-@media (forced-colors:active){.eEspxX:focus{outline:solid 1px transparent;}}/*!sc*/
-@media (forced-colors:active){.emYRmJ:focus{outline:solid 1px transparent;}}/*!sc*/
+@media (forced-colors:active){.dEywpb:focus{outline:solid 1px transparent;}}/*!sc*/
 @media (forced-colors:active){.feqCqy:focus{outline:solid 1px transparent;}}/*!sc*/
+@media (forced-colors:active){.hwJpSH:focus{outline:solid 1px transparent;}}/*!sc*/
+@media (forced-colors:active){.iWcXeN:focus{outline:solid 1px transparent;}}/*!sc*/
 @media (forced-colors:active){.jBaXnq:focus{outline:solid 1px transparent;}}/*!sc*/
 @media (forced-colors:active){.jFcVkf:focus{outline:solid 1px transparent;}}/*!sc*/
-@media (forced-colors:active){.jGoVeP:focus{outline:solid 1px transparent;}}/*!sc*/
+@media (forced-colors:active){.jOTxIx:focus{outline:solid 1px transparent;}}/*!sc*/
 @media (forced-colors:active){.jUNlHb:focus{outline:solid 1px transparent;}}/*!sc*/
+@media (forced-colors:active){.kWhuth:focus{outline:solid 1px transparent;}}/*!sc*/
 @media (forced-colors:active){.kuXPuQ:focus{outline:solid 1px transparent;}}/*!sc*/
+@media (forced-colors:active){.rlPBo:focus{outline:solid 1px transparent;}}/*!sc*/
 @media (min-width:768px){.cXNreu{font-size:14px;}}/*!sc*/
 @media (pointer:coarse){.dAjliH:before{content:"";position:absolute;left:0;right:0;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);top:50%;min-height:44px;}}/*!sc*/
 @media (pointer:coarse){.fIktcg:before{content:"";position:absolute;left:0;right:0;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);top:50%;min-height:44px;}}/*!sc*/
 @media print,screen and (max-width:1011px) and (min-width:768px){.irYKVt{display:none;}}/*!sc*/
 @media print{.emFMJu{display:-webkit-box !important;display:-webkit-flex !important;display:-ms-flexbox !important;display:flex !important;}}/*!sc*/
-@media screen and (max-width:768px){.cRDVgI[data-no-visuals]{display:none;}}/*!sc*/
-@media screen and (max-width:768px){.jGoVeP{display:block;}}/*!sc*/
+@media screen and (max-width:768px){.hwJpSH[data-no-visuals]{display:none;}}/*!sc*/
+@media screen and (max-width:768px){.iWcXeN{display:block;}}/*!sc*/
 @media screen and (min-width:1280px){.gNdDUH{--pane-max-width-diff:959px;}}/*!sc*/
 @media screen and (min-width:1360px){.iPEkxH{display:block;}}/*!sc*/
 @media screen and (min-width:544px){.brJRqk{-webkit-flex-wrap:nowrap;-ms-flex-wrap:nowrap;flex-wrap:nowrap;}}/*!sc*/
