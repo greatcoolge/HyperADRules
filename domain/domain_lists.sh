@@ -47,3 +47,18 @@ sync
 rm -f "$temp_file"
 
 echo "Temporary file $temp_file has been deleted."
+
+# 添加更新时间戳的逻辑
+# 更新文件的时间戳，触发 Git 识别为变更
+touch "$output_file"
+
+# 提交更改到本地仓库
+git config --global user.email "actions@github.com"
+git config --global user.name "GitHub Actions"
+
+# 添加并提交更改
+git add "$output_file"
+git commit -m "Forced update at $(date +'%Y-%m-%d %H:%M:%S')（北京时间）" || echo "No actual file changes, but forced commit."
+
+# 可选：推送到远程仓库（如果需要）
+# git push origin master
