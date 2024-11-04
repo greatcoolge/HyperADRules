@@ -48,6 +48,7 @@
 @@||gm.mmstat.com^
 @@||cashier.ele.me^
 @@||buy.ele.me^
+@@||h-adashx.ut.ele.me^
 @@||api.open.uc.cn^
 @@||p.bokecc.com^
 @@||gift.douyucdn.cn^
