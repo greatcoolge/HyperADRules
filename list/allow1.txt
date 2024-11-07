@@ -8,6 +8,7 @@
 @@||boxer.baidu.com^
 @@||bcsp2p.baidu.com^
 @@||newvector.map.baidu.com^
+@@||sv.map.baidu.com^
 @@||als.baidu.com^
 @@||gsp0.baidu.com^
 @@||newloc.map.n.shifen.com^
