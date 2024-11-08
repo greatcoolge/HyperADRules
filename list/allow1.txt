@@ -109,6 +109,7 @@
 @@||epochtimes.com^
 @@||epochtimes.org^
 @@||browser.gwdang.com^
+@@||logrocket.com^
 @@||cdn-thumb.fds.api.xiaomi.com^
 @@||bce.baidu.com^
 @@||b.bdstatic.com^
