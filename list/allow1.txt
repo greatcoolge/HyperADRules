@@ -47,6 +47,7 @@
 @@||amos.alicdn.com^
 @@||wgo.mmstat.com^
 @@||gm.mmstat.com^
+@@||mmstat.com^
 @@||cashier.ele.me^
 @@||buy.ele.me^
 @@||h-adashx.ut.ele.me^
@@ -65,6 +66,7 @@
 @@||livewebbs2.msstatic.com^
 @@||liveweb\*\.msstatic\.com^
 @@||miniapp.bilibili.com^
+@@||grpc.biliapi.net^
 @@||evtubescms.phncdn.com^
 @@||consent.cmp.oath.com^
 @@||api-shoulei-ssl.xunlei.com^
