@@ -88,6 +88,7 @@
 @@||appconf.heytapdownload.com^
 @@||tianshu.gtimg.cn^
 @@||static.cloud.coveo.com^
+@@||tdid.m.qq.com^
 @@||app.jameswoof.com^
 @@||lc-cn-n1-shared.com^
 @@||7x24s.com^
