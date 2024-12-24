@@ -67,6 +67,7 @@
 @@||liveweb\*\.msstatic\.com^
 @@||miniapp.bilibili.com^
 @@||grpc.biliapi.net^
+@@||live-trace.bilibili.com^
 @@||evtubescms.phncdn.com^
 @@||consent.cmp.oath.com^
 @@||api-shoulei-ssl.xunlei.com^
