@@ -116,6 +116,7 @@
 @@||logrocket.com^
 @@||html-load.com^
 @@||content-loader.com^
+@@||instant.page^
 @@||cdn-thumb.fds.api.xiaomi.com^
 @@||bce.baidu.com^
 @@||b.bdstatic.com^
