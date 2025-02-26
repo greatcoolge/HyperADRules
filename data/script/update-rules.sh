@@ -54,7 +54,6 @@ allow=(
   "https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt"
   "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/white.txt"
   "https://raw.githubusercontent.com/ChengJi-e/AFDNS/master/QD.txt"
-  "https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/filter_whitelist.txt"
 )
 
 for i in "${!rules[@]}" "${!allow[@]}"
