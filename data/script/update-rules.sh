@@ -95,8 +95,9 @@ cat base-src-hosts.txt | grep -Ev '#|\$|@|!|/|\\|\*' \
 
 # 允许域名转 ABP 规则
 cat | sed '/^$/d' | grep -v '#' \
+  | grep -v '^@@' \
   | sed "s/^/@@||&/g" | sed "s/$/&^/g" \
-  | sort -n | uniq | awk '!a[$0]++' & # 允许域名转 ABP 规则
+  | sort -n | uniq | awk '!a[$0]++' &
 
 wait
 
