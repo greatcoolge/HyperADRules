@@ -52,6 +52,7 @@ allow=(
   "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-referral.txt"
   "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-urlshortener.txt"
   "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/whitelist-referral-native.txt"
+  "https://raw.githubusercontent.com/greatcoolge/neodevhost/refs/heads/master/allow"
   "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/allowlist.txt"
   "https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt"
   "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/white.txt"
@@ -96,7 +97,7 @@ cat base-src-hosts.txt | grep -Ev '#|\$|@|!|/|\\|\*' \
 cat | sed '/^$/d' | grep -v '#' \
   | grep -v '^@@' \
   | sed "s/^/@@||&/g" | sed "s/$/&^/g" \
-  | sort -n | uniq | awk '!a[$0]++' &
+  | sort -n | uniq | tee /tmp/debug_output.txt | awk '!a[$0]++' &
 
 wait
 
