@@ -131,7 +131,7 @@ cat base-src-hosts.txt | grep -Ev '#|\$|@|!|/|\\|\*' \
   | grep -E "^((\|\|)\S+\^)" & # Hosts 规则转 ABP 规则
 
 # 允许域名转 ABP 规则
-cat | sed '/^$/d' | grep -v '#' \
+cat *.txt | sed '/^$/d' | grep -v '#' \
   | grep -v '^@@' \
   | sed "s/^/@@||&/g" | sed "s/$/&^/g" \
   | sort -n | uniq | tee /tmp/debug_output.txt | awk '!a[$0]++' &
