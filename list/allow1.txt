@@ -1795,7 +1795,7 @@
 @@||bc.vc^
 @@||bcbits.com^
 @@||bce.baidu.com^
-@@||bce.baidu.comxblog.jp^
+@@||bce.baidu.comn.livechatinc.com^
 @@||bcedns.com^
 @@||bcedns.net^
 @@||bcee.lu^
@@ -2366,7 +2366,6 @@
 @@||cdn.jsdelivr.net.cdn.cloudflare.net^
 @@||cdn.jwplayer.com^
 @@||cdn.keycdn.com^
-@@||cdn.livechatinc.com^
 @@||cdn.livefyre.com^
 @@||cdn.livestream.com^
 @@||cdn.loginhood.io^
@@ -2761,6 +2760,7 @@
 @@||cn.wswebcdn.com^
 @@||cname.tradepub.com^
 @@||cnbc.com^
+@@||cnbj1.fds.api.xiaomi.com^
 @@||cnc.fe01.lg.xiaomi.com^
 @@||cnet.com^
 @@||cnet2.cbsistatic.com^
@@ -3837,6 +3837,7 @@
 @@||examiner.com^
 @@||example.com^
 @@||example.org^
+@@||exblog.jp^
 @@||exceptions.coinbase.com^
 @@||exchange.coinbase.com^
 @@||exchange.kaspersky.com^
@@ -8223,6 +8224,7 @@
 @@||s1.wp.com^
 @@||s1777052651.t.eloqua.com^
 @@||s2.coinmarketcap.com^
+@@||s2.kskwai.com^
 @@||s2.symcb.com^
 @@||s2.vuukle.com^
 @@||s2.wp.com^
