@@ -1795,7 +1795,6 @@
 @@||bc.vc^
 @@||bcbits.com^
 @@||bce.baidu.com^
-@@||bce.baidu.comn.livechatinc.com^
 @@||bcedns.com^
 @@||bcedns.net^
 @@||bcee.lu^
@@ -2366,6 +2365,7 @@
 @@||cdn.jsdelivr.net.cdn.cloudflare.net^
 @@||cdn.jwplayer.com^
 @@||cdn.keycdn.com^
+@@||cdn.livechatinc.com^
 @@||cdn.livefyre.com^
 @@||cdn.livestream.com^
 @@||cdn.loginhood.io^
