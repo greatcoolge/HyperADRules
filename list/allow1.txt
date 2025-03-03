@@ -1568,6 +1568,7 @@
 @@||ash.to^
 @@||ashampoo.com^
 @@||ashiato.rakuten.co.jp^
+@@||asia.com^
 @@||asia.playstation.com^
 @@||asia.pool.ntp.org^
 @@||asiandrama.chia-anime.tv^
@@ -1768,7 +1769,7 @@
 @@||banki.onet.pl^
 @@||bankofamerica.com^
 @@||bankrate.com^
-@@||banner.play-asia.com^
+@@||banner.play-360.cn^
 @@||banners.funimation.com^
 @@||banners.spiceworks.com^
 @@||bapi.flipboard.com^
@@ -1795,7 +1796,6 @@
 @@||bc.vc^
 @@||bcbits.com^
 @@||bce.baidu.com^
-@@||bce.baidu.com360.cn^
 @@||bcedns.com^
 @@||bcedns.net^
 @@||bcee.lu^
@@ -2483,6 +2483,7 @@
 @@||cdntip.com^
 @@||cdp.aliexpress.com^
 @@||cdp.rapidssl.com^
+@@||cdpn.io^
 @@||cds.csx.sony.com^
 @@||cds.d2s7q6s2.hwcdn.net^
 @@||cds.j3z9t3p6.hwcdn.net^
@@ -6978,6 +6979,7 @@
 @@||nipr.com^
 @@||nircmd.nirsoft.net^
 @@||nirsoft.net^
+@@||nisportal.10010.com^
 @@||nitroflare.com^
 @@||nj.com^
 @@||nj.t.bcsp2p.baidu.com^
@@ -7084,6 +7086,7 @@
 @@||nsclick.baidu.com^
 @@||nseindia.com^
 @@||nsfw.reddit.com^
+@@||nstool.netease.com^
 @@||nstore.naver.com^
 @@||nsw.gov.au^
 @@||nsx.np.dl.playstation.net^
@@ -9437,6 +9440,8 @@
 @@||test.cryptopia.co.nz^
 @@||test.flipboard.com^
 @@||test.vuukle.com^
+@@||testingcf.jsdelivr.net^
+@@||testingcf.jsdelivr.net.cdn.cloudflare.net^
 @@||testkitchen.huffingtonpost.com^
 @@||texas.gov^
 @@||text.getpocket.com^
