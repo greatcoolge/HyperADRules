@@ -194,7 +194,6 @@
 @@||a-msedge.net^
 @@||a-v2.sndcdn.com^
 @@||a-v2.x.sndcdn.com^
-@@||a.akamaihd.net^
 @@||a.apkpure.com^
 @@||a.config.skype.com^
 @@||a.espncdn.com^
@@ -504,7 +503,6 @@
 @@||am.coinbase.com^
 @@||amap.com^
 @@||amauthprd.samsungcloudsolution.com^
-@@||amazo360.cn^
 @@||amazon.ac^
 @@||amazon.academy^
 @@||amazon.accountant^
@@ -765,6 +763,7 @@
 @@||amazon.institute^
 @@||amazon.insure^
 @@||amazon.international^
+@@||amazon.investments^
 @@||amazon.io^
 @@||amazon.ir^
 @@||amazon.irish^
@@ -1074,7 +1073,7 @@
 @@||amp.usatoday.com^
 @@||amped.co.uk^
 @@||amplitude.com^
-@@||amzn.cx.tv^
+@@||amzn.com^
 @@||amzn.to^
 @@||ana.fr^
 @@||analytics.agoda.com^
@@ -1796,7 +1795,7 @@
 @@||bc.vc^
 @@||bcbits.com^
 @@||bce.baidu.com^
-@@||bce.baidu.comn.investments^
+@@||bce.baidu.coma.akamaihd.net^
 @@||bcedns.com^
 @@||bcedns.net^
 @@||bcee.lu^
@@ -4737,7 +4736,6 @@
 @@||googlevideo.com^
 @@||googleweblight.com^
 @@||goorm.io^
-@@||gops.google.com^
 @@||gora.golf.rakuten.co.jp^
 @@||gosign.adobe.com^
 @@||gossip.easyanticheat.net^
@@ -4778,7 +4776,6 @@
 @@||greasyfork.org^
 @@||great.kaspersky.com^
 @@||greenhouse.io^
-@@||grou0.client-channel.google.com^
 @@||group-vb.cdn.viber.com^
 @@||group.pcbeta.com^
 @@||groupon.com^
@@ -4825,7 +4822,6 @@
 @@||gumtree.com.au^
 @@||guns.dailycaller.com^
 @@||guokr.com^
-@@||gur.com^
 @@||guru3d.com^
 @@||guru99.com^
 @@||gurud.ee^
@@ -6092,7 +6088,6 @@
 @@||lt.gravatar.com^
 @@||ltc.cryptopia.co.nz^
 @@||lu.api.mega.co.nz^
-@@||lublbcdn.net^
 @@||lublin.tvp.pl^
 @@||luffy.chia-anime.tv^
 @@||luyou.360.cn^
@@ -8359,7 +8354,6 @@
 @@||scontent.cdninstagram.com^
 @@||scontent.fgdl5-1.fna.fbcdn.net^
 @@||scontent.xx.fbcdn.net^
-@@||scontent.xx.ft-downloads.adblockplus.org^
 @@||scoop.sh^
 @@||scorito.com^
 @@||screenshots.firefox.com^
@@ -8956,7 +8950,6 @@
 @@||static-dm.akamaized.net^
 @@||static-fonts.adobe.com^
 @@||static-login.gog-statics.com^
-@@||static-lvlt.xhcdn.com^
 @@||static-media-prod-cdn.itsre-sumo.mozilla.net^
 @@||static-pepper.dealabs.com^
 @@||static-resource.np.community.playstation.net^
@@ -9097,7 +9090,6 @@
 @@||status.github.com^
 @@||status.icq.com^
 @@||status.playstation.com^
-@@||status.plein.tvp.pl^
 @@||status.plex.tv^
 @@||status.pro.coinbase.com^
 @@||status.rapidssl.com^
