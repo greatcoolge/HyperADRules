@@ -2,9 +2,9 @@
 ! Title: HyperADRules
 ! Homepage: https://github.com/Lynricsy/HyperADRules
 ! Expires: 12 Hours
-! Version: 2025-03-05 20:17:48（北京时间）
+! Version: 2025-03-06 08:45:57（北京时间）
 ! Description: HyperADRules，一个集合众家之长的、强力去广告的规则
-! Total count: 23766
+! Total count: 23762
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -772,6 +772,7 @@
 @@||9m.no^
 @@||9mp.com^
 @@||9nl.com^
+@@||9sblog.com^$generichide
 @@||9sh.re^
 @@||9splay.store^
 @@||9to5google.com^
@@ -795,7 +796,6 @@
 @@||a.189.cn^
 @@||a.9game.cn^
 @@||a.adwolf.ru^
-@@||a.akamaihd.net^
 @@||a.alimama.cn/tkapi$domain=ieeee.com
 @@||a.apkpure.com^
 @@||a.bf-ad.net/adengine/fff/adengine.js$domain=fitforfun.de
@@ -1673,7 +1673,6 @@
 @@||amap.com^
 @@||amauthprd.samsungcloudsolution.com^
 @@||amays.im^
-@@||amazo360.cn^
 @@||amazon-adsystem.com/aax2/apstag.js$domain=accuweather.com|barstoolsports.com|blastingnews.com|cnn.com|familyhandyman.com|foxbusiness.com|gamingbible.co.uk|history.com|independent.co.uk|inquirer.com|keloland.com|radio.com|rd.com|si.com|sportbible.com|tasteofhome.com|the-independent.com|thehealthy.com|time.com|wboy.com|wellgames.com|wkrn.com|wlns.com|wvnstv.com
 @@||amazon-adsystem.com/aax2/apstag.js$domain=ladbible.com|unilad.com|unilad.co.uk|gamingbible.com|tyla.com|sportbible.com|uniladtech.com
 @@||amazon-adsystem.com/e/dtb/bid^$domain=kino.de
@@ -1945,6 +1944,7 @@
 @@||amazon.institute^
 @@||amazon.insure^
 @@||amazon.international^
+@@||amazon.investments^
 @@||amazon.io^
 @@||amazon.ir^
 @@||amazon.irish^
@@ -2280,7 +2280,6 @@
 @@||ams.cdn.arkadiumhosted.com/assets/*/display-ads-f.js
 @@||amz.run^
 @@||amzn.com^
-@@||amzn.cx.tv^
 @@||amzn.pw^
 @@||amzn.to^
 @@||an.yandex.ru^$app=com.badmanners.murglar
@@ -3606,7 +3605,7 @@
 @@||bcbits.com^
 @@||bcbsks.com^$stealth=dpi
 @@||bce.baidu.com^
-@@||bce.baidu.comn.investments^
+@@||bce.baidu.coma.akamaihd.net^
 @@||bcebos.com/static/translation/widget/translate/output/AdBanner/AdBanner.js
 @@||bcebos.com^$script,domain=biququ.info|jingwubook.com
 @@||bcedns.com^
@@ -9928,7 +9927,6 @@
 @@||gooogle.how^$generichide
 @@||goorm.io^
 @@||gopjn.com^
-@@||gops.google.com^
 @@||gora.golf.rakuten.co.jp^
 @@||goshrink.com^
 @@||gosign.adobe.com^
@@ -10005,7 +10003,6 @@
 @@||gri.ms^
 @@||grm.my^
 @@||grnh.se^
-@@||grou0.client-channel.google.com^
 @@||group-vb.cdn.viber.com^
 @@||group.pcbeta.com^
 @@||groupbycloud.com/gb-tracker-client-3.min.js
@@ -10083,7 +10080,6 @@
 @@||gumtree.com^
 @@||guns.dailycaller.com^
 @@||guokr.com^
-@@||gur.com^
 @@||gurl.es^
 @@||guru3d.com^
 @@||guru99.com^
@@ -12862,7 +12858,6 @@
 @@||ltc.cryptopia.co.nz^
 @@||lttr.ai^
 @@||lu.api.mega.co.nz^
-@@||lublbcdn.net^
 @@||lublin.tvp.pl^
 @@||ludia.gg^
 @@||luffy.chia-anime.tv^
@@ -13228,6 +13223,7 @@
 @@||mailingtechnology.com/tracking/tracking_$~third-party
 @@||mailtrack.io^
 @@||maimai.cn^
+@@||main.govpilot.com/jet/js/newrelic.js$~third-party
 @@||main.iam.ad.ext.azure.com^
 @@||main.m.taobao.com^
 @@||majorgeeks.com^
@@ -13427,6 +13423,7 @@
 @@||mdgram.app^
 @@||mdidesign.ca^
 @@||mdl29.net^
+@@||mdnplay.dev/runner.html$stealth=referrer
 @@||me-en.kaspersky.com^
 @@||me-qr.com^
 @@||me.ign.com^
@@ -15334,6 +15331,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=10play.com.au
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=9sblog.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=akinator.com|akinator.mobi
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=allb.game-db.tw|battlecats-db.com|cpu-world.com|game.anymanager.io|games.wkb.jp|html5.gamedistribution.com|knowfacts.info|lacoste.com|megagames.com|megaleech.us|newson.us|radioviainternet.nl|real-sports.jp|slideplayer.com|sudokugame.org|tampermonkey.net|thefreedictionary.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=alliptvlinks.com
@@ -17424,7 +17422,6 @@
 @@||scontent.fgdl5-1.fna.fbcdn.net^
 @@||scontent.xx.fbcdn.net/hads-ak-prn2/*.png$domain=facebook.com|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
 @@||scontent.xx.fbcdn.net^
-@@||scontent.xx.ft-downloads.adblockplus.org^
 @@||scoop.sh^
 @@||scorecardresearch.com$domain=bt.com
 @@||scorecardresearch.com/*/streamingtag_plugin_jwplayer.js$domain=telemundopr.com
@@ -18694,7 +18691,6 @@
 @@||static-hw.xnxx-cdn.com^
 @@||static-l3.xnxx-cdn.com^
 @@||static-login.gog-statics.com^
-@@||static-lvlt.xhcdn.com^
 @@||static-media-prod-cdn.itsre-sumo.mozilla.net^
 @@||static-mobilegame-1.biligame.net^
 @@||static-pepper.dealabs.com^
@@ -18947,7 +18943,6 @@
 @@||status.github.com^
 @@||status.icq.com^
 @@||status.playstation.com^
-@@||status.plein.tvp.pl^
 @@||status.plex.tv^
 @@||status.pro.coinbase.com^
 @@||status.rapidssl.com^
@@ -20127,6 +20122,7 @@
 @@||trackjs.com/agent/$script,domain=delta.com
 @@||trackjs.com^$~third-party
 @@||tracklog.58.com/referrer$~third-party
+@@||tracklog.58.com/referrer_ershouche_m_Now.js$domain=m.renrenche.com
 @@||trackonomics.net/client/$script,domain=popsugar.com
 @@||trackurl.link^
 @@||trade.re^
