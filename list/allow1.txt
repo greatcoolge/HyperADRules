@@ -2378,7 +2378,7 @@
 @@||cdn.mplxtms.com^
 @@||cdn.mwbsys.com^
 @@||cdn.mxpnl.com^
-@@||cdn.naver360.cn^
+@@||cdn.naver.com^
 @@||cdn.onenote.net^
 @@||cdn.onesignal.com^
 @@||cdn.opinionlab.com^
