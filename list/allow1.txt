@@ -1795,7 +1795,7 @@
 @@||bc.vc^
 @@||bcbits.com^
 @@||bce.baidu.com^
-@@||bce.baidu.comsamsungcloudsolution.com^
+@@||bce.baidu.comsony.tv^
 @@||bcedns.com^
 @@||bcedns.net^
 @@||bcee.lu^
@@ -7022,6 +7022,7 @@
 @@||noteworthy.medium.com^
 @@||notice.game.xiaomi.com^
 @@||notice.line.me^
+@@||notice.samsungcloudsolution.com^
 @@||notice.xbox.com^
 @@||notice2.line.me^
 @@||noticecdn.samsungcloudsolution.com^
@@ -9024,7 +9025,6 @@
 @@||static.ow.ly^
 @@||static.parastorage.com^
 @@||static.pcgamingwiki.com^
-@@||static.pd.biv.sony.tv^
 @@||static.returnpath.net^
 @@||static.seedr.cc^
 @@||static.sh.st^
@@ -11979,7 +11979,6 @@
 @@||zero.facebook.com^
 @@||zero.wikipedia.com^
 @@||zerohedge.com^
-@@||zerossl.ocsp.sectigo.com360.cn^
 @@||zeustracker.abuse.ch^
 @@||zh-cn.about.flipboard.com^
 @@||zh-hk.about.flipboard.com^
