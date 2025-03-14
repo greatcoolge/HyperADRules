@@ -2,7 +2,7 @@
 ! Title: HyperADRules
 ! Homepage: https://github.com/Lynricsy/HyperADRules
 ! Expires: 12 Hours
-! Version: 2025-03-13 20:18:27（北京时间）
+! Version: 2025-03-14 08:45:46（北京时间）
 ! Description: HyperADRules，一个集合众家之长的、强力去广告的规则
 ! Total count: 27495
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
@@ -1836,6 +1836,7 @@
 @@||aktuality.sk^$generichide
 @@||akunvip.win^
 @@||akunwso.gratis^
+@@||akyapitv.idealdata.com.tr^$stealth=dpi
 @@||al.st^
 @@||alaa.tv^
 @@||alas.click^
@@ -4018,7 +4019,7 @@
 @@||bcbits.com^
 @@||bcbsks.com^$stealth=dpi
 @@||bce.baidu.com^
-@@||bce.baidu.comsamsungcloudsolution.com^
+@@||bce.baidu.comsony.tv^
 @@||bcebos.com/static/translation/widget/translate/output/AdBanner/AdBanner.js
 @@||bcebos.com^$script,domain=biququ.info|jingwubook.com
 @@||bcedns.com^
@@ -8677,6 +8678,7 @@
 @@||f-gear.ec-optimizer.com/speights/searchresult2fgear.js$script,domain=ec.f-gear.co.jp
 @@||f-gear.ec-optimizer.com^
 @@||f-secure.com^
+@@||f-tra.com^$script,domain=pokemoncenter-online.com
 @@||f.51240.com^$important
 @@||f.bmcx.com^
 @@||f.cyberdrop.cc^
@@ -16358,7 +16360,6 @@
 @@||myppt.cc^
 @@||myqcloud.com^
 @@||myqcloud.com^$stealth=referrer,domain=chinadsl.net
-@@||myqqjd.com^
 @@||myqqjd.com^$generichide
 @@||myqrcode.mobi^
 @@||myrnamooney.pro^
@@ -16805,6 +16806,7 @@
 @@||noteworthy.medium.com^
 @@||notice.game.xiaomi.com^
 @@||notice.line.me^
+@@||notice.samsungcloudsolution.com^
 @@||notice.xbox.com^
 @@||notice2.line.me^
 @@||noticecdn.samsungcloudsolution.com^
@@ -21790,7 +21792,6 @@
 @@||static.parsely.com/p.js$domain=nfl.com
 @@||static.parsely.com^$script,domain=dailystar.co.uk|express.co.uk|nydailynews.com
 @@||static.pcgamingwiki.com^
-@@||static.pd.biv.sony.tv^
 @@||static.pddpic.com^
 @@||static.redtube.com/mobi/images/$domain=redtube.com|redtube.net
 @@||static.returnpath.net^
@@ -27374,7 +27375,6 @@
 @@||zero.wikipedia.com^
 @@||zerohedge.com^
 @@||zeroshort.xyz^
-@@||zerossl.ocsp.sectigo.com360.cn^
 @@||zertalious.xyz^$generichide
 @@||zeurl.net^
 @@||zeus4d.mom^
