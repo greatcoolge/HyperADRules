@@ -1795,7 +1795,6 @@
 @@||bc.vc^
 @@||bcbits.com^
 @@||bce.baidu.com^
-@@||bce.baidu.comsony.tv^
 @@||bcedns.com^
 @@||bcedns.net^
 @@||bcee.lu^
@@ -6000,7 +5999,6 @@
 @@||livewebbs2.msstatic.com^
 @@||lix.in^
 @@||llll.im^
-@@||llnwd.net^
 @@||lm.facebook.com^
 @@||lm.licenses.adobe.com^
 @@||lm04.cafe.naver.com^
@@ -9025,6 +9023,7 @@
 @@||static.ow.ly^
 @@||static.parastorage.com^
 @@||static.pcgamingwiki.com^
+@@||static.pd.biv.sony.tv^
 @@||static.returnpath.net^
 @@||static.seedr.cc^
 @@||static.sh.st^
