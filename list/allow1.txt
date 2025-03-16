@@ -1795,6 +1795,7 @@
 @@||bc.vc^
 @@||bcbits.com^
 @@||bce.baidu.com^
+@@||bce.baidu.com.com^
 @@||bcedns.com^
 @@||bcedns.net^
 @@||bcee.lu^
@@ -2378,7 +2379,6 @@
 @@||cdn.mplxtms.com^
 @@||cdn.mwbsys.com^
 @@||cdn.mxpnl.com^
-@@||cdn.naver.com^
 @@||cdn.onenote.net^
 @@||cdn.onesignal.com^
 @@||cdn.opinionlab.com^
@@ -2692,6 +2692,8 @@
 @@||client-uc.heytapmobi.com^
 @@||client.dropbox.com^
 @@||client.hip.live.com^
+@@||client.px-cdn.net^
+@@||client.px-cloud.net^
 @@||client.reactrjs.com^
 @@||client.teamviewer.com^
 @@||client.update.sandai.net^
@@ -8777,6 +8779,7 @@
 @@||sony.fr^
 @@||sony.jp^
 @@||sony.net^
+@@||sony.tv^
 @@||sonyericsson2.accu-weather.com^
 @@||sonymobile.com^
 @@||sonynetworkentertain.tt.omtrdc.net^
@@ -9024,7 +9027,7 @@
 @@||static.ow.ly^
 @@||static.parastorage.com^
 @@||static.pcgamingwiki.com^
-@@||static.pd.biv.sony.tv^
+@@||static.pd.biv.360.cn^
 @@||static.returnpath.net^
 @@||static.seedr.cc^
 @@||static.sh.st^
