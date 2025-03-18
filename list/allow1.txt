@@ -1944,6 +1944,7 @@
 @@||blog-at.line.me^
 @@||blog-cdn.feedspot.com^
 @@||blog-cdn2.feedspot.com^
+@@||blog-cms.line.me^
 @@||blog.appsumo.com^
 @@||blog.bit.ly^
 @@||blog.bitfinex.com^
@@ -11981,7 +11982,6 @@
 @@||zero.facebook.com^
 @@||zero.wikipedia.com^
 @@||zerohedge.com^
-@@||zerossl.ocsp.sectigo.comog-cms.line.me^
 @@||zeustracker.abuse.ch^
 @@||zh-cn.about.flipboard.com^
 @@||zh-hk.about.flipboard.com^
