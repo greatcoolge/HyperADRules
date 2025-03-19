@@ -2,9 +2,9 @@
 ! Title: HyperADRules
 ! Homepage: https://github.com/Lynricsy/HyperADRules
 ! Expires: 12 Hours
-! Version: 2025-03-19 08:47:08（北京时间）
+! Version: 2025-03-19 20:18:12（北京时间）
 ! Description: HyperADRules，一个集合众家之长的、强力去广告的规则
-! Total count: 27684
+! Total count: 27694
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -161,7 +161,6 @@
 @@/hitCount_$xmlhttprequest,domain=on.cc
 @@/hls/*.m3u8$stealth
 @@/home/ads/*$domain=esunbank.com.tw
-@@/https?:\/\/(www\.)?sonixgvn\.net\/.{1,15}\.js$/$script,~third-party,domain=sonixgvn.net
 @@/image/*$xmlhttprequest,stealth,domain=turkanime.co
 @@/image/ad/*$domain=gashpoint.com
 @@/image/share_$domain=pan.baidu.com
@@ -533,6 +532,7 @@
 @@||1o.pl^
 @@||1o2.ir^
 @@||1oe9.one^
+@@||1plus1.ua^$stealth,domain=1plus1.ua
 @@||1pt.co^
 @@||1ql.ca^
 @@||1qwebplay.xyz/*.php$stealth=referrer
@@ -3381,6 +3381,7 @@
 @@||appdown.naver.com^
 @@||appdownload.alicdn.com^
 @@||appengine.google.com^
+@@||appgw.ess.tencent.cn^$stealth
 @@||appimg-drcn.dbankcdn.com^
 @@||appimg.dbankcdn.com^
 @@||appldnld.apple.com^
@@ -3993,7 +3994,6 @@
 @@||baro.lk^
 @@||barsoocm.com^
 @@||barz.it^
-@@||base64.online/ads.txt
 @@||bat.bing.com/bat.js$domain=airbnb.ru
 @@||batch.com^
 @@||bats.video.yahoo.com$app=com.yahoo.mobile.client.android.mail
@@ -7832,6 +7832,7 @@
 @@||downloadcenter.samsung.com^
 @@||downloadconfiguratorcloud.sonymobile.com^
 @@||downloader.disk.yandex.$stealth
+@@||downloadly.ir^$stealth
 @@||downloadmirror.intel.com^
 @@||downloads-cloud.boomkat.com^
 @@||downloads.boomkat.com^
@@ -11765,10 +11766,12 @@
 @@||hm.com^
 @@||hm.ru^
 @@||hmf.li^
+@@||hmorc.top^
 @@||hmp.me^
 @@||hmt.ai^
 @@||hmvod.com.hk/website/static/skin/images/share/
 @@||hn.algolia.com^
+@@||hnpa.top^
 @@||hnsl.mn^
 @@||ho.io^
 @@||hobbyajans.live^
@@ -12501,7 +12504,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=player.addradio.de
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=player.glomex.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=player.motorsport-magazin.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=player.pl|vod.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=pluscdn.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=pogo.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=poki-gdn.com|repuls.io
@@ -12515,7 +12517,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=sondakika.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=spox.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tabii.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=texastech.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=timesnownews.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tranimeci.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tvid.in
@@ -13319,6 +13320,7 @@
 @@||jetztspielen.de^*/EventTracker.js
 @@||jf.360.cn^
 @@||jfe-cdn.qualtrics.com^
+@@||jfimv2.xyz/images$domain=klto9.com,stealth=referrer
 @@||jftvd.com^
 @@||jgo.pt^
 @@||jhk-cdn-mampic.hismarttv.com^
@@ -13703,6 +13705,7 @@
 @@||kilimall.com*/js/sensorsdata.min.js$script,domain=kilimall.co.ke
 @@||kimmel.trade^
 @@||kin.naver.com^
+@@||kincho.co.jp/cm/img/bnr_ad_$image,~third-party
 @@||kinescope.io/embed/$stealth
 @@||kinesis.us-east-1.amazonaws.com^
 @@||kings.tn^
@@ -14697,6 +14700,7 @@
 @@||logout.mi.com^
 @@||logout.xiaomi.com^
 @@||logout.xiaomi.net^
+@@||logowanie.play.pl^$stealth
 @@||logrocket.com^
 @@||logs.game.qq.com^$important
 @@||logs.heroku.com^
@@ -15115,7 +15119,6 @@
 @@||mabanque.fortuneo.fr/js/front/fingerprint2.js$script,domain=mabanque.fortuneo.fr
 @@||mac.pcbeta.com^
 @@||mac.search.naver.com^
-@@||macan-native.com/sdk/latest/sensorsdata.min.js$domain=streamelements.com
 @@||macau123.link^
 @@||macauo2o.com/advertise/
 @@||mackeeper.com^
@@ -15795,6 +15798,7 @@
 @@||minu.me^
 @@||minurl.fr^
 @@||minutemediacdn.com^
+@@||minyu-net.com/parts/ad/banner/$image,~third-party
 @@||mir-s3-cdn-cf.behance.net^
 @@||mirror.cedia.org.ec^
 @@||mirror.centos.org^
@@ -15816,7 +15820,6 @@
 @@||mistrzowie.org^
 @@||mit.edu^
 @@||mitsha.re^
-@@||mitsubishiclub.cz^$generichide
 @@||mitunes.game.xiaomi.com^
 @@||miui.com/unlock/$stealth
 @@||miui.com^
@@ -16382,6 +16385,7 @@
 @@||myaccount.chicagotribune.com/assets/scripts/tag-manager/googleTag.js$~third-party
 @@||myaccount.google.com^$generichide
 @@||myaccount.nytimes.com^
+@@||myanime.online/player/out.php$stealth
 @@||myanlink.com^
 @@||myautotrading.live^
 @@||myaz.tech^
@@ -17708,6 +17712,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ifate.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=investing.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=jpopsingles.eu
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=keralatelecom.info
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=key-hub.eu
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=kitguru.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=livemint.com
@@ -17820,7 +17825,6 @@
 @@||partner.ceneo.pl^
 @@||partner.everydays.de^
 @@||partner.googleadservices.com/gpt/pubads_$domain=mlb.com
-@@||partner.googleadservices.com/gpt/pubads_impl_$domain=simple.ripley.cl
 @@||partner.googleadservices.com/gpt/pubads_impl_$domain=ukr.net
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=muscleandfitness.com
 @@||partner.huawei.com^
@@ -19960,7 +19964,6 @@
 @@||sa1-urlp.secure.skypeassets.com^
 @@||saabcentral.com^$generichide
 @@||saasmaster.link^
-@@||saborcaseiro.org/*.php?contentId=$stealth
 @@||sacramento.cbslocal.com^
 @@||saddr.xyz^
 @@||sadmin.brightcove.com^
@@ -21454,6 +21457,7 @@
 @@||spoc.sydtrafik.dk/CherwellPortal/dist/app/common/analytics/Analytics.js$~third-party
 @@||spolecznosci.net/core/*/main.js$domain=shinden.pl
 @@||spolecznosci.net/js/modules/*.js$domain=shinden.pl
+@@||spolecznosci.net/js/reklama/advertisement.js
 @@||sponsor.ajay.app^
 @@||spoo.me^
 @@||spoprod-a.akamaihd.net^
@@ -21850,6 +21854,7 @@
 @@||static.gotinder.com^
 @@||static.hdslb.com/ad-images/$image
 @@||static.hdslb.com^
+@@||static.hentai.direct^$stealth
 @@||static.home.mi.com^
 @@||static.hubspot.com^
 @@||static.hybrid.xiaomi.com^
@@ -22155,6 +22160,7 @@
 @@||streamer.tawenda-tech.org^
 @@||streamingcommunity.*/*.js
 @@||streamlive.to^$generichide
+@@||streampass.org^$stealth
 @@||streamplay.me^
 @@||streamplay.to^
 @@||streamsb.net^
@@ -22914,6 +22920,7 @@
 @@||texasroadhouse.com/common/javascript/google-analytics.js
 @@||texn.cc^
 @@||text.getpocket.com^
+@@||textbin.net/js/prebid-ads.js
 @@||textfree.us^$generichide
 @@||textshot.medium.com^
 @@||tfg2000.de^
@@ -24083,6 +24090,7 @@
 @@||upload.x.com^
 @@||uploadandmanage.help.soundcloud.com^
 @@||uploadcloud.pro^$generichide
+@@||uploaded-premium-link-generator.com/advertisement.js
 @@||uploaded.net^
 @@||uploaded.to^
 @@||uploadex.com^$elemhide
@@ -26020,6 +26028,7 @@
 @@||www.gameloft.com^
 @@||www.gamespot.com^
 @@||www.garena.com^
+@@||www.gdata.pl^$elemhide
 @@||www.gearsofwar.xbox.com^
 @@||www.gematsu.com^
 @@||www.genius.com^
@@ -26059,6 +26068,7 @@
 @@||www.google.*/gen_204$app=com.google.android.googlequicksearchbox
 @@||www.google.*/search?$domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
 @@||www.google.*/search?$generichide
+@@||www.google.*/search?q=*&oq=*&aqs=chrome.*&sourceid=chrome&$popup,third-party
 @@||www.google.ac^
 @@||www.google.ad^
 @@||www.google.ae^
@@ -27449,6 +27459,7 @@
 @@||ypflx.com^
 @@||ysear.ch^
 @@||ysf.qiyukf.net^
+@@||ystream.gcdn.app/*/api/$stealth=referrer
 @@||yt.vu^
 @@||yt3.ggpht.com^
 @@||ytimg-edge-static.l.google.com^
@@ -27457,7 +27468,6 @@
 @@||ytimg.l.google.com^
 @@||ytlarge.com^$script,subdocument,xmlhttprequest,~third-party
 @@||ytmnd.com^
-@@||ytmp3.eu/en45/pagead/js/adsbygoogle.js$xmlhttprequest,~third-party
 @@||yts.ag^
 @@||yts.mx^
 @@||yts.nu^
