@@ -1795,6 +1795,7 @@
 @@||bc.vc^
 @@||bcbits.com^
 @@||bce.baidu.com^
+@@||bce.baidu.comyahoo.com^
 @@||bcedns.com^
 @@||bcedns.net^
 @@||bcee.lu^
@@ -6929,7 +6930,6 @@
 @@||news.vuukle.com^
 @@||news.wko.at^
 @@||news.xbox.com^
-@@||news.yahoo.com^
 @@||news.ycombinator.com^
 @@||newsapi.com.au^
 @@||newscdn.com.au^
