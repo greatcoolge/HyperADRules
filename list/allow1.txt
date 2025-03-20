@@ -877,7 +877,6 @@
 @@||amazon.ph^
 @@||amazon.photo^
 @@||amazon.photography^
-@@||amazon.photos^
 @@||amazon.physio^
 @@||amazon.pics^
 @@||amazon.pictures^
@@ -1073,7 +1072,7 @@
 @@||amp.usatoday.com^
 @@||amped.co.uk^
 @@||amplitude.com^
-@@||amzn.com^
+@@||amzn.car.com^
 @@||amzn.to^
 @@||ana.fr^
 @@||analytics.agoda.com^
@@ -1795,7 +1794,7 @@
 @@||bc.vc^
 @@||bcbits.com^
 @@||bce.baidu.com^
-@@||bce.baidu.comyahoo.com^
+@@||bce.baidu.com360.cn^
 @@||bcedns.com^
 @@||bcedns.net^
 @@||bcee.lu^
@@ -3557,6 +3556,7 @@
 @@||e16973.a.akamaiedge.net^
 @@||e2561.b.akamaiedge.net^
 @@||e2e.ign.com^
+@@||e3489.cd.akamabcdn.net^
 @@||e3489.cd.akamaiedge.net^
 @@||e4478.a.akamaiedge.net^
 @@||e5298.g.akamaiedge.net^
@@ -6424,6 +6424,7 @@
 @@||maxmind.com^
 @@||maxthon.com^
 @@||mayoclinic.org^
+@@||mazon.photos^
 @@||mazu.sec.miui.com^
 @@||mbest.aliexpress.com^
 @@||mbl.is^
@@ -6930,6 +6931,7 @@
 @@||news.vuukle.com^
 @@||news.wko.at^
 @@||news.xbox.com^
+@@||news.yahoo.com^
 @@||news.ycombinator.com^
 @@||newsapi.com.au^
 @@||newscdn.com.au^
@@ -8360,6 +8362,7 @@
 @@||scontent.cdninstagram.com^
 @@||scontent.fgdl5-1.fna.fbcdn.net^
 @@||scontent.xx.fbcdn.net^
+@@||scontent.xx.fn.edgesuite.net^
 @@||scoop.sh^
 @@||scorito.com^
 @@||screenshots.firefox.com^
