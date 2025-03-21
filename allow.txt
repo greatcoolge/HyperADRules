@@ -2,9 +2,9 @@
 ! Title: HyperADRules
 ! Homepage: https://github.com/Lynricsy/HyperADRules
 ! Expires: 12 Hours
-! Version: 2025-03-20 20:18:43（北京时间）
+! Version: 2025-03-21 08:47:36（北京时间）
 ! Description: HyperADRules，一个集合众家之长的、强力去广告的规则
-! Total count: 27710
+! Total count: 27720
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -2368,7 +2368,6 @@
 @@||amazon.ph^
 @@||amazon.photo^
 @@||amazon.photography^
-@@||amazon.photos^
 @@||amazon.physio^
 @@||amazon.pics^
 @@||amazon.pictures^
@@ -2593,6 +2592,7 @@
 @@||ams.cdn.arkadiumhosted.com/assets/*/advertisements.js
 @@||ams.cdn.arkadiumhosted.com/assets/*/display-ads-f.js
 @@||amz.run^
+@@||amzn.car.com^
 @@||amzn.com^
 @@||amzn.pw^
 @@||amzn.to^
@@ -3240,6 +3240,7 @@
 @@||apicache.vudu.com^
 @@||apigw.coles.com.au^
 @@||apihub.daum.net^
+@@||apim.canadiantire.ca^$stealth=referrer
 @@||apimobile.lifelog.sonymobile.com^
 @@||apis.daum.net^
 @@||apis.google.com
@@ -4049,8 +4050,8 @@
 @@||bcair.sbs^
 @@||bcbits.com^
 @@||bcbsks.com^$stealth=dpi
+@@||bce.baidu.com360.cn^
 @@||bce.baidu.com^
-@@||bce.baidu.comyahoo.com^
 @@||bcebos.com/static/translation/widget/translate/output/AdBanner/AdBanner.js
 @@||bcebos.com^$script,domain=biququ.info|jingwubook.com
 @@||bcedns.com^
@@ -4235,6 +4236,7 @@
 @@||bigspeeds.com/ajax/advertisement.js
 @@||bigthink.com^
 @@||bigw.com.au^
+@@||bigwon-*.aliyuncs.com/product-pic/$image,stealth=referrer
 @@||bigzipfiles.facebook.com^
 @@||biibly.com^
 @@||bikeforums.net/clientscript/vbulletin_analytics.js
@@ -6261,6 +6263,7 @@
 @@||cloudfront.net^$domain=postype.com,stealth,image
 @@||cloudfront.net^$stealth=referrer,domain=openrec.tv
 @@||cloudfront.net^*/jquery.google-analytics.js$domain=homepath.com
+@@||cloudimg.io/*/analytics.$script,domain=michelinman.com
 @@||cloudinary.com/perimeterx/$image,domain=perimeterx.com
 @@||cloudinary.com^
 @@||cloudlettings.live^
@@ -8060,6 +8063,7 @@
 @@||e2561.b.akamaiedge.net^
 @@||e2e.ign.com^
 @@||e2share.in^
+@@||e3489.cd.akamabcdn.net^
 @@||e3489.cd.akamaiedge.net^
 @@||e37.eu^
 @@||e4478.a.akamaiedge.net^
@@ -12019,6 +12023,7 @@
 @@||i.airtel.in^
 @@||i.alicdn.com^
 @@||i.alipayobjects.com^
+@@||i.cdn.turner.com/ads/adfuel/$domain=bleacherreport.com
 @@||i.cdn.turner.com/ads/adfuel/ais/*/tbs-ais.min.js$domain=tbs.com
 @@||i.cdn.turner.com/ads/adfuel/ais/tcm-ais.js$domain=tcm.com
 @@||i.cdn.turner.com^
@@ -12942,6 +12947,7 @@
 @@||inoreader.com^$genericblock,generichide
 @@||inoti.naver.com^
 @@||inpad.com.tw/data/adv/
+@@||inporn.com/*/embed.js$script,~third-party
 @@||inporn.com^
 @@||inpref.com/frosmo.xdm.html?
 @@||inpref.com/messageApi?
@@ -15384,6 +15390,7 @@
 @@||mayaediciones.com^
 @@||mayocl.in^
 @@||mayoclinic.org^
+@@||mazon.photos^
 @@||mazu.sec.miui.com^
 @@||mb-mods.net^
 @@||mb.yidianzixun.com^$important
@@ -16708,6 +16715,7 @@
 @@||news.vuukle.com^
 @@||news.wko.at^
 @@||news.xbox.com^
+@@||news.yahoo.com^
 @@||news.ycombinator.com^
 @@||newsapi.com.au^
 @@||newscdn.com.au^
@@ -17701,7 +17709,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=apkmirror.com,stealth
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=as-selection.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=axilesoft.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=blog.6ziz.com|docsmall.com|uiadmin.net|4horlover.com|23qb.net|4spaces.org|aboluowang.com|assbbs.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|fsbot.xyz|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|mens1069.com|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=blogs.sapib.ca
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=breatheheavy.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=chromeactions.com
@@ -17753,6 +17760,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=vladan.fr
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=vorsprung-online.de
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=wgod.co
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=yeeach.com|blog.6ziz.com|docsmall.com|uiadmin.net|4horlover.com|23qb.net|4spaces.org|aboluowang.com|assbbs.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|fsbot.xyz|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|mens1069.com|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=zefoy.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=app.axenthost.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=b2bhint.com
@@ -20174,6 +20182,7 @@
 @@||scontent.fgdl5-1.fna.fbcdn.net^
 @@||scontent.xx.fbcdn.net/hads-ak-prn2/*.png$domain=facebook.com|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
 @@||scontent.xx.fbcdn.net^
+@@||scontent.xx.fn.edgesuite.net^
 @@||scoop.sh^
 @@||scorecardresearch.com$domain=bt.com
 @@||scorecardresearch.com/*/streamingtag_plugin_jwplayer.js$domain=telemundopr.com
@@ -27356,6 +27365,7 @@
 @@||yeah.163.com^
 @@||yeca.eu^
 @@||yect.com^
+@@||yeeach.com^$generichide
 @@||yellowbridge.com^$generichide
 @@||yelp.com^
 @@||yelp.to^
