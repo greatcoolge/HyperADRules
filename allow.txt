@@ -2,7 +2,7 @@
 ! Title: HyperADRules
 ! Homepage: https://github.com/Lynricsy/HyperADRules
 ! Expires: 12 Hours
-! Version: 2025-03-21 20:17:54（北京时间）
+! Version: 2025-03-22 08:45:29（北京时间）
 ! Description: HyperADRules，一个集合众家之长的、强力去广告的规则
 ! Total count: 27725
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
@@ -1551,6 +1551,7 @@
 @@||ads.alafish.cn^$~third-party
 @@||ads.atmosphere.copernicus.eu^
 @@||ads.atmosphere.copernicus.eu^$popup
+@@||ads.burdadigital.cz/sites/default/files/public/burda_ads/prod/dist/$domain=g.cz|lifee.cz|nkz.cz|svetzeny.cz
 @@||ads.cdn.tvb.com^
 @@||ads.cdn.tvb.com^*.key
 @@||ads.console.aliyun.com^
@@ -2366,6 +2367,7 @@
 @@||amazon.ph^
 @@||amazon.photo^
 @@||amazon.photography^
+@@||amazon.photos^
 @@||amazon.physio^
 @@||amazon.pics^
 @@||amazon.pictures^
@@ -2590,7 +2592,6 @@
 @@||ams.cdn.arkadiumhosted.com/assets/*/advertisements.js
 @@||ams.cdn.arkadiumhosted.com/assets/*/display-ads-f.js
 @@||amz.run^
-@@||amzn.car.com^
 @@||amzn.com^
 @@||amzn.pw^
 @@||amzn.to^
@@ -4047,7 +4048,6 @@
 @@||bcair.sbs^
 @@||bcbits.com^
 @@||bcbsks.com^$stealth=dpi
-@@||bce.baidu.com360.cn^
 @@||bce.baidu.com^
 @@||bcebos.com/static/translation/widget/translate/output/AdBanner/AdBanner.js
 @@||bcebos.com^$script,domain=biququ.info|jingwubook.com
@@ -8060,7 +8060,6 @@
 @@||e2561.b.akamaiedge.net^
 @@||e2e.ign.com^
 @@||e2share.in^
-@@||e3489.cd.akamabcdn.net^
 @@||e3489.cd.akamaiedge.net^
 @@||e37.eu^
 @@||e4478.a.akamaiedge.net^
@@ -8931,9 +8930,9 @@
 @@||feentry.zhuanzhuan.com^
 @@||feilusw.com/search.html$genericblock,generichide
 @@||feliz-web.data.tm-awx.com/smile-web.min.js$domain=dailystar.co.uk
-@@||feliz-web.data.tm-awx.com/smile-web.min.js$domain=liverpoolecho.co.uk
+@@||feliz-web.data.tm-awx.com/smile-web.min.js$domain=liverpoolecho.co.uk|mirror.co.uk
 @@||feliz.data.tm-awx.com/smile-web-v2/rootEvent$domain=dailystar.co.uk
-@@||feliz.data.tm-awx.com/smile-web-v2/rootEvent$domain=liverpoolecho.co.uk
+@@||feliz.data.tm-awx.com/smile-web-v2/rootEvent$domain=liverpoolecho.co.uk|mirror.co.uk
 @@||feliz.data.tm-awx.com/smile-web-v2/rootEvent$domain=mirror.co.uk
 @@||female-and-male-in-tech.com^
 @@||fengkongcloud.com/fpv2.js
@@ -15392,7 +15391,6 @@
 @@||mayaediciones.com^
 @@||mayocl.in^
 @@||mayoclinic.org^
-@@||mazon.photos^
 @@||mazu.sec.miui.com^
 @@||mb-mods.net^
 @@||mb.yidianzixun.com^$important
@@ -20181,7 +20179,6 @@
 @@||scontent.fgdl5-1.fna.fbcdn.net^
 @@||scontent.xx.fbcdn.net/hads-ak-prn2/*.png$domain=facebook.com|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
 @@||scontent.xx.fbcdn.net^
-@@||scontent.xx.fn.edgesuite.net^
 @@||scoop.sh^
 @@||scorecardresearch.com$domain=bt.com
 @@||scorecardresearch.com/*/streamingtag_plugin_jwplayer.js$domain=telemundopr.com
@@ -20443,6 +20440,7 @@
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=portmiamiwebcam.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=purepeople.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=sinarharian.com.my
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=sncf-connect.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=softonic.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=telex.hu
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=tractorsupply.com
@@ -25100,6 +25098,7 @@
 @@||web-ads.pulse.weatherbug.net/api/ads/targeting/v*/parameters?$domain=weatherbug.com
 @@||web-client.prod.us-west2.twitch.tv^
 @@||web-cloud-new.foreks.com^$stealth=referrer,domain=akbank.com
+@@||web-cloud-new.foreks.com^$stealth=referrer,domain=prime.tebyatirim.com.tr
 @@||web-development-blog.com^
 @@||web-sdk.urbanairship.com/notify/$script,domain=etoro.com
 @@||web-service.halo.xbox.com^
@@ -27605,6 +27604,7 @@
 @@||zero.wikipedia.com^
 @@||zerohedge.com^
 @@||zeroshort.xyz^
+@@||zerossl.ocsp.sectigo.com1fichier.com^
 @@||zertalious.xyz^$generichide
 @@||zeurl.net^
 @@||zeus4d.mom^
