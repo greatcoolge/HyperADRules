@@ -2,9 +2,9 @@
 ! Title: HyperADRules
 ! Homepage: https://github.com/Lynricsy/HyperADRules
 ! Expires: 12 Hours
-! Version: 2025-03-22 08:45:29（北京时间）
+! Version: 2025-03-22 20:15:43（北京时间）
 ! Description: HyperADRules，一个集合众家之长的、强力去广告的规则
-! Total count: 27725
+! Total count: 27735
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -304,6 +304,7 @@
 @@weather.gov/xml/$document
 @@yandex.*/user-id?$stealth=referrer|searchqueries
 @@|http$script,~third-party,domain=mylink.*|my1ink.*|myl1nk.*|myli3k.*
+@@|http*.php?url=$stealth,domain=nicotv.me
 @@|http*://*.*/*.$image,third-party,domain=a2zupload.com
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 @@|https://$xmlhttprequest,domain=depositfiles.com|depositfiles.org|dfiles.eu|dfiles.ru
@@ -1040,7 +1041,6 @@
 @@||aax-dtb-mobile-geo.amazon-adsystem.amazon.com^
 @@||aax-eu-retail-direct.amazon-adsystem.com^
 @@||aax-eu-retail-direct.dub.amazon.com^
-@@||aax-eu-retail-rtb.amazon.com^
 @@||aax-eu.amazon-adsystem.com/s/yoc^$domain=youronlinechoices.com
 @@||aax-eu.amazon.*^
 @@||aax-eu.amazon.ae^
@@ -1054,12 +1054,14 @@
 @@||aax-eu.amazon.it^
 @@||aax-eu.amazon.nl^
 @@||aax-eu.amazon.sa^
+@@||aax-eu.amazon.se^
 @@||aax-fe-pdx-direct.amazon.com^
 @@||aax-fe-retail-rtb.amazon.com^
 @@||aax-fe.amazon.*^
 @@||aax-fe.amazon.co.jp^
 @@||aax-fe.amazon.com.au^
 @@||aax-fe.amazon.sg^
+@@||aax-ott-sdk.amazon-adsystem.amazon.com^
 @@||aax-ott.amazon-adsystem.amazon.com^
 @@||aax-us-east-retail-direct.amazon.com^
 @@||aax-us-east-retail-direct.iad.amazon.com^
@@ -1362,7 +1364,6 @@
 @@||ad4.on.cc/web/www/delivery/fl.js
 @@||ad4.on.cc/web/www/delivery/spc.php
 @@||ad4.on.cc/web/www/delivery/spcjs.php
-@@||ad4mat.*/cookie^$domain=ad4mat.net|youronlinechoices.com
 @@||ad5.eu^
 @@||ad7.biz^
 @@||ad71.adfarm1.adition.com/lt?nw=$domain=atv.at
@@ -1577,6 +1578,7 @@
 @@||ads.lingxing.com^
 @@||ads.lingxing.com^$~third-party
 @@||ads.listonic.com^
+@@||ads.listonic.com^$popup
 @@||ads.microsoft.com^
 @@||ads.microsoft.com^$generichide
 @@||ads.midwayusa.com^
@@ -1628,6 +1630,7 @@
 @@||adserver.skiresort-service.com/www/delivery/spcjs.php?$script,domain=skiresort.de|skiresort.fr|skiresort.info|skiresort.it|skiresort.nl
 @@||adservice.google.*^
 @@||adservice.google.ca^
+@@||adservice.google.ch^
 @@||adservice.google.co.id^
 @@||adservice.google.co.in^
 @@||adservice.google.co.jp^
@@ -1663,12 +1666,14 @@
 @@||adservice.google.hr^
 @@||adservice.google.ie^
 @@||adservice.google.it^
+@@||adservice.google.lt^
 @@||adservice.google.nl^
 @@||adservice.google.no^
 @@||adservice.google.pl^
 @@||adservice.google.ro^
 @@||adservice.google.ru^
 @@||adservice.google.se^
+@@||adservice.google.sk^
 @@||adservice.google.vg^
 @@||adsforfaucets.com^
 @@||adshnk.com^$generichide
@@ -1686,6 +1691,7 @@
 @@||adsrveys.com/ads-api-v3|$domain=diggysadventure.com
 @@||adst.mp.pl^$domain=mp.pl
 @@||adstats.tencentmusic.com^$important
+@@||adswizz.com/adswizz/js/SynchroClient*.js$script,third-party,domain=jjazz.net
 @@||adswizz.com^$domain=noz.de
 @@||adtech.de/dt/common/DAC.js$domain=ekstrabladet.dk
 @@||adtidy.org^
@@ -2817,6 +2823,7 @@
 @@||api-mobileweb.soundcloud.com^
 @@||api-n0vadp-static.hoyoverse.com^
 @@||api-na1.hubapi.com^
+@@||api-na2.hubapi.com^
 @@||api-na3.hubapi.com^
 @@||api-nyc.soundcloud.com^
 @@||api-partner.spotify.com^
@@ -5925,6 +5932,7 @@
 @@||checkout.vimeo.com^
 @@||checkoutshopper-live.adyen.com/checkoutshopper/*/securedFields.html$stealth
 @@||checkshorturl.com^
+@@||checkz.net^$generichide
 @@||cheftems.com^
 @@||chekc.life^
 @@||chem.sg^
@@ -8044,6 +8052,7 @@
 @@||e.customeriomail.com^
 @@||e.getpocket.com^
 @@||e.huawei.com^
+@@||e.issuu.com^$stealth
 @@||e.lilly^
 @@||e.linkedin.com^
 @@||e.mail.ru^
@@ -8242,6 +8251,7 @@
 @@||ejo.bz^
 @@||ek*.voyage-prive.com^
 @@||ek.tech^
+@@||ek8.voyage-prive.com^
 @@||ekamus.info^$generichide
 @@||el.gravatar.com^
 @@||el.lk^
@@ -8993,7 +9003,6 @@
 @@||file-extensions.org^
 @@||file-igamecj.akamaized.net^
 @@||file-static.com^$stealth,domain=eyny.com
-@@||file-upload.cc^$generichide
 @@||file-upload.net/include/adserver.js
 @@||file-upload.net/include/werbebanner-ad.js
 @@||file.40017.cn^
@@ -9115,7 +9124,6 @@
 @@||flextrig.com^
 @@||flic.kr^
 @@||flickerlink.com^
-@@||flickr.com/signin/$stealth
 @@||flickr.com^
 @@||flightradar24.com^$stealth=dpi
 @@||flip.it^
@@ -9720,7 +9728,6 @@
 @@||geo.paypalobjects.com.akadns.net^
 @@||geo.query.yahoo.com^$xmlhttprequest,domain=tw.autos.yahoo.com|tw.buy.yahoo.com
 @@||geo.settings.data.microsoft.com.akadns.net^
-@@||geo01.dns.presslabs.net^
 @@||geo02.dns.presslabs.net^
 @@||geo1.presslabs.net^
 @@||geo2.adobe.com^
@@ -9785,7 +9792,6 @@
 @@||getblue.me^
 @@||getbootstrap.com/docs/*/assets/js/vendor/popper.min.js
 @@||getclicky.com/ajax/marketshare?$script
-@@||getcopy.link/js/prebid-ads.js
 @@||getcovidtest.co^
 @@||getf.ly^
 @@||getflywheel.com/addons/google-analytics/$~third-party
@@ -11319,6 +11325,7 @@
 @@||gresham.life^
 @@||greshams.life^
 @@||gri.ms^
+@@||grimoireoss-pa.clients6.google.com/batch?$stealth,domain=cs.android.com
 @@||grk.am^
 @@||grlu.us^
 @@||grm.my^
@@ -12102,7 +12109,6 @@
 @@||iadsdk.apple.com^
 @@||iamcredentials.googleapis.com^
 @@||iapdw.com^
-@@||ias.global.rakuten.com/adv/$script,domain=rakuten.co.jp
 @@||ib.adnxs.com/getuidj|$domain=independent.co.uk
 @@||ib.adnxs.com/ptv$domain=tele5.de
 @@||ib.adnxs.com^$app=se.prisjakt.pricespy
@@ -12460,6 +12466,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gentside.com|gentside.de|gentside.co.uk|gentside.com.br|esgentside.com|maxisciences.com|ohmymag.com|ohmymag.de|ohmymag.com.br|ohmirevista.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=get.x-link.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=globoplay.globo.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gocolumbialions.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gostanford.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=h5.4j.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=haber7.com
@@ -12507,7 +12514,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nydailynews.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=oe24.at
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=olympics.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ottwow.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=oyunkuzusu.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=pikes.io
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=play.joj.sk
@@ -12528,6 +12534,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=sondakika.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=spox.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tabii.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=texastech.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=timesnownews.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tranimeci.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tvid.in
@@ -13767,6 +13774,7 @@
 @@||klck.me^
 @@||klclick*.com^
 @@||klclick.com^
+@@||klclick.dollarshaveclub.com^
 @@||klclick1.com^
 @@||klclick2.com^
 @@||klclick3.com^
@@ -15314,6 +15322,7 @@
 @@||marketing-perf.adobe.com^
 @@||marketing-stage.adobe.com^
 @@||marketing.adobe.com^
+@@||marketing.dropbox.com/?referrer=$stealth
 @@||marketing.etorostatic.com^
 @@||marketing.hostgator.com^
 @@||marketing.net.idealo-partner.com^
@@ -15869,49 +15878,48 @@
 @@||mktcloud.c.huawei.com^
 @@||mkto-*.com^
 @@||mkto-a0095.com^
-@@||mkto-ab020242.com^
 @@||mkto-ab040115.com^
 @@||mkto-ab040147.com^
 @@||mkto-ab060085.com^
-@@||mkto-ab060134.com^
-@@||mkto-ab070017.com^
+@@||mkto-ab060144.com^
 @@||mkto-ab080206.com^
-@@||mkto-ab090057.com^
 @@||mkto-ab110171.com^
 @@||mkto-ab150224.com^
+@@||mkto-ab180008.com^
+@@||mkto-ab180024.com^
 @@||mkto-ab200065.com^
 @@||mkto-ab210094.com^
 @@||mkto-ab210104.com^
 @@||mkto-ab220178.com^
 @@||mkto-ab220193.com^
+@@||mkto-ab240112.com^
 @@||mkto-ab250105.com^
-@@||mkto-ab280126.com^
+@@||mkto-ab270090.com^
+@@||mkto-ab280191.com^
+@@||mkto-ab290022.com^
 @@||mkto-ab300154.com^
 @@||mkto-ab310115.com^
 @@||mkto-ab330197.com^
-@@||mkto-ab340093.com^
-@@||mkto-ab340124.com^
 @@||mkto-ab420081.com^
-@@||mkto-ab460170.com^
+@@||mkto-ab450037.com^
+@@||mkto-ab450191.com^
 @@||mkto-ab470148.com^
+@@||mkto-ab520004.com^
 @@||mkto-ab530057.com^
 @@||mkto-ab540059.com^
-@@||mkto-ab540130.com^
 @@||mkto-ab540186.com^
+@@||mkto-ab550140.com^
 @@||mkto-ab550168.com^
 @@||mkto-ab560068.com^
-@@||mkto-ab560171.com^
-@@||mkto-ab570013.com^
 @@||mkto-ab570110.com^
-@@||mkto-ab570148.com^
 @@||mkto-ab580004.com^
 @@||mkto-ab650097.com^
 @@||mkto-ab660121.com^
-@@||mkto-ab690062.com^
 @@||mkto-ab690180.com^
 @@||mkto-abj0022.com^
 @@||mkto-abm0229.com^
 @@||mkto-cs0007.com^
+@@||mkto-d0064.com^
 @@||mkto-d0097.com^
 @@||mkto-d0170.com^
 @@||mkto-f0054.com^
@@ -15921,7 +15929,6 @@
 @@||mkto-lon030291.com^
 @@||mkto-lon040152.com^
 @@||mkto-lon050200.com^
-@@||mkto-lon060221.com^
 @@||mkto-lon090082.com^
 @@||mkto-lp.mlinc.com^
 @@||mkto-n0199.com^
@@ -15930,28 +15937,29 @@
 @@||mkto-o0153.com^
 @@||mkto-sj010104.com^
 @@||mkto-sj030214.com^
-@@||mkto-sj040136.com^
-@@||mkto-sj040140.com^
 @@||mkto-sj040252.com^
 @@||mkto-sj070214.com^
 @@||mkto-sj070259.com^
 @@||mkto-sj090132.com^
+@@||mkto-sj140007.com^
 @@||mkto-sj140146.com^
 @@||mkto-sj160210.com^
 @@||mkto-sj180011.com^
 @@||mkto-sj190104.com^
 @@||mkto-sj190237.com^
+@@||mkto-sj200192.com^
 @@||mkto-sj230006.com^
 @@||mkto-sj240014.com^
 @@||mkto-sj240021.com^
 @@||mkto-sj250060.com^$domain=go.honeywellhome.com
 @@||mkto-sj270080.com^
 @@||mkto-sj310061.com^
-@@||mkto-sj310186.com^
 @@||mkto-sj320047.com^
 @@||mkto-sj330006.com^
 @@||mkto-sj360142.com^
 @@||mkto-sj370181.com^
+@@||mkto-sj390079.com^
+@@||mkto-sjh0224.com^
 @@||mkto-test.com^
 @@||mkto-trk.cisco.com^
 @@||mktoweb.com^
@@ -17054,6 +17062,7 @@
 @@||nxdr.co^
 @@||nxeassets-ssl.xbox.com^
 @@||nxeassets.xbox.com^
+@@||nxi-cdn.exponea.com^
 @@||nxm.us^
 @@||nxpay.dutchbanglabank.com^
 @@||nxy.in^
@@ -19135,6 +19144,7 @@
 @@||r4---sn-qxo7rn7e.googlevideo.com^$important
 @@||r4.bithumb.com^
 @@||r4gh8tuab.cc.rs6.net^
+@@||r4iqtwrab.cc.rs6.net^
 @@||r4ofs8cab.cc.rs6.net^
 @@||r5---sn-4g5ednsl.googlevideo.com^$important
 @@||r5.bithumb.com^
@@ -19152,7 +19162,6 @@
 @@||radio24.ilsole24ore.com/plugins/cordova-plugin-nielsen/www/nielsen.js$script,~third-party
 @@||radiofrance.targetspot.com^
 @@||radiostacja.pl^
-@@||radiotimes.com/static/advertising/$script,~third-party
 @@||radly.ir^
 @@||rads.stackoverflow.com^
 @@||raenonx.cc^$generichide
@@ -19535,6 +19544,7 @@
 @@||rhtxf.sbs^
 @@||rhub.in^
 @@||rhyiu.sbs^
+@@||ri-cdn.exponea.com^
 @@||ri.ms^
 @@||ric-ul.ru^$stealth=dpi
 @@||rice-v-ave.life^
@@ -19662,7 +19672,6 @@
 @@||rplg.co^
 @@||rptl.io^
 @@||rptrcks.walmart.com^
-@@||rpxfhbhbb.cc.rs6.net^
 @@||rq.fyi^
 @@||rq6agxabb.cc.rs6.net^
 @@||rqnav.com^
@@ -19958,6 +19967,7 @@
 @@||s4.is^
 @@||s4.symcb.com^
 @@||s4w.in^
+@@||s5.exacttarget.com^
 @@||s5.symcb.com^
 @@||s50.exacttarget.com^
 @@||s51.exacttarget.com^
@@ -19965,6 +19975,7 @@
 @@||s7.exacttarget.com^
 @@||s79.research.de.com/bb-mx/prime$domain=joyn.de
 @@||s7y.us^
+@@||s8.exacttarget.com^
 @@||s82i.app.link^
 @@||s88570519.t.en25.com^
 @@||s9.cnzz.com^$app=com.unionpay
@@ -21496,7 +21507,6 @@
 @@||sportshub.to/frames$subdocument,stealth=referrer
 @@||sportsmansguide.com^
 @@||sportsmedia.ign.com^
-@@||sportsnet.ca/wp-content/plugins/bwp-minify/$domain=sportsnet.ca
 @@||spot.im/api/tracker/spot/$domain=russian.rt.com
 @@||spot.im^
 @@||spoti.fi^
@@ -22236,7 +22246,6 @@
 @@||suggestqueries.google.com^
 @@||sugs.m.sm.cn^
 @@||suite*.emarsys.net^
-@@||suite-dashboard.gservice.emarsys.net^
 @@||suite10.emarsys.net^
 @@||suite11.emarsys.net^
 @@||suite16.emarsys.net^
@@ -22253,7 +22262,6 @@
 @@||suite40-cf.emarsys.net^
 @@||suite40.emarsys.net^
 @@||suite45.emarsys.net^
-@@||suite47-cf.emarsys.net^
 @@||suite52.emarsys.net^
 @@||suite54.emarsys.net^
 @@||suite56.emarsys.net^
@@ -23344,7 +23352,6 @@
 @@||tools.naver.com^
 @@||tools.pingdom.com^
 @@||tools.ranker.com^
-@@||tools.services.tvn.pl/_ads/advert.js
 @@||tools.services.tvn.pl/maertsg.js$domain=tvn24.pl
 @@||tools.tracemyip.org^
 @@||tools.usps.com/go/TrackConfirmAction
@@ -24029,6 +24036,7 @@
 @@||unix.com^
 @@||unknown123.live^
 @@||unlc.us^
+@@||unlockapk.com/*ads.js
 @@||unlockbootloader.sonymobile.com^
 @@||unlocker.emptyloop.com^
 @@||unmineable.com^
@@ -24986,6 +24994,7 @@
 @@||wallet.commerce.coinbase.com^
 @@||wallet.ecom.ubi.com^
 @@||wallet.viber.com^
+@@||walletkeyslocker.me^$domain=nolive.me,stealth=referrer
 @@||wallets.my^
 @@||wallhaven.cc^
 @@||wallpaper.cdn.pandora.xiaomi.com^
@@ -25113,6 +25122,7 @@
 @@||web.facebook.com^
 @@||web.getmonero.org^
 @@||web.mit.edu^
+@@||web.np.playstation.com/api^$stealth
 @@||web.pcbeta.com^
 @@||web.skype.com^
 @@||web.snrbox.com/*?tracker=$domain=carrefourpl.snrpage.com
