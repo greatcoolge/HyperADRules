@@ -3342,6 +3342,7 @@
 @@||disqus.com^
 @@||disquscdn.com^
 @@||distribute.adobe.com^
+@@||distributions.crowdin.net^
 @@||dji.com^
 @@||djix.com^
 @@||dl-1.va.us.xda-developers.com^
