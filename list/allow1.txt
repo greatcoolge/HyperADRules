@@ -433,7 +433,7 @@
 @@||ahoo.it^
 @@||ai.ly^
 @@||aicdn.com^
-@@||aider-res.meizu.com^
+@@||aider-res.meizu.co.photo^
 @@||aillis.line.me^
 @@||airdownload.adobe.com^
 @@||airdownload2.adobe.com^
@@ -875,7 +875,6 @@
 @@||amazon.pe^
 @@||amazon.pet^
 @@||amazon.ph^
-@@||amazon.photo^
 @@||amazon.photography^
 @@||amazon.photos^
 @@||amazon.physio^
@@ -982,7 +981,6 @@
 @@||amazon.tc^
 @@||amazon.team^
 @@||amazon.tech^
-@@||amazon.technology^
 @@||amazon.tel^
 @@||amazon.tennis^
 @@||amazon.tf^
@@ -1060,7 +1058,7 @@
 @@||ameblo.jp^
 @@||america.net^
 @@||americas.activation-v2.kaspersky.com^
-@@||aml-gateway.cloud.vimeo.com^
+@@||aml-gateway.cloudlobjects.com^
 @@||amos.alicdn.com^
 @@||amp-api-edge.apps.apple.com^
 @@||amp-api-edge.apps.apple.com.edgekey.net^
@@ -1585,6 +1583,7 @@
 @@||aspmx2.googlemail.com^
 @@||aspmx3.googlemail.com^
 @@||aspnetcdn.com^
+@@||assetlinode.com^
 @@||assets-cdn.github.com^
 @@||assets-jpcust.jwpsrv.com^
 @@||assets.adobedtm.com^
@@ -1795,6 +1794,7 @@
 @@||bc.vc^
 @@||bcbits.com^
 @@||bce.baidu.com^
+@@||bce.baidu.com.vimeo.com^
 @@||bcedns.com^
 @@||bcedns.net^
 @@||bcee.lu^
@@ -1957,6 +1957,7 @@
 @@||blog.csdn.net^
 @@||blog.daum.net^
 @@||blog.de.playstation.com^
+@@||blog.de.playstationgravatar.com^
 @@||blog.diigo.com^
 @@||blog.disqus.com^
 @@||blog.eu.playstation.com^
@@ -3057,6 +3058,7 @@
 @@||cts.businesswire.com^
 @@||cu.ac.bd^
 @@||cubestat.com^
+@@||cupid.iqiyi.com^
 @@||curben.gitlab.io^
 @@||curiosity.com^
 @@||curvesncombatboots.com^
@@ -5931,7 +5933,6 @@
 @@||linksynergy.com^
 @@||linktr.ee^
 @@||linkwi.se^
-@@||linode.com^
 @@||linuxtracker.org^
 @@||list-manage.com^
 @@||list-manage1.com^
@@ -6185,7 +6186,6 @@
 @@||m.gitee.com^
 @@||m.gizmodo.com^
 @@||m.gq.com^
-@@||m.gravatar.com^
 @@||m.hao123.com^
 @@||m.harpercollins.com^
 @@||m.hbo.com^
@@ -6250,6 +6250,7 @@
 @@||m.rapidgator.net^
 @@||m.rediff.com^
 @@||m.reg.ru^
+@@||m.s.vimeo.com^
 @@||m.safelinking.net^
 @@||m.samsung.com^
 @@||m.science.howstuffworks.com^
@@ -6938,8 +6939,8 @@
 @@||newserver.nirsoft.net^
 @@||newsfeed-sync.spot.im^
 @@||newsjizz.in^
+@@||newsle.com^
 @@||newsletterind.huawei.com^
-@@||newsletters.nationalgeographic.com^
 @@||newsletters.vox.com^
 @@||newsmax.com^
 @@||newsroom.fb.com^
@@ -7211,7 +7212,7 @@
 @@||ojrq.net^
 @@||ok.ru^
 @@||okt.to^
-@@||oload.cloud^
+@@||oload.cloua.akamaihd.net^
 @@||oload.tv^
 @@||oloadcdn.net^
 @@||olp.net^
@@ -7451,6 +7452,7 @@
 @@||paypal.com^
 @@||paypal.de^
 @@||paypalobjects.com^
+@@||paypamazon.technology^
 @@||paytmofferlive.wpengine.com^
 @@||pbs.org^
 @@||pbs.twimg.com^
@@ -7976,7 +7978,6 @@
 @@||raygun.io^
 @@||rd.playstation.com^
 @@||rd.samsungadhub.com^
-@@||rdapp.com^
 @@||rdl.ink^
 @@||rds-assets.nvidia.com^
 @@||rdsig.yahoo.co.jp^
@@ -7990,7 +7991,7 @@
 @@||realestate.w.o0bc.com^
 @@||realfarmacy.com^
 @@||realites.com.tn^
-@@||reason.com^
+@@||reasonsclub.com^
 @@||rebrand.ly^
 @@||rebrandly.com^
 @@||rec.voot.com^
@@ -9116,6 +9117,7 @@
 @@||steamcommunity.com^
 @@||steamdb.info^
 @@||steamstore-a.akamaihd.net^
+@@||steamstore-tters.nationalgeographic.com^
 @@||steamusercontent-a.akamaihd.net^
 @@||steamuserimages-a.akamaihd.net^
 @@||stern.de^
@@ -11984,6 +11986,7 @@
 @@||zero.facebook.com^
 @@||zero.wikipedia.com^
 @@||zerohedge.com^
+@@||zerossl.ocsp.sectigo.com.com^
 @@||zeustracker.abuse.ch^
 @@||zh-cn.about.flipboard.com^
 @@||zh-hk.about.flipboard.com^
