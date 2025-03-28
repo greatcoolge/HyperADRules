@@ -2,9 +2,9 @@
 ! Title: HyperADRules
 ! Homepage: https://github.com/Lynricsy/HyperADRules
 ! Expires: 12 Hours
-! Version: 2025-03-28 08:47:27（北京时间）
+! Version: 2025-03-28 20:18:12（北京时间）
 ! Description: HyperADRules，一个集合众家之长的、强力去广告的规则
-! Total count: 27789
+! Total count: 27792
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -39,6 +39,7 @@
 @@.php?id=$script,domain=surirt.com
 @@.php?play_vid=$subdocument,stealth=referrer,domain=xyflv.cc
 @@.png#$domain=3dpchip.com|9zvip.net|club.tgfcer.com|coolinet.com|d1-dm.com|digit77.com|e9china.net|upxin.net
+@@.ru/mylivetv/stream-*.php$stealth=referrer
 @@.ts^$stealth
 @@.xyz/premiumtv/*.php$subdocument,xmlhttprequest,stealth=referrer
 @@/*/*-*/*.png$stealth=referrer,xmlhttprequest,domain=dbx.molystream.org
@@ -133,7 +134,6 @@
 @@/dash?tvid=$stealth,domain=iqiyi.com
 @@/dh-anti-adblocker/assets/js/ads-prebid.js
 @@/dh-anti-adblocker/assets/js/prebid-ads.js
-@@/dh-anti-adblocker/public/js/adex.js
 @@/dh-anti-adblocker/public/js/prebid-ads.js
 @@/dh-new-anti-adblocker-lite/public/js/prebid-ads.js
 @@/embed/*$stealth=referrer,subdocument,domain=tv1337.buzz|lol-foot.ru|flashsports.org|ldcstreaming.info|sportsonline.*|sportstream.website|elixx.xyz|primefoot.ru|lavents.la
@@ -303,7 +303,7 @@
 @@|http*.php?url=$stealth,domain=nicotv.me
 @@|http*://*.*/*.$image,third-party,domain=a2zupload.com
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
-@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org|info.fosterslaw.ca^
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgamap.com^
 @@|https://$xmlhttprequest,domain=depositfiles.com|depositfiles.org|dfiles.eu|dfiles.ru
 @@|ws://*$websocket,domain=flirt4free.com
 @@||*-cf.xvideos-cdn.com^
@@ -1189,7 +1189,6 @@
 @@||accounts.idmapper.api.playstation.com^
 @@||accounts.intuit.com/fe_logger?$~third-party
 @@||accounts.lastpass.com^
-@@||accounts.login.idm.telekom.com^$stealth
 @@||accounts.mobisystems.com^
 @@||accounts.nvgs.nvidia.com^
 @@||accounts.pixiv.net^
@@ -1307,7 +1306,6 @@
 @@||ad.8maple.ru/8ads.gif
 @@||ad.8maple.ru/bilibili.png
 @@||ad.8maple.ru/close.png
-@@||ad.a-ads.com/*?size=320x50$domain=phineypet.com
 @@||ad.abchina.com^
 @@||ad.admitad.com/*/*&ulp=
 @@||ad.admitad.com/*/?ulp=
@@ -1343,7 +1341,6 @@
 @@||ad.jp^
 @@||ad.kazakinfo.com^
 @@||ad.mcloud.139.com^
-@@||ad.nl/ad/
 @@||ad.nl^
 @@||ad.ourgame.com^
 @@||ad.samsungadhub.com^
@@ -1481,6 +1478,7 @@
 @@||adobe-dns-3.adobe.com^
 @@||adobe-dns.adobe.com^
 @@||adobe.com^
+@@||adobe.com^$cookie=/^AMCVS?_.*AdobeOrg/
 @@||adobe.io^$domain=adobe.com,stealth=3p-auth
 @@||adobe.ly^
 @@||adobe.tt.omtrdc.net/rest/v1/delivery?client=adobe&sessionId=$domain=acrobat.adobe.com
@@ -1991,6 +1989,7 @@
 @@||amazon-adsystem.com/widgets/q?$image,third-party
 @@||amazon-adsystem.com^$domain=weather.com
 @@||amazon.*/*/dp$stealth
+@@||amazon.*/*autoplay$stealth
 @@||amazon.*/gp/r.html?
 @@||amazon.*/s?*&ref=*&tag=
 @@||amazon.ac^
@@ -3196,7 +3195,6 @@
 @@||api.viafoura.co^
 @@||api.viafoura.com^
 @@||api.viber.com^
-@@||api.viddler.com/api/v*/viddler.videos.getPlaybackDetails.json$stealth
 @@||api.video.xiaomi.com^$important
 @@||api.videoder.net^
 @@||api.videos.oovvuu.com^
@@ -4136,6 +4134,7 @@
 @@||benefitcosmetics.com^
 @@||benelph.de^$app=de.spiegel.android.app.spon
 @@||benes.se^
+@@||benheim.co.kr^$stealth=dpi
 @@||benqurl.biz^
 @@||benswann.com/decor/javascript/magnify_stats.js?
 @@||bento.agoda.com^
@@ -4170,6 +4169,7 @@
 @@||beta.skypeassets.com^
 @@||beta.software.eu.playstation.com^
 @@||beta.speedtest.net/api/
+@@||beta.speedtest.net/dist/
 @@||beta.spotify.map.fastly.net^
 @@||beta.techcrunch.com^
 @@||beta.twitch.tv^
@@ -4180,7 +4180,6 @@
 @@||beteshis.com^
 @@||beth.games^
 @@||bethesda.net^
-@@||betterads.org/hubfs/$image,~third-party
 @@||bettycrocker.com/Shared/Javascript/UnicaTag.js
 @@||bettycrocker.com/Shared/Javascript/ntpagetag.js
 @@||beurl.app^
@@ -5103,6 +5102,7 @@
 @@||cbox.ws^
 @@||cbs.com^$generichide
 @@||cbs.so^
+@@||cbsapi.tkgm.gov.tr^$stealth=dpi
 @@||cbshort.com^
 @@||cbsi.map.fastly.net^
 @@||cbsimg.net/js/cbsi/dw.js$domain=cbssports.com
@@ -6451,7 +6451,6 @@
 @@||coinpr.info^
 @@||coinreal-us.com^
 @@||coinurl.com^
-@@||cokcok.stream/play/$stealth=referrer
 @@||coki.me^
 @@||coklat.vip^
 @@||colamanga.com/js/*/load.js
@@ -7221,6 +7220,7 @@
 @@||datasert.gallery.vsassets.io^
 @@||datastore.rediff.com^
 @@||dataurbia.com^
+@@||datavimg.com^$stealth
 @@||datayi.cn^
 @@||datei.to^
 @@||daum.net^
@@ -9452,6 +9452,7 @@
 @@||funurl.com^
 @@||fupi.co.tz^
 @@||fur.ly^
+@@||furher.in/e/$subdocument,stealth
 @@||furl.in^
 @@||fuseplatform.net^*/fuse.js$script,domain=broadsheet.com.au|friendcafe.jp
 @@||fussball.de/fbed/js/xtcore.js
@@ -12443,7 +12444,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=babygames.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=beinsports.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=bestgames.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=cdn.htmlgames.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=cdn.witchhut.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=chili.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ciudad.com.ar
@@ -12522,6 +12522,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nydailynews.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=oe24.at
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=olympics.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=onlinemahjong.games
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=oyunkuzusu.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=pikes.io
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=play.joj.sk
@@ -13088,6 +13089,7 @@
 @@||iota.bitfinex.com^
 @@||ioui.ru^
 @@||ip*.ahcdn.com^
+@@||ip-*.net/*.mp4$stealth,domain=animeonline.site
 @@||ip-adress.com^
 @@||ip-api.com^
 @@||ip-info.ff.avast.com^
@@ -15554,6 +15556,7 @@
 @@||media.org.hk^*/ads_
 @@||media.photobucket.com^
 @@||media.playstation.com^
+@@||media.polsatnews.pl^$generichide
 @@||media.r18.com^
 @@||media.richrelevance.com/rrserver/$domain=askul.co.jp
 @@||media.sailthru.com^$image,domain=link.delish.com|link.ted.com
@@ -17411,6 +17414,7 @@
 @@||onlinebanking.usbank.com/TUX/public/libs/adobe/appmeasurement.js$script,~third-party
 @@||onlineclothes.live^
 @@||onlinekassirjessica.life^
+@@||onlinemahjong.games/api/ima3.js
 @@||onlinemschool.com/script/ads.js
 @@||onlinemschool.com/script/ads1.js
 @@||onlinemschool.com^$generichide
@@ -20062,7 +20066,6 @@
 @@||salud-url2021.es^
 @@||samcart.me^
 @@||samizdat.nytimes.com^
-@@||sammyboy.com/threads/*advertisement$xmlhttprequest
 @@||sample-app.fluf.dev^
 @@||samplette.io^$stealth=push
 @@||sampleweb-preview.xbox.com^
@@ -23398,6 +23401,7 @@
 @@||tools.tracemyip.org^
 @@||tools.usps.com/go/TrackConfirmAction
 @@||toolsforworkingwood.com/blogimg/
+@@||toolsincloud.com/assets/js/prebid-ads.js
 @@||toolssagar.com^
 @@||toonily.com^
 @@||toonily.me^
@@ -23773,7 +23777,6 @@
 @@||tv.adobe.com^
 @@||tv.app.migc.xiaomi.com^
 @@||tv.breitbart.com^
-@@||tv.kakao.com^$stealth
 @@||tv.line.me^
 @@||tv.media.jio.com^
 @@||tv.naver.com^
