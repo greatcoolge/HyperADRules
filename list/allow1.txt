@@ -2374,6 +2374,7 @@
 @@||cdn.mbl.is^
 @@||cdn.medium.com^
 @@||cdn.mountainduck.io^
+@@||cdn.mozilla.net^
 @@||cdn.mplxtms.com^
 @@||cdn.mwbsys.com^
 @@||cdn.mxpnl.com^
@@ -2925,7 +2926,7 @@
 @@||content.jwplatform.com^
 @@||content.logmein.com^
 @@||content.oneplus.com^
-@@||content.production.cdn.com^
+@@||content.production.cdn.art19.com^
 @@||content.samsung.com^
 @@||content.samsung.com.edgesuite.net^
 @@||content.sketch.sonymobile.com^
@@ -3104,6 +3105,7 @@
 @@||d2c8v52ll5s99u.cloudfront.net^
 @@||d2cmedia.ca^
 @@||d2gatte9o95jao.cloudfront.net^
+@@||d2wy8f7a9ursnm.cloudfront.net^
 @@||d31qbv1cthcecs.cloudfront.net^
 @@||d3aqoihi2n8ty8.cloudfront.net^
 @@||d3rt1990lpmkn.cloudfront.net^
@@ -3292,7 +3294,6 @@
 @@||dgit.com^
 @@||di.com.pl^
 @@||di.phncdn.com^
-@@||dia.com^
 @@||dialin.qualcomm.com^
 @@||dialog.filepicker.io^
 @@||dic.daum.net^
@@ -3518,6 +3519,7 @@
 @@||du1gtm004.adobe.com^
 @@||dualstack.brightcove.map.fastly.net^
 @@||duck.co^
+@@||duckdns.org^
 @@||duckduckgo.com^
 @@||dui88.com^
 @@||duiba.com.cn^
@@ -3755,7 +3757,6 @@
 @@||es-mx.twitch.tv^
 @@||es.about.flipboard.com^
 @@||es.aliexpress.com^
-@@||es.aliexpress.ozilla.net^
 @@||es.blog.twitch.tv^
 @@||es.digitaltrends.com^
 @@||es.engadget.com^
@@ -3772,6 +3773,7 @@
 @@||esquire.com^
 @@||estore.sonymobile.com^
 @@||estream.to^
+@@||etahub.com^
 @@||etao.com^
 @@||etf.com^
 @@||ethermine.org^
@@ -5142,7 +5144,6 @@
 @@||id.google.com^
 @@||id.google.com.au^
 @@||id.gravatar.com^
-@@||id.m.wikipedart19.com^
 @@||id.m.wikipedia.com^
 @@||id.sonyentertainmentnetwork.com^
 @@||id.twitch.tv^
@@ -6807,7 +6808,7 @@
 @@||mybbc.files.bbci.co.uk^
 @@||mycrypto.com^
 @@||mydealz.digidip.net^
-@@||myer.com.2wy8f7a9ursnm.cloudfront.net^
+@@||myer.com.au^
 @@||myfico.com^
 @@||myfonts.net^
 @@||myfox8.com^
@@ -11983,7 +11984,6 @@
 @@||zero.facebook.com^
 @@||zero.wikipedia.com^
 @@||zerohedge.com^
-@@||zerossl.ocsp.sectigo.com^
 @@||zeustracker.abuse.ch^
 @@||zh-cn.about.flipboard.com^
 @@||zh-hk.about.flipboard.com^
