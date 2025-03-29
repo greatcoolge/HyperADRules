@@ -2,9 +2,9 @@
 ! Title: HyperADRules
 ! Homepage: https://github.com/Lynricsy/HyperADRules
 ! Expires: 12 Hours
-! Version: 2025-03-28 20:18:12（北京时间）
+! Version: 2025-03-29 08:47:02（北京时间）
 ! Description: HyperADRules，一个集合众家之长的、强力去广告的规则
-! Total count: 27792
+! Total count: 27794
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -303,7 +303,6 @@
 @@|http*.php?url=$stealth,domain=nicotv.me
 @@|http*://*.*/*.$image,third-party,domain=a2zupload.com
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
-@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgamap.com^
 @@|https://$xmlhttprequest,domain=depositfiles.com|depositfiles.org|dfiles.eu|dfiles.ru
 @@|ws://*$websocket,domain=flirt4free.com
 @@||*-cf.xvideos-cdn.com^
@@ -3603,6 +3602,7 @@
 @@||assets.macys.com/dyn_img/site_ads/
 @@||assets.minutemediacdn.com^
 @@||assets.msn.cn^
+@@||assets.msn.com/resolver/api/resolve/v3/config/?expType=AppConfig&expInstance=default&apptype=finance&$domain=msn.com
 @@||assets.msn.com/staticsb/statics/latest/adboxes/$script,~third-party
 @@||assets.msn.com^
 @@||assets.nflxext.com^
@@ -5429,6 +5429,7 @@
 @@||cdn.medium.com^
 @@||cdn.megadata.co.kr/dist/prod/enp_tracker_self_hosted.min.js$domain=hancomdocs.com
 @@||cdn.mountainduck.io^
+@@||cdn.mozilla.net^
 @@||cdn.mplxtms.com^
 @@||cdn.mwbsys.com^
 @@||cdn.mxpnl.com/libs/$script,domain=get.pumpkin.care
@@ -6662,7 +6663,7 @@
 @@||content.logmein.com^
 @@||content.newegg.com$document
 @@||content.oneplus.com^
-@@||content.production.cdn.com^
+@@||content.production.cdn.art19.com^
 @@||content.s8bbs.com/ad/bbs/*.jpg
 @@||content.samsung.com.edgesuite.net^
 @@||content.samsung.com^
@@ -7105,6 +7106,7 @@
 @@||d2kv6n94eruxg9.cloudfront.net/Prebid_$domain=portmiamiwebcam.com
 @@||d2ma0sm7bfpafd.cloudfront.net/wcsstore/waitrosedirectstorefrontassetstore/custom/js/analyticseventtracking/$script,domain=waitrosecellar.com
 @@||d2wy8f7a9ursnm.cloudfront.net/v8/bugsnag.min.js$script,domain=forecastapp.com
+@@||d2wy8f7a9ursnm.cloudfront.net^
 @@||d31j93rd8oukbv.cloudfront.net/metrika/watch_*.js$domain=gazeta.ru
 @@||d31j93rd8oukbv.cloudfront.net/metrika/watch_ua.js$domain=novayagazeta.ru
 @@||d31qbv1cthcecs.cloudfront.net^
@@ -7468,7 +7470,6 @@
 @@||di.com.pl^
 @@||di.phncdn.com^
 @@||di.sn^
-@@||dia.com^
 @@||dia.so^
 @@||diablo3.com/assets/js/jquery.google-analytics.js
 @@||diakoniefeier.live^
@@ -7959,6 +7960,7 @@
 @@||dubaji.com^
 @@||dubznetwork.com/iframes^$stealth=referrer
 @@||duck.co^
+@@||duckdns.org^
 @@||duckduckgo.com/?q=$generichide
 @@||duckduckgo.com^
 @@||duckduckgo.com^$important
@@ -8491,7 +8493,6 @@
 @@||es-mx.twitch.tv^
 @@||es.about.flipboard.com^
 @@||es.aliexpress.com^
-@@||es.aliexpress.ozilla.net^
 @@||es.blog.twitch.tv^
 @@||es.digitaltrends.com^
 @@||es.engadget.com^
@@ -8528,6 +8529,7 @@
 @@||esyurl.com^
 @@||et.novelgames.com/ads.js?adTagUrl=
 @@||et2.top^
+@@||etahub.com^
 @@||etalonline.by^$stealth=dpi
 @@||etao.com^
 @@||eteknix.com^$generichide,badfilter
@@ -12185,7 +12187,6 @@
 @@||id.google.com^
 @@||id.gravatar.com^
 @@||id.i2i.jp^
-@@||id.m.wikipedart19.com^
 @@||id.m.wikipedia.com^
 @@||id.sky.de^$domain=wowtv.de,stealth=referrer
 @@||id.skyeng.ru^$stealth
@@ -13013,6 +13014,7 @@
 @@||instaurl.me^
 @@||instawp.xyz^$generichide
 @@||institutional.coinbase.com^
+@@||insurance.wertgarantie.com/api/$stealth=3p-auth
 @@||insurancexblog.blogspot.com/?utm_source=$removeparam=utm_source
 @@||int.mwbbiz.com/static/*/app.js$domain=91porny.com
 @@||int.mwbbiz.com/static/*/videoShow.js$domain=91porny.com
@@ -16466,7 +16468,7 @@
 @@||mydealz.digidip.net^
 @@||mydemetrius.life^
 @@||myduke.life^
-@@||myer.com.2wy8f7a9ursnm.cloudfront.net^
+@@||myer.com.au^
 @@||myf.mg^
 @@||myfamilycominc.tt.omtrdc.net^$domain=ancestry.com|ancestry.co.uk|ancestry.ca|ancestry.de|ancestry.it|ancestry.fr|ancestry.se|ancestry.mx
 @@||myfico.com^
@@ -18361,6 +18363,7 @@
 @@||player.radio.com^
 @@||player.smotrim.ru/js/piwik.js
 @@||player.smotrim.ru/js/piwik.js$~third-party
+@@||player.smotrim.ru^$stealth=ip
 @@||player.soundcloud.com^
 @@||player.twitch.tv^
 @@||player.vgtrk.com/js/stat.js?
@@ -27671,7 +27674,6 @@
 @@||zero.wikipedia.com^
 @@||zerohedge.com^
 @@||zeroshort.xyz^
-@@||zerossl.ocsp.sectigo.com^
 @@||zertalious.xyz^$generichide
 @@||zeurl.net^
 @@||zeus4d.mom^
