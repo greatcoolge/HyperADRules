@@ -2,9 +2,9 @@
 ! Title: HyperADRules
 ! Homepage: https://github.com/Lynricsy/HyperADRules
 ! Expires: 12 Hours
-! Version: 2025-03-29 08:47:02（北京时间）
+! Version: 2025-03-29 20:16:01（北京时间）
 ! Description: HyperADRules，一个集合众家之长的、强力去广告的规则
-! Total count: 27794
+! Total count: 27807
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -1048,19 +1048,15 @@
 @@||aax-eu.amazon.in^
 @@||aax-eu.amazon.it^
 @@||aax-eu.amazon.nl^
-@@||aax-eu.amazon.sa^
-@@||aax-eu.amazon.se^
+@@||aax-eu.amazon.pl^
 @@||aax-fe-pdx-direct.amazon.com^
-@@||aax-fe-retail-rtb.amazon.com^
 @@||aax-fe.amazon.*^
 @@||aax-fe.amazon.co.jp^
 @@||aax-fe.amazon.com.au^
 @@||aax-fe.amazon.sg^
-@@||aax-ott-sdk.amazon-adsystem.amazon.com^
 @@||aax-ott.amazon-adsystem.amazon.com^
 @@||aax-us-east-retail-direct.amazon.com^
 @@||aax-us-east-retail-direct.iad.amazon.com^
-@@||aax-us-east-retail-rtb.amazon.com^
 @@||aax-us-iad.amazon.com^
 @@||aax-us-ott.amazon-adsystem.amazon.com^
 @@||aax-us.amazon-adsystem.amazon.com^
@@ -1339,6 +1335,7 @@
 @@||ad.ext.azure.com^
 @@||ad.jp^
 @@||ad.kazakinfo.com^
+@@||ad.linksynergy.com^$image,domain=extrarebates.com
 @@||ad.mcloud.139.com^
 @@||ad.nl^
 @@||ad.ourgame.com^
@@ -1585,6 +1582,7 @@
 @@||ads.remix.es/advertisement.js|
 @@||ads.roblox.com/v*/sponsored-pages$xmlhttprequest
 @@||ads.roblox.com/v1/sponsored-pages$xmlhttprequest,domain=roblox.com
+@@||ads.rogersmedia.com^$subdocument,domain=cbc.ca
 @@||ads.rubiconproject.com/prebid/$script,domain=drudgereport.com|everydayhealth.com
 @@||ads.rubiconproject.com/prebid/*.js$domain=tvaplus.ca
 @@||ads.rubiconproject.com/prebid^$domain=index.hr
@@ -1622,7 +1620,6 @@
 @@||adserver.skiresort-service.com/www/delivery/spcjs.php?$script,domain=skiresort.de|skiresort.fr|skiresort.info|skiresort.it|skiresort.nl
 @@||adservice.google.*^
 @@||adservice.google.ca^
-@@||adservice.google.ch^
 @@||adservice.google.co.id^
 @@||adservice.google.co.in^
 @@||adservice.google.co.jp^
@@ -1636,6 +1633,7 @@
 @@||adservice.google.com.br^
 @@||adservice.google.com.cl^
 @@||adservice.google.com.co^
+@@||adservice.google.com.ec^
 @@||adservice.google.com.eg^
 @@||adservice.google.com.gt^
 @@||adservice.google.com.hk^
@@ -1665,7 +1663,6 @@
 @@||adservice.google.ro^
 @@||adservice.google.ru^
 @@||adservice.google.se^
-@@||adservice.google.sk^
 @@||adservice.google.vg^
 @@||adsforfaucets.com^
 @@||adshnk.com^$generichide
@@ -1842,6 +1839,7 @@
 @@||akamaitechnologies.com^
 @@||akamaized.net/*.m4s$stealth,domain=bilibili.com
 @@||akamaized.net/*.m4s$xmlhttprequest,stealth=referrer,domain=bilibili.tv
+@@||akamaized.net/exp=$stealth,xmlhttprequest,domain=vidio.com
 @@||akamaized.net^
 @@||akamaized.net^$important
 @@||akc.blueconic.net^$domain=akc.org
@@ -2728,6 +2726,7 @@
 @@||antfin.com^
 @@||anthem.com/includes/foresee/foresee-trigger.js
 @@||anthos.googleapis.com^
+@@||anti-virus4u.com/v/
 @@||antinawala.team^
 @@||anupgopurams.life^
 @@||anurl.com^
@@ -2818,7 +2817,6 @@
 @@||api-n0vadp-static.hoyoverse.com^
 @@||api-na1.hubapi.com^
 @@||api-na2.hubapi.com^
-@@||api-na3.hubapi.com^
 @@||api-nyc.soundcloud.com^
 @@||api-partner.spotify.com^
 @@||api-partners.soundcloud.com^
@@ -3759,6 +3757,7 @@
 @@||auth0.com^
 @@||auth2.picpay.com^*/event-tracking.js$script,~third-party
 @@||authbe.sec.intl.miui.com^
+@@||authedmine.com/lib/captcha.min.js$domain=filecrypt.cc
 @@||authentication.taboola.com^
 @@||author.to^
 @@||authoring.xbox.com^
@@ -3821,7 +3820,6 @@
 @@||avydn.co^
 @@||awaps.yandex.ru^$app=ru.yandex.searchplugin
 @@||awards.netflix.com^
-@@||awempire.com/*/css/*.css$domain=awempire.com
 @@||awin1.com^
 @@||awin1.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@||awobio.id^
@@ -4230,6 +4228,7 @@
 @@||bigfile.co.kr^
 @@||bigfile.mail.naver.com^
 @@||bigfishaudio.com/banners/$image,~third-party
+@@||biggestplayer.cachefly.net/ad300.html
 @@||biggo.tw^
 @@||biggovernment.breitbart.com^
 @@||bighollywood.breitbart.com^
@@ -4309,6 +4308,7 @@
 @@||bitauto.com/bglogpostlog.js
 @@||bitb.ee^
 @@||bitbucket.io^
+@@||bitbucket.org/SetCST^$stealth
 @@||bitbucket.org^
 @@||bitbucket.org^$generichide
 @@||bitcoin.com^
@@ -4917,6 +4917,7 @@
 @@||c.webtrends-optimize.com/acs/$image,script,domain=tvlicensing.co.uk
 @@||c.y.qq.com^
 @@||c.y.qq.com^$important
+@@||c.yandexcdn.com/js/adv/ads.js$domain=yandexcdn.com
 @@||c00.adobe.com^
 @@||c0a80167.mydns.jdownloader.org^
 @@||c1.g.mi.com^
@@ -4967,6 +4968,7 @@
 @@||cafemom.com^
 @@||cafepress.com^
 @@||cakeurl.com^
+@@||caksf.top^
 @@||calciomercato.com^$generichide
 @@||calcol.cc^
 @@||caldav.fe.apple-dns.net^
@@ -5147,7 +5149,6 @@
 @@||ccurl.net^
 @@||ccwim.cyou^
 @@||cd.connatix.com/connatix.playspace.js$domain=inc.com
-@@||cd.connatix.com/connatix.playspace.js$domain=loot.tv
 @@||cd001.www.duba.net^
 @@||cda.pl^
 @@||cdbaby.com^
@@ -5261,6 +5262,7 @@
 @@||cdn.bannersnack.com/iframe/embed.js$domain=audiogon.com
 @@||cdn.bcebos.com/passApi/$stealth
 @@||cdn.betrad.com^
+@@||cdn.bewab.co/embed-$subdocument,stealth=referrer
 @@||cdn.bluebillywig.com^
 @@||cdn.blueconic.net/akc.js$domain=akc.org
 @@||cdn.blueconic.net/chronicle.js$domain=chronicle.com
@@ -5701,7 +5703,6 @@
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls^
 @@||cdnjs.cloudflare.com^
 @@||cdnlp.cyou^
-@@||cdnqq.net/ad/api/popunder.js$script
 @@||cdns.*.gigya.com/gs/webSdk/Api.aspx$stealth
 @@||cdns.eu1.gigya.com^
 @@||cdns.gigya.com^
@@ -5908,7 +5909,6 @@
 @@||chatrouter-verizon.inq.com^
 @@||chats.viber.com^
 @@||chaturbate.com/*embed^$domain=chatterbate.org|uuu.cam
-@@||chaturbate.com/in/$subdocument,domain=cam-sex.net
 @@||chaturbate.com/in/$subdocument,domain=cbhours.com|pussyspace.com|pussyspace.net|lemoncams.com
 @@||chaturbate.com^
 @@||chatzy.com/?jsonp:$script
@@ -6515,6 +6515,7 @@
 @@||communities.api.playstation.com^
 @@||communities.vmware.com^
 @@||community-cdn-digitalocean-com.global.ssl.fastly.net^
+@@||community-wscdn.xmwol.com^$stealth,image,stylesheet
 @@||community.akamai.steamstatic.com^
 @@||community.brave.com/t/$xmlhttprequest
 @@||community.cloudflare.steamstatic.com^
@@ -6549,7 +6550,6 @@
 @@||compute.googleapis.com^
 @@||computemaster.bxcearth.com^$important
 @@||computer.howstuffworks.com^
-@@||computerera.co.in^$generichide
 @@||computermediapk.com^
 @@||computerworld.com/resources/scripts/lib/demandbase.js$script
 @@||computerworld.com/www/js/ads/jquery.lazyload-ad.js
@@ -7768,6 +7768,7 @@
 @@||doortodoor.co.kr/jsp/cmn/Tracking.jsp^
 @@||dopice.sk^
 @@||doraflix.fluxcedene.net/api/$stealth=referrer
+@@||doridro.com^$generichide
 @@||doris.yidianzixun.com^
 @@||dosgamezone.com/ads/banner1.gif
 @@||dosyaload.com/embed/$stealth=referrer
@@ -8031,6 +8032,7 @@
 @@||dynmsg.modpim.com^
 @@||dynupdate.no-ip.com^
 @@||dyo.gs^
+@@||dyx.is^
 @@||dz9qn8fh4jznm.cloudfront.net/script.js$script,domain=bostonglobe.com
 @@||dzc-metrics.mzstatic.com^
 @@||dziennikwschodni.pl/*/*?ads=$~third-party,image
@@ -8251,7 +8253,6 @@
 @@||ejo.bz^
 @@||ek*.voyage-prive.com^
 @@||ek.tech^
-@@||ek8.voyage-prive.com^
 @@||ekamus.info^$generichide
 @@||el.gravatar.com^
 @@||el.lk^
@@ -8527,6 +8528,7 @@
 @@||estream.to^
 @@||esun.co^
 @@||esyurl.com^
+@@||eszen.sbs^
 @@||et.novelgames.com/ads.js?adTagUrl=
 @@||et2.top^
 @@||etahub.com^
@@ -9213,6 +9215,7 @@
 @@||forms.anthology.com^$domain=anthology.com
 @@||forms.breitbart.com^
 @@||forms.gle^
+@@||forms.ministryforms.net/viewForm.aspx$stealth
 @@||forms.office.com^
 @@||formstack.com^
 @@||forpci61.actonsoftware.com^
@@ -9240,6 +9243,7 @@
 @@||forum.notebookreview.com/threads^
 @@||forum.notebookreview.com^
 @@||forum.paradoxplaza.com^
+@@||forum.release-apk.com/*#/*/ad/$image
 @@||forum.release-apk.com^$generichide
 @@||forum.synology.com^
 @@||forum.ucweb.com^
@@ -9731,6 +9735,7 @@
 @@||geo.paypalobjects.com.akadns.net^
 @@||geo.query.yahoo.com^$xmlhttprequest,domain=tw.autos.yahoo.com|tw.buy.yahoo.com
 @@||geo.settings.data.microsoft.com.akadns.net^
+@@||geo01.dns.presslabs.net^
 @@||geo02.dns.presslabs.net^
 @@||geo1.presslabs.net^
 @@||geo2.adobe.com^
@@ -12179,7 +12184,6 @@
 @@||id-cdn.twitch.tv^
 @@||id-lookup.api.playstation.com^
 @@||id.163.com^
-@@||id.atlassian.com^$stealth
 @@||id.cxense.com/public/user/id?json=$domain=itmedia.co.jp
 @@||id.flybuys.com.au/*/fingerprint2.min.js
 @@||id.google.co.in^
@@ -12318,6 +12322,7 @@
 @@||image.ibb.co^
 @@||image.jeuxvideo.com^
 @@||image.maps.api.here.com^
+@@||image.mp3.zdn.vn/banner/
 @@||image.pandora.xiaomi.com^
 @@||image.prntscr.com^
 @@||image.quark.cn^
@@ -12459,6 +12464,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=digitalspy.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=dressupmix.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=einthusan.ca|einthusan.tv|einthusan.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=embed-zattoo.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=etonline.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=express.co.uk
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=flipboard.com
@@ -13359,6 +13365,7 @@
 @@||jgo.pt^
 @@||jhk-cdn-mampic.hismarttv.com^
 @@||jhu.li^
+@@||jhxpc.info^
 @@||jiamitu.mi.com^
 @@||jianghu.163.com^
 @@||jianshu.com/asimov/ab_test/info
@@ -13374,7 +13381,6 @@
 @@||jikipedia.com^
 @@||jilislots.life^
 @@||jimdo.com^
-@@||jin10.com^$generichide
 @@||jinieo.site^
 @@||jinritemai.com^$generichide
 @@||jinyongci.com^$generichide
@@ -13592,6 +13598,7 @@
 @@||jwpsrv.com^
 @@||jwyra.sbs^
 @@||jx.me^
+@@||jxiwr.pics^
 @@||jxxl.live^
 @@||jytechs.in^
 @@||k-chapman.life^
@@ -15208,7 +15215,6 @@
 @@||mail-www.baynote.net^$domain=mail.com
 @@||mail.163.com/fetrack/api/27/envelope/?sentry_key=$xmlhttprequest
 @@||mail.163.com^
-@@||mail.bg/mail/index/getads/$xmlhttprequest
 @@||mail.bg^
 @@||mail.bithumb.com^
 @@||mail.biz.rr.com/images/portal/blank.gif$domain=mail.biz.rr.com
@@ -15608,7 +15614,6 @@
 @@||medium.freecodecamp.org^
 @@||medonet.pl/*&srcc=ucs$removeparam=utm_source
 @@||meet.google.com^$generichide
-@@||meet.jit.si^$stealth
 @@||meet.snap.com^
 @@||meetingsandevents.qualcomm.com^
 @@||meetu.ps^
@@ -15780,7 +15785,6 @@
 @@||microsoft.com^$cookie=MUIDB
 @@||microsoftazuresponsorships.com^
 @@||microsoftedge.microsoft.com/addons^$stealth
-@@||microsoftedgeinsider.com/*/download$stealth
 @@||microsoftedgewelcome.microsoft.com^
 @@||microsoftonline.com^
 @@||microsofttranslator.com/translate?
@@ -15912,15 +15916,14 @@
 @@||mktcloud.c.huawei.com^
 @@||mkto-*.com^
 @@||mkto-a0095.com^
+@@||mkto-ab010169.com^
+@@||mkto-ab020242.com^
 @@||mkto-ab040115.com^
 @@||mkto-ab040147.com^
 @@||mkto-ab060085.com^
-@@||mkto-ab060144.com^
+@@||mkto-ab070017.com^
 @@||mkto-ab080206.com^
-@@||mkto-ab110171.com^
-@@||mkto-ab150224.com^
-@@||mkto-ab180008.com^
-@@||mkto-ab180024.com^
+@@||mkto-ab160143.com^
 @@||mkto-ab200065.com^
 @@||mkto-ab210094.com^
 @@||mkto-ab210104.com^
@@ -15928,17 +15931,14 @@
 @@||mkto-ab220193.com^
 @@||mkto-ab240112.com^
 @@||mkto-ab250105.com^
-@@||mkto-ab270090.com^
-@@||mkto-ab280191.com^
-@@||mkto-ab290022.com^
+@@||mkto-ab280126.com^
 @@||mkto-ab300154.com^
 @@||mkto-ab310115.com^
 @@||mkto-ab330197.com^
+@@||mkto-ab340124.com^
 @@||mkto-ab420081.com^
-@@||mkto-ab450037.com^
-@@||mkto-ab450191.com^
 @@||mkto-ab470148.com^
-@@||mkto-ab520004.com^
+@@||mkto-ab480047.com^
 @@||mkto-ab530057.com^
 @@||mkto-ab540059.com^
 @@||mkto-ab540186.com^
@@ -15946,31 +15946,36 @@
 @@||mkto-ab550168.com^
 @@||mkto-ab560068.com^
 @@||mkto-ab570110.com^
+@@||mkto-ab570148.com^
 @@||mkto-ab580004.com^
+@@||mkto-ab640150.com^
+@@||mkto-ab650006.com^
 @@||mkto-ab650097.com^
+@@||mkto-ab650145.com^
 @@||mkto-ab660121.com^
 @@||mkto-ab690180.com^
 @@||mkto-abj0022.com^
 @@||mkto-abm0229.com^
-@@||mkto-cs0007.com^
-@@||mkto-d0064.com^
 @@||mkto-d0097.com^
 @@||mkto-d0170.com^
+@@||mkto-d0177.com^
 @@||mkto-f0054.com^
 @@||mkto-g0030.com^
 @@||mkto-g0180.com^
+@@||mkto-h0125.com^
 @@||mkto-k0071.com^
 @@||mkto-lon030291.com^
 @@||mkto-lon040152.com^
-@@||mkto-lon050200.com^
 @@||mkto-lon090082.com^
 @@||mkto-lp.mlinc.com^
 @@||mkto-n0199.com^
+@@||mkto-nld1030007.com^
 @@||mkto-nld1040060.com^
 @@||mkto-nld1040186.com^
 @@||mkto-o0153.com^
 @@||mkto-sj010104.com^
 @@||mkto-sj030214.com^
+@@||mkto-sj040017.com^
 @@||mkto-sj040252.com^
 @@||mkto-sj070214.com^
 @@||mkto-sj070259.com^
@@ -15982,6 +15987,7 @@
 @@||mkto-sj190104.com^
 @@||mkto-sj190237.com^
 @@||mkto-sj200192.com^
+@@||mkto-sj210107.com^
 @@||mkto-sj230006.com^
 @@||mkto-sj240014.com^
 @@||mkto-sj240021.com^
@@ -15990,10 +15996,9 @@
 @@||mkto-sj310061.com^
 @@||mkto-sj320047.com^
 @@||mkto-sj330006.com^
+@@||mkto-sj340004.com^
 @@||mkto-sj360142.com^
 @@||mkto-sj370181.com^
-@@||mkto-sj390079.com^
-@@||mkto-sjh0224.com^
 @@||mkto-test.com^
 @@||mkto-trk.cisco.com^
 @@||mktoweb.com^
@@ -16168,6 +16173,9 @@
 @@||mono-gog-o.life^
 @@||monopolycollectdice.xyz^
 @@||monopolygodices.xyz^
+@@||monova.*/fonts/
+@@||monova.*/img/
+@@||monova.*/js/main.js
 @@||monster.cat^
 @@||monteiro-run-ckxmmvr-9829.life^
 @@||moo.im^
@@ -16291,6 +16299,7 @@
 @@||msg.netflix.com^
 @@||msg2.client.xunlei.com^
 @@||msh.amazon.com^
+@@||mshare.io/js/blockadblock.js
 @@||mshorten.com^
 @@||msi.gm^
 @@||mskb.ir^
@@ -16532,6 +16541,7 @@
 @@||myurl.ly^
 @@||myurls.ca^
 @@||myvdcc.com^
+@@||myvi.ru/player/$stealth
 @@||myvidster.com/processor.php
 @@||myweber.life^
 @@||mywot.com/*/confirmNewEmail/$removeparam
@@ -16945,7 +16955,6 @@
 @@||nostalgia.wikipedia.com^
 @@||notabug.org^
 @@||notafree.host^$generichide
-@@||note.sieuthuthuat.com/js/prebid-ads.js
 @@||noteapi.micloud.xiaomi.net^
 @@||notepad-plus-plus.org^
 @@||noteworthy.medium.com^
@@ -17066,6 +17075,7 @@
 @@||ntuc.co^
 @@||nturl.com^
 @@||ntust.edu.tw/bin/showads.
+@@||ntv.io/serve/load.js$domain=mcclatchydc.com
 @@||nu.nl^$generichide
 @@||nuget.org^
 @@||nuggad.net^$domain=video.sport1.de
@@ -17099,7 +17109,6 @@
 @@||nxdr.co^
 @@||nxeassets-ssl.xbox.com^
 @@||nxeassets.xbox.com^
-@@||nxi-cdn.exponea.com^
 @@||nxm.us^
 @@||nxpay.dutchbanglabank.com^
 @@||nxy.in^
@@ -18716,6 +18725,7 @@
 @@||profile.csdnimg.cn^
 @@||profile.d.xiaomi.net^
 @@||profile.line.scdn.net^
+@@||profile.microsoft.com/RegSysProfileCenter/$stealth
 @@||profile.target.com^
 @@||profile.to^
 @@||profit.ndtv.com^
@@ -19187,14 +19197,13 @@
 @@||r4---sn-qxo7rn7e.googlevideo.com^$important
 @@||r4.bithumb.com^
 @@||r4gh8tuab.cc.rs6.net^
-@@||r4iqtwrab.cc.rs6.net^
 @@||r4ofs8cab.cc.rs6.net^
 @@||r5---sn-4g5ednsl.googlevideo.com^$important
 @@||r5.bithumb.com^
 @@||r5waxhbbb.cc.rs6.net^
+@@||r6hquldab.cc.rs6.net^
 @@||r6lccqnab.cc.rs6.net^
 @@||r7avxrcab.cc.rs6.net^
-@@||r88lcbcab.cc.rs6.net^
 @@||ra.gtimg.com^
 @@||raceclip.com^
 @@||rackcdn.com/stf.js$domain=20min.ch
@@ -19236,7 +19245,6 @@
 @@||rapidvid.net/vod/$stealth=referrer
 @@||rapidvid.to^
 @@||rapidvideo.com^
-@@||rapki9kab.cc.rs6.net^
 @@||rarbg.com^
 @@||rarbg.to^
 @@||rat.rakuten.co.jp^
@@ -19287,6 +19295,7 @@
 @@||rd.samsungadhub.com^
 @@||rdar.li^
 @@||rdbl.co^
+@@||rdbpgc7ab.cc.rs6.net^
 @@||rdcrss.org^
 @@||rdcu.be^
 @@||rddywd.com/adcode.png$domain=populistpress.com|canadafreepress.com|thelibertydaily.com|writerscafe.org|populist.press|welovetrump.com|grammarist.com|protrumpnews.com|concomber.com|gamersheroes.com|letocard.fr|100percentfedup.com|thepalmierireport.com|kresy.pl|beforeitsnews.com|thepatriotjournal.com|phoenixnewtimes.com|thepoke.co.uk|comicallyincorrect.com|thegatewaypundit.com
@@ -19324,6 +19333,7 @@
 @@||realites.com.tn^
 @@||reallyfreegeoip.org/json/$domain=thekitchensafe.com
 @@||realtours360.com^
+@@||reaplmcab.cc.rs6.net^
 @@||reason.com^
 @@||rebelne.ws^
 @@||rebrand.ly^
@@ -19431,7 +19441,6 @@
 @@||referrals.bravesoftware.com^
 @@||referrer.disqus.com^
 @@||refersion.com^
-@@||refi-reklama.razitko.cz^$domain=refi-reklama.razitko.cz
 @@||refini.tv^
 @@||reg-indosat.lotusflare.com^
 @@||reg.163.com^
@@ -19809,6 +19818,7 @@
 @@||ruten.com.tw/ahd/fetch_ad.php
 @@||ruten.com.tw/js/jquery.ruten.supertop_ad.js
 @@||ruten.com.tw^
+@@||ruten.com.tw^$stealth
 @@||rutube.ru^
 @@||rv.treehousei.com/prm/js/*/public.min.js$domain=partnerportal.fortinet.com
 @@||rv2.com^
@@ -19827,6 +19837,7 @@
 @@||ryp.im^
 @@||ryps.tk^
 @@||rysqh.pics^
+@@||ryut.top^
 @@||rz.se^
 @@||rz6dkreab.cc.rs6.net^
 @@||rzd.ru^$stealth
@@ -20014,7 +20025,6 @@
 @@||s4.is^
 @@||s4.symcb.com^
 @@||s4w.in^
-@@||s5.exacttarget.com^
 @@||s5.symcb.com^
 @@||s50.exacttarget.com^
 @@||s51.exacttarget.com^
@@ -20453,8 +20463,8 @@
 @@||securepubads.g.doubleclick.net/gpt/pubads$domain=line.me
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=espn.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=m.haberler.com
-@@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=makeuseof.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=mobile.donanimhaber.com
+@@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=www.vulture.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=m.timesofindia.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=20min.ch
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=castlesiege.io
@@ -22294,6 +22304,8 @@
 @@||suggestqueries.google.com^
 @@||sugs.m.sm.cn^
 @@||suite*.emarsys.net^
+@@||suite-dashboard.gservice.emarsys.net^
+@@||suite.emarsys.net^
 @@||suite10.emarsys.net^
 @@||suite11.emarsys.net^
 @@||suite16.emarsys.net^
@@ -22304,19 +22316,16 @@
 @@||suite29.emarsys.net^
 @@||suite32.emarsys.net^
 @@||suite33.emarsys.net^
-@@||suite34.emarsys.net^
-@@||suite36.emarsys.net^
 @@||suite38.emarsys.net^
-@@||suite40-cf.emarsys.net^
 @@||suite40.emarsys.net^
 @@||suite45.emarsys.net^
-@@||suite52.emarsys.net^
 @@||suite54.emarsys.net^
 @@||suite56.emarsys.net^
 @@||suite57.emarsys.net^
 @@||suite58.emarsys.net^
 @@||suite59.emarsys.net^
 @@||suite63.emarsys.net^
+@@||suite67-cf.emarsys.net^
 @@||suite7.emarsys.net^
 @@||suite9.emarsys.net^
 @@||sujanaarch.life^
@@ -22325,6 +22334,7 @@
 @@||sulejalan.online^
 @@||sumal.ly^
 @@||summer-plus.net^
+@@||summitracing.com/global/images/bannerads/
 @@||sumo.com^
 @@||sumologic.com^$domain=sumologic.com
 @@||sumpahdokteruph52.live^
@@ -23273,6 +23283,7 @@
 @@||titok.website^
 @@||titurl.com^
 @@||tix.axs.com^$removeparam
+@@||tix.axs.com^$removeparam=irclickid
 @@||tixsu.com^
 @@||tj-in-f14.1e100.net^
 @@||tj.gov.cn^
@@ -24656,7 +24667,6 @@
 @@||verisign.com^
 @@||verizon.com/images/track/track.gif?track=load&$xmlhttprequest
 @@||verizonwireless.com^
-@@||versand.ebay.de/druck/$document
 @@||version.cyberduck.io^
 @@||version.hybrid.api.here.com^
 @@||verticalscope-com.videoplayerhub.com/galleryplayer.js$domain=skyscrapercity.com
@@ -24767,7 +24777,6 @@
 @@||vidible.tv^*/ComScore.StreamSense.js
 @@||vidible.tv^*/ComScore.Viewability.js
 @@||vidload.lol/iframe/$stealth=referrer
-@@||vidmoly.to/embed-$stealth
 @@||vidoza.net/embed-*.html$subdocument
 @@||vidoza.net/js/pop.js
 @@||vidoza.net^
@@ -25430,6 +25439,7 @@
 @@||wikiquote.org^$generichide
 @@||wikiversity.org^$generichide
 @@||wiktionary.org^$generichide
+@@||wilafhhbdyewgbd.xyz/popads.js$domain=filezip.cc
 @@||wilderssecurity.com/forums/
 @@||wiley.com^
 @@||wilksom.live^
@@ -27213,6 +27223,7 @@
 @@||xb5.com^
 @@||xbeibeix.com^$generichide
 @@||xbext.com^
+@@||xbhpd.com^
 @@||xbig.info^
 @@||xbox.com^
 @@||xbox.ipv6.microsoft.com^
@@ -27229,6 +27240,7 @@
 @@||xc9.com^
 @@||xcl-preview.xbox.com^
 @@||xcl.xbox.com^
+@@||xcser.pics^
 @@||xcweather.co.uk/*/geo.php?
 @@||xd.adobe.com^
 @@||xd.adobelanding.com^
@@ -27320,6 +27332,7 @@
 @@||xor.tw^
 @@||xortly.com^
 @@||xoxourl.com^
+@@||xp-cdn.net/video/$stealth,media,domain=xpornium.net
 @@||xp.apple.com^
 @@||xpdll.nirsoft.net^
 @@||xperiakeyboard.sonymobile.com^
