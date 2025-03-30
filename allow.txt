@@ -2,7 +2,7 @@
 ! Title: HyperADRules
 ! Homepage: https://github.com/Lynricsy/HyperADRules
 ! Expires: 12 Hours
-! Version: 2025-03-29 20:16:01（北京时间）
+! Version: 2025-03-30 08:52:53（北京时间）
 ! Description: HyperADRules，一个集合众家之长的、强力去广告的规则
 ! Total count: 27807
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
@@ -3600,7 +3600,6 @@
 @@||assets.macys.com/dyn_img/site_ads/
 @@||assets.minutemediacdn.com^
 @@||assets.msn.cn^
-@@||assets.msn.com/resolver/api/resolve/v3/config/?expType=AppConfig&expInstance=default&apptype=finance&$domain=msn.com
 @@||assets.msn.com/staticsb/statics/latest/adboxes/$script,~third-party
 @@||assets.msn.com^
 @@||assets.nflxext.com^
@@ -4050,6 +4049,7 @@
 @@||bcair.sbs^
 @@||bcbits.com^
 @@||bcbsks.com^$stealth=dpi
+@@||bce.baidu.com.com^
 @@||bce.baidu.com^
 @@||bcebos.com/static/translation/widget/translate/output/AdBanner/AdBanner.js
 @@||bcebos.com^$script,domain=biququ.info|jingwubook.com
@@ -5444,7 +5444,6 @@
 @@||cdn.mxpnl.com/libs/mixpanel-*.min.js$domain=voot.com
 @@||cdn.mxpnl.com/libs/mixpanel-2-latest.min.js$domain=twe.no
 @@||cdn.mxpnl.com^
-@@||cdn.naver.com^
 @@||cdn.network.exponea.com^
 @@||cdn.nlark.com^$image,stealth,domain=yuque.com
 @@||cdn.ometria.com/tags/*.js$domain=holtrenfrew.com
@@ -16960,7 +16959,6 @@
 @@||noteworthy.medium.com^
 @@||notice.game.xiaomi.com^
 @@||notice.line.me^
-@@||notice.samsungcloudsolution.com^
 @@||notice.xbox.com^
 @@||notice2.line.me^
 @@||noticecdn.samsungcloudsolution.com^
@@ -21988,7 +21986,7 @@
 @@||static.parsely.com/p.js$domain=nfl.com
 @@||static.parsely.com^$script,domain=dailystar.co.uk|express.co.uk|nydailynews.com
 @@||static.pcgamingwiki.com^
-@@||static.pd.biv.sony.tv^
+@@||static.pd.biv.sclub.com^
 @@||static.pddpic.com^
 @@||static.redtube.com/mobi/images/$domain=redtube.com|redtube.net
 @@||static.returnpath.net^
@@ -23119,6 +23117,7 @@
 @@||thetvdb.com^
 @@||theurl.to^
 @@||theverge.com^
+@@||thewindowsamsungcloudsolution.com^
 @@||thewindowsclub.com^
 @@||thewrap.com^
 @@||thght.works^
@@ -27687,6 +27686,7 @@
 @@||zero.wikipedia.com^
 @@||zerohedge.com^
 @@||zeroshort.xyz^
+@@||zerossl.ocsp.sectigo.comsony.tv^
 @@||zertalious.xyz^$generichide
 @@||zeurl.net^
 @@||zeus4d.mom^
