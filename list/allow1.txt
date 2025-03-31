@@ -3547,6 +3547,7 @@
 @@||e-recht24.de^
 @@||e-words.jp^
 @@||e.breitbart.com^
+@@||e.com^
 @@||e.customeriomail.com^
 @@||e.getpocket.com^
 @@||e.huawei.com^
@@ -7024,9 +7025,9 @@
 @@||noteapi.micloud.xiaomi.net^
 @@||notepad-plus-plus.org^
 @@||noteworthy.medium.com^
-@@||notice.360.cn^
 @@||notice.game.xiaomi.com^
 @@||notice.line.me^
+@@||notice.samsungcloudsolution.com^
 @@||notice.xbox.com^
 @@||notice2.line.me^
 @@||noticecdn.samsungcloudsolution.com^
@@ -8294,7 +8295,6 @@
 @@||samsung.se^
 @@||samsung.stories.bazaarvoice.com^
 @@||samsung.ugc.bazaarvoice.com^
-@@||samsungcloudsolution.com^
 @@||samsungcloudsolution.net^
 @@||samsungelectronics.com^
 @@||samsungeucdm-mid-prod1-res.adobe-campaign.com^
@@ -11985,6 +11985,7 @@
 @@||zero.facebook.com^
 @@||zero.wikipedia.com^
 @@||zerohedge.com^
+@@||zerossl.ocsp.sectigo.com360.cn^
 @@||zeustracker.abuse.ch^
 @@||zh-cn.about.flipboard.com^
 @@||zh-hk.about.flipboard.com^
