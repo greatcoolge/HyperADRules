@@ -2,9 +2,9 @@
 ! Title: HyperADRules
 ! Homepage: https://github.com/Lynricsy/HyperADRules
 ! Expires: 12 Hours
-! Version: 2025-04-01 20:19:34（北京时间）
+! Version: 2025-04-02 08:49:17（北京时间）
 ! Description: HyperADRules，一个集合众家之长的、强力去广告的规则
-! Total count: 27839
+! Total count: 27850
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -1422,6 +1422,7 @@
 @@||adidasapp.api.adidas.com.cn^$important
 @@||adidasoriginals-lookbook.com.tw/js/adtracking.js
 @@||adikpm.github.io/repo/assets/js/prebid_hb_3293_5687.js
+@@||adil.win^
 @@||adiu.amap.com^
 @@||adj.st^
 @@||adjh.pt^
@@ -3715,6 +3716,7 @@
 @@||auctions.yahoo.co.jp^
 @@||audible.com^
 @@||audid-api.taobao.com^
+@@||audience.io/api/$domain=campaign.aptivada.com
 @@||audience.io/api/v3/app/fetchPromo/$domain=campaign.aptivada.com
 @@||audio-ak.spotify.com.edgesuite.net^
 @@||audio-ake.spotify.com.edgesuite.net^
@@ -7930,6 +7932,7 @@
 @@||drte.co^
 @@||drunks.life^
 @@||drupal.org^
+@@||druuz.com^
 @@||drw.sh^
 @@||ds.163.com^
 @@||ds.download.windowsupdate.com^
@@ -8055,7 +8058,6 @@
 @@||e-words.jp^
 @@||e.breitbart.com^
 @@||e.cn.miaozhen.com/r/k=*=http
-@@||e.com^
 @@||e.cquotient.com/recs/*?callback=$domain=karstadt.de
 @@||e.cquotient.com/recs/*?callback=$domain=sloggi.com
 @@||e.customeriomail.com^
@@ -8188,7 +8190,6 @@
 @@||edge-mqtt.facebook.com^
 @@||edge-weighted.api.brightcove.com^
 @@||edge.activity.windows.com^
-@@||edge.api.brightcove.com/playback/v1/accounts/*/videos/$xmlhttprequest,domain=tver.jp,stealth=ip
 @@||edge.api.brightcove.com^
 @@||edge.microsoft.com/translate/auth
 @@||edge.microsoft.com^
@@ -9832,6 +9833,7 @@
 @@||getsharex.com^
 @@||getsmallurl.com^
 @@||getthot.com^
+@@||gettr.im^
 @@||gf.to^
 @@||gfe.nvidia.com^
 @@||gfree.fr^
@@ -9856,6 +9858,7 @@
 @@||ghbtns.com^
 @@||ghibk.mom^
 @@||ghkp.us^
+@@||ghntinyurl.com^
 @@||ghostbin.com^
 @@||ghostery.com^
 @@||ghs.googlehosted.com^
@@ -13392,6 +13395,7 @@
 @@||jiazhang.gm.163.com^
 @@||jiazhang.qq.com^
 @@||jieb.be^
+@@||jieee.sbs^
 @@||jii.li^
 @@||jijr.com^
 @@||jikipedia.com^
@@ -15836,6 +15840,7 @@
 @@||miibeian.gov.cn^
 @@||miitbeian.gov.cn^
 @@||mijndomein.nl^
+@@||mikale.me^
 @@||mikeopierre.photos^
 @@||mikepir84.live^
 @@||mikgr.si^
@@ -16913,6 +16918,7 @@
 @@||nja.im^
 @@||njavtv.com^
 @@||njersy.co^
+@@||njfl.ink^
 @@||njih.net^
 @@||njit.gg^
 @@||njx.me^
@@ -17763,6 +17769,7 @@
 @@||p9-sign.douyinpic.com^
 @@||p9-webcast-sign.douyinpic.com^
 @@||p9.douyinpic.com^
+@@||pa-ko.ir^
 @@||pa.ag^
 @@||pablo168.online^
 @@||pacbell.snap.com^
@@ -18372,6 +18379,7 @@
 @@||play.vidyard.com^$stealth
 @@||play2.chia-anime.tv^
 @@||play2.nitai.no^
+@@||playback.api.streaks.jp/*/projects/tver-*/medias/$domain=tver.jp,stealth=ip
 @@||playbokep.to^
 @@||playcode.io^$generichide
 @@||playep.pro/log_event$~third-party,xmlhttprequest
@@ -21073,6 +21081,7 @@
 @@||si.edu^
 @@||si.playstation.com^
 @@||siakap.life^
+@@||siakapkeli.info^
 @@||siasat.pk^
 @@||siatka.org^
 @@||sibs.com/fingerprint/sfp2/fp2.min.js$script,domain=net24.bancomontepio.pt
@@ -23707,9 +23716,11 @@
 @@||trick.ly^
 @@||trickbd.com^
 @@||trim-url.com^
+@@||trim.one^
 @@||trimlink.co.uk^
 @@||trimlink.net^
 @@||trimmer.to^
+@@||trims.me^
 @@||trimurl.co^
 @@||trinitymedia.ai/player/$stealth=referrer
 @@||trip-jam.com/resources/js/adsense.js
@@ -25006,6 +25017,7 @@
 @@||vultr.com^
 @@||vulture.com/decor/javascript/magnify_stats.js
 @@||vulture.com^
+@@||vunvc.sbs^
 @@||vupload2.facebook.com^
 @@||vur.me^
 @@||vurl.com^
@@ -27718,7 +27730,6 @@
 @@||zero.wikipedia.com^
 @@||zerohedge.com^
 @@||zeroshort.xyz^
-@@||zerossl.ocsp.sectigo.com360.cn^
 @@||zertalious.xyz^$generichide
 @@||zeurl.net^
 @@||zeus4d.mom^
