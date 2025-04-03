@@ -2,9 +2,9 @@
 ! Title: HyperADRules
 ! Homepage: https://github.com/Lynricsy/HyperADRules
 ! Expires: 12 Hours
-! Version: 2025-04-02 20:18:51（北京时间）
+! Version: 2025-04-03 08:47:58（北京时间）
 ! Description: HyperADRules，一个集合众家之长的、强力去广告的规则
-! Total count: 27840
+! Total count: 27848
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -305,6 +305,7 @@
 @@|http*.php?url=$stealth,domain=nicotv.me
 @@|http*://*.*/*.$image,third-party,domain=a2zupload.com
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org|prospecteye.com^$third-party
 @@|https://$xmlhttprequest,domain=depositfiles.com|depositfiles.org|dfiles.eu|dfiles.ru
 @@|ws://*$websocket,domain=flirt4free.com
 @@||*-cf.xvideos-cdn.com^
@@ -958,6 +959,7 @@
 @@||a-v2.sndcdn.com^
 @@||a-v2.x.sndcdn.com^
 @@||a.189.cn^
+@@||a.1gr.cz/mafra/tserver/$domain=idnes.cz
 @@||a.6mqw.org^
 @@||a.9game.cn^
 @@||a.adwolf.ru^
@@ -3246,6 +3248,7 @@
 @@||apigw.coles.com.au^
 @@||apihub.daum.net^
 @@||apim.canadiantire.ca^$stealth=referrer
+@@||apimeishi.meituan.com/meishi/poi$removeparam=utm_medium,xmlhttprequest,domain=meishi.meituan.com
 @@||apimobile.lifelog.sonymobile.com^
 @@||apis.daum.net^
 @@||apis.google.com
@@ -4057,6 +4060,7 @@
 @@||bcbits.com^
 @@||bcbsks.com^$stealth=dpi
 @@||bce.baidu.com^
+@@||bce.baidu.comn.livechatinc.com^
 @@||bcebos.com/static/translation/widget/translate/output/AdBanner/AdBanner.js
 @@||bcebos.com^$script,domain=biququ.info|jingwubook.com
 @@||bcedns.com^
@@ -5431,7 +5435,6 @@
 @@||cdn.lib.getjad.io/prebid/$domain=purepeople.com
 @@||cdn.livechatinc.com/tracking.js$domain=bitdefender.com
 @@||cdn.livechatinc.com/tracking.js$domain=freedompop.com
-@@||cdn.livechatinc.com^
 @@||cdn.livefyre.com^
 @@||cdn.livestream.com^
 @@||cdn.loginhood.io^
@@ -12898,6 +12901,7 @@
 @@||inapcache.boston.com^
 @@||inapps.appsflyer.com^$app=se.prisjakt.pricespy
 @@||inazuma.co/campaign/js/heatmap.js$domain=monopoly.mcdonalds.co.uk
+@@||inbgc.mom^
 @@||inbox.google.com^
 @@||inbrowserediting.adobe.com^
 @@||inburstcorp.live^
@@ -17119,6 +17123,7 @@
 @@||nusukservics.live^
 @@||nutrija.com^
 @@||nuyters.aestheticcanvas.site^$stealth=referrer
+@@||nuywm.pics^
 @@||nv.veta.naver.com^
 @@||nv7s.com/key=*/referer=$media,stealth=referrer
 @@||nvda.ws^
@@ -18560,6 +18565,7 @@
 @@||port.sec.miui.com^
 @@||portableaudio.engadget.com^
 @@||portablevideogamer.com^
+@@||portal-portm.meituan.com/horn$removeparam=utm_medium,xmlhttprequest,domain=meishi.meituan.com
 @@||portal.autotrader.co.uk/advert/$~third-party
 @@||portal.azure.com^$stealth=referrer
 @@||portal.cityspark.com/PortalScripts/DailyCamera$domain=dailycamera.com
@@ -27281,6 +27287,7 @@
 @@||xda-developers.com^
 @@||xdatools.xda-developers.com^
 @@||xdjiraintegration.adobe.com^
+@@||xdsnht.com^
 @@||xdu.me^
 @@||xe.com^$removeparam
 @@||xeeurl.com^
@@ -27720,6 +27727,7 @@
 @@||zero.wikipedia.com^
 @@||zerohedge.com^
 @@||zeroshort.xyz^
+@@||zerossl.ocsp.sectigo.com360.cn^
 @@||zertalious.xyz^$generichide
 @@||zeurl.net^
 @@||zeus4d.mom^
