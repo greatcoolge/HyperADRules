@@ -1795,7 +1795,6 @@
 @@||bc.vc^
 @@||bcbits.com^
 @@||bce.baidu.com^
-@@||bce.baidu.comsamsungcloudsolution.com^
 @@||bcedns.com^
 @@||bcedns.net^
 @@||bcee.lu^
@@ -2365,7 +2364,7 @@
 @@||cdn.imgwzzmb.net^
 @@||cdn.jscloudflare.com^
 @@||cdn.jsdelivr.net^
-@@||cdn.jsdelivr.net.cdn.cloudflare.net^
+@@||cdn.jsdelivr.net.360.cn^
 @@||cdn.jwplayer.com^
 @@||cdn.keycdn.com^
 @@||cdn.livechatinc.com^
@@ -7027,6 +7026,7 @@
 @@||noteworthy.medium.com^
 @@||notice.game.xiaomi.com^
 @@||notice.line.me^
+@@||notice.samsungcloudsolution.com^
 @@||notice.xbox.com^
 @@||notice2.line.me^
 @@||noticecdn.samsungcloudsolution.com^
@@ -11984,7 +11984,6 @@
 @@||zero.facebook.com^
 @@||zero.wikipedia.com^
 @@||zerohedge.com^
-@@||zerossl.ocsp.sectigo.com1fichier.com^
 @@||zeustracker.abuse.ch^
 @@||zh-cn.about.flipboard.com^
 @@||zh-hk.about.flipboard.com^
