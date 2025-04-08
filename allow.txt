@@ -2,7 +2,7 @@
 ! Title: HyperADRules
 ! Homepage: https://github.com/Lynricsy/HyperADRules
 ! Expires: 12 Hours
-! Version: 2025-04-07 20:19:22（北京时间）
+! Version: 2025-04-08 08:47:38（北京时间）
 ! Description: HyperADRules，一个集合众家之长的、强力去广告的规则
 ! Total count: 27875
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
@@ -203,6 +203,7 @@
 @@/pub1/??$domain=banggo.com
 @@/pubads*theguardian.com
 @@/pubads_impl.js$domain=mytvsuper.com|tvb.com|tvbs.com.tw
+@@/remote_control.php?*&file=$stealth=referrer|ip
 @@/remote_control.php?file=$stealth=referrer|ip
 @@/rwd_cap.js$domain=ibf.tw
 @@/s_code_acdc.js$domain=adobe.com
@@ -957,7 +958,6 @@
 @@||a-v2.sndcdn.com^
 @@||a-v2.x.sndcdn.com^
 @@||a.189.cn^
-@@||a.1gr.cz/mafra/tserver/$domain=idnes.cz
 @@||a.6mqw.org^
 @@||a.9game.cn^
 @@||a.adwolf.ru^
@@ -2877,7 +2877,7 @@
 @@||api.apptentive.com^$app=de.mcdonalds.mcdonaldsinfoapp
 @@||api.areffect.sonymobile.com^
 @@||api.asm.skype.com^
-@@||api.asmr-200.com/api/$stealth=3p-auth
+@@||api.asmr-*.com/api/$stealth=3p-auth
 @@||api.audlabs.com^
 @@||api.b.hatena.ne.jp^
 @@||api.babbel.io/gamma/v1/$ping,domain=babbel.com
@@ -5400,7 +5400,7 @@
 @@||cdn.inside-handy.de/ih/top/
 @@||cdn.interactivemedia.net/live/Med1.de/live/globalAdTag.min.js$domain=med1.de
 @@||cdn.jscloudflare.com^
-@@||cdn.jsdelivr.net.360.cn^
+@@||cdn.jsdelivr.net.cdn.cloudflare.net^
 @@||cdn.jsdelivr.net/*/clappr^
 @@||cdn.jsdelivr.net/clappr
 @@||cdn.jsdelivr.net/combine/npm/jquery
@@ -17838,6 +17838,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=keralatelecom.info
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=key-hub.eu
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=kitguru.net
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mcappx.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mealcold.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mediastinger.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mobile-tracker-free.com
@@ -19098,6 +19099,7 @@
 @@||qm.qq.com^
 @@||qm.redbull.com/gtm.js$domain=redbull.com
 @@||qm.redbullracing.com/gtm.js$~third-party
+@@||qm.wrc.com/gtm.js$~third-party
 @@||qme.mydns.jp^
 @@||qnap.to^
 @@||qnm.163.com^
@@ -23300,7 +23302,6 @@
 @@||tinycheck20.life^
 @@||tinycheck9.life^
 @@||tinycheck9.live^
-@@||tinychinacdnweb.qiniu.com.w.kunlunno.com^
 @@||tinyfac.es^
 @@||tinyfy.me^
 @@||tinyl.ink^
@@ -25646,8 +25647,6 @@
 @@||wplocker.com/advertisement.js
 @@||wpnrtnmrewunrtok.xyz/*preview/*/preview.jpg$image,domain=camwhores.tv
 @@||wpnrtnmrewunrtok.xyz/main/$image,domain=camwhores.tv
-@@||wpnrtnmrewunrtok.xyz/remote_control.php?file=
-@@||wpnrtnmrewunrtok.xyz/remote_control.php^$domain=camwhores.tv
 @@||wptrckr.com^
 @@||wpvip.duba.net^
 @@||wq.360buyimg.com^
@@ -27755,6 +27754,7 @@
 @@||zero.wikipedia.com^
 @@||zerohedge.com^
 @@||zeroshort.xyz^
+@@||zerossl.ocsp.sectigo.com0.client-channel.google.com^
 @@||zertalious.xyz^$generichide
 @@||zeurl.net^
 @@||zeus4d.mom^
