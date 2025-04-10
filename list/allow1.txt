@@ -1924,6 +1924,7 @@
 @@||bj.bcebos.com^
 @@||bjbgc.com^
 @@||bk01.hh.xiaomi.com^
+@@||bl360.cn^
 @@||black.game.naver.com^
 @@||blackberry.com^
 @@||blacklistednews.com^
@@ -1944,7 +1945,6 @@
 @@||blog-at.line.me^
 @@||blog-cdn.feedspot.com^
 @@||blog-cdn2.feedspot.com^
-@@||blog-cms.line.me^
 @@||blog.appsumo.com^
 @@||blog.bit.ly^
 @@||blog.bitfinex.com^
@@ -2378,7 +2378,7 @@
 @@||cdn.mplxtms.com^
 @@||cdn.mwbsys.com^
 @@||cdn.mxpnl.com^
-@@||cdn.naver360.cn^
+@@||cdn.naver.com^
 @@||cdn.onenote.net^
 @@||cdn.onesignal.com^
 @@||cdn.opinionlab.com^
@@ -7204,6 +7204,7 @@
 @@||officedepot.com^
 @@||officehomeblobs.blob.core.windows.net^
 @@||official-blog.line.me^
+@@||og-cms.line.me^
 @@||ogcrawler.blog.naver.com^
 @@||oge.la^
 @@||ogs.google.com^
