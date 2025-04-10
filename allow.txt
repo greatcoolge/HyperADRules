@@ -2,9 +2,9 @@
 ! Title: HyperADRules
 ! Homepage: https://github.com/Lynricsy/HyperADRules
 ! Expires: 12 Hours
-! Version: 2025-04-10 08:48:12（北京时间）
+! Version: 2025-04-10 20:19:14（北京时间）
 ! Description: HyperADRules，一个集合众家之长的、强力去广告的规则
-! Total count: 27882
+! Total count: 27880
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -1027,6 +1027,7 @@
 @@||a57.foxnews.com^
 @@||a652.dscb.akamai.net^
 @@||a790.w16.akamai.net^
+@@||a8cv.amiami.jp/click/$removeparam=a8
 @@||a90.g.akamai.net^
 @@||aaa.moda^
 @@||aakem.click^
@@ -1288,7 +1289,6 @@
 @@||acus.org^
 @@||ad-block.dns.adguard.com^
 @@||ad-cdn.bilgin.pro/app/ad-*.min.js$domain=medyafaresi.com
-@@||ad-emea.doubleclick.net/clk
 @@||ad-gone.com^
 @@||ad-ipd.sxp.smartclip.net/select$domain=tele5.de
 @@||ad-ipd.sxp.smartclip.net/select^$domain=n-tv.de
@@ -1523,6 +1523,7 @@
 @@||ador.com^
 @@||adorama.rfvk.net^
 @@||adpaylink.com^
+@@||adpop.me^$domain=adpop.me
 @@||adr.ec^
 @@||adr3.ir^
 @@||adrians-guzman-81.life^
@@ -1612,6 +1613,7 @@
 @@||ads.twitter.com^$popup
 @@||ads.viralize.tv/d-vast/$domain=automoto.it|moto.it
 @@||ads.viralize.tv/display/$domain=automoto.it|moto.it
+@@||ads.viralize.tv/player/$domain=automoto.it|moto.it
 @@||ads.viralize.tv/t-bid-opportunity/$domain=automoto.it|moto.it
 @@||ads.vk.com^
 @@||ads.vk.com^$popup
@@ -1714,7 +1716,6 @@
 @@||adweek.com^
 @@||adweek.it^
 @@||adwords.google.com^
-@@||adx.adform.net/adx/$xmlhttprequest,other,domain=tvp.pl
 @@||adx.kr^
 @@||adx.yiche.com/cityindex.ashx
 @@||adx.yiche.com/ssp/echo/v1.0/en?*,*,*&cs=
@@ -3066,6 +3067,7 @@
 @@||api.mapbox.com/*?secure&access_token=$stealth
 @@||api.mapbox.com/geocoding/$stealth
 @@||api.mapbox.com^
+@@||api.mapbox.com^$stealth,domain=kamsnim.cz
 @@||api.mapbox.com^$stealth,domain=tunein.com
 @@||api.mapbox.com^$xmlhttprequest,stealth,domain=weather.com
 @@||api.media.jio.com^
@@ -5233,7 +5235,6 @@
 @@||cdn.adpushup.com/*/adpushup.js$domain=duplichecker.com
 @@||cdn.adrise.tv/js/ads.js$domain=tubitv.com
 @@||cdn.adrise.tv^
-@@||cdn.adsafeprotected.com/*.*.js$domain=gentside.com|gentside.de|gentside.co.uk|gentside.com.br|esgentside.com|maxisciences.com|ohmymag.com|ohmymag.de|ohmymag.com.br|ohmirevista.com
 @@||cdn.adsninja.ca/adsninja_client.js$domain=androidpolice.com
 @@||cdn.adsninja.ca/adsninja_client.js$domain=makeuseof.com|howtogeek.com
 @@||cdn.adsninja.ca/adsninja_client_style.css$domain=androidpolice.com
@@ -6396,6 +6397,7 @@
 @@||cnprint.org^$generichide
 @@||cnr.cn/gg/
 @@||cnsexy.top/wp-content/plugins/dh-anti-adblocker/assets/js/showads.js
+@@||cnstrc.com/js/cust/swanson-health_*.js$domain=swansonvitamins.com
 @@||cnstrc.com^
 @@||cntv.cn/include/video/js/cntv_Advertise.js
 @@||cntv.cn^*_ad.js
@@ -6522,6 +6524,7 @@
 @@||communities.api.playstation.com^
 @@||communities.vmware.com^
 @@||community-cdn-digitalocean-com.global.ssl.fastly.net^
+@@||community-uploads-production.*.amazonaws.com^$stealth=3p-cache
 @@||community-wscdn.xmwol.com^$stealth,image,stylesheet
 @@||community.akamai.steamstatic.com^
 @@||community.brave.com/t/$xmlhttprequest
@@ -10447,7 +10450,6 @@
 @@||google.*/_/chrome/newtab$document
 @@||google.*/aclk$~third-party
 @@||google.*/edu/cs/$genericblock
-@@||google.*/images/icons/product/adsense-
 @@||google.*/imgres?
 @@||google.*/mapmaker/gen_204?$subdocument,xmlhttprequest
 @@||google.*/maps^$removeparam=utm_campaign
@@ -10719,7 +10721,6 @@
 @@||googleadservices.com^|$app=com.google.android.youtube
 @@||googleapis.com/customsearch/$domain=m.hdzog.com
 @@||googleapis.com/identitytoolkit^$stealth=referrer
-@@||googleapis.com/tile/v*/*?session=$stealth,domain=waze.com
 @@||googleapis.com/youtube/$stealth,domain=angrybirdsnest.com
 @@||googleapis.com^
 @@||googleapis.com^$script,stylesheet,domain=canyoublockit.com
@@ -12506,6 +12507,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gocolumbialions.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gostanford.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=greatdaygames.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gsgazete.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=h5.4j.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=haber7.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=haberglobal.com.tr
@@ -15928,6 +15930,7 @@
 @@||mistrzowie.org^
 @@||mit.edu^
 @@||mitsha.re^
+@@||mitsubishiclub.cz^$generichide
 @@||mitunes.game.xiaomi.com^
 @@||miui.com^
 @@||miui.net^
@@ -16455,7 +16458,6 @@
 @@||my-testosterone-reviews.com^
 @@||my.163.com^
 @@||my.aliexpress.com^
-@@||my.asos.com/identity^$stealth
 @@||my.bankrate.com^
 @@||my.bmi.ir^$elemhide,jsinject
 @@||my.boldchat.com^
@@ -16750,7 +16752,6 @@
 @@||netroam.mihome.intl.xiaomi.net^
 @@||netroam.mihome.xiaomi.net^
 @@||netshoes.com.br/webanalytics/collect
-@@||nettavisen.no/templates/v*/resources/admanager/templates/topover/topover.jsp
 @@||netto-online.de/jquery/webanalytics/xtcore.js
 @@||network.bazaarvoice.com^
 @@||networking-htx.com^
@@ -19142,6 +19143,7 @@
 @@||qrfy.com^
 @@||qrfy.io^
 @@||qrisni.me^
+@@||qrlcm.top^
 @@||qrs.ly^
 @@||qrtag.fr^
 @@||qrurl.cc^
@@ -19910,7 +19912,6 @@
 @@||s-url.fr^
 @@||s.163.com^
 @@||s.206ads.com/core.js$domain=androidauthority.com
-@@||s.206ads.com/helper.js$domain=androidauthority.com
 @@||s.4pda.to^
 @@||s.accupass.com^
 @@||s.adadapter.netzathleten-media.de/*/naMediaAd.js$domain=wooco.de
@@ -20444,7 +20445,6 @@
 @@||secure-photo.mylife.com^
 @@||secure-us.imrworldwide.com^
 @@||secure.aadcdn.microsoftonline-p.com^
-@@||secure.adnxs.com/ptv?id=*&cb=*&pubclick=$xmlhttprequest,other,domain=tvp.pl
 @@||secure.anedot.com^
 @@||secure.avangate.com^
 @@||secure.bam-forms.com^
@@ -20504,7 +20504,6 @@
 @@||securepubads.g.doubleclick.net/*/pubads_impl*.js$script,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com|djxmaza.in|miuiflash.com|thecubexguide.com|jytechs.in
 @@||securepubads.g.doubleclick.net/gampad/ads$domain=cinemaxx.de
 @@||securepubads.g.doubleclick.net/gampad/ads$domain=purepeople.com
-@@||securepubads.g.doubleclick.net/gampad/ads$domain=simple.ripley.cl
 @@||securepubads.g.doubleclick.net/gampad/ads$domain=softonic.com
 @@||securepubads.g.doubleclick.net/gampad/ads$domain=wtf.nl
 @@||securepubads.g.doubleclick.net/gampad/ads?$domain=bloomberg.com
@@ -23151,7 +23150,6 @@
 @@||theme-shop.coffeecup.com^
 @@||themeforest.net^
 @@||themegrill.com^
-@@||themes.googleusercontent.com/static/fonts/$domain=tweaktown.com
 @@||themes.mozilla.org^
 @@||themezon.net/link.php$stealth=referrer
 @@||themoviedb.com^
@@ -24607,6 +24605,7 @@
 @@||v.fwmrm.net/ad/g/1?$domain=play.tv3.lt
 @@||v.fwmrm.net/ad/g/1?$domain=ruutu.fi
 @@||v.fwmrm.net/ad/g/1?*mtv_desktop$xmlhttprequest
+@@||v.fwmrm.net/ad/g/1?csid=vcbs_cbsnews_*_web_vod&*&host=https%3A%2F%2Fwww.cbsnews.com&$domain=imasdk.googleapis.com
 @@||v.fwmrm.net/ad/p/1?$domain=cc.com|channel5.com|cmt.com|eonline.com|foodnetwork.com|nbcnews.com|ncaa.com|player.theplatform.com|simpsonsworld.com|today.com
 @@||v.fwmrm.net/crossdomain.xml$xmlhttprequest
 @@||v.gd^
@@ -24707,6 +24706,7 @@
 @@||vdun.weibo.com^$important
 @@||vea.link^
 @@||veall.mom^
+@@||vector.hereapi.com/v*/vectortiles/$stealth
 @@||vectorsdk.map.qq.com^
 @@||vectorsdk.map.qq.com^$important
 @@||veev.to^$generichide
@@ -25187,7 +25187,6 @@
 @@||watchfilmhd.live^
 @@||watchmoviehd.live^
 @@||wave.sndcdn.com^
-@@||wavepc.pl/wp-content/*-500x100.png$image,~third-party
 @@||waveurl.net^
 @@||wavse.com^$generichide
 @@||way.to^
@@ -25284,7 +25283,6 @@
 @@||webex.com^$generichide
 @@||webfail.com/image
 @@||webflow.grsm.io^
-@@||webgains.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@||webgoogle.live^
 @@||webgrab.wechat.com^
 @@||webhostingtalk.com^
