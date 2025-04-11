@@ -2,9 +2,9 @@
 ! Title: HyperADRules
 ! Homepage: https://github.com/Lynricsy/HyperADRules
 ! Expires: 12 Hours
-! Version: 2025-04-10 20:19:14（北京时间）
+! Version: 2025-04-11 08:49:19（北京时间）
 ! Description: HyperADRules，一个集合众家之长的、强力去广告的规则
-! Total count: 27880
+! Total count: 27886
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -2618,9 +2618,11 @@
 @@||analidiaestevezortizs.life^
 @@||analogplanet.com^$elemhide
 @@||analysys.cn^$domain=analysys.cn
+@@||analytics*.trustyou.com^
 @@||analytics-*.clickdimensions.com/*/pages/*.html$subdocument,domain=nhs.uk
 @@||analytics-*.clickdimensions.com/*/pages/*.html$subdocument,domain=techuk.org
 @@||analytics-*.clickdimensions.com/forms/$subdocument,domain=nhs.uk|clickdimensions.com
+@@||analytics-eu.trustyou.com^
 @@||analytics-sdk.yle.fi/yle-analytics.min.js$~third-party
 @@||analytics-static.ugc.bazaarvoice.com/prod/$script,domain=hisense.co.uk
 @@||analytics.163.com/ntes.js$domain=3g.163.com
@@ -2654,6 +2656,7 @@
 @@||analytics.kbjfree.com/js/plausible.js
 @@||analytics.ladmedia.fr/parismatch/xtcore_mod2.js$domain=parismatch.com
 @@||analytics.tiktok.com/*/pixel/sdk.js$domain=wopilo.com
+@@||analytics.trustyou.com^
 @@||analytics.twitter.com^
 @@||analytics.yinxiang.com^$important
 @@||analyticsindiamag.com^
@@ -4399,6 +4402,7 @@
 @@||bkite.com^
 @@||bkssl.bdimg.com^
 @@||bl.ink^
+@@||bl360.cn^
 @@||black-panther.live^
 @@||black.game.naver.com^
 @@||blackberry.com^
@@ -4436,7 +4440,6 @@
 @@||blog-at.line.me^
 @@||blog-cdn.feedspot.com^
 @@||blog-cdn2.feedspot.com^
-@@||blog-cms.line.me^
 @@||blog.6ziz.com^$generichide
 @@||blog.appsumo.com^
 @@||blog.bit.ly^
@@ -5455,7 +5458,7 @@
 @@||cdn.mxpnl.com/libs/mixpanel-*.min.js$domain=voot.com
 @@||cdn.mxpnl.com/libs/mixpanel-2-latest.min.js$domain=twe.no
 @@||cdn.mxpnl.com^
-@@||cdn.naver360.cn^
+@@||cdn.naver.com^
 @@||cdn.network.exponea.com^
 @@||cdn.nlark.com^$image,stealth,domain=yuque.com
 @@||cdn.ometria.com/tags/*.js$domain=holtrenfrew.com
@@ -12618,7 +12621,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=gbnews.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=news4jax.com|gmg-wjxt-prod.cdn.arcpublishing.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=sonyliv.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=southparkstudios.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=southpark.*|southparkstudios.*
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=vix.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=wsls.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=zee5.com
@@ -17305,6 +17308,7 @@
 @@||ofpagemari.xyz^
 @@||ofpagemaria.xyz^
 @@||ofwll.com^
+@@||og-cms.line.me^
 @@||ogcrawler.blog.naver.com^
 @@||oge.la^
 @@||oghyn.lol^
@@ -19606,6 +19610,7 @@
 @@||responder.wt-safetag.com/resp/api/get/$script,domain=myhermes.de
 @@||rest.edit.site/geoip-service/geoip$domain=systemshouse.com
 @@||restapi.amap.com^
+@@||restaurant-information.com^
 @@||resultspage.com^
 @@||retailer.moviesanywhere.com^
 @@||retailmenot.com/__wsm.gif$ping,~third-party,xmlhttprequest
@@ -22497,6 +22502,7 @@
 @@||sur.lv^
 @@||sur.ly^
 @@||sura.pw^
+@@||suratkargo.com.tr^$stealth=dpi
 @@||surf.plus.google.com^
 @@||surfguru.com^$generichide
 @@||surfspot.nl^
