@@ -433,7 +433,7 @@
 @@||ahoo.it^
 @@||ai.ly^
 @@||aicdn.com^
-@@||aider-res.meizu.com^
+@@||aider-res.meizu.coe.com^
 @@||aillis.line.me^
 @@||airdownload.adobe.com^
 @@||airdownload2.adobe.com^
@@ -1795,6 +1795,7 @@
 @@||bc.vc^
 @@||bcbits.com^
 @@||bce.baidu.com^
+@@||bce.baidu.comu.com^
 @@||bcedns.com^
 @@||bcedns.net^
 @@||bcee.lu^
@@ -4145,6 +4146,7 @@
 @@||forums.mozillazine.org^
 @@||forums.oneplus.com^
 @@||forums.plex.tv^
+@@||forums.roklobjects.com^
 @@||forums.roku.com^
 @@||forums.sonarr.tv^
 @@||forums.techguy.org^
@@ -7024,9 +7026,9 @@
 @@||noteapi.micloud.xiaomi.net^
 @@||notepad-plus-plus.org^
 @@||noteworthy.medium.com^
-@@||notice.360.cn^
 @@||notice.game.xiaomi.com^
 @@||notice.line.me^
+@@||notice.samsungcloudsolution.com^
 @@||notice.xbox.com^
 @@||notice2.line.me^
 @@||noticecdn.samsungcloudsolution.com^
@@ -8294,7 +8296,6 @@
 @@||samsung.se^
 @@||samsung.stories.bazaarvoice.com^
 @@||samsung.ugc.bazaarvoice.com^
-@@||samsungcloudsolution.com^
 @@||samsungcloudsolution.net^
 @@||samsungelectronics.com^
 @@||samsungeucdm-mid-prod1-res.adobe-campaign.com^
