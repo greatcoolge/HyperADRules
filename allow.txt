@@ -2,9 +2,9 @@
 ! Title: HyperADRules
 ! Homepage: https://github.com/Lynricsy/HyperADRules
 ! Expires: 12 Hours
-! Version: 2025-04-11 20:18:52（北京时间）
+! Version: 2025-04-12 08:47:52（北京时间）
 ! Description: HyperADRules，一个集合众家之长的、强力去广告的规则
-! Total count: 27880
+! Total count: 27900
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -4403,7 +4403,6 @@
 @@||bkite.com^
 @@||bkssl.bdimg.com^
 @@||bl.ink^
-@@||bl360.cn^
 @@||black-panther.live^
 @@||black.game.naver.com^
 @@||blackberry.com^
@@ -4441,6 +4440,7 @@
 @@||blog-at.line.me^
 @@||blog-cdn.feedspot.com^
 @@||blog-cdn2.feedspot.com^
+@@||blog-cms.line.me^
 @@||blog.6ziz.com^$generichide
 @@||blog.appsumo.com^
 @@||blog.bit.ly^
@@ -7775,6 +7775,7 @@
 @@||donorschoose.org^
 @@||dood.watch^$subdocument
 @@||doods.to^$generichide
+@@||doodstream.day^
 @@||door2door2.org^
 @@||doortodoor.co.kr/jsp/cmn/Tracking.jsp^
 @@||dopice.sk^
@@ -9561,6 +9562,7 @@
 @@||gaa.st^
 @@||gaanacdn.com/*_social_tracking.js$domain=gaana.com
 @@||gabe.it.gemius.pl/gemiuslib.js$app=com.saipm.dh|com.twipemobile.laderniereheure|com.vlan.capteo|be.rossel.sudpresse.sports|be.rossel.lesoir.sports|be.rossel.westtoer|com.audaxis.mobile.sudpresse.lameuse|com.audaxis.mobile.sudpresse.lacapitale|com.audaxis.mobile.sudpresse.laprovince|com.audaxis.mobile.sudpresse.lanouvellegazette|com.audaxis.mobile.sudpresse.nordeclair|be.lesoir.geeko|be.lesoir.goToJo|be.rossel.android.communales|be.sudpresse.blogs|be.sudpresse.reader|be.vlan.reader|com.rossel.hslesoir|com.audaxis.mobile.sudpresse|be.rossel.soirmag|com.rosselfestival|be.appsolution.lesoir|com.twipemobile.lalibreplus|com.tapptic.cinebel|com.tapptic.lalibre|be.twizz
+@@||gacha.christmas^
 @@||gacor.tokyo^
 @@||gacor22.me^
 @@||gacor66.me^
@@ -11707,6 +11709,7 @@
 @@||heuxn.sbs^
 @@||hex.io^
 @@||hexux.lol^
+@@||heybit.link^
 @@||heylink.me^
 @@||heyue.xiaomi.com^
 @@||hf.co^
@@ -11889,6 +11892,7 @@
 @@||hot.browser.miui.com^
 @@||hotel.travel.rakuten.co.jp^
 @@||hotjar.com^
+@@||hotlinkto.info^
 @@||hotm.art^
 @@||hotmail.com/mail/*/i2a.js
 @@||hotmail.com^
@@ -12249,6 +12253,7 @@
 @@||idm.hit.gemius.pl/gplayer.js$domain=muratorplus.pl
 @@||idm.hit.gemius.pl/gplayer.js$domain=poradnikzdrowie.pl|mjakmama24.pl|se.pl|eskarock.pl|voxfm.pl|radioplus.pl|eska.pl|radiosupernova.pl|vibefm.pl|urzadzamy.pl|muratordom.pl
 @@||idm.in^
+@@||idmail.me^
 @@||idos.idnes.cz^$csp
 @@||idownloadblog.com^
 @@||idroid.taobao.com^
@@ -13274,6 +13279,7 @@
 @@||iurl.one^
 @@||iurl.us^
 @@||iutoic-dhaka.edu^
+@@||iuu.ro^
 @@||iv*.imgview.net/i/$image
 @@||iv-h.phncdn.com^
 @@||ivi.ru/*/video/?id=$stealth
@@ -13381,7 +13387,9 @@
 @@||jesse-hall-igan112.life^
 @@||jessestonecedar.live^
 @@||jetv.xyz/dz/?id=$stealth=referrer
+@@||jetzt.bekservice.co.uk^
 @@||jetzt.de^$generichide
+@@||jetzt.work^
 @@||jetztspielen.de^*/EventTracker.js
 @@||jf.360.cn^
 @@||jfe-cdn.qualtrics.com^
@@ -14162,6 +14170,7 @@
 @@||lesacasino.com^*/EMERPEventCollector.$script,subdocument
 @@||leshizyimg.com^
 @@||lesports.com/pc/??*/click_statistics/
+@@||less.al^
 @@||lessnmore.net^
 @@||lessornot.ws^$stealth=ip
 @@||letblog.com.ng^
@@ -15651,6 +15660,8 @@
 @@||medium.com^$stealth
 @@||medium.freecodecamp.org^
 @@||medonet.pl/*&srcc=ucs$removeparam=utm_source
+@@||medusa88.online^
+@@||medusa88.store^
 @@||meet.google.com^$generichide
 @@||meet.jit.si^$stealth
 @@||meet.snap.com^
@@ -15948,6 +15959,7 @@
 @@||mixpanel.com^$domain=mixpanel.com
 @@||mj.am^
 @@||mjevg.com^
+@@||mjp88.online^
 @@||mjrpay.jd.com^$important
 @@||mjt.lu^
 @@||mk0ghacksnety2pjrgh8.kinstacdn.com^
@@ -16998,9 +17010,9 @@
 @@||noteapi.micloud.xiaomi.net^
 @@||notepad-plus-plus.org^
 @@||noteworthy.medium.com^
+@@||notice.360.cn^
 @@||notice.game.xiaomi.com^
 @@||notice.line.me^
-@@||notice.samsungcloudsolution.com^
 @@||notice.xbox.com^
 @@||notice2.line.me^
 @@||noticecdn.samsungcloudsolution.com^
@@ -17304,7 +17316,6 @@
 @@||ofpagemari.xyz^
 @@||ofpagemaria.xyz^
 @@||ofwll.com^
-@@||og-cms.line.me^
 @@||ogcrawler.blog.naver.com^
 @@||oge.la^
 @@||oghyn.lol^
@@ -17363,6 +17374,7 @@
 @@||olx.ua/i2/ajax/ad/
 @@||olx.ua^
 @@||olymptrade.com^
+@@||olympus1000.fyi^
 @@||om-apis.sk-pay.co.kr^$stealth,app=com.elevenst
 @@||om.cbsi.com^
 @@||om.ly^
@@ -19146,6 +19158,7 @@
 @@||qrtag.fr^
 @@||qrurl.cc^
 @@||qs.rams-app.com^
+@@||qs1.it^
 @@||qsl.pw^
 @@||qspfw.com/r/cms/www/qspfw/common/img/ad_
 @@||qsrm.qualcomm.com^
@@ -19275,6 +19288,7 @@
 @@||raindrop.io^
 @@||rainonit.com^
 @@||raise.ada.support^
+@@||rajamahjong.site^
 @@||rakaug.com^
 @@||rakuten-bank.co.jp/rb/ams/img/ad/$~third-party
 @@||rakuten.co.jp^
@@ -20144,6 +20158,7 @@
 @@||samsung.se^
 @@||samsung.stories.bazaarvoice.com^
 @@||samsung.ugc.bazaarvoice.com^
+@@||samsungcloudsolution.com^
 @@||samsungcloudsolution.net^
 @@||samsungelectronics.com^
 @@||samsungeucdm-mid-prod1-res.adobe-campaign.com^
@@ -23426,6 +23441,7 @@
 @@||tny.sh^
 @@||tny.so^
 @@||tny.xyz^
+@@||tnyurl.one^
 @@||to.ly^
 @@||to.pbs.org^
 @@||to8.cc^
@@ -23987,6 +24003,7 @@
 @@||u.tlht.us^
 @@||u.to^
 @@||u.wechat.com^
+@@||u0c.net^
 @@||u1.img.mobile.sina.cn^$important
 @@||u1.mnge.co^
 @@||u2l.io^
@@ -24372,6 +24389,7 @@
 @@||urlin.it^
 @@||urlinko.com^
 @@||urlinks.cc^
+@@||urlinkz.me^
 @@||urlis.net^
 @@||urlist.net^
 @@||urlki.com^
@@ -24870,6 +24888,7 @@
 @@||vipergirls.to^
 @@||vipgacor77.net^
 @@||viprupiah138.net^
+@@||vipshortener.com^
 @@||vipslot4d.site^
 @@||vipstatic.com/img/share/blank.png
 @@||viptango77.net^
@@ -25096,6 +25115,7 @@
 @@||wa.huawei.com^
 @@||wa.link^
 @@||wa.me^
+@@||wa.style^
 @@||wa.sv^
 @@||waa.ai^
 @@||waad.co^
