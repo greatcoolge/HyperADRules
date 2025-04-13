@@ -433,7 +433,7 @@
 @@||ahoo.it^
 @@||ai.ly^
 @@||aicdn.com^
-@@||aider-res.meizu.coe.com^
+@@||aider-res.meizu.com^
 @@||aillis.line.me^
 @@||airdownload.adobe.com^
 @@||airdownload2.adobe.com^
@@ -1795,7 +1795,6 @@
 @@||bc.vc^
 @@||bcbits.com^
 @@||bce.baidu.com^
-@@||bce.baidu.comu.com^
 @@||bcedns.com^
 @@||bcedns.net^
 @@||bcee.lu^
@@ -4146,7 +4145,6 @@
 @@||forums.mozillazine.org^
 @@||forums.oneplus.com^
 @@||forums.plex.tv^
-@@||forums.roklobjects.com^
 @@||forums.roku.com^
 @@||forums.sonarr.tv^
 @@||forums.techguy.org^
@@ -11985,6 +11983,7 @@
 @@||zero.facebook.com^
 @@||zero.wikipedia.com^
 @@||zerohedge.com^
+@@||zerossl.ocsp.sectigo.com360.cn^
 @@||zeustracker.abuse.ch^
 @@||zh-cn.about.flipboard.com^
 @@||zh-hk.about.flipboard.com^
