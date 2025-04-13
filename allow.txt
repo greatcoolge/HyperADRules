@@ -2,9 +2,9 @@
 ! Title: HyperADRules
 ! Homepage: https://github.com/Lynricsy/HyperADRules
 ! Expires: 12 Hours
-! Version: 2025-04-12 20:16:32（北京时间）
+! Version: 2025-04-13 10:14:22（北京时间）
 ! Description: HyperADRules，一个集合众家之长的、强力去广告的规则
-! Total count: 27917
+! Total count: 27919
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -310,6 +310,7 @@
 @@|http*.php?url=$stealth,domain=nicotv.me
 @@|http*://*.*/*.$image,third-party,domain=a2zupload.com
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgne.com^$third-party
 @@|https://$xmlhttprequest,domain=depositfiles.com|depositfiles.org|dfiles.eu|dfiles.ru
 @@||*-cf.xvideos-cdn.com^
 @@||*-go.kelkoogroup.net^
@@ -1777,7 +1778,7 @@
 @@||ai6.net^
 @@||aiasahi.jp/ads/$image,domain=japan.zdnet.com
 @@||aicdn.com^
-@@||aider-res.meizu.com^
+@@||aider-res.meizu.coe.com^
 @@||aiecj2.com^
 @@||aighy.com^
 @@||aillis.line.me^
@@ -4066,6 +4067,7 @@
 @@||bcbits.com^
 @@||bcbsks.com^$stealth=dpi
 @@||bce.baidu.com^
+@@||bce.baidu.comu.com^
 @@||bcebos.com/static/translation/widget/translate/output/AdBanner/AdBanner.js
 @@||bcebos.com^$script,domain=biququ.info|jingwubook.com
 @@||bcedns.com^
@@ -9273,6 +9275,7 @@
 @@||forums.oneplus.com^
 @@||forums.opera.com/api/topic/$~third-party,xmlhttprequest
 @@||forums.plex.tv^
+@@||forums.roklobjects.com^
 @@||forums.roku.com^
 @@||forums.sonarr.tv^
 @@||forums.techguy.org^
@@ -17022,9 +17025,9 @@
 @@||noteapi.micloud.xiaomi.net^
 @@||notepad-plus-plus.org^
 @@||noteworthy.medium.com^
-@@||notice.360.cn^
 @@||notice.game.xiaomi.com^
 @@||notice.line.me^
+@@||notice.samsungcloudsolution.com^
 @@||notice.xbox.com^
 @@||notice2.line.me^
 @@||noticecdn.samsungcloudsolution.com^
@@ -20177,7 +20180,6 @@
 @@||samsung.se^
 @@||samsung.stories.bazaarvoice.com^
 @@||samsung.ugc.bazaarvoice.com^
-@@||samsungcloudsolution.com^
 @@||samsungcloudsolution.net^
 @@||samsungelectronics.com^
 @@||samsungeucdm-mid-prod1-res.adobe-campaign.com^
