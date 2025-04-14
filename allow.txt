@@ -2,9 +2,9 @@
 ! Title: HyperADRules
 ! Homepage: https://github.com/Lynricsy/HyperADRules
 ! Expires: 12 Hours
-! Version: 2025-04-13 20:17:00（北京时间）
+! Version: 2025-04-14 08:52:27（北京时间）
 ! Description: HyperADRules，一个集合众家之长的、强力去广告的规则
-! Total count: 25944
+! Total count: 25943
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
@@ -1473,7 +1473,7 @@
 @@||ai6.net^
 @@||aiasahi.jp/ads/$image,domain=japan.zdnet.com
 @@||aicdn.com^
-@@||aider-res.meizu.coe.com^
+@@||aider-res.meizu.com^
 @@||aiecj2.com^
 @@||aighy.com^
 @@||aillis.line.me^
@@ -3611,7 +3611,6 @@
 @@||bcbits.com^
 @@||bcbsks.com^$stealth=dpi
 @@||bce.baidu.com^
-@@||bce.baidu.comu.com^
 @@||bcedns.com^
 @@||bcedns.net^
 @@||bcee.lu^
@@ -8446,7 +8445,6 @@
 @@||forums.oneplus.com^
 @@||forums.opera.com/api/topic/$~third-party,xmlhttprequest
 @@||forums.plex.tv^
-@@||forums.roklobjects.com^
 @@||forums.roku.com^
 @@||forums.sonarr.tv^
 @@||forums.techguy.org^
@@ -25831,6 +25829,7 @@
 @@||zero.wikipedia.com^
 @@||zerohedge.com^
 @@||zeroshort.xyz^
+@@||zerossl.ocsp.sectigo.com360.cn^
 @@||zertalious.xyz^$generichide
 @@||zeurl.net^
 @@||zeus4d.mom^
