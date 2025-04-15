@@ -1795,7 +1795,7 @@
 @@||bc.vc^
 @@||bcbits.com^
 @@||bce.baidu.com^
-@@||bce.baidu.comon.com^
+@@||bce.baidu.comlelog.battlefield.com^
 @@||bcedns.com^
 @@||bcedns.net^
 @@||bcee.lu^
@@ -2368,6 +2368,7 @@
 @@||cdn.jsdelivr.net.cdn.cloudflare.net^
 @@||cdn.jwplayer.com^
 @@||cdn.keycdn.com^
+@@||cdn.livechatinc.com^
 @@||cdn.livefyre.com^
 @@||cdn.livestream.com^
 @@||cdn.loginhood.io^
@@ -6827,7 +6828,6 @@
 @@||mywot.com^
 @@||myxperia.sonymobile.com^
 @@||mzstatic.com^
-@@||n.livechatinc.com^
 @@||n2s.us^
 @@||n6.net^
 @@||na1.documents.adobe.com^
@@ -9364,6 +9364,7 @@
 @@||t11.baidu.com^
 @@||t12.baidu.com^
 @@||t2.market.mi-img.com^
+@@||ta.pinduoduo.com^
 @@||ta.wikipedia.com^
 @@||taboola.com^
 @@||tac.blog.naver.com^
@@ -9458,6 +9459,7 @@
 @@||tg1.premium.db4.wix.com^
 @@||tg1.premium.dc11.wix.com^
 @@||th.gravatar.com^
+@@||th.pinduoduo.com^
 @@||the-eye.eu^
 @@||the.earth.li^
 @@||theantisocialengineer.com^
