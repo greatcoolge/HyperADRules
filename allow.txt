@@ -2,9 +2,9 @@
 ! Title: HyperADRules
 ! Homepage: https://github.com/Lynricsy/HyperADRules
 ! Expires: 12 Hours
-! Version: 2025-04-14 20:19:23（北京时间）
+! Version: 2025-04-15 08:50:46（北京时间）
 ! Description: HyperADRules，一个集合众家之长的、强力去广告的规则
-! Total count: 27907
+! Total count: 27909
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -340,6 +340,7 @@
 @@||*.y.qq.com^$important
 @@||*.yt2api.com/api/$domain=api.ytapi.cc,stealth=referrer
 @@||*cdn.exponea.com^
+@@||*hubst.guru/uploads/$stealth=referrer
 @@||*optout$domain=smartadserver.com
 @@||*optout$domain=youronlinechoices.com
 @@||*status$domain=youronlinechoices.com
@@ -4059,6 +4060,7 @@
 @@||bcbits.com^
 @@||bcbsks.com^$stealth=dpi
 @@||bce.baidu.com^
+@@||bce.baidu.comon.com^
 @@||bcebos.com/static/translation/widget/translate/output/AdBanner/AdBanner.js
 @@||bcebos.com^$script,domain=biququ.info|jingwubook.com
 @@||bcedns.com^
@@ -5424,7 +5426,6 @@
 @@||cdn.lib.getjad.io/prebid/$domain=purepeople.com
 @@||cdn.livechatinc.com/tracking.js$domain=bitdefender.com
 @@||cdn.livechatinc.com/tracking.js$domain=freedompop.com
-@@||cdn.livechatinc.com^
 @@||cdn.livefyre.com^
 @@||cdn.livestream.com^
 @@||cdn.loginhood.io^
@@ -9489,7 +9490,6 @@
 @@||g.alicdn.com.danuoyi.alicdn.com^
 @@||g.alicdn.com/??*/criteo
 @@||g.alicdn.com/AWSC/et/$domain=ele.me
-@@||g.alicdn.com/alilog/mlog/aplus_v2.js$domain=taobao.com
 @@||g.alicdn.com/alilog/mlog/aplus_v2.js$domain=world.taobao.com
 @@||g.alicdn.com^
 @@||g.alicdn.com^*/banner_ad_
@@ -12565,6 +12565,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=rte.ie
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=rtl.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=sbs.com.au
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=skai.gr
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=sondakika.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=spox.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=texastech.com
@@ -12610,6 +12611,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=engine.univtec.com|america.cgtn.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=gbnews.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=news4jax.com|gmg-wjxt-prod.cdn.arcpublishing.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=skai.gr
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=sonyliv.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=southpark.*|southparkstudios.*
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=vix.com
@@ -16601,6 +16603,7 @@
 @@||n-shay-i-99.info^
 @@||n-tan-dow-mckoena-0903.life^
 @@||n.163.com^
+@@||n.livechatinc.com^
 @@||n.opn.tl^
 @@||n.pr^
 @@||n.sinaimg.cn^
@@ -27786,7 +27789,6 @@
 @@||zero.wikipedia.com^
 @@||zerohedge.com^
 @@||zeroshort.xyz^
-@@||zerossl.ocsp.sectigo.com360.cn^
 @@||zertalious.xyz^$generichide
 @@||zeurl.net^
 @@||zeus4d.mom^
