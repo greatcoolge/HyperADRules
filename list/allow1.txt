@@ -1795,6 +1795,7 @@
 @@||bc.vc^
 @@||bcbits.com^
 @@||bce.baidu.com^
+@@||bce.baidu.com.com^
 @@||bcedns.com^
 @@||bcedns.net^
 @@||bcee.lu^
@@ -9451,6 +9452,7 @@
 @@||test.vuukle.com^
 @@||testingcf.jsdelivr.net^
 @@||testingcf.jsdelivr.net.cdn.cloudflare.net^
+@@||testit.miui.com^
 @@||testkitchen.huffingtonpost.com^
 @@||texas.gov^
 @@||text.getpocket.com^
@@ -11985,6 +11987,7 @@
 @@||zero.facebook.com^
 @@||zero.wikipedia.com^
 @@||zerohedge.com^
+@@||zerossl.ocsp.sectigo.com360.cn^
 @@||zeustracker.abuse.ch^
 @@||zh-cn.about.flipboard.com^
 @@||zh-hk.about.flipboard.com^
