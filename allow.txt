@@ -2,9 +2,9 @@
 ! Title: HyperADRules
 ! Homepage: https://github.com/Lynricsy/HyperADRules
 ! Expires: 12 Hours
-! Version: 2025-04-17 20:19:03（北京时间）
+! Version: 2025-04-18 08:48:34（北京时间）
 ! Description: HyperADRules，一个集合众家之长的、强力去广告的规则
-! Total count: 27136
+! Total count: 27148
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -929,6 +929,8 @@
 @@||a-0009.a-msedge.net^
 @@||a-adq.mediation.unity3d.com^$app=jp.step_official
 @@||a-airasia-001-gyf12.insnw.net^
+@@||a-fds.youborafds01.com/data?$xhr,domain=pluto.tv
+@@||a-fds.youborafds01.com/data?$xmlhttprequest,domain=pluto.tv
 @@||a-msedge.net^
 @@||a-v2.sndcdn.com^
 @@||a-v2.x.sndcdn.com^
@@ -3693,6 +3695,7 @@
 @@||auth.snapchat.com^
 @@||auth.software.eu.playstation.com^
 @@||auth.support.sonymobile.com^
+@@||auth.ticketmaster.com/epsf/gec*Login
 @@||auth.vodafone.hu^$cookie=dtCookie
 @@||auth.voxmedia.com^
 @@||auth.xda-developers.com^
@@ -3980,6 +3983,7 @@
 @@||bcair.sbs^
 @@||bcbits.com^
 @@||bcbsks.com^$stealth=dpi
+@@||bce.baidu.com.com^
 @@||bce.baidu.com^
 @@||bcebos.com/static/translation/widget/translate/output/AdBanner/AdBanner.js
 @@||bcebos.com^$script,domain=biququ.info|jingwubook.com
@@ -12053,6 +12057,7 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
+@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||ilpuntotecnico.com^$generichide
@@ -13522,6 +13527,7 @@
 @@||kiwihousesitters.co.nz/members$urlblock
 @@||kjd.us^
 @@||kjimg10.360buyimg.com^
+@@||kjuzm.sbs^
 @@||kk665403.pixnet.net^$generichide
 @@||kkc.tech^
 @@||kkday.me^
@@ -16174,6 +16180,7 @@
 @@||mysupport.sonymobile.com^
 @@||mysurl.com^
 @@||mytd.cc^
+@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -19702,6 +19709,7 @@
 @@||sb.scorecardresearch.com/beacon.js$domain=sciencechannel.com
 @@||sb.scorecardresearch.com/beacon.js$domain=velocity.com
 @@||sbanh.com^
+@@||sberbank.com^$stealth=donottrack
 @@||sberbank.ru^$stealth=ip
 @@||sbfast.com^
 @@||sbfull.com/e/$stealth
@@ -20359,6 +20367,7 @@
 @@||shopapi.io.mi.com^
 @@||shopback.com.tw^$generichide
 @@||shope.ee^
+@@||shopeedeals.sale^
 @@||shopeemobile.com/shopee/*/modules/ads/
 @@||shopeesz.com/shopee/*/modules/ads/
 @@||shopifie.com^
@@ -20685,6 +20694,7 @@
 @@||skl.sh^
 @@||skladovaokna.cz^
 @@||skmedix.pl/*/*.js$~third-party
+@@||sknrd.us^
 @@||skr.sk^
 @@||skrat.it^
 @@||skro.in^
@@ -22469,6 +22479,7 @@
 @@||test.vuukle.com^
 @@||testingcf.jsdelivr.net.cdn.cloudflare.net^
 @@||testingcf.jsdelivr.net^
+@@||testit.miui.com^
 @@||testkitchen.huffingtonpost.com^
 @@||testufo.com^$generichide
 @@||texas.gov^
@@ -27024,6 +27035,7 @@
 @@||zero.wikipedia.com^
 @@||zerohedge.com^
 @@||zeroshort.xyz^
+@@||zerossl.ocsp.sectigo.com360.cn^
 @@||zertalious.xyz^$generichide
 @@||zeurl.net^
 @@||zeus4d.mom^
