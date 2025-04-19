@@ -2,9 +2,9 @@
 ! Title: HyperADRules
 ! Homepage: https://github.com/Lynricsy/HyperADRules
 ! Expires: 12 Hours
-! Version: 2025-04-18 20:18:06（北京时间）
+! Version: 2025-04-19 08:46:25（北京时间）
 ! Description: HyperADRules，一个集合众家之长的、强力去广告的规则
-! Total count: 27150
+! Total count: 27149
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -311,7 +311,6 @@
 @@|http*.php?url=$stealth,domain=nicotv.me
 @@|http*://*.*/*.$image,third-party,domain=a2zupload.com
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
-@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org||zononi.com^
 @@|https://$xmlhttprequest,domain=depositfiles.com|depositfiles.org|dfiles.eu|dfiles.ru
 @@||*-cf.xvideos-cdn.com^
 @@||*-go.kelkoogroup.net^
@@ -3266,7 +3265,6 @@
 @@||app.chat.xiaomi.net^
 @@||app.clarity.so^$~third-party
 @@||app.clickfunnels.com^
-@@||app.convertbox.com^$domain=genevievegauvin.com
 @@||app.data-di.com^
 @@||app.data.qq.com^
 @@||app.e.sigsauer.com^
@@ -3986,7 +3984,6 @@
 @@||bcair.sbs^
 @@||bcbits.com^
 @@||bcbsks.com^$stealth=dpi
-@@||bce.baidu.com.com^
 @@||bce.baidu.com^
 @@||bcebos.com/static/translation/widget/translate/output/AdBanner/AdBanner.js
 @@||bcebos.com^$script,domain=biququ.info|jingwubook.com
@@ -4453,7 +4450,6 @@
 @@||boards.ign.com^
 @@||boardsus.playstation.com^
 @@||boatwizard.com/ads_prebid.min.js$script,domain=boats.com
-@@||boeo.info^
 @@||bofh.us^
 @@||boi.re^
 @@||boile.rs^
@@ -5190,7 +5186,6 @@
 @@||cdn.consentmanager.net/delivery/js/cmp*.min.js$stealth
 @@||cdn.contentful.com/spaces^$stealth
 @@||cdn.contentful.com^
-@@||cdn.convertbox.com^$domain=genevievegauvin.com
 @@||cdn.cookielaw.org^
 @@||cdn.cpex.cz/cmp/v*/cpex-cmp.min.js$domain=zive.cz
 @@||cdn.cpnscdn.com^
@@ -7280,6 +7275,7 @@
 @@||developers.spot.im^
 @@||developers.vimeo.com^
 @@||developers.wechat.com^
+@@||devhub.rezcomm.com/hubapmydbauth/brandapi/$stealth=referrer
 @@||deviantart.com^
 @@||deviantart.com^$stealth=ip
 @@||device-api.urbanairship.com^
@@ -12058,6 +12054,7 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
+@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||ilpuntotecnico.com^$generichide
@@ -13811,7 +13808,6 @@
 @@||lcs.naver.com^
 @@||lcut.in^
 @@||lddy.no^
-@@||ldgr.info^
 @@||lds.org^
 @@||ldxinyong.com^$generichide
 @@||leadpages.co^
@@ -16184,6 +16180,7 @@
 @@||mysupport.sonymobile.com^
 @@||mysurl.com^
 @@||mytd.cc^
+@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -19252,6 +19249,7 @@
 @@||roadandtrack.com^
 @@||roar.media^
 @@||robertdray2.live^
+@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rochester.edu^
@@ -19837,6 +19835,7 @@
 @@||sctapi.ftqq.com^
 @@||scts.in^
 @@||scuf.co^
+@@||scvjj.sbs^
 @@||scyts.com^$generichide
 @@||sd-ccdc.huawei.com^
 @@||sd.360.cn^
@@ -20367,6 +20366,7 @@
 @@||shopapi.io.mi.com^
 @@||shopback.com.tw^$generichide
 @@||shope.ee^
+@@||shopeedeals.sale^
 @@||shopeemobile.com/shopee/*/modules/ads/
 @@||shopeesz.com/shopee/*/modules/ads/
 @@||shopifie.com^
@@ -27037,7 +27037,6 @@
 @@||zero.wikipedia.com^
 @@||zerohedge.com^
 @@||zeroshort.xyz^
-@@||zerossl.ocsp.sectigo.com360.cn^
 @@||zertalious.xyz^$generichide
 @@||zeurl.net^
 @@||zeus4d.mom^
