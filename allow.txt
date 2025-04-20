@@ -2,9 +2,9 @@
 ! Title: HyperADRules
 ! Homepage: https://github.com/Lynricsy/HyperADRules
 ! Expires: 12 Hours
-! Version: 2025-04-20 08:53:51（北京时间）
+! Version: 2025-04-20 20:16:42（北京时间）
 ! Description: HyperADRules，一个集合众家之长的、强力去广告的规则
-! Total count: 27159
+! Total count: 27149
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -46,6 +46,7 @@
 @@.xyz/premiumtv/*.php$subdocument,xmlhttprequest,stealth=referrer
 @@/*/*-*/*.png$stealth=referrer,xmlhttprequest,domain=dbx.molystream.org
 @@//store.donanimhaber.com/ad/*$domain=forum.donanimhaber.com
+@@/Tag.rb$domain=github.com
 @@/WebAd/*$domain=yongyoujia.com
 @@/\/[js].?[js]\/.*\.js/$script,xmlhttprequest,domain=rbtv77.*|live-streamfootball.*|superabbit77.*|superabbit33.*|superdom77.*|superlee77.*|superleo77.*|superargo77.*|superbarca77.*|linelocatemfsn.*|homebasis4d.*|mindmotion93y8.*|monkeynecktj4w.*|masterenjoyao.*|differenceprimitive85p.*|blewdiffera3j2.*|strangernervousql.*|leadmorning4ivn.*|somehowrockyng.*|currentcolorq2dv.*|determinemousecshe.*|publicspeed5c.*|limiteddollqjc.*
 @@/\/\d{5,7}$/$domain=mylink.*|my1ink.*|myl1nk.*|myli3k.*
@@ -901,6 +902,7 @@
 @@||99wbwc.com^$generichide
 @@||99ybcc.com^$generichide
 @@||9Anime.to^
+@@||9anime.nl/ajax/
 @@||9anime.nl/assets^
 @@||9anime.vip/ajax/
 @@||9cache.com^$stealth,domain=9gag.com
@@ -1192,6 +1194,7 @@
 @@||acg02.cc^
 @@||acgbenzi.com//dist/images/top.png
 @@||acgdraw.com/ad$xmlhttprequest
+@@||achieves.2gis.com/*/achieves?locale=$stealth,xmlhttprequest
 @@||acid3.acidtests.org^$document
 @@||acompli.helpshift.com^
 @@||acompli.net^
@@ -1314,6 +1317,7 @@
 @@||ad.linksynergy.com^$image,domain=extrarebates.com
 @@||ad.lkqd.net/serve/formats.js$domain=breitbart.com
 @@||ad.mcloud.139.com^
+@@||ad.nl/ad/
 @@||ad.nl^
 @@||ad.ourgame.com^
 @@||ad.samsungadhub.com^
@@ -1945,7 +1949,6 @@
 @@||amays.im^
 @@||amazon-adsystem.com/aax2/apstag.js$domain=accuweather.com|barstoolsports.com|blastingnews.com|cnn.com|familyhandyman.com|foxbusiness.com|gamingbible.co.uk|history.com|independent.co.uk|inquirer.com|keloland.com|radio.com|rd.com|si.com|sportbible.com|tasteofhome.com|the-independent.com|thehealthy.com|time.com|wboy.com|wellgames.com|wkrn.com|wlns.com|wvnstv.com
 @@||amazon-adsystem.com/aax2/apstag.js$domain=ladbible.com|unilad.com|unilad.co.uk|gamingbible.com|tyla.com|sportbible.com|uniladtech.com
-@@||amazon-adsystem.com/e/dtb/bid^$domain=kino.de
 @@||amazon-adsystem.com/widgets/q?$image,third-party
 @@||amazon-adsystem.com^$domain=weather.com
 @@||amazon.*/*/dp$stealth
@@ -3055,7 +3058,6 @@
 @@||api.ott.kinopoisk.ru^$stealth
 @@||api.ow.ly^
 @@||api.paypal.com^
-@@||api.penpencil.xyz^$stealth,domain=physicswallah.live|pw.live
 @@||api.perfalytics.com^
 @@||api.perfops.net^$script,xmlhttprequest,domain=cdnperf.com|dnsperf.com
 @@||api.performfeeds.com^$stealth=referrer
@@ -3121,7 +3123,6 @@
 @@||api.steampowered.com^
 @@||api.stumbleupon.com^
 @@||api.suggest.search.rakuten.co.jp^
-@@||api.surfeasy.com/*/geo_lookup$stealth
 @@||api.syndicaster.tv^
 @@||api.taboola.com/2.0/json/*/recommendations.$domain=azby.fmworld.net
 @@||api.taboola.com^$domain=samsung.com|thestartmagazine.com|taboolanews.com
@@ -3696,7 +3697,6 @@
 @@||auth.gfx.ms^$document
 @@||auth.hitbtc.com^
 @@||auth.mail.ru^$stealth
-@@||auth.opera.com^$stealth
 @@||auth.samsungosp.com^
 @@||auth.schale.network^$stealth=referrer|3p-auth
 @@||auth.snapchat.com^
@@ -4203,6 +4203,7 @@
 @@||binancetransactionf077171f1gl1od17ro1asecure.life^
 @@||binbox.io^
 @@||binbucks.com^
+@@||binbucks.com^$generichide
 @@||bing.at^
 @@||bing.ch^
 @@||bing.co.uk^
@@ -5039,6 +5040,7 @@
 @@||cctv.com^
 @@||ccurl.in^
 @@||cd.connatix.com/connatix.playspace.js$domain=inc.com
+@@||cd.connatix.com/connatix.playspace.js$domain=theverge.com
 @@||cd001.www.duba.net^
 @@||cda.pl^
 @@||cdbaby.com^
@@ -5150,7 +5152,6 @@
 @@||cdn.avansas.com/content/img/home/banner^
 @@||cdn.ay.gy^
 @@||cdn.bannersnack.com/banners/$~third-party,image,subdocument
-@@||cdn.bannersnack.com/iframe/embed.js$domain=audiogon.com
 @@||cdn.bcebos.com/passApi/$stealth
 @@||cdn.betrad.com^
 @@||cdn.bewab.co/embed-$subdocument,stealth=referrer
@@ -5279,7 +5280,6 @@
 @@||cdn.heapanalytics.com^$script,domain=libertymutual.com
 @@||cdn.hide.me^
 @@||cdn.hsmedia.ru/dist/$stealth,domain=maximonline.ru|woman.ru|parents.ru|vokrugsveta.ru|psychologies.ru|ellegirl.ru|wday.ru|elle.ru|marieclaire.ru
-@@||cdn.idevbase.com/static/$stealth,domain=ohttps.com
 @@||cdn.images.dailystar.co.uk^
 @@||cdn.imgwzzmb.net^
 @@||cdn.inside-handy.de/ih/top/
@@ -7423,7 +7423,6 @@
 @@||divestiture.life^
 @@||divsly.com^
 @@||dizhi99.com^$generichide
-@@||dizok.com^$generichide
 @@||dizzylab.net^$cookie=_ga
 @@||dizzylab.net^$cookie=_ga_Y1BLF2VWNB
 @@||dj.1688.com^$important
@@ -7973,7 +7972,6 @@
 @@||ec.atdmt.com/b/$domain=starwoodhotels.com
 @@||ec.europa.eu/eurostat/databrowser/assets/analytics/piwik.js
 @@||ec.europa.eu/eurostat/databrowser/assets/analytics/piwik.js$script,~third-party
-@@||ec.nintendo.com^$stealth
 @@||ec2-18-208-12-78.compute-1.amazonaws.com^
 @@||ecard.163.com^
 @@||ecard.shenzhentong.com^
@@ -11370,7 +11368,6 @@
 @@||hdvid.tv/js/jquery.min.js
 @@||hdvid.tv/player*/jwplayer.js
 @@||hdvid.tv/player*/lightsout.js
-@@||hdwatched.me/*/js/banger.js$domain=hdwatched.me
 @@||hdzog.ahcdn.com^
 @@||hdzog.com/assets/$domain=m.hdzog.com
 @@||hdzog.com/get_file/$domain=m.hdzog.com
@@ -12061,7 +12058,6 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
-@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||ilpuntotecnico.com^$generichide
@@ -12293,6 +12289,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=olympics.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=onlinemahjong.games
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=oyunkuzusu.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=phonostar.de
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=play.joj.sk
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=play.nova.bg
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=player.addradio.de
@@ -12883,6 +12880,7 @@
 @@||ipick1.wechat.com^
 @@||ipify.org^
 @@||ipinfo.info^
+@@||ipinfo.io/static/images/use-cases/adtech.jpg$image,~third-party
 @@||ipinfo.io^
 @@||ipinfodb.com^
 @@||ipip.net/ping.php?
@@ -13104,7 +13102,6 @@
 @@||jenoriana.bio^
 @@||jesse-hall-igan112.life^
 @@||jessestonecedar.live^
-@@||jetv.xyz/dz/?id=$stealth=referrer
 @@||jetzt.bekservice.co.uk^
 @@||jetzt.de^$generichide
 @@||jetzt.work^
@@ -14485,8 +14482,8 @@
 @@||loopia.com^
 @@||loopia.se^
 @@||loopt.us^
+@@||lootup.me/assets/js/ads-prebid.js
 @@||lop-o.live^
-@@||lordplayer.club/*/*.m3u8$stealth
 @@||losangeles.cbslocal.com^
 @@||losblancos.vip^
 @@||lotto-bw.de^$jsinject
@@ -16196,7 +16193,6 @@
 @@||mysupport.sonymobile.com^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -16520,7 +16516,6 @@
 @@||nine.plugins.plexapp.com^
 @@||nineto5mac-d.openx.net^
 @@||ninja.onap.io/ninja-*.js$domain=olx.kz|olx.ua|olx.pl
-@@||nintendo.co.jp/ring/*/adv$~third-party
 @@||nintendo.co.kr^$stealth=dpi
 @@||nintendo.com.au^
 @@||nintendo.com^
@@ -17396,6 +17391,7 @@
 @@||pagead2.googlesyndication.com/pagead/*?fcd=true$domain=adshnk.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=androidrepublic.org
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=apkmirror.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=10play.com.au
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=9sblog.com
@@ -18424,6 +18420,7 @@
 @@||psp2.updptl.np.community.playstation.net^
 @@||pss.bdstatic.com^
 @@||psstatic.cdn.bcebos.com^
+@@||pstatic.net^$image,stealth
 @@||pstatp.com^$important
 @@||pstmrk.it^
 @@||psu.edu^
@@ -19265,7 +19262,6 @@
 @@||roadandtrack.com^
 @@||roar.media^
 @@||robertdray2.live^
-@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rochester.edu^
@@ -20231,7 +20227,6 @@
 @@||sf*-*cdn-tos.pstatp.com^$domain=juejin.cn
 @@||sf.163.com^
 @@||sf.api.np.km.playstation.net^
-@@||sf.ezoiccdn.com/ezossp/https/kosmofoto.com/wp-includes/$script,domain=kosmofoto.com
 @@||sf.prod.sonyentertainmentnetwork.com^
 @@||sf0.market.xiaomi.com^
 @@||sf1-cdn-tos.toutiaostatic.com^
@@ -20249,7 +20244,6 @@
 @@||sfdict.com/app/*/click_tracking.js$domain=thesaurus.com
 @@||sfdl.360safe.com^
 @@||sfgate.com^
-@@||sfl.ink^$generichide
 @@||sfn.info^
 @@||sforce.co^
 @@||sfota.ospserver.net^
@@ -20382,7 +20376,6 @@
 @@||shopapi.io.mi.com^
 @@||shopback.com.tw^$generichide
 @@||shope.ee^
-@@||shopeedeals.sale^
 @@||shopeemobile.com/shopee/*/modules/ads/
 @@||shopeesz.com/shopee/*/modules/ads/
 @@||shopifie.com^
@@ -20854,7 +20847,6 @@
 @@||snapchat-payments-gateway.snapchat.com^
 @@||snapchat.com/static/js/autotrack.js
 @@||snapchat.com^
-@@||snapchats.life^
 @@||snapdeal.com^
 @@||snapi.live.net^
 @@||snappublisher.snapchat.com^
@@ -23656,7 +23648,6 @@
 @@||ups.xplosion.de/ctx$domain=ingame.de
 @@||ups.xplosion.de/ctx?event_id=$domain=tz.de
 @@||upside.app.link^
-@@||upstream.to/embed-*.html$domain=playerhost.net
 @@||upstream.to/js/dnsads.js
 @@||upt.sh^
 @@||uptime.com^
@@ -24214,7 +24205,6 @@
 @@||vigilink.com^
 @@||viglink.com^
 @@||viid.me^$generichide
-@@||vim-tiktok.live^
 @@||vimeo.com^
 @@||vincenaja46.live^
 @@||vine.co^
