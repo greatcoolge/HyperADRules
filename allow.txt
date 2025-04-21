@@ -2,9 +2,9 @@
 ! Title: HyperADRules
 ! Homepage: https://github.com/Lynricsy/HyperADRules
 ! Expires: 12 Hours
-! Version: 2025-04-21 08:52:52（北京时间）
+! Version: 2025-04-21 20:18:50（北京时间）
 ! Description: HyperADRules，一个集合众家之长的、强力去广告的规则
-! Total count: 27155
+! Total count: 27142
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -155,7 +155,6 @@
 @@/fingerprintjs2.min.js$domain=imooc.com
 @@/fuckadblock.$domain=datehub.co|golangnote.com|joyk.com|liumingye.cn|lnk2.cc|poedb.tw|share1223.com
 @@/fuckadblock.js$domain=meucdn.vip|yandexcdn.com|hqq.tv|czxxx.org|waaw.tv
-@@/gen.php?playerid$subdocument,stealth=referrer,domain=fastreams.live|fastreams.com|ftmstreams.com
 @@/gettoken.php?$xmlhttprequest,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com|djxmaza.in|miuiflash.com|thecubexguide.com|jytechs.in
 @@/gtm.js$domain=amd.com
 @@/guanggao/*$domain=icbc.com.cn|igame.qq.com
@@ -269,6 +268,7 @@
 @@=mywebloadt1&$domain=myweb.hinet.net
 @@?adType=$domain=taotaosou.com
 @@?sid=ads$domain=126.com|mail.163.com
+@@^utm_source=aff^$popup,domain=gamble.co.uk|gokkeninonlinecasino.nl|top5casinosites.co.uk
 @@_300_250.$domain=nanrenwo.net
 @@_370x270.$domain=bairuitool-cn.aliyun-hk03.hicheng.net
 @@_468x60_$domain=top100arena.com
@@ -1130,6 +1130,7 @@
 @@||account.live.com^
 @@||account.mail.ru^$stealth
 @@||account.mi.com^
+@@||account.microsoft.com/?refd=$stealth
 @@||account.microsoft.com/auth/$stealth
 @@||account.np.ac.playstation.net.edgekey.net^
 @@||account.np.ac.playstation.net^
@@ -3015,7 +3016,6 @@
 @@||api.loginhood.io^
 @@||api.luftdaten.info^
 @@||api.mapbox.com/*/mapbox.mapbox-terrain-*,mapbox.mapbox-streets-*^$stealth
-@@||api.mapbox.com/*/mapbox.satellite/$stealth
 @@||api.mapbox.com/*?secure&access_token=$stealth
 @@||api.mapbox.com^
 @@||api.mapbox.com^$stealth,domain=kamsnim.cz
@@ -4181,7 +4181,6 @@
 @@||biibly.com^
 @@||bikeforums.net/clientscript/vbulletin_analytics.js
 @@||bikeportland.org/wp-content/plugins/advanced-ads/public/assets/js/advanced.min.js$script,~third-party
-@@||bild.de^$stealth
 @@||bild.met.vgwort.de/na^$domain=bild.de
 @@||bilder-a.akamaihd.net/ip/js/ipdvdc/blockadblock.min.js$domain=rtl.de
 @@||bilder-a.akamaihd.net/ip/js/ipdvdc/ipdvdc.min.js$domain=n-tv.de|toggo.de|vip.de
@@ -5819,7 +5818,6 @@
 @@||checkout.stripe.com^
 @@||checkout.vimeo.com^
 @@||checkshorturl.com^
-@@||checkz.net^$generichide
 @@||chekc.life^
 @@||chem.sg^
 @@||chemistdirect.com.au^
@@ -5961,6 +5959,7 @@
 @@||clic.ae^
 @@||clica.ai^
 @@||click*.taobao.com^
+@@||click-tracking.klarna.net^
 @@||click-trk.com^
 @@||click.*.experian.com^
 @@||click.adrecord.com^
@@ -6534,7 +6533,6 @@
 @@||content.jwplatform.com^
 @@||content.jwplatform.com^$domain=tomshardware.com
 @@||content.logmein.com^
-@@||content.newegg.com$document
 @@||content.oneplus.com^
 @@||content.production.cdn.art19.com^
 @@||content.s8bbs.com/ad/bbs/*.jpg
@@ -6849,6 +6847,7 @@
 @@||cut2.ir^
 @@||cut4links.com^$generichide
 @@||cutcaptcha.com^
+@@||cutearn.ca^$generichide
 @@||cutestat.com^
 @@||cuteurl.co^
 @@||cutit.bid^
@@ -7280,6 +7279,7 @@
 @@||developers.spot.im^
 @@||developers.vimeo.com^
 @@||developers.wechat.com^
+@@||devfaq.ru/*/search?*&method=HEAD$xmlhttprequest,document
 @@||devhub.rezcomm.com/hubapmydbauth/brandapi/$stealth=referrer
 @@||deviantart.com^
 @@||deviantart.com^$stealth=ip
@@ -7868,7 +7868,6 @@
 @@||dyx.is^
 @@||dz9qn8fh4jznm.cloudfront.net/script.js$script,domain=bostonglobe.com
 @@||dzc-metrics.mzstatic.com^
-@@||dziennikwschodni.pl/*/*?ads=$~third-party,image
 @@||dziennikwschodni.pl/*/*ads.
 @@||e-campaign.huawei.com^
 @@||e-cdns-assets.dzcdn.net/common/js/*.js$domain=deezer.com
@@ -9578,7 +9577,6 @@
 @@||get.freshly.com^
 @@||get.geojs.io^
 @@||get.lc^
-@@||get.neofinancial.com^
 @@||get.net.playstation.net^
 @@||get.s-onetag.com/*/tag.min.js$domain=zakzak.co.jp
 @@||get.sogou.com^
@@ -12058,7 +12056,6 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
-@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||ilpuntotecnico.com^$generichide
@@ -12237,7 +12234,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gentside.com|gentside.de|gentside.co.uk|gentside.com.br|esgentside.com|maxisciences.com|ohmymag.com|ohmymag.de|ohmymag.com.br|ohmirevista.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=get.x-link.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=globoplay.globo.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gocolumbialions.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=goducks.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gostanford.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=greatdaygames.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gsgazete.com
@@ -12379,7 +12376,6 @@
 @@||imasdk.googleapis.com/native/sdkloader/native_sdk_$app=com.totrix.glwiz
 @@||imasdk.googleapis.com/native/sdkloader/native_sdk_v3.html?$app=com.goldtouch.ynet
 @@||imasdk.googleapis.com/pal/sdkloader/pal.js$domain=13tv.co.il
-@@||imasdk.googleapis.com/pal/sdkloader/pal.js$domain=foodnetwork.com
 @@||imasdk.googleapis.com/pal/sdkloader/pal.js$domain=pluto.tv
 @@||imasdk.googleapis.com/pal/sdkloader/pal.js$domain=pluto.tv|tunein.com
 @@||imasdk.googleapis.com^
@@ -12409,6 +12405,7 @@
 @@||imasdk.googleapis.com^$app=it.rcs.corriere
 @@||imasdk.googleapis.com^$app=jp.hamitv.hamiand1
 @@||imasdk.googleapis.com^$app=jp.naver.line.android
+@@||imasdk.googleapis.com^$app=jp.ne.docomo.lemino.android
 @@||imasdk.googleapis.com^$app=mnn.Android
 @@||imasdk.googleapis.com^$app=mobi.zona
 @@||imasdk.googleapis.com^$app=net.oqee.androidmobile|net.oqee.androidtv.store
@@ -12482,7 +12479,6 @@
 @@||img.mangahasu.se^$image,stealth=referrer
 @@||img.mediaset.it^
 @@||img.meituan.net^
-@@||img.noobzone.ru^$stealth
 @@||img.onesignal.com^
 @@||img.over-blog-kiwi.com^
 @@||img.pddpic.com^
@@ -15041,7 +15037,6 @@
 @@||marketing-perf.adobe.com^
 @@||marketing-stage.adobe.com^
 @@||marketing.adobe.com^
-@@||marketing.dropbox.com/?referrer=$stealth
 @@||marketing.etorostatic.com^
 @@||marketing.hostgator.com^
 @@||marketing.net.idealo-partner.com^
@@ -17063,7 +17058,6 @@
 @@||online.mps-gba.de/praeludium/$script,domain=auto-motor-und-sport.de|caravaning.de|motorradonline.de
 @@||online.rshb.ru/rshb-mbfl/lib/snowplow/
 @@||online.rshb.ru/rshb-mbfl/plugins/
-@@||online.tivo.com^$elemhide,jsinject
 @@||online.unionpay.com/ads/$script
 @@||onlinebanking.usbank.com/TUX/public/libs/adobe/appmeasurement.js$script,~third-party
 @@||onlineclothes.live^
@@ -17453,6 +17447,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=vladan.fr
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=vorsprung-online.de
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=zefoy.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=panel.waifly.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=app.axenthost.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=b2bhint.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|linetv.tw|liout.com|moneysave.info|raenonx.cc|zxmee.com
@@ -19264,7 +19259,6 @@
 @@||roadandtrack.com^
 @@||roar.media^
 @@||robertdray2.live^
-@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rochester.edu^
@@ -20002,6 +19996,7 @@
 @@||secure.viber.com^
 @@||secure.vimeo.com^
 @@||secure.winred.com^
+@@||securecard.jp/card_input.html$stealth=referrer
 @@||secured.netflix.com^
 @@||securedownloads.superantispyware.com^
 @@||securegames.iwin.com/data/gtm.json$~third-party,xmlhttprequest
@@ -20379,7 +20374,6 @@
 @@||shopapi.io.mi.com^
 @@||shopback.com.tw^$generichide
 @@||shope.ee^
-@@||shopeedeals.sale^
 @@||shopeemobile.com/shopee/*/modules/ads/
 @@||shopeesz.com/shopee/*/modules/ads/
 @@||shopifie.com^
@@ -20784,7 +20778,6 @@
 @@||smartlinks.intuit.com^
 @@||smartlock.google.com^
 @@||smartlook.com^
-@@||smartnator.com/assets/js/prebid-ads.js
 @@||smartnews-ads.com^$app=jp.co.alc.eow
 @@||smartpixel.tv
 @@||smartrobot-drcn.dbankcdn.com^
@@ -20851,7 +20844,6 @@
 @@||snapchat-payments-gateway.snapchat.com^
 @@||snapchat.com/static/js/autotrack.js
 @@||snapchat.com^
-@@||snapchats.life^
 @@||snapdeal.com^
 @@||snapi.live.net^
 @@||snappublisher.snapchat.com^
@@ -21376,7 +21368,6 @@
 @@||static-v*.trbo.com/plugin/trbo_*.js$domain=blau.de
 @@||static-v*.trbo.com/plugin/trbo_*.js$domain=o2online.de
 @@||static-xl9-ssl.xunlei.com^
-@@||static.*.com/content/js/pubfig.*.js$domain=lightnovelpub.com|webnovelpub.com|lightnovelspot.com|lightnovelpub.vip
 @@||static.127777.com^
 @@||static.3001.net^
 @@||static.3001.net^$stealth,domain=freebuf.com
@@ -22077,7 +22068,6 @@
 @@||t.email*.samsung.ca^
 @@||t.emailing.monoprix.fr^
 @@||t.en25.com^
-@@||t.fadijo.uno/redirect/$domain=winporn.net
 @@||t.hk.uy^
 @@||t.hulu.com^
 @@||t.im^
@@ -23548,7 +23538,6 @@
 @@||university.rakuten.co.jp^
 @@||unix.com^
 @@||unknown123.live^
-@@||unlockapk.com/*ads.js
 @@||unlockbootloader.sonymobile.com^
 @@||unlocker.emptyloop.com^
 @@||unmineable.com^
@@ -24210,7 +24199,6 @@
 @@||vigilink.com^
 @@||viglink.com^
 @@||viid.me^$generichide
-@@||vim-tiktok.live^
 @@||vimeo.com^
 @@||vincenaja46.live^
 @@||vine.co^
@@ -24572,7 +24560,6 @@
 @@||web-ads.pulse.weatherbug.net/api/ads/targeting/$domain=weatherbug.com
 @@||web-ads.pulse.weatherbug.net/api/ads/targeting/v*/parameters?$domain=weatherbug.com
 @@||web-client.prod.us-west2.twitch.tv^
-@@||web-cloud-new.foreks.com^$stealth=referrer,domain=prime.tebyatirim.com.tr
 @@||web-development-blog.com^
 @@||web-sdk.urbanairship.com/notify/$script,domain=etoro.com
 @@||web-service.halo.xbox.com^
