@@ -1795,6 +1795,7 @@
 @@||bc.vc^
 @@||bcbits.com^
 @@||bce.baidu.com^
+@@||bce.baidu.comsamsungcloudsolution.com^
 @@||bcedns.com^
 @@||bcedns.net^
 @@||bcee.lu^
@@ -7024,7 +7025,6 @@
 @@||noteapi.micloud.xiaomi.net^
 @@||notepad-plus-plus.org^
 @@||noteworthy.medium.com^
-@@||notice.360.cn^
 @@||notice.game.xiaomi.com^
 @@||notice.line.me^
 @@||notice.xbox.com^
@@ -8294,7 +8294,6 @@
 @@||samsung.se^
 @@||samsung.stories.bazaarvoice.com^
 @@||samsung.ugc.bazaarvoice.com^
-@@||samsungcloudsolution.com^
 @@||samsungcloudsolution.net^
 @@||samsungelectronics.com^
 @@||samsungeucdm-mid-prod1-res.adobe-campaign.com^
