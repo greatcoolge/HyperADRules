@@ -2,9 +2,9 @@
 ! Title: HyperADRules
 ! Homepage: https://github.com/Lynricsy/HyperADRules
 ! Expires: 12 Hours
-! Version: 2025-04-23 08:50:12（北京时间）
+! Version: 2025-04-23 20:19:18（北京时间）
 ! Description: HyperADRules，一个集合众家之长的、强力去广告的规则
-! Total count: 27147
+! Total count: 27149
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -390,6 +390,7 @@
 @@||073img.com/*,*,
 @@||07c225f3.online^$stealth=referrer
 @@||0805.info^
+@@||08url.com^
 @@||0987.win^
 @@||0a.sk^
 @@||0a0.uk^
@@ -1416,6 +1417,7 @@
 @@||adlvy.com^
 @@||adm.10jqka.com.cn^
 @@||adm.crowdicity.com^
+@@||adm.fwmrm.net^$domain=revision3.com
 @@||adm.to^
 @@||admarkt.kleinanzeigen.de^
 @@||admdownload.adobe.com^
@@ -3660,6 +3662,7 @@
 @@||au.v4.download.windowsupdate.com^
 @@||au1.p3.documentsawsperf.adobe.com^
 @@||au1.p5.documentsawsperf.adobe.com^
+@@||auchan.ru/pokupki/media/banners/*.jpg$~third-party
 @@||auctions.yahoo.co.jp^
 @@||audible.com^
 @@||audid-api.taobao.com^
@@ -5088,7 +5091,6 @@
 @@||cdn-images-2.medium.com^
 @@||cdn-images.mailchimp.com^
 @@||cdn-images.xda-developers.com^
-@@||cdn-lfs.hf.co/repos/$stealth=3p-cache
 @@||cdn-magiclinks.trackonomics.net/client/static/v2/*_gamespot.js$domain=gamespot.com
 @@||cdn-magiclinks.trackonomics.net^
 @@||cdn-manga.com^$image,stealth=referrer
@@ -5797,6 +5799,7 @@
 @@||chatmely.com^
 @@||chatrouter-verizon.inq.com^
 @@||chats.viber.com^
+@@||chaturbate.com/*embed^$domain=sweetpornlinks.com
 @@||chaturbate.com/in/$subdocument,domain=cam-sex.net
 @@||chaturbate.com/in/$subdocument,domain=cbhours.com|pussyspace.com|pussyspace.net|lemoncams.com
 @@||chaturbate.com^
@@ -6326,6 +6329,7 @@
 @@||coinpr.info^
 @@||coinreal-us.com^
 @@||coinurl.com^
+@@||cokcok.stream/play/$stealth=referrer
 @@||coki.me^
 @@||coklat.vip^
 @@||colamanga.com/js/*/load.js
@@ -8093,7 +8097,6 @@
 @@||eldiario.es/static/BBTCore/images/pixel.gif?
 @@||ele.me^
 @@||elearning.ual.pt^$stealth=dpi
-@@||elections.ap.org/widgets/$stealth
 @@||elections.huffingtonpost.com^
 @@||elegantthemes.com^
 @@||eleme.cn^
@@ -8900,7 +8903,6 @@
 @@||firefox.settings.services.mozilla.com^
 @@||firmwaredrive.com/templates/default/html/en/assets/js/fingerprint2.min.js
 @@||firstdirect.com^*/logging-code.js
-@@||firstonetv.net^$generichide
 @@||firstpost.com^
 @@||firstspot.com^
 @@||firsturl.de^
@@ -12058,7 +12060,6 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
-@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||ilpuntotecnico.com^$generichide
@@ -12229,7 +12230,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=games.gamesplaza.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=games.metro.us
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=games.metv.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=games.miamiherald.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gameswf.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gauchazh.clicrbs.com.br
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gbnews.com
@@ -12567,6 +12567,7 @@
 @@||imgstock.naver.com^
 @@||imgtaxi.com/img-*.html
 @@||imgtmo.com^$stealth=referrer
+@@||imgtn.bdimg.com^$stealth
 @@||imgur.com/min/px.js$~third-party
 @@||imgur.com^
 @@||imgwallet.com/advertisement.js
@@ -14063,6 +14064,7 @@
 @@||link4.net^
 @@||linka.li^
 @@||linka.page^
+@@||linkabc.net^
 @@||linkable.to^
 @@||linkaff.com^
 @@||linkai.in^
@@ -14078,7 +14080,6 @@
 @@||linkbun.com^
 @@||linkclickcounter.com^
 @@||linkcloaker.pro^
-@@||linkconnector.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@||linkcrypter.com^
 @@||linkcutt.com^
 @@||linkd.in^
@@ -14543,7 +14544,6 @@
 @@||luminary.link^
 @@||luminousstreamhaven.com^$stealth=referrer,domain=edgedeliverynetwork.com
 @@||lun.com/*/Scripts/Analytics.js
-@@||luna.amazon.*/game$stealth=webrtc
 @@||luna.rip^
 @@||luoxiadushu.com^$generichide
 @@||lup.to^
@@ -16190,7 +16190,6 @@
 @@||mysupport.sonymobile.com^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -16274,6 +16273,7 @@
 @@||nationwide.com/myaccount/includes/images/x.gif$~third-party
 @@||native-vita.np.ac.playstation.net^
 @@||natro.com^$stealth=dpi
+@@||natsbee.link^
 @@||natura.com.vc^
 @@||nature.com^
 @@||nature.ly^
@@ -16767,7 +16767,6 @@
 @@||nydailynews.com^
 @@||nydn.us^
 @@||nyer.cm^
-@@||nym.ag^
 @@||nymag.com/decor/javascript/magnify_stats.js
 @@||nymag.com/vltr/scripts/analytics.js$domain=vulture.com
 @@||nymag.com^
@@ -17390,6 +17389,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=androidrepublic.org
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=apkmirror.com
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=cleodesktop.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=10play.com.au
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=9sblog.com
@@ -17534,6 +17534,7 @@
 @@||partner.everydays.de^
 @@||partner.googleadservices.com/gpt/pubads_$domain=mlb.com
 @@||partner.googleadservices.com/gpt/pubads_$domain=video.foxnews.com|video.foxbusiness.com
+@@||partner.googleadservices.com/gpt/pubads_impl_$domain=cwtv.com
 @@||partner.googleadservices.com/gpt/pubads_impl_$domain=ukr.net
 @@||partner.huawei.com^
 @@||partner.market.yandex.ru^$stealth=referrer
@@ -18068,7 +18069,6 @@
 @@||pnut.co^
 @@||po.gravatar.com^
 @@||po.st^
-@@||poastcdn.org/ad/$image,domain=poa.st
 @@||pobeda.aero/*/check-in/$document
 @@||pochta.ru^
 @@||pocketmath-cdn.com^
@@ -18525,6 +18525,7 @@
 @@||puhli.icu^
 @@||pull.ticktick.com^
 @@||pulsar.ebay.com^
+@@||puma.112.2o7.net^
 @@||pun.ro^
 @@||purch.com^
 @@||purchase.mp.microsoft.com^
@@ -18976,7 +18977,6 @@
 @@||reddit.com^$generichide
 @@||reddit.com^$generichide,badfilter
 @@||redditenhancementsuite.com/js/jquery.google-analytics.js
-@@||reddithelp.com/*/categories/advertising^
 @@||redditmedia.com^
 @@||redditstatic.com^
 @@||redem.live^
@@ -19261,7 +19261,6 @@
 @@||roadandtrack.com^
 @@||roar.media^
 @@||robertdray2.live^
-@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rochester.edu^
@@ -20378,7 +20377,6 @@
 @@||shopapi.io.mi.com^
 @@||shopback.com.tw^$generichide
 @@||shope.ee^
-@@||shopeedeals.sale^
 @@||shopeemobile.com/shopee/*/modules/ads/
 @@||shopeesz.com/shopee/*/modules/ads/
 @@||shopifie.com^
@@ -20420,6 +20418,7 @@
 @@||short.php8developer.com^
 @@||short.pk^
 @@||short.profi.lv^
+@@||short.silex.me^
 @@||short.swurl.xyz^
 @@||short.to^
 @@||short1.link^
@@ -20849,7 +20848,6 @@
 @@||snapchat-payments-gateway.snapchat.com^
 @@||snapchat.com/static/js/autotrack.js
 @@||snapchat.com^
-@@||snapchats.life^
 @@||snapdeal.com^
 @@||snapi.live.net^
 @@||snappublisher.snapchat.com^
@@ -22728,11 +22726,13 @@
 @@||tinyreview9.life^
 @@||tinyshorturl.com^
 @@||tinyst.com^
+@@||tinyuri.com^
 @@||tinyurl.com^
 @@||tinyurl.dev^
 @@||tinyurl.hu^
 @@||tinyurl.mobi^
 @@||tinyurl.ph^
+@@||tinyurl.rocks^
 @@||tinyurl.software^
 @@||tinyurls.io^
 @@||tinyurlwebsite.com^
@@ -22836,6 +22836,7 @@
 @@||tny.so^
 @@||tny.xyz^
 @@||tnyurl.one^
+@@||to.lk^
 @@||to.ly^
 @@||to.pbs.org^
 @@||to8.cc^
@@ -24206,7 +24207,6 @@
 @@||vigilink.com^
 @@||viglink.com^
 @@||viid.me^$generichide
-@@||vim-tiktok.live^
 @@||vimeo.com^
 @@||vincenaja46.live^
 @@||vine.co^
@@ -24344,6 +24344,7 @@
 @@||vpn3.hulu.com^
 @@||vpn5.hulu.com^
 @@||vpnhoki.com^
+@@||vpnsplit.com/ads/advertisement.js
 @@||vporn.com^
 @@||vpro.nl/vpro/htmlplayer/0.3-snapshot/statcounter.js?
 @@||vqr.vc^
@@ -24987,6 +24988,7 @@
 @@||ws.sandbox.coinbase.com^
 @@||ws.skoda-auto.com/sap/*_piwik/Piwik.js
 @@||ws.spot.im^
+@@||ws.tc^
 @@||wsdl.360safe.com^
 @@||wsimg.com^
 @@||wsj.com^
