@@ -2,9 +2,9 @@
 ! Title: HyperADRules
 ! Homepage: https://github.com/Lynricsy/HyperADRules
 ! Expires: 12 Hours
-! Version: 2025-04-23 20:19:18（北京时间）
+! Version: 2025-04-24 08:50:43（北京时间）
 ! Description: HyperADRules，一个集合众家之长的、强力去广告的规则
-! Total count: 27149
+! Total count: 27157
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -3994,6 +3994,7 @@
 @@||bcbits.com^
 @@||bcbsks.com^$stealth=dpi
 @@||bce.baidu.com^
+@@||bce.baidu.comsamsungcloudsolution.com^
 @@||bcebos.com/static/translation/widget/translate/output/AdBanner/AdBanner.js
 @@||bcebos.com^$script,domain=biququ.info|jingwubook.com
 @@||bcedns.com^
@@ -4063,6 +4064,7 @@
 @@||beica.sbs^
 @@||beige.xboxservices.com^
 @@||beinconnect.com.tr^$stealth
+@@||beinconnect.com.tr^$stealth=dpi
 @@||beingtek.com^
 @@||belkagomel.by^$stealth=dpi
 @@||bellmts.ca^$stealth=dpi
@@ -12060,6 +12062,7 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
+@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||ilpuntotecnico.com^$generichide
@@ -12191,7 +12194,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$app=com.nextmediatw
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$app=net.ettoday.phone
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=10play.com.au
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=247sports.com|airtelxstream.in|antena3.ro|api.screen9.com|autokult.pl|bbc.com|blastingnews.com|bloomberg.co.jp|bloomberg.com|bsfuji.tv|cbc.ca|cbsnews.com|cbssports.com|chicagotribune.com|clickorlando.com|cnet.com|crunchyroll.com|delish.com|digi24.ro|distro.tv|doubtnut.com|einthusan.tv|etonline.com|farfeshplus.com|filmweb.pl|game.pointmall.rakuten.net|gamebox.gesoten.com|gamepix.com|gameplayneo.com|games.usatoday.com|gbnews.com|geo.dailymotion.com|givemesport.com|goodmorningamerica.com|goodstream.uno|gospodari.com|haberler.com|howstuffworks.com|humix.com|ignboards.com|iheart.com|insideedition.com|irctc.co.in|klix.ba|ktla.com|kxan.com|laurelberninteriors.com|lemino.docomo.ne.jp|locipo.jp|maharashtratimes.com|maxpreps.com|metacritic.com|minigame.aeriagames.jp|missoulian.com|myspace.com|nettavisen.no|paralympic.org|paramountplus.com|player.abacast.net|player.amperwave.net|player.earthtv.com|player.performgroup.com|plex.tv|pointmall.rakuten.co.jp|realmadrid.com|rte.ie|rumble.com|s.yimg.jp|scrippsdigital.com|sonyliv.com|southpark.lat|southparkstudios.com|spiele.heise.de|sportsbull.jp|sportsport.ba|success-games.net|synk-casualgames.com|tbs.co.jp|tdn.com|thecw.com|truvid.com|tubitv.com|tunein.com|tv-asahi.co.jp|tv.abcnyheter.no|tv.finansavisen.no|tv.rakuten.co.jp|tver.jp|tvp.pl|univtec.com|utsports.com|video.tv-tokyo.co.jp|vlive.tv|watch.nba.com|wbal.com|weather.com|webdunia.com|wellgames.com|worldsurfleague.com|wowbiz.ro|wsj.com|wtk.pl|zdnet.com|zeebiz.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=247sports.com|airtelxstream.in|antena3.ro|api.screen9.com|autokult.pl|bbc.com|blastingnews.com|bloomberg.co.jp|bloomberg.com|bsfuji.tv|cbc.ca|cbsnews.com|cbssports.com|chicagotribune.com|clickorlando.com|cnet.com|crunchyroll.com|delish.com|digi24.ro|distro.tv|doubtnut.com|einthusan.tv|etonline.com|farfeshplus.com|filmweb.pl|game.pointmall.rakuten.net|gamebox.gesoten.com|gamepix.com|gameplayneo.com|games.usatoday.com|gbnews.com|geo.dailymotion.com|givemesport.com|goodmorningamerica.com|goodstream.uno|gospodari.com|haberler.com|howstuffworks.com|humix.com|ignboards.com|iheart.com|insideedition.com|irctc.co.in|klix.ba|ktla.com|kxan.com|laurelberninteriors.com|lemino.docomo.ne.jp|locipo.jp|maharashtratimes.com|maxpreps.com|metacritic.com|minigame.aeriagames.jp|missoulian.com|myspace.com|nettavisen.no|paralympic.org|paramountplus.com|player.abacast.net|player.amperwave.net|player.earthtv.com|player.performgroup.com|plex.tv|pointmall.rakuten.co.jp|realmadrid.com|rte.ie|rumble.com|s.yimg.jp|scrippsdigital.com|sonyliv.com|southpark.lat|southparkstudios.com|spiele.heise.de|sportsbull.jp|sportsport.ba|stirr.com|success-games.net|synk-casualgames.com|tbs.co.jp|tdn.com|thecw.com|truvid.com|tubitv.com|tunein.com|tv-asahi.co.jp|tv.abcnyheter.no|tv.finansavisen.no|tv.rakuten.co.jp|tver.jp|tvp.pl|univtec.com|utsports.com|video.tv-tokyo.co.jp|vlive.tv|watch.nba.com|wbal.com|weather.com|webdunia.com|wellgames.com|worldsurfleague.com|wowbiz.ro|wsj.com|wtk.pl|zdnet.com|zeebiz.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=24h.com.vn
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=4gtv.tv
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=4gtv.tv|881903.com|ani.gamer.com.tw|appledaily.com|ha365.com|hamivideo.hinet.net|line.me|linetv.tw|litv.tv|mytvsuper.com|nextmedia.com|now.com|tvb.com|udn.com|ulifestyle.com.hk
@@ -12379,7 +12382,7 @@
 @@||imasdk.googleapis.com/native/sdkloader/native_sdk_v3.html?$app=com.goldtouch.ynet
 @@||imasdk.googleapis.com/pal/sdkloader/pal.js$domain=13tv.co.il
 @@||imasdk.googleapis.com/pal/sdkloader/pal.js$domain=pluto.tv
-@@||imasdk.googleapis.com/pal/sdkloader/pal.js$domain=pluto.tv|tunein.com
+@@||imasdk.googleapis.com/pal/sdkloader/pal.js$domain=pluto.tv|stirr.com|tunein.com
 @@||imasdk.googleapis.com^
 @@||imasdk.googleapis.com^$app=bbc.mobile.news.ww
 @@||imasdk.googleapis.com^$app=be.persgroep.android.news.mobilead
@@ -16190,6 +16193,7 @@
 @@||mysupport.sonymobile.com^
 @@||mysurl.com^
 @@||mytd.cc^
+@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -16611,7 +16615,6 @@
 @@||noteapi.micloud.xiaomi.net^
 @@||notepad-plus-plus.org^
 @@||noteworthy.medium.com^
-@@||notice.360.cn^
 @@||notice.game.xiaomi.com^
 @@||notice.line.me^
 @@||notice.xbox.com^
@@ -17818,6 +17821,7 @@
 @@||pieceof.link^
 @@||piee.pw^
 @@||pifa.pinduoduo.com^
+@@||piggy.xyz^
 @@||piguiqproxy.com^
 @@||pilkanozna.pl^
 @@||pillsbury.com/Shared/StarterKit/Javascript/UnicaTag.js
@@ -19261,6 +19265,7 @@
 @@||roadandtrack.com^
 @@||roar.media^
 @@||robertdray2.live^
+@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rochester.edu^
@@ -19662,7 +19667,6 @@
 @@||samsung.se^
 @@||samsung.stories.bazaarvoice.com^
 @@||samsung.ugc.bazaarvoice.com^
-@@||samsungcloudsolution.com^
 @@||samsungcloudsolution.net^
 @@||samsungelectronics.com^
 @@||samsungeucdm-mid-prod1-res.adobe-campaign.com^
@@ -20377,6 +20381,7 @@
 @@||shopapi.io.mi.com^
 @@||shopback.com.tw^$generichide
 @@||shope.ee^
+@@||shopeedeals.sale^
 @@||shopeemobile.com/shopee/*/modules/ads/
 @@||shopeesz.com/shopee/*/modules/ads/
 @@||shopifie.com^
@@ -20848,6 +20853,7 @@
 @@||snapchat-payments-gateway.snapchat.com^
 @@||snapchat.com/static/js/autotrack.js
 @@||snapchat.com^
+@@||snapchats.life^
 @@||snapdeal.com^
 @@||snapi.live.net^
 @@||snappublisher.snapchat.com^
@@ -24207,6 +24213,7 @@
 @@||vigilink.com^
 @@||viglink.com^
 @@||viid.me^$generichide
+@@||vim-tiktok.live^
 @@||vimeo.com^
 @@||vincenaja46.live^
 @@||vine.co^
@@ -27024,6 +27031,7 @@
 @@||zee.cws.conviva.com^
 @@||zeebiz.com/ads/$image,~third-party
 @@||zeep.ly^
+@@||zegtrends.com^$domain=icutlink.com,stealth=referrer
 @@||zeit.co^
 @@||zeit.de/piwik/piwik.js$domain=schach.zeit.de
 @@||zeit.de/static/js/webtrekk/webtrekk_$script,domain=schach.zeit.de
