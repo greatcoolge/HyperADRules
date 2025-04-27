@@ -1795,7 +1795,7 @@
 @@||bc.vc^
 @@||bcbits.com^
 @@||bce.baidu.com^
-@@||bce.baidu.com.com^
+@@||bce.baidu.comyteam.software.eu.playstation.com^
 @@||bcedns.com^
 @@||bcedns.net^
 @@||bcee.lu^
@@ -2379,6 +2379,7 @@
 @@||cdn.mplxtms.com^
 @@||cdn.mwbsys.com^
 @@||cdn.mxpnl.com^
+@@||cdn.naver.com^
 @@||cdn.onenote.net^
 @@||cdn.onesignal.com^
 @@||cdn.opinionlab.com^
@@ -3845,6 +3846,7 @@
 @@||examiner.com^
 @@||example.com^
 @@||example.org^
+@@||exblog.jp^
 @@||exceptions.coinbase.com^
 @@||exchange.coinbase.com^
 @@||exchange.kaspersky.com^
@@ -8086,6 +8088,7 @@
 @@||retro-bit.com^
 @@||returnpath.com^
 @@||reuters.com^
+@@||revanced.net^
 @@||revdl.com^
 @@||revenuecat.com^
 @@||review.gbtcdn.com^
@@ -11853,7 +11856,6 @@
 @@||x10hosting.com^
 @@||x1337x.ws^
 @@||xbext.com^
-@@||xblog.jp^
 @@||xbox.com^
 @@||xbox.ipv6.microsoft.com^
 @@||xbox360.ign.com^
@@ -11986,7 +11988,6 @@
 @@||zero.facebook.com^
 @@||zero.wikipedia.com^
 @@||zerohedge.com^
-@@||zerossl.ocsp.sectigo.com360.cn^
 @@||zeustracker.abuse.ch^
 @@||zh-cn.about.flipboard.com^
 @@||zh-hk.about.flipboard.com^
