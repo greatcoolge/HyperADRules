@@ -104,6 +104,7 @@
 @@||163.com^$important
 @@||3gimg.qq.com^$important
 @@||96956.com.cn^$important
+@@||@@||0-edge-chat.facebook.com^
 @@||a0.app.xiaomi.com
 @@||aax*.amazon.cn^
 @@||aax*.amazon.com^
@@ -478,6 +479,7 @@ _dnsaddr.ipfs.lubar.me
 a-*.a-msedge.net
 accounts.google.com.*
 avatars*.githubusercontent.com
+bce.baidu.com##
 bireysel-zîraat.com
 cdn*-pic.xvideos-cdn.com
 cdn*-vid.xvideos-cdn.com
@@ -491,6 +493,7 @@ is[0-9]-ssl.mzstatic.com
 liveweb*.msstatic.com
 myètherwället.com
 mÿethèrwallét.com
+o.com^
 ocsp*.globalsign.com
 pt_br.statcounter.com
 qos*.ol.epicgames.com
@@ -511,7 +514,7 @@ ubistatic*-a.akamaihd.net
 up*.debrid.link
 www.hualañe.cl
 www.turkishạirlines.com
-zerossl.ocsp.sectigo.com#
+zerossl.ocsp.sectigo.com#!-白名单-!#
 zh_cn.statcounter.com
 zh_tw.statcounter.com
 ||ad.

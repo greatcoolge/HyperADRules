@@ -2248,6 +2248,7 @@
 @@||appstore.cdn.pandora.xiaomi.com^
 @@||appstore.huawei.com^
 @@||appstore.pandora.xiaomi.com^
+@@||appsumlelink.in^
 @@||appsumo.com^
 @@||apptimize.com^
 @@||appurl.io^
@@ -9123,7 +9124,6 @@
 @@||leihuo.163.com^
 @@||leit.link^
 @@||leitup.com^
-@@||lelink.in^
 @@||lemde.fr^
 @@||lemonade.com^
 @@||lemonde.fr^
