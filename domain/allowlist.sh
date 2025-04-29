@@ -22,7 +22,7 @@ process_list() {
 
     awk '{ print $1 }' "$tmp_file" | while read domain; do
         # Ignore comments or blocked domains (starting with ! or #), or lines with <
-        [[ "$domain" =~ ^[#!<] ]] && continue  
+        [[ "$domain" =~ ^[!#\<] ]] && continue  
 
         pure_domain=$(extract_domain_from_rule "$domain")
 
