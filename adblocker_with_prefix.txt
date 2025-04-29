@@ -938,7 +938,7 @@
 @@||Invalidruleformat:a-*.a-msedge.net^
 @@||Invalidruleformat:accounts.google.com.*^
 @@||Invalidruleformat:avatars*.githubusercontent.com^
-@@||Invalidruleformat:bce.baidu.com##^
+@@||Invalidruleformat:bce.baidu.com#^
 @@||Invalidruleformat:bireysel-zîraat.com^
 @@||Invalidruleformat:cdn*-pic.xvideos-cdn.com^
 @@||Invalidruleformat:cdn*-vid.xvideos-cdn.com^
@@ -972,7 +972,7 @@
 @@||Invalidruleformat:up*.debrid.link^
 @@||Invalidruleformat:www.hualañe.cl^
 @@||Invalidruleformat:www.turkishạirlines.com^
-@@||Invalidruleformat:zerossl.ocsp.sectigo.com#!-白名单-!#^
+@@||Invalidruleformat:zerossl.ocsp.sectigo.com!这是一个DNS允许白名单，用于解除被各大拦截规则误伤的域名^
 @@||Invalidruleformat:zh_cn.statcounter.com^
 @@||Invalidruleformat:zh_tw.statcounter.com^
 @@||Invalidruleformat:||ad.^
@@ -1917,7 +1917,7 @@
 @@||Processeddomain:Invalidruleformat:a-*.a-msedge.net^
 @@||Processeddomain:Invalidruleformat:accounts.google.com.*^
 @@||Processeddomain:Invalidruleformat:avatars*.githubusercontent.com^
-@@||Processeddomain:Invalidruleformat:bce.baidu.com##^
+@@||Processeddomain:Invalidruleformat:bce.baidu.com#^
 @@||Processeddomain:Invalidruleformat:bireysel-zîraat.com^
 @@||Processeddomain:Invalidruleformat:cdn*-pic.xvideos-cdn.com^
 @@||Processeddomain:Invalidruleformat:cdn*-vid.xvideos-cdn.com^
@@ -1951,7 +1951,7 @@
 @@||Processeddomain:Invalidruleformat:up*.debrid.link^
 @@||Processeddomain:Invalidruleformat:www.hualañe.cl^
 @@||Processeddomain:Invalidruleformat:www.turkishạirlines.com^
-@@||Processeddomain:Invalidruleformat:zerossl.ocsp.sectigo.com#!-白名单-!#^
+@@||Processeddomain:Invalidruleformat:zerossl.ocsp.sectigo.com!这是一个DNS允许白名单，用于解除被各大拦截规则误伤的域名^
 @@||Processeddomain:Invalidruleformat:zh_cn.statcounter.com^
 @@||Processeddomain:Invalidruleformat:zh_tw.statcounter.com^
 @@||Processeddomain:Invalidruleformat:||ad.^
