@@ -15,7 +15,7 @@ jobs:
       - name: Set Up Environment
         run: |
           sudo apt-get update
-          sudo apt-get install -y curl
+          sudo apt-get install -y wget parallel uchardet curl
 
       - name: Run Domain List Script
         run: |
@@ -27,11 +27,8 @@ jobs:
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
           
-          # Commit changes, including when no changes are detected
           git add --all
           git commit -m "Forced update at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）" || echo "No changes detected, but forced commit."
-          
-          # Use --force to overwrite any possible conflicts
           git push origin HEAD:master --force || echo "Push failed due to conflicts or no changes."
 
       - name: Delete Workflow Runs 
