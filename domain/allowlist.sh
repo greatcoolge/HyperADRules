@@ -1,67 +1,86 @@
 #!/bin/bash
 
-# Clean up old files
+# 清理旧文件
 echo "Clean..."
-rm -f domain.txt allow.txt invalid_rules.txt adblocker_with_prefix.txt
+rm -f domain.txt allow.txt invalid_rules.txt adblocker_with_prefix.txt tmp_detect_* tmp_merge.txt
 
-# Function to extract pure domain names
+# 提取纯域名函数
 extract_domain_from_rule() {
-    # Extract from @@||domain.com^
-    if [[ "$1" =~ ^@@\|\|([a-zA-Z0-9.-]+)\^$ ]]; then
+    if [[ "$1" =~ ^@@\|\|([a-zA-Z0-9.-]+\.[a-zA-Z]{2,})\^$ ]]; then
         echo "${BASH_REMATCH[1]}"
-    elif [[ "$1" =~ ^([a-zA-Z0-9.-]+)$ ]]; then
+    elif [[ "$1" =~ ^@@([a-zA-Z0-9.-]+\.[a-zA-Z]{2,})$ ]]; then
+        echo "${BASH_REMATCH[1]}"
+    elif [[ "$1" =~ ^([a-zA-Z0-9.-]+\.[a-zA-Z]{2,})$ ]]; then
         echo "$1"
     fi
 }
 
-# Function to process list and handle invalid rules
-process_list() {
-    local input_list=$1 output_file=$2 invalid_file=$3 tmp_file="tmp_$output_file"
-    echo "Merging $output_file..."
-    grep -v '^#' "$input_list" | xargs -P 5 -I {} wget --no-check-certificate -t 1 -T 10 -q -O - "{}" > "$tmp_file"
+# 下载+转换函数
+download_and_convert() {
+    local url="$1"
+    local tmpfile="tmp_detect_$(echo "$url" | md5sum | cut -c1-8).txt"
+    content=$(wget --no-check-certificate -t 3 -T 10 --waitretry=5 -q -O - "$url")
 
-    awk '{ print $1 }' "$tmp_file" | while read domain; do
-        # Ignore comments or blocked domains (starting with ! or #), or lines with <
-        [[ "$domain" =~ ^[!#\<] ]] && continue  
+    if [[ -n "$content" ]]; then
+        echo "$content" > "$tmpfile"
+        encoding=$(uchardet "$tmpfile" | awk '{print $1}')
+        iconv -f "$encoding" -t UTF-8//IGNORE "$tmpfile" 2>/dev/null || cat "$tmpfile"
+    fi
+
+    rm -f "$tmpfile"
+}
+
+export -f download_and_convert
+
+# 处理规则列表函数
+process_list() {
+    local input_list=$1 output_file=$2 invalid_file=$3
+    echo "Merging $output_file..."
+
+    grep -v '^#' "$input_list" | grep -v '^[[:space:]]*$' | parallel -j 10 download_and_convert {} > tmp_merge.txt
+
+    awk '{ print $1 }' tmp_merge.txt | while read -r domain; do
+        [[ "$domain" =~ ^[!#\<] ]] && continue
+
+        if [[ "$domain" =~ ^(REG|ALL|Blocked|RZD)$ || "$domain" =~ ^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
+            continue
+        fi
 
         pure_domain=$(extract_domain_from_rule "$domain")
 
-        # If the domain contains $important, treat it as invalid and save it to the invalid file
         if [[ "$domain" =~ \$important ]]; then
             echo "$domain" >> "$invalid_file"
         elif [[ -n "$pure_domain" ]]; then
-            # If the domain is valid (without $important), output it
             echo "$pure_domain"
         else
             echo "$domain" >> "$invalid_file"
         fi
     done | sort -u > "$output_file"
 
-    rm -f "$tmp_file"
+    rm -f tmp_merge.txt
 }
 
-# Only process allowlist
+# 执行处理
 process_list "allowlist" "domain.txt" "invalid_rules.txt"
 wait
 
-# Clean up domain list
+# 清理空行和空格
 echo "Cleaning up domain list..."
 sed -i '/^$/d' domain.txt
 sed -i 's/[[:space:]]//g' domain.txt
 
-# Clean up invalid_rules list
 echo "Cleaning up invalid rules list..."
 sed -i '/^$/d' invalid_rules.txt
 sed -i 's/[[:space:]]//g' invalid_rules.txt
 sort -u invalid_rules.txt -o invalid_rules.txt
 
-# Generate adblocker with @@|| prefix
+# 添加 adblock 前缀
 echo "Adding @@||^ prefix to domain list..."
-while read domain; do
+while read -r domain; do
     echo "@@||$domain^"
 done < domain.txt > adblocker_with_prefix.txt
 
-# Done
+# 完成提示
 echo "Pure domain list generated in 'domain.txt'."
 echo "Invalid rules saved in 'invalid_rules.txt'."
 echo "Adblocker list with @@||^ prefix saved in 'adblocker_with_prefix.txt'."
