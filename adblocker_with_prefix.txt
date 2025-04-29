@@ -1802,7 +1802,6 @@
 @@||api-widget.x.sndcdn.com^
 @@||api-x.sonymobile.com^
 @@||api.account.adobe.com^
-@@||api.account.xiaomi^
 @@||api.account.xiaomi.com^
 @@||api.accuweather.com^
 @@||api.actionbutton.co^
@@ -2074,7 +2073,6 @@
 @@||apis.mail.yahoo.com^
 @@||apis.naver.com^
 @@||apis.snapchat.com^
-@@||apis.vk.vom^
 @@||apiservices.krxd.net^
 @@||apiwz.midukanshu.com^
 @@||apk.v-mate.mobi^
@@ -5152,7 +5150,6 @@
 @@||docs.vuukle.com^
 @@||doctor.ndtv.com^
 @@||doctorpk.mywibes.com^
-@@||dog.bin^
 @@||dogelexus.win^
 @@||doi.org^
 @@||doiop.com^
@@ -5376,7 +5373,6 @@
 @@||e-campaign.huawei.com^
 @@||e-contactus.samsung.com^
 @@||e-file.huawei.com^
-@@||e-hentai.or^
 @@||e-hentai.org^
 @@||e-learning.huawei.com^
 @@||e-recht24.de^
@@ -9795,7 +9791,6 @@
 @@||m.extratorrent.cc^
 @@||m.extratorrent.com^
 @@||m.facebook.com^
-@@||m.facebookcom^
 @@||m.files.bbci.co.uk^
 @@||m.firstpost.com^
 @@||m.foxnews.com^
@@ -10858,7 +10853,6 @@
 @@||mybbc.files.bbci.co.uk^
 @@||mybmw.tw^
 @@||mybranded.link^
-@@||mybrowserbar-com.samsung.com.nas^
 @@||mycecianajada271928.life^
 @@||mycrypto.com^
 @@||mycts.app^
@@ -13548,7 +13542,6 @@
 @@||sbfunservice.cc^
 @@||sbgo.io^
 @@||sbird.co^
-@@||sbl.wmk^
 @@||sblinks.com^
 @@||sbms.biz^
 @@||sbotangandewa.com^
@@ -14796,7 +14789,6 @@
 @@||static.ow.ly^
 @@||static.parastorage.com^
 @@||static.pcgamingwiki.com^
-@@||static.pd.biv.sony.tv^
 @@||static.pddpic.com^
 @@||static.returnpath.net^
 @@||static.seedr.cc^
@@ -17833,7 +17825,6 @@
 @@||www.disquscdn.com^
 @@||www.dnaindia.com^
 @@||www.docker.com^
-@@||www.dog.bin^
 @@||www.dolcegabbana.com^
 @@||www.domain.dot.tk^
 @@||www.domainwhoisinfo.com^
