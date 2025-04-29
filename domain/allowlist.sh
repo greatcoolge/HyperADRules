@@ -19,15 +19,20 @@ extract_domain_from_rule() {
 download_and_convert() {
     local url="$1"
     local tmpfile="tmp_detect_$(echo "$url" | md5sum | cut -c1-8).txt"
+    
+    echo "Downloading from $url..."
     content=$(wget --no-check-certificate -t 3 -T 10 --waitretry=5 -q -O - "$url")
-
+    
     if [[ -n "$content" ]]; then
-        echo "$content" >> "$allowlist_tmp"  # 修改为直接追加到临时文件
+        echo "$content" > "$tmpfile"  # 保存下载内容到临时文件
         encoding=$(uchardet "$tmpfile" | awk '{print $1}')
         iconv -f "$encoding" -t UTF-8//IGNORE "$tmpfile" 2>/dev/null || cat "$tmpfile"
+        cat "$tmpfile" >> "$allowlist_tmp"  # 追加内容到最终合并文件
+    else
+        echo "Failed to download or no content for $url"
     fi
 
-    rm -f "$tmpfile"
+    rm -f "$tmpfile"  # 删除临时文件
 }
 
 export -f download_and_convert
