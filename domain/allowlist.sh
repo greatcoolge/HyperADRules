@@ -53,8 +53,14 @@ process_list() {
             continue
         fi
 
+        # 确保规则是有效的域名
         # 如果规则是 @@|| 或者 @@ 开头的，确保不存入 invalid_rules.txt
         if [[ "$domain" =~ ^@@\|\|([a-zA-Z0-9.-]+(?:--[a-zA-Z0-9]+)*\.[a-zA-Z]{2,})$ || "$domain" =~ ^@@([a-zA-Z0-9.-]+(?:--[a-zA-Z0-9]+)*\.[a-zA-Z]{2,})$ ]]; then
+            # 排除包含 `*` 或者无效的域名（例如包含 `*-cf.xvideos-cdn.com` 这种不合法的规则）
+            if [[ "$domain" =~ \*\.[a-zA-Z0-9.-]+ ]]; then
+                echo "$domain" >> "$invalid_file"
+                continue
+            fi
             pure_domain=$(echo "$domain" | sed 's/@@||//; s/@@//')
         else
             pure_domain=$(extract_domain_from_rule "$domain")
