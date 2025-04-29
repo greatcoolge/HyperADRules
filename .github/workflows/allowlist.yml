@@ -1,0 +1,43 @@
+name: allow_lists
+
+on: 
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */12 * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set Up Environment
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y curl
+
+      - name: Run Domain List Script
+        run: |
+          chmod +x ./domain/allowlist.sh
+          ./domain/allowlist.sh
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          
+          # Commit changes, including when no changes are detected
+          git add --all
+          git commit -m "Forced update at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）" || echo "No changes detected, but forced commit."
+          
+          # Use --force to overwrite any possible conflicts
+          git push origin HEAD:master --force || echo "Push failed due to conflicts or no changes."
+
+      - name: Delete Workflow Runs 
+        uses: Mattraks/delete-workflow-runs@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ${{ github.repository }}
+          retain_days: 0
+          keep_minimum_runs: 0
