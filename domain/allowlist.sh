@@ -75,7 +75,7 @@ allowlist_urls=(
     "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/white.txt"
     "https://raw.githubusercontent.com/Cats-Team/AdRules/script/script/allowlist.txt"
     "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt"
-    'https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt"
+    "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt"
     "https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list"
     "https://raw.githubusercontent.com/neodevpro/neodevhost/master/ownallowlist"
     "https://raw.githubusercontent.com/EnergizedProtection/unblock/master/basic/formats/domains.txt"
