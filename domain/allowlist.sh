@@ -9,14 +9,8 @@ extract_domain_from_rule() {
     # Extract from @@||domain.com^
     if [[ "$1" =~ ^@@\|\|([a-zA-Z0-9.-]+)\^$ ]]; then
         echo "${BASH_REMATCH[1]}"
-    # Extract from @@domain.com
-    elif [[ "$1" =~ ^@@([a-zA-Z0-9.-]+)$ ]]; then
-        echo "${BASH_REMATCH[1]}"
-    # Extract from domain.com
     elif [[ "$1" =~ ^([a-zA-Z0-9.-]+)$ ]]; then
         echo "$1"
-    else
-        echo "Invalid rule format: $1"
     fi
 }
 
@@ -24,34 +18,29 @@ extract_domain_from_rule() {
 process_list() {
     local input_list=$1 output_file=$2 invalid_file=$3 tmp_file="tmp_$output_file"
     echo "Merging $output_file..."
-    
-    # Download list from URLs and process each domain
-    grep -v '^#' "allowlist" | xargs -P 5 -I {} wget --no-check-certificate -t 1 -T 10 -q -O - "{}" > "$tmp_file"
+    grep -v '^#' "$input_list" | xargs -P 5 -I {} wget --no-check-certificate -t 1 -T 10 -q -O - "{}" > "$tmp_file"
 
     awk '{ print $1 }' "$tmp_file" | while read domain; do
-        # Skip lines starting with ! or #
-        [[ "$domain" =~ ^[!#] ]] && continue
-        
-        # Extract the domain and normalize
-        pure_domain=$(extract_domain_from_rule "$domain")
-        
-        # Print for debugging purposes
-        echo "Processed domain: $pure_domain"
+        # Ignore comments or blocked domains (starting with ! or #), or lines with <
+        [[ "$domain" =~ ^[#!<] ]] && continue  
 
-        if [[ -n "$pure_domain" ]]; then
+        pure_domain=$(extract_domain_from_rule "$domain")
+
+        # If the domain contains $important, treat it as invalid and save it to the invalid file
+        if [[ "$domain" =~ \$important ]]; then
+            echo "$domain" >> "$invalid_file"
+        elif [[ -n "$pure_domain" ]]; then
+            # If the domain is valid (without $important), output it
             echo "$pure_domain"
         else
-            # Only add non-empty invalid rules
-            if [[ -n "$domain" ]]; then
-                echo "$domain" >> "$invalid_file"
-            fi
+            echo "$domain" >> "$invalid_file"
         fi
     done | sort -u > "$output_file"
 
     rm -f "$tmp_file"
 }
 
-# Process allowlist
+# Only process allowlist
 process_list "allowlist" "domain.txt" "invalid_rules.txt"
 wait
 
@@ -59,9 +48,6 @@ wait
 echo "Cleaning up domain list..."
 sed -i '/^$/d' domain.txt
 sed -i 's/[[:space:]]//g' domain.txt
-
-# Remove subdomains if parent exists
-process_domains "domain.txt" "domain.txt"
 
 # Clean up invalid_rules list
 echo "Cleaning up invalid rules list..."
