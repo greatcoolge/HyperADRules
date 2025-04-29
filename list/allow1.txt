@@ -1795,6 +1795,7 @@
 @@||bc.vc^
 @@||bcbits.com^
 @@||bce.baidu.com^
+@@||bce.baidu.comsony.tv^
 @@||bcedns.com^
 @@||bcedns.net^
 @@||bcee.lu^
@@ -9030,7 +9031,6 @@
 @@||static.ow.ly^
 @@||static.parastorage.com^
 @@||static.pcgamingwiki.com^
-@@||static.pd.biv.sony.tv^
 @@||static.returnpath.net^
 @@||static.seedr.cc^
 @@||static.sh.st^
