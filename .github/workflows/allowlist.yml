@@ -8,6 +8,7 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -15,10 +16,11 @@ jobs:
       - name: Set Up Environment
         run: |
           sudo apt-get update
-          sudo apt-get install -y wget parallel uchardet curl
+          sudo apt-get install -y wget parallel uchardet curl iconv
 
       - name: Run Domain List Script
         run: |
+          set -euxo pipefail
           chmod +x ./domain/allowlist.sh
           ./domain/allowlist.sh
 
@@ -26,10 +28,14 @@ jobs:
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
-          
-          git add --all
-          git commit -m "Forced update at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）" || echo "No changes detected, but forced commit."
-          git push origin HEAD:master --force || echo "Push failed due to conflicts or no changes."
+
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update allowlist at $(TZ=Asia/Shanghai date +'%Y-%m-%d %H:%M:%S')（北京时间）"
+            git push origin HEAD:master
+          fi
 
       - name: Delete Workflow Runs 
         uses: Mattraks/delete-workflow-runs@main
