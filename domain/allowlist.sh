@@ -6,7 +6,7 @@ rm -f domain.txt allow.txt invalid_rules.txt adblocker_with_prefix.txt tmp_detec
 
 # 提取纯域名函数
 extract_domain_from_rule() {
-    if [[ "$1" =~ ^@@\|\|([a-zA-Z0-9.-]+\.[a-zA-Z]{2,})\^$ ]]; then
+    if [[ "$1" =~ ^@@\|\|([a-zA-Z0-9.-]+\.[a-zA-Z]{2,})\^?$ ]]; then
         echo "${BASH_REMATCH[1]}"
     elif [[ "$1" =~ ^@@([a-zA-Z0-9.-]+\.[a-zA-Z]{2,})$ ]]; then
         echo "${BASH_REMATCH[1]}"
@@ -22,7 +22,7 @@ download_and_convert() {
     content=$(wget --no-check-certificate -t 3 -T 10 --waitretry=5 -q -O - "$url")
 
     if [[ -n "$content" ]]; then
-        echo "$content" > "$tmpfile"
+        echo "$content" >> "$allowlist_tmp"  # 修改为直接追加到临时文件
         encoding=$(uchardet "$tmpfile" | awk '{print $1}')
         iconv -f "$encoding" -t UTF-8//IGNORE "$tmpfile" 2>/dev/null || cat "$tmpfile"
     fi
@@ -65,8 +65,39 @@ process_list() {
     rm -f tmp_merge.txt
 }
 
+# 集成allowlist URL列表
+allowlist_urls=(
+    "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/Master/FuLingRules/FuLingAllowList.txt"
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-referral.txt"
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-urlshortener.txt"
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/whitelist-referral-native.txt"
+    "https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt"
+    "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/white.txt"
+    "https://raw.githubusercontent.com/Cats-Team/AdRules/script/script/allowlist.txt"
+    "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt"
+    'https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt"
+    "https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list"
+    "https://raw.githubusercontent.com/neodevpro/neodevhost/master/ownallowlist"
+    "https://raw.githubusercontent.com/EnergizedProtection/unblock/master/basic/formats/domains.txt"
+    "https://raw.githubusercontent.com/217heidai/adblockfilters/refs/heads/main/rules/white.txt"
+    "https://oisd.nl/excludes.php"
+    "https://raw.githubusercontent.com/zoonderkins/blahdns/refs/heads/master/hosts/whitelist.txt"
+    # 添加更多的 URL
+)
+
+# 临时文件名
+allowlist_tmp="allowlist_combined.txt"
+
+# 下载并合并allowlist文件
+echo "Downloading allowlist URLs..."
+> "$allowlist_tmp"  # 清空文件
+
+for url in "${allowlist_urls[@]}"; do
+    download_and_convert "$url"
+done
+
 # 执行处理
-process_list "allowlist" "domain.txt" "invalid_rules.txt"
+process_list "$allowlist_tmp" "domain.txt" "invalid_rules.txt"
 wait
 
 # 清理空行和空格
