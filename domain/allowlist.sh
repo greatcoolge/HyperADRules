@@ -6,11 +6,13 @@ rm -f domain.txt allow.txt invalid_rules.txt important_rules.txt adblocker_with_
 
 # 提取纯域名函数
 extract_domain_from_rule() {
-    if [[ "$1" =~ ^@@\|\|([a-zA-Z0-9.-]+\.[a-zA-Z]{2,})\^$ ]]; then
+    echo "Processing: $1"  # 调试信息，查看当前正在处理的规则
+    # 支持中间带连字符 "--" 的域名
+    if [[ "$1" =~ ^@@\|\|([a-zA-Z0-9.-]+(?:--[a-zA-Z0-9]+)*\.[a-zA-Z]{2,})\^$ ]]; then
         echo "${BASH_REMATCH[1]}"
-    elif [[ "$1" =~ ^@@([a-zA-Z0-9.-]+\.[a-zA-Z]{2,})$ ]]; then
+    elif [[ "$1" =~ ^@@([a-zA-Z0-9.-]+(?:--[a-zA-Z0-9]+)*\.[a-zA-Z]{2,})$ ]]; then
         echo "${BASH_REMATCH[1]}"
-    elif [[ "$1" =~ ^([a-zA-Z0-9.-]+\.[a-zA-Z]{2,})$ ]]; then
+    elif [[ "$1" =~ ^([a-zA-Z0-9.-]+(?:--[a-zA-Z0-9]+)*\.[a-zA-Z]{2,})$ ]]; then
         echo "$1"
     fi
 }
@@ -51,7 +53,12 @@ process_list() {
             continue
         fi
 
-        pure_domain=$(extract_domain_from_rule "$domain")
+        # 如果规则是 @@|| 或者 @@ 开头的，确保不存入 invalid_rules.txt
+        if [[ "$domain" =~ ^@@\|\|([a-zA-Z0-9.-]+(?:--[a-zA-Z0-9]+)*\.[a-zA-Z]{2,})$ || "$domain" =~ ^@@([a-zA-Z0-9.-]+(?:--[a-zA-Z0-9]+)*\.[a-zA-Z]{2,})$ ]]; then
+            pure_domain=$(echo "$domain" | sed 's/@@||//; s/@@//')
+        else
+            pure_domain=$(extract_domain_from_rule "$domain")
+        fi
 
         # 如果规则包含 $important，且非域名，存入 important_rules.txt
         if [[ "$domain" =~ \$important && -z "$pure_domain" ]]; then
