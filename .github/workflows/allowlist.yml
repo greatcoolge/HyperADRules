@@ -1,6 +1,6 @@
 name: allow_lists
 
-on:
+on: 
   workflow_dispatch:
   schedule:
     - cron: '0 */12 * * *'
@@ -26,12 +26,12 @@ jobs:
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
-
+          
           git add --all
           git commit -m "Forced update at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）" || echo "No changes detected, but forced commit."
           git push origin HEAD:master --force || echo "Push failed due to conflicts or no changes."
 
-      - name: Delete Workflow Runs
+      - name: Delete Workflow Runs 
         uses: Mattraks/delete-workflow-runs@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
