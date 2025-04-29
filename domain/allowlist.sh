@@ -28,6 +28,7 @@ download_and_convert() {
         encoding=$(uchardet "$tmpfile" | awk '{print $1}')
         iconv -f "$encoding" -t UTF-8//IGNORE "$tmpfile" 2>/dev/null || cat "$tmpfile"
         cat "$tmpfile" >> "$allowlist_tmp"  # 追加内容到最终合并文件
+        echo "Downloaded and processed: $url" >> "$log_file"
     else
         echo "Failed to download or no content for $url" >> "$log_file"
     fi
