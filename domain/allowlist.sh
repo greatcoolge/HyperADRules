@@ -42,17 +42,18 @@ process_domains() {
 
 # Process allowlist
 process_list() {
-    local output_file=$1 invalid_file=$2 tmp_file="tmp_$output_file"
+    local input_list=$1 output_file=$2 invalid_file=$3 tmp_file="tmp_$output_file"
     echo "Merging $output_file..."
-    # 从allowlist读取URL并下载内容
     grep -v '^#' "allowlist" | xargs -P 5 -I {} wget --no-check-certificate -t 1 -T 10 -q -O - "{}" > "$tmp_file"
 
     awk '{ print $1 }' "$tmp_file" | while read domain; do
-        [[ "$domain" =~ ^! ]] && continue  # 跳过以 ! 开头的规则（比如 !blocked.com）
+        # Ignore comments or blocked domains (starting with ! or #)
+        [[ "$domain" =~ ^[#!] ]] && continue  
 
         pure_domain=$(extract_domain_from_rule "$domain")
         normalized_domain=$(normalize_domain "$pure_domain")
 
+        # If the domain is valid, output it; otherwise, save it to invalid_rules.txt
         if [[ -n "$normalized_domain" ]]; then
             echo "$normalized_domain"
         else
@@ -64,7 +65,7 @@ process_list() {
 }
 
 # Only process allowlist
-process_list "domain.txt" "invalid_rules.txt"
+process_list "allowlist" "domain.txt" "invalid_rules.txt"
 wait
 
 # Clean up domain list
