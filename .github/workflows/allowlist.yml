@@ -16,11 +16,11 @@ jobs:
       - name: Set Up Environment
         run: |
           sudo apt-get update
-          sudo apt-get install -y wget parallel uchardet curl iconv
+          sudo apt-get install -y wget parallel uchardet curl
 
       - name: Run Domain List Script
         run: |
-          set -euxo pipefail
+          set -euo pipefail
           chmod +x ./domain/allowlist.sh
           ./domain/allowlist.sh
 
