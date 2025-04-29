@@ -44,7 +44,8 @@ process_domains() {
 process_list() {
     local input_list=$1 output_file=$2 invalid_file=$3 tmp_file="tmp_$output_file"
     echo "Merging $output_file..."
-    grep -v '^#' "$allowlist" | xargs -P 5 -I {} wget --no-check-certificate -t 1 -T 10 -q -O - "{}" > "$tmp_file"
+    # 修改路径，从根目录读取 allowlist 文件
+    grep -v '^#' "../allowlist" | xargs -P 5 -I {} wget --no-check-certificate -t 1 -T 10 -q -O - "{}" > "$tmp_file"
 
     awk '{ print $1 }' "$tmp_file" | while read domain; do
         [[ "$domain" =~ ^! ]] && continue  # Skip !comment or !blocked.com rules
