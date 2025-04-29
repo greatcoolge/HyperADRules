@@ -961,6 +961,7 @@
 @@||Processing:@@||acronymfinder.com^^
 @@||Processing:@@||acrt.us^^
 @@||Processing:@@||acs.m.taobao.com^^
+@@||Processing:@@||acs.m.taobao.com^^
 @@||Processing:@@||acs.m.taobao.com^$important^
 @@||Processing:@@||acsdk.gameyw.easebar.com^^
 @@||Processing:@@||acstatic-dun.126.net^^
@@ -998,6 +999,7 @@
 @@||Processing:@@||activity.app.autohome.com.cn^^
 @@||Processing:@@||activity.hdslb.com^^
 @@||Processing:@@||activity.netroam.mihome.xiaomi.net^^
+@@||Processing:@@||activity.tuiapple.com^$important^
 @@||Processing:@@||activity.windows.com^^
 @@||Processing:@@||actonsoftware.com^^
 @@||Processing:@@||acts.qidian.com^^
@@ -1083,6 +1085,7 @@
 @@||Processing:@@||admin.wechat.com^^
 @@||Processing:@@||adminconsole.adobe.com^^
 @@||Processing:@@||admission.iutoic-dhaka.edu^^
+@@||Processing:@@||adnmb3.com^^
 @@||Processing:@@||adobe-dns-01.adobe.com^^
 @@||Processing:@@||adobe-dns-02.adobe.com^^
 @@||Processing:@@||adobe-dns-04.adobe.com^^
@@ -1313,7 +1316,9 @@
 @@||Processing:@@||alitems.site^^
 @@||Processing:@@||alive.github.com^^
 @@||Processing:@@||aliyun.com^^
+@@||Processing:@@||aliyun.com^^
 @@||Processing:@@||aliyun.com^$important^
+@@||Processing:@@||aliyuncs.com^^
 @@||Processing:@@||aliyuncs.com^^
 @@||Processing:@@||aljazeera.com^^
 @@||Processing:@@||all.spot.im^^
@@ -2353,6 +2358,7 @@
 @@||Processing:@@||api.zhihu.com^$important^
 @@||Processing:@@||api.zhuti.intl.xiaomi.com^^
 @@||Processing:@@||api.zhuti.xiaomi.com^^
+@@||Processing:@@||api.zhuti.xiaomi.com^$important^
 @@||Processing:@@||api1.weather.com^^
 @@||Processing:@@||api2.bitfinex.com^^
 @@||Processing:@@||api2.branch.io^^
@@ -3584,6 +3590,7 @@
 @@||Processing:@@||c.office.com^^
 @@||Processing:@@||c.oracleinfinity.io^^
 @@||Processing:@@||c.pc.qq.com^^
+@@||Processing:@@||c.pc.qq.com^^
 @@||Processing:@@||c.pc.qq.com^$important^
 @@||Processing:@@||c.ptgncdn.com^^
 @@||Processing:@@||c.s-microsoft.com^^
@@ -4466,6 +4473,7 @@
 @@||Processing:@@||cn.app.chat.xiaomi.net^^
 @@||Processing:@@||cn.app.chat.xiaomi.net^$important^
 @@||Processing:@@||cn.bing.com^^
+@@||Processing:@@||cn.bing.com^$important^
 @@||Processing:@@||cn.ekg.riotgames.com^$important^
 @@||Processing:@@||cn.engadget.com^^
 @@||Processing:@@||cn.gravatar.com^^
@@ -4493,6 +4501,7 @@
 @@||Processing:@@||cnn.com^^
 @@||Processing:@@||cnn.it^^
 @@||Processing:@@||cnnct.soundcloud.com^^
+@@||Processing:@@||cnnic.net.cn^^
 @@||Processing:@@||cnnmon.ie^^
 @@||Processing:@@||cnstrc.com^^
 @@||Processing:@@||cnvrge.co^^
@@ -5040,6 +5049,7 @@
 @@||Processing:@@||data.mistat.intl.xiaomi.com^^
 @@||Processing:@@||data.mistat.intl.xiaomi.com^$important^
 @@||Processing:@@||data.mistat.xiaomi.com^^
+@@||Processing:@@||data.mistat.xiaomi.com^$important^
 @@||Processing:@@||data.nsw.gov.au^^
 @@||Processing:@@||data.sec.intl.miui.com^^
 @@||Processing:@@||data.sec.miui.com^^
@@ -5051,6 +5061,7 @@
 @@||Processing:@@||datamixer-pa.googleapis.com^^
 @@||Processing:@@||dataplicity.com^^
 @@||Processing:@@||datapoints.coinmarketcap.com^^
+@@||Processing:@@||dataprajna.net^^
 @@||Processing:@@||dataprajna.net^$important^
 @@||Processing:@@||datarouter-prod.ak.epicgames.com^^
 @@||Processing:@@||datarouter.ol.epicgames.com^^
@@ -5294,6 +5305,7 @@
 @@||Processing:@@||digitize-umfrage.at^^
 @@||Processing:@@||diigo.com^^
 @@||Processing:@@||dik.si^^
+@@||Processing:@@||dilidili.live^^
 @@||Processing:@@||dimg04.c-ctrip.com^^
 @@||Processing:@@||dingtalk.com^^
 @@||Processing:@@||dinguscustoms.live^^
@@ -5473,6 +5485,7 @@
 @@||Processing:@@||door2door2.org^^
 @@||Processing:@@||dopice.sk^^
 @@||Processing:@@||doris.yidianzixun.com^^
+@@||Processing:@@||dot.360.cn^$important^
 @@||Processing:@@||dot.gov^^
 @@||Processing:@@||dot.tk^^
 @@||Processing:@@||dotalink.com^^
@@ -5487,6 +5500,7 @@
 @@||Processing:@@||down.local.sec.samsung.com.cdngc.net^^
 @@||Processing:@@||down.local.sec.samsung.com^^
 @@||Processing:@@||down.nbooks.naver.com^^
+@@||Processing:@@||down.sandai.net^^
 @@||Processing:@@||down.sandai.net^^
 @@||Processing:@@||download-alt.easyanticheat.net^^
 @@||Processing:@@||download-c.huawei.com^^
@@ -5834,8 +5848,11 @@
 @@||Processing:@@||eladkarako.github.io^^
 @@||Processing:@@||elasticbeanstalk.com^^
 @@||Processing:@@||ele.me^^
+@@||Processing:@@||ele.me^^
 @@||Processing:@@||elections.huffingtonpost.com^^
 @@||Processing:@@||elegantthemes.com^^
+@@||Processing:@@||eleme.cn^^
+@@||Processing:@@||elemecdn.com^^
 @@||Processing:@@||elephantjournal.com^^
 @@||Processing:@@||elev.eu^^
 @@||Processing:@@||elevation-crew.life^^
@@ -6513,6 +6530,7 @@
 @@||Processing:@@||flx.to^^
 @@||Processing:@@||fly2.ws^^
 @@||Processing:@@||fly4win.com^^
+@@||Processing:@@||flyme.cn^^
 @@||Processing:@@||flyurl.net^^
 @@||Processing:@@||fm.tuba.pl^^
 @@||Processing:@@||fmovies.to^^
@@ -7038,6 +7056,7 @@
 @@||Processing:@@||github.co^^
 @@||Processing:@@||github.com.cnpmjs.org^^
 @@||Processing:@@||github.com^^
+@@||Processing:@@||github.com^$important^
 @@||Processing:@@||github.community^^
 @@||Processing:@@||github.developerdan.com^^
 @@||Processing:@@||github.hubspot.com^^
@@ -7046,6 +7065,7 @@
 @@||Processing:@@||github.store^^
 @@||Processing:@@||githubapp.com^^
 @@||Processing:@@||githubusercontent.com^^
+@@||Processing:@@||githubusercontent.com^$important^
 @@||Processing:@@||gitlab.com^^
 @@||Processing:@@||gitter.im^^
 @@||Processing:@@||gizbot.com^^
@@ -7572,6 +7592,7 @@
 @@||Processing:@@||gtq.sct.sc-prod.net^^
 @@||Processing:@@||gu-web.net^^
 @@||Processing:@@||guanjia.qq.com^^
+@@||Processing:@@||guanjia.qq.com^^
 @@||Processing:@@||guardian.co.uk^^
 @@||Processing:@@||guardianproject.gitlab.io^^
 @@||Processing:@@||guardianproject.info^^
@@ -8059,6 +8080,7 @@
 @@||Processing:@@||i.scdn.co^^
 @@||Processing:@@||i.snap.com^^
 @@||Processing:@@||i.sso.sina.com.cn^^
+@@||Processing:@@||i.tianqi.com^$important^
 @@||Processing:@@||i.viafoura.co^^
 @@||Processing:@@||i.vimeocdn.com^^
 @@||Processing:@@||i.x.sndcdn.com^^
@@ -8651,6 +8673,7 @@
 @@||Processing:@@||ip.breitbart.com^^
 @@||Processing:@@||ip.cn^^
 @@||Processing:@@||ip.cn^$important^
+@@||Processing:@@||ip.rtbasia.com^^
 @@||Processing:@@||ip.taobao.com^$important^
 @@||Processing:@@||ip2location.com^^
 @@||Processing:@@||ipapi.co^^
@@ -10124,6 +10147,7 @@
 @@||Processing:@@||m.macworld.co.uk^^
 @@||Processing:@@||m.mail.naver.com^^
 @@||Processing:@@||m.mall.dcinside.com^^
+@@||Processing:@@||m.manhuabei.com^$important^
 @@||Processing:@@||m.me^^
 @@||Processing:@@||m.media-amazon.com^^
 @@||Processing:@@||m.meizu.com^^
@@ -10223,6 +10247,7 @@
 @@||Processing:@@||m.youtube.com^^
 @@||Processing:@@||m.youtube.com^$important^
 @@||Processing:@@||m.zhuanzhuan.com^^
+@@||Processing:@@||m.zhuanzhuan.com^$important^
 @@||Processing:@@||m.zippyshare.com^^
 @@||Processing:@@||m1.chia-anime.tv^^
 @@||Processing:@@||m1.img.10010.com^^
@@ -10439,6 +10464,7 @@
 @@||Processing:@@||mayoclinic.org^^
 @@||Processing:@@||mazu.sec.miui.com^^
 @@||Processing:@@||mb-mods.net^^
+@@||Processing:@@||mb.yidianzixun.com^$important^
 @@||Processing:@@||mbapp.io^^
 @@||Processing:@@||mbayaq.co^^
 @@||Processing:@@||mbd.baidu.com^^
@@ -10557,6 +10583,7 @@
 @@||Processing:@@||megalink.vip^^
 @@||Processing:@@||megawatts.live^^
 @@||Processing:@@||meinor.live^^
+@@||Processing:@@||meizu.com^^
 @@||Processing:@@||meizu.com^^
 @@||Processing:@@||mel1.speedtest.telstra.net^^
 @@||Processing:@@||melbetcom.life^^
@@ -11264,6 +11291,7 @@
 @@||Processing:@@||natura.com.vc^^
 @@||Processing:@@||nature.com^^
 @@||Processing:@@||nature.ly^^
+@@||Processing:@@||nav.browser.miui.com^^
 @@||Processing:@@||nav.browser.miui.com^^
 @@||Processing:@@||nav.cx^^
 @@||Processing:@@||nav.porsche.com^^
@@ -13039,6 +13067,7 @@
 @@||Processing:@@||quantummetric.com^^
 @@||Processing:@@||quapp.shenbabao.com^$important^
 @@||Processing:@@||quark.sm.cn^^
+@@||Processing:@@||quark.sm.cn^$important^
 @@||Processing:@@||quee.link^^
 @@||Processing:@@||queen-kelly.life^^
 @@||Processing:@@||queenkelly.live^^
@@ -14965,6 +14994,7 @@
 @@||Processing:@@||startupperks.live^^
 @@||Processing:@@||starturl.com^^
 @@||Processing:@@||starz.tv^^
+@@||Processing:@@||stat.api.4399.com^^
 @@||Processing:@@||stat.download.xunlei.com^^
 @@||Processing:@@||stat.moneycontrol.co.in^^
 @@||Processing:@@||stat.pandora.xiaomi.com^^
@@ -15310,6 +15340,7 @@
 @@||Processing:@@||subscriptions.pstmrk.it^^
 @@||Processing:@@||suche.t-online.de^^
 @@||Processing:@@||suckerpunch.playstation.com^^
+@@||Processing:@@||sug.browser.miui.com^^
 @@||Processing:@@||sug.search.daum.net^^
 @@||Processing:@@||sugar.zhihu.com^^
 @@||Processing:@@||sugarsync.com^^
@@ -15498,6 +15529,7 @@
 @@||Processing:@@||szjrw.sbs^^
 @@||Processing:@@||szlong.weixin.qq.com^^
 @@||Processing:@@||szmg.qq.com^^
+@@||Processing:@@||szmg.qq.com^^
 @@||Processing:@@||szukaj.wp.pl^^
 @@||Processing:@@||t*.intelliad.de^^
 @@||Processing:@@||t*.tradetracker.net^^
@@ -15645,6 +15677,7 @@
 @@||Processing:@@||t3.market.mi-img.com^$important^
 @@||Processing:@@||t3.market.xiaomi.com^^
 @@||Processing:@@||t4.market.xiaomi.com^^
+@@||Processing:@@||t5.a.market.xiaomi.com^$important^
 @@||Processing:@@||t5.market.xiaomi.com^^
 @@||Processing:@@||t7.baidu.com^^
 @@||Processing:@@||t7.baidu.com^$important^
@@ -16942,6 +16975,7 @@
 @@||Processing:@@||uwvim.sbs^^
 @@||Processing:@@||ux5.de^^
 @@||Processing:@@||uxild.com^^
+@@||Processing:@@||uxip.meizu.com^^
 @@||Processing:@@||v*-dc-ad.ixigua.com^$important^
 @@||Processing:@@||v.daum.net^^
 @@||Processing:@@||v.douyin.com^^
@@ -16968,6 +17002,7 @@
 @@||Processing:@@||v2assets.zopim.io^^
 @@||Processing:@@||v3-fq-tts.fqnovelvod.com^^
 @@||Processing:@@||v3-novelapp.fqnovelvod.com^^
+@@||Processing:@@||v3-ppx.ixigua.com^$important^
 @@||Processing:@@||v3.antpool.com^^
 @@||Processing:@@||v3d.net^^
 @@||Processing:@@||v4.download.windowsupdate.com^^
@@ -17355,6 +17390,7 @@
 @@||Processing:@@||wapking.guru^^
 @@||Processing:@@||wapo.st^^
 @@||Processing:@@||wappass.baidu.com^^
+@@||Processing:@@||wappass.baidu.com^^
 @@||Processing:@@||waptrick.com^^
 @@||Processing:@@||wapurl.co.uk^^
 @@||Processing:@@||warby.me^^
@@ -17506,6 +17542,7 @@
 @@||Processing:@@||weidian.com^$important^
 @@||Processing:@@||weishi.360.cn^^
 @@||Processing:@@||weixin.qq.com^^
+@@||Processing:@@||weixin.qq.com^^
 @@||Processing:@@||weixin.qq.com^$important^
 @@||Processing:@@||wejdz.do^^
 @@||Processing:@@||welcome.indihome.co.id^^
@@ -17582,6 +17619,7 @@
 @@||Processing:@@||wifiapi.micloud.xiaomi.net^^
 @@||Processing:@@||wig.ht^^
 @@||Processing:@@||wiimedia.ign.com^^
+@@||Processing:@@||wiki.ad-gone.com^
 @@||Processing:@@||wiki.biligame.com^^
 @@||Processing:@@||wiki.bitfinex.com^^
 @@||Processing:@@||wiki.dcinside.com^^
@@ -17691,6 +17729,7 @@
 @@||Processing:@@||worldcinema.info^^
 @@||Processing:@@||worldoftanks.eu^^
 @@||Processing:@@||worldometers.info^^
+@@||Processing:@@||worldwide.sogou.com^$important^
 @@||Processing:@@||woshipm.com^^
 @@||Processing:@@||wow.link^^
 @@||Processing:@@||wownero.herominers.com^^
@@ -18664,6 +18703,7 @@
 @@||Processing:@@||www.malwaredomains.com^^
 @@||Processing:@@||www.mandrillapp.com^^
 @@||Processing:@@||www.mangaupdates.com^^
+@@||Processing:@@||www.manhuabei.com^$important^
 @@||Processing:@@||www.marketplace.xbox.com^^
 @@||Processing:@@||www.marktplaats.nl^^
 @@||Processing:@@||www.maserati.com^^
@@ -19621,6 +19661,7 @@
 @@||Processing:@@||zhaopin.com^^
 @@||Processing:@@||zhibo.mi.com^^
 @@||Processing:@@||zhidao.baidu.com^^
+@@||Processing:@@||zhihu-web-analytics.zhihu.com/api/v2/za/payload-verification^
 @@||Processing:@@||zhihu.com^^
 @@||Processing:@@||zhimg.com^^
 @@||Processing:@@||zhipin.com^^
