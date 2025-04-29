@@ -2253,6 +2253,7 @@ wq.lt
 bbb.org
 nxgtm.com
 heytapmobi.com
+com1fichier.com
 sidekickopen46.com
 cbsinteractive.com
 shortcm.li
@@ -5720,8 +5721,8 @@ amazon.vision
 mondoagram.com
 webgains.team
 ohw.tf
-asahi.com
 short.bid
+asahi.com
 scorito.com
 roku.com
 sh-ort.app
