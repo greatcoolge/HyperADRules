@@ -82,7 +82,6 @@ allowlist_urls=(
     "https://raw.githubusercontent.com/217heidai/adblockfilters/refs/heads/main/rules/white.txt"
     "https://oisd.nl/excludes.php"
     "https://raw.githubusercontent.com/zoonderkins/blahdns/refs/heads/master/hosts/whitelist.txt"
-    # 添加更多的 URL
 )
 
 # 临时文件名
