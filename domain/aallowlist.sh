@@ -106,6 +106,22 @@ cat tmp-allow.txt tmp-rules.txt | \
   # 排序并去重
   sort -u > final-rules.txt
 
+cat final-rules.txt | \
+  # 过滤掉包含 #、$、!、/、\ 等字符的行
+  grep -Ev '#|\$|!|/|\\' | \
+  # 过滤掉空行和注释行
+  grep -v -E '^(\s*$|#)' | \
+  # 去掉每行的前后空格
+  sed 's/^[ \t]*//;s/[ \t]*$//' | \
+  # 去掉每行开头的 @@|| 和结尾的 ^ 
+  sed 's/^@@||//;s/&^$//' | \
+  # 过滤掉包含 IP 地址的行
+  grep -Ev '[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}' | \
+  # 删除空行
+  sed '/^[[:space:]]*$/d' | \
+  # 排序并去重
+  sort -u > filtered-rules.txt
+
 echo '更新成功'
 
 # 运行Python处理后续
