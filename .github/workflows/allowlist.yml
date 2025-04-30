@@ -1,4 +1,4 @@
-name: Allowlist
+name: Allowlist and Generate Domain List
 
 on:
   push:
