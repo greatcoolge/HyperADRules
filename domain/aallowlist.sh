@@ -21,7 +21,6 @@ rules=(
   "https://raw.githubusercontent.com/EnergizedProtection/unblock/master/basic/formats/domains.txt"
   "https://raw.githubusercontent.com/217heidai/adblockfilters/refs/heads/main/rules/white.txt"
   "https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt"
-  "https://oisd.nl/excludes.php"
   "https://raw.githubusercontent.com/zoonderkins/blahdns/refs/heads/master/hosts/whitelist.txt"
  )
 
