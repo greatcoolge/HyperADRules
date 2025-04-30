@@ -82,36 +82,40 @@ cat | sed '/^$/d' | grep -v "#" \
 
 echo 开始合并
 
-cat rules*.txt \
- |grep -Ev "^((\!)|(\[)).*" \
- | sort -n | uniq | awk '!a[$0]++' > tmp-rules.txt & #处理AdGuard的规则
-
-cat \
- | grep -E "^[(\@\@)|(\|\|)][^\/\^]+\^$" \
- | grep -Ev "([0-9]{1,3}.){3}[0-9]{1,3}" \
- | sort | uniq > ll.txt &
+echo '处理规则和允许列表'
+cat rules*.txt | sort -n | grep -v -E "^((#.*)|(\s*))$" \
+ | grep -v -E "^[0-9f\.:]+\s+(ip6\-)|(localhost|local|loopback)$" \
+ | grep -Ev "local.*\.local.*$" \
+ | sort \
+ | uniq > base-src-domain.txt
+wait
+cat base-src-domain.txt | grep -Ev '#|\$|@|!|/|\\|\*' \
+ | grep -v -E "^((#.*)|(\s*))$" \
+ | grep -v -E "^[0-9f\.:]+\s+(ip6\-)|(localhost|loopback)$" \
+ | sed "s/^/@@||&/g" | sed "s/$/&^/g" | sed '/^$/d' \
+ | grep -v '^#' \
+ | sort -n | uniq | awk '!a[$0]++' \
+ | grep -E "^((\|\|)\S+\^)" > tmp-rules.txt
 wait
 
-
-cat *.txt | grep '^@' \
- | sort -n | uniq > tmp-allow.txt & #允许清单处理
+cat allow*.txt | grep -v '#' | sed '/^$/d' \
+| grep -v '!' | grep -P -v '[\x80-\xFF]' \
+| sort -n | uniq | awk '!a[$0]++' > tmp-allow.txt
 wait
+
+# 最终合并文件
+echo '合并并去重规则和允许列表'
 
 # 合并允许列表和规则列表
 cat tmp-allow.txt tmp-rules.txt | \
   # 过滤掉空行和注释行
   grep -v -E '^(\s*$|#)' | \
   # 去除无效的规则（如包含特殊字符或 IP 地址）
-  grep -Ev '#|!|[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}' | \
+  grep -Ev '#|\$|@|!|/|\\|\*|[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}' | \
   # 确保规则格式一致，去掉额外的空格
   sed 's/^[ \t]*//;s/[ \t]*$//' | \
   # 排序并去重
   sort -u > final-rules.txt
-
-echo '更新成功'
-
-# 运行Python处理后续
-python .././data/python/rule.py
 
 echo '更新成功'
 
