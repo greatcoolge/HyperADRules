@@ -77,10 +77,10 @@ cat rules*.txt | sort -n | grep -v -E "^((#.*)|(\s*))$" \
   | grep -v -E "^[0-9f\.:]+\s+(ip6\-)|(localhost|local|loopback)$" \
   | grep -Ev "local.*\.local.*$" \
   | grep -Ev '#|\$|@|!|/|\\|\*' \
+  | sed "s/^/@@||/g" \
+  | sed "s/$/&^/g" \
   | sed '/^$/d' \
   | grep -v '^#' \
-  | sed "s/^/@@||/g" \  # 在规则前加上 @@||
-  | sed "s/$/&^/g" \
   | sort -n | uniq | awk '!a[$0]++' \
   | grep -E "^(@@||\S+\^)" > tmp-rules.txt
 
