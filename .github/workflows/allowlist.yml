@@ -1,42 +1,38 @@
-name: Allowlist and Generate Domain List
-
-on:
-  push:
-    branches:
-      - main
+name: Update Rules
+on: 
   workflow_dispatch:
-
+  schedule:
+    - cron: '0 */12 * * *'
+    
 jobs:
-  process_allowlist:
+  update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+          
+      - name: Update Rules
+        continue-on-error: true
+        run: |
+          bash ./data/domain/aallowlist.sh
+          
+      - name: Update ReadMe
+        run: |
+          bash ./data/script/clean-readme.sh
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - name: Git push assets to Github
+        run: |
+          git init
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git branch -m master
+          git add --all
+          git commit -m "Updated at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）"
+          git push -u origin -f
+
+      - name: Delete workflow runs 
+        uses: Mattraks/delete-workflow-runs@main
         with:
-          python-version: '3.9'
-
-      - name: Install Required Python Packages
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests chardet
-
-      - name: Run the Domain Processing Script
-        run: |
-          python3 path/domain/allowlist.py
-
-      - name: Upload Logs
-        uses: actions/upload-artifact@v2  # 使用 v2 版本
-        with:
-          name: script-logs
-          path: script.log
-
-      - name: Commit and Push Domain List Changes
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add domain.txt invalid_rules.txt adblocker_with_prefix.txt
-          git commit -m "Update domain list and invalid rules"
-          git push
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ${{ github.repository }}
+          retain_days: 0
+          keep_minimum_runs: 0
