@@ -27,7 +27,7 @@ rules=(
 
 allow=(
   "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/Master/FuLingRules/FuLingAllowList.txt"
-  "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-referral.tx"
+  "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-referral.txt"
   "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-urlshortener.txt"
   "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/whitelist-referral-native.txt"
   "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/white.txt"
@@ -69,10 +69,13 @@ cat rules*.txt | sort -n | grep -v -E "^((#.*)|(\s*))$" \
  | uniq > base-src-domain.txt
 wait
 # 先处理 base-src-domain.txt 文件并生成 tmp-rules.txt
+# 处理 base-src-domain.txt
 cat base-src-domain.txt | grep -Ev '#|\$|@|!|/|\\|\*' \
   | grep -v -E "^((#.*)|(\s*))$" \
   | grep -v -E "^[0-9f\.:]+\s+(ip6\-)|(localhost|loopback)$" \
-  | sed "s/^/@@||&/g" | sed "s/$/&^/g" | sed '/^$/d' \
+  | sed "s/^/@@||/g" \
+  | sed "s/$/&^/g" \
+  | sed '/^$/d' \
   | grep -v '^#' \
   | sort -n | uniq | awk '!a[$0]++' \
   | grep -E "^((\|\|)\S+\^)" > tmp-rules.txt
@@ -81,12 +84,13 @@ cat base-src-domain.txt | grep -Ev '#|\$|@|!|/|\\|\*' \
 echo 'tmp-rules.txt内容：'
 cat tmp-rules.txt
 
-# 另外处理 tmp.txt
-cat tmp.txt | sed "s/^/@@||&/g" > tmp1.txt
+# 处理 tmp.txt
+cat tmp.txt | sed "s/^/@@||/g" | sed "s/$/&^/g" > tmp1.txt
 
 # 打印 tmp1.txt 的内容
 echo 'tmp1.txt内容：'
 cat tmp1.txt
+
 wait
 
 cat allow*.txt | grep -v '#' | sed '/^$/d' \
