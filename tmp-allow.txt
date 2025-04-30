@@ -16,6 +16,7 @@
 @@url.cn
 @@verify.sec.xiaomi.com
 @@||*-cf.xvideos-cdn.com^
+@@||*-go.kelkoogroup.net^
 @@||*-open-sign.byteimg.com^
 @@||*-open.byteimg.com^
 @@||*.a.yximgs.com^
@@ -42,6 +43,8 @@
 @@||*.video.xiaomi.com^$important
 @@||*.xn--ngstr-lra8j.com^
 @@||*.y.qq.com^$important
+@@||*cdn.exponea.com^
+@@||*tagm.tchibo.de^
 @@||0.gp^
 @@||00oo.lol^
 @@||010.at^
@@ -325,9 +328,13 @@
 @@||aarp.info^
 @@||aawsat.news^
 @@||aawwj.com^
+@@||aax*.amazon.cn^
+@@||aax*.amazon.com^
+@@||aax-*-retail-direct.amazon-adsystem.com^
 @@||aax-dtb-cf.amazon-adsystem.amazon.com^
 @@||aax-dtb-mobile-geo.amazon-adsystem.amazon.com^
 @@||aax-eu-retail-direct.amazon-adsystem.com^
+@@||aax-eu.amazon.*^
 @@||aax-eu.amazon.ae^
 @@||aax-eu.amazon.co.uk^
 @@||aax-eu.amazon.com.be^
@@ -339,6 +346,7 @@
 @@||aax-eu.amazon.it^
 @@||aax-eu.amazon.nl^
 @@||aax-eu.amazon.sa^
+@@||aax-fe.amazon.*^
 @@||aax-fe.amazon.co.jp^
 @@||aax-fe.amazon.com.au^
 @@||aax-fe.amazon.sg^
@@ -417,6 +425,7 @@
 @@||ad-experience.bytedance.com^
 @@||ad-med.cz^
 @@||ad.admitad.com^
+@@||ad.atdmt.com^
 @@||ad.cr^
 @@||ad.doubleclick.net^
 @@||ad.dyntracker.de^
@@ -461,6 +470,7 @@
 @@||adrians-guzman-81.life^
 @@||ads.so^
 @@||adscendmedia.com^
+@@||adservice.google.*^
 @@||adservice.google.ca^
 @@||adservice.google.co.id^
 @@||adservice.google.co.in^
@@ -521,6 +531,7 @@
 @@||aet.na^
 @@||af.mopo.jp^
 @@||afdian.com^
+@@||affiliate.logitravel.com^
 @@||affiliatefuture.com^
 @@||afly.in^
 @@||aftv.news^
@@ -635,6 +646,8 @@
 @@||anacapiaestevezortiz.life^
 @@||anacon.org^
 @@||analidiaestevezortizs.life^
+@@||analytics*.trustyou.com^
+@@||analytics.barnebys.sh^
 @@||analytics.hitsmedia.org^
 @@||analytics.trustyou.com^
 @@||analytics.twitter.com^
@@ -674,6 +687,9 @@
 @@||apb2.de^
 @@||apeltravel.info^
 @@||apertibumn.org^
+@@||api*.cleverpush.com^
+@@||api*.hubapi.com^
+@@||api-*.moengage.com^
 @@||api-01.moengage.com^
 @@||api-02.moengage.com^
 @@||api-03.moengage.com^
@@ -724,13 +740,16 @@
 @@||api3-normal-sinfonlineb.fqnovel.com^
 @@||api5-normal-sinfonlineb.fqnovel.com^
 @@||apis.google.com
+@@||apiservices.krxd.net^
 @@||apll.es^
 @@||aplnn.sbs^
 @@||apmebf.com^
 @@||apms5.com^
 @@||apne.ws^
 @@||aporasal.net^
+@@||app*.salesmanago.pl^
 @@||app-measurement.com^$important
+@@||app.*.adjust.com^
 @@||app.adjust.cn^
 @@||app.adjust.com^
 @@||app.adjust.io^
@@ -807,6 +826,7 @@
 @@||assets.sb-cd.com^
 @@||assets.youlai.cn^
 @@||asso.in^
+@@||assoc-redirect.amazon.*^
 @@||assoc-redirect.amazon.com^
 @@||asus.click^
 @@||asusrog.de^
@@ -1120,6 +1140,7 @@
 @@||browser.to^
 @@||brst.link^
 @@||brucezielke.life^
+@@||bs.serving-sys.com^
 @@||bs303.com^
 @@||bslm.me^
 @@||bst.bz^
@@ -1177,6 +1198,8 @@
 @@||bzfhq.sbs^
 @@||bzgso.com^
 @@||bzh.me^
+@@||c*.dotomi.com^
+@@||c*.piano.io^
 @@||c-dot-da-plug.life^
 @@||c-fields-d.life^
 @@||c-hud-aixxx.life^
@@ -1274,6 +1297,7 @@
 @@||cdn-eu.piano.io^
 @@||cdn-go.cn^
 @@||cdn-magiclinks.trackonomics.net^
+@@||cdn.*.exponea.com^
 @@||cdn.akamai.steamstatic.com^
 @@||cdn.aligames.com^
 @@||cdn.ark.qq.com^
@@ -1392,8 +1416,10 @@
 @@||cli78.com^
 @@||clic.ae^
 @@||clica.ai^
+@@||click*.taobao.com^
 @@||click-tracking.klarna.net^
 @@||click-trk.com^
+@@||click.*.experian.com^
 @@||click.adrecord.com^
 @@||click.aliexpress.com^
 @@||click.allkeyshop.com^
@@ -1412,6 +1438,7 @@
 @@||click.em.samsclub.com^
 @@||click.email.jcpenney.com^
 @@||click.email.microsoftemail.com^
+@@||click.email.newegg.com^
 @@||click.email.sonos.com^
 @@||click.emcom.bankofamerica.com^
 @@||click.fidelityinvestments.com^
@@ -1427,6 +1454,7 @@
 @@||click.mc.crimsontrace.com^
 @@||click.member.americanexpress.com^
 @@||click.members.nra.org^
+@@||click.microsoft*.com^
 @@||click.mlsend.com^
 @@||click.myctm.canadiantire.ca^
 @@||click.mz.simba.taobao.com^
@@ -1478,6 +1506,7 @@
 @@||cloudfare.icu^
 @@||cloudflare-dns.com^
 @@||cloudlettings.live^
+@@||cloudmail*.netcore.co.in^
 @@||cloudmail16.netcore.co.in^
 @@||cloudmail17.netcore.co.in^
 @@||cloudmail18.netcore.co.in^
@@ -1606,6 +1635,7 @@
 @@||cstaticdun.126.net^
 @@||cstu.io^
 @@||cstudyd.life^
+@@||ct.impactradius.com^
 @@||ct.sendgrid.net^
 @@||ctagm.tchibo.de^
 @@||ctbc.tw^
@@ -1965,6 +1995,7 @@
 @@||e2share.in^
 @@||e37.eu^
 @@||e7.al^
+@@||ea.galerieslafayette.com^
 @@||earn4link.in^
 @@||earnshorter.com^
 @@||easycut.io^
@@ -2012,6 +2043,7 @@
 @@||eijxq.sbs^
 @@||eit.tw^
 @@||ejo.bz^
+@@||ek*.voyage-prive.com^
 @@||el.lk^
 @@||el.ly^
 @@||ela.st^
@@ -2034,7 +2066,12 @@
 @@||em-h.phncdn.com^
 @@||em.cm^
 @@||em.phncdn.com^
+@@||email-*.adguard.com^
+@@||email-*.adtidy.net^
+@@||email-*.adtidy.org^
 @@||email-tracking.infobip.com^
+@@||email.docker.com^
+@@||email.microsoft*.com^
 @@||email.microsoft.com^
 @@||email.microsoftonline.com^
 @@||email.namebase.io^
@@ -2095,6 +2132,7 @@
 @@||etp.tw^
 @@||etsgrescore.org^
 @@||etsy.me^
+@@||eu*.thunderhead.com^
 @@||eu2.cdn.thunderhead.com^
 @@||eu2.thunderhead.com^
 @@||euapoio.live^
@@ -2399,6 +2437,7 @@
 @@||genie.co.kr^
 @@||geniuslink.com^
 @@||genshin.hoyoverse.com^
+@@||geo*.presslabs.net^
 @@||geo.itunes.apple.com^
 @@||geo02.dns.presslabs.net^
 @@||geo1.presslabs.net^
@@ -2428,6 +2467,7 @@
 @@||gfuel.ly^
 @@||gfxa.top^
 @@||ggle.io^
+@@||ggopjn.com^
 @@||gh.io^
 @@||ghalida.info^
 @@||ghkp.us^
@@ -2471,6 +2511,7 @@
 @@||gmy.su^
 @@||gn.am^
 @@||gnam.me^
+@@||go*.flx1.com^
 @@||go-direct.flx1.com^
 @@||go-duo-join-live-video-chat-invite.live^
 @@||go-link.ru^
@@ -2574,6 +2615,7 @@
 @@||got.cr^
 @@||got.to^
 @@||gotds.ru^
+@@||goto.algolia.com^
 @@||goto.cream.org^
 @@||goto.jet.com^
 @@||goto.pt^
@@ -2619,6 +2661,7 @@
 @@||gtnr.it^
 @@||guanjia.qq.com^
 @@||gubdw.com^
+@@||guce.advertising.com^
 @@||guide-acs.m.taobao.com^
 @@||gumtr.ee^
 @@||gurl.to^
@@ -3285,6 +3328,7 @@
 @@||kla.me^
 @@||klas.ws^
 @@||klck.me^
+@@||klclick*.com^
 @@||klclick.com^
 @@||klclick1.com^
 @@||klclick2.com^
@@ -3501,6 +3545,7 @@
 @@||linea.link^
 @@||lingkod.to^
 @@||link-me.vip^
+@@||link.*.paramountplus.com^
 @@||link.ac^
 @@||link.betclic.com^
 @@||link.bootocorona.com^
@@ -3508,6 +3553,7 @@
 @@||link.dana.id^
 @@||link.devit.group^
 @@||link.digitaladvisor.dk^
+@@||link.epicgames.com^
 @@||link.freshmail.mx^
 @@||link.goglogo.com^
 @@||link.gy^
@@ -3523,6 +3569,7 @@
 @@||link.tubi.tv^
 @@||link.untirta.ac.id^
 @@||link.us.paramountplus.com^
+@@||link.wizzair.com^
 @@||link.zhihu.com^
 @@||link.zodia.studio^
 @@||link1s.com^
@@ -3588,9 +3635,11 @@
 @@||linkpug4d.com^
 @@||linkr.uk^
 @@||linkrefferal.vip^
+@@||links*.afterpay.com^
 @@||links-na.afterpay.com^
 @@||links.email.crunchbase.com^
 @@||links.iterable.com^
+@@||links.mkt*.net^
 @@||links.mkt41.net^
 @@||links.rasa.io^
 @@||links.uv.es^
@@ -3764,6 +3813,7 @@
 @@||lz.com^
 @@||lzd.co^
 @@||lzd.page^
+@@||m-*.custobar.com^
 @@||m-r.pw^
 @@||m-rx.bz^
 @@||m.163.com^
@@ -3790,6 +3840,7 @@
 @@||m.manhuabei.com^$important
 @@||m.me^
 @@||m.meizu.com^
+@@||m.n*.e-nocibe.fr^
 @@||m.pinduoduo.com^
 @@||m.qdmm.com^
 @@||m.qidian.com^
@@ -4031,6 +4082,7 @@
 @@||mki.my^
 @@||mkish1950.life^
 @@||mklnd.com^
+@@||mkto-*.com^
 @@||mkto-a0095.com^
 @@||mkto-ab040147.com^
 @@||mkto-ab080206.com^
@@ -4188,6 +4240,7 @@
 @@||mtik.id^
 @@||mtiny.org^
 @@||mtny.mobi^
+@@||mtpc.se
 @@||mtpc.se^
 @@||mttr.io^
 @@||mub.me^
@@ -4523,6 +4576,7 @@
 @@||onelink.me^
 @@||onelink.to^
 @@||onelovepalmbeaches.life^
+@@||onenetworkdirect.net^
 @@||onepl.us^
 @@||onforb.es^
 @@||onion.com^
@@ -4678,6 +4732,7 @@
 @@||parking.namesilo.com^
 @@||parky.tv^
 @@||particulier-connexion.com^
+@@||partners*.stacksocial.com^
 @@||party.163.com^
 @@||partyspecial.life^
 @@||passion-radio.net^
@@ -4793,6 +4848,7 @@
 @@||piscanadaca.life^
 @@||pitt.health^
 @@||piwjn.com^
+@@||pixel*.everesttech.net^
 @@||pixel.everesttech.net^
 @@||pixel.link^
 @@||pixel.xin^
@@ -5065,6 +5121,7 @@
 @@||qzr2.com^
 @@||qzs.qq.com^
 @@||qzxva.com^
+@@||r*.rs6.net^
 @@||r-7.co^
 @@||r.audible.de^
 @@||r.bioinfweb.info^
@@ -5138,6 +5195,7 @@
 @@||rebrandlydomain.com^
 @@||recmd.html5.qq.com^$important
 @@||reco.yt^
+@@||recommender*.scarabresearch.com^
 @@||recommender-eu.scarabresearch.com^
 @@||recommender.scarabresearch.com^
 @@||reconis.co^
@@ -5151,6 +5209,9 @@
 @@||redir.ec^
 @@||redir.fr^
 @@||redir.is^
+@@||redirect*.tagcommander.com^
+@@||redirect.*.aws.a2z.com^
+@@||redirect.appmetrica.yandex.*^
 @@||redirect.appmetrica.yandex.com^
 @@||redirect.appmetrica.yandex.ru^
 @@||redirect.at^
@@ -5320,6 +5381,7 @@
 @@||rysqh.pics^
 @@||rz6dkreab.cc.rs6.net^
 @@||rzr.to^
+@@||s*.exacttarget.com^
 @@||s*.ssl.qhimg.com^
 @@||s*.ssl.qhmsg.com^
 @@||s*.ssl.qhres2.com^
@@ -5487,11 +5549,13 @@
 @@||seogilak.lol^
 @@||seorumahtoto.com^
 @@||seq.vc^
+@@||servedby.o2.co.uk^
 @@||serveracts.net^
 @@||serverpa.rs^
 @@||service.mkey.163.com^
 @@||servicecenter.life^
 @@||seterusnya.live^
+@@||seu*.cleverreach.com^
 @@||seu.cleverreach.com^
 @@||seu1.cleverreach.com^
 @@||seu2.cleverreach.com^
@@ -5767,6 +5831,7 @@
 @@||siriusxm.us^
 @@||sirpaulfan.live^
 @@||siteco.re^
+@@||sites.hscoscdn*.net^
 @@||sites.hscoscdn-eu1.net^
 @@||sites.hscoscdn-na2.net^
 @@||sites.hscoscdn00.net^
@@ -5953,6 +6018,7 @@
 @@||stat.api.4399.com^
 @@||stat.y.qq.com^$important
 @@||stat6.y.qq.com^
+@@||static*.cleverpush.com^
 @@||static-*.xvideos-cdn.com^
 @@||static-cdn77.xnxx-cdn.com^
 @@||static-eu.cleverpush.com^
@@ -6025,6 +6091,7 @@
 @@||sugar.zhihu.com^
 @@||suggestion.baidu.com^
 @@||sugs.m.sm.cn^
+@@||suite*.emarsys.net^
 @@||suite10.emarsys.net^
 @@||suite11.emarsys.net^
 @@||suite16.emarsys.net^
@@ -6099,6 +6166,8 @@
 @@||szag.link^
 @@||szjrw.sbs^
 @@||szmg.qq.com^
+@@||t*.intelliad.de^
+@@||t*.tradetracker.net^
 @@||t*img.yangkeduo.com^
 @@||t-bi.link^
 @@||t-mo.co^
@@ -6109,6 +6178,7 @@
 @@||t.co^
 @@||t.co^$important
 @@||t.dripemail2.com^
+@@||t.email*.samsung.ca^
 @@||t.emailing.monoprix.fr^
 @@||t.en25.com^
 @@||t.hk.uy^
@@ -6125,6 +6195,8 @@
 @@||t.mmtrkr.com^
 @@||t.mr^
 @@||t.musixmatch.com^
+@@||t.myvisualiq.net^
+@@||t.sidekickopen*.com^
 @@||t.sidekickopen01-eu1.com^
 @@||t.sidekickopen01.com^
 @@||t.sidekickopen03.com^
@@ -6517,6 +6589,9 @@
 @@||tr.strumentimusicali.net^
 @@||tr5.in^
 @@||traceurl.com^
+@@||track*.customer.io^
+@@||track*.effiliation.com^
+@@||track*.webgains.team^
 @@||track-eu.customer.io^
 @@||track-sdk-eu.customer.io^
 @@||track-sdk.customer.io^
@@ -6745,6 +6820,7 @@
 @@||unshort.site^
 @@||unshorten.it^
 @@||unshorten.me^
+@@||unsubscribe.*.leanplum.com^
 @@||unsw.to^
 @@||untiny.me^
 @@||untpft.com^
@@ -7679,4 +7755,4 @@
 @@||zz.gd^
 @@||zzb.bz^
 @@||zzu.info^
-404: Not Found
+[Adblock Plus]
