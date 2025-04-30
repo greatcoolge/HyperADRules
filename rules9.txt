@@ -6,7 +6,7 @@
 <meta name="color-scheme" content="light">
 <meta name="author" content="sjhgvr">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<script type="text/javascript" src="/assets/script.js?1743241474" nonce="751f2b3b73a36898a4a2abd3bdd84f918f7bfe02fb790e89545bb3fbe297b208"></script>
+<script type="text/javascript" src="/assets/script.js?1743241474" nonce="ba91f5e361275f16f9ee77436ca8a1e25eea7dcf4091640e9d5734bd3e285189"></script>
 <link rel="stylesheet" href="/assets/style.css?1744650407">
 </head>
 <body><div id="page-container" style="padding:12px">
