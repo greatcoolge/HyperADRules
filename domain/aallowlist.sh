@@ -14,13 +14,24 @@ echo '下载规则'
 rules=(
   "https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/filter_whitelist.txt"
   "https://raw.githubusercontent.com/Cats-Team/AdRules/script/script/allowlist.txt"
-  # 添加更多规则源
-)
+  "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt"
+  "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt"
+  "https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list"
+  "https://raw.githubusercontent.com/neodevpro/neodevhost/master/ownallowlist"
+  "https://raw.githubusercontent.com/EnergizedProtection/unblock/master/basic/formats/domains.txt"
+  "https://raw.githubusercontent.com/217heidai/adblockfilters/refs/heads/main/rules/white.txt"
+  "https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt"
+  "https://oisd.nl/excludes.php"
+  "https://raw.githubusercontent.com/zoonderkins/blahdns/refs/heads/master/hosts/whitelist.txt"
+ )
 
 allow=(
   "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/Master/FuLingRules/FuLingAllowList.txt"
   "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-referral.tx"
-  # 添加更多允许列表源
+  "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-urlshortener.txt"
+  "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/whitelist-referral-native.txt"
+  "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/white.txt"
+  "https://raw.githubusercontent.com/ChengJi-e/AFDNS/master/QD.txt"
 )
 
 # 处理规则列表
@@ -89,7 +100,6 @@ echo '更新成功'
 
 # 运行Python处理后续
 python .././data/python/rule.py
-python .././data/python/title.py
 
 echo '更新成功'
 exit
