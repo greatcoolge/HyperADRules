@@ -13,7 +13,7 @@ jobs:
       - name: Update Rules
         continue-on-error: true
         run: |
-          bash ./data/domain/aallowlist.sh
+          bash ./domain/aallowlist.sh
           
       - name: Update ReadMe
         run: |
