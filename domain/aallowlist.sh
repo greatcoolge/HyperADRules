@@ -27,6 +27,7 @@ rules=(
 allow=(
   "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/Master/FuLingRules/FuLingAllowList.txt"
   "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-referral.txt"
+  "https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ok.txt"
   "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-urlshortener.txt"
   "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/whitelist-referral-native.txt"
   "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/white.txt"
