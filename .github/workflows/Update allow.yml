@@ -3,10 +3,13 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 */12 * * *'
-    
+
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 确保内容写入权限
+
     steps:
       - uses: actions/checkout@v4
           
@@ -21,13 +24,14 @@ jobs:
 
       - name: Git push assets to Github
         run: |
+          export TZ="Asia/Shanghai"
           git init
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git branch -m master
+          git branch -m main  # 确保分支名称与远程一致
           git add --all
-          git commit -m "Updated at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）"
-          git push -u origin -f
+          git commit -m "Updated at $(date +'%Y-%m-%d %H:%M:%S')（北京时间）"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main --force
 
       - name: Delete workflow runs 
         uses: Mattraks/delete-workflow-runs@main
