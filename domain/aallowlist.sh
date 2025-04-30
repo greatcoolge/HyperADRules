@@ -86,7 +86,7 @@ cat rules*.txt | sort -n | grep -v -E "^((#.*)|(\s*))$" \
 
 wait
 
-cat allow*.txt | grep -v '#' | sed '/^$/d' \
+cat allow*.txt | grep -v '#' | sed '/^[[:space:]]*$/d' \
 | grep -v '!' | grep -P -v '[\x80-\xFF]' \
 | sort -n | uniq | awk '!a[$0]++' > tmp-allow.txt
 wait
