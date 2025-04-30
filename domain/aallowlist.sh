@@ -75,8 +75,6 @@ echo '处理规则和允许列表'
 # 处理规则并生成 tmp-rules.txt
 cat rules*.txt | sort -n | grep -v -E "^((#.*)|(\s*))$" \
   | grep -v -E "^[0-9f\.:]+\s+(ip6\-)|(localhost|local|loopback)$" \
-  | grep -Ev '^[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}$' \  # 过滤 IPv4 地址
-  | grep -Ev '([a-f0-9]{1,4}:){7}[a-f0-9]{1,4}$' \  # 过滤 IPv6 地址
   | grep -Ev "local.*\.local.*$" \
   | grep -Ev '#|\$|@|!|/|\\|\*' \
   | sed "s/^/@@||/g" \
