@@ -16,6 +16,10 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y wget parallel uchardet curl
+          
+          # 检查 parallel 和 uchardet 是否安装成功
+          which parallel
+          which uchardet
 
       - name: Run Domain List Script
         run: |
