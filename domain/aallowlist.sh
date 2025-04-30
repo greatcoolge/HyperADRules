@@ -62,16 +62,58 @@ wait
 # 合并规则并去重
 echo '处理规则和允许列表'
 # 处理规则并生成 tmp-rules.txt
+ 添加空格
+file="$(ls|sort -u)"
+for i in $file; do
+  echo -e '\n' >> $i &
+done
+wait
+
+
+# 合并规则并去重
+echo '处理规则和允许列表'
+# 处理规则并生成 tmp-rules.txt
 cat rules*.txt | sort -n | grep -v -E "^((#.*)|(\s*))$" \
   | grep -v -E "^[0-9f\.:]+\s+(ip6\-)|(localhost|local|loopback)$" \
   | grep -Ev "local.*\.local.*$" \
   | grep -Ev '#|\$|@|!|/|\\|\*' \
-  | sed "s/^/@@||/g" \
-  | sed "s/$/&^/g" \
   | sed '/^$/d' \
   | grep -v '^#' \
+  | grep -Ev '^[0-9]{1,3}(\.[0-9]{1,3}){3}$' \  # 过滤 IPv4 地址
+  | grep -Ev '([a-f0-9]{1,4}:){7}[a-f0-9]{1,4}' \  # 过滤 IPv6 地址
+  | sed "s/^/@@||/g" \  # 在规则前加上 @@||
+  | sed "s/$/&^/g" \
   | sort -n | uniq | awk '!a[$0]++' \
   | grep -E "^(@@||\S+\^)" > tmp-rules.txt
+
+wait
+
+cat allow*.txt | grep -v '#' | sed '/^$/d' \
+| grep -v '!' | grep -P -v '[\x80-\xFF]' \
+| sort -n | uniq | awk '!a[$0]++' > tmp-allow.txt
+wait
+
+# 最终合并文件
+echo '合并并去重规则和允许列表'
+
+# 合并允许列表和规则列表
+cat tmp-allow.txt tmp-rules.txt | \
+  # 过滤掉空行和注释行
+  grep -v -E '^(\s*$|#)' | \
+  # 去除无效的规则（如包含特殊字符或 IP 地址）
+  grep -Ev '#|!|[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}' | \
+  # 确保规则格式一致，去掉额外的空格
+  sed 's/^[ \t]*//;s/[ \t]*$//' | \
+  # 排序并去重
+  sort -u > final-rules.txt
+
+echo '更新成功'
+
+# 运行Python处理后续
+python .././data/python/rule.py
+
+echo '更新成功'
+exit
 
 wait
 
