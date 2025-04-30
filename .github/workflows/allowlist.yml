@@ -1,44 +1,42 @@
-name: allow_lists
+name: Process Allowlist and Generate Domain List
 
-on: 
+on:
+  push:
+    branches:
+      - main
   workflow_dispatch:
-  schedule:
-    - cron: '0 */12 * * *'
 
 jobs:
-  update:
+  process_allowlist:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
-      - name: Set Up Environment
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y wget parallel uchardet curl
-          
-          # 检查 parallel 和 uchardet 是否安装成功
-          which parallel
-          which uchardet
-
-      - name: Run Domain List Script
-        run: |
-          chmod +x ./domain/allowlist.sh
-          ./domain/allowlist.sh
-
-      - name: Commit and Push Changes
-        run: |
-          git config --global user.email "action@github.com"
-          git config --global user.name "GitHub Action"
-          
-          git add --all
-          git commit -m "Forced update at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）" || echo "No changes detected, but forced commit."
-          git push origin HEAD:master --force || echo "Push failed due to conflicts or no changes."
-
-      - name: Delete Workflow Runs 
-        uses: Mattraks/delete-workflow-runs@main
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          repository: ${{ github.repository }}
-          retain_days: 0
-          keep_minimum_runs: 0
+          python-version: '3.9'
+
+      - name: Install Required Python Packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests chardet
+
+      - name: Run the Domain Processing Script
+        run: |
+          python3 path/domain/allowlist.py
+
+      - name: Upload Logs
+        uses: actions/upload-artifact@v3
+        with:
+          name: script-logs
+          path: script.log
+
+      - name: Commit and Push Domain List Changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add domain.txt invalid_rules.txt adblocker_with_prefix.txt
+          git commit -m "Update domain list and invalid rules"
+          git push
