@@ -7,7 +7,7 @@ echo '创建临时文件夹'
 mkdir -p ./tmp/
 
 #添加补充规则
-cp ./data/rules/adblock.txt ./tmp/rules01.txt
+#cp ./data/rules/adblock.txt ./tmp/rules01.txt
 cp ./data/rules/whitelist.txt ./tmp/allow01.txt
 # 下载规则列表
 echo '下载规则'
