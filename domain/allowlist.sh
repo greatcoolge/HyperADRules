@@ -24,6 +24,7 @@ rules=(
   "https://raw.githubusercontent.com/neodevpro/neodevhost/master/ownallowlist"
   "https://raw.githubusercontent.com/EnergizedProtection/unblock/master/basic/formats/domains.txt"
   "https://raw.githubusercontent.com/217heidai/adblockfilters/refs/heads/main/rules/white.txt"
+  "https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt"
   "https://oisd.nl/excludes.php"
   "https://raw.githubusercontent.com/zoonderkins/blahdns/refs/heads/master/hosts/whitelist.txt"
  )
@@ -33,7 +34,6 @@ allow=(
   "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-referral.tx"
   "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-urlshortener.txt"
   "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/whitelist-referral-native.txt"
-  "https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt"
   "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/white.txt"
   "https://raw.githubusercontent.com/ChengJi-e/AFDNS/master/QD.txt"
 )
@@ -58,17 +58,17 @@ echo '处理规则中'
 cat | sort -n| grep -v -E "^((#.*)|(\s*))$" \
  | grep -v -E "^[0-9f\.:]+\s+(ip6\-)|(localhost|local|loopback)$" \
  | grep -Ev "local.*\.local.*$" \
- | sed s/127.0.0.1/0.0.0.0/g | sed s/::/0.0.0.0/g |grep '0.0.0.0' |grep -Ev '.0.0.0.0 ' | sort \
- |uniq >base-src-hosts.txt &
+ | sort \
+ |uniq >base-src-domain.txt &
 wait
-cat base-src-hosts.txt | grep -Ev '#|\$|@|!|/|\\|\*'\
+cat base-src-domain.txt | grep -Ev '#|\$|@|!|/|\\|\*'\
  | grep -v -E "^((#.*)|(\s*))$" \
  | grep -v -E "^[0-9f\.:]+\s+(ip6\-)|(localhost|loopback)$" \
- | sed 's/127.0.0.1 //' | sed 's/0.0.0.0 //' \
- | sed "s/^/||&/g" |sed "s/$/&^/g"| sed '/^$/d' \
+  
+ | sed "s/^/@@||&/g" |sed "s/$/&^/g"| sed '/^$/d' \
  | grep -v '^#' \
  | sort -n | uniq | awk '!a[$0]++' \
- | grep -E "^((\|\|)\S+\^)" & #Hosts规则转ABP规则
+ | grep -E "^((\|\|)\S+\^)" & 
 
 cat | sed '/^$/d' | grep -v '#' \
  | sed "s/^/@@||&/g" | sed "s/$/&^/g"  \
@@ -78,19 +78,6 @@ cat | sed '/^$/d' | grep -v "#" \
  |sed "s/^/@@||&/g" | sed "s/$/&^/g" | sort -n \
  | uniq | awk '!a[$0]++' & #将允许域名转换为ABP规则
 
-cat | sed '/^$/d' | grep -v "#" \
- |sed "s/^/0.0.0.0 &/g" | sort -n \
- | uniq | awk '!a[$0]++' & #将允许域名转换为ABP规则
-
-cat *.txt | sed '/^$/d' \
- |grep -E "^\/[a-z]([a-z]|\.)*\.$" \
- |sort -u > l.txt &
-
-cat \
- | sed "s/^/||&/g" | sed "s/$/&^/g" &
-
-cat \
- | sed "s/^/0.0.0.0 &/g" &
 
 
 echo 开始合并
