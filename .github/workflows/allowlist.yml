@@ -1,4 +1,4 @@
-name: Update Rules
+name: Update allow
 on: 
   workflow_dispatch:
   schedule:
