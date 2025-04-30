@@ -71,10 +71,7 @@ cat rules*.txt | sort -n | grep -v -E "^((#.*)|(\s*))$" \
   | sed '/^$/d' \
   | grep -v '^#' \
   | sort -n | uniq | awk '!a[$0]++' \
-  | grep -E "^((\|\|)\S+\^)" > tmp-rules.txt
-
-echo 'tmp-rules.txt内容：'
-cat tmp-rules.txt
+  | grep -E "^(@@||\S+\^)" > tmp-rules.txt
 
 wait
 
