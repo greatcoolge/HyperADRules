@@ -1763,6 +1763,7 @@
 @@||amplitude.com^
 @@||ampr.gs^
 @@||amrep.org^
+@@||amspi.top^
 @@||amz.run^
 @@||amzn.com^
 @@||amzn.pw^
@@ -2387,6 +2388,7 @@
 @@||appsupport.qq.com^$important
 @@||apptimize.com^
 @@||appurl.io^
+@@||appusps.live^
 @@||appx.transient.amazon.com^
 @@||appx.transient.amazon.in^
 @@||apresolve.spotify.com^
@@ -3236,6 +3238,7 @@
 @@||bootbarn.com^
 @@||bootstrapcdn.com^
 @@||bootstrapcdn.jdorfman.netdna-cdn.com^
+@@||boqzl.com^
 @@||bordonet.info^
 @@||bos.ngo^
 @@||bose.life^
@@ -4129,6 +4132,7 @@
 @@||ci5.googleusercontent.com^
 @@||ci61.actonsoftware.com^
 @@||ci8.de^
+@@||cibel.sbs^
 @@||cifraclub.com.br^
 @@||cimage.adobe.com^
 @@||cin.ci^
@@ -5650,6 +5654,7 @@
 @@||dyo.gs^
 @@||dyx.is^
 @@||dzc-metrics.mzstatic.com^
+@@||dzmem.top^
 @@||e-campaign.huawei.com^
 @@||e-contactus.samsung.com^
 @@||e-file.huawei.com^
@@ -6498,6 +6503,7 @@
 @@||flomuz.io^
 @@||flow.page^
 @@||flowcode.com^
+@@||flowhits.com^
 @@||flowplayer.com^
 @@||flowus.cn^
 @@||flp.ai^
@@ -8283,7 +8289,6 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
-@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||iltalehti.fi^
@@ -11326,7 +11331,6 @@
 @@||mysupport.sonymobile.com^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -13672,7 +13676,6 @@
 @@||roadandtrack.com^
 @@||roar.media^
 @@||robertdray2.live^
-@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rochester.edu^
@@ -13772,6 +13775,8 @@
 @@||rv2.com^
 @@||rvtv.io^
 @@||rvwd.co^
+@@||rwecv.com^
+@@||rwemw.com^
 @@||rwl.io^
 @@||rwx.es^
 @@||rwz.fr^
@@ -14468,7 +14473,6 @@
 @@||shop.skype.com^
 @@||shopapi.io.mi.com^
 @@||shope.ee^
-@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopify.com^
 @@||shopifystorekms.life^
@@ -14870,7 +14874,6 @@
 @@||snap.com^
 @@||snapchat-payments-gateway.snapchat.com^
 @@||snapchat.com^
-@@||snapchats.life^
 @@||snapdeal.com^
 @@||snapi.live.net^
 @@||snappublisher.snapchat.com^
@@ -16691,6 +16694,7 @@
 @@||twitthis.com^
 @@||twiturl.de^
 @@||twixar.com^
+@@||twkfd.top^
 @@||twm5g.co^
 @@||two.re^
 @@||twofactorauth.info^
@@ -17430,7 +17434,6 @@
 @@||view.vzaar.com^
 @@||vigilink.com^
 @@||viglink.com^
-@@||vim-tiktok.live^
 @@||vimeo.com^
 @@||vincenaja46.live^
 @@||vine.co^
@@ -18077,6 +18080,7 @@
 @@||wtvr.com^
 @@||wu.cz^
 @@||wu.vc^
+@@||wucgp.com^
 @@||wufoo.com^
 @@||wun.io^
 @@||wunderground.com^
@@ -19889,7 +19893,6 @@
 @@||ytstatic.l.google.com^
 @@||ytube.io^
 @@||ytxt.mobi^
-@@||yu3.io^
 @@||yubi.co^
 @@||yui.yahooapis.com^
 @@||yukibio.com^

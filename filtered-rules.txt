@@ -1729,6 +1729,7 @@ amped.co.uk
 amplitude.com
 ampr.gs
 amrep.org
+amspi.top
 amz.run
 amzn.com
 amzn.pw
@@ -2331,6 +2332,7 @@ appstore.pandora.xiaomi.com
 appsumo.com
 apptimize.com
 appurl.io
+appusps.live
 appx.transient.amazon.com
 appx.transient.amazon.in
 apresolve.spotify.com
@@ -3173,6 +3175,7 @@ boost.ink
 bootbarn.com
 bootstrapcdn.com
 bootstrapcdn.jdorfman.netdna-cdn.com
+boqzl.com
 bordonet.info
 bos.ngo
 bose.life
@@ -4055,6 +4058,7 @@ ci4.googleusercontent.com
 ci5.googleusercontent.com
 ci61.actonsoftware.com
 ci8.de
+cibel.sbs
 cifraclub.com.br
 cimage.adobe.com
 cin.ci
@@ -5544,6 +5548,7 @@ dynupdate.no-ip.com
 dyo.gs
 dyx.is
 dzc-metrics.mzstatic.com
+dzmem.top
 e-campaign.huawei.com
 e-contactus.samsung.com
 e-file.huawei.com
@@ -6382,6 +6387,7 @@ flixcart.com
 flomuz.io
 flow.page
 flowcode.com
+flowhits.com
 flowplayer.com
 flowus.cn
 flp.ai
@@ -8152,7 +8158,6 @@ ilinky.info
 ilix.in
 ilk.ir
 illin.is
-illuminatiracers.live
 iln.io
 ilnk.io
 iltalehti.fi
@@ -11150,7 +11155,6 @@ mysql.com
 mysupport.sonymobile.com
 mysurl.com
 mytd.cc
-mytiktok.life
 mytinycheck9.life
 mytoluwalemi.life
 mytorus.live
@@ -13464,7 +13468,6 @@ road.adblock.ro
 roadandtrack.com
 roar.media
 robertdray2.live
-robloxgroup.life
 robloxtech.live
 robul.saas.workertm.com
 rochester.edu
@@ -13564,6 +13567,8 @@ rutube.ru
 rv2.com
 rvtv.io
 rvwd.co
+rwecv.com
+rwemw.com
 rwl.io
 rwx.es
 rwz.fr
@@ -14255,7 +14260,6 @@ shop.samsung.com.edgekey.net
 shop.skype.com
 shopapi.io.mi.com
 shope.ee
-shopeedeals.sale
 shopifie.com
 shopify.com
 shopifystorekms.life
@@ -14654,7 +14658,6 @@ snahp.it
 snap.com
 snapchat-payments-gateway.snapchat.com
 snapchat.com
-snapchats.life
 snapdeal.com
 snapi.live.net
 snappublisher.snapchat.com
@@ -16449,6 +16452,7 @@ twitterpan.com
 twitthis.com
 twiturl.de
 twixar.com
+twkfd.top
 twm5g.co
 two.re
 twofactorauth.info
@@ -17175,7 +17179,6 @@ view.status.xbox.com
 view.vzaar.com
 vigilink.com
 viglink.com
-vim-tiktok.live
 vimeo.com
 vincenaja46.live
 vine.co
@@ -17810,6 +17813,7 @@ wts3.smhi.se
 wtvr.com
 wu.cz
 wu.vc
+wucgp.com
 wufoo.com
 wun.io
 wunderground.com
@@ -19606,7 +19610,6 @@ yts.nu
 ytstatic.l.google.com
 ytube.io
 ytxt.mobi
-yu3.io
 yubi.co
 yui.yahooapis.com
 yukibio.com
