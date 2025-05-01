@@ -1,5 +1,7 @@
 @@*.flyme.cn
 @@*.myapp.com
+@@/default.cn.*.wagbridge.ad.alibabacorp.com.gds.alibabadns.com/
+@@/default.cn.*.wagbridge.ad.alibabacorp.com/
 @@bit.ly
 @@cdn.*.qq.com
 @@goo.gl
@@ -45,6 +47,7 @@
 @@||*cdn.exponea.com^
 @@||*tagm.tchibo.de^
 @@||0.gp^
+@@||000714.xyz^
 @@||00oo.lol^
 @@||010.at^
 @@||02faq.com^
@@ -322,6 +325,7 @@
 @@||a360.co^
 @@||a368.co^
 @@||a4r.at^
+@@||aa.online-metrix.net^
 @@||aaa.moda^
 @@||aakem.click^
 @@||aarp.info^
@@ -390,6 +394,7 @@
 @@||accommodatingly.xyz^
 @@||acconpit.com^
 @@||account-verification-man-seeking-man-mps.live^
+@@||account.apple.com^
 @@||account.dianping.com^
 @@||account.xfinfr.com^
 @@||accountapi.dianping.com^
@@ -428,6 +433,7 @@
 @@||ad.cr^
 @@||ad.doubleclick.net^
 @@||ad.dyntracker.de^
+@@||ad.jp^
 @@||ad5.eu^
 @@||ad7.biz^
 @@||ada-shorts.life^
@@ -582,6 +588,7 @@
 @@||alaa.tv^
 @@||alas.click^
 @@||alb.reddit.com^
+@@||albert.apple.com^
 @@||albn.org^
 @@||alex-test-1.life^
 @@||alexa.design^
@@ -625,6 +632,7 @@
 @@||alys-lacey-05.life^
 @@||am.lol^
 @@||amays.im^
+@@||amazon.com^
 @@||amba.to^
 @@||amc.film^
 @@||amex.co^
@@ -647,8 +655,10 @@
 @@||analidiaestevezortizs.life^
 @@||analytics*.trustyou.com^
 @@||analytics.barnebys.sh^
+@@||analytics.google.com
 @@||analytics.hitsmedia.org^
 @@||analytics.trustyou.com^
+@@||analytics.twitter.com
 @@||analytics.twitter.com^
 @@||analytics.yinxiang.com^$important
 @@||analyticslinker.ovh^
@@ -670,6 +680,7 @@
 @@||annas-archive.org^
 @@||anon.to^
 @@||anp.su^
+@@||anquan.org^
 @@||anrdoezrs.net^
 @@||ansaj.top^
 @@||ansg.media^
@@ -701,6 +712,7 @@
 @@||api-na2.hubapi.com^
 @@||api.account.xiaomi.com^
 @@||api.account.xiaomi.com^$important
+@@||api.apple-cloudkit.com^
 @@||api.bam-x.com^
 @@||api.cc.163.com^
 @@||api.cleverpush.com^
@@ -709,16 +721,20 @@
 @@||api.coolapk1s.com^
 @@||api.device.xiaomi.net^$important
 @@||api.ds.163.com^
+@@||api.edu.apple.com^
 @@||api.elasticemail.com^
+@@||api.ent.apple.com^
 @@||api.huangye.miui.com^
 @@||api.hubapi.com^
 @@||api.io.mi.com^$important
 @@||api.jr.mi.com^$important
+@@||api.lab.amplitude.com^
 @@||api.live.bilibili.com^
 @@||api.micloud.xiaomi.net^$important
 @@||api.miui.security.xiaomi.com^$important
 @@||api.narrativ.com^
 @@||api.neixin.cn^
+@@||api.onesignal.com^
 @@||api.pushwoosh.com^
 @@||api.pxb7.com^
 @@||api.pzds.com^
@@ -736,6 +752,7 @@
 @@||api.zhihu.com^$important
 @@||api.zhuti.xiaomi.com^
 @@||api.zhuti.xiaomi.com^$important
+@@||api2.branch.io^
 @@||api3-normal-sinfonlineb.fqnovel.com^
 @@||api5-normal-sinfonlineb.fqnovel.com^
 @@||apis.google.com
@@ -747,7 +764,10 @@
 @@||apne.ws^
 @@||aporasal.net^
 @@||app*.salesmanago.pl^
+@@||app-measurement.com^
 @@||app-measurement.com^$important
+@@||app-site-association.cdn-apple.com^
+@@||app-site-association.networking.apple^
 @@||app.*.adjust.com^
 @@||app.adjust.cn^
 @@||app.adjust.com^
@@ -773,6 +793,7 @@
 @@||app.zhuanzhuan.com^$important
 @@||app2.salesmanago.pl^
 @@||app3.salesmanago.pl^
+@@||appattest.apple.com^
 @@||appbitly.com^
 @@||appcenter.ms^
 @@||appcloud.zhihu.com^$important
@@ -781,10 +802,20 @@
 @@||appdownload.alicdn.com^
 @@||appimg-drcn.dbankcdn.com^
 @@||appimg.dbankcdn.com^
+@@||appldnld.apple.com^
+@@||apple-cloudkit.com^
+@@||apple-livephotoskit.com^
+@@||apple-mapkit.com^
+@@||apple-relay.apple.com^
+@@||apple-relay.cloudflare.com^
+@@||apple-relay.fastly-edge.com^
 @@||apple.co^
+@@||appleid.cdn-apple.com^
 @@||apply-here.live^
 @@||appmsg.gzmtr.cn^$important
 @@||appna.me^
+@@||apps-marketplace.apple.com^
+@@||apps.apple.com^
 @@||apps.game.qq.com^
 @@||appsec-mobile.meituan.com^
 @@||appsfly.co^
@@ -794,6 +825,7 @@
 @@||aptg.tw^
 @@||apticirl.com^
 @@||apurl.in^
+@@||apzones.com^
 @@||arab.news^
 @@||arah.in^
 @@||arc.ht^
@@ -849,6 +881,7 @@
 @@||atu.ca^
 @@||atualizefacil.xyz^
 @@||atualizeja.xyz^
+@@||audiocontentdownload.apple.com^
 @@||audiof.com^
 @@||aunut.top^
 @@||aupvhn.com^
@@ -881,6 +914,11 @@
 @@||awstrack.me^
 @@||awwurl.com^
 @@||axios.link^
+@@||axm-adm-enroll.apple.com^
+@@||axm-adm-mdm.apple.com^
+@@||axm-adm-scep.apple.com^
+@@||axm-app.apple.com^
+@@||axm-servicediscovery.apple.com^
 @@||axoni.us^
 @@||ay.gy^
 @@||aylink.co^
@@ -891,6 +929,7 @@
 @@||azipurl.app^
 @@||azipurl.com^
 @@||azov.life^
+@@||azure.com^
 @@||azx.az^
 @@||b-gat.es^
 @@||b.163.com^
@@ -913,12 +952,14 @@
 @@||bad.news^
 @@||bafrv.top^
 @@||baid.us^
+@@||baidu-ide.bj.bcebos.com^
 @@||baijiahao.baidu.com^
 @@||baijiahao.baidu.com^$important
 @@||baike.so.com^$important
 @@||baikebcs.bdimg.com^
 @@||baixeapk.com^
 @@||balls.no^
+@@||bankcomm.com^
 @@||baratun.de^
 @@||barbenady.live^
 @@||barbieclothingcloset.live^
@@ -1069,6 +1110,7 @@
 @@||blouse.live^
 @@||blrqfe.com^
 @@||blstg.news^
+@@||blueskyxn.com^
 @@||blur.by^
 @@||blyto.com^
 @@||blyxg.top^
@@ -1082,6 +1124,7 @@
 @@||bo.st^
 @@||boa.la^
 @@||boa5s.life^
+@@||boc.cn^
 @@||bofh.us^
 @@||boi.re^
 @@||boile.rs^
@@ -1114,6 +1157,7 @@
 @@||bowfest.live^
 @@||bp-gc.in^
 @@||bp.cool^
+@@||bpapi.apple.com^
 @@||bpdmv.com^
 @@||bpl.kr^
 @@||bprl.site^
@@ -1172,6 +1216,7 @@
 @@||burma123.life^
 @@||burma77.life^
 @@||burnurl.com^
+@@||business.apple.com^
 @@||butt-link.us^
 @@||buybitcoinsworldwide.com^
 @@||buzzao.online^
@@ -1224,6 +1269,7 @@
 @@||c2.piano.io^
 @@||c2827.dotomi.com^
 @@||c2d.in^
+@@||c3pool.com^
 @@||c80.us^
 @@||c87.to^
 @@||cache.ip138.com^
@@ -1243,7 +1289,11 @@
 @@||capcaifu.com^
 @@||capital.one^
 @@||capitalfm.co^
+@@||capitalone-resources.digital-cloud.medallia.com^
+@@||capitalone-udc.digital-cloud.medallia.com^
+@@||capitalone.com^
 @@||capsulink.com^
+@@||captive.apple.com^
 @@||captl1.co^
 @@||captur.in^
 @@||cardiox-care.com^
@@ -1291,6 +1341,7 @@
 @@||cden.co^
 @@||cdl.booksy.com^
 @@||cdn-ap.piano.io^
+@@||cdn-apple.com^
 @@||cdn-au.piano.io^
 @@||cdn-chateva.zhhainiao.com^
 @@||cdn-eu.piano.io^
@@ -1301,6 +1352,7 @@
 @@||cdn.aligames.com^
 @@||cdn.ark.qq.com^
 @@||cdn.ark.qq.com^$important
+@@||cdn.branch.io^
 @@||cdn.braze.eu^
 @@||cdn.cnbj1.fds.api.mi-img.com^
 @@||cdn.cnbj1.fds.api.mi-img.com^$important
@@ -1315,11 +1367,13 @@
 @@||cdn.piano.io^
 @@||cdn.pinduoduo.com^
 @@||cdn.plyr.io^
+@@||cdn.siftscience.com^
 @@||cdn.staticfile.org^
 @@||cdn.ui.porsche.com^
 @@||cdn.uk.exponea.com^
 @@||cdn.us1.exponea.com^
 @@||cdn.webclicks24.com^
+@@||cdn.ynuf.aliapp.org^
 @@||cdn1-smallimg.phncdn.com^
 @@||cdn1d-static-shared.phncdn.com^
 @@||cdn77-pic.xnxx-cdn.com^
@@ -1337,6 +1391,7 @@
 @@||celiasorrentino.life^
 @@||cepatwd.vip^
 @@||cepatwd.win^
+@@||certs.apple.com^
 @@||cesinthi.com^
 @@||cf.aliyun.com^
 @@||cf2.me^
@@ -1356,6 +1411,7 @@
 @@||changelink.pro^
 @@||chantucker53.live^
 @@||charleseski.life^
+@@||charlesschwab.sc.omtrdc.net^
 @@||chase-side-maintenance.live^
 @@||chatmely.com^
 @@||checkshorturl.com^
@@ -1516,11 +1572,14 @@
 @@||cloudtechlinks.com^
 @@||clourls.com^
 @@||clr.tax^
+@@||cls-ingest.itunes.apple.com^
+@@||cls-iosclient.itunes.apple.com^
 @@||clvr.rocks^
 @@||clymont.live^
 @@||cm-h.phncdn.com^
 @@||cm.bilibili.com^
 @@||cm.naukri.com^
+@@||cmbchina.com^
 @@||cml.lol^
 @@||cmon.co^
 @@||cms-bucket.ws.126.net^
@@ -1557,6 +1616,7 @@
 @@||coinreal-us.com^
 @@||coki.me^
 @@||coklat.vip^
+@@||collector-axa.cloud.ca.com^
 @@||comca.st^
 @@||commander1.com^
 @@||commimg.pddpic.com^
@@ -1564,6 +1624,7 @@
 @@||community.akamai.steamstatic.com^
 @@||compreaquikakspromobaby.live^
 @@||computemaster.bxcearth.com^$important
+@@||configuration.apple.com^
 @@||connect.rom.miui.com/generate_204^$important
 @@||connect.rom.miui.com^
 @@||connect.rom.miui.com^$important
@@ -1595,6 +1656,7 @@
 @@||counter-strike.net^$important
 @@||coupa.ng^
 @@||coz.de^
+@@||cp4.cloudflare.com^
 @@||cpe.dotomi.com^
 @@||cph.bz^
 @@||cplay.top^
@@ -1616,8 +1678,12 @@
 @@||credicard.biz^
 @@||creditacademy.live^
 @@||crfe.top^
+@@||crl.apple.com^
+@@||crl3.digicert.com^
+@@||crl4.digicert.com^
 @@||croc.global^
 @@||cropped.xyz^
+@@||crt.usertrust.com^
 @@||crvbd.com^
 @@||crvw.ru^
 @@||crwd.fr^
@@ -1629,7 +1695,9 @@
 @@||cs.co^
 @@||csd.dotomi.com^
 @@||cse3.chausport.com^
+@@||csgy.info^
 @@||csmo.us^
+@@||cssubmissions.apple.com^
 @@||cstaticdun-v6.126.net^
 @@||cstaticdun.126.net^
 @@||cstu.io^
@@ -1749,6 +1817,7 @@
 @@||daviesscountyrepublicans.org^
 @@||davisonbarker.pro^
 @@||daylitendarkness.life^
+@@||db-ip.com^
 @@||db.tt^
 @@||dbanm.com^
 @@||dbccx.top^
@@ -1792,6 +1861,9 @@
 @@||detonnot.com^
 @@||detoxgold.info^
 @@||dev.miuiflash.com^
+@@||deviceenrollment.apple.com^
+@@||deviceservices-external.apple.com^
+@@||devimages-cdn.apple.com^
 @@||devuploads.com^
 @@||dewaa4982.life^
 @@||df-sports.com^
@@ -1808,6 +1880,7 @@
 @@||dhk.gg^
 @@||di.sn^
 @@||dia.so^
+@@||diagassets.apple.com^
 @@||diakoniefeier.live^
 @@||dianfeijisuanqi.bmcx.com^
 @@||diato.lol^
@@ -1830,9 +1903,13 @@
 @@||directorytechstoragepoint.directory^
 @@||dis.gd^
 @@||dis.tl^
+@@||discover.com^
+@@||discover.tt.omtrdc.net^
+@@||discovercard.com^
 @@||discvr.co^
 @@||disneyplus.bn5x.net^
 @@||disq.us^
+@@||disqus.com^
 @@||distinct-rp.live^
 @@||distinctrp.live^
 @@||dive.pub^
@@ -1882,6 +1959,7 @@
 @@||docremedio.xyz^
 @@||docs.idqqimg.com^
 @@||dogelexus.win^
+@@||doh.dns.apple.com^
 @@||doiop.com^
 @@||domi.link^
 @@||dominguez-nieves-71.life^
@@ -1900,6 +1978,7 @@
 @@||download-cdn.jetbrains.com.cn^
 @@||download-cdn.jetbrains.com^
 @@||download.bitcomet.com^
+@@||download.developer.apple.com^
 @@||download.fxsound.com^
 @@||download.jetbrains.com^
 @@||download.pinduoduo.com^
@@ -1913,6 +1992,7 @@
 @@||dpbolvw.net^
 @@||dpessm.com^
 @@||dpkqq.sbs^
+@@||dpm.demdex.net^
 @@||dpmd.ai^
 @@||dpo.st^
 @@||dpurl.cn^
@@ -2198,6 +2278,7 @@
 @@||fa.by^
 @@||face.t.sinajs.cn^
 @@||facebook.com^$important
+@@||facebookid.live^
 @@||facepic.qidian.com^
 @@||fadurl.com^
 @@||fagn.top^
@@ -2217,12 +2298,14 @@
 @@||fave.co^
 @@||fb.me^
 @@||fb.watch^
+@@||fba.apple.com^
 @@||fbook.cc^
 @@||fbstw.link^
 @@||fbuef.com^
 @@||fbx.nz^
 @@||fce.gg^
 @@||fcount-api.webapp.163.com^
+@@||fcs-keys-pub-prod.cdn-apple.com^
 @@||fdfs.xmcdn.com^
 @@||fdkmx.sbs^
 @@||fdmlm.com^
@@ -2271,6 +2354,7 @@
 @@||findanupgopuram.life^
 @@||fiqto.sbs^
 @@||fire.to^
+@@||firebase-settings.crashlytics.com^
 @@||firsturl.de^
 @@||firsturl.net^
 @@||firstweber.life^
@@ -2352,6 +2436,7 @@
 @@||furl.in^
 @@||fuxi.163.com^
 @@||fvrr.co^
+@@||fvs.io^
 @@||fw.ax^
 @@||fwd4.me^
 @@||fwdme.info^
@@ -2406,6 +2491,7 @@
 @@||gary-kopff.life^
 @@||garyvee.com^
 @@||gate-ag.first-id.fr^
+@@||gateway.icloud.com^
 @@||gatustox.net^
 @@||gaw.kr^
 @@||gaysi.live^
@@ -2417,9 +2503,12 @@
 @@||gbrqg.top^
 @@||gbte.tech^
 @@||gbxb.info^
+@@||gc.apple.com^
 @@||gcable.com.cn^$important
 @@||gclnk.com^
 @@||gdanstum.net^
+@@||gdmf-ados.apple.com^
+@@||gdmf.apple.com^
 @@||gdown.baidu.com^
 @@||gdurl.com^
 @@||ge.tt^
@@ -2465,6 +2554,7 @@
 @@||gfree.fr^
 @@||gfuel.ly^
 @@||gfxa.top^
+@@||gg.apple.com^
 @@||ggle.io^
 @@||ggopjn.com^
 @@||gh.io^
@@ -2554,6 +2644,7 @@
 @@||go.pomona.rocks^
 @@||go.poweren.ir^
 @@||go.qb.by^
+@@||go.rakuten.com^
 @@||go.rebel.pl^
 @@||go.redirectingat.com^
 @@||go.sainnhe.dev^
@@ -2598,6 +2689,7 @@
 @@||goodnessokparaeke.live^
 @@||google-photo.live^
 @@||google-url.com^
+@@||googleapis.com^
 @@||goolink.cc^
 @@||goolnk.com^
 @@||gooo.to^
@@ -2651,9 +2743,13 @@
 @@||grow.momentumproject.finance^
 @@||grpc.biliapi.net^
 @@||grpx.in^
+@@||gs.apple.com^
+@@||gsa.apple.com^
 @@||gsp0.baidu.com^
+@@||gsra.apple.com^
 @@||gst.bz^
 @@||gstatic.com
+@@||gstatic.com^
 @@||gt7.de^
 @@||gtms03.alicdn.com^
 @@||gtne.ws^
@@ -2665,7 +2761,9 @@
 @@||gumtr.ee^
 @@||gurl.to^
 @@||guzman-zulma1.life^
+@@||guzzoni.apple.com^
 @@||gvt1.com^$important
+@@||gvt2.com^
 @@||gx-target-experiments-frontend-api.gx.nvidia.com^
 @@||gym.sh^
 @@||gyork1651blog.life^
@@ -2693,6 +2791,7 @@
 @@||halfacamel.info^
 @@||hamza-prince-001.info^
 @@||han.gl^
+@@||hanada.info^
 @@||hangthietyeu.life^
 @@||hanime1.me^
 @@||hans-me-hike.life^
@@ -2856,6 +2955,7 @@
 @@||huluxia.com^
 @@||huma.na^
 @@||humanityforgaza.live^
+@@||humb.apple.com^
 @@||hurirk.net^
 @@||hurl.it^
 @@||hurl.me^
@@ -2905,16 +3005,24 @@
 @@||icit.fr^
 @@||ick.li^
 @@||icks.ro^
+@@||icloud-content.com^
+@@||icloud.apple.com^
+@@||icloud.com^
+@@||icons.axm-usercontent-apple.com^
 @@||icutlink.com^
 @@||icux.xyz^
 @@||icwdk.sbs^
 @@||id.163.com^
 @@||idek.net^
+@@||identity.apple.com^
 @@||idfk.lol^
 @@||idjzj.sbs^
 @@||idksg.top^
 @@||idm.in^
 @@||idmail.me^
+@@||idmsa.apple.com^
+@@||idv-prod1.apple.com^
+@@||idv.cdn-apple.com^
 @@||idvip.us^
 @@||idwln.com^
 @@||idz-do.pl^
@@ -2932,6 +3040,7 @@
 @@||ift.cx^
 @@||ift.tt^
 @@||ifwni.com^
+@@||ig.apple.com^
 @@||igotthejuices.live^
 @@||iherb.co^
 @@||ihnpo.com^
@@ -2955,6 +3064,7 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
+@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||im.alimebot.taobao.com^
@@ -2999,6 +3109,7 @@
 @@||img30.360buyimg.com^
 @@||img4.qy0.ru^
 @@||imgcache.qq.com^$important
+@@||imgs.signifyd.com^
 @@||imgservices-1252317822.image.myqcloud.com^
 @@||imgsrc.baidu.com^
 @@||imo.cx^
@@ -3049,6 +3160,7 @@
 @@||interpride.net^
 @@||intrescom.org^
 @@||intro.limestart.cn^
+@@||intuit.com^
 @@||intuit.me^
 @@||invent.ge^
 @@||invpy.com^
@@ -3074,6 +3186,7 @@
 @@||iplogger.ru^
 @@||iplwin.us^
 @@||ipm.mo^
+@@||iprofiles.apple.com^
 @@||iptn.m3pd.com^
 @@||ipw.cn^
 @@||iqiyi.cn^
@@ -3113,6 +3226,8 @@
 @@||itsmariaspage.xyz^
 @@||itsssl.com^
 @@||itumb.sbs^
+@@||itunes.apple.com^
+@@||itunes.com^
 @@||itvty.com^
 @@||ity.im^
 @@||iurl.dk^
@@ -3120,6 +3235,7 @@
 @@||iurl.us^
 @@||iuu.ro^
 @@||iv-h.phncdn.com^
+@@||iwork.apple.com^
 @@||iwr.link^
 @@||ix.sk^
 @@||iyc.life^
@@ -3216,6 +3332,7 @@
 @@||jqw.de^
 @@||jr.jd.com^$important
 @@||jrnybzn.com^
+@@||js-agent.newrelic.com^
 @@||js.3conline.com^
 @@||js.40017.cn^
 @@||js.sa^
@@ -3337,6 +3454,7 @@
 @@||klmf.ly^
 @@||kmi.mobi^
 @@||kmrrf.com^
+@@||knet.cn^
 @@||knf.md^
 @@||knnt.me^
 @@||knw.one^
@@ -3448,6 +3566,8 @@
 @@||lbtw.tw^
 @@||lc-s.co^
 @@||lc.cx^
+@@||lcdn-locator.apple.com^
+@@||lcdn-registration.apple.com^
 @@||lcut.in^
 @@||lddy.no^
 @@||learn.to^
@@ -3685,6 +3805,7 @@
 @@||litty.in^
 @@||liu.es^
 @@||liurl.cn^
+@@||live.com^
 @@||live.douyin.com^
 @@||livebetter.website^
 @@||livehotdisini.baby^
@@ -3876,6 +3997,7 @@
 @@||m801.music.126.net^
 @@||maac.io^
 @@||macau123.link^
+@@||maccms.com^
 @@||macrinaperez.live^
 @@||madondressokwanda2.life^
 @@||maejo.link^
@@ -3930,6 +4052,9 @@
 @@||mars.jd.com^$important
 @@||mas.si^
 @@||mas.so^
+@@||mask-api.icloud.com^
+@@||mask-h2.icloud.com^
+@@||mask.icloud.com^
 @@||masklink.org^
 @@||masuk-id.info^
 @@||masy.uk^
@@ -3956,6 +4081,8 @@
 @@||mbd.baidu.com^
 @@||mbd.baidu.com^$important
 @@||mbdl.update.netease.com^
+@@||mboxedge34.tt.omtrdc.net^
+@@||mboxedge35.tt.omtrdc.net^
 @@||mbx.events^
 @@||mby.me^
 @@||mc.163.com^
@@ -3974,6 +4101,7 @@
 @@||mdl29.net^
 @@||mdmblz.com^
 @@||mdmehedi474156.live^
+@@||mdmenrollment.apple.com^
 @@||mdska.com^
 @@||mdyvah.com^
 @@||me-qr.com^
@@ -4007,6 +4135,7 @@
 @@||merky.de^
 @@||mesej.la^
 @@||message.bilibili.com^
+@@||mesu.apple.com^
 @@||met.bz^
 @@||met.to^
 @@||metamark.net^
@@ -4034,6 +4163,7 @@
 @@||michmed.org^
 @@||micpn.com^
 @@||microlinks.io^
+@@||microsoft.com^
 @@||midas.gtimg.cn^
 @@||midiavip.com^
 @@||miffy.me^
@@ -4160,10 +4290,14 @@
 @@||mo.ma^
 @@||mob.163.com^
 @@||moba.163.com^
+@@||mobile-collector.newrelic.com^
 @@||mobile-img-baofun.zhhainiao.com^
+@@||mobile-sdk-lib-ca-1.brilliantcollector.com^
 @@||mobile-wallpaper-api.zhhainiao.com^
 @@||mobile.appchina.com^$important
 @@||mobile.controller.duokanbox.com^$important
+@@||mobile.eum-appdynamics.com^
+@@||mobile.launchdarkly.com^
 @@||mobile.twitter.com^
 @@||mobile.x.com^
 @@||mobile.ximalaya.com^
@@ -4189,6 +4323,7 @@
 @@||monteiro-run-ckxmmvr-9829.life^
 @@||moo.im^
 @@||moomusic.co^
+@@||moonbbs.com^
 @@||moourl.com^
 @@||moovit.me^
 @@||more.sh^
@@ -4314,6 +4449,7 @@
 @@||mysp.ac^
 @@||mysurl.com^
 @@||mytd.cc^
+@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -4326,6 +4462,7 @@
 @@||myweber.life^
 @@||mz.cm^
 @@||mzl.la^
+@@||mzstatic.com^
 @@||n-shay-i-99.info^
 @@||n-tan-dow-mckoena-0903.life^
 @@||n.163.com^
@@ -4467,6 +4604,7 @@
 @@||nr.tn^
 @@||nrsry.co^
 @@||nrvdi.com^
+@@||ns.itunes.apple.com^
 @@||nsfw.in^
 @@||nstool.netease.com^
 @@||nswroads.work^
@@ -4510,6 +4648,9 @@
 @@||obblink.com^
 @@||ocaslots.live^
 @@||ock.cn^
+@@||ocsp.apple.com^
+@@||ocsp.digicert.com^
+@@||ocsp2.apple.com^
 @@||ocul.us^
 @@||oduarjakujas.info^
 @@||oe.cd^
@@ -4603,11 +4744,13 @@
 @@||opr.news^
 @@||optimize.ly^
 @@||oqp.ru^
+@@||oraclecloud.com^
 @@||oran.ge^
 @@||orders.costco.com^
 @@||orlo.uk^
 @@||orp.io^
 @@||orts.link^
+@@||oscdn.apple.com^
 @@||osdb.link^
 @@||oshko.sh^
 @@||oslash.com^
@@ -4615,6 +4758,7 @@
 @@||ospt.me^
 @@||ospug.top^
 @@||osqcb.com^
+@@||osrecovery.apple.com^
 @@||oss-asq-static.11222.cn^$important
 @@||ossp.voicecloud.cn^
 @@||otolink.pl^
@@ -4759,6 +4903,7 @@
 @@||pay.openspeech.cn^
 @@||payapp.weixin.qq.com^
 @@||payfca.com^
+@@||paypal.com^
 @@||payskip.org^
 @@||pbs.twimg.com^
 @@||pbzl.info^
@@ -4791,6 +4936,7 @@
 @@||pewrsr.ch^
 @@||pferrer15.info^
 @@||pfga0.market.xiaomi.com^
+@@||pg-bootstrap.itunes.apple.com^
 @@||pg3d.app^
 @@||pgat.us^
 @@||pggms.sbs^
@@ -4802,6 +4948,7 @@
 @@||phimhays.live^
 @@||phimvietsub.life^
 @@||phonecallapi.micloud.xiaomi.net^$important
+@@||phonesubmissions.apple.com^
 @@||phst.in^
 @@||phyre.live^
 @@||pi.pardot.com^
@@ -4868,8 +5015,11 @@
 @@||plannery.app^
 @@||planningwithszenee.com^
 @@||play.163.com^
+@@||play.itunes.apple.com^
 @@||play2.nitai.no^
 @@||playbokep.to^
+@@||playgrounds-assets-cdn.apple.com^
+@@||playgrounds-cdn.apple.com^
 @@||pldthome.info^
 @@||plots.fr^
 @@||plrx.me^
@@ -4908,6 +5058,7 @@
 @@||pornzog.com^
 @@||port.sec.miui.com^
 @@||portall2024pr.live^
+@@||pos-device.apple.com^
 @@||posh.mk^
 @@||post.ly^
 @@||post.spmailtechno.com^
@@ -4920,6 +5071,7 @@
 @@||ppcgogo.live^
 @@||ppcome.live^
 @@||pplx.ai^
+@@||ppq.apple.com^
 @@||ppslots.live^
 @@||ppt.cc^
 @@||ppt.dpanda.in^
@@ -4998,6 +5150,7 @@
 @@||purdue.university^
 @@||purefla.sh^
 @@||puri.na^
+@@||push.apple.com^
 @@||push.chsi.com.cn^
 @@||putar.link^
 @@||putar.win^
@@ -5144,6 +5297,7 @@
 @@||r5waxhbbb.cc.rs6.net^
 @@||r6lccqnab.cc.rs6.net^
 @@||r7avxrcab.cc.rs6.net^
+@@||rabde.sbs^
 @@||raceclip.com^
 @@||radly.ir^
 @@||rads.stackoverflow.com^
@@ -5324,6 +5478,7 @@
 @@||ro-go.kelkoogroup.net^
 @@||ro.blox.com^
 @@||robertdray2.live^
+@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rog.gg^
@@ -5405,6 +5560,7 @@
 @@||s.id^
 @@||s.lu^
 @@||s.mj.run^
+@@||s.mzstatic.com^
 @@||s.pximg.net^
 @@||s.sebald.com^
 @@||s.skip.bh^
@@ -5415,6 +5571,7 @@
 @@||s.wikicharlie.cl^
 @@||s.yam.com^
 @@||s.zazuko.com^
+@@||s0.2mdn.net^
 @@||s0.meituan.net^
 @@||s0.world^
 @@||s01.mifile.cn^
@@ -5489,6 +5646,7 @@
 @@||sc1o.com^
 @@||scbetgacorr.org^
 @@||sched.co^
+@@||school.apple.com^
 @@||scientificglobalevents.com^
 @@||sck.io^
 @@||sclix.com^
@@ -5519,11 +5677,13 @@
 @@||se*.360simg.com^
 @@||seagate.media^
 @@||sealed.in^
+@@||search.google.com^
 @@||search.sogoucdn.com^
 @@||sebe-got-u-melo-4.live^
 @@||seby.au^
 @@||seby.io^
 @@||sec-cdn.static.xiaomi.net^$important
+@@||sec.resource.xiaomi.net^
 @@||sec.resource.xiaomi.net^$important
 @@||secure-dentist.com^
 @@||secure-hotel-tracker.com^
@@ -5551,9 +5711,11 @@
 @@||servedby.o2.co.uk^
 @@||serveracts.net^
 @@||serverpa.rs^
+@@||serverstatus.apple.com^
 @@||service.mkey.163.com^
 @@||servicecenter.life^
 @@||seterusnya.live^
+@@||setup.icloud.com^
 @@||seu*.cleverreach.com^
 @@||seu.cleverreach.com^
 @@||seu1.cleverreach.com^
@@ -5614,6 +5776,7 @@
 @@||shop-ify-store-km.life^
 @@||shop-links.co^
 @@||shope.ee^
+@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopifystorekms.life^
 @@||shoplarryherndon115.life^
@@ -5806,6 +5969,7 @@
 @@||sie.ag^
 @@||sifu.im^
 @@||sigboms.com^
+@@||signals.aimtell.com^
 @@||signatureclub.site^
 @@||sikencang.com^
 @@||sikilat.fun^
@@ -5846,11 +6010,13 @@
 @@||skimmth.is^
 @@||skiplinko.com^
 @@||skiplinks.net^
+@@||skl.apple.com^
 @@||skl.sh^
 @@||skladovaokna.cz^
 @@||sknrd.us^
 @@||skr.sk^
 @@||skrat.it^
+@@||skrill.com^
 @@||skro.in^
 @@||skroc.pl^
 @@||sku.su^
@@ -5887,6 +6053,8 @@
 @@||smlr.site^
 @@||smo.do^
 @@||smonty.co^
+@@||smoot.apple.com^
+@@||smp-device-content.apple.com^
 @@||smr.sh^
 @@||smr.to^
 @@||smsb.co^
@@ -5896,6 +6064,7 @@
 @@||smu.gs^
 @@||smurl.link^
 @@||sn.im^
+@@||snapchats.life^
 @@||snapt.io^
 @@||snar.co^
 @@||snd.sc^
@@ -5967,6 +6136,7 @@
 @@||sprtsnt.ca^
 @@||spx.re^
 @@||spyw.com^
+@@||sq-device.apple.com^
 @@||sq6.ru^
 @@||sqex.to^
 @@||sqimg.qq.com^$important
@@ -5976,6 +6146,7 @@
 @@||sqrx.io^
 @@||squ.re^
 @@||squadgen.com^
+@@||squareup.com^
 @@||squeez.org^
 @@||sqzr.cz^
 @@||sr23.ru^
@@ -6034,6 +6205,7 @@
 @@||static.clewm.net^
 @@||static.e.189.cn^
 @@||static.hdslb.com^
+@@||static.ips.apple.com^
 @@||static.iqiyi.com^
 @@||static.miraheze.org^
 @@||static.pddpic.com^
@@ -6046,6 +6218,7 @@
 @@||static.yximgs.com^
 @@||static.zhihu.com^
 @@||static2.clips4sale.com^
+@@||statici.icloud.com^
 @@||staticimg.yidianzixun.com^
 @@||staticprocessorsource.review^
 @@||statics.123pan.com^
@@ -6086,6 +6259,7 @@
 @@||su.pr^
 @@||sub-slave-28.info^
 @@||sub2unlock.net^
+@@||suconfig.apple.com^
 @@||sug.browser.miui.com^
 @@||sugar.zhihu.com^
 @@||suggestion.baidu.com^
@@ -6141,6 +6315,9 @@
 @@||swa.is^
 @@||swag.run^
 @@||swap.stu.126.net^
+@@||swcdn.apple.com^
+@@||swdist.apple.com^
+@@||swdownload.apple.com^
 @@||sweaver.life^
 @@||swff.us^
 @@||swi.nu^
@@ -6151,6 +6328,7 @@
 @@||swll.to^
 @@||swoo.sh^
 @@||swr1.cc^
+@@||swscan.apple.com^
 @@||swtt.cc^
 @@||sxfy.info^
 @@||sxzlj.top^
@@ -6158,6 +6336,7 @@
 @@||sy.to^
 @@||syb.la^
 @@||syl83otk.live^
+@@||sylvan.apple.com^
 @@||synd.co^
 @@||syr.us^
 @@||syw.co^
@@ -6165,6 +6344,7 @@
 @@||szag.link^
 @@||szjrw.sbs^
 @@||szmg.qq.com^
+@@||t*.baidu.com^
 @@||t*.intelliad.de^
 @@||t*.tradetracker.net^
 @@||t*img.yangkeduo.com^
@@ -6311,6 +6491,7 @@
 @@||tagm.tchibo.de^
 @@||tags.adsafety.net^
 @@||tags.news.com.au^
+@@||tagtic.cn^
 @@||taiwangov.com^
 @@||taleus.live^
 @@||tamar.is^
@@ -6334,6 +6515,7 @@
 @@||tbi.sb-cd.com^
 @@||tbrd.co^
 @@||tbs.imtt.qq.com^$important
+@@||tbsc.apple.com^
 @@||tbv.sb-cd.com^
 @@||tc.tradetracker.net^
 @@||tcat.tc^
@@ -6441,6 +6623,9 @@
 @@||tiktokv.com^
 @@||tiky.cc^
 @@||tim.com.vc^
+@@||time-ios.apple.com^
+@@||time-macos.apple.com^
+@@||time.apple.com^
 @@||tin.li^
 @@||tinderurl.com^
 @@||tinesy.com^
@@ -6831,9 +7016,12 @@
 @@||up.to^
 @@||update.miui.com^$important
 @@||updateinfo.market.xiaomi.com^
+@@||updates-http.cdn-apple.com^
+@@||updates.cdn-apple.com^
 @@||updating.me^
 @@||upfull.fr^
 @@||upgrade.ptmi.gitv.tv^$important
+@@||upload.appleschoolcontent.com^
 @@||upload.cc
 @@||upload.twitter.com^
 @@||upload.x.com^
@@ -7021,6 +7209,7 @@
 @@||vaddev.de^
 @@||vai.la^
 @@||vali01.cp31.ott.cibntv.net^
+@@||valid.apple.com^
 @@||vanityurlshorteners.com^
 @@||vars.us^
 @@||vast.link^
@@ -7050,6 +7239,7 @@
 @@||vercels.app^
 @@||verd.in^
 @@||verify.zijieapi.com^
+@@||vertexsmb.com^
 @@||veshort.com^
 @@||vfiles.gtimg.cn^
 @@||vfo.voyage-prive.co.uk^
@@ -7078,6 +7268,7 @@
 @@||view.helpline-app.com^
 @@||view.inews.qq.com^$important
 @@||vigilink.com^
+@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
@@ -7121,6 +7312,7 @@
 @@||vpaaj.com^
 @@||vpn2.win^
 @@||vpnhoki.com^
+@@||vpp.itunes.apple.com^
 @@||vqr.vc^
 @@||vrcym.com^
 @@||vrnda.us^
@@ -7246,7 +7438,9 @@
 @@||wef.ch^
 @@||weibo.cn^$important
 @@||weidian.com^$important
+@@||weiming.info^
 @@||weishi.360.cn^
+@@||weixin.qq.com
 @@||weixin.qq.com^
 @@||weixin.qq.com^
 @@||weixin.qq.com^$important
@@ -7275,12 +7469,14 @@
 @@||whyiwu.com^
 @@||wi.se^
 @@||wideo.fr^
+@@||widgets.wise.com^
 @@||wig.ht^
 @@||wiki.ad-gone.com
 @@||wiki.biligame.com^
 @@||wilsonlopez0404inc.life^
 @@||win.gs^
 @@||win7.life^
+@@||windows.com^
 @@||windows69.live^
 @@||winlynk.com^
 @@||wipi.es^
@@ -7294,6 +7490,7 @@
 @@||wjsxb.com^
 @@||wk.idey.cn^
 @@||wkf.ms^
+@@||wkms-public.apple.com^
 @@||wl.co^
 @@||wl.jd.com^
 @@||wl.jd.com^$important
@@ -7333,6 +7530,8 @@
 @@||wrem.it^
 @@||write.qq.com^
 @@||wru.kr^
+@@||ws-ee-maidsvc.icloud.com^
+@@||ws.school.apple.com^
 @@||ws.tc^
 @@||wsdl.360safe.com^
 @@||wtc.la^
@@ -7357,6 +7556,7 @@
 @@||www.360simg.com^
 @@||www.54647.io^
 @@||www.9game.cn^
+@@||www.aboluowang.com^
 @@||www.ali213.net^
 @@||www.anjuke.com^
 @@||www.apple.com.cn^
@@ -7437,6 +7637,7 @@
 @@||www.qidian.com^
 @@||www.recaptcha.net^
 @@||www.recaptcha.net^$important
+@@||www.secretchina.com^
 @@||www.so.com^
 @@||www.taobao.com^
 @@||www.temporary-url.com^
@@ -7526,6 +7727,8 @@
 @@||xor.tw^
 @@||xortly.com^
 @@||xoxourl.com^
+@@||xp-cdn.apple.com^
+@@||xp.apple.com^
 @@||xpixl.me^
 @@||xpr.li^
 @@||xprt.re^
