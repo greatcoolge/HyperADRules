@@ -381,7 +381,6 @@
 699pic.com
 69run.fun
 6b.cz
-6c.gs
 6ct.org
 6e.de
 6g6.eu
@@ -717,8 +716,6 @@ acquisition-1.americanexpress.com
 acr-search.sonymobile.com
 acr.sonymobile.com
 acr0.samsungcloudsolution.com
-acrefo.com
-acrestic.com
 acrobat.adobe.com
 acroipm.adobe.com
 acroipm2.adobe.com
@@ -8163,7 +8160,6 @@ ilinky.info
 ilix.in
 ilk.ir
 illin.is
-illuminatiracers.live
 iln.io
 ilnk.io
 iltalehti.fi
@@ -11182,7 +11178,6 @@ mysql.com
 mysupport.sonymobile.com
 mysurl.com
 mytd.cc
-mytiktok.life
 mytinycheck9.life
 mytoluwalemi.life
 mytorus.live
@@ -13495,7 +13490,6 @@ road.adblock.ro
 roadandtrack.com
 roar.media
 robertdray2.live
-robloxgroup.life
 robloxtech.live
 robul.saas.workertm.com
 rochester.edu
@@ -14292,7 +14286,6 @@ shop.samsung.com.edgekey.net
 shop.skype.com
 shopapi.io.mi.com
 shope.ee
-shopeedeals.sale
 shopifie.com
 shopify.com
 shopifystorekms.life
@@ -14690,7 +14683,6 @@ snahp.it
 snap.com
 snapchat-payments-gateway.snapchat.com
 snapchat.com
-snapchats.life
 snapdeal.com
 snapi.live.net
 snappublisher.snapchat.com
@@ -16495,6 +16487,8 @@ twkfd.top
 twm5g.co
 two.re
 twofactorauth.info
+twojm.com
+twojm.sbs
 twou.co
 twrd.in
 twt-assets.washtimes.com
@@ -17218,7 +17212,6 @@ view.status.xbox.com
 view.vzaar.com
 vigilink.com
 viglink.com
-vim-tiktok.live
 vimeo.com
 vincenaja46.live
 vine.co
@@ -17450,6 +17443,7 @@ wappass.baidu.com
 wappass.baidu.com^
 waptrick.com
 wapurl.co.uk
+waqmx.sbs
 warby.me
 warez-bb.org
 warp.plus
@@ -19653,7 +19647,6 @@ yts.nu
 ytstatic.l.google.com
 ytube.io
 ytxt.mobi
-yu3.io
 yubi.co
 yui.yahooapis.com
 yukibio.com
@@ -19784,6 +19777,7 @@ zkmddn.com
 zkr.pw
 zkrat.me
 zkrt.cz
+zlado.top
 zlink.fun
 zln.do
 zlnk.com

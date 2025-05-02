@@ -422,7 +422,6 @@
 @@||699pic.com^
 @@||69run.fun^
 @@||6b.cz^
-@@||6c.gs^
 @@||6ct.org^
 @@||6e.de^
 @@||6g6.eu^
@@ -742,8 +741,6 @@
 @@||acr-search.sonymobile.com^
 @@||acr.sonymobile.com^
 @@||acr0.samsungcloudsolution.com^
-@@||acrefo.com^
-@@||acrestic.com^
 @@||acrobat.adobe.com^
 @@||acroipm.adobe.com^
 @@||acroipm2.adobe.com^
@@ -8294,7 +8291,6 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
-@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||iltalehti.fi^
@@ -11358,7 +11354,6 @@
 @@||mysupport.sonymobile.com^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -13703,7 +13698,6 @@
 @@||roadandtrack.com^
 @@||roar.media^
 @@||robertdray2.live^
-@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rochester.edu^
@@ -14505,7 +14499,6 @@
 @@||shop.skype.com^
 @@||shopapi.io.mi.com^
 @@||shope.ee^
-@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopify.com^
 @@||shopifystorekms.life^
@@ -14906,7 +14899,6 @@
 @@||snap.com^
 @@||snapchat-payments-gateway.snapchat.com^
 @@||snapchat.com^
-@@||snapchats.life^
 @@||snapdeal.com^
 @@||snapi.live.net^
 @@||snappublisher.snapchat.com^
@@ -16737,6 +16729,8 @@
 @@||twm5g.co^
 @@||two.re^
 @@||twofactorauth.info^
+@@||twojm.com^
+@@||twojm.sbs^
 @@||twou.co^
 @@||twrd.in^
 @@||twt-assets.washtimes.com^
@@ -17473,7 +17467,6 @@
 @@||view.vzaar.com^
 @@||vigilink.com^
 @@||viglink.com^
-@@||vim-tiktok.live^
 @@||vimeo.com^
 @@||vincenaja46.live^
 @@||vine.co^
@@ -17708,6 +17701,7 @@
 @@||wappass.baidu.com^
 @@||waptrick.com^
 @@||wapurl.co.uk^
+@@||waqmx.sbs^
 @@||warby.me^
 @@||warez-bb.org^
 @@||warp.plus^
@@ -19936,7 +19930,6 @@
 @@||ytstatic.l.google.com^
 @@||ytube.io^
 @@||ytxt.mobi^
-@@||yu3.io^
 @@||yubi.co^
 @@||yui.yahooapis.com^
 @@||yukibio.com^
@@ -20071,6 +20064,7 @@
 @@||zkrat.me^
 @@||zkres.myzaker.com^$important
 @@||zkrt.cz^
+@@||zlado.top^
 @@||zlink.fun^
 @@||zln.do^
 @@||zlnk.com^

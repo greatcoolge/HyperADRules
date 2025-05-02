@@ -245,7 +245,6 @@
 @@||66biolinks.com^
 @@||69run.fun^
 @@||6b.cz^
-@@||6c.gs^
 @@||6ct.org^
 @@||6g6.eu^
 @@||6nmd.us^
@@ -409,8 +408,6 @@
 @@||acg.kr^
 @@||acg02.cc^
 @@||acortar.link^
-@@||acrefo.com^
-@@||acrestic.com^
 @@||acrt.us^
 @@||acs.m.taobao.com^
 @@||acs.m.taobao.com^
@@ -445,7 +442,6 @@
 @@||addict-tt27.life^
 @@||adeolasagay.live^
 @@||adesta.cc^
-@@||adf.ly^
 @@||adfa.st^
 @@||adflydsp.com^
 @@||adflyfly.com^
@@ -3075,7 +3071,6 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
-@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||im.alimebot.taobao.com^
@@ -4481,7 +4476,6 @@
 @@||mysp.ac^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -5509,7 +5503,6 @@
 @@||ro-go.kelkoogroup.net^
 @@||ro.blox.com^
 @@||robertdray2.live^
-@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rog.gg^
@@ -5813,7 +5806,6 @@
 @@||shop-ify-store-km.life^
 @@||shop-links.co^
 @@||shope.ee^
-@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopifystorekms.life^
 @@||shoplarryherndon115.life^
@@ -6100,7 +6092,6 @@
 @@||smu.gs^
 @@||smurl.link^
 @@||sn.im^
-@@||snapchats.life^
 @@||snapt.io^
 @@||snar.co^
 @@||snd.sc^
@@ -6940,6 +6931,8 @@
 @@||twm5g.co^
 @@||two.re^
 @@||twofactorauth.info^
+@@||twojm.com^
+@@||twojm.sbs^
 @@||twou.co^
 @@||twrd.in^
 @@||twtr.in^
@@ -7311,7 +7304,6 @@
 @@||view.helpline-app.com^
 @@||view.inews.qq.com^$important
 @@||vigilink.com^
-@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
@@ -7423,6 +7415,7 @@
 @@||wappass.baidu.com^
 @@||wappass.baidu.com^
 @@||wapurl.co.uk^
+@@||waqmx.sbs^
 @@||warby.me^
 @@||warp.plus^
 @@||wartsi.ly^
@@ -7887,7 +7880,6 @@
 @@||yts.nu^
 @@||ytube.io^
 @@||ytxt.mobi^
-@@||yu3.io^
 @@||yubi.co^
 @@||yukibio.com^
 @@||yun.duiba.com.cn^
@@ -7964,6 +7956,7 @@
 @@||zkrat.me^
 @@||zkres.myzaker.com^$important
 @@||zkrt.cz^
+@@||zlado.top^
 @@||zlink.fun^
 @@||zln.do^
 @@||zlnk.com^
