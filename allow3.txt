@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 30 Apr 2025 22:08 UTC
-! Version: 2025.0430.2208.33
+! Last modified: 01 May 2025 10:10 UTC
+! Version: 2025.0501.1010.32
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -117,7 +117,7 @@
 @@||2one.in^
 @@||2pl.us^
 @@||2pu.sh^
-@@||q.2qyq.vip^
+@@||2qyq.vip^
 @@||2s.gg^
 @@||2tf.net^
 @@||2tiny.in^
@@ -777,6 +777,7 @@
 @@||cdl.booksy.com^
 @@||boost.ink^
 @@||link.bootocorona.com^
+@@||bopvu.life^
 @@||boqzl.com^
 @@||bordonet.info^
 @@||bos.ngo^
@@ -972,6 +973,7 @@
 @@||chx.to^
 @@||chzb.gr^
 @@||ci8.de^
+@@||cib-tea.life^
 @@||cibel.sbs^
 @@||cin.ci^
 @@||cindora.club^
@@ -2110,6 +2112,7 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
+@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||imdb.to^
@@ -3091,6 +3094,7 @@
 @@||mysp.ac^
 @@||mysurl.com^
 @@||mytd.cc^
+@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -3820,6 +3824,7 @@
 @@||rnm.me^
 @@||rntyu.com^
 @@||robertdray2.live^
+@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||rog.gg^
 @@||roge.rs^
@@ -3864,6 +3869,7 @@
 @@||rwecv.com^
 @@||rwemw.com^
 @@||rwl.io^
+@@||rwqhh.sbs^
 @@||rwx.es^
 @@||rwz.fr^
 @@||rx.link^
@@ -4018,6 +4024,7 @@
 @@||shoort.io^
 @@||shop-ify-store-km.life^
 @@||shope.ee^
+@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopifystorekms.life^
 @@||shoplarryherndon115.life^
@@ -4271,6 +4278,7 @@
 @@||smu.gs^
 @@||smurl.link^
 @@||sn.im^
+@@||snapchats.life^
 @@||snapt.io^
 @@||snar.co^
 @@||snd.sc^
@@ -4835,6 +4843,7 @@
 @@||umelink.net^
 @@||uminify.com^
 @@||umlib.us^
+@@||umnm.top^
 @@||umuly.com^
 @@||unand.net^
 @@||unc.live^
@@ -5046,6 +5055,7 @@
 @@||vid.lu^
 @@||videopro.live^
 @@||vigilink.com^
+@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
@@ -5175,6 +5185,7 @@
 @@||url.webof.xyz^
 @@||l.webopt.eu^
 @@||webprografor.live^
+@@||webprotech.live^
 @@||webrc.net^
 @@||webseoexpert.life^
 @@||webshort.org^
@@ -5267,6 +5278,7 @@
 @@||wu.cz^
 @@||wu.vc^
 @@||wucgp.com^
+@@||wuhss.sbs^
 @@||wun.io^
 @@||wurlie.net^
 @@||wurlz.com^
@@ -5318,6 +5330,7 @@
 @@||xjyus.sbs^
 @@||xkvpf.com^
 @@||xl8.eu^
+@@||xmekz.com^
 @@||xmlr.link^
 @@||xn--57h.ws^
 @@||xn--a-4ka.eu^
@@ -5422,6 +5435,7 @@
 @@||yts.nu^
 @@||ytube.io^
 @@||ytxt.mobi^
+@@||yu3.io^
 @@||yubi.co^
 @@||yukibio.com^
 @@||yun.ir^
@@ -5483,6 +5497,7 @@
 @@||ziso.pw^
 @@||zisoj.cyou^
 @@||ziturl.com^
+@@||zkmddn.com^
 @@||zkr.pw^
 @@||zkrat.me^
 @@||zkrt.cz^
