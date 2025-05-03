@@ -4,10 +4,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 01 May 2025 09:33 UTC
-! Version: 2025.0501.0933.28
+! Last modified: 02 May 2025 21:32 UTC
+! Version: 2025.0502.2132.13
 ! Syntax: AdBlock
-! Number of entries: 749
+! Number of entries: 763
 !
 @@||l.1mp.ru^
 @@||t.1und1.de^
@@ -70,6 +70,7 @@
 @@||aax-dtb-cf.amazon-adsystem.amazon.com^
 @@||aax-dtb-mobile-geo.amazon-adsystem.amazon.com^
 @@||aax-ott.amazon-adsystem.amazon.com^
+@@||aax-ott-sdk.amazon-adsystem.amazon.com^
 @@||aax-us.amazon-adsystem.amazon.com^
 @@||aax-us-ott.amazon-adsystem.amazon.com^
 @@||assoc-redirect.amazon.com^
@@ -170,7 +171,6 @@
 @@||adservice.google.com.au^
 @@||adservice.google.com.br^
 @@||adservice.google.com.co^
-@@||adservice.google.com.ec^
 @@||adservice.google.com.eg^
 @@||adservice.google.com.gt^
 @@||adservice.google.com.hk^
@@ -233,6 +233,7 @@
 @@||track34102166105.effiliation.com^
 @@||api.elasticemail.com^
 @@||hs.eloqua.com^
+@@||profitshare.emag.ro^
 @@||list-unsubscribe.eservice.emarsys.net^
 @@||redirector.eservice.emarsys.net^
 @@||suite-dashboard.gservice.emarsys.net^
@@ -249,13 +250,15 @@
 @@||suite33.emarsys.net^
 @@||suite38.emarsys.net^
 @@||suite40.emarsys.net^
-@@||suite40-cf.emarsys.net^
+@@||suite45.emarsys.net^
+@@||suite47-cf.emarsys.net^
 @@||suite54.emarsys.net^
 @@||suite56.emarsys.net^
 @@||suite57.emarsys.net^
 @@||suite58.emarsys.net^
 @@||suite59.emarsys.net^
 @@||suite63.emarsys.net^
+@@||suite67-cf.emarsys.net^
 @@||suite7.emarsys.net^
 @@||suite9.emarsys.net^
 @@||emjcd.com^
@@ -268,6 +271,7 @@
 @@||evyy.net^
 @@||m.exactag.com^
 @@||tp-emea.exactag.com^
+@@||s11.login.exacttarget.com^
 @@||s12.login.exacttarget.com^
 @@||s1.exacttarget.com^
 @@||s10.exacttarget.com^
@@ -286,6 +290,8 @@
 @@||cdn.eu1.exponea.com^
 @@||cdn.ftspecialist.exponea.com^
 @@||cdn.network.exponea.com^
+@@||pan-cdn.exponea.com^
+@@||ri-cdn.exponea.com^
 @@||cdn.uk.exponea.com^
 @@||cdn.us1.exponea.com^
 @@||l.facebook.com^
@@ -416,31 +422,39 @@
 @@||email.microsoftonline.com^
 @@||links.mkt41.net^
 @@||mkto-a0095.com^
+@@||mkto-ab010150.com^
 @@||mkto-ab040147.com^
+@@||mkto-ab060144.com^
+@@||mkto-ab070017.com^
 @@||mkto-ab080206.com^
+@@||mkto-ab100016.com^
+@@||mkto-ab150224.com^
+@@||mkto-ab180024.com^
 @@||mkto-ab200065.com^
 @@||mkto-ab210104.com^
 @@||mkto-ab220178.com^
 @@||mkto-ab220193.com^
 @@||mkto-ab250105.com^
-@@||mkto-ab270090.com^
+@@||mkto-ab250167.com^
+@@||mkto-ab280126.com^
 @@||mkto-ab300154.com^
 @@||mkto-ab310115.com^
+@@||mkto-ab320182.com^
+@@||mkto-ab330006.com^
 @@||mkto-ab330197.com^
 @@||mkto-ab340022.com^
-@@||mkto-ab350042.com^
 @@||mkto-ab420081.com^
-@@||mkto-ab440098.com^
 @@||mkto-ab470148.com^
+@@||mkto-ab500015.com^
 @@||mkto-ab520004.com^
 @@||mkto-ab530057.com^
-@@||mkto-ab540143.com^
 @@||mkto-ab540186.com^
 @@||mkto-ab550140.com^
+@@||mkto-ab560009.com^
 @@||mkto-ab560068.com^
 @@||mkto-ab570110.com^
-@@||mkto-ab630019.com^
 @@||mkto-ab640193.com^
+@@||mkto-ab650006.com^
 @@||mkto-ab650097.com^
 @@||mkto-ab660121.com^
 @@||mkto-ab690019.com^
@@ -455,10 +469,8 @@
 @@||mkto-lon030291.com^
 @@||mkto-lon040152.com^
 @@||mkto-lon050200.com^
-@@||mkto-lon080188.com^
 @@||mkto-lon100059.com^
 @@||mkto-n0199.com^
-@@||mkto-nld1020078.com^
 @@||mkto-nld1040186.com^
 @@||mkto-o0153.com^
 @@||mkto-sj010104.com^
@@ -474,7 +486,6 @@
 @@||mkto-sj200192.com^
 @@||mkto-sj230006.com^
 @@||mkto-sj240021.com^
-@@||mkto-sj250062.com^
 @@||mkto-sj270080.com^
 @@||mkto-sj310061.com^
 @@||mkto-sj310186.com^
@@ -482,6 +493,7 @@
 @@||mkto-sj330006.com^
 @@||mkto-sj360142.com^
 @@||mkto-sj370181.com^
+@@||mkto-test.com^
 @@||mktoweb.com^
 @@||click.mlsend.com^
 @@||t.mmtrkr.com^
@@ -555,6 +567,8 @@
 @@||prf.hn^
 @@||track.productsup.com^
 @@||track.productsup.io^
+@@||profitshare.bg^
+@@||profitshare.ro^
 @@||click.pstmrk.it^
 @@||tracking.publicidees.com^
 @@||api.pushwoosh.com^
@@ -578,11 +592,12 @@
 @@||r5waxhbbb.cc.rs6.net^
 @@||r6lccqnab.cc.rs6.net^
 @@||r7avxrcab.cc.rs6.net^
+@@||r88lcbcab.cc.rs6.net^
 @@||rgkkzvdab.cc.rs6.net^
 @@||rjpz4ucab.cc.rs6.net^
 @@||rq6agxabb.cc.rs6.net^
 @@||rxfc49ebb.cc.rs6.net^
-@@||ry5rzwcab.cc.rs6.net^
+@@||ry9kgedab.cc.rs6.net^
 @@||rz6dkreab.cc.rs6.net^
 @@||r20.rs6.net^
 @@||tracking.s24.com^
@@ -728,7 +743,6 @@
 @@||tc.tradetracker.net^
 @@||ti.tradetracker.net^
 @@||tm.tradetracker.net^
-@@||ts.tradetracker.net^
 @@||api.traq.li^
 @@||secure.traqkarr.com^
 @@||track.connect.travelaudience.com^

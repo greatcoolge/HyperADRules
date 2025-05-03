@@ -579,6 +579,7 @@ aax-fe.amazon.*
 aax-fe.amazon.co.jp
 aax-fe.amazon.com.au
 aax-fe.amazon.sg
+aax-ott-sdk.amazon-adsystem.amazon.com
 aax-ott.amazon-adsystem.amazon.com
 aax-us-east-retail-direct.amazon.com
 aax-us-iad.amazon.com
@@ -892,7 +893,6 @@ adservice.google.com.ar
 adservice.google.com.au
 adservice.google.com.br
 adservice.google.com.co
-adservice.google.com.ec
 adservice.google.com.eg
 adservice.google.com.gt
 adservice.google.com.hk
@@ -1732,7 +1732,6 @@ amzn.com
 amzn.pw
 amzn.to
 an-up-gop-u-ram.life
-an.fo
 an.to
 ana-lid-ia-estevez-ortiz.life
 ana.fr
@@ -1785,7 +1784,6 @@ animefreak.tv
 animeheaven.eu
 animerep.com
 animeseason.com
-anisepretzel.com
 anizam.ru
 anmeld.biz
 annas-archive.org
@@ -2603,7 +2601,6 @@ avsforum.com
 avt.mkklcdnv6.com
 avtk.io
 avtub.pw
-avtub.red
 avty.xboxlive.com
 avxvz.com
 avydn.co
@@ -2993,6 +2990,7 @@ bjl.ink
 bjli.in
 bk01.hh.xiaomi.com
 bkite.com
+bkjkwg.quest
 bkssl.bdimg.com
 bl.ink
 black-panther.live
@@ -3092,7 +3090,6 @@ blogs.discovermagazine.com
 blogs.feedburner.com
 blogs.sonymobile.com
 blogs.techrepublic.com
-blogshare.cfd
 blogsimages.adobe.com
 blogsmithmedia.com
 blogspot.ca
@@ -3154,7 +3151,6 @@ bom.to
 bomis.snap.com
 bonai.re
 bonap.it
-bonic.so
 bonustips.club
 boofola.link
 book.daum.net
@@ -3178,7 +3174,6 @@ boqzl.com
 bordonet.info
 bos.ngo
 bose.life
-boshoki.biz
 boss.static.xiaomi.net
 bossaudioandcomic-1252317822.image.myqcloud.com
 boston-services.gabriels.net
@@ -3202,7 +3197,6 @@ bp.cool
 bpapi.apple.com
 bpdmv.com
 bpl.kr
-bprl.site
 bpvkv.top
 bqdlp.com
 bqwpf.com
@@ -3486,7 +3480,6 @@ campaign.line.me
 campaigns.sonymobile.com
 campus.163.com
 can.al
-can.si
 cane.com
 canhaz.com
 canon.us
@@ -4286,7 +4279,6 @@ cmail.daum.net
 cmail19.com
 cmail20.com
 cmbchina.com
-cml.lol
 cmon.co
 cmpassport.com
 cms-bucket.ws.126.net
@@ -4754,6 +4746,7 @@ cutcaptcha.com
 cutestat.com
 cuteurl.co
 cutit.bid
+cutlinker.com
 cutlly.com
 cuto.info
 cuto.life
@@ -4987,7 +4980,6 @@ de.pool.ntp.org
 de.returnpath.com
 de.statcounter.com
 de.wikipedia.com
-dealc.me
 deals.breitbart.com
 deb.li
 debbiewestdicksons.life
@@ -5114,7 +5106,6 @@ dfgameplay.com
 dfkr77.com
 dfl8.me
 dfscdn.dfcfw.com
-dft.ba
 dfthethao.com
 dftoutiao.com
 dftp.flowplayer.com
@@ -5156,7 +5147,6 @@ digbig.com
 digg.com
 digicert.com
 digidip.net
-digispotpro.com
 digital-it-park.life
 digitalassetlinks.googleapis.com
 digitalcameras.engadget.com
@@ -5682,6 +5672,7 @@ eds.xboxlive.com
 eds.xboxlive.com 
 edu.nl
 education.ti.com
+eeatu.com
 eek.us
 eepurl.com
 eeurl.com
@@ -5693,7 +5684,6 @@ efie.co
 efraising.org
 efs.link
 efshop.tw
-efw4.one
 eg-hr.com
 eg-sale.com
 egw.bz
@@ -6638,7 +6628,6 @@ funk.eu
 funnymp4.net
 funnyordie.com
 funurl.com
-fupi.co.tz
 fur.ly
 furl.in
 fustat.ospserver.net
@@ -9479,7 +9468,6 @@ link-me.vip
 link.*.paramountplus.com
 link.ac
 link.betclic.com
-link.bootocorona.com
 link.cc
 link.dailycaller.com
 link.dana.id
@@ -10725,31 +10713,39 @@ mkt7185.com
 mktcloud.c.huawei.com
 mkto-*.com
 mkto-a0095.com
+mkto-ab010150.com
 mkto-ab040147.com
+mkto-ab060144.com
+mkto-ab070017.com
 mkto-ab080206.com
+mkto-ab100016.com
+mkto-ab150224.com
+mkto-ab180024.com
 mkto-ab200065.com
 mkto-ab210104.com
 mkto-ab220178.com
 mkto-ab220193.com
 mkto-ab250105.com
-mkto-ab270090.com
+mkto-ab250167.com
+mkto-ab280126.com
 mkto-ab300154.com
 mkto-ab310115.com
+mkto-ab320182.com
+mkto-ab330006.com
 mkto-ab330197.com
 mkto-ab340022.com
-mkto-ab350042.com
 mkto-ab420081.com
-mkto-ab440098.com
 mkto-ab470148.com
+mkto-ab500015.com
 mkto-ab520004.com
 mkto-ab530057.com
-mkto-ab540143.com
 mkto-ab540186.com
 mkto-ab550140.com
+mkto-ab560009.com
 mkto-ab560068.com
 mkto-ab570110.com
-mkto-ab630019.com
 mkto-ab640193.com
+mkto-ab650006.com
 mkto-ab650097.com
 mkto-ab660121.com
 mkto-ab690019.com
@@ -10764,10 +10760,8 @@ mkto-k0071.com
 mkto-lon030291.com
 mkto-lon040152.com
 mkto-lon050200.com
-mkto-lon080188.com
 mkto-lon100059.com
 mkto-n0199.com
-mkto-nld1020078.com
 mkto-nld1040186.com
 mkto-o0153.com
 mkto-sj010104.com
@@ -10783,7 +10777,6 @@ mkto-sj190237.com
 mkto-sj200192.com
 mkto-sj230006.com
 mkto-sj240021.com
-mkto-sj250062.com
 mkto-sj270080.com
 mkto-sj310061.com
 mkto-sj310186.com
@@ -10791,6 +10784,7 @@ mkto-sj320047.com
 mkto-sj330006.com
 mkto-sj360142.com
 mkto-sj370181.com
+mkto-test.com
 mkto-trk.cisco.com
 mktoweb.com
 mktplassets-ssl.xbox.com
@@ -12156,6 +12150,7 @@ paids.site
 painthegame.playstation.com
 paisakamalo.in
 paksa.click
+pan-cdn.exponea.com
 pan.quark.cn
 pan.tenire.com
 pancitkantonan.life
@@ -12767,6 +12762,9 @@ profile.line.scdn.net
 profile.target.com
 profile.to
 profit.ndtv.com
+profitshare.bg
+profitshare.emag.ro
+profitshare.ro
 proflowers.com
 projects.huffingtonpost.com.au
 projects.id
@@ -13123,6 +13121,7 @@ r5.bithumb.com
 r5waxhbbb.cc.rs6.net
 r6lccqnab.cc.rs6.net
 r7avxrcab.cc.rs6.net
+r88lcbcab.cc.rs6.net
 ra.gtimg.com
 rabde.sbs
 raceclip.com
@@ -13431,6 +13430,7 @@ rgpug.com
 rhtxf.sbs
 rhub.in
 rhyiu.sbs
+ri-cdn.exponea.com
 ri.ms
 rice-v-ave.life
 rickroll.it
@@ -13600,7 +13600,7 @@ rxe.lol
 rxfc49ebb.cc.rs6.net
 rxxuy.top
 rxyzpj.com
-ry5rzwcab.cc.rs6.net
+ry9kgedab.cc.rs6.net
 ryml.me
 ryp.im
 rysqh.pics
@@ -13708,6 +13708,7 @@ s10.exacttarget.com
 s11.cn
 s11.exacttarget.com
 s11.link
+s11.login.exacttarget.com
 s12.exacttarget.com
 s12.login.exacttarget.com
 s12d.com
@@ -15383,14 +15384,16 @@ suite30.emarsys.net
 suite32.emarsys.net
 suite33.emarsys.net
 suite38.emarsys.net
-suite40-cf.emarsys.net
 suite40.emarsys.net
+suite45.emarsys.net
+suite47-cf.emarsys.net
 suite54.emarsys.net
 suite56.emarsys.net
 suite57.emarsys.net
 suite58.emarsys.net
 suite59.emarsys.net
 suite63.emarsys.net
+suite67-cf.emarsys.net
 suite7.emarsys.net
 suite9.emarsys.net
 sujanaarch.life
@@ -15730,6 +15733,7 @@ tabsoft.co
 tabzi.com
 tac.blog.naver.com
 tachiyomi.org
+taedy.com
 tag.aticdn.net
 tag.blog.naver.com
 tag.getdrip.com
@@ -15778,6 +15782,7 @@ targetednotifications-tm.trafficmanager.net
 targeterpro.com
 tatjanka31sluts.life
 tautin.id
+tauzn.top
 tawk.link
 tawk.to
 taxi.line.me
@@ -16086,6 +16091,8 @@ title.mgt.xboxlive.com
 title.mgt.xboxlive.com 
 titleagentmarketing.com
 titurl.com
+tiurl.link
+tixxh.com
 tj-in-f14.1e100.net
 tj.wtf
 tkjzd.pics
@@ -16390,7 +16397,6 @@ ts-crl.ws.symantec.com
 ts-ocsp.ws.symantec.com
 ts.market.mi-img.com
 ts.my
-ts.tradetracker.net
 tsbk.tw
 tsfe.trafficshaping.dsp.mp.microsoft.com
 tsp.pm
@@ -16490,6 +16496,7 @@ twofactorauth.info
 twojm.com
 twojm.sbs
 twou.co
+twpyl.com
 twrd.in
 twt-assets.washtimes.com
 twtr.in
@@ -16629,6 +16636,7 @@ umlib.us
 umn.edu
 umnm.top
 umuly.com
+umuoq.com
 un.org
 unagi-na.amazon.com
 unand.net
@@ -16752,6 +16760,7 @@ uptobox.com
 uptostream.com
 upu.samsungelectronics.com
 upzat.com
+ur-l.ru
 ur.link
 ur.ly
 ur.wikipedia.com
@@ -16800,6 +16809,7 @@ url4.eu
 url4.org
 url4.uk
 url5.org
+url88.online
 urla.ru
 urlah.com
 urlao.com
@@ -16819,6 +16829,7 @@ urlenco.de
 urlexpander.org
 urlf.cc
 urlflea.com
+urlforyou.com
 urlgeni.us
 urlgit.com
 urlgo.fr
@@ -17125,6 +17136,7 @@ vesta.web.telegram.org
 veta.naver.com
 veteranstoday.com
 vfiles.gtimg.cn
+vfnzvr.com
 vfo.voyage-prive.co.uk
 vgfiles.nabstudio.com
 vgnx.co
@@ -17853,6 +17865,7 @@ wufoo.com
 wuhss.sbs
 wun.io
 wunderground.com
+wuniw.com
 wup.imtt.qq.com
 wurl.nl
 wurlie.net
@@ -17874,6 +17887,7 @@ ww7.fr
 wwf.to
 wwis-dubc1-vip60.adobe.com
 wwp.news
+wwphb.sbs
 wwtt.to
 www-admin.sonymobile.com
 www-cdn.icloud.com.akadns.net
@@ -19647,6 +19661,7 @@ yts.nu
 ytstatic.l.google.com
 ytube.io
 ytxt.mobi
+yu3.io
 yubi.co
 yui.yahooapis.com
 yukibio.com
@@ -19784,6 +19799,7 @@ zlnk.com
 zlr.my
 zlra.co
 zlw.re
+zlwpq.com
 znt.bz
 zo.cm
 zobj.net
