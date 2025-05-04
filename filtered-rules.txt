@@ -7043,7 +7043,6 @@ go.leanplum.com
 go.link
 go.lsb.nrw
 go.lu-h.de
-go.mend.io
 go.microsoft.com
 go.nasa.gov
 go.nextiva.com
@@ -8149,7 +8148,6 @@ ilinky.info
 ilix.in
 ilk.ir
 illin.is
-illuminatiracers.live
 iln.io
 ilnk.io
 iltalehti.fi
@@ -9073,7 +9071,6 @@ kkday.me
 kkne.ws
 kko.to
 kkstre.am
-kl.am
 kl.ik.my
 kla.me
 klas.ws
@@ -9140,7 +9137,6 @@ kr.pe
 kr.wikipedia.com
 kr3w.de
 krakow.tvp.pl
-kratsi.cz
 krazy.la
 krdic.naver.com
 kriizuh-rig-09.info
@@ -9538,7 +9534,6 @@ linkfly.to
 linkfr.ee
 linkfuly.com
 linkgacor33.info
-linkgacortexas.org
 linkgol88.com
 linkgqq.org
 linkgrab.top
@@ -9837,7 +9832,6 @@ loli.net
 lompat.xyz
 lomuhm.com
 lonerwolf.co
-longurl.in
 look.com
 lookaside.facebook.com
 lookmovie.ag
@@ -10652,7 +10646,6 @@ minifyurl.co
 minilien.com
 minilink.id
 minilink.io
-minilinq.com
 miningpoolhub.com
 minion.typekit.com
 minitv.fun
@@ -11173,7 +11166,6 @@ mysql.com
 mysupport.sonymobile.com
 mysurl.com
 mytd.cc
-mytiktok.life
 mytinycheck9.life
 mytoluwalemi.life
 mytorus.live
@@ -13492,7 +13484,6 @@ road.adblock.ro
 roadandtrack.com
 roar.media
 robertdray2.live
-robloxgroup.life
 robloxtech.live
 robul.saas.workertm.com
 rochester.edu
@@ -14290,7 +14281,6 @@ shop.samsung.com.edgekey.net
 shop.skype.com
 shopapi.io.mi.com
 shope.ee
-shopeedeals.sale
 shopifie.com
 shopify.com
 shopifystorekms.life
@@ -14688,7 +14678,6 @@ snahp.it
 snap.com
 snapchat-payments-gateway.snapchat.com
 snapchat.com
-snapchats.life
 snapdeal.com
 snapi.live.net
 snappublisher.snapchat.com
@@ -17232,7 +17221,6 @@ view.status.xbox.com
 view.vzaar.com
 vigilink.com
 viglink.com
-vim-tiktok.live
 vimeo.com
 vincenaja46.live
 vine.co

@@ -7166,7 +7166,6 @@
 @@||go.link^
 @@||go.lsb.nrw^
 @@||go.lu-h.de^
-@@||go.mend.io^
 @@||go.microsoft.com^
 @@||go.nasa.gov^
 @@||go.nextiva.com^
@@ -8280,7 +8279,6 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
-@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||iltalehti.fi^
@@ -9218,7 +9216,6 @@
 @@||kkne.ws^
 @@||kko.to^
 @@||kkstre.am^
-@@||kl.am^
 @@||kl.ik.my^
 @@||kla.me^
 @@||klas.ws^
@@ -9285,7 +9282,6 @@
 @@||kr.wikipedia.com^
 @@||kr3w.de^
 @@||krakow.tvp.pl^
-@@||kratsi.cz^
 @@||krazy.la^
 @@||krdic.naver.com^
 @@||kriizuh-rig-09.info^
@@ -9685,7 +9681,6 @@
 @@||linkfr.ee^
 @@||linkfuly.com^
 @@||linkgacor33.info^
-@@||linkgacortexas.org^
 @@||linkgol88.com^
 @@||linkgqq.org^
 @@||linkgrab.top^
@@ -9986,7 +9981,6 @@
 @@||lompat.xyz^
 @@||lomuhm.com^
 @@||lonerwolf.co^
-@@||longurl.in^
 @@||look.com^
 @@||lookaside.facebook.com^
 @@||lookmovie.ag^
@@ -10820,7 +10814,6 @@
 @@||minilien.com^
 @@||minilink.id^
 @@||minilink.io^
-@@||minilinq.com^
 @@||miningpoolhub.com^
 @@||minion.typekit.com^
 @@||minitv.fun^
@@ -11349,7 +11342,6 @@
 @@||mysupport.sonymobile.com^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -13700,7 +13692,6 @@
 @@||roadandtrack.com^
 @@||roar.media^
 @@||robertdray2.live^
-@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rochester.edu^
@@ -14503,7 +14494,6 @@
 @@||shop.skype.com^
 @@||shopapi.io.mi.com^
 @@||shope.ee^
-@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopify.com^
 @@||shopifystorekms.life^
@@ -14904,7 +14894,6 @@
 @@||snap.com^
 @@||snapchat-payments-gateway.snapchat.com^
 @@||snapchat.com^
-@@||snapchats.life^
 @@||snapdeal.com^
 @@||snapi.live.net^
 @@||snappublisher.snapchat.com^
@@ -17487,7 +17476,6 @@
 @@||view.vzaar.com^
 @@||vigilink.com^
 @@||viglink.com^
-@@||vim-tiktok.live^
 @@||vimeo.com^
 @@||vincenaja46.live^
 @@||vine.co^
