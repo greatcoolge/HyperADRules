@@ -4757,6 +4757,7 @@ cutt.eu
 cutt.ly
 cutt.us
 cutt4.me
+cutth.com
 cutu.me
 cuturl.com
 cuturl.net
@@ -7929,7 +7930,6 @@ hw.me
 hwcdn.net
 hybrid.xiaomi.com
 hydrax.net
-hyiw.info
 hyperly.co
 hyperurl.co
 hyperx.gg
@@ -8149,6 +8149,7 @@ ilinky.info
 ilix.in
 ilk.ir
 illin.is
+illuminatiracers.live
 iln.io
 ilnk.io
 iltalehti.fi
@@ -11172,6 +11173,7 @@ mysql.com
 mysupport.sonymobile.com
 mysurl.com
 mytd.cc
+mytiktok.life
 mytinycheck9.life
 mytoluwalemi.life
 mytorus.live
@@ -13490,6 +13492,7 @@ road.adblock.ro
 roadandtrack.com
 roar.media
 robertdray2.live
+robloxgroup.life
 robloxtech.live
 robul.saas.workertm.com
 rochester.edu
@@ -14287,6 +14290,7 @@ shop.samsung.com.edgekey.net
 shop.skype.com
 shopapi.io.mi.com
 shope.ee
+shopeedeals.sale
 shopifie.com
 shopify.com
 shopifystorekms.life
@@ -14684,6 +14688,7 @@ snahp.it
 snap.com
 snapchat-payments-gateway.snapchat.com
 snapchat.com
+snapchats.life
 snapdeal.com
 snapi.live.net
 snappublisher.snapchat.com
@@ -15894,6 +15899,7 @@ tg.pe
 tg1.premium.db4.wix.com
 tg1.premium.dc11.wix.com
 tgam.ca
+tgbe.link
 tgr.ph
 th.gravatar.com
 th.pinduoduo.com
@@ -16509,6 +16515,7 @@ tx2.a.kwimgs.com
 tx2.a.yximgs.com
 tx3.163.com
 txdl.top
+txhih.sbs
 txmov2.a.kwimgs.com
 txt.go.sohu.com
 txul.cn
@@ -17140,6 +17147,7 @@ vfnzvr.com
 vfo.voyage-prive.co.uk
 vgfiles.nabstudio.com
 vgnx.co
+vgoaa.com
 vi-vn.about.flipboard.com
 vi.gravatar.com
 vi.sa
@@ -17224,6 +17232,7 @@ view.status.xbox.com
 view.vzaar.com
 vigilink.com
 viglink.com
+vim-tiktok.live
 vimeo.com
 vincenaja46.live
 vine.co

@@ -1744,6 +1744,7 @@
 @@||cutt.eu^
 @@||cutt.ly^
 @@||cutt4.me^
+@@||cutth.com^
 @@||cutu.me^
 @@||cuturl.com^
 @@||cuturl.net^
@@ -2956,7 +2957,6 @@
 @@||hurl.me^
 @@||hurl.ws^
 @@||hut.bz^
-@@||hyiw.info^
 @@||hyperly.co^
 @@||hyperurl.co^
 @@||hyperx.gg^
@@ -3059,6 +3059,7 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
+@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||im.alimebot.taobao.com^
@@ -4469,6 +4470,7 @@
 @@||mysp.ac^
 @@||mysurl.com^
 @@||mytd.cc^
+@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -5502,6 +5504,7 @@
 @@||ro-go.kelkoogroup.net^
 @@||ro.blox.com^
 @@||robertdray2.live^
+@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rog.gg^
@@ -5806,6 +5809,7 @@
 @@||shop-ify-store-km.life^
 @@||shop-links.co^
 @@||shope.ee^
+@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopifystorekms.life^
 @@||shoplarryherndon115.life^
@@ -6092,6 +6096,7 @@
 @@||smu.gs^
 @@||smurl.link^
 @@||sn.im^
+@@||snapchats.life^
 @@||snapt.io^
 @@||snar.co^
 @@||snd.sc^
@@ -6592,6 +6597,7 @@
 @@||tfushort.com^
 @@||tg.pe^
 @@||tgam.ca^
+@@||tgbe.link^
 @@||tgr.ph^
 @@||thandisozynobiahlongwanes.life^
 @@||thaniel.life^
@@ -6951,6 +6957,7 @@
 @@||tx2.a.yximgs.com^
 @@||tx3.163.com^
 @@||txdl.top^
+@@||txhih.sbs^
 @@||txmov2.a.kwimgs.com^
 @@||txul.cn^
 @@||txwk.10010.com^
@@ -7292,6 +7299,7 @@
 @@||vfnzvr.com^
 @@||vfo.voyage-prive.co.uk^
 @@||vgnx.co^
+@@||vgoaa.com^
 @@||vi.sa^
 @@||vi.tc^
 @@||via.placeholder.com^
@@ -7315,6 +7323,7 @@
 @@||view.helpline-app.com^
 @@||view.inews.qq.com^$important
 @@||vigilink.com^
+@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
