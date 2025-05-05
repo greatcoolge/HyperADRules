@@ -8279,7 +8279,6 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
-@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||iltalehti.fi^
@@ -11343,7 +11342,6 @@
 @@||mysupport.sonymobile.com^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -13391,7 +13389,6 @@
 @@||rckstr.bz^
 @@||rcl.ink^
 @@||rcld.io^
-@@||rcorta.me^
 @@||rcx.my.id^
 @@||rd.gt^
 @@||rd.playstation.com^
@@ -13668,7 +13665,6 @@
 @@||rlxp.com^
 @@||rly.pt^
 @@||rm.flowplayer.com^
-@@||rmbkm.pics^
 @@||rmekg.com^
 @@||rmlvt.top^
 @@||rmuti.me^
@@ -13689,7 +13685,6 @@
 @@||roadandtrack.com^
 @@||roar.media^
 @@||robertdray2.live^
-@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rochester.edu^
@@ -13803,7 +13798,6 @@
 @@||ry9kgedab.cc.rs6.net^
 @@||ryml.me^
 @@||ryp.im^
-@@||rysqh.pics^
 @@||rz.se^
 @@||rz6dkreab.cc.rs6.net^
 @@||rzeszow.tvp.pl^
@@ -14114,7 +14108,6 @@
 @@||scoreonline.live^
 @@||scorito.com^
 @@||scr.bi^
-@@||scrapy.co^
 @@||scrb.ly^
 @@||screeee.com^
 @@||screenshots.firefox.com^
@@ -14284,7 +14277,6 @@
 @@||see.valimail.com^
 @@||seedr.cc^
 @@||seedsta.rs^
-@@||seeme.at^
 @@||seesaa.net^
 @@||segment.com^
 @@||segment.hotstar.com^
@@ -14309,7 +14301,6 @@
 @@||sendspace.com^
 @@||sendurl.me^
 @@||sensasi777.love^
-@@||sensexstream.live^
 @@||sentry.cloud.vimeo.com^
 @@||sentry.flipboard.com^
 @@||sentry.io^
@@ -14492,7 +14483,6 @@
 @@||shop.skype.com^
 @@||shopapi.io.mi.com^
 @@||shope.ee^
-@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopify.com^
 @@||shopifystorekms.life^
@@ -14587,7 +14577,6 @@
 @@||shortlinksakti.xyz^
 @@||shortlk.com^
 @@||shortll.com^
-@@||shortlurl.com^
 @@||shortly.cc^
 @@||shortly.click^
 @@||shortly.cyou^
@@ -14606,7 +14595,6 @@
 @@||shortonly.com^
 @@||shortpals.online^
 @@||shortpastebin.my.id^
-@@||shortprofit.us^
 @@||shortq.link^
 @@||shortr.at^
 @@||shortracz.com^
@@ -14671,7 +14659,6 @@
 @@||shrt.lat^
 @@||shrt.st^
 @@||shrtco.de^
-@@||shrten.com^
 @@||shrtfly.com^
 @@||shrtm.nu^
 @@||shrturl.site^
@@ -14893,7 +14880,6 @@
 @@||snap.com^
 @@||snapchat-payments-gateway.snapchat.com^
 @@||snapchat.com^
-@@||snapchats.life^
 @@||snapdeal.com^
 @@||snapi.live.net^
 @@||snappublisher.snapchat.com^
@@ -15107,7 +15093,6 @@
 @@||sqimg.qq.com^$important
 @@||sqmlm.sbs^
 @@||sqrl.it^
-@@||sqrrq.mom^
 @@||sqrx.io^
 @@||sqs.us-east-1.amazonaws.com^
 @@||squ.re^
@@ -15228,7 +15213,6 @@
 @@||start.nirsoft.net^
 @@||start.www.daum.net^
 @@||startpage.com^
-@@||startupperks.live^
 @@||starturl.com^
 @@||starz.tv^
 @@||stat.10jqka.com.cn^
@@ -17476,7 +17460,6 @@
 @@||view.vzaar.com^
 @@||vigilink.com^
 @@||viglink.com^
-@@||vim-tiktok.live^
 @@||vimeo.com^
 @@||vincenaja46.live^
 @@||vine.co^

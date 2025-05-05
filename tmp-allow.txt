@@ -3058,7 +3058,6 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
-@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||im.alimebot.taobao.com^
@@ -4464,7 +4463,6 @@
 @@||mysp.ac^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -5339,7 +5337,6 @@
 @@||rckstr.bz^
 @@||rcl.ink^
 @@||rcld.io^
-@@||rcorta.me^
 @@||rcx.my.id^
 @@||rd.gt^
 @@||rdar.li^
@@ -5482,7 +5479,6 @@
 @@||rlu.ru^
 @@||rlvmf.top^
 @@||rly.pt^
-@@||rmbkm.pics^
 @@||rmekg.com^
 @@||rmlvt.top^
 @@||rmuti.me^
@@ -5493,7 +5489,6 @@
 @@||ro-go.kelkoogroup.net^
 @@||ro.blox.com^
 @@||robertdray2.live^
-@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rog.gg^
@@ -5551,7 +5546,6 @@
 @@||ry9kgedab.cc.rs6.net^
 @@||ryml.me^
 @@||ryp.im^
-@@||rysqh.pics^
 @@||rz6dkreab.cc.rs6.net^
 @@||rzr.to^
 @@||s*.exacttarget.com^
@@ -5674,7 +5668,6 @@
 @@||sclix.com^
 @@||scoreonline.live^
 @@||scr.bi^
-@@||scrapy.co^
 @@||scrb.ly^
 @@||screeee.com^
 @@||scts.in^
@@ -5712,7 +5705,6 @@
 @@||secure.everyaction.com^
 @@||secure.traqkarr.com^
 @@||seedsta.rs^
-@@||seeme.at^
 @@||seiu.co^
 @@||sejr.nl^
 @@||selena-lopez-2796.life^
@@ -5724,7 +5716,6 @@
 @@||sendgrid.net^
 @@||sendurl.me^
 @@||sensasi777.love^
-@@||sensexstream.live^
 @@||seo-expert.live^
 @@||seoexperts.life^
 @@||seogilak.lol^
@@ -5798,7 +5789,6 @@
 @@||shop-ify-store-km.life^
 @@||shop-links.co^
 @@||shope.ee^
-@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopifystorekms.life^
 @@||shoplarryherndon115.life^
@@ -5886,7 +5876,6 @@
 @@||shortlinksakti.xyz^
 @@||shortlk.com^
 @@||shortll.com^
-@@||shortlurl.com^
 @@||shortly.cc^
 @@||shortly.click^
 @@||shortly.cyou^
@@ -5905,7 +5894,6 @@
 @@||shortonly.com^
 @@||shortpals.online^
 @@||shortpastebin.my.id^
-@@||shortprofit.us^
 @@||shortq.link^
 @@||shortr.at^
 @@||shortracz.com^
@@ -5966,7 +5954,6 @@
 @@||shrt.lat^
 @@||shrt.st^
 @@||shrtco.de^
-@@||shrten.com^
 @@||shrtfly.com^
 @@||shrtm.nu^
 @@||shrturl.site^
@@ -6085,7 +6072,6 @@
 @@||smu.gs^
 @@||smurl.link^
 @@||sn.im^
-@@||snapchats.life^
 @@||snapt.io^
 @@||snar.co^
 @@||snd.sc^
@@ -6163,7 +6149,6 @@
 @@||sqimg.qq.com^$important
 @@||sqmlm.sbs^
 @@||sqrl.it^
-@@||sqrrq.mom^
 @@||sqrx.io^
 @@||squ.re^
 @@||squadgen.com^
@@ -6203,7 +6188,6 @@
 @@||stanford.io^
 @@||starlusts.com^
 @@||start.fr^
-@@||startupperks.live^
 @@||starturl.com^
 @@||starz.tv^
 @@||stat.api.4399.com^
@@ -7312,7 +7296,6 @@
 @@||view.helpline-app.com^
 @@||view.inews.qq.com^$important
 @@||vigilink.com^
-@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
