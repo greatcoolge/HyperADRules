@@ -8148,6 +8148,7 @@ ilinky.info
 ilix.in
 ilk.ir
 illin.is
+illuminatiracers.live
 iln.io
 ilnk.io
 iltalehti.fi
@@ -11166,6 +11167,7 @@ mysql.com
 mysupport.sonymobile.com
 mysurl.com
 mytd.cc
+mytiktok.life
 mytinycheck9.life
 mytoluwalemi.life
 mytorus.live
@@ -11702,7 +11704,6 @@ oauth.reddit.com
 oauth.vk.com
 oaxyteek.net
 obank.tw
-obblink.com
 oboom.com
 obs.line-scdn.net
 observer.com
@@ -11840,7 +11841,6 @@ oneid.mmstat.com
 onelink.me
 onelink.to
 onelogin.com
-onelovepalmbeaches.life
 onenetworkdirect.net
 oneocsp.microsoft.com
 onepl.us
@@ -12308,7 +12308,6 @@ pew.org
 pewrsr.ch
 pexels.com
 pf-hpx-us1.mpay.samsung.com
-pferrer15.info
 pfga0.market.xiaomi.com
 pfsense.org
 pg-bootstrap.itunes.apple.com
@@ -12801,7 +12800,6 @@ proxy.smartstore.naver.com
 proxy02.pop.ord.plex.bz
 prt.nu
 prtimes.jp
-prvt.mobi
 prz.pw
 ps.software.eu.playstation.com
 ps2media.ign.com
@@ -12988,7 +12986,6 @@ qnvhd.sbs
 qnxuw.sbs
 qo.dk
 qogbv.sbs
-qoo.ly
 qos.gcloud.qq.com
 qos.hk.gcloudcs.com
 qos1.ol.epicgames.com
@@ -13484,6 +13481,7 @@ road.adblock.ro
 roadandtrack.com
 roar.media
 robertdray2.live
+robloxgroup.life
 robloxtech.live
 robul.saas.workertm.com
 rochester.edu
@@ -14281,6 +14279,7 @@ shop.samsung.com.edgekey.net
 shop.skype.com
 shopapi.io.mi.com
 shope.ee
+shopeedeals.sale
 shopifie.com
 shopify.com
 shopifystorekms.life
@@ -14678,6 +14677,7 @@ snahp.it
 snap.com
 snapchat-payments-gateway.snapchat.com
 snapchat.com
+snapchats.life
 snapdeal.com
 snapi.live.net
 snappublisher.snapchat.com
@@ -17221,6 +17221,7 @@ view.status.xbox.com
 view.vzaar.com
 vigilink.com
 viglink.com
+vim-tiktok.live
 vimeo.com
 vincenaja46.live
 vine.co

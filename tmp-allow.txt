@@ -3058,6 +3058,7 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
+@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||im.alimebot.taobao.com^
@@ -4463,6 +4464,7 @@
 @@||mysp.ac^
 @@||mysurl.com^
 @@||mytd.cc^
+@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -4658,7 +4660,6 @@
 @@||oal.lu^
 @@||oaxyteek.net^
 @@||obank.tw^
-@@||obblink.com^
 @@||ocaslots.live^
 @@||ock.cn^
 @@||ocsp.apple.com^
@@ -4728,7 +4729,6 @@
 @@||oneany.shop^
 @@||onelink.me^
 @@||onelink.to^
-@@||onelovepalmbeaches.life^
 @@||onenetworkdirect.net^
 @@||onepl.us^
 @@||onforb.es^
@@ -4947,7 +4947,6 @@
 @@||petterihollander.live^
 @@||pew.org^
 @@||pewrsr.ch^
-@@||pferrer15.info^
 @@||pfga0.market.xiaomi.com^
 @@||pg-bootstrap.itunes.apple.com^
 @@||pg3d.app^
@@ -5131,7 +5130,6 @@
 @@||pros.is^
 @@||pros.si^
 @@||prt.nu^
-@@||prvt.mobi^
 @@||prz.pw^
 @@||psce.pw^
 @@||pse.is^
@@ -5220,7 +5218,6 @@
 @@||qnxuw.sbs^
 @@||qo.dk^
 @@||qogbv.sbs^
-@@||qoo.ly^
 @@||qossl.com^
 @@||qowrk.com^
 @@||qq-web.cdn-go.cn^
@@ -5496,6 +5493,7 @@
 @@||ro-go.kelkoogroup.net^
 @@||ro.blox.com^
 @@||robertdray2.live^
+@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rog.gg^
@@ -5800,6 +5798,7 @@
 @@||shop-ify-store-km.life^
 @@||shop-links.co^
 @@||shope.ee^
+@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopifystorekms.life^
 @@||shoplarryherndon115.life^
@@ -6086,6 +6085,7 @@
 @@||smu.gs^
 @@||smurl.link^
 @@||sn.im^
+@@||snapchats.life^
 @@||snapt.io^
 @@||snar.co^
 @@||snd.sc^
@@ -7312,6 +7312,7 @@
 @@||view.helpline-app.com^
 @@||view.inews.qq.com^$important
 @@||vigilink.com^
+@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
