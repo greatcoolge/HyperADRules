@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 04 May 2025 22:07 UTC
-! Version: 2025.0504.2207.36
+! Last modified: 05 May 2025 12:27 UTC
+! Version: 2025.0505.1227.53
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -4498,7 +4498,6 @@
 @@||thekrew.net^
 @@||thekreww.com^
 @@||thelegends.land^
-@@||thelily.fun^
 @@||thenews24h.tech^
 @@||theogsocialnetwork.live^
 @@||thesa.us^
@@ -4528,7 +4527,6 @@
 @@||tiger388.life^
 @@||tiger77.monster^
 @@||tighturl.com^
-@@||tihkc.pics^
 @@||tik.la^
 @@||tik.lat^
 @@||tik.lol^
@@ -4588,7 +4586,6 @@
 @@||tiurl.link^
 @@||tixxh.com^
 @@||tj.wtf^
-@@||tkjzd.pics^
 @@||tklinks.com^
 @@||tktwb.tw^
 @@||tkz.es^
@@ -4721,10 +4718,8 @@
 @@||tvonlineappitv.life^
 @@||tvonlineappitv.live^
 @@||tvote.org^
-@@||tvpfb.mom^
 @@||tvss.jp^
 @@||tvt.lat^
-@@||tvuak.lol^
 @@||tw.sv^
 @@||tw.uy^
 @@||twb.nz^
@@ -4756,7 +4751,6 @@
 @@||txul.cn^
 @@||ty.gy^
 @@||tylervisionary.live^
-@@||tyny.to^
 @@||u.nu^
 @@||u.to^
 @@||u-rl.li^
@@ -4974,7 +4968,6 @@
 @@||uucc.cc^
 @@||uudta.com^
 @@||uufso.sbs^
-@@||uuhsj.lol^
 @@||uurl.icu^
 @@||uurml.top^
 @@||uuz.cc^
@@ -5002,14 +4995,11 @@
 @@||vcwvb.com^
 @@||vd55.com^
 @@||vdio.pro^
-@@||vdsnw.mom^
 @@||vea.link^
-@@||veall.mom^
 @@||vehi.co^
 @@||vena.sh^
 @@||vendoagora.live^
 @@||vercel.link^
-@@||vercels.app^
 @@||verd.in^
 @@||veshort.com^
 @@||vfnzvr.com^
@@ -5026,6 +5016,7 @@
 @@||vid.lu^
 @@||videopro.live^
 @@||vigilink.com^
+@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
@@ -5190,7 +5181,6 @@
 @@||white-maw.info^
 @@||whoel.se^
 @@||whr.tn^
-@@||whts.cc^
 @@||whyiwu.com^
 @@||wi.se^
 @@||wideo.fr^
@@ -5282,10 +5272,8 @@
 @@||xbx.lv^
 @@||xbxti.sbs^
 @@||url.xcode.no^
-@@||xcser.pics^
 @@||xdsnht.com^
 @@||xdu.me^
-@@||xep.li^
 @@||xerox.bz^
 @@||xezlk.sbs^
 @@||2u.xf.cz^
@@ -5375,10 +5363,8 @@
 @@||yewwss.com^
 @@||yex.tt^
 @@||yfrog.com^
-@@||ygmri.lat^
 @@||ygudy.com^
 @@||yh6.us^
-@@||yhjjx.mom^
 @@||yhoo.it^
 @@||yhpdh.top^
 @@||yhtuw.sbs^
