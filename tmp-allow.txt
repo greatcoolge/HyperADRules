@@ -115,6 +115,7 @@
 @@||1shop.io^
 @@||1short.io^
 @@||1shortlink.com^
+@@||1stgop.co^
 @@||1sturl.com^
 @@||1tian.kuaishou.com^
 @@||1tk.us^
@@ -411,6 +412,7 @@
 @@||ablink.mail.parkmobile.io^
 @@||abnb.me^
 @@||aboutmywebsite.com^
+@@||abpl.top^
 @@||abr.ai^
 @@||abr.to^
 @@||abre-videos.cdn1122.com^
@@ -947,7 +949,10 @@
 @@||aptg.tw^
 @@||apticirl.com^
 @@||apurl.in^
+@@||apzjp.com^
+@@||apzjp.sbs^
 @@||apzones.com^
+@@||aqehb.com^
 @@||arab.news^
 @@||arah.in^
 @@||arc.ht^
@@ -1016,6 +1021,8 @@
 @@||autode.sk^
 @@||autolink.live^
 @@||autolinkmaker.itunes.apple.com^
+@@||auyoa.com^
+@@||auyyb.com^
 @@||avantlink.com^
 @@||avatar.coolapk.com^
 @@||avatar.csdnimg.cn^
@@ -1071,6 +1078,7 @@
 @@||b33.fr^
 @@||b54.in^
 @@||b7.tel^
+@@||b808.bet^
 @@||babblecase.com^
 @@||bad.news^
 @@||bafrv.top^
@@ -1564,6 +1572,7 @@
 @@||cibel.sbs^
 @@||cin.ci^
 @@||cindora.club^
+@@||cinecom.info^
 @@||circle.ci^
 @@||cirk.me^
 @@||cisn.co^
@@ -1706,6 +1715,7 @@
 @@||clr.tax^
 @@||cls-ingest.itunes.apple.com^
 @@||cls-iosclient.itunes.apple.com^
+@@||cluml.sbs^
 @@||clvr.rocks^
 @@||clymont.live^
 @@||cm-h.phncdn.com^
@@ -1889,7 +1899,10 @@
 @@||cv-h.phncdn.com^
 @@||cvcpl.us^
 @@||cvent.me^
+@@||cvfmiij.wiki^
+@@||cviqs.com^
 @@||cvs.co^
+@@||cwg.li^
 @@||cy8.co^
 @@||cya.nz^
 @@||cyb.ec^
@@ -2033,6 +2046,7 @@
 @@||directorytechstoragepoint.directory^
 @@||dis.gd^
 @@||dis.tl^
+@@||disanspam.life^
 @@||discover.com^
 @@||discover.tt.omtrdc.net^
 @@||discovercard.com^
@@ -2236,10 +2250,12 @@
 @@||edu.nl^
 @@||eeatu.com^
 @@||eepurl.com^
+@@||eeztk.top^
 @@||eezy99.live^
 @@||efe.snssdk.com^
 @@||effde.sbs^
 @@||efie.co^
+@@||eflsb.com^
 @@||efraising.org^
 @@||efs.link^
 @@||efshop.tw^
@@ -2314,6 +2330,7 @@
 @@||engt.co^
 @@||enshom.link^
 @@||entm.ag^
+@@||entryurl.com^
 @@||envs.sh^
 @@||epicwin138.life^
 @@||eplt.net^
@@ -5992,8 +6009,12 @@
 @@||qicute.com^
 @@||qidian.gtimg.com^
 @@||qiye.163.com^
+@@||qiyel.sbs^
+@@||qjccl.com^
 @@||qk.lc^
 @@||qksrv.net^
+@@||qkvlk.com^
+@@||qlbnk.com^
 @@||qlink.pro^
 @@||qlnk.net^
 @@||qlogo.cn^$important
@@ -6217,6 +6238,7 @@
 @@||redsto.ne^
 @@||redu.it^
 @@||reducelnk.com^
+@@||redvt.cc^
 @@||reel.io^
 @@||ref.so^
 @@||ref11.top^
@@ -7277,6 +7299,7 @@
 @@||swifttopia.com^
 @@||switchy.io^
 @@||swiy.co^
+@@||swjdf.top^
 @@||swll.to^
 @@||swoo.sh^
 @@||swr1.cc^
@@ -7530,6 +7553,8 @@
 @@||tg.pe^
 @@||tgam.ca^
 @@||tgbe.link^
+@@||tgcv.top^
+@@||tgdgacor.com^
 @@||tgr.ph^
 @@||thandisozynobiahlongwanes.life^
 @@||thaniel.life^
@@ -7654,6 +7679,7 @@
 @@||tiurl.link^
 @@||tixxh.com^
 @@||tj.wtf^
+@@||tjazih.com^
 @@||tklinks.com^
 @@||tkqlhce.com^
 @@||tktwb.tw^
@@ -7718,6 +7744,8 @@
 @@||top.17173.com^
 @@||topfiften.com^
 @@||toplistt.com^
+@@||topsitus.com^
+@@||topsubcvelens.life^
 @@||topt.al^
 @@||topurl.link^
 @@||tot.hoyoverse.com^
@@ -7889,6 +7917,8 @@
 @@||txdl.top^
 @@||txhih.sbs^
 @@||txmov2.a.kwimgs.com^
+@@||txtme-live.co.uk^
+@@||txtr.cc^
 @@||txul.cn^
 @@||txwk.10010.com^
 @@||txxx.ahcdn.com^
@@ -8226,6 +8256,9 @@
 @@||vfo.voyage-prive.co.uk^
 @@||vgnx.co^
 @@||vgoaa.com^
+@@||vgwrm.com^
+@@||vhcae.com^
+@@||vhdgx.sbs^
 @@||vi.sa^
 @@||vi.tc^
 @@||via.placeholder.com^
@@ -8249,7 +8282,6 @@
 @@||view.helpline-app.com^
 @@||view.inews.qq.com^$important
 @@||vigilink.com^
-@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
@@ -8448,6 +8480,8 @@
 @@||whoel.se^
 @@||whois.cloud.tencent.com^
 @@||whr.tn^
+@@||whs.link^
+@@||whxce.sbs^
 @@||whyiwu.com^
 @@||wi.se^
 @@||wideo.fr^
@@ -8486,6 +8520,7 @@
 @@||wo.ws^
 @@||woflpackciye.com^
 @@||wolftravels.live^
+@@||wolg.top^
 @@||wonderl.ink^
 @@||wooo.tw^
 @@||wordmovies.live^
@@ -8657,6 +8692,7 @@
 @@||wxsnsdy.wxs.qq.com^
 @@||wy.si^
 @@||wyyw.de^
+@@||wyzvs.sbs^
 @@||x-d.me^
 @@||x-i.me^
 @@||x.bestcheck.de^
@@ -8818,6 +8854,12 @@
 @@||youtu.be^$important
 @@||youtube-nocookie.com
 @@||youtubei.googleapis.com^$important
+@@||yozzc.com^
+@@||yprmu.sbs^
+@@||yqonx.com^
+@@||yrjfu.sbs^
+@@||yrtie.sbs^
+@@||yruxd.sbs^
 @@||ysear.ch^
 @@||ysf.qiyukf.net^
 @@||yts.nu^
@@ -8849,6 +8891,7 @@
 @@||zaq.be^
 @@||zaya.io^
 @@||zbgtd.biz^
+@@||zbitly.com^
 @@||zbszy.lol^
 @@||zc.vg^
 @@||zcays.com^
@@ -8908,6 +8951,7 @@
 @@||zlra.co^
 @@||zlw.re^
 @@||zlwpq.com^
+@@||znly.in^
 @@||znt.bz^
 @@||zo.cm^
 @@||zodgame.xyz^

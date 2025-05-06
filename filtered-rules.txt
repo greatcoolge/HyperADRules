@@ -166,6 +166,7 @@
 1shop.io
 1short.io
 1shortlink.com
+1stgop.co
 1storecatalogrevocation.storequality.microsoft.com
 1sturl.com
 1tian.kuaishou.com
@@ -651,6 +652,7 @@ about.medium.com
 about.pinterest.com
 aboutcookies.org
 aboutmywebsite.com
+abpl.top
 abr.ai
 abr.to
 abre-videos.cdn1122.com
@@ -2463,7 +2465,10 @@ apt.sonarr.tv
 aptg.tw
 apticirl.com
 apurl.in
+apzjp.com
+apzjp.sbs
 apzones.com
+aqehb.com
 aquacard.co.uk
 ar-ar.about.flipboard.com
 ar.gravatar.com
@@ -2703,6 +2708,8 @@ autodiscover.funimation.com
 autolink.live
 autolinkmaker.itunes.apple.com
 autos.plus.google.com
+auyoa.com
+auyyb.com
 av.me
 avantlink.com
 avast.com
@@ -2802,6 +2809,7 @@ b33.fr
 b54.in
 b6.me
 b7.tel
+b808.bet
 babblecase.com
 babybus.com
 back4.2giga.link
@@ -4186,6 +4194,7 @@ cifraclub.com.br
 cimage.adobe.com
 cin.ci
 cindora.club
+cinecom.info
 cipater.soundcloud.com
 circle.ci
 cirk.me
@@ -4397,6 +4406,7 @@ cls-iosclient.itunes.apple.com
 clu.sonymobile.com
 club.huawei.com
 clubedohardware.com.br
+cluml.sbs
 clvr.rocks
 clymont.live
 cm-01-ams1.cm.steampowered.com
@@ -4903,12 +4913,15 @@ cv-h.phncdn.com
 cv.phncdn.com
 cvcpl.us
 cvent.me
+cvfmiij.wiki
+cviqs.com
 cvp.twitch.tv
 cvp1.cdn.turner.com
 cvs.adobe.com
 cvs.co
 cvs.com
 cw.phncdn.com
+cwg.li
 cws.conviva.com
 cwtv-mrss-akamai.cwtv.com
 cwtv-prod-elb.digitalsmiths.net
@@ -5315,6 +5328,7 @@ directvnow.com
 dirtywarez.com
 dis.gd
 dis.tl
+disanspam.life
 disclose.tv
 discord.com
 discord.gg
@@ -5814,11 +5828,13 @@ eeatu.com
 eek.us
 eepurl.com
 eeurl.com
+eeztk.top
 eezy99.live
 efe.snssdk.com
 eff.org
 effde.sbs
 efie.co
+eflsb.com
 efraising.org
 efs.link
 efshop.tw
@@ -5989,6 +6005,7 @@ entm.ag
 entpsz.alipay.com
 entrepreneur.com
 entry-at.line.me
+entryurl.com
 envs.sh
 eo.wikipedia.com
 eonline.com
@@ -13757,9 +13774,13 @@ qiniuts.com
 qiuziti.com
 qiye.163.com
 qiye.xiaomi.com
+qiyel.sbs
 qiyukf.com
+qjccl.com
 qk.lc
 qksrv.net
+qkvlk.com
+qlbnk.com
 qlink.pro
 qlnk.net
 qm.qq.co
@@ -14104,6 +14125,7 @@ redsto.ne
 redtube.com
 redu.it
 reducelnk.com
+redvt.cc
 reebok.com
 reel.io
 ref.in
@@ -16443,6 +16465,7 @@ swifttopia.com
 swipedright.gotinder.com
 switchy.io
 swiy.co
+swjdf.top
 swll.to
 swoo.sh
 swpinger.wip4.adobe.com
@@ -16831,6 +16854,8 @@ tg1.premium.db4.wix.com
 tg1.premium.dc11.wix.com
 tgam.ca
 tgbe.link
+tgcv.top
+tgdgacor.com
 tgr.ph
 th.gravatar.com
 th.pinduoduo.com
@@ -17030,6 +17055,7 @@ tiurl.link
 tixxh.com
 tj-in-f14.1e100.net
 tj.wtf
+tjazih.com
 tklinks.com
 tkqlhce.com
 tktwb.tw
@@ -17133,6 +17159,8 @@ topics.breitbart.com
 topics.spot.im
 toplistt.com
 topratedmilfs.com
+topsitus.com
+topsubcvelens.life
 topt.al
 toptenreviews.com
 topurl.link
@@ -17447,6 +17475,8 @@ txdl.top
 txhih.sbs
 txmov2.a.kwimgs.com
 txt.go.sohu.com
+txtme-live.co.uk
+txtr.cc
 txul.cn
 txwk.10010.com
 txxx.ahcdn.com
@@ -18073,6 +18103,9 @@ vfo.voyage-prive.co.uk
 vgfiles.nabstudio.com
 vgnx.co
 vgoaa.com
+vgwrm.com
+vhcae.com
+vhdgx.sbs
 vi-vn.about.flipboard.com
 vi.gravatar.com
 vi.sa
@@ -18157,7 +18190,6 @@ view.status.xbox.com
 view.vzaar.com
 vigilink.com
 viglink.com
-vim-tiktok.live
 vimeo.com
 vincenaja46.live
 vine.co
@@ -18591,6 +18623,8 @@ whoisentry.com
 whoismind.com
 whoisprivacyprotect.com
 whr.tn
+whs.link
+whxce.sbs
 whyiwu.com
 wi.se
 wi.tl
@@ -18709,6 +18743,7 @@ wnvwm.top
 wo.ws
 woflpackciye.com
 wolftravels.live
+wolg.top
 wololo.net
 womenshealthmag.com
 wonderl.ink
@@ -20322,6 +20357,7 @@ wykop.pl
 wyspagier.pl
 wywy.com
 wyyw.de
+wyzvs.sbs
 x-d.me
 x-i.me
 x.bestcheck.de
@@ -20575,7 +20611,13 @@ youtube-nocookie.com
 youtube-ui.l.google.com
 youtube.com
 youtubei.googleapis.com
+yozzc.com
+yprmu.sbs
 yql.yahoo.com
+yqonx.com
+yrjfu.sbs
+yrtie.sbs
+yruxd.sbs
 ysear.ch
 ysf.qiyukf.net
 yt.vu
@@ -20636,6 +20678,7 @@ zaya.io
 zazhipu.com
 zb.mi.com
 zbgtd.biz
+zbitly.com
 zbszy.lol
 zc.vg
 zcays.com
@@ -20729,6 +20772,7 @@ zlr.my
 zlra.co
 zlw.re
 zlwpq.com
+znly.in
 znt.bz
 zo.cm
 zobj.net

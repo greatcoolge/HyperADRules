@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 05 May 2025 12:27 UTC
-! Version: 2025.0505.1227.53
+! Last modified: 05 May 2025 22:09 UTC
+! Version: 2025.0505.2209.11
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -79,6 +79,7 @@
 @@||1shop.io^
 @@||1short.io^
 @@||1shortlink.com^
+@@||1stgop.co^
 @@||1sturl.com^
 @@||1tk.us^
 @@||1to3.link^
@@ -291,6 +292,7 @@
 @@||abit.ly^
 @@||abnb.me^
 @@||aboutmywebsite.com^
+@@||abpl.top^
 @@||abr.ai^
 @@||abr.to^
 @@||abre.ai^
@@ -504,6 +506,9 @@
 @@||aptg.tw^
 @@||apticirl.com^
 @@||apurl.in^
+@@||apzjp.com^
+@@||apzjp.sbs^
+@@||aqehb.com^
 @@||arab.news^
 @@||arah.in^
 @@||arc.ht^
@@ -552,6 +557,8 @@
 @@||author.to^
 @@||autode.sk^
 @@||autolink.live^
+@@||auyoa.com^
+@@||auyyb.com^
 @@||avbc.me^
 @@||aveerro.com^
 @@||aven.ga^
@@ -593,6 +600,7 @@
 @@||b33.fr^
 @@||b54.in^
 @@||b7.tel^
+@@||b808.bet^
 @@||babblecase.com^
 @@||bafrv.top^
 @@||baid.us^
@@ -965,6 +973,7 @@
 @@||cibel.sbs^
 @@||cin.ci^
 @@||cindora.club^
+@@||cinecom.info^
 @@||circle.ci^
 @@||cirk.me^
 @@||cisn.co^
@@ -1014,6 +1023,7 @@
 @@||cloudtechlinks.com^
 @@||clourls.com^
 @@||clr.tax^
+@@||cluml.sbs^
 @@||clvr.rocks^
 @@||clymont.live^
 @@||cmon.co^
@@ -1044,6 +1054,7 @@
 @@||shortlinks.co.uk^
 @@||shorturls.co.uk^
 @@||trimlink.co.uk^
+@@||txtme-live.co.uk^
 @@||url.co.uk^
 @@||urlshortener.co.uk^
 @@||wapurl.co.uk^
@@ -1158,7 +1169,10 @@
 @@||cuty.io^
 @@||cvcpl.us^
 @@||cvent.me^
+@@||cvfmiij.wiki^
+@@||cviqs.com^
 @@||cvs.co^
+@@||cwg.li^
 @@||go.cwtv.com^
 @@||cy8.co^
 @@||cya.nz^
@@ -1272,6 +1286,7 @@
 @@||directorytechstoragepoint.directory^
 @@||dis.gd^
 @@||dis.tl^
+@@||disanspam.life^
 @@||discvr.co^
 @@||disq.us^
 @@||distinct-rp.live^
@@ -1421,9 +1436,11 @@
 @@||eeatu.com^
 @@||url.eefocus.com^
 @@||eepurl.com^
+@@||eeztk.top^
 @@||eezy99.live^
 @@||effde.sbs^
 @@||efie.co^
+@@||eflsb.com^
 @@||efraising.org^
 @@||efs.link^
 @@||efshop.tw^
@@ -1460,6 +1477,7 @@
 @@||engt.co^
 @@||enshom.link^
 @@||entm.ag^
+@@||entryurl.com^
 @@||envs.sh^
 @@||epicwin138.life^
 @@||eplt.net^
@@ -3587,8 +3605,12 @@
 @@||qcutul2702.life^
 @@||qd.rs^
 @@||qicute.com^
+@@||qiyel.sbs^
+@@||qjccl.com^
 @@||jobs.qjobsindia.com^
 @@||qk.lc^
+@@||qkvlk.com^
+@@||qlbnk.com^
 @@||qlink.pro^
 @@||qlnk.net^
 @@||qnap.to^
@@ -3719,6 +3741,7 @@
 @@||redsto.ne^
 @@||redu.it^
 @@||reducelnk.com^
+@@||redvt.cc^
 @@||reel.io^
 @@||ref.so^
 @@||ref11.top^
@@ -4383,6 +4406,7 @@
 @@||swifttopia.com^
 @@||switchy.io^
 @@||swiy.co^
+@@||swjdf.top^
 @@||swll.to^
 @@||swoo.sh^
 @@||swr1.cc^
@@ -4478,6 +4502,8 @@
 @@||tg.pe^
 @@||tgam.ca^
 @@||tgbe.link^
+@@||tgcv.top^
+@@||tgdgacor.com^
 @@||tgr.ph^
 @@||thandisozynobiahlongwanes.life^
 @@||thaniel.life^
@@ -4586,6 +4612,7 @@
 @@||tiurl.link^
 @@||tixxh.com^
 @@||tj.wtf^
+@@||tjazih.com^
 @@||tklinks.com^
 @@||tktwb.tw^
 @@||tkz.es^
@@ -4641,6 +4668,8 @@
 @@||tonyr.co^
 @@||topfiften.com^
 @@||toplistt.com^
+@@||topsitus.com^
+@@||topsubcvelens.life^
 @@||topt.al^
 @@||topurl.link^
 @@||toui.cc^
@@ -4748,6 +4777,7 @@
 @@||tx0.org^
 @@||txdl.top^
 @@||txhih.sbs^
+@@||txtr.cc^
 @@||txul.cn^
 @@||ty.gy^
 @@||tylervisionary.live^
@@ -5005,6 +5035,9 @@
 @@||vfnzvr.com^
 @@||vgnx.co^
 @@||vgoaa.com^
+@@||vgwrm.com^
+@@||vhcae.com^
+@@||vhdgx.sbs^
 @@||url.vhearts.net^
 @@||vi.sa^
 @@||vi.tc^
@@ -5016,7 +5049,6 @@
 @@||vid.lu^
 @@||videopro.live^
 @@||vigilink.com^
-@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
@@ -5181,6 +5213,8 @@
 @@||white-maw.info^
 @@||whoel.se^
 @@||whr.tn^
+@@||whs.link^
+@@||whxce.sbs^
 @@||whyiwu.com^
 @@||wi.se^
 @@||wideo.fr^
@@ -5213,6 +5247,7 @@
 @@||wo.ws^
 @@||woflpackciye.com^
 @@||wolftravels.live^
+@@||wolg.top^
 @@||wonderl.ink^
 @@||wooo.tw^
 @@||wordmovies.live^
@@ -5255,6 +5290,7 @@
 @@||wxdib.sbs^
 @@||wy.si^
 @@||wyyw.de^
+@@||wyzvs.sbs^
 @@||x.co^
 @@||x.gd^
 @@||x.nu^
@@ -5390,6 +5426,12 @@
 @@||yourls.org^
 @@||yourmovie.co^
 @@||yourwish.es^
+@@||yozzc.com^
+@@||yprmu.sbs^
+@@||yqonx.com^
+@@||yrjfu.sbs^
+@@||yrtie.sbs^
+@@||yruxd.sbs^
 @@||ysear.ch^
 @@||yts.nu^
 @@||ytube.io^
@@ -5417,6 +5459,7 @@
 @@||zaya.io^
 @@||s.zazuko.com^
 @@||zbgtd.biz^
+@@||zbitly.com^
 @@||zbszy.lol^
 @@||zc.vg^
 @@||zcays.com^
@@ -5468,6 +5511,7 @@
 @@||zlra.co^
 @@||zlw.re^
 @@||zlwpq.com^
+@@||znly.in^
 @@||znt.bz^
 @@||zo.cm^
 @@||link.zodia.studio^
