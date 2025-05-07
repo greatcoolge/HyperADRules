@@ -631,7 +631,6 @@
 @@||aax-us-cpm.amazon-adsystem.amazon.com^
 @@||aax-us-east-retail-direct.amazon-adsystem.com^
 @@||aax-us-east-retail-direct.amazon.com^
-@@||aax-us-east-wtd.amazon-adsystem.amazon.com^
 @@||aax-us-east.amazon.com^
 @@||aax-us-iad.amazon.com^
 @@||aax-us-ott.amazon-adsystem.amazon.com^
@@ -641,7 +640,6 @@
 @@||aax.amazon-adsystem.amazon.com^
 @@||aaxdebugger-iad.iad.proxy.amazon.com^
 @@||aaxdebugger-tool.corp.amazon.com^
-@@||aaxs-north-1-1-1-prod-prod.s.advertising.amazon.cn^
 @@||ab.co^
 @@||ab1n.net^
 @@||abar.in^
@@ -5707,6 +5705,7 @@
 @@||drte.co^
 @@||drunks.life^
 @@||drupal.org^
+@@||drutki.com^
 @@||druuz.com^
 @@||drw.sh^
 @@||ds.163.com^
@@ -8439,6 +8438,7 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
+@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||iltalehti.fi^
@@ -11075,12 +11075,10 @@
 @@||mkto-ab020120.com^
 @@||mkto-ab020223.com^
 @@||mkto-ab020242.com^
-@@||mkto-ab030010.com^
 @@||mkto-ab030019.com^
 @@||mkto-ab030030.com^
 @@||mkto-ab030084.com^
 @@||mkto-ab030222.com^
-@@||mkto-ab030250.com^
 @@||mkto-ab040018.com^
 @@||mkto-ab040115.com^
 @@||mkto-ab040147.com^
@@ -11424,7 +11422,6 @@
 @@||mkto-d0024.com^
 @@||mkto-d0064.com^
 @@||mkto-d0083.com^
-@@||mkto-d0087.com^
 @@||mkto-d0170.com^
 @@||mkto-d0177.com^
 @@||mkto-e0231.com^
@@ -11528,7 +11525,6 @@
 @@||mkto-sj020159.com^
 @@||mkto-sj020171.com^
 @@||mkto-sj020238.com^
-@@||mkto-sj030022.com^
 @@||mkto-sj030081.com^
 @@||mkto-sj030085.com^
 @@||mkto-sj030161.com^
@@ -11543,7 +11539,6 @@
 @@||mkto-sj040259.com^
 @@||mkto-sj040261.com^
 @@||mkto-sj050055.com^
-@@||mkto-sj050060.com^
 @@||mkto-sj050070.com^
 @@||mkto-sj050105.com^
 @@||mkto-sj050126.com^
@@ -11555,7 +11550,6 @@
 @@||mkto-sj060063.com^
 @@||mkto-sj060080.com^
 @@||mkto-sj060081.com^
-@@||mkto-sj070017.com^
 @@||mkto-sj070130.com^
 @@||mkto-sj070214.com^
 @@||mkto-sj070218.com^
@@ -11738,7 +11732,6 @@
 @@||mkto-sjn0077.com^
 @@||mkto-sjo0017.com^
 @@||mkto-sjp0019.com^
-@@||mkto-sjp0243.com^
 @@||mkto-sn030071.com^
 @@||mkto-sn030121.com^
 @@||mkto-sn030149.com^
@@ -11746,7 +11739,6 @@
 @@||mkto-sn030201.com^
 @@||mkto-sn050141.com^
 @@||mkto-sn060144.com^
-@@||mkto-ssl.com^
 @@||mkto-test.com^
 @@||mkto-trk.cisco.com^
 @@||mktoweb.com^
@@ -12142,6 +12134,7 @@
 @@||mysupport.sonymobile.com^
 @@||mysurl.com^
 @@||mytd.cc^
+@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -14549,6 +14542,7 @@
 @@||roadandtrack.com^
 @@||roar.media^
 @@||robertdray2.live^
+@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rochester.edu^
@@ -15398,6 +15392,7 @@
 @@||shop.skype.com^
 @@||shopapi.io.mi.com^
 @@||shope.ee^
+@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopify.com^
 @@||shopifystorekms.life^
@@ -15798,6 +15793,7 @@
 @@||snap.com^
 @@||snapchat-payments-gateway.snapchat.com^
 @@||snapchat.com^
+@@||snapchats.life^
 @@||snapdeal.com^
 @@||snapi.live.net^
 @@||snappublisher.snapchat.com^
@@ -16979,6 +16975,7 @@
 @@||tawk.link^
 @@||tawk.to^
 @@||taxi.line.me^
+@@||taythi.life^
 @@||tb.cn.hn^
 @@||tb.himg.baidu.com^
 @@||tbb.tw^
@@ -17609,6 +17606,7 @@
 @@||tst.page^
 @@||tsta.rs^
 @@||tsz4.me^
+@@||tt5k.site^
 @@||ttad.me^
 @@||ttppk.info^
 @@||ttrewards.com^
@@ -18445,6 +18443,7 @@
 @@||view.vzaar.com^
 @@||vigilink.com^
 @@||viglink.com^
+@@||vim-tiktok.live^
 @@||vimeo.com^
 @@||vincenaja46.live^
 @@||vine.co^

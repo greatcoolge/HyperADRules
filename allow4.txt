@@ -4,10 +4,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 05 May 2025 10:55 UTC
-! Version: 2025.0505.1055.33
+! Last modified: 06 May 2025 11:07 UTC
+! Version: 2025.0506.1107.38
 ! Syntax: AdBlock
-! Number of entries: 1726
+! Number of entries: 1716
 !
 @@||l.1mp.ru^
 @@||t.1und1.de^
@@ -85,7 +85,6 @@
 @@||aax-us-iad.amazon.com^
 @@||aax-us-pdx.amazon.com^
 @@||aax-us-west.amazon.com^
-@@||aaxs-north-1-1-1-prod-prod.s.advertising.amazon.cn^
 @@||aax.amazon-adsystem.amazon.com^
 @@||aax-dtb-cf.amazon-adsystem.amazon.com^
 @@||aax-dtb-legacy.amazon-adsystem.amazon.com^
@@ -96,7 +95,6 @@
 @@||aax-ott-sdk.amazon-adsystem.amazon.com^
 @@||aax-us.amazon-adsystem.amazon.com^
 @@||aax-us-cpm.amazon-adsystem.amazon.com^
-@@||aax-us-east-wtd.amazon-adsystem.amazon.com^
 @@||aax-us-ott.amazon-adsystem.amazon.com^
 @@||assoc-redirect.amazon.com^
 @@||aax-console.corp.amazon.com^
@@ -678,12 +676,10 @@
 @@||mkto-ab020120.com^
 @@||mkto-ab020223.com^
 @@||mkto-ab020242.com^
-@@||mkto-ab030010.com^
 @@||mkto-ab030019.com^
 @@||mkto-ab030030.com^
 @@||mkto-ab030084.com^
 @@||mkto-ab030222.com^
-@@||mkto-ab030250.com^
 @@||mkto-ab040018.com^
 @@||mkto-ab040115.com^
 @@||mkto-ab040147.com^
@@ -1027,7 +1023,6 @@
 @@||mkto-d0024.com^
 @@||mkto-d0064.com^
 @@||mkto-d0083.com^
-@@||mkto-d0087.com^
 @@||mkto-d0170.com^
 @@||mkto-d0177.com^
 @@||mkto-e0231.com^
@@ -1126,7 +1121,6 @@
 @@||mkto-sj020159.com^
 @@||mkto-sj020171.com^
 @@||mkto-sj020238.com^
-@@||mkto-sj030022.com^
 @@||mkto-sj030081.com^
 @@||mkto-sj030085.com^
 @@||mkto-sj030161.com^
@@ -1141,7 +1135,6 @@
 @@||mkto-sj040259.com^
 @@||mkto-sj040261.com^
 @@||mkto-sj050055.com^
-@@||mkto-sj050060.com^
 @@||mkto-sj050070.com^
 @@||mkto-sj050105.com^
 @@||mkto-sj050126.com^
@@ -1153,7 +1146,6 @@
 @@||mkto-sj060063.com^
 @@||mkto-sj060080.com^
 @@||mkto-sj060081.com^
-@@||mkto-sj070017.com^
 @@||mkto-sj070130.com^
 @@||mkto-sj070214.com^
 @@||mkto-sj070218.com^
@@ -1336,7 +1328,6 @@
 @@||mkto-sjn0077.com^
 @@||mkto-sjo0017.com^
 @@||mkto-sjp0019.com^
-@@||mkto-sjp0243.com^
 @@||mkto-sn030071.com^
 @@||mkto-sn030121.com^
 @@||mkto-sn030149.com^
@@ -1344,7 +1335,6 @@
 @@||mkto-sn030201.com^
 @@||mkto-sn050141.com^
 @@||mkto-sn060144.com^
-@@||mkto-ssl.com^
 @@||mkto-test.com^
 @@||mktoweb.com^
 @@||click.mlsend.com^
