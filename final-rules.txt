@@ -2524,7 +2524,9 @@
 @@||apzones.com^
 @@||aqehb.com^
 @@||aquacard.co.uk^
+@@||aqyne.com^
 @@||ar-ar.about.flipboard.com^
+@@||ar-technology.live^
 @@||ar.gravatar.com^
 @@||ar.wikipedia.com^
 @@||arab.news^
@@ -3734,6 +3736,7 @@
 @@||cash4share.com^
 @@||cashier.ele.me^
 @@||cashurl.win^
+@@||casinurl.io^
 @@||casio.link^
 @@||cast-1.soundcloud.com^
 @@||cast.netflix.com^
@@ -5836,6 +5839,7 @@
 @@||earnshorter.com^
 @@||earth.google.com^
 @@||earthlink.net^
+@@||earthtoday.info^
 @@||easyanticheat.net^
 @@||easybytez.com^
 @@||easycut.io^
@@ -6908,6 +6912,7 @@
 @@||fustat.ospserver.net^
 @@||future.techcrunch.com^
 @@||fuxi.163.com^
+@@||fvglvsex.lol^
 @@||fvrr.co^
 @@||fvs.io^
 @@||fw.ax^
@@ -8438,7 +8443,6 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
-@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||iltalehti.fi^
@@ -9090,7 +9094,6 @@
 @@||jikipedia.com^
 @@||jilislots.life^
 @@||jimdo.com^
-@@||jio.sh^
 @@||jioconnect.com^
 @@||jiotv.catchup.cdn.jio.com^
 @@||jiotv.data.cdn.jio.com^
@@ -12134,7 +12137,6 @@
 @@||mysupport.sonymobile.com^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -14542,7 +14544,6 @@
 @@||roadandtrack.com^
 @@||roar.media^
 @@||robertdray2.live^
-@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rochester.edu^
@@ -15392,7 +15393,6 @@
 @@||shop.skype.com^
 @@||shopapi.io.mi.com^
 @@||shope.ee^
-@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopify.com^
 @@||shopifystorekms.life^
@@ -15793,7 +15793,6 @@
 @@||snap.com^
 @@||snapchat-payments-gateway.snapchat.com^
 @@||snapchat.com^
-@@||snapchats.life^
 @@||snapdeal.com^
 @@||snapi.live.net^
 @@||snappublisher.snapchat.com^
@@ -17608,6 +17607,7 @@
 @@||tsz4.me^
 @@||tt5k.site^
 @@||ttad.me^
+@@||ttcoa.sbs^
 @@||ttppk.info^
 @@||ttrewards.com^
 @@||tuasaude.com^
@@ -17618,6 +17618,7 @@
 @@||tucowsdomains.com^
 @@||tudou.com^
 @@||tufts-medicine-transportation-hub.org^
+@@||tuhny.com^
 @@||tulinks.online^
 @@||tumblr.com^
 @@||tunein.com^
@@ -18443,7 +18444,6 @@
 @@||view.vzaar.com^
 @@||vigilink.com^
 @@||viglink.com^
-@@||vim-tiktok.live^
 @@||vimeo.com^
 @@||vincenaja46.live^
 @@||vine.co^
@@ -20734,7 +20734,11 @@
 @@||xn--ngstr-lra8j.com^$important
 @@||xn--ul-ksa.eu^
 @@||xoe.cz^
+@@||xoizm.com^
+@@||xojby.com^
+@@||xompu.sbs^
 @@||xomtraydo.live^
+@@||xoptt.com^
 @@||xor.tw^
 @@||xortly.com^
 @@||xoxourl.com^
@@ -20968,6 +20972,7 @@
 @@||zcays.com^
 @@||zcbprod.alipay.com^
 @@||zcmglobal.v.bsgslb.cn^
+@@||zcoep.sbs^
 @@||zconfig.alibabausercontent.com^
 @@||zctz.me^
 @@||zcu.io^

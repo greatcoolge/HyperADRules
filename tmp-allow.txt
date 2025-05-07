@@ -951,6 +951,8 @@
 @@||apzjp.sbs^
 @@||apzones.com^
 @@||aqehb.com^
+@@||aqyne.com^
+@@||ar-technology.live^
 @@||arab.news^
 @@||arah.in^
 @@||arc.ht^
@@ -1439,6 +1441,7 @@
 @@||casale-match.dotomi.com^
 @@||cash4share.com^
 @@||cashurl.win^
+@@||casinurl.io^
 @@||casio.link^
 @@||casualient.com^
 @@||casvi.sbs^
@@ -2221,6 +2224,7 @@
 @@||ea.galerieslafayette.com^
 @@||earn4link.in^
 @@||earnshorter.com^
+@@||earthtoday.info^
 @@||easycut.io^
 @@||easyuri.com^
 @@||easyurl.net^
@@ -2588,6 +2592,7 @@
 @@||fur.ly^
 @@||furl.in^
 @@||fuxi.163.com^
+@@||fvglvsex.lol^
 @@||fvrr.co^
 @@||fvs.io^
 @@||fw.ax^
@@ -3218,7 +3223,6 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
-@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||im.alimebot.taobao.com^
@@ -3446,7 +3450,6 @@
 @@||jijr.com^
 @@||jikipedia.com^
 @@||jilislots.life^
-@@||jio.sh^
 @@||jiourl.com^
 @@||jipu.info^
 @@||jkf.lv^
@@ -5256,7 +5259,6 @@
 @@||mysp.ac^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -6347,7 +6349,6 @@
 @@||ro-go.kelkoogroup.net^
 @@||ro.blox.com^
 @@||robertdray2.live^
-@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||roclcdfab.cc.rs6.net^
@@ -6699,7 +6700,6 @@
 @@||shop-ify-store-km.life^
 @@||shop-links.co^
 @@||shope.ee^
-@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopifystorekms.life^
 @@||shoplarryherndon115.life^
@@ -6986,7 +6986,6 @@
 @@||smu.gs^
 @@||smurl.link^
 @@||sn.im^
-@@||snapchats.life^
 @@||snapt.io^
 @@||snar.co^
 @@||snd.sc^
@@ -7866,9 +7865,11 @@
 @@||tsz4.me^
 @@||tt5k.site^
 @@||ttad.me^
+@@||ttcoa.sbs^
 @@||ttppk.info^
 @@||ttrewards.com^
 @@||tufts-medicine-transportation-hub.org^
+@@||tuhny.com^
 @@||tulinks.online^
 @@||turboagram.com^
 @@||turhi.com^
@@ -8280,7 +8281,6 @@
 @@||view.helpline-app.com^
 @@||view.inews.qq.com^$important
 @@||vigilink.com^
-@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
@@ -8743,7 +8743,11 @@
 @@||xn--ngstr-lra8j.com^$important
 @@||xn--ul-ksa.eu^
 @@||xoe.cz^
+@@||xoizm.com^
+@@||xojby.com^
+@@||xompu.sbs^
 @@||xomtraydo.live^
+@@||xoptt.com^
 @@||xor.tw^
 @@||xortly.com^
 @@||xoxourl.com^
@@ -8894,6 +8898,7 @@
 @@||zbszy.lol^
 @@||zc.vg^
 @@||zcays.com^
+@@||zcoep.sbs^
 @@||zctz.me^
 @@||zcu.io^
 @@||zcwer.com^

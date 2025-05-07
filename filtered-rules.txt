@@ -2468,7 +2468,9 @@ apzjp.sbs
 apzones.com
 aqehb.com
 aquacard.co.uk
+aqyne.com
 ar-ar.about.flipboard.com
+ar-technology.live
 ar.gravatar.com
 ar.wikipedia.com
 arab.news
@@ -3666,6 +3668,7 @@ casale-match.dotomi.com
 cash4share.com
 cashier.ele.me
 cashurl.win
+casinurl.io
 casio.link
 cast-1.soundcloud.com
 cast.netflix.com
@@ -5730,6 +5733,7 @@ earn4link.in
 earnshorter.com
 earth.google.com
 earthlink.net
+earthtoday.info
 easyanticheat.net
 easybytez.com
 easycut.io
@@ -6791,6 +6795,7 @@ furl.in
 fustat.ospserver.net
 future.techcrunch.com
 fuxi.163.com
+fvglvsex.lol
 fvrr.co
 fvs.io
 fw.ax
@@ -8307,7 +8312,6 @@ ilinky.info
 ilix.in
 ilk.ir
 illin.is
-illuminatiracers.live
 iln.io
 ilnk.io
 iltalehti.fi
@@ -8947,7 +8951,6 @@ jijr.com
 jikipedia.com
 jilislots.life
 jimdo.com
-jio.sh
 jioconnect.com
 jiotv.catchup.cdn.jio.com
 jiotv.data.cdn.jio.com
@@ -11958,7 +11961,6 @@ mysql.com
 mysupport.sonymobile.com
 mysurl.com
 mytd.cc
-mytiktok.life
 mytinycheck9.life
 mytoluwalemi.life
 mytorus.live
@@ -14334,7 +14336,6 @@ road.adblock.ro
 roadandtrack.com
 roar.media
 robertdray2.live
-robloxgroup.life
 robloxtech.live
 robul.saas.workertm.com
 rochester.edu
@@ -15179,7 +15180,6 @@ shop.samsung.com.edgekey.net
 shop.skype.com
 shopapi.io.mi.com
 shope.ee
-shopeedeals.sale
 shopifie.com
 shopify.com
 shopifystorekms.life
@@ -15577,7 +15577,6 @@ snahp.it
 snap.com
 snapchat-payments-gateway.snapchat.com
 snapchat.com
-snapchats.life
 snapdeal.com
 snapi.live.net
 snappublisher.snapchat.com
@@ -17367,6 +17366,7 @@ tsta.rs
 tsz4.me
 tt5k.site
 ttad.me
+ttcoa.sbs
 ttppk.info
 ttrewards.com
 tuasaude.com
@@ -17377,6 +17377,7 @@ tucows.com
 tucowsdomains.com
 tudou.com
 tufts-medicine-transportation-hub.org
+tuhny.com
 tulinks.online
 tumblr.com
 tunein.com
@@ -18188,7 +18189,6 @@ view.status.xbox.com
 view.vzaar.com
 vigilink.com
 viglink.com
-vim-tiktok.live
 vimeo.com
 vincenaja46.live
 vine.co
@@ -20457,7 +20457,11 @@ xn--mes358aby2apfg.com
 xn--ms8h.st
 xn--ul-ksa.eu
 xoe.cz
+xoizm.com
+xojby.com
+xompu.sbs
 xomtraydo.live
+xoptt.com
 xor.tw
 xortly.com
 xoxourl.com
@@ -20683,6 +20687,7 @@ zc.vg
 zcays.com
 zcbprod.alipay.com
 zcmglobal.v.bsgslb.cn
+zcoep.sbs
 zconfig.alibabausercontent.com
 zctz.me
 zcu.io
