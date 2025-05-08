@@ -243,12 +243,10 @@
 @@||a1014.g.akamai.net^
 @@||a2zapk.com^
 @@||a4.mzstatic.com^
-@@||a463.w10.akamai.net^
 @@||a48823c7ec3cf4539564-60c534a1284a12ce74ef84032e9b4e46.ssl.cf1.rackcdn.com^
 @@||a5.behance.net^
 @@||a57.foxnews.com^
 @@||a652.dscb.akamai.net^
-@@||a790.w16.akamai.net^
 @@||a90.g.akamai.net^
 @@||aatkit.com^
 @@||abbreviations.com^
@@ -1130,7 +1128,6 @@
 @@||amp.usatoday.com^
 @@||amped.co.uk^
 @@||amplitude.com^
-@@||amzn.com^
 @@||amzn.to^
 @@||ana.fr^
 @@||analytics.agoda.com^
@@ -2492,7 +2489,6 @@
 @@||cdn.radiantmediatechs.com^
 @@||cdn.ravenjs.com^
 @@||cdn.rawgit.com^
-@@||cdn.refersion.com^
 @@||cdn.samsung.com.edgekey.net^
 @@||cdn.samsung.com^
 @@||cdn.samsungcloudsolution.com ^
@@ -2539,7 +2535,6 @@
 @@||cdn1.digitaltrends.com^
 @@||cdn1.friendbuy.com^
 @@||cdn1.hubspot.net^
-@@||cdn1.smartadserver.com^
 @@||cdn1.xda-developers.com^
 @@||cdn13.com^
 @@||cdn2.airfind.com^
@@ -3369,7 +3364,6 @@
 @@||desktopfw.weather.com^
 @@||desktops.engadget.com^
 @@||destinilocators.com^
-@@||det-ta-g7g.amazon.com^
 @@||detectportal.firefox.com^
 @@||detik.com^
 @@||dev-findmymobile.samsung.com^
@@ -3412,7 +3406,6 @@
 @@||developers.wechat.com^
 @@||deviantart.com^
 @@||device-api.urbanairship.com^
-@@||device-messaging-na.amazon.com^
 @@||device-metrics-us-2.amazon.com^
 @@||device-metrics-us.amazon.com^
 @@||device-provisioning.googleapis.com^
@@ -3636,7 +3629,6 @@
 @@||dp.blog.naver.com^
 @@||dp8hsntg6do36.cloudfront.net^
 @@||dpimg.ospserver.net^
-@@||dpm.demdex.net^
 @@||dramafever.com^
 @@||draw.io^
 @@||dreamhost.com^
@@ -3655,7 +3647,6 @@
 @@||ds.download.windowsupdate.com^
 @@||ds.prod.vidible.tv^
 @@||dsm.ok.ru^
-@@||dsms0mj1bbhn4.cloudfront.net^
 @@||dsp.brand.sogou.com^
 @@||dstik9906m659.cloudfront.net^
 @@||dts.podtrac.com^
@@ -3709,7 +3700,6 @@
 @@||e3489.cd.akamaiedge.net^
 @@||e4478.a.akamaiedge.net^
 @@||e5298.g.akamaiedge.net^
-@@||e7065.e2.akamaiedge.net^
 @@||e8.org^
 @@||e8318.dsca.akamaiedge.net^
 @@||ea.co^
@@ -4699,7 +4689,6 @@
 @@||goo.ne.jp^
 @@||goodolddownloads.com^
 @@||goodreads.com^
-@@||google-analytics.com^
 @@||google.ac^
 @@||google.ad^
 @@||google.ae^
@@ -4939,7 +4928,6 @@
 @@||grammarly.io^
 @@||graph.accountkit.com^
 @@||graph.facebook.com^
-@@||graph.instagram.com^
 @@||graph.microsoft.com^
 @@||graph.qq.com^
 @@||graphite-sscm.sec.miui.com^
@@ -6524,7 +6512,6 @@
 @@||m.weather.gov^
 @@||m.webmd.com^
 @@||m.wechat.com^
-@@||m.weeklyad.target.com^
 @@||m.weibo.com^
 @@||m.whitehouse.gov^
 @@||m.who.is^
@@ -7449,7 +7436,6 @@
 @@||ocsp.int-x4.letsencrypt.org^
 @@||ocsp.msocsp.com^
 @@||ocsp.pki.goog^
-@@||ocsp.rootg2.amazontrust.com^
 @@||ocsp.sca1b.amazontrust.com^
 @@||ocsp.sectigo.com^
 @@||ocsp.ssl.com^
@@ -8331,7 +8317,6 @@
 @@||refer.wordpress.com^
 @@||reference.com^
 @@||referrer.disqus.com^
-@@||refersion.com^
 @@||reg-indosat.lotusflare.com^
 @@||reg.biv.sony.tv^
 @@||reg.ebay.com^
@@ -8902,7 +8887,6 @@
 @@||share.naver.com^
 @@||share.viber.com^
 @@||share.weiyun.com^
-@@||shareaholic.com^
 @@||shareandembed.help.soundcloud.com^
 @@||sharepoint.com^
 @@||shavar.prod.mozaws.net^
@@ -9211,7 +9195,6 @@
 @@||ssl-cdn.static.browser.mi-img.com^
 @@||ssl-images-amazon.com^
 @@||ssl.bblck.me^
-@@||ssl.google-analytics.com^
 @@||ssl.gstatic.com^
 @@||ssl.marfeelcdn.com^
 @@||ssl.msdk.qq.com^
@@ -9915,7 +9898,6 @@
 @@||tnl-dash.com.edgesuite.net^
 @@||today.com^
 @@||today.line.me^
-@@||todo-ta-g7g.amazon.com^
 @@||tofukko.r.ribbon.to^
 @@||token-dispenser-mirror.herokuapp.com^
 @@||token-dispenser.duckdns.org^
@@ -10149,7 +10131,6 @@
 @@||umiwi.com^
 @@||umn.edu^
 @@||un.org^
-@@||unagi-na.amazon.com^
 @@||unbouncepages.com^
 @@||unc.edu^
 @@||und.weg.ist.sie.com^
@@ -10250,7 +10231,6 @@
 @@||us-api.samsungyosemite.com^
 @@||us-central1-gcp.api.snapchat.com^
 @@||us-cert.gov^
-@@||us-east-1.amazonaws.com^
 @@||us-evnt-edge.np.community.playstation.net^
 @@||us-gmsg.np.community.playstation.net^
 @@||us-ivt.np.community.playstation.net^
@@ -11316,7 +11296,6 @@
 @@||www.goldmoney.com^
 @@||www.goodolddownloads.com^
 @@||www.goodreads.com^
-@@||www.google-analytics.com^
 @@||www.google.ac^
 @@||www.google.ad^
 @@||www.google.ae^
@@ -11921,7 +11900,6 @@
 @@||www.rediff.com^
 @@||www.redirectingat.com^
 @@||www.reference.com^
-@@||www.refersion.com^
 @@||www.reg.ru^
 @@||www.reimageplus.com^
 @@||www.rentry.co^
