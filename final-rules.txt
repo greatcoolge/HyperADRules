@@ -4164,7 +4164,6 @@
 @@||chatdepot.twitch.tv^
 @@||chatenabled.mail.google.com^
 @@||chatlounge-preview.xbox.com^
-@@||chatmely.com^
 @@||chatrouter-verizon.inq.com^
 @@||chats.viber.com^
 @@||chbusiness.samsung.com^
@@ -4482,6 +4481,7 @@
 @@||cmts.iqiyi.com^
 @@||cmu.edu^
 @@||cmu.is^
+@@||cmvsc.com^
 @@||cmy.tw^
 @@||cn.app.chat.xiaomi.net^
 @@||cn.app.chat.xiaomi.net^$important
@@ -4858,6 +4858,7 @@
 @@||crwd.fr^
 @@||crwd.in^
 @@||crwdstr.ke^
+@@||cry-pto.life^
 @@||cryoutcreations.eu^
 @@||crypsante.com^
 @@||cryptoguide.website^
@@ -6286,6 +6287,7 @@
 @@||extratorrent.com^
 @@||exx.us^
 @@||eyq.me^
+@@||eyud.top^
 @@||ez1.cc^
 @@||ezbz.me^
 @@||ezexzo.link^
@@ -8393,7 +8395,6 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
-@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||iltalehti.fi^
@@ -8889,7 +8890,6 @@
 @@||iscool.net^
 @@||isee.weishi.qq.com^
 @@||iservice.fuzelfiles.com^
-@@||ishort.ink^
 @@||islamweb.net^
 @@||isols.co^
 @@||isot2024.live^
@@ -12077,7 +12077,6 @@
 @@||mysupport.sonymobile.com^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -14476,7 +14475,6 @@
 @@||roadandtrack.com^
 @@||roar.media^
 @@||robertdray2.live^
-@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rochester.edu^
@@ -15322,7 +15320,6 @@
 @@||shop.skype.com^
 @@||shopapi.io.mi.com^
 @@||shope.ee^
-@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopify.com^
 @@||shopifystorekms.life^
@@ -15723,7 +15720,6 @@
 @@||snap.com^
 @@||snapchat-payments-gateway.snapchat.com^
 @@||snapchat.com^
-@@||snapchats.life^
 @@||snapdeal.com^
 @@||snapi.live.net^
 @@||snappublisher.snapchat.com^
@@ -18361,7 +18357,6 @@
 @@||view.vzaar.com^
 @@||vigilink.com^
 @@||viglink.com^
-@@||vim-tiktok.live^
 @@||vimeo.com^
 @@||vincenaja46.live^
 @@||vine.co^
@@ -18931,6 +18926,7 @@
 @@||wonderl.ink^
 @@||woniu.com^
 @@||woodpecker.uc.cn^
+@@||woofq.sbs^
 @@||woolworths.com.au^
 @@||woolworthsgiftcardstore.com.au^
 @@||wooo.tw^
@@ -20665,6 +20661,7 @@
 @@||xperiakeyboard.sonymobile.com^
 @@||xperialounge.sonymobile.com^
 @@||xpixl.me^
+@@||xpmas.sbs^
 @@||xpr.li^
 @@||xprt.re^
 @@||xqn.163.com^
@@ -20991,6 +20988,7 @@
 @@||zom.io^
 @@||zona.media^
 @@||zoneurl.net^
+@@||zonwu.sbs^
 @@||zoodl.com^
 @@||zoominfo.com^
 @@||zoosnet.net^

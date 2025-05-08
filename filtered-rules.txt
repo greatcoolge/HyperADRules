@@ -4089,7 +4089,6 @@ chatapi.viber.com
 chatdepot.twitch.tv
 chatenabled.mail.google.com
 chatlounge-preview.xbox.com
-chatmely.com
 chatrouter-verizon.inq.com
 chats.viber.com
 chbusiness.samsung.com
@@ -4403,6 +4402,7 @@ cms.techrepublic.com
 cmts.iqiyi.com
 cmu.edu
 cmu.is
+cmvsc.com
 cmy.tw
 cn.app.chat.xiaomi.net
 cn.bing.com
@@ -4769,6 +4769,7 @@ crvw.ru
 crwd.fr
 crwd.in
 crwdstr.ke
+cry-pto.life
 cryoutcreations.eu
 crypsante.com
 cryptoguide.website
@@ -6178,6 +6179,7 @@ extratorrent.cc
 extratorrent.com
 exx.us
 eyq.me
+eyud.top
 ez1.cc
 ezbz.me
 ezexzo.link
@@ -8261,7 +8263,6 @@ ilinky.info
 ilix.in
 ilk.ir
 illin.is
-illuminatiracers.live
 iln.io
 ilnk.io
 iltalehti.fi
@@ -8747,7 +8748,6 @@ isc-vn.org
 iscool.net
 isee.weishi.qq.com
 iservice.fuzelfiles.com
-ishort.ink
 islamweb.net
 isols.co
 isot2024.live
@@ -11901,7 +11901,6 @@ mysql.com
 mysupport.sonymobile.com
 mysurl.com
 mytd.cc
-mytiktok.life
 mytinycheck9.life
 mytoluwalemi.life
 mytorus.live
@@ -14268,7 +14267,6 @@ road.adblock.ro
 roadandtrack.com
 roar.media
 robertdray2.live
-robloxgroup.life
 robloxtech.live
 robul.saas.workertm.com
 rochester.edu
@@ -15109,7 +15107,6 @@ shop.samsung.com.edgekey.net
 shop.skype.com
 shopapi.io.mi.com
 shope.ee
-shopeedeals.sale
 shopifie.com
 shopify.com
 shopifystorekms.life
@@ -15507,7 +15504,6 @@ snahp.it
 snap.com
 snapchat-payments-gateway.snapchat.com
 snapchat.com
-snapchats.life
 snapdeal.com
 snapi.live.net
 snappublisher.snapchat.com
@@ -18106,7 +18102,6 @@ view.status.xbox.com
 view.vzaar.com
 vigilink.com
 viglink.com
-vim-tiktok.live
 vimeo.com
 vincenaja46.live
 vine.co
@@ -18666,6 +18661,7 @@ womenshealthmag.com
 wonderl.ink
 woniu.com
 woodpecker.uc.cn
+woofq.sbs
 woolworths.com.au
 woolworthsgiftcardstore.com.au
 wooo.tw
@@ -20388,6 +20384,7 @@ xpdll.nirsoft.net
 xperiakeyboard.sonymobile.com
 xperialounge.sonymobile.com
 xpixl.me
+xpmas.sbs
 xpr.li
 xprt.re
 xqn.163.com
@@ -20704,6 +20701,7 @@ zom.ink
 zom.io
 zona.media
 zoneurl.net
+zonwu.sbs
 zoodl.com
 zoominfo.com
 zoosnet.net
