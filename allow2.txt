@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 08 May 2025 13:30 UTC
-! Version: 2025.0508.1330.37
+! Last modified: 08 May 2025 22:13 UTC
+! Version: 2025.0508.2213.43
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -1785,6 +1785,7 @@
 @@||gfuel.ly^
 @@||gfxa.top^
 @@||ggle.io^
+@@||gglink.site^
 @@||s.ggwp.be^
 @@||gh.io^
 @@||ghalida.info^
@@ -5068,7 +5069,6 @@
 @@||vid.lu^
 @@||videopro.live^
 @@||vigilink.com^
-@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
@@ -5239,6 +5239,7 @@
 @@||whyiwu.com^
 @@||wi.se^
 @@||wideo.fr^
+@@||widyh.com^
 @@||wig.ht^
 @@||s.wikicharlie.cl^
 @@||peercertification.wildalwhite.com^
