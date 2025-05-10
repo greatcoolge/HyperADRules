@@ -4,10 +4,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 08 May 2025 21:38 UTC
-! Version: 2025.0508.2138.03
+! Last modified: 09 May 2025 21:40 UTC
+! Version: 2025.0509.2140.00
 ! Syntax: AdBlock
-! Number of entries: 766
+! Number of entries: 760
 !
 @@||l.1mp.ru^
 @@||t.1und1.de^
@@ -63,6 +63,7 @@
 @@||aax-eu.amazon.in^
 @@||aax-eu.amazon.it^
 @@||aax-eu.amazon.nl^
+@@||aax-eu.amazon.sa^
 @@||aax-fe.amazon.sg^
 @@||aax-us-east-retail-direct.amazon.com^
 @@||aax-us-iad.amazon.com^
@@ -238,21 +239,20 @@
 @@||list-unsubscribe.eservice.emarsys.net^
 @@||redirector.eservice.emarsys.net^
 @@||suite-dashboard.gservice.emarsys.net^
-@@||suite.emarsys.net^
 @@||suite10.emarsys.net^
 @@||suite11.emarsys.net^
 @@||suite16.emarsys.net^
 @@||suite17.emarsys.net^
 @@||suite22.emarsys.net^
+@@||suite24.emarsys.net^
 @@||suite27.emarsys.net^
 @@||suite29.emarsys.net^
 @@||suite30.emarsys.net^
 @@||suite32.emarsys.net^
-@@||suite32-cf.emarsys.net^
 @@||suite33.emarsys.net^
+@@||suite34.emarsys.net^
 @@||suite38.emarsys.net^
 @@||suite40.emarsys.net^
-@@||suite45.emarsys.net^
 @@||suite54.emarsys.net^
 @@||suite56.emarsys.net^
 @@||suite57.emarsys.net^
@@ -280,6 +280,7 @@
 @@||s12.exacttarget.com^
 @@||s13.exacttarget.com^
 @@||s4.exacttarget.com^
+@@||s5.exacttarget.com^
 @@||s50.exacttarget.com^
 @@||s51.exacttarget.com^
 @@||s6.exacttarget.com^
@@ -291,7 +292,6 @@
 @@||cdn.eu1.exponea.com^
 @@||cdn.ftspecialist.exponea.com^
 @@||cdn.network.exponea.com^
-@@||ri-cdn.exponea.com^
 @@||cdn.uk.exponea.com^
 @@||cdn.us1.exponea.com^
 @@||l.facebook.com^
@@ -418,15 +418,14 @@
 @@||email.microsoft.com^
 @@||go.microsoft.com^
 @@||target.microsoft.com^
-@@||click.email.microsoftemail.com^
-@@||image.email.microsoftemail.com^
-@@||view.email.microsoftemail.com^
+@@||email.microsoftemail.com^
 @@||email.microsoftonline.com^
 @@||links.mkt41.net^
 @@||mkto-a0095.com^
 @@||mkto-ab020242.com^
 @@||mkto-ab040115.com^
 @@||mkto-ab040147.com^
+@@||mkto-ab060134.com^
 @@||mkto-ab060144.com^
 @@||mkto-ab070017.com^
 @@||mkto-ab080206.com^
@@ -436,20 +435,17 @@
 @@||mkto-ab210104.com^
 @@||mkto-ab220178.com^
 @@||mkto-ab250105.com^
-@@||mkto-ab280067.com^
 @@||mkto-ab280126.com^
 @@||mkto-ab300154.com^
 @@||mkto-ab310115.com^
 @@||mkto-ab330197.com^
 @@||mkto-ab340022.com^
-@@||mkto-ab350042.com^
 @@||mkto-ab420081.com^
+@@||mkto-ab440098.com^
 @@||mkto-ab470148.com^
-@@||mkto-ab500174.com^
 @@||mkto-ab520004.com^
 @@||mkto-ab530057.com^
 @@||mkto-ab540059.com^
-@@||mkto-ab540143.com^
 @@||mkto-ab540186.com^
 @@||mkto-ab550140.com^
 @@||mkto-ab550168.com^
@@ -490,11 +486,13 @@
 @@||mkto-sj230006.com^
 @@||mkto-sj240021.com^
 @@||mkto-sj270080.com^
+@@||mkto-sj300121.com^
 @@||mkto-sj310061.com^
 @@||mkto-sj310186.com^
 @@||mkto-sj320047.com^
 @@||mkto-sj330006.com^
 @@||mkto-sj360142.com^
+@@||mkto-test.com^
 @@||mktoweb.com^
 @@||click.mlsend.com^
 @@||t.mmtrkr.com^
@@ -592,10 +590,8 @@
 @@||r5waxhbbb.cc.rs6.net^
 @@||r6lccqnab.cc.rs6.net^
 @@||r7avxrcab.cc.rs6.net^
-@@||r88lcbcab.cc.rs6.net^
-@@||rblz6kyab.cc.rs6.net^
+@@||rb6paw8ab.cc.rs6.net^
 @@||rgkkzvdab.cc.rs6.net^
-@@||rismehabb.cc.rs6.net^
 @@||rjpz4ucab.cc.rs6.net^
 @@||rq6agxabb.cc.rs6.net^
 @@||rtaw7vebb.cc.rs6.net^
@@ -745,12 +741,10 @@
 @@||tc.tradetracker.net^
 @@||ti.tradetracker.net^
 @@||tm.tradetracker.net^
-@@||ts.tradetracker.net^
 @@||api.traq.li^
 @@||secure.traqkarr.com^
 @@||track.connect.travelaudience.com^
 @@||analytics.trustyou.com^
-@@||analytics-eu.trustyou.com^
 @@||tracking.truthfinder.com^
 @@||clicks.trx-hub.com^
 @@||analytics.twitter.com^
