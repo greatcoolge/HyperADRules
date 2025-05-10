@@ -87,9 +87,7 @@ wait
 
 cat allow*.txt | grep -v '#' | sed '/^[[:space:]]*$/d' \
 | grep -v '!' | grep -P -v '[\x80-\xFF]' \
-| grep -v '\$important' \
-| sed -E 's/^@@([a-zA-Z0-9.-]+)$/@@||\1^/' \
-| awk '!a[$0]++' | sort | uniq > tmp-allow.txt
+| sort -n | uniq | awk '!a[$0]++' > tmp-allow.txt
 wait
 
 
