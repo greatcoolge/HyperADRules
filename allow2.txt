@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 08 May 2025 22:13 UTC
-! Version: 2025.0508.2213.43
+! Last modified: 09 May 2025 10:14 UTC
+! Version: 2025.0509.1014.01
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -486,6 +486,7 @@
 @@||aol.it^
 @@||aon.io^
 @@||aorracer.com^
+@@||aozczwj.life^
 @@||ap.lc^
 @@||apb2.de^
 @@||apeltravel.info^
@@ -2127,6 +2128,7 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
+@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||imdb.to^
@@ -2605,7 +2607,6 @@
 @@||linkfuly.com^
 @@||linkgacor33.info^
 @@||linkgol88.com^
-@@||linkgqq.org^
 @@||linkgrab.top^
 @@||linkia.co^
 @@||linkifly.net^
@@ -2960,7 +2961,6 @@
 @@||mmccwilson.live^
 @@||mmk999.live^
 @@||mmo-it.com^
-@@||mmor.ir^
 @@||mmould44.life^
 @@||mmwzvo.com^
 @@||mmz.li^
@@ -3037,7 +3037,6 @@
 @@||mub.me^
 @@||mufv.info^
 @@||mujlb.com^
-@@||multishorturl.com^
 @@||mumy.me^
 @@||munbyn.biz^
 @@||murl.com^
@@ -3100,6 +3099,7 @@
 @@||mysp.ac^
 @@||mysurl.com^
 @@||mytd.cc^
+@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -3828,6 +3828,7 @@
 @@||rnm.me^
 @@||rntyu.com^
 @@||robertdray2.live^
+@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||rog.gg^
 @@||roge.rs^
@@ -4023,6 +4024,7 @@
 @@||shoort.io^
 @@||shop-ify-store-km.life^
 @@||shope.ee^
+@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopifystorekms.life^
 @@||shoplarryherndon115.life^
@@ -4274,6 +4276,7 @@
 @@||smu.gs^
 @@||smurl.link^
 @@||sn.im^
+@@||snapchats.life^
 @@||snapt.io^
 @@||snar.co^
 @@||snd.sc^
@@ -4992,6 +4995,7 @@
 @@||urlzen.com^
 @@||urlzs.com^
 @@||urlzs.in^
+@@||urppj.top^
 @@||urstoron.com^
 @@||urt.io^
 @@||urweb.net^
@@ -5069,6 +5073,7 @@
 @@||vid.lu^
 @@||videopro.live^
 @@||vigilink.com^
+@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
@@ -5328,6 +5333,7 @@
 @@||xajfl.com^
 @@||xb5.com^
 @@||xbhpd.com^
+@@||xbrch.com^
 @@||xbufi.com^
 @@||xbx.lv^
 @@||xbxti.sbs^
@@ -5430,6 +5436,7 @@
 @@||yepp.link^
 @@||yewwss.com^
 @@||yex.tt^
+@@||yfdxr.top^
 @@||yfrog.com^
 @@||ygudy.com^
 @@||yh6.us^

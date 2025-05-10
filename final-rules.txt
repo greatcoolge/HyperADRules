@@ -1843,6 +1843,7 @@
 @@||aomeitech.com^
 @@||aon.io^
 @@||aorracer.com^
+@@||aozczwj.life^
 @@||ap.cdn.survey.medallia.com^
 @@||ap.ign.com^
 @@||ap.lc^
@@ -8257,6 +8258,7 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
+@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||iltalehti.fi^
@@ -9655,7 +9657,6 @@
 @@||linkfuly.com^
 @@||linkgacor33.info^
 @@||linkgol88.com^
-@@||linkgqq.org^
 @@||linkgrab.top^
 @@||linkia.co^
 @@||linkifly.net^
@@ -10944,7 +10945,6 @@
 @@||mmg.whatsapp.net^
 @@||mmk999.live^
 @@||mmo-it.com^
-@@||mmor.ir^
 @@||mmould44.life^
 @@||mms-static.pddpic.com^
 @@||mms-static.pinduoduo.com^
@@ -11173,7 +11173,6 @@
 @@||mujlb.com^
 @@||multcloud.com^
 @@||multiscreen.samsung.com^
-@@||multishorturl.com^
 @@||multiup.org^
 @@||multiupload.com^
 @@||mumu.163.com^
@@ -11308,6 +11307,7 @@
 @@||mysupport.sonymobile.com^
 @@||mysurl.com^
 @@||mytd.cc^
+@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -13648,6 +13648,7 @@
 @@||roadandtrack.com^
 @@||roar.media^
 @@||robertdray2.live^
+@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rochester.edu^
@@ -14442,6 +14443,7 @@
 @@||shop.skype.com^
 @@||shopapi.io.mi.com^
 @@||shope.ee^
+@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopify.com^
 @@||shopifystorekms.life^
@@ -14839,6 +14841,7 @@
 @@||snap.com^
 @@||snapchat-payments-gateway.snapchat.com^
 @@||snapchat.com^
+@@||snapchats.life^
 @@||snapdeal.com^
 @@||snapi.live.net^
 @@||snappublisher.snapchat.com^
@@ -17082,6 +17085,7 @@
 @@||urlzen.com^
 @@||urlzs.com^
 @@||urlzs.in^
+@@||urppj.top^
 @@||urs.techrepublic.com^
 @@||urstoron.com^
 @@||urswebzj.nosdn.127.net^
@@ -17413,6 +17417,7 @@
 @@||view.vzaar.com^
 @@||vigilink.com^
 @@||viglink.com^
+@@||vim-tiktok.live^
 @@||vimeo.com^
 @@||vincenaja46.live^
 @@||vine.co^
@@ -19636,6 +19641,7 @@
 @@||xboxlive.com^
 @@||xboxmedia.ign.com^
 @@||xboxone.funimation.com^
+@@||xbrch.com^
 @@||xbufi.com^
 @@||xbx.lv^
 @@||xbxti.sbs^
@@ -19817,6 +19823,7 @@
 @@||yerl.org^
 @@||yewwss.com^
 @@||yex.tt^
+@@||yfdxr.top^
 @@||yfrog.com^
 @@||ygudy.com^
 @@||yh6.us^
