@@ -3046,7 +3046,6 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
-@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||im.alimebot.taobao.com^
@@ -4437,7 +4436,6 @@
 @@||mysp.ac^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -5459,7 +5457,6 @@
 @@||ro-go.kelkoogroup.net^
 @@||ro.blox.com^
 @@||robertdray2.live^
-@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rog.gg^
@@ -5757,7 +5754,6 @@
 @@||shop-ify-store-km.life^
 @@||shop-links.co^
 @@||shope.ee^
-@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopifystorekms.life^
 @@||shoplarryherndon115.life^
@@ -6040,7 +6036,6 @@
 @@||smu.gs^
 @@||smurl.link^
 @@||sn.im^
-@@||snapchats.life^
 @@||snapt.io^
 @@||snar.co^
 @@||snd.sc^
@@ -6817,7 +6812,6 @@
 @@||trimmer.to^
 @@||trims.me^
 @@||trimurl.co^
-@@||trisula88short.xyz^
 @@||trk.ecomm.lenovo.com^
 @@||trk.mg.aadvantageeshopping.com^
 @@||trk.musvccustom.net^
@@ -7066,7 +7060,6 @@
 @@||urlbit.co^
 @@||urlbox.cc^
 @@||urlbrief.com^
-@@||urlbunch.com^
 @@||urlchecker.info^
 @@||urlcover.com^
 @@||urlcut.com^
@@ -7261,7 +7254,6 @@
 @@||view.helpline-app.com^
 @@||view.inews.qq.com^$important
 @@||vigilink.com^
-@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
@@ -7759,7 +7751,6 @@
 @@||xsurl.eu^
 @@||xt3.me^
 @@||xtaxf.top^
-@@||xtra.li^
 @@||xtre.me^
 @@||xua.me^
 @@||xub.me^

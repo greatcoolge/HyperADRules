@@ -8258,7 +8258,6 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
-@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||iltalehti.fi^
@@ -11306,7 +11305,6 @@
 @@||mysupport.sonymobile.com^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -13643,7 +13641,6 @@
 @@||roadandtrack.com^
 @@||roar.media^
 @@||robertdray2.live^
-@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rochester.edu^
@@ -14438,7 +14435,6 @@
 @@||shop.skype.com^
 @@||shopapi.io.mi.com^
 @@||shope.ee^
-@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopify.com^
 @@||shopifystorekms.life^
@@ -14835,7 +14831,6 @@
 @@||snap.com^
 @@||snapchat-payments-gateway.snapchat.com^
 @@||snapchat.com^
-@@||snapchats.life^
 @@||snapdeal.com^
 @@||snapi.live.net^
 @@||snappublisher.snapchat.com^
@@ -16531,7 +16526,6 @@
 @@||tripadvisor.co.uk^
 @@||tripadvisor.com^
 @@||tripod.com^
-@@||trisula88short.xyz^
 @@||trk.cp20.com^
 @@||trk.ecomm.lenovo.com^
 @@||trk.klclick.com^
@@ -16995,7 +16989,6 @@
 @@||urlbit.co^
 @@||urlbox.cc^
 @@||urlbrief.com^
-@@||urlbunch.com^
 @@||urlchecker.info^
 @@||urlcover.com^
 @@||urlcut.com^
@@ -17408,7 +17401,6 @@
 @@||view.vzaar.com^
 @@||vigilink.com^
 @@||viglink.com^
-@@||vim-tiktok.live^
 @@||vimeo.com^
 @@||vincenaja46.live^
 @@||vine.co^
@@ -19739,7 +19731,6 @@
 @@||xt3.me^
 @@||xtaxf.top^
 @@||xtgem.com^
-@@||xtra.li^
 @@||xtre.me^
 @@||xua.me^
 @@||xub.me^

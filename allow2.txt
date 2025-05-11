@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 10 May 2025 10:06 UTC
-! Version: 2025.0510.1006.58
+! Last modified: 10 May 2025 22:07 UTC
+! Version: 2025.0510.2207.49
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -2128,7 +2128,6 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
-@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||imdb.to^
@@ -3099,7 +3098,6 @@
 @@||mysp.ac^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -3827,7 +3825,6 @@
 @@||rnm.me^
 @@||rntyu.com^
 @@||robertdray2.live^
-@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||rog.gg^
 @@||roge.rs^
@@ -4022,7 +4019,6 @@
 @@||shoort.io^
 @@||shop-ify-store-km.life^
 @@||shope.ee^
-@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopifystorekms.life^
 @@||shoplarryherndon115.life^
@@ -4273,7 +4269,6 @@
 @@||smu.gs^
 @@||smurl.link^
 @@||sn.im^
-@@||snapchats.life^
 @@||snapt.io^
 @@||snar.co^
 @@||snd.sc^
@@ -4728,7 +4723,6 @@
 @@||trimmer.to^
 @@||trims.me^
 @@||trimurl.co^
-@@||trisula88short.xyz^
 @@||trkr.ws^
 @@||trl.ca^
 @@||troasters.com^
@@ -4916,7 +4910,6 @@
 @@||urlbit.co^
 @@||urlbox.cc^
 @@||urlbrief.com^
-@@||urlbunch.com^
 @@||urlchecker.info^
 @@||urlcover.com^
 @@||urlcut.com^
@@ -5070,7 +5063,6 @@
 @@||vid.lu^
 @@||videopro.live^
 @@||vigilink.com^
-@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
@@ -5390,7 +5382,6 @@
 @@||xsurl.eu^
 @@||xt3.me^
 @@||xtaxf.top^
-@@||xtra.li^
 @@||xtre.me^
 @@||xua.me^
 @@||xub.me^
