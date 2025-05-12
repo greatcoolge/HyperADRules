@@ -8258,6 +8258,7 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
+@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||iltalehti.fi^
@@ -11305,6 +11306,7 @@
 @@||mysupport.sonymobile.com^
 @@||mysurl.com^
 @@||mytd.cc^
+@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -13641,6 +13643,7 @@
 @@||roadandtrack.com^
 @@||roar.media^
 @@||robertdray2.live^
+@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rochester.edu^
@@ -14435,6 +14438,7 @@
 @@||shop.skype.com^
 @@||shopapi.io.mi.com^
 @@||shope.ee^
+@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopify.com^
 @@||shopifystorekms.life^
@@ -14831,6 +14835,7 @@
 @@||snap.com^
 @@||snapchat-payments-gateway.snapchat.com^
 @@||snapchat.com^
+@@||snapchats.life^
 @@||snapdeal.com^
 @@||snapi.live.net^
 @@||snappublisher.snapchat.com^
@@ -17401,6 +17406,7 @@
 @@||view.vzaar.com^
 @@||vigilink.com^
 @@||viglink.com^
+@@||vim-tiktok.live^
 @@||vimeo.com^
 @@||vincenaja46.live^
 @@||vine.co^
@@ -19932,7 +19938,6 @@
 @@||zb.mi.com^
 @@||zbgtd.biz^
 @@||zbitly.com^
-@@||zbszy.lol^
 @@||zc.vg^
 @@||zcays.com^
 @@||zcbprod.alipay.com^
@@ -20011,7 +20016,6 @@
 @@||ziprecruiter.com^
 @@||zipurl.fr^
 @@||zipurl.link^
-@@||ziso.pw^
 @@||zisoj.cyou^
 @@||ziturl.com^
 @@||ziyuan.guwendao.net^
