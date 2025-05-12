@@ -4,10 +4,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 09 May 2025 21:40 UTC
-! Version: 2025.0509.2140.00
+! Last modified: 11 May 2025 21:49 UTC
+! Version: 2025.0511.2149.27
 ! Syntax: AdBlock
-! Number of entries: 760
+! Number of entries: 741
 !
 @@||l.1mp.ru^
 @@||t.1und1.de^
@@ -171,7 +171,6 @@
 @@||adservice.google.com.au^
 @@||adservice.google.com.br^
 @@||adservice.google.com.co^
-@@||adservice.google.com.ec^
 @@||adservice.google.com.eg^
 @@||adservice.google.com.gt^
 @@||adservice.google.com.hk^
@@ -201,7 +200,6 @@
 @@||createsend1.com^
 @@||click.mc.crimsontrace.com^
 @@||links.email.crunchbase.com^
-@@||m-gzmk5.custobar.com^
 @@||track.customer.io^
 @@||track-eu.customer.io^
 @@||track-sdk.customer.io^
@@ -238,29 +236,26 @@
 @@||profitshare.emag.ro^
 @@||list-unsubscribe.eservice.emarsys.net^
 @@||redirector.eservice.emarsys.net^
-@@||suite-dashboard.gservice.emarsys.net^
 @@||suite10.emarsys.net^
 @@||suite11.emarsys.net^
 @@||suite16.emarsys.net^
 @@||suite17.emarsys.net^
 @@||suite22.emarsys.net^
-@@||suite24.emarsys.net^
 @@||suite27.emarsys.net^
 @@||suite29.emarsys.net^
 @@||suite30.emarsys.net^
 @@||suite32.emarsys.net^
 @@||suite33.emarsys.net^
-@@||suite34.emarsys.net^
 @@||suite38.emarsys.net^
 @@||suite40.emarsys.net^
+@@||suite40-cf.emarsys.net^
+@@||suite45.emarsys.net^
 @@||suite54.emarsys.net^
-@@||suite56.emarsys.net^
 @@||suite57.emarsys.net^
 @@||suite58.emarsys.net^
 @@||suite59.emarsys.net^
 @@||suite63.emarsys.net^
 @@||suite67-cf.emarsys.net^
-@@||suite7.emarsys.net^
 @@||suite9.emarsys.net^
 @@||emjcd.com^
 @@||t.en25.com^
@@ -272,8 +267,6 @@
 @@||evyy.net^
 @@||m.exactag.com^
 @@||tp-emea.exactag.com^
-@@||s11.login.exacttarget.com^
-@@||s13.login.exacttarget.com^
 @@||s1.exacttarget.com^
 @@||s10.exacttarget.com^
 @@||s11.exacttarget.com^
@@ -288,6 +281,7 @@
 @@||s8.exacttarget.com^
 @@||cl.exct.net^
 @@||click.e.usa.experian.com^
+@@||amway-cdn.exponea.com^
 @@||cdn.exponea.com^
 @@||cdn.eu1.exponea.com^
 @@||cdn.ftspecialist.exponea.com^
@@ -346,6 +340,7 @@
 @@||sites.hscoscdn20.net^
 @@||sites.hscoscdn30.net^
 @@||sites.hscoscdn40.net^
+@@||sites.hscoscdnqa-eu1.net^
 @@||api.hubapi.com^
 @@||api-eu1.hubapi.com^
 @@||api-na1.hubapi.com^
@@ -418,32 +413,26 @@
 @@||email.microsoft.com^
 @@||go.microsoft.com^
 @@||target.microsoft.com^
-@@||email.microsoftemail.com^
+@@||click.email.microsoftemail.com^
+@@||image.email.microsoftemail.com^
+@@||view.email.microsoftemail.com^
 @@||email.microsoftonline.com^
 @@||links.mkt41.net^
 @@||mkto-a0095.com^
-@@||mkto-ab020242.com^
 @@||mkto-ab040115.com^
 @@||mkto-ab040147.com^
-@@||mkto-ab060134.com^
-@@||mkto-ab060144.com^
 @@||mkto-ab070017.com^
 @@||mkto-ab080206.com^
-@@||mkto-ab150224.com^
 @@||mkto-ab180008.com^
 @@||mkto-ab200065.com^
 @@||mkto-ab210104.com^
 @@||mkto-ab220178.com^
 @@||mkto-ab250105.com^
-@@||mkto-ab280126.com^
 @@||mkto-ab300154.com^
 @@||mkto-ab310115.com^
-@@||mkto-ab330197.com^
 @@||mkto-ab340022.com^
 @@||mkto-ab420081.com^
-@@||mkto-ab440098.com^
 @@||mkto-ab470148.com^
-@@||mkto-ab520004.com^
 @@||mkto-ab530057.com^
 @@||mkto-ab540059.com^
 @@||mkto-ab540186.com^
@@ -451,7 +440,6 @@
 @@||mkto-ab550168.com^
 @@||mkto-ab560068.com^
 @@||mkto-ab570110.com^
-@@||mkto-ab640193.com^
 @@||mkto-ab650097.com^
 @@||mkto-ab660121.com^
 @@||mkto-ab690011.com^
@@ -473,25 +461,19 @@
 @@||mkto-nld1040186.com^
 @@||mkto-o0153.com^
 @@||mkto-sj010104.com^
-@@||mkto-sj030214.com^
 @@||mkto-sj040252.com^
 @@||mkto-sj070214.com^
 @@||mkto-sj070259.com^
 @@||mkto-sj090132.com^
-@@||mkto-sj100138.com^
 @@||mkto-sj180011.com^
 @@||mkto-sj190104.com^
 @@||mkto-sj190237.com^
-@@||mkto-sj200192.com^
 @@||mkto-sj230006.com^
 @@||mkto-sj240021.com^
 @@||mkto-sj270080.com^
-@@||mkto-sj300121.com^
 @@||mkto-sj310061.com^
 @@||mkto-sj310186.com^
 @@||mkto-sj320047.com^
-@@||mkto-sj330006.com^
-@@||mkto-sj360142.com^
 @@||mkto-test.com^
 @@||mktoweb.com^
 @@||click.mlsend.com^
@@ -560,6 +542,7 @@
 @@||pntrack.com^
 @@||postaffiliatepro.com^
 @@||ndirect.ppro.de^
+@@||geo01.dns.presslabs.net^
 @@||geo02.dns.presslabs.net^
 @@||geo1.presslabs.net^
 @@||prf.hn^
@@ -586,15 +569,13 @@
 @@||adorama.rfvk.net^
 @@||click.royalcaribbeanmarketing.com^
 @@||r4gh8tuab.cc.rs6.net^
-@@||r4ofs8cab.cc.rs6.net^
 @@||r5waxhbbb.cc.rs6.net^
 @@||r6lccqnab.cc.rs6.net^
 @@||r7avxrcab.cc.rs6.net^
-@@||rb6paw8ab.cc.rs6.net^
 @@||rgkkzvdab.cc.rs6.net^
 @@||rjpz4ucab.cc.rs6.net^
+@@||rklmqleab.cc.rs6.net^
 @@||rq6agxabb.cc.rs6.net^
-@@||rtaw7vebb.cc.rs6.net^
 @@||rxfc49ebb.cc.rs6.net^
 @@||rz6dkreab.cc.rs6.net^
 @@||r20.rs6.net^
