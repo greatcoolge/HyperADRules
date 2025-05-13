@@ -230,6 +230,7 @@
 @@||5or.cc^
 @@||5ot2.shop^
 @@||5qzr.com^
+@@||5rb.pro^
 @@||5rwv.info^
 @@||5url.net^
 @@||5w.fit^
@@ -455,6 +456,7 @@
 @@||admarkt.kleinanzeigen.de^
 @@||adnmb3.com^
 @@||adobe.ly^
+@@||adobefiles.com^
 @@||adobetarget.data.adobedc.net^
 @@||adoj36.life^
 @@||adol.us^
@@ -530,6 +532,7 @@
 @@||agbr.ir^
 @@||age-smart-ch.live^
 @@||agen303.live^
+@@||aghq.top^
 @@||agileurbia.com^
 @@||agirz.com^
 @@||agmd.win^
@@ -897,6 +900,7 @@
 @@||avydn.co^
 @@||awobio.id^
 @@||awp-assets.meituan.net^
+@@||aws.tl^
 @@||awstrack.me^
 @@||awwurl.com^
 @@||axios.link^
@@ -1014,6 +1018,7 @@
 @@||bg9.us^
 @@||bhpho.to^
 @@||bhx.one^
+@@||bhzae.sbs^
 @@||biastonu.com^
 @@||bibl.es^
 @@||bibomart.live^
@@ -1151,6 +1156,7 @@
 @@||bqdlp.com^
 @@||bqwpf.com^
 @@||br4.in^
+@@||brad.blue^
 @@||bradley-parker.social^
 @@||brandedstoragereview.directory^
 @@||bravo.ly^
@@ -1436,6 +1442,7 @@
 @@||cjky.it^
 @@||cjn.mx^
 @@||cjwze.sbs^
+@@||cjyzkqj.homes^
 @@||ckbe.at^
 @@||cl.exct.net^
 @@||cl.ly^
@@ -1677,6 +1684,7 @@
 @@||cse3.chausport.com^
 @@||csgy.info^
 @@||csmo.us^
+@@||csnode.com^
 @@||cssubmissions.apple.com^
 @@||cstaticdun-v6.126.net^
 @@||cstaticdun.126.net^
@@ -2168,7 +2176,9 @@
 @@||ept.ms^
 @@||epuu.info^
 @@||eqcodecracks.life^
+@@||eqddh.top^
 @@||eqix.it^
+@@||eqpgt.top^
 @@||erath.email^
 @@||erax.cz^
 @@||erdch.com^
@@ -3043,7 +3053,6 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
-@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||im.alimebot.taobao.com^
@@ -4412,7 +4421,6 @@
 @@||mysp.ac^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -5012,6 +5020,7 @@
 @@||porntop.com^
 @@||pornzog.com^
 @@||port.sec.miui.com^
+@@||portalink.me^
 @@||portall2024pr.live^
 @@||pos-device.apple.com^
 @@||posh.mk^
@@ -5432,7 +5441,6 @@
 @@||ro-go.kelkoogroup.net^
 @@||ro.blox.com^
 @@||robertdray2.live^
-@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rog.gg^
@@ -5465,6 +5473,7 @@
 @@||rsgo.cc^
 @@||rsh.md^
 @@||rsmonkey.com^
+@@||rteoo.sbs^
 @@||rtube.nl^
 @@||rtvote.com^
 @@||rtxt.co^
@@ -5725,7 +5734,6 @@
 @@||shop-ify-store-km.life^
 @@||shop-links.co^
 @@||shope.ee^
-@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopifystorekms.life^
 @@||shoplarryherndon115.life^
@@ -6009,7 +6017,6 @@
 @@||smu.gs^
 @@||smurl.link^
 @@||sn.im^
-@@||snapchats.life^
 @@||snapt.io^
 @@||snar.co^
 @@||snd.sc^
@@ -6692,6 +6699,7 @@
 @@||topsubcvelens.life^
 @@||topt.al^
 @@||topurl.link^
+@@||tosul.top^
 @@||tot.hoyoverse.com^
 @@||toui.cc^
 @@||tousu.sina.cn^
@@ -6773,6 +6781,7 @@
 @@||trib.al^
 @@||trib.in^
 @@||trick.ly^
+@@||trieuview.life^
 @@||trim.one^
 @@||trimlink.co.uk^
 @@||trimlink.net^
@@ -6885,7 +6894,9 @@
 @@||uafly.co^
 @@||ual.fyi^
 @@||ub0.cc^
+@@||ubfhb.sbs^
 @@||ubm.io^
+@@||ubmvs.top^
 @@||ubnt.link^
 @@||ubr.to^
 @@||uby.es^
@@ -7182,6 +7193,7 @@
 @@||vea.link^
 @@||vectorsdk.map.qq.com^
 @@||vectorsdk.map.qq.com^$important
+@@||vegalinks.net^
 @@||vehi.co^
 @@||vena.sh^
 @@||vendoagora.live^
@@ -7222,7 +7234,6 @@
 @@||view.helpline-app.com^
 @@||view.inews.qq.com^$important
 @@||vigilink.com^
-@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
@@ -7236,8 +7247,10 @@
 @@||virgil-97.life^
 @@||virl.com^
 @@||vivo.tl^
+@@||viyva.top^
 @@||vjav.com^
 @@||vjav0.ahcdn.com^
+@@||vjhxy.com^
 @@||vk.cc^
 @@||vk.sv^
 @@||vl.am^
@@ -7277,6 +7290,8 @@
 @@||vt802.us^
 @@||vtftn.com^
 @@||vtns.io^
+@@||vtred.co^
+@@||vtred.net^
 @@||vtru.xyz^
 @@||vttje.top^
 @@||vtu.cc^
@@ -7350,6 +7365,7 @@
 @@||wb1.eu^
 @@||wbapp.mobile.sina.cn^$important
 @@||wbby.co^
+@@||wbduy.top^
 @@||wbur.fm^
 @@||wbw6.pl^
 @@||wbze.de^
@@ -7658,6 +7674,7 @@
 @@||xbufi.com^
 @@||xbx.lv^
 @@||xbxti.sbs^
+@@||xdfvi.top^
 @@||xdsnht.com^
 @@||xdu.me^
 @@||xerox.bz^
@@ -7720,6 +7737,7 @@
 @@||xsurl.eu^
 @@||xt3.me^
 @@||xtaxf.top^
+@@||xtoqc.com^
 @@||xtre.me^
 @@||xua.me^
 @@||xub.me^
@@ -7732,6 +7750,7 @@
 @@||xvxcx.sbs^
 @@||xwhxx.com^
 @@||xwpgf.top^
+@@||xxhjb.com^
 @@||xyq.163.com^
 @@||xyvid.tv^
 @@||xzb.cc^
@@ -7871,6 +7890,7 @@
 @@||zeusstore.live^
 @@||zez.kr^
 @@||zfgcx.com^
+@@||zggvt.com^
 @@||zhidao.baidu.com^
 @@||zhihu-web-analytics.zhihu.com/api/v2/za/payload-verification
 @@||zhipin.com^
@@ -7921,9 +7941,12 @@
 @@||zoss.me^
 @@||zotter.link^
 @@||zovpart.com^
+@@||zoxzc.com^
 @@||zpag.es^
 @@||zpr.io^
+@@||zpwd.info^
 @@||zqq.bio^
+@@||zrlul.com^
 @@||zshort.io^
 @@||zshorten.com^
 @@||zshortner.com^

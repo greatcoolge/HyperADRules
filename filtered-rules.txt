@@ -364,6 +364,7 @@
 5or.cc
 5ot2.shop
 5qzr.com
+5rb.pro
 5rwv.info
 5url.net
 5w.fit
@@ -850,6 +851,7 @@ adobe-dns.adobe.com
 adobe.com
 adobe.ly
 adobedtm.com
+adobefiles.com
 adobeid-na1.services.adobe.com
 adobeid.services.adobe.com
 adobetarget.data.adobedc.net
@@ -954,6 +956,7 @@ aftv.news
 agbr.ir
 age-smart-ch.live
 agen303.live
+aghq.top
 agilean.in
 agileurbia.com
 agirz.com
@@ -2594,6 +2597,7 @@ avydn.co
 awards.netflix.com
 awobio.id
 awp-assets.meituan.net
+aws.tl
 aws1.discourse-cdn.com
 awssgp0-files.fds.api.xiaomi.com
 awstrack.me
@@ -2858,6 +2862,7 @@ bharattimes.com
 bhpho.to
 bhphotovideo.com
 bhx.one
+bhzae.sbs
 bia2vip.site
 bialystok.tvp.pl
 biastonu.com
@@ -3191,6 +3196,7 @@ bqwpf.com
 br.gravatar.com
 br.ign.com
 br4.in
+brad.blue
 bradley-parker.social
 braintreegateway.com
 brakrock.be
@@ -4058,6 +4064,7 @@ cjiy.top
 cjky.it
 cjn.mx
 cjwze.sbs
+cjyzkqj.homes
 ckbe.at
 cl.exct.net
 cl.ly
@@ -4660,6 +4667,7 @@ cse3.chausport.com
 csgy.info
 csi.gstatic.com
 csmo.us
+csnode.com
 csp.medium.com
 csr.integration.viber.com
 css.gbtcdn.com
@@ -5850,7 +5858,9 @@ ept.ms
 epuu.info
 eq.10jqka.com.cn
 eqcodecracks.life
+eqddh.top
 eqix.it
+eqpgt.top
 er.search.naver.com
 erath.email
 erax.cz
@@ -8123,7 +8133,6 @@ ilinky.info
 ilix.in
 ilk.ir
 illin.is
-illuminatiracers.live
 iln.io
 ilnk.io
 iltalehti.fi
@@ -11105,7 +11114,6 @@ mysql.com
 mysupport.sonymobile.com
 mysurl.com
 mytd.cc
-mytiktok.life
 mytinycheck9.life
 mytoluwalemi.life
 mytorus.live
@@ -12532,6 +12540,7 @@ portablevideogamer.com
 portal.client.xunlei.com
 portal.fb.com
 portal.flipboard.com
+portalink.me
 portall2024pr.live
 portfolio.adobe.com
 pos-device.apple.com
@@ -13408,7 +13417,6 @@ road.adblock.ro
 roadandtrack.com
 roar.media
 robertdray2.live
-robloxgroup.life
 robloxtech.live
 robul.saas.workertm.com
 rochester.edu
@@ -13469,6 +13477,7 @@ rt.com
 rt.vuukle.com
 rtam-collector.appspot.com
 rte.ch
+rteoo.sbs
 rtmp.cloud.vimeo.com
 rtss-prod.jioconnect.com
 rtube.nl
@@ -14193,7 +14202,6 @@ shop.samsung.com.edgekey.net
 shop.skype.com
 shopapi.io.mi.com
 shope.ee
-shopeedeals.sale
 shopifie.com
 shopify.com
 shopifystorekms.life
@@ -14588,7 +14596,6 @@ snahp.it
 snap.com
 snapchat-payments-gateway.snapchat.com
 snapchat.com
-snapchats.life
 snapdeal.com
 snapi.live.net
 snappublisher.snapchat.com
@@ -16101,6 +16108,7 @@ torproject.org
 torren.eu
 torrentfreak.com
 torrentgalaxy.to
+tosul.top
 tot.hoyoverse.com
 touch.facebook.com
 touch.kaspersky.com
@@ -16244,6 +16252,7 @@ tribdss.com
 tribpub.com
 trick.ly
 trickbd.com
+trieuview.life
 trim.one
 trimlink.co.uk
 trimlink.net
@@ -16441,9 +16450,11 @@ ualberta.ca
 uaprof.sonymobile.com
 uarel.com
 ub0.cc
+ubfhb.sbs
 ubisoft-orbit-savegames.s3.amazonaws.com
 ublock.org
 ubm.io
+ubmvs.top
 ubnt.link
 ubr.to
 ubuntuforums.org
@@ -17000,6 +17011,7 @@ vdownload-*.sb-cd.com
 vdownload.hembed.com
 vea.link
 vectorsdk.map.qq.com
+vegalinks.net
 vehi.co
 velaro.com
 vena.sh
@@ -17114,7 +17126,6 @@ view.status.xbox.com
 view.vzaar.com
 vigilink.com
 viglink.com
-vim-tiktok.live
 vimeo.com
 vincenaja46.live
 vine.co
@@ -17148,8 +17159,10 @@ vitacost.com
 vitalia.pl
 vivo.sx
 vivo.tl
+viyva.top
 vjav.com
 vjav0.ahcdn.com
+vjhxy.com
 vjs.zencdn.net
 vk.cc
 vk.com
@@ -17239,6 +17252,8 @@ vsucs.sbs
 vt802.us
 vtftn.com
 vtns.io
+vtred.co
+vtred.net
 vtru.xyz
 vttje.top
 vtu.cc
@@ -17380,6 +17395,7 @@ wb.md
 wb1.eu
 wbby.co
 wbca.st
+wbduy.top
 wbur.fm
 wbw6.pl
 wbze.de
@@ -19329,6 +19345,7 @@ xd.adobelanding.com
 xd.sonymobile.com
 xda-developers.com
 xdatools.xda-developers.com
+xdfvi.top
 xdjiraintegration.adobe.com
 xdsnht.com
 xdu.me
@@ -19423,6 +19440,7 @@ xsurl.eu
 xt3.me
 xtaxf.top
 xtgem.com
+xtoqc.com
 xtre.me
 xua.me
 xub.me
@@ -19442,6 +19460,7 @@ xvxcx.sbs
 xwhxx.com
 xwpgf.top
 xx.snap.com
+xxhjb.com
 xxx-image.com
 xyq.163.com
 xyvid.tv
@@ -19658,6 +19677,7 @@ zeusstore.live
 zeustracker.abuse.ch
 zez.kr
 zfgcx.com
+zggvt.com
 zh-cn.about.flipboard.com
 zh-hk.about.flipboard.com
 zh-tw.gravatar.com
@@ -19731,10 +19751,13 @@ zoso.ro
 zoss.me
 zotter.link
 zovpart.com
+zoxzc.com
 zpag.es
 zpr.io
+zpwd.info
 zqq.bio
 zrk.imgur.com
+zrlul.com
 zshort.io
 zshorten.com
 zshortner.com

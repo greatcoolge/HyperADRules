@@ -405,6 +405,7 @@
 @@||5or.cc^
 @@||5ot2.shop^
 @@||5qzr.com^
+@@||5rb.pro^
 @@||5rwv.info^
 @@||5url.net^
 @@||5w.fit^
@@ -879,6 +880,7 @@
 @@||adobe.com^
 @@||adobe.ly^
 @@||adobedtm.com^
+@@||adobefiles.com^
 @@||adobeid-na1.services.adobe.com^
 @@||adobeid.services.adobe.com^
 @@||adobetarget.data.adobedc.net^
@@ -985,6 +987,7 @@
 @@||agbr.ir^
 @@||age-smart-ch.live^
 @@||agen303.live^
+@@||aghq.top^
 @@||agilean.in^
 @@||agileurbia.com^
 @@||agirz.com^
@@ -2652,6 +2655,7 @@
 @@||awards.netflix.com^
 @@||awobio.id^
 @@||awp-assets.meituan.net^
+@@||aws.tl^
 @@||aws1.discourse-cdn.com^
 @@||awssgp0-files.fds.api.xiaomi.com^
 @@||awstrack.me^
@@ -2918,6 +2922,7 @@
 @@||bhpho.to^
 @@||bhphotovideo.com^
 @@||bhx.one^
+@@||bhzae.sbs^
 @@||bia2vip.site^
 @@||bialystok.tvp.pl^
 @@||biastonu.com^
@@ -3255,6 +3260,7 @@
 @@||br.gravatar.com^
 @@||br.ign.com^
 @@||br4.in^
+@@||brad.blue^
 @@||bradley-parker.social^
 @@||braintreegateway.com^
 @@||brakrock.be^
@@ -4133,6 +4139,7 @@
 @@||cjky.it^
 @@||cjn.mx^
 @@||cjwze.sbs^
+@@||cjyzkqj.homes^
 @@||ckbe.at^
 @@||cl.exct.net^
 @@||cl.ly^
@@ -4749,6 +4756,7 @@
 @@||csgy.info^
 @@||csi.gstatic.com^
 @@||csmo.us^
+@@||csnode.com^
 @@||csp.medium.com^
 @@||csr.integration.viber.com^
 @@||css.gbtcdn.com^
@@ -5957,7 +5965,9 @@
 @@||epuu.info^
 @@||eq.10jqka.com.cn^
 @@||eqcodecracks.life^
+@@||eqddh.top^
 @@||eqix.it^
+@@||eqpgt.top^
 @@||er.search.naver.com^
 @@||erath.email^
 @@||erax.cz^
@@ -8255,7 +8265,6 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
-@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||iltalehti.fi^
@@ -11281,7 +11290,6 @@
 @@||mysupport.sonymobile.com^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -12726,6 +12734,7 @@
 @@||portal.client.xunlei.com^
 @@||portal.fb.com^
 @@||portal.flipboard.com^
+@@||portalink.me^
 @@||portall2024pr.live^
 @@||portfolio.adobe.com^
 @@||pos-device.apple.com^
@@ -13616,7 +13625,6 @@
 @@||roadandtrack.com^
 @@||roar.media^
 @@||robertdray2.live^
-@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rochester.edu^
@@ -13677,6 +13685,7 @@
 @@||rt.vuukle.com^
 @@||rtam-collector.appspot.com^
 @@||rte.ch^
+@@||rteoo.sbs^
 @@||rtmp.cloud.vimeo.com^
 @@||rtss-prod.jioconnect.com^
 @@||rtube.nl^
@@ -14406,7 +14415,6 @@
 @@||shop.skype.com^
 @@||shopapi.io.mi.com^
 @@||shope.ee^
-@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopify.com^
 @@||shopifystorekms.life^
@@ -14804,7 +14812,6 @@
 @@||snap.com^
 @@||snapchat-payments-gateway.snapchat.com^
 @@||snapchat.com^
-@@||snapchats.life^
 @@||snapdeal.com^
 @@||snapi.live.net^
 @@||snappublisher.snapchat.com^
@@ -16338,6 +16345,7 @@
 @@||torren.eu^
 @@||torrentfreak.com^
 @@||torrentgalaxy.to^
+@@||tosul.top^
 @@||tot.hoyoverse.com^
 @@||touch.facebook.com^
 @@||touch.kaspersky.com^
@@ -16484,6 +16492,7 @@
 @@||tribpub.com^
 @@||trick.ly^
 @@||trickbd.com^
+@@||trieuview.life^
 @@||trim.one^
 @@||trimlink.co.uk^
 @@||trimlink.net^
@@ -16684,9 +16693,11 @@
 @@||uaprof.sonymobile.com^
 @@||uarel.com^
 @@||ub0.cc^
+@@||ubfhb.sbs^
 @@||ubisoft-orbit-savegames.s3.amazonaws.com^
 @@||ublock.org^
 @@||ubm.io^
+@@||ubmvs.top^
 @@||ubnt.link^
 @@||ubr.to^
 @@||ubuntuforums.org^
@@ -17254,6 +17265,7 @@
 @@||vea.link^
 @@||vectorsdk.map.qq.com^
 @@||vectorsdk.map.qq.com^$important
+@@||vegalinks.net^
 @@||vehi.co^
 @@||velaro.com^
 @@||vena.sh^
@@ -17369,7 +17381,6 @@
 @@||view.vzaar.com^
 @@||vigilink.com^
 @@||viglink.com^
-@@||vim-tiktok.live^
 @@||vimeo.com^
 @@||vincenaja46.live^
 @@||vine.co^
@@ -17403,8 +17414,10 @@
 @@||vitalia.pl^
 @@||vivo.sx^
 @@||vivo.tl^
+@@||viyva.top^
 @@||vjav.com^
 @@||vjav0.ahcdn.com^
+@@||vjhxy.com^
 @@||vjs.zencdn.net^
 @@||vk.cc^
 @@||vk.com^
@@ -17495,6 +17508,8 @@
 @@||vt802.us^
 @@||vtftn.com^
 @@||vtns.io^
+@@||vtred.co^
+@@||vtred.net^
 @@||vtru.xyz^
 @@||vttje.top^
 @@||vtu.cc^
@@ -17639,6 +17654,7 @@
 @@||wbapp.mobile.sina.cn^$important
 @@||wbby.co^
 @@||wbca.st^
+@@||wbduy.top^
 @@||wbur.fm^
 @@||wbw6.pl^
 @@||wbze.de^
@@ -19605,6 +19621,7 @@
 @@||xd.sonymobile.com^
 @@||xda-developers.com^
 @@||xdatools.xda-developers.com^
+@@||xdfvi.top^
 @@||xdjiraintegration.adobe.com^
 @@||xdsnht.com^
 @@||xdu.me^
@@ -19700,6 +19717,7 @@
 @@||xt3.me^
 @@||xtaxf.top^
 @@||xtgem.com^
+@@||xtoqc.com^
 @@||xtre.me^
 @@||xua.me^
 @@||xub.me^
@@ -19719,6 +19737,7 @@
 @@||xwhxx.com^
 @@||xwpgf.top^
 @@||xx.snap.com^
+@@||xxhjb.com^
 @@||xxx-image.com^
 @@||xyq.163.com^
 @@||xyvid.tv^
@@ -19943,6 +19962,7 @@
 @@||zeustracker.abuse.ch^
 @@||zez.kr^
 @@||zfgcx.com^
+@@||zggvt.com^
 @@||zh-cn.about.flipboard.com^
 @@||zh-hk.about.flipboard.com^
 @@||zh-tw.gravatar.com^
@@ -20018,10 +20038,13 @@
 @@||zoss.me^
 @@||zotter.link^
 @@||zovpart.com^
+@@||zoxzc.com^
 @@||zpag.es^
 @@||zpr.io^
+@@||zpwd.info^
 @@||zqq.bio^
 @@||zrk.imgur.com^
+@@||zrlul.com^
 @@||zshort.io^
 @@||zshorten.com^
 @@||zshortner.com^
