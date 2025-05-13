@@ -4,10 +4,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 11 May 2025 21:49 UTC
-! Version: 2025.0511.2149.27
+! Last modified: 12 May 2025 09:53 UTC
+! Version: 2025.0512.0953.36
 ! Syntax: AdBlock
-! Number of entries: 741
+! Number of entries: 723
 !
 @@||l.1mp.ru^
 @@||t.1und1.de^
@@ -129,7 +129,6 @@
 @@||tracking.cashkaro.com^
 @@||cc-dt.com^
 @@||cse3.chausport.com^
-@@||mkto-trk.cisco.com^
 @@||cj.com^
 @@||clck.ru^
 @@||api.cleverpush.com^
@@ -216,7 +215,6 @@
 @@||referrer.disqus.com^
 @@||click.dji.com^
 @@||postsign.docusign.com^
-@@||c2827.dotomi.com^
 @@||casale-match.dotomi.com^
 @@||cj.dotomi.com^
 @@||cpe.dotomi.com^
@@ -241,22 +239,18 @@
 @@||suite16.emarsys.net^
 @@||suite17.emarsys.net^
 @@||suite22.emarsys.net^
-@@||suite27.emarsys.net^
 @@||suite29.emarsys.net^
-@@||suite30.emarsys.net^
-@@||suite32.emarsys.net^
 @@||suite33.emarsys.net^
 @@||suite38.emarsys.net^
-@@||suite40.emarsys.net^
 @@||suite40-cf.emarsys.net^
 @@||suite45.emarsys.net^
 @@||suite54.emarsys.net^
+@@||suite56.emarsys.net^
 @@||suite57.emarsys.net^
 @@||suite58.emarsys.net^
 @@||suite59.emarsys.net^
 @@||suite63.emarsys.net^
 @@||suite67-cf.emarsys.net^
-@@||suite9.emarsys.net^
 @@||emjcd.com^
 @@||t.en25.com^
 @@||ablink.email.etsy.com^
@@ -273,15 +267,12 @@
 @@||s12.exacttarget.com^
 @@||s13.exacttarget.com^
 @@||s4.exacttarget.com^
-@@||s5.exacttarget.com^
 @@||s50.exacttarget.com^
 @@||s51.exacttarget.com^
 @@||s6.exacttarget.com^
 @@||s7.exacttarget.com^
-@@||s8.exacttarget.com^
 @@||cl.exct.net^
 @@||click.e.usa.experian.com^
-@@||amway-cdn.exponea.com^
 @@||cdn.exponea.com^
 @@||cdn.eu1.exponea.com^
 @@||cdn.ftspecialist.exponea.com^
@@ -335,12 +326,12 @@
 @@||click.instantink.hpsmart.com^
 @@||href.li^
 @@||sites.hscoscdn-eu1.net^
+@@||sites.hscoscdn-na2.net^
 @@||sites.hscoscdn00.net^
 @@||sites.hscoscdn10.net^
 @@||sites.hscoscdn20.net^
 @@||sites.hscoscdn30.net^
 @@||sites.hscoscdn40.net^
-@@||sites.hscoscdnqa-eu1.net^
 @@||api.hubapi.com^
 @@||api-eu1.hubapi.com^
 @@||api-na1.hubapi.com^
@@ -427,13 +418,11 @@
 @@||mkto-ab200065.com^
 @@||mkto-ab210104.com^
 @@||mkto-ab220178.com^
-@@||mkto-ab250105.com^
 @@||mkto-ab300154.com^
 @@||mkto-ab310115.com^
 @@||mkto-ab340022.com^
 @@||mkto-ab420081.com^
 @@||mkto-ab470148.com^
-@@||mkto-ab530057.com^
 @@||mkto-ab540059.com^
 @@||mkto-ab540186.com^
 @@||mkto-ab550140.com^
@@ -447,8 +436,6 @@
 @@||mkto-ab690062.com^
 @@||mkto-ab690180.com^
 @@||mkto-abj0022.com^
-@@||mkto-abm0229.com^
-@@||mkto-cs0007.com^
 @@||mkto-d0170.com^
 @@||mkto-f0054.com^
 @@||mkto-g0030.com^
@@ -456,7 +443,6 @@
 @@||mkto-k0071.com^
 @@||mkto-lon030291.com^
 @@||mkto-lon040152.com^
-@@||mkto-lon090082.com^
 @@||mkto-n0199.com^
 @@||mkto-nld1040186.com^
 @@||mkto-o0153.com^
@@ -474,7 +460,6 @@
 @@||mkto-sj310061.com^
 @@||mkto-sj310186.com^
 @@||mkto-sj320047.com^
-@@||mkto-test.com^
 @@||mktoweb.com^
 @@||click.mlsend.com^
 @@||t.mmtrkr.com^
@@ -526,7 +511,6 @@
 @@||c2-ap.piano.io^
 @@||c2-au.piano.io^
 @@||c2-eu.piano.io^
-@@||c2-sandbox.piano.io^
 @@||cdn.piano.io^
 @@||cdn-ap.piano.io^
 @@||cdn-au.piano.io^
@@ -542,7 +526,6 @@
 @@||pntrack.com^
 @@||postaffiliatepro.com^
 @@||ndirect.ppro.de^
-@@||geo01.dns.presslabs.net^
 @@||geo02.dns.presslabs.net^
 @@||geo1.presslabs.net^
 @@||prf.hn^
@@ -574,7 +557,6 @@
 @@||r7avxrcab.cc.rs6.net^
 @@||rgkkzvdab.cc.rs6.net^
 @@||rjpz4ucab.cc.rs6.net^
-@@||rklmqleab.cc.rs6.net^
 @@||rq6agxabb.cc.rs6.net^
 @@||rxfc49ebb.cc.rs6.net^
 @@||rz6dkreab.cc.rs6.net^

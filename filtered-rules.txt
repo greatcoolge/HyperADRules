@@ -1715,7 +1715,6 @@ amplitude.com
 ampr.gs
 amrep.org
 amspi.top
-amway-cdn.exponea.com
 amz.run
 amzn.com
 amzn.pw
@@ -3407,10 +3406,8 @@ c11.kr
 c2-ap.piano.io
 c2-au.piano.io
 c2-eu.piano.io
-c2-sandbox.piano.io
 c2.piano.io
 c212.net
-c2827.dotomi.com
 c2d.in
 c3.xmssmc.mws.xiaomi.net
 c3pool.com
@@ -6792,7 +6789,6 @@ geo.nbcsports.com
 geo.paypalobjects.com.akadns.net
 geo.settings-win.data.microsoft.com.akadns.net
 geo.settings.data.microsoft.com.akadns.net
-geo01.dns.presslabs.net
 geo02.dns.presslabs.net
 geo1.presslabs.net
 geo2.adobe.com
@@ -8127,6 +8123,7 @@ ilinky.info
 ilix.in
 ilk.ir
 illin.is
+illuminatiracers.live
 iln.io
 ilnk.io
 iltalehti.fi
@@ -10682,13 +10679,11 @@ mkto-ab180008.com
 mkto-ab200065.com
 mkto-ab210104.com
 mkto-ab220178.com
-mkto-ab250105.com
 mkto-ab300154.com
 mkto-ab310115.com
 mkto-ab340022.com
 mkto-ab420081.com
 mkto-ab470148.com
-mkto-ab530057.com
 mkto-ab540059.com
 mkto-ab540186.com
 mkto-ab550140.com
@@ -10702,8 +10697,6 @@ mkto-ab690019.com
 mkto-ab690062.com
 mkto-ab690180.com
 mkto-abj0022.com
-mkto-abm0229.com
-mkto-cs0007.com
 mkto-d0170.com
 mkto-f0054.com
 mkto-g0030.com
@@ -10711,7 +10704,6 @@ mkto-g0180.com
 mkto-k0071.com
 mkto-lon030291.com
 mkto-lon040152.com
-mkto-lon090082.com
 mkto-n0199.com
 mkto-nld1040186.com
 mkto-o0153.com
@@ -10729,8 +10721,6 @@ mkto-sj270080.com
 mkto-sj310061.com
 mkto-sj310186.com
 mkto-sj320047.com
-mkto-test.com
-mkto-trk.cisco.com
 mktoweb.com
 mktplassets-ssl.xbox.com
 mktplassets.xbox.com
@@ -11115,6 +11105,7 @@ mysql.com
 mysupport.sonymobile.com
 mysurl.com
 mytd.cc
+mytiktok.life
 mytinycheck9.life
 mytoluwalemi.life
 mytorus.live
@@ -13387,7 +13378,6 @@ rjqmg.top
 rjtgoyal92.live
 rjvn.co
 rjwfd.sbs
-rklmqleab.cc.rs6.net
 rkurl.com
 rli.io
 rli.nl
@@ -13418,6 +13408,7 @@ road.adblock.ro
 roadandtrack.com
 roar.media
 robertdray2.live
+robloxgroup.life
 robloxtech.live
 robul.saas.workertm.com
 rochester.edu
@@ -13675,14 +13666,12 @@ s3w.net
 s4.exacttarget.com
 s4.symcb.com
 s4w.in
-s5.exacttarget.com
 s5.symcb.com
 s50.exacttarget.com
 s51.exacttarget.com
 s6.exacttarget.com
 s7.exacttarget.com
 s7y.us
-s8.exacttarget.com
 s82i.app.link
 s88570519.t.en25.com
 s9.picofile.com
@@ -14204,6 +14193,7 @@ shop.samsung.com.edgekey.net
 shop.skype.com
 shopapi.io.mi.com
 shope.ee
+shopeedeals.sale
 shopifie.com
 shopify.com
 shopifystorekms.life
@@ -14462,12 +14452,12 @@ sitepoint.com
 sites.engadget.com
 sites.google.com
 sites.hscoscdn-eu1.net
+sites.hscoscdn-na2.net
 sites.hscoscdn00.net
 sites.hscoscdn10.net
 sites.hscoscdn20.net
 sites.hscoscdn30.net
 sites.hscoscdn40.net
-sites.hscoscdnqa-eu1.net
 sites.paradox.ai
 sites.techcrunch.com
 situsslotzeus.store
@@ -14598,6 +14588,7 @@ snahp.it
 snap.com
 snapchat-payments-gateway.snapchat.com
 snapchat.com
+snapchats.life
 snapdeal.com
 snapi.live.net
 snappublisher.snapchat.com
@@ -15286,22 +15277,18 @@ suite11.emarsys.net
 suite16.emarsys.net
 suite17.emarsys.net
 suite22.emarsys.net
-suite27.emarsys.net
 suite29.emarsys.net
-suite30.emarsys.net
-suite32.emarsys.net
 suite33.emarsys.net
 suite38.emarsys.net
 suite40-cf.emarsys.net
-suite40.emarsys.net
 suite45.emarsys.net
 suite54.emarsys.net
+suite56.emarsys.net
 suite57.emarsys.net
 suite58.emarsys.net
 suite59.emarsys.net
 suite63.emarsys.net
 suite67-cf.emarsys.net
-suite9.emarsys.net
 sujanaarch.life
 sukebei.nyaa.si
 sulejalan.online
@@ -17127,6 +17114,7 @@ view.status.xbox.com
 view.vzaar.com
 vigilink.com
 viglink.com
+vim-tiktok.live
 vimeo.com
 vincenaja46.live
 vine.co
