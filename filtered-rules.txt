@@ -63,11 +63,13 @@
 0ln.io
 0o.lv
 0p.de
+0rl.cc
 0rz.tw
 0s0.com
 0se.co
 0t.cn
 0x.re
+0x3.me
 0xxx.ws
 0xy.me
 1-edge-chat.facebook.com
@@ -2864,6 +2866,7 @@ bhpho.to
 bhphotovideo.com
 bhx.one
 bhzae.sbs
+bi-tly.com
 bia2vip.site
 bialystok.tvp.pl
 biastonu.com
@@ -2943,6 +2946,7 @@ bitigee.com
 bitit.io
 bitj.icu
 bitl.app
+bitlee.site
 bitli.pro
 bitly.bz
 bitly.com
@@ -5193,6 +5197,7 @@ distinct-rp.live
 distinctrp.live
 distribute.adobe.com
 distributions.crowdin.net
+ditn.top
 dive.pub
 divestiture.life
 divsly.com
@@ -7071,6 +7076,7 @@ go.westco.mobi
 go.zordo.in
 go2.do
 go2.me
+go2ct.pro
 go2jump.org
 go2sm.com
 go2that.com
@@ -8135,7 +8141,6 @@ ilinky.info
 ilix.in
 ilk.ir
 illin.is
-illuminatiracers.live
 iln.io
 ilnk.io
 iltalehti.fi
@@ -10544,6 +10549,7 @@ metrics.torproject.org
 metro-tmo.com
 mewkid.net
 mex.su
+mg.mail.notion.so
 mgbsdk.matrix.netease.com
 mgfyx.sbs
 mgnet.me
@@ -11125,7 +11131,6 @@ mysql.com
 mysupport.sonymobile.com
 mysurl.com
 mytd.cc
-mytiktok.life
 mytinycheck9.life
 mytoluwalemi.life
 mytorus.live
@@ -11814,7 +11819,6 @@ onlineclothes.live
 onlinekassirjessica.life
 onlinevideoconverter.com
 onlyfansamairanidiaz.live
-onlyfanscaycoleman.live
 onmpeg.com
 onon.in
 onrpg.com
@@ -13432,7 +13436,6 @@ road.adblock.ro
 roadandtrack.com
 roar.media
 robertdray2.live
-robloxgroup.life
 robloxtech.live
 robul.saas.workertm.com
 rochester.edu
@@ -14219,7 +14222,6 @@ shop.samsung.com.edgekey.net
 shop.skype.com
 shopapi.io.mi.com
 shope.ee
-shopeedeals.sale
 shopifie.com
 shopify.com
 shopifystorekms.life
@@ -14613,7 +14615,6 @@ snahp.it
 snap.com
 snapchat-payments-gateway.snapchat.com
 snapchat.com
-snapchats.life
 snapdeal.com
 snapi.live.net
 snappublisher.snapchat.com
@@ -14836,6 +14837,7 @@ sresc.io
 srnk.us
 srnku.sbs
 srturl.xyz
+sruuuqg.bond
 srv.au.ebayrtm.com
 srv.sec.miui.com
 srv01.codefusion.technology
@@ -15727,6 +15729,8 @@ tcrn.ch
 tdid.m.qq.com
 tdotly.com
 tdrive.li
+tdv-adm.live
+tdvtb.sbs
 tdy.sg
 te.deviantart.com
 te.me
@@ -16498,6 +16502,7 @@ uclck.me
 uct-tobacco.live
 ucweb.com
 ud.me
+udhbc.com
 udimg.com
 udl-api.sonymobile.com
 udomain.dl.sourceforge.net
@@ -17149,9 +17154,9 @@ view.engage.xbox.com
 view.helpline-app.com
 view.status.xbox.com
 view.vzaar.com
+vig.fit
 vigilink.com
 viglink.com
-vim-tiktok.live
 vimeo.com
 vincenaja46.live
 vine.co
@@ -17193,7 +17198,9 @@ vjs.zencdn.net
 vk.cc
 vk.com
 vk.sv
+vklst.sbs
 vkontakte.ru
+vkujd.com
 vl.am
 vl.api.np.km.playstation.net
 vla.lu
@@ -19790,6 +19797,7 @@ zshorten.com
 zshortner.com
 zsirkacsa.hu
 zsjdu.com
+zsote.com
 ztgame.com
 zti.me
 zuki.ie

@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 13 May 2025 10:23 UTC
-! Version: 2025.0513.1023.28
+! Last modified: 13 May 2025 23:07 UTC
+! Version: 2025.0513.2307.33
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -30,11 +30,13 @@
 @@||0i.is^
 @@||0ln.io^
 @@||0o.lv^
+@@||0rl.cc^
 @@||0rz.tw^
 @@||0s0.com^
 @@||0se.co^
 @@||0t.cn^
 @@||0x.re^
+@@||0x3.me^
 @@||0xy.me^
 @@||101.gg^
 @@||101101.xyz^
@@ -678,6 +680,7 @@
 @@||bhpho.to^
 @@||bhx.one^
 @@||bhzae.sbs^
+@@||bi-tly.com^
 @@||biastonu.com^
 @@||bibl.es^
 @@||bibomart.live^
@@ -704,6 +707,7 @@
 @@||bitigee.com^
 @@||bitj.icu^
 @@||bitl.app^
+@@||bitlee.site^
 @@||bitli.pro^
 @@||bitly.bz^
 @@||bitly.com^
@@ -1307,6 +1311,7 @@
 @@||disq.us^
 @@||distinct-rp.live^
 @@||distinctrp.live^
+@@||ditn.top^
 @@||dive.pub^
 @@||divestiture.life^
 @@||divsly.com^
@@ -1836,6 +1841,7 @@
 @@||go-vin-ds-asti-ya-080.life^
 @@||go2.do^
 @@||go2.me^
+@@||go2ct.pro^
 @@||go2sm.com^
 @@||go2that.com^
 @@||go2u.cc^
@@ -2138,7 +2144,6 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
-@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||imdb.to^
@@ -3109,7 +3114,6 @@
 @@||mysp.ac^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -3331,7 +3335,6 @@
 @@||onlineclothes.live^
 @@||onlinekassirjessica.life^
 @@||onlyfansamairanidiaz.live^
-@@||onlyfanscaycoleman.live^
 @@||onon.in^
 @@||onx.la^
 @@||oo0oo.icu^
@@ -3838,7 +3841,6 @@
 @@||rnm.me^
 @@||rntyu.com^
 @@||robertdray2.live^
-@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||rog.gg^
 @@||roge.rs^
@@ -4034,7 +4036,6 @@
 @@||shoort.io^
 @@||shop-ify-store-km.life^
 @@||shope.ee^
-@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopifystorekms.life^
 @@||shoplarryherndon115.life^
@@ -4285,7 +4286,6 @@
 @@||smu.gs^
 @@||smurl.link^
 @@||sn.im^
-@@||snapchats.life^
 @@||snapt.io^
 @@||snar.co^
 @@||snd.sc^
@@ -4358,6 +4358,7 @@
 @@||srnk.us^
 @@||srnku.sbs^
 @@||srturl.xyz^
+@@||sruuuqg.bond^
 @@||srwedding.live^
 @@||ss777.games^
 @@||ss777.win^
@@ -4499,6 +4500,8 @@
 @@||on.tcs.com^
 @@||tdotly.com^
 @@||tdrive.li^
+@@||tdv-adm.live^
+@@||tdvtb.sbs^
 @@||tdy.sg^
 @@||teamline.live^
 @@||tebar.in^
@@ -4839,6 +4842,7 @@
 @@||ucla.in^
 @@||uclck.me^
 @@||uct-tobacco.live^
+@@||udhbc.com^
 @@||uepx.com^
 @@||ufai.app^
 @@||ufcqc.link^
@@ -5085,8 +5089,8 @@
 @@||vibebycalifornia.life^
 @@||vid.lu^
 @@||videopro.live^
+@@||vig.fit^
 @@||vigilink.com^
-@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
@@ -5104,6 +5108,8 @@
 @@||vjhxy.com^
 @@||vk.cc^
 @@||vk.sv^
+@@||vklst.sbs^
+@@||vkujd.com^
 @@||vl.am^
 @@||vla.lu^
 @@||vlink.cz^
@@ -5601,6 +5607,7 @@
 @@||zshortner.com^
 @@||zsirkacsa.hu^
 @@||zsjdu.com^
+@@||zsote.com^
 @@||zti.me^
 @@||zuki.ie^
 @@||zum.bi^

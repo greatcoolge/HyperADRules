@@ -95,11 +95,13 @@
 @@||0ln.io^
 @@||0o.lv^
 @@||0p.de^
+@@||0rl.cc^
 @@||0rz.tw^
 @@||0s0.com^
 @@||0se.co^
 @@||0t.cn^
 @@||0x.re^
+@@||0x3.me^
 @@||0xxx.ws^
 @@||0xy.me^
 @@||1-edge-chat.facebook.com^
@@ -2924,6 +2926,7 @@
 @@||bhphotovideo.com^
 @@||bhx.one^
 @@||bhzae.sbs^
+@@||bi-tly.com^
 @@||bia2vip.site^
 @@||bialystok.tvp.pl^
 @@||biastonu.com^
@@ -3005,6 +3008,7 @@
 @@||bitit.io^
 @@||bitj.icu^
 @@||bitl.app^
+@@||bitlee.site^
 @@||bitli.pro^
 @@||bitly.bz^
 @@||bitly.com^
@@ -5289,6 +5293,7 @@
 @@||distinctrp.live^
 @@||distribute.adobe.com^
 @@||distributions.crowdin.net^
+@@||ditn.top^
 @@||dive.pub^
 @@||divestiture.life^
 @@||divsly.com^
@@ -7195,6 +7200,7 @@
 @@||go.zordo.in^
 @@||go2.do^
 @@||go2.me^
+@@||go2ct.pro^
 @@||go2jump.org^
 @@||go2sm.com^
 @@||go2that.com^
@@ -8267,7 +8273,6 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
-@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||iltalehti.fi^
@@ -10709,6 +10714,7 @@
 @@||metro-tmo.com^
 @@||mewkid.net^
 @@||mex.su^
+@@||mg.mail.notion.so^
 @@||mgbsdk.matrix.netease.com^
 @@||mgfyx.sbs^
 @@||mgnet.me^
@@ -11301,7 +11307,6 @@
 @@||mysupport.sonymobile.com^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -11994,7 +11999,6 @@
 @@||onlinekassirjessica.life^
 @@||onlinevideoconverter.com^
 @@||onlyfansamairanidiaz.live^
-@@||onlyfanscaycoleman.live^
 @@||onmpeg.com^
 @@||onon.in^
 @@||onrpg.com^
@@ -13640,7 +13644,6 @@
 @@||roadandtrack.com^
 @@||roar.media^
 @@||robertdray2.live^
-@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rochester.edu^
@@ -14432,7 +14435,6 @@
 @@||shop.skype.com^
 @@||shopapi.io.mi.com^
 @@||shope.ee^
-@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopify.com^
 @@||shopifystorekms.life^
@@ -14829,7 +14831,6 @@
 @@||snap.com^
 @@||snapchat-payments-gateway.snapchat.com^
 @@||snapchat.com^
-@@||snapchats.life^
 @@||snapdeal.com^
 @@||snapi.live.net^
 @@||snappublisher.snapchat.com^
@@ -15060,6 +15061,7 @@
 @@||srnk.us^
 @@||srnku.sbs^
 @@||srturl.xyz^
+@@||sruuuqg.bond^
 @@||srv.au.ebayrtm.com^
 @@||srv.sec.miui.com^
 @@||srv01.codefusion.technology^
@@ -15963,6 +15965,8 @@
 @@||tdid.m.qq.com^$important
 @@||tdotly.com^
 @@||tdrive.li^
+@@||tdv-adm.live^
+@@||tdvtb.sbs^
 @@||tdy.sg^
 @@||te.deviantart.com^
 @@||te.me^
@@ -16742,6 +16746,7 @@
 @@||ucweb.com^
 @@||uczzd.cn^$important
 @@||ud.me^
+@@||udhbc.com^
 @@||udimg.com^
 @@||udl-api.sonymobile.com^
 @@||udomain.dl.sourceforge.net^
@@ -17404,9 +17409,9 @@
 @@||view.inews.qq.com^$important
 @@||view.status.xbox.com^
 @@||view.vzaar.com^
+@@||vig.fit^
 @@||vigilink.com^
 @@||viglink.com^
-@@||vim-tiktok.live^
 @@||vimeo.com^
 @@||vincenaja46.live^
 @@||vine.co^
@@ -17448,7 +17453,9 @@
 @@||vk.cc^
 @@||vk.com^
 @@||vk.sv^
+@@||vklst.sbs^
 @@||vkontakte.ru^
+@@||vkujd.com^
 @@||vl.am^
 @@||vl.api.np.km.playstation.net^
 @@||vla.lu^
@@ -20077,6 +20084,7 @@
 @@||zshortner.com^
 @@||zsirkacsa.hu^
 @@||zsjdu.com^
+@@||zsote.com^
 @@||ztgame.com^
 @@||zti.me^
 @@||zuki.ie^
