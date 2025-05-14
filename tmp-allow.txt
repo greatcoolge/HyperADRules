@@ -343,7 +343,7 @@
 @@||aax-eu.amazon.in^
 @@||aax-eu.amazon.it^
 @@||aax-eu.amazon.nl^
-@@||aax-eu.amazon.sa^
+@@||aax-eu.amazon.pl^
 @@||aax-fe.amazon.co.jp^
 @@||aax-fe.amazon.com.au^
 @@||aax-fe.amazon.sg^
@@ -643,6 +643,7 @@
 @@||anacapiaestevezortiz.life^
 @@||anacon.org^
 @@||analidiaestevezortizs.life^
+@@||analytics-eu.trustyou.com^
 @@||analytics.google.com
 @@||analytics.hitsmedia.org^
 @@||analytics.trustyou.com^
@@ -1256,6 +1257,7 @@
 @@||c2-au.piano.io^
 @@||c2-eu.piano.io^
 @@||c2.piano.io^
+@@||c2827.dotomi.com^
 @@||c2d.in^
 @@||c3pool.com^
 @@||c80.us^
@@ -1480,7 +1482,6 @@
 @@||click.em.blizzard.com^
 @@||click.em.samsclub.com^
 @@||click.email.jcpenney.com^
-@@||click.email.microsoftemail.com^
 @@||click.email.sonos.com^
 @@||click.emcom.bankofamerica.com^
 @@||click.fidelityinvestments.com^
@@ -2140,6 +2141,7 @@
 @@||em.phncdn.com^
 @@||email-tracking.infobip.com^
 @@||email.microsoft.com^
+@@||email.microsoftemail.com^
 @@||email.microsoftonline.com^
 @@||email.namebase.io^
 @@||email.office.com^
@@ -3053,12 +3055,12 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
+@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||im.alimebot.taobao.com^
 @@||im.qq.com^$important
 @@||image.9game.cn^
-@@||image.email.microsoftemail.com^
 @@||image.quark.cn^
 @@||image.uc.cn^
 @@||image.uc.cn^$important
@@ -4187,6 +4189,7 @@
 @@||mkto-ab040147.com^
 @@||mkto-ab070017.com^
 @@||mkto-ab080206.com^
+@@||mkto-ab150224.com^
 @@||mkto-ab180008.com^
 @@||mkto-ab200065.com^
 @@||mkto-ab210104.com^
@@ -4196,6 +4199,7 @@
 @@||mkto-ab340022.com^
 @@||mkto-ab420081.com^
 @@||mkto-ab470148.com^
+@@||mkto-ab530057.com^
 @@||mkto-ab540059.com^
 @@||mkto-ab540186.com^
 @@||mkto-ab550140.com^
@@ -4209,6 +4213,7 @@
 @@||mkto-ab690062.com^
 @@||mkto-ab690180.com^
 @@||mkto-abj0022.com^
+@@||mkto-abm0229.com^
 @@||mkto-d0170.com^
 @@||mkto-f0054.com^
 @@||mkto-g0030.com^
@@ -4220,19 +4225,25 @@
 @@||mkto-nld1040186.com^
 @@||mkto-o0153.com^
 @@||mkto-sj010104.com^
+@@||mkto-sj030214.com^
 @@||mkto-sj040252.com^
 @@||mkto-sj070214.com^
 @@||mkto-sj070259.com^
 @@||mkto-sj090132.com^
+@@||mkto-sj100138.com^
+@@||mkto-sj140007.com^
 @@||mkto-sj180011.com^
 @@||mkto-sj190104.com^
 @@||mkto-sj190237.com^
+@@||mkto-sj200192.com^
 @@||mkto-sj230006.com^
 @@||mkto-sj240021.com^
 @@||mkto-sj270080.com^
 @@||mkto-sj310061.com^
 @@||mkto-sj310186.com^
 @@||mkto-sj320047.com^
+@@||mkto-sj330006.com^
+@@||mkto-trk.cisco.com^
 @@||mktoweb.com^
 @@||mkug.top^
 @@||mkxiz.top^
@@ -4421,6 +4432,7 @@
 @@||mysp.ac^
 @@||mysurl.com^
 @@||mytd.cc^
+@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -5261,6 +5273,7 @@
 @@||r4---sn-npoldn7s.gvt1.com^
 @@||r4---sn-qxo7rn7e.googlevideo.com^$important
 @@||r4gh8tuab.cc.rs6.net^
+@@||r4ofs8cab.cc.rs6.net^
 @@||r5---sn-4g5ednsl.googlevideo.com^$important
 @@||r5waxhbbb.cc.rs6.net^
 @@||r6lccqnab.cc.rs6.net^
@@ -5299,6 +5312,7 @@
 @@||rdbl.co^
 @@||rdcrss.org^
 @@||rdcu.be^
+@@||rdnybq7ab.cc.rs6.net^
 @@||rdre.me^
 @@||rdrt.cc^
 @@||rdv.az^
@@ -5406,6 +5420,7 @@
 @@||rhtxf.sbs^
 @@||rhub.in^
 @@||rhyiu.sbs^
+@@||ri-cdn.exponea.com^
 @@||ri.ms^
 @@||rice-v-ave.life^
 @@||rickroll.it^
@@ -5441,6 +5456,7 @@
 @@||ro-go.kelkoogroup.net^
 @@||ro.blox.com^
 @@||robertdray2.live^
+@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rog.gg^
@@ -5569,6 +5585,7 @@
 @@||s6.exacttarget.com^
 @@||s7.exacttarget.com^
 @@||s7y.us^
+@@||s8.exacttarget.com^
 @@||sa-link.cc^
 @@||saasmaster.link^
 @@||saddr.xyz^
@@ -5734,6 +5751,7 @@
 @@||shop-ify-store-km.life^
 @@||shop-links.co^
 @@||shope.ee^
+@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopifystorekms.life^
 @@||shoplarryherndon115.life^
@@ -5949,7 +5967,6 @@
 @@||sirpaulfan.live^
 @@||siteco.re^
 @@||sites.hscoscdn-eu1.net^
-@@||sites.hscoscdn-na2.net^
 @@||sites.hscoscdn00.net^
 @@||sites.hscoscdn10.net^
 @@||sites.hscoscdn20.net^
@@ -6017,6 +6034,7 @@
 @@||smu.gs^
 @@||smurl.link^
 @@||sn.im^
+@@||snapchats.life^
 @@||snapt.io^
 @@||snar.co^
 @@||snd.sc^
@@ -6219,11 +6237,15 @@
 @@||suite16.emarsys.net^
 @@||suite17.emarsys.net^
 @@||suite22.emarsys.net^
+@@||suite24.emarsys.net^
+@@||suite27.emarsys.net^
 @@||suite29.emarsys.net^
+@@||suite30.emarsys.net^
+@@||suite32.emarsys.net^
 @@||suite33.emarsys.net^
+@@||suite34.emarsys.net^
 @@||suite38.emarsys.net^
 @@||suite40-cf.emarsys.net^
-@@||suite45.emarsys.net^
 @@||suite54.emarsys.net^
 @@||suite56.emarsys.net^
 @@||suite57.emarsys.net^
@@ -6231,6 +6253,8 @@
 @@||suite59.emarsys.net^
 @@||suite63.emarsys.net^
 @@||suite67-cf.emarsys.net^
+@@||suite7.emarsys.net^
+@@||suite9.emarsys.net^
 @@||sujanaarch.life^
 @@||sukebei.nyaa.si^
 @@||sulejalan.online^
@@ -6683,6 +6707,7 @@
 @@||togoto.us^
 @@||tohle.de^
 @@||toi.in^
+@@||tokogenie.online^
 @@||tokopedia.link^
 @@||tokurlshortener.com^
 @@||toliveal.ie^
@@ -6809,6 +6834,7 @@
 @@||trymongodb.com^
 @@||ts.market.mi-img.com^
 @@||ts.market.mi-img.com^$important
+@@||ts.tradetracker.net^
 @@||tsbk.tw^
 @@||tsp.pm^
 @@||tst.page^
@@ -7229,11 +7255,11 @@
 @@||videos.porsche.cn^
 @@||videos.porsche.com^
 @@||videotxxx.com^
-@@||view.email.microsoftemail.com^
 @@||view.email.nzz.ch^
 @@||view.helpline-app.com^
 @@||view.inews.qq.com^$important
 @@||vigilink.com^
+@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
@@ -7369,6 +7395,7 @@
 @@||wbur.fm^
 @@||wbw6.pl^
 @@||wbze.de^
+@@||wccat.sbs^
 @@||wceo.com^
 @@||wcha.it^
 @@||wd3.it^
@@ -7950,6 +7977,8 @@
 @@||zshort.io^
 @@||zshorten.com^
 @@||zshortner.com^
+@@||zsirkacsa.hu^
+@@||zsjdu.com^
 @@||zti.me^
 @@||zuki.ie^
 @@||zum.bi^
