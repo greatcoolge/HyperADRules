@@ -4,10 +4,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 14 May 2025 07:32 UTC
-! Version: 2025.0514.0732.51
+! Last modified: 14 May 2025 09:51 UTC
+! Version: 2025.0514.0951.06
 ! Syntax: AdBlock
-! Number of entries: 743
+! Number of entries: 767
 !
 @@||l.1mp.ru^
 @@||t.1und1.de^
@@ -63,7 +63,6 @@
 @@||aax-eu.amazon.in^
 @@||aax-eu.amazon.it^
 @@||aax-eu.amazon.nl^
-@@||aax-eu.amazon.pl^
 @@||aax-fe.amazon.sg^
 @@||aax-us-east-retail-direct.amazon.com^
 @@||aax-us-iad.amazon.com^
@@ -157,6 +156,7 @@
 @@||adservice.google.co.th^
 @@||adservice.google.co.uk^
 @@||adservice.google.co.za^
+@@||cloudmail14.netcore.co.in^
 @@||cloudmail16.netcore.co.in^
 @@||cloudmail17.netcore.co.in^
 @@||cloudmail18.netcore.co.in^
@@ -236,6 +236,7 @@
 @@||profitshare.emag.ro^
 @@||list-unsubscribe.eservice.emarsys.net^
 @@||redirector.eservice.emarsys.net^
+@@||suite-dashboard.gservice.emarsys.net^
 @@||suite10.emarsys.net^
 @@||suite11.emarsys.net^
 @@||suite16.emarsys.net^
@@ -249,6 +250,7 @@
 @@||suite33.emarsys.net^
 @@||suite34.emarsys.net^
 @@||suite38.emarsys.net^
+@@||suite40.emarsys.net^
 @@||suite40-cf.emarsys.net^
 @@||suite54.emarsys.net^
 @@||suite56.emarsys.net^
@@ -269,6 +271,7 @@
 @@||evyy.net^
 @@||m.exactag.com^
 @@||tp-emea.exactag.com^
+@@||s13.login.exacttarget.com^
 @@||s1.exacttarget.com^
 @@||s10.exacttarget.com^
 @@||s11.exacttarget.com^
@@ -282,6 +285,7 @@
 @@||s8.exacttarget.com^
 @@||cl.exct.net^
 @@||click.e.usa.experian.com^
+@@||amway-cdn.exponea.com^
 @@||cdn.exponea.com^
 @@||cdn.eu1.exponea.com^
 @@||cdn.ftspecialist.exponea.com^
@@ -309,6 +313,7 @@
 @@||go.link^
 @@||go2jump.org^
 @@||adservice.google.ca^
+@@||adservice.google.ch^
 @@||adservice.google.com^
 @@||adservice.google.de^
 @@||adservice.google.dk^
@@ -345,6 +350,7 @@
 @@||api-eu1.hubapi.com^
 @@||api-na1.hubapi.com^
 @@||api-na2.hubapi.com^
+@@||api-na3.hubapi.com^
 @@||hubspotemail.net^
 @@||hubspotlinks.com^
 @@||ssl.hurra.com^
@@ -370,7 +376,6 @@
 @@||de-go.kelkoogroup.net^
 @@||es-go.kelkoogroup.net^
 @@||fr-go.kelkoogroup.net^
-@@||gr-go.kelkoogroup.net^
 @@||it-go.kelkoogroup.net^
 @@||no-go.kelkoogroup.net^
 @@||pl-go.kelkoogroup.net^
@@ -419,17 +424,26 @@
 @@||mkto-a0095.com^
 @@||mkto-ab040115.com^
 @@||mkto-ab040147.com^
+@@||mkto-ab060144.com^
 @@||mkto-ab070017.com^
 @@||mkto-ab080206.com^
+@@||mkto-ab110171.com^
 @@||mkto-ab150224.com^
 @@||mkto-ab180008.com^
 @@||mkto-ab200065.com^
+@@||mkto-ab200129.com^
 @@||mkto-ab210104.com^
 @@||mkto-ab220178.com^
+@@||mkto-ab240012.com^
+@@||mkto-ab250105.com^
 @@||mkto-ab300154.com^
 @@||mkto-ab310115.com^
+@@||mkto-ab330062.com^
+@@||mkto-ab330197.com^
 @@||mkto-ab340022.com^
+@@||mkto-ab350042.com^
 @@||mkto-ab420081.com^
+@@||mkto-ab440025.com^
 @@||mkto-ab470148.com^
 @@||mkto-ab530057.com^
 @@||mkto-ab540059.com^
@@ -438,6 +452,8 @@
 @@||mkto-ab550168.com^
 @@||mkto-ab560068.com^
 @@||mkto-ab570110.com^
+@@||mkto-ab580004.com^
+@@||mkto-ab640193.com^
 @@||mkto-ab650097.com^
 @@||mkto-ab660121.com^
 @@||mkto-ab690011.com^
@@ -446,6 +462,7 @@
 @@||mkto-ab690180.com^
 @@||mkto-abj0022.com^
 @@||mkto-abm0229.com^
+@@||mkto-cs0007.com^
 @@||mkto-d0170.com^
 @@||mkto-f0054.com^
 @@||mkto-g0030.com^
@@ -453,6 +470,7 @@
 @@||mkto-k0071.com^
 @@||mkto-lon030291.com^
 @@||mkto-lon040152.com^
+@@||mkto-lon100059.com^
 @@||mkto-n0199.com^
 @@||mkto-nld1040186.com^
 @@||mkto-o0153.com^
@@ -462,19 +480,22 @@
 @@||mkto-sj070214.com^
 @@||mkto-sj070259.com^
 @@||mkto-sj090132.com^
-@@||mkto-sj100138.com^
 @@||mkto-sj140007.com^
 @@||mkto-sj180011.com^
 @@||mkto-sj190104.com^
 @@||mkto-sj190237.com^
 @@||mkto-sj200192.com^
+@@||mkto-sj200220.com^
 @@||mkto-sj230006.com^
 @@||mkto-sj240021.com^
 @@||mkto-sj270080.com^
+@@||mkto-sj300121.com^
 @@||mkto-sj310061.com^
 @@||mkto-sj310186.com^
 @@||mkto-sj320047.com^
 @@||mkto-sj330006.com^
+@@||mkto-sj360142.com^
+@@||mkto-test.com^
 @@||mktoweb.com^
 @@||click.mlsend.com^
 @@||t.mmtrkr.com^
@@ -527,6 +548,7 @@
 @@||c2-ap.piano.io^
 @@||c2-au.piano.io^
 @@||c2-eu.piano.io^
+@@||c2-sandbox.piano.io^
 @@||cdn.piano.io^
 @@||cdn-ap.piano.io^
 @@||cdn-au.piano.io^
@@ -576,6 +598,8 @@
 @@||rgkkzvdab.cc.rs6.net^
 @@||rjpz4ucab.cc.rs6.net^
 @@||rq6agxabb.cc.rs6.net^
+@@||rrd9h64ab.cc.rs6.net^
+@@||rudw6zqab.cc.rs6.net^
 @@||rxfc49ebb.cc.rs6.net^
 @@||rz6dkreab.cc.rs6.net^
 @@||r20.rs6.net^

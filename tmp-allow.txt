@@ -345,7 +345,6 @@
 @@||aax-eu.amazon.in^
 @@||aax-eu.amazon.it^
 @@||aax-eu.amazon.nl^
-@@||aax-eu.amazon.pl^
 @@||aax-fe.amazon.co.jp^
 @@||aax-fe.amazon.com.au^
 @@||aax-fe.amazon.sg^
@@ -470,6 +469,7 @@
 @@||ads.so^
 @@||adscendmedia.com^
 @@||adservice.google.ca^
+@@||adservice.google.ch^
 @@||adservice.google.co.id^
 @@||adservice.google.co.in^
 @@||adservice.google.co.jp^
@@ -634,6 +634,7 @@
 @@||ampr.gs^
 @@||amrep.org^
 @@||amspi.top^
+@@||amway-cdn.exponea.com^
 @@||amz.run^
 @@||amzn.com^
 @@||amzn.pw^
@@ -699,6 +700,7 @@
 @@||api-n0vadp-static.hoyoverse.com^
 @@||api-na1.hubapi.com^
 @@||api-na2.hubapi.com^
+@@||api-na3.hubapi.com^
 @@||api.account.xiaomi.com^
 @@||api.account.xiaomi.com^$important
 @@||api.apple-cloudkit.com^
@@ -1079,6 +1081,7 @@
 @@||bitw.in^
 @@||bityl.co^
 @@||biv.to^
+@@||bixurl.com^
 @@||biz15.co^
 @@||bizrate.com^
 @@||bjhig.sbs^
@@ -1260,6 +1263,7 @@
 @@||c2-ap.piano.io^
 @@||c2-au.piano.io^
 @@||c2-eu.piano.io^
+@@||c2-sandbox.piano.io^
 @@||c2.piano.io^
 @@||c2827.dotomi.com^
 @@||c2d.in^
@@ -1552,6 +1556,7 @@
 @@||cloudfare.icu^
 @@||cloudflare-dns.com^
 @@||cloudlettings.live^
+@@||cloudmail14.netcore.co.in^
 @@||cloudmail16.netcore.co.in^
 @@||cloudmail17.netcore.co.in^
 @@||cloudmail18.netcore.co.in^
@@ -2722,7 +2727,6 @@
 @@||gpyew.sbs^
 @@||gq.mn^
 @@||gqqri.top^
-@@||gr-go.kelkoogroup.net^
 @@||gr.pn^
 @@||grabify.link^
 @@||graph.qq.com^$important
@@ -4193,17 +4197,26 @@
 @@||mkto-a0095.com^
 @@||mkto-ab040115.com^
 @@||mkto-ab040147.com^
+@@||mkto-ab060144.com^
 @@||mkto-ab070017.com^
 @@||mkto-ab080206.com^
+@@||mkto-ab110171.com^
 @@||mkto-ab150224.com^
 @@||mkto-ab180008.com^
 @@||mkto-ab200065.com^
+@@||mkto-ab200129.com^
 @@||mkto-ab210104.com^
 @@||mkto-ab220178.com^
+@@||mkto-ab240012.com^
+@@||mkto-ab250105.com^
 @@||mkto-ab300154.com^
 @@||mkto-ab310115.com^
+@@||mkto-ab330062.com^
+@@||mkto-ab330197.com^
 @@||mkto-ab340022.com^
+@@||mkto-ab350042.com^
 @@||mkto-ab420081.com^
+@@||mkto-ab440025.com^
 @@||mkto-ab470148.com^
 @@||mkto-ab530057.com^
 @@||mkto-ab540059.com^
@@ -4212,6 +4225,8 @@
 @@||mkto-ab550168.com^
 @@||mkto-ab560068.com^
 @@||mkto-ab570110.com^
+@@||mkto-ab580004.com^
+@@||mkto-ab640193.com^
 @@||mkto-ab650097.com^
 @@||mkto-ab660121.com^
 @@||mkto-ab690011.com^
@@ -4220,6 +4235,7 @@
 @@||mkto-ab690180.com^
 @@||mkto-abj0022.com^
 @@||mkto-abm0229.com^
+@@||mkto-cs0007.com^
 @@||mkto-d0170.com^
 @@||mkto-f0054.com^
 @@||mkto-g0030.com^
@@ -4227,6 +4243,7 @@
 @@||mkto-k0071.com^
 @@||mkto-lon030291.com^
 @@||mkto-lon040152.com^
+@@||mkto-lon100059.com^
 @@||mkto-n0199.com^
 @@||mkto-nld1040186.com^
 @@||mkto-o0153.com^
@@ -4236,19 +4253,22 @@
 @@||mkto-sj070214.com^
 @@||mkto-sj070259.com^
 @@||mkto-sj090132.com^
-@@||mkto-sj100138.com^
 @@||mkto-sj140007.com^
 @@||mkto-sj180011.com^
 @@||mkto-sj190104.com^
 @@||mkto-sj190237.com^
 @@||mkto-sj200192.com^
+@@||mkto-sj200220.com^
 @@||mkto-sj230006.com^
 @@||mkto-sj240021.com^
 @@||mkto-sj270080.com^
+@@||mkto-sj300121.com^
 @@||mkto-sj310061.com^
 @@||mkto-sj310186.com^
 @@||mkto-sj320047.com^
 @@||mkto-sj330006.com^
+@@||mkto-sj360142.com^
+@@||mkto-test.com^
 @@||mkto-trk.cisco.com^
 @@||mktoweb.com^
 @@||mkug.top^
@@ -4710,6 +4730,7 @@
 @@||onlineclothes.live^
 @@||onlinekassirjessica.life^
 @@||onlyfansamairanidiaz.live^
+@@||onlyfanscaycoleman.live^
 @@||onon.in^
 @@||onx.la^
 @@||oo0oo.icu^
@@ -5460,6 +5481,7 @@
 @@||ro-go.kelkoogroup.net^
 @@||ro.blox.com^
 @@||robertdray2.live^
+@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rog.gg^
@@ -5486,6 +5508,7 @@
 @@||rqnav.com^
 @@||rqtfy.com^
 @@||rr.be^
+@@||rrd9h64ab.cc.rs6.net^
 @@||rrsby.com^
 @@||rsc.li^
 @@||rsg.ms^
@@ -5496,6 +5519,7 @@
 @@||rtube.nl^
 @@||rtvote.com^
 @@||rtxt.co^
+@@||rudw6zqab.cc.rs6.net^
 @@||run.admost.com^
 @@||rupilinks.com^
 @@||rusd.in^
@@ -5570,6 +5594,7 @@
 @@||s12.exacttarget.com^
 @@||s12d.com^
 @@||s13.exacttarget.com^
+@@||s13.login.exacttarget.com^
 @@||s2.hdslb.com^
 @@||s21.us^
 @@||s23.us^
@@ -5754,6 +5779,7 @@
 @@||shop-ify-store-km.life^
 @@||shop-links.co^
 @@||shope.ee^
+@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopifystorekms.life^
 @@||shoplarryherndon115.life^
@@ -6036,6 +6062,7 @@
 @@||smu.gs^
 @@||smurl.link^
 @@||sn.im^
+@@||snapchats.life^
 @@||snapt.io^
 @@||snar.co^
 @@||snd.sc^
@@ -6222,7 +6249,6 @@
 @@||strms.ly^
 @@||stspg.io^
 @@||stts.in^
-@@||sttu.info^
 @@||study.163.com^
 @@||stuf.in^
 @@||stvkr.com^
@@ -6234,6 +6260,7 @@
 @@||sugar.zhihu.com^
 @@||suggestion.baidu.com^
 @@||sugs.m.sm.cn^
+@@||suite-dashboard.gservice.emarsys.net^
 @@||suite10.emarsys.net^
 @@||suite11.emarsys.net^
 @@||suite16.emarsys.net^
@@ -6248,6 +6275,7 @@
 @@||suite34.emarsys.net^
 @@||suite38.emarsys.net^
 @@||suite40-cf.emarsys.net^
+@@||suite40.emarsys.net^
 @@||suite54.emarsys.net^
 @@||suite56.emarsys.net^
 @@||suite57.emarsys.net^
@@ -6938,6 +6966,7 @@
 @@||uct-tobacco.live^
 @@||uczzd.cn^$important
 @@||udhbc.com^
+@@||udylo.rest^
 @@||ue.flipboard.com^
 @@||uee.me^$important
 @@||uepx.com^
@@ -7265,6 +7294,7 @@
 @@||view.inews.qq.com^$important
 @@||vig.fit^
 @@||vigilink.com^
+@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
@@ -7288,6 +7318,7 @@
 @@||vkujd.com^
 @@||vl.am^
 @@||vla.lu^
+@@||vlcbm.com^
 @@||vlink.cz^
 @@||vm.gtimg.cn^
 @@||vms.bz^
