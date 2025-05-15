@@ -146,6 +146,7 @@
 @@||123-reg.co.uk^
 @@||123.ge^
 @@||123greetings.com^
+@@||123l.pro^
 @@||123link.co^
 @@||123lnk.xyz^
 @@||123movies.to^
@@ -642,6 +643,7 @@
 @@||abr.ai^
 @@||abr.to^
 @@||abre-videos.cdn1122.com^
+@@||abre.ae^
 @@||abre.ai^
 @@||abre.pub^
 @@||abroad.apilocate.amap.com^
@@ -2679,6 +2681,7 @@
 @@||axs.com^
 @@||ay.gy^
 @@||aylink.co^
+@@||aypkl.com^
 @@||ayt.fr^
 @@||ayzyu.com^
 @@||az.gravatar.com^
@@ -3339,6 +3342,7 @@
 @@||btc.com^
 @@||btcc.com^
 @@||btco.link^
+@@||btf.st^
 @@||btly.cc^
 @@||btm.li^
 @@||btrace.qq.com^$important
@@ -5357,6 +5361,7 @@
 @@||dldir.xiaomi.net^
 @@||dldir1.qq.com^
 @@||dldir1.qq.com^$important
+@@||dldir1v6.qq.com^
 @@||dlglobal.qq.com^
 @@||dlied1.qq.com^
 @@||dlied5.myapp.com^
@@ -12019,7 +12024,6 @@
 @@||onlinekassirjessica.life^
 @@||onlinevideoconverter.com^
 @@||onlyfansamairanidiaz.live^
-@@||onlyfanscaycoleman.live^
 @@||onmpeg.com^
 @@||onon.in^
 @@||onrpg.com^
@@ -13665,7 +13669,6 @@
 @@||roadandtrack.com^
 @@||roar.media^
 @@||robertdray2.live^
-@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rochester.edu^
@@ -14460,7 +14463,6 @@
 @@||shop.skype.com^
 @@||shopapi.io.mi.com^
 @@||shope.ee^
-@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopify.com^
 @@||shopifystorekms.life^
@@ -14857,7 +14859,6 @@
 @@||snap.com^
 @@||snapchat-payments-gateway.snapchat.com^
 @@||snapchat.com^
-@@||snapchats.life^
 @@||snapdeal.com^
 @@||snapi.live.net^
 @@||snappublisher.snapchat.com^
@@ -15107,6 +15108,7 @@
 @@||ss777.games^
 @@||ss777.win^
 @@||ss88.my^
+@@||ssa.li^
 @@||ssc2003.info^
 @@||ssj-1256119282.cos.ap-guangzhou.myqcloud.com^
 @@||ssktf.com^
@@ -16051,6 +16053,7 @@
 @@||tenforums.com^
 @@||ter.li^
 @@||terabox.in^
+@@||terabox.pw^
 @@||terahnahor.info^
 @@||terakki.link^
 @@||terasi.net^
@@ -17441,7 +17444,6 @@
 @@||vig.fit^
 @@||vigilink.com^
 @@||viglink.com^
-@@||vim-tiktok.live^
 @@||vimeo.com^
 @@||vincenaja46.live^
 @@||vine.co^
@@ -17492,6 +17494,7 @@
 @@||vlab.pp.ru^
 @@||vlcbm.com^
 @@||vlink.cz^
+@@||vloggi.com^
 @@||vm.gtimg.cn^
 @@||vmp-beta.boldchat.com^
 @@||vmp-eu.boldchat.com^
@@ -17731,9 +17734,13 @@
 @@||wd3.it^
 @@||wdcp.microsoft.com^
 @@||wdcpalt.microsoft.com^
+@@||wdkbw.info^
+@@||wdpcq.com^
+@@||wdphk.top^
 @@||wdsh.rs^
 @@||we.co^
 @@||we.tl^
+@@||we4.us^
 @@||weak.tk^
 @@||weall.vote^
 @@||wearables.engadget.com^
@@ -19950,6 +19957,7 @@
 @@||yuque.com^
 @@||yurl.in^
 @@||yweb.com^
+@@||ywum.top^
 @@||yx.si^
 @@||yxe3d.paulchavady.com^
 @@||yximgs.com^

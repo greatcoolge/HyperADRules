@@ -108,6 +108,7 @@
 123-reg.co.uk
 123.ge
 123greetings.com
+123l.pro
 123link.co
 123lnk.xyz
 123movies.to
@@ -616,6 +617,7 @@ abpl.top
 abr.ai
 abr.to
 abre-videos.cdn1122.com
+abre.ae
 abre.ai
 abre.pub
 abroad.apilocate.amap.com
@@ -2621,6 +2623,7 @@ axoni.us
 axs.com
 ay.gy
 aylink.co
+aypkl.com
 ayt.fr
 ayzyu.com
 az.gravatar.com
@@ -3274,6 +3277,7 @@ bt.ke
 btc.com
 btcc.com
 btco.link
+btf.st
 btly.cc
 btm.li
 btstatic.com
@@ -5259,6 +5263,7 @@ dlassets-ssl.xboxlive.com
 dld.bz
 dldir.xiaomi.net
 dldir1.qq.com
+dldir1v6.qq.com
 dlglobal.qq.com
 dlied1.qq.com
 dlied5.myapp.com
@@ -11839,7 +11844,6 @@ onlineclothes.live
 onlinekassirjessica.life
 onlinevideoconverter.com
 onlyfansamairanidiaz.live
-onlyfanscaycoleman.live
 onmpeg.com
 onon.in
 onrpg.com
@@ -13457,7 +13461,6 @@ road.adblock.ro
 roadandtrack.com
 roar.media
 robertdray2.live
-robloxgroup.life
 robloxtech.live
 robul.saas.workertm.com
 rochester.edu
@@ -14247,7 +14250,6 @@ shop.samsung.com.edgekey.net
 shop.skype.com
 shopapi.io.mi.com
 shope.ee
-shopeedeals.sale
 shopifie.com
 shopify.com
 shopifystorekms.life
@@ -14641,7 +14643,6 @@ snahp.it
 snap.com
 snapchat-payments-gateway.snapchat.com
 snapchat.com
-snapchats.life
 snapdeal.com
 snapi.live.net
 snappublisher.snapchat.com
@@ -14883,6 +14884,7 @@ ss777-sl.ca
 ss777.games
 ss777.win
 ss88.my
+ssa.li
 ssc2003.info
 ssj-1256119282.cos.ap-guangzhou.myqcloud.com
 ssktf.com
@@ -15815,6 +15817,7 @@ tencentgames.helpshift.com
 tenforums.com
 ter.li
 terabox.in
+terabox.pw
 terahnahor.info
 terakki.link
 terasi.net
@@ -17186,7 +17189,6 @@ view.vzaar.com
 vig.fit
 vigilink.com
 viglink.com
-vim-tiktok.live
 vimeo.com
 vincenaja46.live
 vine.co
@@ -17237,6 +17239,7 @@ vla.lu
 vlab.pp.ru
 vlcbm.com
 vlink.cz
+vloggi.com
 vm.gtimg.cn
 vmp-beta.boldchat.com
 vmp-eu.boldchat.com
@@ -17472,9 +17475,13 @@ wd.getpocket.com
 wd3.it
 wdcp.microsoft.com
 wdcpalt.microsoft.com
+wdkbw.info
+wdpcq.com
+wdphk.top
 wdsh.rs
 we.co
 we.tl
+we4.us
 weak.tk
 weall.vote
 wearables.engadget.com
@@ -19665,6 +19672,7 @@ yunjiasu-cdn.net
 yuque.com
 yurl.in
 yweb.com
+ywum.top
 yx.si
 yxe3d.paulchavady.com
 yximgs.com

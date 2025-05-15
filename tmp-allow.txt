@@ -74,6 +74,7 @@
 @@||11ixcco.com^
 @@||11url.cn^
 @@||123.ge^
+@@||123l.pro^
 @@||123link.co^
 @@||123lnk.xyz^
 @@||124.video^
@@ -379,6 +380,7 @@
 @@||abr.ai^
 @@||abr.to^
 @@||abre-videos.cdn1122.com^
+@@||abre.ae^
 @@||abre.ai^
 @@||abre.pub^
 @@||abs-0.twimg.com^
@@ -917,6 +919,7 @@
 @@||axoni.us^
 @@||ay.gy^
 @@||aylink.co^
+@@||aypkl.com^
 @@||ayt.fr^
 @@||ayzyu.com^
 @@||azali.fr^
@@ -1193,6 +1196,7 @@
 @@||bsu.ac^
 @@||bt.ke^
 @@||btco.link^
+@@||btf.st^
 @@||btly.cc^
 @@||btm.li^
 @@||btrace.qq.com^$important
@@ -1937,6 +1941,7 @@
 @@||dld.bz^
 @@||dldir1.qq.com^
 @@||dldir1.qq.com^$important
+@@||dldir1v6.qq.com^
 @@||dlink.me^
 @@||dlkv.top^
 @@||dlsh.it^
@@ -4730,7 +4735,6 @@
 @@||onlineclothes.live^
 @@||onlinekassirjessica.life^
 @@||onlyfansamairanidiaz.live^
-@@||onlyfanscaycoleman.live^
 @@||onon.in^
 @@||onx.la^
 @@||oo0oo.icu^
@@ -5481,7 +5485,6 @@
 @@||ro-go.kelkoogroup.net^
 @@||ro.blox.com^
 @@||robertdray2.live^
-@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rog.gg^
@@ -5779,7 +5782,6 @@
 @@||shop-ify-store-km.life^
 @@||shop-links.co^
 @@||shope.ee^
-@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopifystorekms.life^
 @@||shoplarryherndon115.life^
@@ -6062,7 +6064,6 @@
 @@||smu.gs^
 @@||smurl.link^
 @@||sn.im^
-@@||snapchats.life^
 @@||snapt.io^
 @@||snar.co^
 @@||snd.sc^
@@ -6161,6 +6162,7 @@
 @@||ss777.games^
 @@||ss777.win^
 @@||ss88.my^
+@@||ssa.li^
 @@||ssc2003.info^
 @@||ssj-1256119282.cos.ap-guangzhou.myqcloud.com^
 @@||ssktf.com^
@@ -6548,6 +6550,7 @@
 @@||temu.to^
 @@||ter.li^
 @@||terabox.in^
+@@||terabox.pw^
 @@||terahnahor.info^
 @@||terakki.link^
 @@||teratai888.ink^
@@ -7294,7 +7297,6 @@
 @@||view.inews.qq.com^$important
 @@||vig.fit^
 @@||vigilink.com^
-@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
@@ -7320,6 +7322,7 @@
 @@||vla.lu^
 @@||vlcbm.com^
 @@||vlink.cz^
+@@||vloggi.com^
 @@||vm.gtimg.cn^
 @@||vms.bz^
 @@||vmsvv.top^
@@ -7437,9 +7440,13 @@
 @@||wceo.com^
 @@||wcha.it^
 @@||wd3.it^
+@@||wdkbw.info^
+@@||wdpcq.com^
+@@||wdphk.top^
 @@||wdsh.rs^
 @@||we.co^
 @@||we.tl^
+@@||we4.us^
 @@||weall.vote^
 @@||weare.rs^
 @@||weatherapi.market.xiaomi.com^
@@ -7912,6 +7919,7 @@
 @@||yun.ir^
 @@||yun.rili.cn^$important
 @@||yweb.com^
+@@||ywum.top^
 @@||yx.si^
 @@||yxe3d.paulchavady.com^
 @@||yys.163.com^

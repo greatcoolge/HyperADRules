@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 14 May 2025 10:24 UTC
-! Version: 2025.0514.1024.50
+! Last modified: 15 May 2025 07:28 UTC
+! Version: 2025.0515.0728.02
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -45,6 +45,7 @@
 @@||11ixcco.com^
 @@||11url.cn^
 @@||123.ge^
+@@||123l.pro^
 @@||123link.co^
 @@||123lnk.xyz^
 @@||124.video^
@@ -298,6 +299,7 @@
 @@||abpl.top^
 @@||abr.ai^
 @@||abr.to^
+@@||abre.ae^
 @@||abre.ai^
 @@||abre.pub^
 @@||abso.lt^
@@ -587,6 +589,7 @@
 @@||axoni.us^
 @@||ay.gy^
 @@||aylink.co^
+@@||aypkl.com^
 @@||ayt.fr^
 @@||ayzyu.com^
 @@||azali.fr^
@@ -836,6 +839,7 @@
 @@||bsu.ac^
 @@||bt.ke^
 @@||btco.link^
+@@||btf.st^
 @@||btly.cc^
 @@||btm.li^
 @@||s.bts-ev.de^
@@ -3336,7 +3340,6 @@
 @@||onlineclothes.live^
 @@||onlinekassirjessica.life^
 @@||onlyfansamairanidiaz.live^
-@@||onlyfanscaycoleman.live^
 @@||onon.in^
 @@||onx.la^
 @@||oo0oo.icu^
@@ -3843,7 +3846,6 @@
 @@||rnm.me^
 @@||rntyu.com^
 @@||robertdray2.live^
-@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||rog.gg^
 @@||roge.rs^
@@ -4039,7 +4041,6 @@
 @@||shoort.io^
 @@||shop-ify-store-km.life^
 @@||shope.ee^
-@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopifystorekms.life^
 @@||shoplarryherndon115.life^
@@ -4290,7 +4291,6 @@
 @@||smu.gs^
 @@||smurl.link^
 @@||sn.im^
-@@||snapchats.life^
 @@||snapt.io^
 @@||snar.co^
 @@||snd.sc^
@@ -4369,6 +4369,7 @@
 @@||ss777.win^
 @@||ss777-sl.ca^
 @@||ss88.my^
+@@||ssa.li^
 @@||ssc2003.info^
 @@||ssktf.com^
 @@||ssl.gs^
@@ -4525,6 +4526,7 @@
 @@||temu.to^
 @@||ter.li^
 @@||terabox.in^
+@@||terabox.pw^
 @@||terahnahor.info^
 @@||terakki.link^
 @@||teratai888.ink^
@@ -5096,7 +5098,6 @@
 @@||videopro.live^
 @@||vig.fit^
 @@||vigilink.com^
-@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
@@ -5120,6 +5121,7 @@
 @@||vla.lu^
 @@||vlcbm.com^
 @@||vlink.cz^
+@@||vloggi.com^
 @@||vms.bz^
 @@||vmsvv.top^
 @@||vnl.vn^
@@ -5219,9 +5221,13 @@
 @@||wceo.com^
 @@||wcha.it^
 @@||wd3.it^
+@@||wdkbw.info^
+@@||wdpcq.com^
+@@||wdphk.top^
 @@||wdsh.rs^
 @@||we.co^
 @@||we.tl^
+@@||we4.us^
 @@||weall.vote^
 @@||weare.rs^
 @@||web99.eu^
@@ -5515,6 +5521,7 @@
 @@||yukibio.com^
 @@||yun.ir^
 @@||yweb.com^
+@@||ywum.top^
 @@||yx.si^
 @@||yyv.co^
 @@||d.yzh.li^
