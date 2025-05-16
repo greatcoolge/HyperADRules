@@ -267,6 +267,7 @@
 @@||7g7.ir^
 @@||7i.se^
 @@||7kts.com^
+@@||7li.in^
 @@||7link.info^
 @@||7links.co^
 @@||7n.re^
@@ -346,6 +347,8 @@
 @@||aax-eu.amazon.in^
 @@||aax-eu.amazon.it^
 @@||aax-eu.amazon.nl^
+@@||aax-eu.amazon.sa^
+@@||aax-eu.amazon.se^
 @@||aax-fe.amazon.co.jp^
 @@||aax-fe.amazon.com.au^
 @@||aax-fe.amazon.sg^
@@ -407,6 +410,8 @@
 @@||acg.kr^
 @@||acg02.cc^
 @@||acortar.link^
+@@||acrefo.com^
+@@||acrestic.com^
 @@||acrt.us^
 @@||acs.m.taobao.com^
 @@||acs.m.taobao.com^
@@ -440,6 +445,7 @@
 @@||addict-tt27.life^
 @@||adeolasagay.live^
 @@||adesta.cc^
+@@||adf.ly^
 @@||adfa.st^
 @@||adflydsp.com^
 @@||adflyfly.com^
@@ -470,8 +476,8 @@
 @@||adrians-guzman-81.life^
 @@||ads.so^
 @@||adscendmedia.com^
+@@||adsclicks.life^
 @@||adservice.google.ca^
-@@||adservice.google.ch^
 @@||adservice.google.co.id^
 @@||adservice.google.co.in^
 @@||adservice.google.co.jp^
@@ -669,6 +675,7 @@
 @@||anep.top^
 @@||angl.at^
 @@||animerep.com^
+@@||anisepretzel.com^
 @@||anizam.ru^
 @@||anmeld.biz^
 @@||annas-archive.org^
@@ -682,6 +689,7 @@
 @@||antinawala.team^
 @@||anupgopurams.life^
 @@||anvcc.top^
+@@||any.gs^
 @@||anyimage.io^
 @@||aod.cos.tx.xmcdn.com^
 @@||aol.it^
@@ -820,6 +828,7 @@
 @@||apzjp.sbs^
 @@||apzones.com^
 @@||aqehb.com^
+@@||aqva.pl^
 @@||aqyne.com^
 @@||ar-technology.live^
 @@||arab.news^
@@ -958,6 +967,7 @@
 @@||baikebcs.bdimg.com^
 @@||baixeapk.com^
 @@||balls.no^
+@@||bamaccoin.com^
 @@||bankcomm.com^
 @@||baratun.de^
 @@||barbenady.live^
@@ -1145,6 +1155,7 @@
 @@||boofola.link^
 @@||book.qidian.com^
 @@||bookcover.yuewen.com^
+@@||bookdjprime.com^
 @@||booki.ng^
 @@||bookstw.link^
 @@||boost.ink^
@@ -2538,6 +2549,7 @@
 @@||geniuslink.com^
 @@||genshin.hoyoverse.com^
 @@||geo.itunes.apple.com^
+@@||geo01.dns.presslabs.net^
 @@||geo02.dns.presslabs.net^
 @@||geo1.presslabs.net^
 @@||george-dab-a.life^
@@ -4205,23 +4217,20 @@
 @@||mkto-ab060144.com^
 @@||mkto-ab070017.com^
 @@||mkto-ab080206.com^
-@@||mkto-ab110171.com^
-@@||mkto-ab150224.com^
 @@||mkto-ab180008.com^
 @@||mkto-ab200065.com^
-@@||mkto-ab200129.com^
 @@||mkto-ab210104.com^
 @@||mkto-ab220178.com^
 @@||mkto-ab240012.com^
 @@||mkto-ab250105.com^
 @@||mkto-ab300154.com^
 @@||mkto-ab310115.com^
-@@||mkto-ab330062.com^
 @@||mkto-ab330197.com^
 @@||mkto-ab340022.com^
 @@||mkto-ab350042.com^
 @@||mkto-ab420081.com^
 @@||mkto-ab440025.com^
+@@||mkto-ab440098.com^
 @@||mkto-ab470148.com^
 @@||mkto-ab530057.com^
 @@||mkto-ab540059.com^
@@ -4230,7 +4239,6 @@
 @@||mkto-ab550168.com^
 @@||mkto-ab560068.com^
 @@||mkto-ab570110.com^
-@@||mkto-ab580004.com^
 @@||mkto-ab640193.com^
 @@||mkto-ab650097.com^
 @@||mkto-ab660121.com^
@@ -4245,9 +4253,11 @@
 @@||mkto-f0054.com^
 @@||mkto-g0030.com^
 @@||mkto-g0180.com^
+@@||mkto-j0126.com^
 @@||mkto-k0071.com^
 @@||mkto-lon030291.com^
 @@||mkto-lon040152.com^
+@@||mkto-lon090082.com^
 @@||mkto-lon100059.com^
 @@||mkto-n0199.com^
 @@||mkto-nld1040186.com^
@@ -4258,16 +4268,14 @@
 @@||mkto-sj070214.com^
 @@||mkto-sj070259.com^
 @@||mkto-sj090132.com^
-@@||mkto-sj140007.com^
 @@||mkto-sj180011.com^
 @@||mkto-sj190104.com^
 @@||mkto-sj190237.com^
 @@||mkto-sj200192.com^
-@@||mkto-sj200220.com^
 @@||mkto-sj230006.com^
 @@||mkto-sj240021.com^
 @@||mkto-sj270080.com^
-@@||mkto-sj300121.com^
+@@||mkto-sj300120.com^
 @@||mkto-sj310061.com^
 @@||mkto-sj310186.com^
 @@||mkto-sj320047.com^
@@ -5314,10 +5322,12 @@
 @@||raic.hu^
 @@||rainonit.com^
 @@||rajamahjong.site^
+@@||rak7fucab.cc.rs6.net^
 @@||rakaug.com^
 @@||ramcourier.live^
 @@||rankgenius.live^
 @@||rantenah.com^
+@@||raoteqdab.cc.rs6.net^
 @@||ravshort.com^
 @@||raxpj.com^
 @@||raykiemery.com^
@@ -5341,7 +5351,6 @@
 @@||rdbl.co^
 @@||rdcrss.org^
 @@||rdcu.be^
-@@||rdnybq7ab.cc.rs6.net^
 @@||rdre.me^
 @@||rdrt.cc^
 @@||rdv.az^
@@ -5459,6 +5468,7 @@
 @@||riot.com^
 @@||rip.city^
 @@||rip.to^
+@@||rismehabb.cc.rs6.net^
 @@||risu.io^
 @@||ritea.id^
 @@||rivera-quinones-luis-manuel-5.life^
@@ -5511,7 +5521,6 @@
 @@||rqnav.com^
 @@||rqtfy.com^
 @@||rr.be^
-@@||rrd9h64ab.cc.rs6.net^
 @@||rrsby.com^
 @@||rsc.li^
 @@||rsg.ms^
@@ -6274,9 +6283,7 @@
 @@||suite30.emarsys.net^
 @@||suite32.emarsys.net^
 @@||suite33.emarsys.net^
-@@||suite34.emarsys.net^
 @@||suite38.emarsys.net^
-@@||suite40-cf.emarsys.net^
 @@||suite40.emarsys.net^
 @@||suite54.emarsys.net^
 @@||suite56.emarsys.net^
@@ -6284,7 +6291,6 @@
 @@||suite58.emarsys.net^
 @@||suite59.emarsys.net^
 @@||suite63.emarsys.net^
-@@||suite67-cf.emarsys.net^
 @@||suite7.emarsys.net^
 @@||suite9.emarsys.net^
 @@||sujanaarch.life^
@@ -6553,6 +6559,7 @@
 @@||terabox.pw^
 @@||terahnahor.info^
 @@||terakki.link^
+@@||terasherelinks.site^
 @@||teratai888.ink^
 @@||terbar.ink^
 @@||terijoss.com^
@@ -7035,8 +7042,10 @@
 @@||unzp.top^
 @@||uofr.us^
 @@||uoft.me^
+@@||uokko.sbs^
 @@||uom.link^
 @@||uop.quark.cn^
+@@||uos.cc^
 @@||up.to^
 @@||update.miui.com^$important
 @@||updateinfo.market.xiaomi.com^
@@ -7839,6 +7848,7 @@
 @@||yagoa.fr^
 @@||yahbo.com^
 @@||yal.su^
+@@||yalepccsm.com^
 @@||yalink.ru^
 @@||yamechanic.com^
 @@||yande.re^
@@ -8027,6 +8037,7 @@
 @@||zsjdu.com^
 @@||zsote.com^
 @@||zti.me^
+@@||zugco.sbs^
 @@||zuki.ie^
 @@||zum.bi^
 @@||zuplo.link^

@@ -4,10 +4,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 14 May 2025 09:51 UTC
-! Version: 2025.0514.0951.06
+! Last modified: 15 May 2025 14:56 UTC
+! Version: 2025.0515.1456.14
 ! Syntax: AdBlock
-! Number of entries: 767
+! Number of entries: 763
 !
 @@||l.1mp.ru^
 @@||t.1und1.de^
@@ -63,6 +63,8 @@
 @@||aax-eu.amazon.in^
 @@||aax-eu.amazon.it^
 @@||aax-eu.amazon.nl^
+@@||aax-eu.amazon.sa^
+@@||aax-eu.amazon.se^
 @@||aax-fe.amazon.sg^
 @@||aax-us-east-retail-direct.amazon.com^
 @@||aax-us-iad.amazon.com^
@@ -248,17 +250,14 @@
 @@||suite30.emarsys.net^
 @@||suite32.emarsys.net^
 @@||suite33.emarsys.net^
-@@||suite34.emarsys.net^
 @@||suite38.emarsys.net^
 @@||suite40.emarsys.net^
-@@||suite40-cf.emarsys.net^
 @@||suite54.emarsys.net^
 @@||suite56.emarsys.net^
 @@||suite57.emarsys.net^
 @@||suite58.emarsys.net^
 @@||suite59.emarsys.net^
 @@||suite63.emarsys.net^
-@@||suite67-cf.emarsys.net^
 @@||suite7.emarsys.net^
 @@||suite9.emarsys.net^
 @@||emjcd.com^
@@ -313,7 +312,6 @@
 @@||go.link^
 @@||go2jump.org^
 @@||adservice.google.ca^
-@@||adservice.google.ch^
 @@||adservice.google.com^
 @@||adservice.google.de^
 @@||adservice.google.dk^
@@ -427,23 +425,20 @@
 @@||mkto-ab060144.com^
 @@||mkto-ab070017.com^
 @@||mkto-ab080206.com^
-@@||mkto-ab110171.com^
-@@||mkto-ab150224.com^
 @@||mkto-ab180008.com^
 @@||mkto-ab200065.com^
-@@||mkto-ab200129.com^
 @@||mkto-ab210104.com^
 @@||mkto-ab220178.com^
 @@||mkto-ab240012.com^
 @@||mkto-ab250105.com^
 @@||mkto-ab300154.com^
 @@||mkto-ab310115.com^
-@@||mkto-ab330062.com^
 @@||mkto-ab330197.com^
 @@||mkto-ab340022.com^
 @@||mkto-ab350042.com^
 @@||mkto-ab420081.com^
 @@||mkto-ab440025.com^
+@@||mkto-ab440098.com^
 @@||mkto-ab470148.com^
 @@||mkto-ab530057.com^
 @@||mkto-ab540059.com^
@@ -452,7 +447,6 @@
 @@||mkto-ab550168.com^
 @@||mkto-ab560068.com^
 @@||mkto-ab570110.com^
-@@||mkto-ab580004.com^
 @@||mkto-ab640193.com^
 @@||mkto-ab650097.com^
 @@||mkto-ab660121.com^
@@ -467,9 +461,11 @@
 @@||mkto-f0054.com^
 @@||mkto-g0030.com^
 @@||mkto-g0180.com^
+@@||mkto-j0126.com^
 @@||mkto-k0071.com^
 @@||mkto-lon030291.com^
 @@||mkto-lon040152.com^
+@@||mkto-lon090082.com^
 @@||mkto-lon100059.com^
 @@||mkto-n0199.com^
 @@||mkto-nld1040186.com^
@@ -480,16 +476,14 @@
 @@||mkto-sj070214.com^
 @@||mkto-sj070259.com^
 @@||mkto-sj090132.com^
-@@||mkto-sj140007.com^
 @@||mkto-sj180011.com^
 @@||mkto-sj190104.com^
 @@||mkto-sj190237.com^
 @@||mkto-sj200192.com^
-@@||mkto-sj200220.com^
 @@||mkto-sj230006.com^
 @@||mkto-sj240021.com^
 @@||mkto-sj270080.com^
-@@||mkto-sj300121.com^
+@@||mkto-sj300120.com^
 @@||mkto-sj310061.com^
 @@||mkto-sj310186.com^
 @@||mkto-sj320047.com^
@@ -564,6 +558,7 @@
 @@||pntrack.com^
 @@||postaffiliatepro.com^
 @@||ndirect.ppro.de^
+@@||geo01.dns.presslabs.net^
 @@||geo02.dns.presslabs.net^
 @@||geo1.presslabs.net^
 @@||prf.hn^
@@ -594,11 +589,12 @@
 @@||r5waxhbbb.cc.rs6.net^
 @@||r6lccqnab.cc.rs6.net^
 @@||r7avxrcab.cc.rs6.net^
-@@||rdnybq7ab.cc.rs6.net^
+@@||rak7fucab.cc.rs6.net^
+@@||raoteqdab.cc.rs6.net^
 @@||rgkkzvdab.cc.rs6.net^
+@@||rismehabb.cc.rs6.net^
 @@||rjpz4ucab.cc.rs6.net^
 @@||rq6agxabb.cc.rs6.net^
-@@||rrd9h64ab.cc.rs6.net^
 @@||rudw6zqab.cc.rs6.net^
 @@||rxfc49ebb.cc.rs6.net^
 @@||rz6dkreab.cc.rs6.net^

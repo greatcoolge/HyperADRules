@@ -410,6 +410,7 @@
 7g7.ir
 7i.se
 7kts.com
+7li.in
 7link.info
 7links.co
 7moor.com
@@ -569,6 +570,8 @@ aax-eu.amazon.fr
 aax-eu.amazon.in
 aax-eu.amazon.it
 aax-eu.amazon.nl
+aax-eu.amazon.sa
+aax-eu.amazon.se
 aax-fe.amazon.co.jp
 aax-fe.amazon.com.au
 aax-fe.amazon.sg
@@ -712,6 +715,8 @@ acquisition-1.americanexpress.com
 acr-search.sonymobile.com
 acr.sonymobile.com
 acr0.samsungcloudsolution.com
+acrefo.com
+acrestic.com
 acrobat.adobe.com
 acroipm.adobe.com
 acroipm2.adobe.com
@@ -873,8 +878,8 @@ ads.so
 ads.talkbusiness.net
 ads.twitter.com
 adscendmedia.com
+adsclicks.life
 adservice.google.ca
-adservice.google.ch
 adservice.google.co.id
 adservice.google.co.in
 adservice.google.co.jp
@@ -1779,6 +1784,7 @@ animefreak.tv
 animeheaven.eu
 animerep.com
 animeseason.com
+anisepretzel.com
 anizam.ru
 anmeld.biz
 annas-archive.org
@@ -1805,6 +1811,7 @@ anurl.com
 anvcc.top
 anvil.opentok.com
 any-in-2015.1e100.net
+any.gs
 anyimage.io
 aod.cos.tx.xmcdn.com
 aol.com
@@ -2334,6 +2341,7 @@ apzjp.sbs
 apzones.com
 aqehb.com
 aquacard.co.uk
+aqva.pl
 aqyne.com
 ar-ar.about.flipboard.com
 ar-technology.live
@@ -2703,6 +2711,7 @@ balancer.wixdns.net
 balls.no
 baltimore.cbslocal.com
 bam.nr-data.net
+bamaccoin.com
 bamgrid.com
 bandcamp.com
 bandwagonhost.com
@@ -3161,6 +3170,7 @@ book.daum.net
 book.naver.com
 book.qidian.com
 bookcover.yuewen.com
+bookdjprime.com
 booki.ng
 booking.com
 booking.naver.com
@@ -6816,6 +6826,7 @@ geo.nbcsports.com
 geo.paypalobjects.com.akadns.net
 geo.settings-win.data.microsoft.com.akadns.net
 geo.settings.data.microsoft.com.akadns.net
+geo01.dns.presslabs.net
 geo02.dns.presslabs.net
 geo1.presslabs.net
 geo2.adobe.com
@@ -10702,23 +10713,20 @@ mkto-ab040147.com
 mkto-ab060144.com
 mkto-ab070017.com
 mkto-ab080206.com
-mkto-ab110171.com
-mkto-ab150224.com
 mkto-ab180008.com
 mkto-ab200065.com
-mkto-ab200129.com
 mkto-ab210104.com
 mkto-ab220178.com
 mkto-ab240012.com
 mkto-ab250105.com
 mkto-ab300154.com
 mkto-ab310115.com
-mkto-ab330062.com
 mkto-ab330197.com
 mkto-ab340022.com
 mkto-ab350042.com
 mkto-ab420081.com
 mkto-ab440025.com
+mkto-ab440098.com
 mkto-ab470148.com
 mkto-ab530057.com
 mkto-ab540059.com
@@ -10727,7 +10735,6 @@ mkto-ab550140.com
 mkto-ab550168.com
 mkto-ab560068.com
 mkto-ab570110.com
-mkto-ab580004.com
 mkto-ab640193.com
 mkto-ab650097.com
 mkto-ab660121.com
@@ -10742,9 +10749,11 @@ mkto-d0170.com
 mkto-f0054.com
 mkto-g0030.com
 mkto-g0180.com
+mkto-j0126.com
 mkto-k0071.com
 mkto-lon030291.com
 mkto-lon040152.com
+mkto-lon090082.com
 mkto-lon100059.com
 mkto-n0199.com
 mkto-nld1040186.com
@@ -10755,16 +10764,14 @@ mkto-sj040252.com
 mkto-sj070214.com
 mkto-sj070259.com
 mkto-sj090132.com
-mkto-sj140007.com
 mkto-sj180011.com
 mkto-sj190104.com
 mkto-sj190237.com
 mkto-sj200192.com
-mkto-sj200220.com
 mkto-sj230006.com
 mkto-sj240021.com
 mkto-sj270080.com
-mkto-sj300121.com
+mkto-sj300120.com
 mkto-sj310061.com
 mkto-sj310186.com
 mkto-sj320047.com
@@ -13112,6 +13119,7 @@ raindrop.io
 rainonit.com
 raise.ada.support
 rajamahjong.site
+rak7fucab.cc.rs6.net
 rakaug.com
 rakuten.co.jp
 rambler.ru
@@ -13123,6 +13131,7 @@ rankgenius.live
 ranking.rakuten.co.jp
 ransomwaretracker.abuse.ch
 rantenah.com
+raoteqdab.cc.rs6.net
 rapidgator.net
 rapidshare.com
 rapidvid.to
@@ -13180,7 +13189,6 @@ rdbl.co
 rdcrss.org
 rdcu.be
 rdl.ink
-rdnybq7ab.cc.rs6.net
 rdre.me
 rdrt.cc
 rds-assets.nvidia.com
@@ -13418,6 +13426,7 @@ riotpixels.com
 rip.city
 rip.to
 ris.api.iris.microsoft.com
+rismehabb.cc.rs6.net
 risu.io
 ritea.id
 rivera-quinones-luis-manuel-5.life
@@ -13504,7 +13513,6 @@ rq6agxabb.cc.rs6.net
 rqnav.com
 rqtfy.com
 rr.be
-rrd9h64ab.cc.rs6.net
 rrsby.com
 rs.playstation.com
 rs6.net
@@ -15339,9 +15347,7 @@ suite29.emarsys.net
 suite30.emarsys.net
 suite32.emarsys.net
 suite33.emarsys.net
-suite34.emarsys.net
 suite38.emarsys.net
-suite40-cf.emarsys.net
 suite40.emarsys.net
 suite54.emarsys.net
 suite56.emarsys.net
@@ -15349,7 +15355,6 @@ suite57.emarsys.net
 suite58.emarsys.net
 suite59.emarsys.net
 suite63.emarsys.net
-suite67-cf.emarsys.net
 suite7.emarsys.net
 suite9.emarsys.net
 sujanaarch.life
@@ -15820,6 +15825,7 @@ terabox.in
 terabox.pw
 terahnahor.info
 terakki.link
+terasherelinks.site
 terasi.net
 teratai888.ink
 terbar.ink
@@ -16649,10 +16655,12 @@ unzp.top
 uob.sc.omtrdc.net
 uofr.us
 uoft.me
+uokko.sbs
 uol.com.br
 uom.link
 uongjowo.gravatar.com
 uop.quark.cn
+uos.cc
 up.blog.naver.com
 up.raindrop.io
 up.to
@@ -19557,6 +19565,7 @@ yahoo.co.jp
 yahoo.com
 yal.su
 yale.edu
+yalepccsm.com
 yalink.ru
 yamechanic.com
 yammer.com
@@ -19839,6 +19848,7 @@ zsjdu.com
 zsote.com
 ztgame.com
 zti.me
+zugco.sbs
 zuki.ie
 zum.bi
 zuplo.link
