@@ -3035,6 +3035,7 @@
 @@||bitly.net^
 @@||bitly.network^
 @@||bitly.pw^
+@@||bitly.team^
 @@||bitly.ws^
 @@||bitly1.ru^
 @@||bitlyli.com^
@@ -3049,6 +3050,7 @@
 @@||bittrex.com^
 @@||bittylink.com^
 @@||bittyurl.co^
+@@||biturl.site^
 @@||biturl.top^
 @@||bitw.in^
 @@||bityl.co^
@@ -3165,6 +3167,7 @@
 @@||blogs.feedburner.com^
 @@||blogs.sonymobile.com^
 @@||blogs.techrepublic.com^
+@@||blogshare.cfd^
 @@||blogsimages.adobe.com^
 @@||blogsmithmedia.com^
 @@||blogspot.ca^
@@ -3624,6 +3627,7 @@
 @@||casvi.sbs^
 @@||cat.nl.eu.criteo.com^
 @@||catalog.gamepass.com^
+@@||catbrood.com^
 @@||cathaybk.tw^
 @@||cathaysec.tw^
 @@||cayim.by^
@@ -4839,6 +4843,7 @@
 @@||customurlshortener.com^
 @@||cut.by^
 @@||cut.live^
+@@||cut.lu^
 @@||cut.ovh^
 @@||cut.pe^
 @@||cut.sk^
@@ -4859,7 +4864,9 @@
 @@||cutt.us^
 @@||cutt4.me^
 @@||cutth.com^
+@@||cutturl.xyz^
 @@||cutu.me^
+@@||cutur.link^
 @@||cuturl.com^
 @@||cuturl.net^
 @@||cuty.io^
@@ -5091,6 +5098,7 @@
 @@||de.returnpath.com^
 @@||de.statcounter.com^
 @@||de.wikipedia.com^
+@@||dealc.me^
 @@||deals.breitbart.com^
 @@||deb.li^
 @@||debbiewestdicksons.life^
@@ -5810,6 +5818,7 @@
 @@||efraising.org^
 @@||efs.link^
 @@||efshop.tw^
+@@||efw4.one^
 @@||eg-hr.com^
 @@||eg-sale.com^
 @@||egw.bz^
@@ -5826,6 +5835,7 @@
 @@||ejo.bz^
 @@||el.gravatar.com^
 @@||el.lk^
+@@||el.ly^
 @@||ela.st^
 @@||elaach.com^
 @@||eladkarako.com^
@@ -14307,6 +14317,7 @@
 @@||serve.adtrackers.net^
 @@||servebbs.net^
 @@||servebeer.com^
+@@||servedby.o2.co.uk^
 @@||servepics.com^
 @@||server-54-230-93-120.fra2.r.cloudfront.net^
 @@||serveracts.net^
@@ -18072,6 +18083,7 @@
 @@||wpengine.netdna-cdn.com^
 @@||wptrckr.com^
 @@||wpvip.duba.net^
+@@||wpzxf.top^
 @@||wq.360buyimg.com^
 @@||wq.lt^
 @@||wqsd.jd.com

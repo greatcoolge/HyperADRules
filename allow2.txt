@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 15 May 2025 15:31 UTC
-! Version: 2025.0515.1531.58
+! Last modified: 16 May 2025 07:29 UTC
+! Version: 2025.0516.0729.51
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -732,6 +732,7 @@
 @@||bitly.net^
 @@||bitly.network^
 @@||bitly.pw^
+@@||bitly.team^
 @@||bitly.ws^
 @@||bitly1.ru^
 @@||bitlyli.com^
@@ -741,6 +742,7 @@
 @@||bitshrt.com^
 @@||bittylink.com^
 @@||bittyurl.co^
+@@||biturl.site^
 @@||biturl.top^
 @@||bitw.in^
 @@||bityl.co^
@@ -766,6 +768,7 @@
 @@||blizz.ly^
 @@||blnk.in^
 @@||bloat.me^
+@@||blogshare.cfd^
 @@||blomlink.com^
 @@||bloom.bg^
 @@||bloomingtonjuneteenth.org^
@@ -934,6 +937,7 @@
 @@||casio.link^
 @@||casualient.com^
 @@||casvi.sbs^
+@@||catbrood.com^
 @@||cathaybk.tw^
 @@||cathaysec.tw^
 @@||cayim.by^
@@ -1179,6 +1183,7 @@
 @@||customurlshortener.com^
 @@||cut.by^
 @@||cut.live^
+@@||cut.lu^
 @@||cut.ovh^
 @@||cut.pe^
 @@||cut.sk^
@@ -1194,9 +1199,12 @@
 @@||cuts2.com^
 @@||cutt.eu^
 @@||cutt.ly^
+@@||cutt.us^
 @@||cutt4.me^
 @@||cutth.com^
+@@||cutturl.xyz^
 @@||cutu.me^
+@@||cutur.link^
 @@||cuturl.com^
 @@||cuturl.net^
 @@||cuty.io^
@@ -1267,6 +1275,7 @@
 @@||ddlsu.com^
 @@||ddw.nu^
 @@||ddwxl.info^
+@@||dealc.me^
 @@||deb.li^
 @@||debbiewestdicksons.life^
 @@||decat.de^
@@ -1482,6 +1491,7 @@
 @@||efraising.org^
 @@||efs.link^
 @@||efshop.tw^
+@@||efw4.one^
 @@||eg-hr.com^
 @@||eg-sale.com^
 @@||go.egi.eu^
@@ -1491,6 +1501,7 @@
 @@||eit.tw^
 @@||ejo.bz^
 @@||el.lk^
+@@||el.ly^
 @@||ela.st^
 @@||elevation-crew.life^
 @@||elink.ly^
@@ -5341,6 +5352,7 @@
 @@||wp1.co^
 @@||wpbeg.in^
 @@||wptrckr.com^
+@@||wpzxf.top^
 @@||wq.lt^
 @@||wrctr.co^
 @@||wrd.cm^

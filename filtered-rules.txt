@@ -2973,6 +2973,7 @@ bitly.mobi
 bitly.net
 bitly.network
 bitly.pw
+bitly.team
 bitly.ws
 bitly1.ru
 bitlyli.com
@@ -2987,6 +2988,7 @@ bittorrent.com
 bittrex.com
 bittylink.com
 bittyurl.co
+biturl.site
 biturl.top
 bitw.in
 bityl.co
@@ -3103,6 +3105,7 @@ blogs.discovermagazine.com
 blogs.feedburner.com
 blogs.sonymobile.com
 blogs.techrepublic.com
+blogshare.cfd
 blogsimages.adobe.com
 blogsmithmedia.com
 blogspot.ca
@@ -3555,6 +3558,7 @@ casualient.com
 casvi.sbs
 cat.nl.eu.criteo.com
 catalog.gamepass.com
+catbrood.com
 cathaybk.tw
 cathaysec.tw
 cayim.by
@@ -4749,6 +4753,7 @@ customtraffic.impactradius.com
 customurlshortener.com
 cut.by
 cut.live
+cut.lu
 cut.ovh
 cut.pe
 cut.sk
@@ -4769,7 +4774,9 @@ cutt.ly
 cutt.us
 cutt4.me
 cutth.com
+cutturl.xyz
 cutu.me
+cutur.link
 cuturl.com
 cuturl.net
 cuty.io
@@ -4996,6 +5003,7 @@ de.pool.ntp.org
 de.returnpath.com
 de.statcounter.com
 de.wikipedia.com
+dealc.me
 deals.breitbart.com
 deb.li
 debbiewestdicksons.life
@@ -5703,6 +5711,7 @@ eflsb.com
 efraising.org
 efs.link
 efshop.tw
+efw4.one
 eg-hr.com
 eg-sale.com
 egw.bz
@@ -5719,6 +5728,7 @@ eit.tw
 ejo.bz
 el.gravatar.com
 el.lk
+el.ly
 ela.st
 elaach.com
 eladkarako.com
@@ -14095,6 +14105,7 @@ serial.alcohol-soft.com
 serve.adtrackers.net
 servebbs.net
 servebeer.com
+servedby.o2.co.uk
 servepics.com
 server-54-230-93-120.fra2.r.cloudfront.net
 serveracts.net
@@ -17805,6 +17816,7 @@ wpengine.com
 wpengine.netdna-cdn.com
 wptrckr.com
 wpvip.duba.net
+wpzxf.top
 wq.360buyimg.com
 wq.lt
 wqsd.jd.com

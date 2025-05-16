@@ -1081,6 +1081,7 @@
 @@||bitly.net^
 @@||bitly.network^
 @@||bitly.pw^
+@@||bitly.team^
 @@||bitly.ws^
 @@||bitly1.ru^
 @@||bitlyli.com^
@@ -1090,6 +1091,7 @@
 @@||bitshrt.com^
 @@||bittylink.com^
 @@||bittyurl.co^
+@@||biturl.site^
 @@||biturl.top^
 @@||bitw.in^
 @@||bityl.co^
@@ -1117,6 +1119,7 @@
 @@||blnk.in^
 @@||bloat.me^
 @@||blogger.googleusercontent.com^
+@@||blogshare.cfd^
 @@||blomlink.com^
 @@||bloom.bg^
 @@||bloomingtonjuneteenth.org^
@@ -1325,6 +1328,7 @@
 @@||casio.link^
 @@||casualient.com^
 @@||casvi.sbs^
+@@||catbrood.com^
 @@||cathaybk.tw^
 @@||cathaysec.tw^
 @@||cayim.by^
@@ -1745,6 +1749,7 @@
 @@||customurlshortener.com^
 @@||cut.by^
 @@||cut.live^
+@@||cut.lu^
 @@||cut.ovh^
 @@||cut.pe^
 @@||cut.sk^
@@ -1760,9 +1765,12 @@
 @@||cuts2.com^
 @@||cutt.eu^
 @@||cutt.ly^
+@@||cutt.us^
 @@||cutt4.me^
 @@||cutth.com^
+@@||cutturl.xyz^
 @@||cutu.me^
+@@||cutur.link^
 @@||cuturl.com^
 @@||cuturl.net^
 @@||cuty.io^
@@ -1855,6 +1863,7 @@
 @@||ddwxl.info^
 @@||ddyunbo.com^
 @@||de-go.kelkoogroup.net^
+@@||dealc.me^
 @@||deb.li^
 @@||debbiewestdicksons.life^
 @@||debugtbs.qq.com^$important
@@ -2134,6 +2143,7 @@
 @@||efraising.org^
 @@||efs.link^
 @@||efshop.tw^
+@@||efw4.one^
 @@||eg-hr.com^
 @@||eg-sale.com^
 @@||egw.bz^
@@ -2145,6 +2155,7 @@
 @@||eit.tw^
 @@||ejo.bz^
 @@||el.lk^
+@@||el.ly^
 @@||ela.st^
 @@||ele.me^
 @@||eleme.cn^
@@ -5725,6 +5736,7 @@
 @@||seoexperts.life^
 @@||seogilak.lol^
 @@||seq.vc^
+@@||servedby.o2.co.uk^
 @@||serveracts.net^
 @@||serverpa.rs^
 @@||serverstatus.apple.com^
@@ -7579,6 +7591,7 @@
 @@||wpbeg.in^
 @@||wptrckr.com^
 @@||wpvip.duba.net^
+@@||wpzxf.top^
 @@||wq.360buyimg.com^
 @@||wq.lt^
 @@||wqsd.jd.com
