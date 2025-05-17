@@ -2062,6 +2062,7 @@ api.raindrop.io
 api.rapidvideo.com
 api.rebrandly.com
 api.reserve.com
+api.revved.com
 api.rewards.internet.apps.samsung.com
 api.rikka.app
 api.rlje.net
@@ -4296,6 +4297,7 @@ cmail20.com
 cmbchina.com
 cmon.co
 cmpassport.com
+cms-assets.unrealengine.com
 cms-bucket.ws.126.net
 cms-portal.qualcomm.com
 cms.breitbart.com
@@ -4443,6 +4445,7 @@ completion.amazon.co.jp
 completion.amazon.co.uk
 completion.amazon.com
 complex.com
+components.unrealengine.com
 componentupdater.brave.com
 compreaquikakspromobaby.live
 compute.googleapis.com
@@ -5322,6 +5325,7 @@ dntx.info
 do.co
 doc.btc.com
 doc.emergingthreats.net
+dockerstatic.com
 dockr.ly
 docrdsfx76ssb.cloudfront.net
 docremedio.xyz
@@ -5355,6 +5359,7 @@ domainactive.co
 domainlocking.soundcloud.com
 domainname.de
 domainnameshop.com
+domains-ws.revved.com
 domainwhoisinfo.com
 domeneshop.no
 domi.link
@@ -8241,6 +8246,9 @@ images.discordapp.net
 images.dmca.com
 images.fotmob.com
 images.gog-statics.com
+images.google.cn
+images.google.com
+images.google.com.hk
 images.gotinder.com
 images.gounlimited.to
 images.hepsiburada.net
@@ -8668,6 +8676,7 @@ issa.be
 issuecdn.baidupcs.com
 issuu.com
 istockphoto.com
+istubby.com
 isw.pub
 it-go.kelkoogroup.net
 it-it.about.flipboard.com
@@ -8756,6 +8765,7 @@ jame.sn
 jamesastaten.live
 jango.com
 janji.me
+janjihoki.fun
 japan.techrepublic.com
 japanese.engadget.com
 japkq.com
@@ -8814,6 +8824,7 @@ jijr.com
 jikipedia.com
 jilislots.life
 jimdo.com
+jio.sh
 jioconnect.com
 jiotv.catchup.cdn.jio.com
 jiotv.data.cdn.jio.com
@@ -9229,6 +9240,7 @@ l.yimg.com
 l00p.eu
 l24.im
 l2f.ca
+l2o.ir
 l36-danmu.hi.163.com
 l36.gdl.netease.com
 l36.update.netease.com
@@ -9600,6 +9612,7 @@ links.uv.es
 links2.me
 links4money.com
 linksable.to
+linksfire.net
 linkshare.pro
 linkshort.co
 linkshort.eu
@@ -9937,6 +9950,7 @@ lyn.bz
 lync.cc
 lync.ly
 lynks.in
+lynkz.in
 lyreck.com
 lyreck.site
 lz.com
@@ -10651,6 +10665,7 @@ minergate.com
 mineshaft1.cryptopia.co.nz
 mineurl.top
 minexmr.com
+minggu.cfd
 mingle.kijiji.ca
 mini.7zap.com
 mini.eastday.com
@@ -11044,6 +11059,7 @@ mufv.info
 mujlb.com
 multcloud.com
 multiscreen.samsung.com
+multishorturl.com
 multiup.org
 multiupload.com
 mumu.163.com
@@ -12884,6 +12900,7 @@ puds.ucweb.com
 puext.in
 pugetsystems.com
 puhli.icu
+pull-m1.wxlivecdn.com
 pull.ticktick.com
 pulsar.ebay.com
 pun.ro
@@ -14797,6 +14814,7 @@ sp5.baidu.com
 sp5.jp
 spa.snap.com
 spaces.live.com
+spaceship-cdn.com
 spade.twitch.tv
 spanish.engadget.com
 spankbang.com
@@ -15259,9 +15277,11 @@ store.akamai.steamstatic.com
 store.apple.com
 store.assistant.miui.com
 store.breitbart.com
+store.cdn.queniuqe.com
 store.cloudflare.steamstatic.com
 store.coinbase.com
 store.crunchyroll.com
+store.fastly.steamstatic.com
 store.gematsu.com
 store.hide.me
 store.kaspersky.com
@@ -15277,6 +15297,8 @@ store.samsung.com
 store.samsung.com.edgekey.net
 store.snapchat.com
 store.sony.com
+store.steamchina.com
+store.steamchina.queniuam.com
 store.steampowered.com
 store.vox.com
 store.whale.naver.com
@@ -16320,6 +16342,7 @@ travel.latimes.com
 travel.rakuten.co.jp
 travelocity.com
 travl.rs
+travslyf.katatillo.com
 trbas.com
 trck.me
 trclo.top
@@ -17216,7 +17239,6 @@ view.vzaar.com
 vig.fit
 vigilink.com
 viglink.com
-vim-tiktok.live
 vimeo.com
 vincenaja46.live
 vine.co
@@ -18278,6 +18300,7 @@ www.en.wikipedia.com
 www.enews.techrepublic.com
 www.engadget.com
 www.eonline.com
+www.epicgames.com
 www.episerver.net
 www.epizy.com
 www.ero-labs.com
@@ -19129,6 +19152,7 @@ www.sony.net
 www.sonycreativesoftware.com
 www.sonymobile.com
 www.soundcloud.com
+www.spaceship.com
 www.speedbit.com
 www.spieletipps.de
 www.spot.im

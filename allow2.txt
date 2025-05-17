@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 16 May 2025 15:24 UTC
-! Version: 2025.0516.1524.51
+! Last modified: 17 May 2025 07:25 UTC
+! Version: 2025.0517.0725.07
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -2254,6 +2254,7 @@
 @@||iscool.net^
 @@||isols.co^
 @@||isot2024.live^
+@@||istubby.com^
 @@||isw.pub^
 @@||itdmusic.top^
 @@||iterasi.net^
@@ -2298,6 +2299,7 @@
 @@||jame.sn^
 @@||jamesastaten.live^
 @@||janji.me^
+@@||janjihoki.fun^
 @@||japkq.com^
 @@||javadocs.org^
 @@||jaw.gg^
@@ -2324,6 +2326,7 @@
 @@||jii.li^
 @@||jijr.com^
 @@||jilislots.life^
+@@||jio.sh^
 @@||jiourl.com^
 @@||jipu.info^
 @@||jkf.lv^
@@ -2394,6 +2397,7 @@
 @@||kas.pr^
 @@||kasambuhay-consumer-community-square-community.live^
 @@||kask.us^
+@@||travslyf.katatillo.com^
 @@||katespadesneakpeek.com^
 @@||katwr.sbs^
 @@||katzr.net^
@@ -2522,6 +2526,7 @@
 @@||l00p.eu^
 @@||l24.im^
 @@||l2f.ca^
+@@||l2o.ir^
 @@||l8.nu^
 @@||l8r.it^
 @@||l9.fr^
@@ -2684,6 +2689,7 @@
 @@||links2.me^
 @@||links4money.com^
 @@||linksable.to^
+@@||linksfire.net^
 @@||linkshare.pro^
 @@||linkshort.co^
 @@||linkshort.eu^
@@ -2828,6 +2834,7 @@
 @@||lync.cc^
 @@||lync.ly^
 @@||lynks.in^
+@@||lynkz.in^
 @@||lyreck.com^
 @@||lyreck.site^
 @@||lz.com^
@@ -2973,6 +2980,7 @@
 @@||miljo.sbs^
 @@||millerreception.com^
 @@||mineurl.top^
+@@||minggu.cfd^
 @@||d.minifun.games^
 @@||direct.minifun.games^
 @@||minify.link^
@@ -3084,6 +3092,7 @@
 @@||mub.me^
 @@||mufv.info^
 @@||mujlb.com^
+@@||multishorturl.com^
 @@||mumy.me^
 @@||munbyn.biz^
 @@||murl.com^
@@ -5128,7 +5137,6 @@
 @@||videopro.live^
 @@||vig.fit^
 @@||vigilink.com^
-@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^

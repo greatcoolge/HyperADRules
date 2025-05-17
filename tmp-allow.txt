@@ -741,6 +741,7 @@
 @@||api.pxb7.com^
 @@||api.pzds.com^
 @@||api.qiniu.com^
+@@||api.revved.com^
 @@||api.rikka.app^$important
 @@||api.sec.miui.com^$important
 @@||api.traq.li^
@@ -1598,6 +1599,7 @@
 @@||cm.naukri.com^
 @@||cmbchina.com^
 @@||cmon.co^
+@@||cms-assets.unrealengine.com^
 @@||cms-bucket.ws.126.net^
 @@||cms.org.uk^
 @@||cmshow.qq.com^$important
@@ -1639,6 +1641,7 @@
 @@||commimg.pddpic.com^
 @@||commission-junction.com^
 @@||community.akamai.steamstatic.com^
+@@||components.unrealengine.com^
 @@||compreaquikakspromobaby.live^
 @@||computemaster.bxcearth.com^$important
 @@||configuration.apple.com^
@@ -1983,6 +1986,7 @@
 @@||dntbs.info^
 @@||dntx.info^
 @@||do.co^
+@@||dockerstatic.com^
 @@||dockr.ly^
 @@||docrdsfx76ssb.cloudfront.net^
 @@||docremedio.xyz^
@@ -1990,6 +1994,7 @@
 @@||dogelexus.win^
 @@||doh.dns.apple.com^
 @@||doiop.com^
+@@||domains-ws.revved.com^
 @@||domi.link^
 @@||dominguez-nieves-71.life^
 @@||dominos.sng.link^
@@ -3107,6 +3112,9 @@
 @@||image.uc.cn^
 @@||image.uc.cn^$important
 @@||imagecdn.clips4sale.com^
+@@||images.google.cn^
+@@||images.google.com.hk^
+@@||images.google.com^
 @@||images.nvidiagrid.net^
 @@||images1-focus-opensocial.googleusercontent.com^
 @@||images2.imgbox.com^
@@ -3237,6 +3245,7 @@
 @@||isols.co^
 @@||isot2024.live^
 @@||issuecdn.baidupcs.com^$important
+@@||istubby.com^
 @@||isw.pub^
 @@||it-go.kelkoogroup.net^
 @@||itdmusic.top^
@@ -3290,6 +3299,7 @@
 @@||jame.sn^
 @@||jamesastaten.live^
 @@||janji.me^
+@@||janjihoki.fun^
 @@||japkq.com^
 @@||javadocs.org^
 @@||javfinder.ai^
@@ -3324,6 +3334,7 @@
 @@||jijr.com^
 @@||jikipedia.com^
 @@||jilislots.life^
+@@||jio.sh^
 @@||jiourl.com^
 @@||jipu.info^
 @@||jkf.lv^
@@ -3562,6 +3573,7 @@
 @@||l00p.eu^
 @@||l24.im^
 @@||l2f.ca^
+@@||l2o.ir^
 @@||l36-danmu.hi.163.com^
 @@||l36.gdl.netease.com^
 @@||l36.update.netease.com^
@@ -3784,6 +3796,7 @@
 @@||links2.me^
 @@||links4money.com^
 @@||linksable.to^
+@@||linksfire.net^
 @@||linkshare.pro^
 @@||linkshort.co^
 @@||linkshort.eu^
@@ -3946,6 +3959,7 @@
 @@||lync.cc^
 @@||lync.ly^
 @@||lynks.in^
+@@||lynkz.in^
 @@||lyreck.com^
 @@||lyreck.site^
 @@||lz.com^
@@ -4198,6 +4212,7 @@
 @@||miljo.sbs^
 @@||millerreception.com^
 @@||mineurl.top^
+@@||minggu.cfd^
 @@||miniapp.gtimg.cn^
 @@||minify.link^
 @@||minifyurl.co^
@@ -4419,6 +4434,7 @@
 @@||mub.me^
 @@||mufv.info^
 @@||mujlb.com^
+@@||multishorturl.com^
 @@||mumu.163.com^
 @@||mumy.me^
 @@||munbyn.biz^
@@ -5177,6 +5193,7 @@
 @@||pubmsg.meituan.com^
 @@||puext.in^
 @@||puhli.icu^
+@@||pull-m1.wxlivecdn.com^
 @@||pun.ro^
 @@||purdue.university^
 @@||purefla.sh^
@@ -6141,6 +6158,7 @@
 @@||sovrn.co^
 @@||sp1.baidu.com^$important
 @@||sp5.jp^
+@@||spaceship-cdn.com^
 @@||spclient.wg.spotify.com^$important
 @@||spcne.ws^
 @@||spdurl.com^
@@ -6267,6 +6285,10 @@
 @@||storage.wikawika.xyz^
 @@||storagesch.com^
 @@||store.assistant.miui.com^
+@@||store.cdn.queniuqe.com^
+@@||store.fastly.steamstatic.com^
+@@||store.steamchina.com^
+@@||store.steamchina.queniuam.com^
 @@||store.steampowered.com^
 @@||storep.91haoka.cn^
 @@||stormurl.com^
@@ -6860,6 +6882,7 @@
 @@||transfer.sh^
 @@||translator.qq.com^$important
 @@||travl.rs^
+@@||travslyf.katatillo.com^
 @@||trck.me^
 @@||trclo.top^
 @@||trendingvideo.live^
@@ -7326,7 +7349,6 @@
 @@||view.inews.qq.com^$important
 @@||vig.fit^
 @@||vigilink.com^
-@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
@@ -7667,10 +7689,14 @@
 @@||www.docker.com^
 @@||www.douyin.com^
 @@||www.dpfile.com^
+@@||www.epicgames.com^
 @@||www.ero-labs.com^
 @@||www.ferrari.com^
 @@||www.ghproxy.cn^
 @@||www.goofish.com^
+@@||www.google.cn^
+@@||www.google.com.hk^
+@@||www.google.com^
 @@||www.google.com^$important
 @@||www.googleadservices.com^
 @@||www.gstatic.com
@@ -7724,6 +7750,7 @@
 @@||www.recaptcha.net^$important
 @@||www.secretchina.com^
 @@||www.so.com^
+@@||www.spaceship.com^
 @@||www.taobao.com^
 @@||www.temporary-url.com^
 @@||www.toutiao.com^
