@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 16 May 2025 07:29 UTC
-! Version: 2025.0516.0729.51
+! Last modified: 16 May 2025 15:24 UTC
+! Version: 2025.0516.1524.51
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -116,6 +116,7 @@
 @@||2kgam.es^
 @@||2link.cc^
 @@||2link.in^
+@@||2my.info^
 @@||2no.co^
 @@||2nu.gs^
 @@||2one.in^
@@ -378,6 +379,7 @@
 @@||ady.to^
 @@||aegyo.me^
 @@||aet.na^
+@@||afb88.life^
 @@||afly.in^
 @@||aftv.news^
 @@||agbr.ir^
@@ -749,6 +751,7 @@
 @@||biv.to^
 @@||bixurl.com^
 @@||biz15.co^
+@@||bj88php.fun^
 @@||bjhig.sbs^
 @@||bjl.ink^
 @@||bjli.in^
@@ -1629,6 +1632,7 @@
 @@||fdzsf.com^
 @@||fee.vn^
 @@||female-and-male-in-tech.com^
+@@||fenomen.live^
 @@||fetnet.tw^
 @@||fevo.me^
 @@||feyh.info^
@@ -1679,6 +1683,7 @@
 @@||flrt.me^
 @@||fltr.ai^
 @@||flx.to^
+@@||fly.yt^
 @@||fly2.ws^
 @@||fly4win.com^
 @@||flyurl.net^
@@ -1822,6 +1827,7 @@
 @@||tly.getrewardful.com^
 @@||getsmallurl.com^
 @@||getthot.com^
+@@||gettr.im^
 @@||gf.to^
 @@||gfree.fr^
 @@||gfuel.ly^
@@ -5122,6 +5128,7 @@
 @@||videopro.live^
 @@||vig.fit^
 @@||vigilink.com^
+@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
@@ -5291,6 +5298,7 @@
 @@||wfly.co^
 @@||wfryer.me^
 @@||wfts.tv^
+@@||wgsv.top^
 @@||whatel.se^
 @@||whatsapp4a.live^
 @@||whcs.law^
