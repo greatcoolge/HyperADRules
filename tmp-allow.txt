@@ -743,6 +743,7 @@
 @@||api.revved.com^
 @@||api.rikka.app^$important
 @@||api.sec.miui.com^$important
+@@||api.tiantiantiaosheng.com^
 @@||api.traq.li^
 @@||api.ts.feedback.qy.net^$important
 @@||api.twitter.com^
@@ -903,6 +904,7 @@
 @@||avatar.coolapk.com^
 @@||avatar.csdnimg.cn^
 @@||avbc.me^
+@@||avc.tapimg.com^
 @@||aveerro.com^
 @@||aven.ga^
 @@||avgle.com^
@@ -1387,6 +1389,7 @@
 @@||cdn.plyr.io^
 @@||cdn.siftscience.com^
 @@||cdn.staticfile.org^
+@@||cdn.tiantiantiaosheng.com^
 @@||cdn.ui.porsche.com^
 @@||cdn.uk.exponea.com^
 @@||cdn.us1.exponea.com^
@@ -3133,6 +3136,7 @@
 @@||img.qidian.com^
 @@||img.siwazywimg.com^
 @@||img.sogoucdn.com^
+@@||img.tapimg.com^
 @@||img.zuoyebang.cc^$important
 @@||img01.sogoucdn.com^
 @@||img02.sogoucdn.com^
@@ -3143,7 +3147,9 @@
 @@||img12.360buyimg.com^
 @@||img13.360buyimg.com^
 @@||img14.360buyimg.com^
+@@||img2.tapimg.com^
 @@||img3.cache.netease.com^
+@@||img3.tapimg.com^
 @@||img30.360buyimg.com^
 @@||img4.qy0.ru^
 @@||imgcache.qq.com^$important
@@ -5045,6 +5051,7 @@
 @@||pkg.biligame.com^
 @@||pkg.pw^
 @@||pl-go.kelkoogroup.net^
+@@||pl.taptap.cn^
 @@||placesunknown.art^
 @@||pladollmo.com^
 @@||plannery.app^
@@ -5691,11 +5698,13 @@
 @@||scbetgacorr.org^
 @@||sched.co^
 @@||school.apple.com^
+@@||schoolstorehms.live^
 @@||scientificglobalevents.com^
 @@||sck.io^
 @@||sclix.com^
 @@||scoreonline.live^
 @@||scr.bi^
+@@||scrapy.co^
 @@||scrb.ly^
 @@||screeee.com^
 @@||scts.in^
@@ -5940,6 +5949,7 @@
 @@||shorturl.is^
 @@||shorturl.kg^
 @@||shorturl.lk^
+@@||shorturl.re^
 @@||shorturl.ru^
 @@||shorturl.vtcode.vn^
 @@||shorturl.win^
@@ -6023,6 +6033,7 @@
 @@||sincere.ly^
 @@||sindo.me^
 @@||sini.la^
+@@||sinourl.tw^
 @@||sinyi.biz^
 @@||sinyi.in^
 @@||sipetir.pro^
@@ -6066,6 +6077,7 @@
 @@||slotamina.com^
 @@||sloto89.site^
 @@||slots799.online^
+@@||slpre.com^
 @@||slpzm.top^
 @@||slurl.keatsmedia.ca^
 @@||sm-s.in^
@@ -6106,6 +6118,7 @@
 @@||snip.ly^
 @@||snipit.in^
 @@||snipr.com^
+@@||snipurl.com^
 @@||snpy.link^
 @@||sns-avatar-qc.xhscdn.com^
 @@||sns.m.taobao.com^
@@ -6145,6 +6158,7 @@
 @@||south-plus.net^
 @@||sovrn.co^
 @@||sp1.baidu.com^$important
+@@||sp2.ro^
 @@||sp5.jp^
 @@||spaceship-cdn.com^
 @@||spclient.wg.spotify.com^$important
@@ -7740,7 +7754,10 @@
 @@||www.so.com^
 @@||www.spaceship.com^
 @@||www.taobao.com^
+@@||www.taptap.cn^
+@@||www.taptap.io^
 @@||www.temporary-url.com^
+@@||www.tiantiantiaosheng.com^
 @@||www.toutiao.com^
 @@||www.vmall.com^
 @@||www.wnacg.com^
@@ -8019,10 +8036,12 @@
 @@||zhort.link^
 @@||zhuanlan.zhihu.com^
 @@||zhuti.xiaomi.com^
+@@||zhwtj.sbs^
 @@||zhx.su^
 @@||zi.ma^
 @@||zi.pe^
 @@||ziadi.co^
+@@||zigilink.com^
 @@||zik.link^
 @@||zimy.pw^
 @@||zip.net^

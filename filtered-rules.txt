@@ -2099,6 +2099,7 @@ api.target.com
 api.tastyworks.com
 api.teams.skype.com
 api.thetvdb.com
+api.tiantiantiaosheng.com
 api.tiles.mapbox.com
 api.today.line.me
 api.toptenreviews.com
@@ -2595,6 +2596,7 @@ avatars1.githubusercontent.com
 avatars2.githubusercontent.com
 avatars3.githubusercontent.com
 avbc.me
+avc.tapimg.com
 aveerro.com
 aven.ga
 avgle.com
@@ -3776,6 +3778,7 @@ cdn.syndication.twimg.com
 cdn.syndication.twitter.com
 cdn.technologyreview.com
 cdn.theatlantic.com
+cdn.tiantiantiaosheng.com
 cdn.tinypass.com
 cdn.transifex.com
 cdn.ttgtmedia.com
@@ -8336,6 +8339,7 @@ img.shouji.sogou.com
 img.siwazywimg.com
 img.sogoucdn.com
 img.t.sinajs.cn
+img.tapimg.com
 img.techwallacdn.com
 img.tfd.com
 img.topddl.net
@@ -8372,10 +8376,12 @@ img2.blogblog.com
 img2.crunchyroll.com
 img2.dirtywarez.com
 img2.imgtn.bdimg.com
+img2.tapimg.com
 img2.user.kanimg.com
 img3.cache.netease.com
 img3.dirtywarez.com
 img3.hulu.com
+img3.tapimg.com
 img30.360buyimg.com
 img4.qy0.ru
 imgak.mmtcdn.com
@@ -12465,6 +12471,7 @@ pl.gravatar.com
 pl.hide.me
 pl.ign.com
 pl.playstation.com
+pl.taptap.cn
 pl.wikipedia.com
 placehold.it
 placeholdit.imgix.net
@@ -13890,6 +13897,7 @@ schibsted.io
 schibsted.se
 scholar.google.com
 school.apple.com
+schoolstorehms.live
 science.howstuffworks.com
 science.twitch.tv
 sciencedaily.com
@@ -13913,6 +13921,7 @@ scoop.sh
 scoreonline.live
 scorito.com
 scr.bi
+scrapy.co
 scrb.ly
 screeee.com
 screenshots.firefox.com
@@ -14413,6 +14422,7 @@ shorturl.gg
 shorturl.is
 shorturl.kg
 shorturl.lk
+shorturl.re
 shorturl.ru
 shorturl.vtcode.vn
 shorturl.win
@@ -14525,6 +14535,7 @@ sindo.me
 singapore.hide.me
 singleapp.robi.com.bd
 sini.la
+sinourl.tw
 sinyi.biz
 sinyi.in
 sipetir.pro
@@ -14604,6 +14615,7 @@ slnk.se
 slotamina.com
 sloto89.site
 slots799.online
+slpre.com
 slpzm.top
 sls.update.microsoft.com
 sls.update.microsoft.com.akadns.net
@@ -14796,6 +14808,7 @@ sp.naver.com
 sp0.baidu.com
 sp1.baidu.com
 sp2.baidu.com
+sp2.ro
 sp3.baidu.com
 sp4.baidu.com
 sp5.baidu.com
@@ -19175,6 +19188,8 @@ www.synology.com
 www.taboola.com
 www.taiwanlottery.com.tw
 www.taobao.com
+www.taptap.cn
+www.taptap.io
 www.target.com.au
 www.tawk.to
 www.techcrunch.com
@@ -19208,6 +19223,7 @@ www.thewindowsclub.com
 www.thewrap.com
 www.threatcrowd.org
 www.thumbzilla.com
+www.tiantiantiaosheng.com
 www.tiktok.com
 www.tmublr.com
 www.tomshardware.com
@@ -19814,10 +19830,12 @@ zhort.link
 zht.alipay.com
 zhuanlan.zhihu.com
 zhuti.xiaomi.com
+zhwtj.sbs
 zhx.su
 zi.ma
 zi.pe
 ziadi.co
+zigilink.com
 zik.link
 zillow.com
 zimuku.la

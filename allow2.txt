@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 17 May 2025 15:26 UTC
-! Version: 2025.0517.1526.29
+! Last modified: 17 May 2025 23:27 UTC
+! Version: 2025.0517.2327.32
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -3994,11 +3994,13 @@
 @@||sc1o.com^
 @@||scbetgacorr.org^
 @@||sched.co^
+@@||schoolstorehms.live^
 @@||scientificglobalevents.com^
 @@||sck.io^
 @@||sclix.com^
 @@||scoreonline.live^
 @@||scr.bi^
+@@||scrapy.co^
 @@||scrb.ly^
 @@||screeee.com^
 @@||scts.in^
@@ -4191,6 +4193,7 @@
 @@||shorturl.is^
 @@||shorturl.kg^
 @@||shorturl.lk^
+@@||shorturl.re^
 @@||shorturl.ru^
 @@||shorturl.win^
 @@||shorturl.ws^
@@ -4268,6 +4271,7 @@
 @@||sincere.ly^
 @@||sindo.me^
 @@||sini.la^
+@@||sinourl.tw^
 @@||sinyi.biz^
 @@||sinyi.in^
 @@||sipetir.pro^
@@ -4301,6 +4305,7 @@
 @@||slotamina.com^
 @@||sloto89.site^
 @@||slots799.online^
+@@||slpre.com^
 @@||slpzm.top^
 @@||sm-s.in^
 @@||sm4ll.in^
@@ -4337,6 +4342,7 @@
 @@||snip.ly^
 @@||snipit.in^
 @@||snipr.com^
+@@||snipurl.com^
 @@||snpy.link^
 @@||snurl.com^
 @@||snurl.dk^
@@ -4367,6 +4373,7 @@
 @@||sourl.cn^
 @@||sousj.sbs^
 @@||sovrn.co^
+@@||sp2.ro^
 @@||sp5.jp^
 @@||spcne.ws^
 @@||spdurl.com^
@@ -5610,10 +5617,12 @@
 @@||zggvt.com^
 @@||zhort.de^
 @@||zhort.link^
+@@||zhwtj.sbs^
 @@||zhx.su^
 @@||zi.ma^
 @@||zi.pe^
 @@||ziadi.co^
+@@||zigilink.com^
 @@||zik.link^
 @@||zimy.pw^
 @@||zip.net^
