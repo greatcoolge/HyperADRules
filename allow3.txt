@@ -4,10 +4,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 16 May 2025 14:50 UTC
-! Version: 2025.0516.1450.21
+! Last modified: 17 May 2025 14:52 UTC
+! Version: 2025.0517.1452.20
 ! Syntax: AdBlock
-! Number of entries: 766
+! Number of entries: 753
 !
 @@||l.1mp.ru^
 @@||t.1und1.de^
@@ -64,7 +64,6 @@
 @@||aax-eu.amazon.it^
 @@||aax-eu.amazon.nl^
 @@||aax-eu.amazon.sa^
-@@||aax-eu.amazon.se^
 @@||aax-fe.amazon.sg^
 @@||aax-us-east-retail-direct.amazon.com^
 @@||aax-us-iad.amazon.com^
@@ -130,7 +129,6 @@
 @@||tracking.cashkaro.com^
 @@||cc-dt.com^
 @@||cse3.chausport.com^
-@@||mkto-trk.cisco.com^
 @@||cj.com^
 @@||clck.ru^
 @@||api.cleverpush.com^
@@ -272,8 +270,6 @@
 @@||evyy.net^
 @@||m.exactag.com^
 @@||tp-emea.exactag.com^
-@@||s10.login.exacttarget.com^
-@@||s11.login.exacttarget.com^
 @@||s13.login.exacttarget.com^
 @@||s1.exacttarget.com^
 @@||s10.exacttarget.com^
@@ -292,7 +288,6 @@
 @@||cdn.eu1.exponea.com^
 @@||cdn.ftspecialist.exponea.com^
 @@||cdn.network.exponea.com^
-@@||ri-cdn.exponea.com^
 @@||cdn.uk.exponea.com^
 @@||cdn.us1.exponea.com^
 @@||l.facebook.com^
@@ -430,13 +425,11 @@
 @@||mkto-ab080206.com^
 @@||mkto-ab150224.com^
 @@||mkto-ab180008.com^
-@@||mkto-ab180024.com^
 @@||mkto-ab200065.com^
 @@||mkto-ab210104.com^
 @@||mkto-ab220178.com^
 @@||mkto-ab240112.com^
 @@||mkto-ab250105.com^
-@@||mkto-ab280067.com^
 @@||mkto-ab300154.com^
 @@||mkto-ab310115.com^
 @@||mkto-ab330197.com^
@@ -459,8 +452,6 @@
 @@||mkto-ab690180.com^
 @@||mkto-abj0022.com^
 @@||mkto-abm0229.com^
-@@||mkto-c0100.com^
-@@||mkto-cs0007.com^
 @@||mkto-d0170.com^
 @@||mkto-f0054.com^
 @@||mkto-g0030.com^
@@ -473,17 +464,14 @@
 @@||mkto-nld1040186.com^
 @@||mkto-o0153.com^
 @@||mkto-sj010104.com^
-@@||mkto-sj030214.com^
 @@||mkto-sj040252.com^
 @@||mkto-sj070214.com^
 @@||mkto-sj070259.com^
 @@||mkto-sj090132.com^
-@@||mkto-sj100138.com^
 @@||mkto-sj180011.com^
 @@||mkto-sj190104.com^
 @@||mkto-sj190237.com^
 @@||mkto-sj200192.com^
-@@||mkto-sj220006.com^
 @@||mkto-sj230006.com^
 @@||mkto-sj240021.com^
 @@||mkto-sj270080.com^
@@ -491,6 +479,7 @@
 @@||mkto-sj310186.com^
 @@||mkto-sj320047.com^
 @@||mkto-sj330006.com^
+@@||mkto-sj340004.com^
 @@||mkto-sj360142.com^
 @@||mkto-test.com^
 @@||mktoweb.com^
@@ -591,13 +580,12 @@
 @@||r5waxhbbb.cc.rs6.net^
 @@||r6lccqnab.cc.rs6.net^
 @@||r7avxrcab.cc.rs6.net^
-@@||rak7fucab.cc.rs6.net^
-@@||raoteqdab.cc.rs6.net^
 @@||rftyzi5ab.cc.rs6.net^
 @@||rgkkzvdab.cc.rs6.net^
-@@||rismehabb.cc.rs6.net^
+@@||ripon4tab.cc.rs6.net^
 @@||rjpz4ucab.cc.rs6.net^
 @@||rq6agxabb.cc.rs6.net^
+@@||rrd9h64ab.cc.rs6.net^
 @@||rxfc49ebb.cc.rs6.net^
 @@||rz6dkreab.cc.rs6.net^
 @@||r20.rs6.net^
@@ -755,7 +743,6 @@
 @@||analytics.twitter.com^
 @@||email.uber.com^
 @@||redirect.viglink.com^
-@@||ek8.voyage-prive.com^
 @@||cts.vresp.com^
 @@||cdn.webclicks24.com^
 @@||api.webengage.com^

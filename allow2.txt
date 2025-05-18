@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 17 May 2025 07:25 UTC
-! Version: 2025.0517.0725.07
+! Last modified: 17 May 2025 15:26 UTC
+! Version: 2025.0517.1526.29
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -3543,6 +3543,7 @@
 @@||planningwithszenee.com^
 @@||playbokep.to^
 @@||pldthome.info^
+@@||plink.ir^
 @@||plots.fr^
 @@||plrx.me^
 @@||plu.sh^

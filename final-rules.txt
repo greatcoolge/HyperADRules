@@ -598,7 +598,6 @@
 @@||aax-eu.amazon.it^
 @@||aax-eu.amazon.nl^
 @@||aax-eu.amazon.sa^
-@@||aax-eu.amazon.se^
 @@||aax-fe.amazon.co.jp^
 @@||aax-fe.amazon.com.au^
 @@||aax-fe.amazon.sg^
@@ -5840,7 +5839,6 @@
 @@||eip-ntt.pinimg.com.akapinimg.net^
 @@||eit.tw^
 @@||ejo.bz^
-@@||ek8.voyage-prive.com^
 @@||el.gravatar.com^
 @@||el.lk^
 @@||el.ly^
@@ -10916,13 +10914,11 @@
 @@||mkto-ab080206.com^
 @@||mkto-ab150224.com^
 @@||mkto-ab180008.com^
-@@||mkto-ab180024.com^
 @@||mkto-ab200065.com^
 @@||mkto-ab210104.com^
 @@||mkto-ab220178.com^
 @@||mkto-ab240112.com^
 @@||mkto-ab250105.com^
-@@||mkto-ab280067.com^
 @@||mkto-ab300154.com^
 @@||mkto-ab310115.com^
 @@||mkto-ab330197.com^
@@ -10945,8 +10941,6 @@
 @@||mkto-ab690180.com^
 @@||mkto-abj0022.com^
 @@||mkto-abm0229.com^
-@@||mkto-c0100.com^
-@@||mkto-cs0007.com^
 @@||mkto-d0170.com^
 @@||mkto-f0054.com^
 @@||mkto-g0030.com^
@@ -10959,17 +10953,14 @@
 @@||mkto-nld1040186.com^
 @@||mkto-o0153.com^
 @@||mkto-sj010104.com^
-@@||mkto-sj030214.com^
 @@||mkto-sj040252.com^
 @@||mkto-sj070214.com^
 @@||mkto-sj070259.com^
 @@||mkto-sj090132.com^
-@@||mkto-sj100138.com^
 @@||mkto-sj180011.com^
 @@||mkto-sj190104.com^
 @@||mkto-sj190237.com^
 @@||mkto-sj200192.com^
-@@||mkto-sj220006.com^
 @@||mkto-sj230006.com^
 @@||mkto-sj240021.com^
 @@||mkto-sj270080.com^
@@ -10977,9 +10968,9 @@
 @@||mkto-sj310186.com^
 @@||mkto-sj320047.com^
 @@||mkto-sj330006.com^
+@@||mkto-sj340004.com^
 @@||mkto-sj360142.com^
 @@||mkto-test.com^
-@@||mkto-trk.cisco.com^
 @@||mktoweb.com^
 @@||mktplassets-ssl.xbox.com^
 @@||mktplassets.xbox.com^
@@ -12728,6 +12719,7 @@
 @@||plesk.com^
 @@||plex.r.worldssl.net^
 @@||plex.tv^
+@@||plink.ir^
 @@||plots.fr^
 @@||plrx.me^
 @@||plu.sh^
@@ -13356,7 +13348,6 @@
 @@||rainonit.com^
 @@||raise.ada.support^
 @@||rajamahjong.site^
-@@||rak7fucab.cc.rs6.net^
 @@||rakaug.com^
 @@||rakuten.co.jp^
 @@||rambler.ru^
@@ -13368,7 +13359,6 @@
 @@||ranking.rakuten.co.jp^
 @@||ransomwaretracker.abuse.ch^
 @@||rantenah.com^
-@@||raoteqdab.cc.rs6.net^
 @@||rapidgator.net^
 @@||rapidshare.com^
 @@||rapidvid.to^
@@ -13651,7 +13641,6 @@
 @@||rhtxf.sbs^
 @@||rhub.in^
 @@||rhyiu.sbs^
-@@||ri-cdn.exponea.com^
 @@||ri.ms^
 @@||rice-v-ave.life^
 @@||rickroll.it^
@@ -13666,8 +13655,8 @@
 @@||riotpixels.com^
 @@||rip.city^
 @@||rip.to^
+@@||ripon4tab.cc.rs6.net^
 @@||ris.api.iris.microsoft.com^
-@@||rismehabb.cc.rs6.net^
 @@||risu.io^
 @@||ritea.id^
 @@||rivera-quinones-luis-manuel-5.life^
@@ -13754,6 +13743,7 @@
 @@||rqnav.com^
 @@||rqtfy.com^
 @@||rr.be^
+@@||rrd9h64ab.cc.rs6.net^
 @@||rrsby.com^
 @@||rs.playstation.com^
 @@||rs6.net^
@@ -13925,11 +13915,9 @@
 @@||s1.wp.com^
 @@||s1.zhuanstatic.com^
 @@||s10.exacttarget.com^
-@@||s10.login.exacttarget.com^
 @@||s11.cn^
 @@||s11.exacttarget.com^
 @@||s11.link^
-@@||s11.login.exacttarget.com^
 @@||s12.exacttarget.com^
 @@||s12d.com^
 @@||s13.exacttarget.com^
