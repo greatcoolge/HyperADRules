@@ -478,7 +478,6 @@
 @@||adscendmedia.com^
 @@||adsclicks.life^
 @@||adservice.google.ca^
-@@||adservice.google.ch^
 @@||adservice.google.co.id^
 @@||adservice.google.co.in^
 @@||adservice.google.co.jp^
@@ -1285,7 +1284,6 @@
 @@||c2-ap.piano.io^
 @@||c2-au.piano.io^
 @@||c2-eu.piano.io^
-@@||c2-sandbox.piano.io^
 @@||c2.piano.io^
 @@||c2827.dotomi.com^
 @@||c2d.in^
@@ -1514,6 +1512,7 @@
 @@||click.em.blizzard.com^
 @@||click.em.samsclub.com^
 @@||click.email.jcpenney.com^
+@@||click.email.microsoftemail.com^
 @@||click.email.sonos.com^
 @@||click.emcom.bankofamerica.com^
 @@||click.fidelityinvestments.com^
@@ -2187,7 +2186,6 @@
 @@||em.phncdn.com^
 @@||email-tracking.infobip.com^
 @@||email.microsoft.com^
-@@||email.microsoftemail.com^
 @@||email.microsoftonline.com^
 @@||email.namebase.io^
 @@||email.office.com^
@@ -3109,6 +3107,7 @@
 @@||im.alimebot.taobao.com^
 @@||im.qq.com^$important
 @@||image.9game.cn^
+@@||image.email.microsoftemail.com^
 @@||image.quark.cn^
 @@||image.uc.cn^
 @@||image.uc.cn^$important
@@ -4247,21 +4246,16 @@
 @@||mkish1950.life^
 @@||mklnd.com^
 @@||mkto-a0095.com^
-@@||mkto-ab010150.com^
 @@||mkto-ab040115.com^
 @@||mkto-ab040147.com^
 @@||mkto-ab070017.com^
 @@||mkto-ab080206.com^
-@@||mkto-ab150224.com^
 @@||mkto-ab180008.com^
 @@||mkto-ab200065.com^
 @@||mkto-ab210104.com^
 @@||mkto-ab220178.com^
-@@||mkto-ab240112.com^
-@@||mkto-ab250105.com^
 @@||mkto-ab300154.com^
 @@||mkto-ab310115.com^
-@@||mkto-ab330197.com^
 @@||mkto-ab340022.com^
 @@||mkto-ab420081.com^
 @@||mkto-ab470148.com^
@@ -4272,7 +4266,6 @@
 @@||mkto-ab550168.com^
 @@||mkto-ab560068.com^
 @@||mkto-ab570110.com^
-@@||mkto-ab580004.com^
 @@||mkto-ab650097.com^
 @@||mkto-ab660121.com^
 @@||mkto-ab690011.com^
@@ -4288,7 +4281,6 @@
 @@||mkto-k0071.com^
 @@||mkto-lon030291.com^
 @@||mkto-lon040152.com^
-@@||mkto-lon090082.com^
 @@||mkto-n0199.com^
 @@||mkto-nld1040186.com^
 @@||mkto-o0153.com^
@@ -4308,8 +4300,8 @@
 @@||mkto-sj310186.com^
 @@||mkto-sj320047.com^
 @@||mkto-sj330006.com^
-@@||mkto-sj340004.com^
 @@||mkto-sj360142.com^
+@@||mkto-sj380030.com^
 @@||mkto-test.com^
 @@||mktoweb.com^
 @@||mkug.top^
@@ -4772,6 +4764,7 @@
 @@||onlineclothes.live^
 @@||onlinekassirjessica.life^
 @@||onlyfansamairanidiaz.live^
+@@||onlyfanscaycoleman.live^
 @@||onon.in^
 @@||onx.la^
 @@||oo0oo.icu^
@@ -5342,8 +5335,8 @@
 @@||r4---sn-npoldn7s.gvt1.com^
 @@||r4---sn-qxo7rn7e.googlevideo.com^$important
 @@||r4gh8tuab.cc.rs6.net^
-@@||r4ofs8cab.cc.rs6.net^
 @@||r5---sn-4g5ednsl.googlevideo.com^$important
+@@||r5v8prcab.cc.rs6.net^
 @@||r5waxhbbb.cc.rs6.net^
 @@||r6lccqnab.cc.rs6.net^
 @@||r7avxrcab.cc.rs6.net^
@@ -5483,7 +5476,6 @@
 @@||rewssasewes.live^
 @@||rfj.tips^
 @@||rfr.bz^
-@@||rftyzi5ab.cc.rs6.net^
 @@||rgkkzvdab.cc.rs6.net^
 @@||rgpug.com^
 @@||rhtxf.sbs^
@@ -5498,7 +5490,6 @@
 @@||riot.com^
 @@||rip.city^
 @@||rip.to^
-@@||ripon4tab.cc.rs6.net^
 @@||risu.io^
 @@||ritea.id^
 @@||rivera-quinones-luis-manuel-5.life^
@@ -5525,6 +5516,7 @@
 @@||ro-go.kelkoogroup.net^
 @@||ro.blox.com^
 @@||robertdray2.live^
+@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rog.gg^
@@ -5551,7 +5543,6 @@
 @@||rqnav.com^
 @@||rqtfy.com^
 @@||rr.be^
-@@||rrd9h64ab.cc.rs6.net^
 @@||rrsby.com^
 @@||rsc.li^
 @@||rsg.ms^
@@ -5636,7 +5627,6 @@
 @@||s12.exacttarget.com^
 @@||s12d.com^
 @@||s13.exacttarget.com^
-@@||s13.login.exacttarget.com^
 @@||s2.hdslb.com^
 @@||s21.us^
 @@||s23.us^
@@ -5655,7 +5645,6 @@
 @@||s6.exacttarget.com^
 @@||s7.exacttarget.com^
 @@||s7y.us^
-@@||s8.exacttarget.com^
 @@||sa-link.cc^
 @@||saasmaster.link^
 @@||saddr.xyz^
@@ -5824,6 +5813,7 @@
 @@||shop-ify-store-km.life^
 @@||shop-links.co^
 @@||shope.ee^
+@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopifystorekms.life^
 @@||shoplarryherndon115.life^
@@ -6109,6 +6099,7 @@
 @@||smu.gs^
 @@||smurl.link^
 @@||sn.im^
+@@||snapchats.life^
 @@||snapt.io^
 @@||snar.co^
 @@||snd.sc^
@@ -6315,13 +6306,12 @@
 @@||suggestion.baidu.com^
 @@||sugs.m.sm.cn^
 @@||suite-dashboard.gservice.emarsys.net^
-@@||suite.emarsys.net^
 @@||suite10.emarsys.net^
 @@||suite11.emarsys.net^
 @@||suite16.emarsys.net^
 @@||suite17.emarsys.net^
 @@||suite22.emarsys.net^
-@@||suite24.emarsys.net^
+@@||suite25.emarsys.net^
 @@||suite27.emarsys.net^
 @@||suite29.emarsys.net^
 @@||suite30.emarsys.net^
@@ -6336,6 +6326,7 @@
 @@||suite58.emarsys.net^
 @@||suite59.emarsys.net^
 @@||suite63.emarsys.net^
+@@||suite7.emarsys.net^
 @@||suite9.emarsys.net^
 @@||sujanaarch.life^
 @@||sukebei.nyaa.si^
@@ -6403,6 +6394,7 @@
 @@||t*img.yangkeduo.com^
 @@||t-bi.link^
 @@||t-mo.co^
+@@||t-short.top^
 @@||t.1und1.de^
 @@||t.adcell.com^
 @@||t.cn^
@@ -6581,8 +6573,10 @@
 @@||tdrive.li^
 @@||tdv-adm.live^
 @@||tdvtb.sbs^
+@@||tdy.lol^
 @@||tdy.sg^
 @@||teamline.live^
+@@||teamrrqslot188.live^
 @@||tebar.in^
 @@||teeny.life^
 @@||teenycheck9.life^
@@ -6630,6 +6624,7 @@
 @@||thecubexguide.com^
 @@||thedo.do^
 @@||thefantazy.com^
+@@||thefood2.com^
 @@||thefp.pub^
 @@||thefunkymonkey.lu^
 @@||thein.fo^
@@ -6712,6 +6707,7 @@
 @@||tinycheck20.life^
 @@||tinycheck9.life^
 @@||tinycheck9.live^
+@@||tinyfy.me^
 @@||tinyl.ink^
 @@||tinyl.io^
 @@||tinylink.ca^
@@ -6757,6 +6753,7 @@
 @@||tlrd.pl^
 @@||tlrk.it^
 @@||tlrsq.top^
+@@||tls.yt^
 @@||tlsn.io^
 @@||tly.getrewardful.com^
 @@||tlyurl.com^
@@ -6921,7 +6918,6 @@
 @@||trymongodb.com^
 @@||ts.market.mi-img.com^
 @@||ts.market.mi-img.com^$important
-@@||ts.tradetracker.net^
 @@||tsbk.tw^
 @@||tsp.pm^
 @@||tst.page^
@@ -7208,6 +7204,7 @@
 @@||urlshortener.biz^
 @@||urlshortener.co.uk^
 @@||urlshortener.site^
+@@||urlshortenerapi.com^
 @@||urlshortenertool.com^
 @@||urlshortenervip.com^
 @@||urlshortly.com^
@@ -7301,6 +7298,8 @@
 @@||vcaun.com^
 @@||vcwvb.com^
 @@||vd0.market.xiaomi.com^
+@@||vd0.pro^
+@@||vd1.pro^
 @@||vd55.com^
 @@||vdio.pro^
 @@||vdn3.vzuu.com^
@@ -7322,6 +7321,7 @@
 @@||vfiles.gtimg.cn^
 @@||vfnzvr.com^
 @@||vfo.voyage-prive.co.uk^
+@@||vgn.me^
 @@||vgnx.co^
 @@||vgoaa.com^
 @@||vgwrm.com^
@@ -7346,11 +7346,13 @@
 @@||videos.porsche.cn^
 @@||videos.porsche.com^
 @@||videotxxx.com^
+@@||view.email.microsoftemail.com^
 @@||view.email.nzz.ch^
 @@||view.helpline-app.com^
 @@||view.inews.qq.com^$important
 @@||vig.fit^
 @@||vigilink.com^
+@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
@@ -7513,6 +7515,7 @@
 @@||webep1.com^
 @@||weberdesign.life^
 @@||webflow.grsm.io^
+@@||webgoogle.live^
 @@||webi.li^
 @@||webinfos.info^
 @@||weblink.biz^
@@ -7604,6 +7607,7 @@
 @@||wndrfl.co^
 @@||wnvwm.top^
 @@||wo.ws^
+@@||woah.top^
 @@||woflpackciye.com^
 @@||wolftravels.live^
 @@||wolg.top^
@@ -7653,6 +7657,7 @@
 @@||wuxia.163.com^
 @@||wvvld.com^
 @@||ww7.fr^
+@@||wwdurl.com^
 @@||wwf.to^
 @@||wwp.news^
 @@||wwphb.sbs^
@@ -8053,6 +8058,7 @@
 @@||ziturl.com^
 @@||ziyuan.guwendao.net^
 @@||zkmddn.com^
+@@||zkr.cz^
 @@||zkr.pw^
 @@||zkrat.me^
 @@||zkres.myzaker.com^$important
