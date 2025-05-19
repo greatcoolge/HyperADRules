@@ -666,6 +666,7 @@
 @@||access.line.me^
 @@||access.next.exchange^
 @@||accesslinkk.com^
+@@||accessmy.tax^
 @@||accesstrade.net^
 @@||accntu.re^
 @@||accommodatingly.xyz^
@@ -2837,6 +2838,7 @@
 @@||bcpsf.sbs^
 @@||bcsite.io^
 @@||bcsp2p.baidu.com^
+@@||bd-fw.com^
 @@||bd-pratidin.com^
 @@||bddugi.com^
 @@||bddy.me^
@@ -4262,6 +4264,7 @@
 @@||clicksfly.com^
 @@||clicktale.net^
 @@||clicktosee.live^
+@@||clickurl.link^
 @@||clicky.me^
 @@||clien.net^
 @@||client-api.arkoselabs.com^
@@ -12051,7 +12054,6 @@
 @@||onlinekassirjessica.life^
 @@||onlinevideoconverter.com^
 @@||onlyfansamairanidiaz.live^
-@@||onlyfanscaycoleman.live^
 @@||onmpeg.com^
 @@||onon.in^
 @@||onrpg.com^
@@ -13698,7 +13700,6 @@
 @@||roadandtrack.com^
 @@||roar.media^
 @@||robertdray2.live^
-@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rochester.edu^
@@ -14492,7 +14493,6 @@
 @@||shop.skype.com^
 @@||shopapi.io.mi.com^
 @@||shope.ee^
-@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopify.com^
 @@||shopifystorekms.life^
@@ -14892,7 +14892,6 @@
 @@||snap.com^
 @@||snapchat-payments-gateway.snapchat.com^
 @@||snapchat.com^
-@@||snapchats.life^
 @@||snapdeal.com^
 @@||snapi.live.net^
 @@||snappublisher.snapchat.com^
@@ -17496,7 +17495,6 @@
 @@||vig.fit^
 @@||vigilink.com^
 @@||viglink.com^
-@@||vim-tiktok.live^
 @@||vimeo.com^
 @@||vincenaja46.live^
 @@||vine.co^
@@ -18132,6 +18130,7 @@
 @@||wreg.com^
 @@||wrem.it^
 @@||write.qq.com^
+@@||wrqtc.com^
 @@||wru.kr^
 @@||ws-api.spot.im^
 @@||ws-comments.ign.com^
@@ -18154,6 +18153,7 @@
 @@||ws.spot.im^
 @@||ws.tc^
 @@||wsdl.360safe.com^
+@@||wsdxfn.com^
 @@||wsimg.com^
 @@||wsj.com^
 @@||wss.bithumb.com^
@@ -20202,6 +20202,7 @@
 @@||zurl.co^
 @@||zurl.ir^
 @@||zurl.ws^
+@@||zvjqn.com^
 @@||zws.im^
 @@||zxc.li^
 @@||zxcs.me^

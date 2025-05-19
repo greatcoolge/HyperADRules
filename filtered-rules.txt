@@ -640,6 +640,7 @@ access-prod.apis.anvato.net
 access.line.me
 access.next.exchange
 accesslinkk.com
+accessmy.tax
 accesstrade.net
 accntu.re
 accommodatingly.xyz
@@ -2777,6 +2778,7 @@ bcove.video
 bcpsf.sbs
 bcsite.io
 bcsp2p.baidu.com
+bd-fw.com
 bd-pratidin.com
 bddugi.com
 bddy.me
@@ -4185,6 +4187,7 @@ clickserve.dartsearch.net
 clicksfly.com
 clicktale.net
 clicktosee.live
+clickurl.link
 clicky.me
 clien.net
 client-api.arkoselabs.com
@@ -11871,7 +11874,6 @@ onlineclothes.live
 onlinekassirjessica.life
 onlinevideoconverter.com
 onlyfansamairanidiaz.live
-onlyfanscaycoleman.live
 onmpeg.com
 onon.in
 onrpg.com
@@ -13490,7 +13492,6 @@ road.adblock.ro
 roadandtrack.com
 roar.media
 robertdray2.live
-robloxgroup.life
 robloxtech.live
 robul.saas.workertm.com
 rochester.edu
@@ -14279,7 +14280,6 @@ shop.samsung.com.edgekey.net
 shop.skype.com
 shopapi.io.mi.com
 shope.ee
-shopeedeals.sale
 shopifie.com
 shopify.com
 shopifystorekms.life
@@ -14676,7 +14676,6 @@ snahp.it
 snap.com
 snapchat-payments-gateway.snapchat.com
 snapchat.com
-snapchats.life
 snapdeal.com
 snapi.live.net
 snappublisher.snapchat.com
@@ -17241,7 +17240,6 @@ view.vzaar.com
 vig.fit
 vigilink.com
 viglink.com
-vim-tiktok.live
 vimeo.com
 vincenaja46.live
 vine.co
@@ -17865,6 +17863,7 @@ wrdsdaily.com
 wreg.com
 wrem.it
 write.qq.com
+wrqtc.com
 wru.kr
 ws-api.spot.im
 ws-comments.ign.com
@@ -17887,6 +17886,7 @@ ws.school.apple.com
 ws.spot.im
 ws.tc
 wsdl.360safe.com
+wsdxfn.com
 wsimg.com
 wsj.com
 wss.bithumb.com
@@ -19915,6 +19915,7 @@ zurins.uk
 zurl.co
 zurl.ir
 zurl.ws
+zvjqn.com
 zws.im
 zxc.li
 zxcs.me^

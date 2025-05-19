@@ -390,6 +390,7 @@
 @@||abs.twimg.com^
 @@||abso.lt^
 @@||accesslinkk.com^
+@@||accessmy.tax^
 @@||accesstrade.net^
 @@||accntu.re^
 @@||accommodatingly.xyz^
@@ -996,6 +997,7 @@
 @@||bcove.video^
 @@||bcpsf.sbs^
 @@||bcsite.io^
+@@||bd-fw.com^
 @@||bddugi.com^
 @@||bddy.me^
 @@||bdf.net^
@@ -1553,6 +1555,7 @@
 @@||clicksfly.com^
 @@||clicktale.net^
 @@||clicktosee.live^
+@@||clickurl.link^
 @@||clicky.me^
 @@||client-api.arkoselabs.com^
 @@||client-rapi-missav.recombee.com^
@@ -4764,7 +4767,6 @@
 @@||onlineclothes.live^
 @@||onlinekassirjessica.life^
 @@||onlyfansamairanidiaz.live^
-@@||onlyfanscaycoleman.live^
 @@||onon.in^
 @@||onx.la^
 @@||oo0oo.icu^
@@ -5516,7 +5518,6 @@
 @@||ro-go.kelkoogroup.net^
 @@||ro.blox.com^
 @@||robertdray2.live^
-@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rog.gg^
@@ -5813,7 +5814,6 @@
 @@||shop-ify-store-km.life^
 @@||shop-links.co^
 @@||shope.ee^
-@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopifystorekms.life^
 @@||shoplarryherndon115.life^
@@ -6099,7 +6099,6 @@
 @@||smu.gs^
 @@||smurl.link^
 @@||sn.im^
-@@||snapchats.life^
 @@||snapt.io^
 @@||snar.co^
 @@||snd.sc^
@@ -7352,7 +7351,6 @@
 @@||view.inews.qq.com^$important
 @@||vig.fit^
 @@||vigilink.com^
-@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
@@ -7638,11 +7636,13 @@
 @@||wrdsdaily.com^
 @@||wrem.it^
 @@||write.qq.com^
+@@||wrqtc.com^
 @@||wru.kr^
 @@||ws-ee-maidsvc.icloud.com^
 @@||ws.school.apple.com^
 @@||ws.tc^
 @@||wsdl.360safe.com^
+@@||wsdxfn.com^
 @@||wtc.la^
 @@||wts2.smhi.se^
 @@||wts3.smhi.se^
@@ -8109,6 +8109,7 @@
 @@||zurl.co^
 @@||zurl.ir^
 @@||zurl.ws^
+@@||zvjqn.com^
 @@||zws.im^
 @@||zxc.li^
 @@||zxcs.me^
