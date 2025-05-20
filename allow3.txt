@@ -4,10 +4,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 18 May 2025 10:48 UTC
-! Version: 2025.0518.1048.23
+! Last modified: 19 May 2025 14:49 UTC
+! Version: 2025.0519.1449.28
 ! Syntax: AdBlock
-! Number of entries: 740
+! Number of entries: 728
 !
 @@||l.1mp.ru^
 @@||t.1und1.de^
@@ -237,29 +237,22 @@
 @@||profitshare.emag.ro^
 @@||list-unsubscribe.eservice.emarsys.net^
 @@||redirector.eservice.emarsys.net^
-@@||suite-dashboard.gservice.emarsys.net^
 @@||suite10.emarsys.net^
 @@||suite11.emarsys.net^
 @@||suite16.emarsys.net^
 @@||suite17.emarsys.net^
 @@||suite22.emarsys.net^
-@@||suite25.emarsys.net^
-@@||suite27.emarsys.net^
+@@||suite24.emarsys.net^
 @@||suite29.emarsys.net^
-@@||suite30.emarsys.net^
-@@||suite32.emarsys.net^
 @@||suite33.emarsys.net^
 @@||suite38.emarsys.net^
 @@||suite40.emarsys.net^
 @@||suite40-cf.emarsys.net^
 @@||suite54.emarsys.net^
-@@||suite56.emarsys.net^
 @@||suite57.emarsys.net^
 @@||suite58.emarsys.net^
-@@||suite59.emarsys.net^
-@@||suite63.emarsys.net^
+@@||suite67-cf.emarsys.net^
 @@||suite7.emarsys.net^
-@@||suite9.emarsys.net^
 @@||emjcd.com^
 @@||t.en25.com^
 @@||ablink.email.etsy.com^
@@ -318,6 +311,7 @@
 @@||adservice.google.hr^
 @@||adservice.google.ie^
 @@||adservice.google.it^
+@@||adservice.google.lt^
 @@||adservice.google.nl^
 @@||adservice.google.no^
 @@||adservice.google.pl^
@@ -335,6 +329,7 @@
 @@||click.instantink.hpsmart.com^
 @@||href.li^
 @@||sites.hscoscdn-eu1.net^
+@@||sites.hscoscdn-na2.net^
 @@||sites.hscoscdn00.net^
 @@||sites.hscoscdn10.net^
 @@||sites.hscoscdn20.net^
@@ -425,12 +420,12 @@
 @@||mkto-ab200065.com^
 @@||mkto-ab210104.com^
 @@||mkto-ab220178.com^
+@@||mkto-ab250167.com^
 @@||mkto-ab300154.com^
 @@||mkto-ab310115.com^
 @@||mkto-ab340022.com^
 @@||mkto-ab420081.com^
 @@||mkto-ab470148.com^
-@@||mkto-ab530057.com^
 @@||mkto-ab540059.com^
 @@||mkto-ab540186.com^
 @@||mkto-ab550140.com^
@@ -444,7 +439,6 @@
 @@||mkto-ab690062.com^
 @@||mkto-ab690180.com^
 @@||mkto-abj0022.com^
-@@||mkto-abm0229.com^
 @@||mkto-d0170.com^
 @@||mkto-f0054.com^
 @@||mkto-g0030.com^
@@ -463,17 +457,12 @@
 @@||mkto-sj180011.com^
 @@||mkto-sj190104.com^
 @@||mkto-sj190237.com^
-@@||mkto-sj200192.com^
 @@||mkto-sj230006.com^
 @@||mkto-sj240021.com^
 @@||mkto-sj270080.com^
 @@||mkto-sj310061.com^
 @@||mkto-sj310186.com^
 @@||mkto-sj320047.com^
-@@||mkto-sj330006.com^
-@@||mkto-sj360142.com^
-@@||mkto-sj380030.com^
-@@||mkto-test.com^
 @@||mktoweb.com^
 @@||click.mlsend.com^
 @@||t.mmtrkr.com^
@@ -567,7 +556,6 @@
 @@||adorama.rfvk.net^
 @@||click.royalcaribbeanmarketing.com^
 @@||r4gh8tuab.cc.rs6.net^
-@@||r5v8prcab.cc.rs6.net^
 @@||r5waxhbbb.cc.rs6.net^
 @@||r6lccqnab.cc.rs6.net^
 @@||r7avxrcab.cc.rs6.net^
