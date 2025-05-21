@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 19 May 2025 15:22 UTC
-! Version: 2025.0519.1522.57
+! Last modified: 20 May 2025 23:20 UTC
+! Version: 2025.0520.2320.59
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -116,6 +116,7 @@
 @@||2kgam.es^
 @@||2link.cc^
 @@||2link.in^
+@@||2ly.link^
 @@||2my.info^
 @@||2no.co^
 @@||2nu.gs^
@@ -149,6 +150,7 @@
 @@||3ind.com^
 @@||3le.ru^
 @@||3lo.gy^
+@@||3ly.link^
 @@||3mm.li^
 @@||3name.com^
 @@||3o2.co^
@@ -449,6 +451,7 @@
 @@||alphab.gr^
 @@||alpinedatalake.com^
 @@||alsa.me^
+@@||alstr.in^
 @@||alternatif.co^
 @@||altgo.link^
 @@||altstar.link^
@@ -462,12 +465,14 @@
 @@||amc.film^
 @@||amex.co^
 @@||amity.in^
+@@||amos.io^
 @@||amoz.onl^
 @@||ampr.gs^
 @@||amrep.org^
 @@||amspi.top^
 @@||amz.run^
 @@||amzn.com^
+@@||amzn.id^
 @@||amzn.pw^
 @@||amzn.to^
 @@||an.to^
@@ -537,6 +542,7 @@
 @@||l.archnet.us^
 @@||arclight.live^
 @@||ardchk.me^
+@@||aresgacor.info^
 @@||ariahscollection.life^
 @@||arkinv.st^
 @@||arn.es^
@@ -894,6 +900,7 @@
 @@||bwrmp.com^
 @@||bxjtf.com^
 @@||bxl.me^
+@@||iatp.by0.gp^
 @@||by1.eu^
 @@||by2.io^
 @@||byli.pro^
@@ -917,6 +924,7 @@
 @@||cactusskyonline.com^
 @@||cadill.ac^
 @@||caksf.top^
+@@||cal.link^
 @@||calcol.cc^
 @@||calendrierbdp.info^
 @@||camillalaprincessagroup.life^
@@ -986,6 +994,7 @@
 @@||chantucker53.live^
 @@||charleseski.life^
 @@||chase-side-maintenance.live^
+@@||chatg.pt^
 @@||checkshorturl.com^
 @@||chekc.life^
 @@||chem.sg^
@@ -1179,6 +1188,7 @@
 @@||cukbaray.com^
 @@||cultm.ac^
 @@||culture1.live^
+@@||cuoinamdiedm.life^
 @@||cup.org^
 @@||cupoms.info^
 @@||cur.lv^
@@ -1423,6 +1433,7 @@
 @@||dtl.la^
 @@||dtsx.io^
 @@||dub.co^
+@@||dub.link^
 @@||dub.sh^
 @@||dub-a-zanes-pham-and-la-25.life^
 @@||due.im^
@@ -1655,6 +1666,7 @@
 @@||fhxor.com^
 @@||fi.ro^
 @@||fifa.fans^
+@@||fig.page^
 @@||fighter234.best^
 @@||filz.fr^
 @@||find-url.co^
@@ -1675,6 +1687,7 @@
 @@||flextrig.com^
 @@||flic.kr^
 @@||flickerlink.com^
+@@||flii.by^
 @@||flip.it^
 @@||fliplink.io^
 @@||flomuz.io^
@@ -1835,6 +1848,7 @@
 @@||gfree.fr^
 @@||gfuel.ly^
 @@||gfxa.top^
+@@||ggl.link^
 @@||ggle.io^
 @@||gglink.site^
 @@||s.ggwp.be^
@@ -1848,6 +1862,7 @@
 @@||gil.re^
 @@||girlte.ch^
 @@||git.io^
+@@||git.new^
 @@||github.co^
 @@||gizmo.do^
 @@||gjk.id^
@@ -2237,6 +2252,7 @@
 @@||ipgrabber.ru^
 @@||ipgraber.ru^
 @@||ipkill.org^
+@@||iplog.link^
 @@||iplogger.co^
 @@||iplogger.info^
 @@||iplogger.org^
@@ -3136,6 +3152,7 @@
 @@||myhap.life^
 @@||myikoniq.info^
 @@||myjj789.com^
+@@||mylinkinb.io^
 @@||mylinks.top^
 @@||mylinksentry.com^
 @@||mylovinglife01974.life^
@@ -3691,6 +3708,7 @@
 @@||qnxuw.sbs^
 @@||qo.dk^
 @@||qogbv.sbs^
+@@||qoo.by^
 @@||qossl.com^
 @@||qowrk.com^
 @@||qqc.co^
@@ -4393,6 +4411,7 @@
 @@||spr.tn^
 @@||sproutingdiscipleship.com^
 @@||sprtsnt.ca^
+@@||spti.fi^
 @@||spx.re^
 @@||spyw.com^
 @@||sq6.ru^
@@ -4512,6 +4531,7 @@
 @@||t.mr^
 @@||t.tl^
 @@||t-bi.link^
+@@||t-iny.com^
 @@||t-mo.co^
 @@||t-short.top^
 @@||t111.info^
@@ -4652,6 +4672,7 @@
 @@||tinderurl.com^
 @@||tinesy.com^
 @@||tini.cc^
+@@||tinky.cc^
 @@||tinu.be^
 @@||tiny.cc^
 @@||tiny.do^
@@ -4667,6 +4688,7 @@
 @@||tiny-check-9.life^
 @@||tiny-check-9.live^
 @@||tiny-link.org^
+@@||tiny-url.me^
 @@||tiny123.com^
 @@||tinyarro.ws^
 @@||tinybit.cc^
@@ -4696,6 +4718,7 @@
 @@||tinyurlwebsite.com^
 @@||tinyurlz.co^
 @@||tinyvid.io^
+@@||tinyy.xyz^
 @@||tipeos.com^
 @@||tisfri.se^
 @@||titaniumlinks.com^
@@ -4967,10 +4990,12 @@
 @@||upriserz.link^
 @@||upt.sh^
 @@||upzat.com^
+@@||upziq.com^
 @@||ur.link^
 @@||ur-l.ru^
 @@||ur1.ca^
 @@||ur3.us^
+@@||ur4l.com^
 @@||urb.tf^
 @@||urbn.is^
 @@||newsletter.urcelia.com^
@@ -5139,6 +5164,7 @@
 @@||vercel.link^
 @@||verd.in^
 @@||veshort.com^
+@@||vestil.org^
 @@||vfnzvr.com^
 @@||vgn.me^
 @@||vgnx.co^
@@ -5335,6 +5361,7 @@
 @@||whcs.law^
 @@||wheat-td.info^
 @@||wheel.to^
+@@||whgzq.sbs^
 @@||whi.ch^
 @@||white-horse-dc-58.life^
 @@||white-maw.info^
@@ -5367,6 +5394,7 @@
 @@||wkf.ms^
 @@||wl.co^
 @@||wm0.co^
+@@||wmeqx.com^
 @@||wmojo.com^
 @@||wn.nr^
 @@||wndhj.top^
@@ -5403,6 +5431,7 @@
 @@||ws.tc^
 @@||wsdxfn.com^
 @@||on.wsj.com^
+@@||wsvcg.sbs^
 @@||wtc.la^
 @@||wu.cz^
 @@||wu.vc^
@@ -5708,6 +5737,7 @@
 @@||zwfmr.com^
 @@||zws.im^
 @@||zxc.li^
+@@||zxlna.top^
 @@||zynga.my^
 @@||zyva.org^
 @@||zywv.us^
