@@ -977,7 +977,6 @@
 @@||arsn.al^
 @@||article.zlink.toutiao.com^
 @@||arus.cc^
-@@||aryenmotors.com^
 @@||as1ansl0t88.site^
 @@||asharq.biz^
 @@||asharq.co^
@@ -2350,6 +2349,7 @@
 @@||emoji.bj.bcebos.com^
 @@||emojied.net^
 @@||en.uptodown.com^
+@@||enbl.tech^
 @@||encrypted-tbn0.gstatic.com^
 @@||encrypted-tbn1.gstatic.com^
 @@||encrypted-tbn2.gstatic.com^
@@ -2781,6 +2781,7 @@
 @@||github.store^
 @@||githubusercontent.com^$important
 @@||gitlab.com^
+@@||giv.red^
 @@||gizmo.do^
 @@||gjk.id^
 @@||gjusp.alicdn.com^
@@ -2891,6 +2892,7 @@
 @@||google-photo.live^
 @@||google-url.com^
 @@||googleapis.com^
+@@||googleidmaps.live^
 @@||goolink.cc^
 @@||goolnk.com^
 @@||gooo.to^
@@ -3187,7 +3189,6 @@
 @@||i99.cz^
 @@||iaas.cloud.tencent.com^
 @@||iapdw.com^
-@@||iatp.by0.gp^
 @@||ib11.go2yd.com^$important
 @@||ibb.co^
 @@||ibest.in^
@@ -6597,6 +6598,7 @@
 @@||savyour.app^
 @@||say.it^
 @@||sayahna.net^
+@@||sayapbola.cc^
 @@||sazi.to^
 @@||sbanh.com^
 @@||sbfast.com^
@@ -6743,6 +6745,7 @@
 @@||shop-ify-store-km.life^
 @@||shop-links.co^
 @@||shope.ee^
+@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopifystorekms.life^
 @@||shoplarryherndon115.life^
@@ -8561,7 +8564,6 @@
 @@||wf0.xin^
 @@||wfly.co^
 @@||wfryer.me^
-@@||wfts.tv^
 @@||wgsv.top^
 @@||whatel.se^
 @@||whatsapp4a.live^
@@ -8885,6 +8887,7 @@
 @@||xrl.in^
 @@||xrl.us^
 @@||xrshort.eu^
+@@||xryab.com^
 @@||xsin.it^
 @@||xsl.pt^
 @@||xsurl.eu^

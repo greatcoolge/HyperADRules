@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 20 May 2025 23:20 UTC
-! Version: 2025.0520.2320.59
+! Last modified: 21 May 2025 23:25 UTC
+! Version: 2025.0521.2325.07
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -551,7 +551,6 @@
 @@||arserike.com^
 @@||arsn.al^
 @@||arus.cc^
-@@||aryenmotors.com^
 @@||as1ansl0t88.site^
 @@||asharq.biz^
 @@||asharq.co^
@@ -900,7 +899,6 @@
 @@||bwrmp.com^
 @@||bxjtf.com^
 @@||bxl.me^
-@@||iatp.by0.gp^
 @@||by1.eu^
 @@||by2.io^
 @@||byli.pro^
@@ -1537,6 +1535,7 @@
 @@||embt.co^
 @@||emirat.es^
 @@||emojied.net^
+@@||enbl.tech^
 @@||encurtador.net^
 @@||ene-amari-us-43.life^
 @@||engt.co^
@@ -1864,6 +1863,7 @@
 @@||git.io^
 @@||git.new^
 @@||github.co^
+@@||giv.red^
 @@||gizmo.do^
 @@||gjk.id^
 @@||gkurl.us^
@@ -1919,6 +1919,7 @@
 @@||goodnessokparaeke.live^
 @@||google-photo.live^
 @@||google-url.com^
+@@||googleidmaps.live^
 @@||goolink.cc^
 @@||goolnk.com^
 @@||gooo.to^
@@ -4001,6 +4002,7 @@
 @@||savyour.app^
 @@||say.it^
 @@||sayahna.net^
+@@||sayapbola.cc^
 @@||sazi.to^
 @@||sbgo.io^
 @@||sbird.co^
@@ -4101,6 +4103,7 @@
 @@||shoort.io^
 @@||shop-ify-store-km.life^
 @@||shope.ee^
+@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopifystorekms.life^
 @@||shoplarryherndon115.life^
@@ -5354,7 +5357,6 @@
 @@||wf0.xin^
 @@||wfly.co^
 @@||wfryer.me^
-@@||wfts.tv^
 @@||wgsv.top^
 @@||whatel.se^
 @@||whatsapp4a.live^
@@ -5524,6 +5526,7 @@
 @@||xrl.in^
 @@||xrl.us^
 @@||xrshort.eu^
+@@||xryab.com^
 @@||xsin.it^
 @@||xsl.pt^
 @@||xsurl.eu^

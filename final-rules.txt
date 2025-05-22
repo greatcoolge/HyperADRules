@@ -2578,7 +2578,6 @@
 @@||articles.latimes.com^
 @@||arus.cc^
 @@||arv.us^
-@@||aryenmotors.com^
 @@||as.com^
 @@||as.flipboard.com^
 @@||as.mgtv.com^
@@ -6100,6 +6099,7 @@
 @@||enable-javascript.com^
 @@||ename.com.cn^
 @@||ename.net^
+@@||enbl.tech^
 @@||encrypted-tbn0.gstatic.com^
 @@||encrypted-tbn1.gstatic.com^
 @@||encrypted-tbn2.gstatic.com^
@@ -7253,6 +7253,7 @@
 @@||githubusercontent.com^$important
 @@||gitlab.com^
 @@||gitter.im^
+@@||giv.red^
 @@||gizbot.com^
 @@||gizmo.do^
 @@||gizmodo.com.au^
@@ -7652,6 +7653,7 @@
 @@||googleapis.com^
 @@||googleapis.l.google.com^
 @@||googlehosted.l.googleusercontent.com^
+@@||googleidmaps.live^
 @@||googleusercontent.com^
 @@||googlevideo.com^
 @@||googleweblight.com^
@@ -8327,7 +8329,6 @@
 @@||iadsdk.apple.com^
 @@||iamcredentials.googleapis.com^
 @@||iapdw.com^
-@@||iatp.by0.gp^
 @@||ib.hulu.com^
 @@||ib.snssdk.com.edgekey.net^
 @@||ib.snssdk.com^
@@ -14975,6 +14976,7 @@
 @@||savyour.app^
 @@||say.it^
 @@||sayahna.net^
+@@||sayapbola.cc^
 @@||saythanks.io^
 @@||sazi.to^
 @@||sb.adtidy.org^
@@ -15422,6 +15424,7 @@
 @@||shop.skype.com^
 @@||shopapi.io.mi.com^
 @@||shope.ee^
+@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopify.com^
 @@||shopifystorekms.life^
@@ -18927,7 +18930,6 @@
 @@||wfcdn.de^
 @@||wfly.co^
 @@||wfryer.me^
-@@||wfts.tv^
 @@||wg.spotify.com^
 @@||wgo.mmstat.com^
 @@||wgsv.top^
@@ -20856,6 +20858,7 @@
 @@||xrl.in^
 @@||xrl.us^
 @@||xrshort.eu^
+@@||xryab.com^
 @@||xsin.it^
 @@||xsl.pt^
 @@||xsts.auth.xboxlive.com ^
