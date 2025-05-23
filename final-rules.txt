@@ -2578,6 +2578,7 @@
 @@||articles.latimes.com^
 @@||arus.cc^
 @@||arv.us^
+@@||aryenmotors.com^
 @@||as.com^
 @@||as.flipboard.com^
 @@||as.mgtv.com^
@@ -14774,6 +14775,7 @@
 @@||s.sc-jpl.com^
 @@||s.sebald.com^
 @@||s.shopify.com^
+@@||s.sick.com^
 @@||s.skip.bh^
 @@||s.snapchat.com^
 @@||s.spot.im^
@@ -18506,6 +18508,7 @@
 @@||vig.fit^
 @@||vigilink.com^
 @@||viglink.com^
+@@||vim-tiktok.live^
 @@||vimeo.com^
 @@||vincenaja46.live^
 @@||vine.co^

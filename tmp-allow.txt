@@ -977,6 +977,7 @@
 @@||arsn.al^
 @@||article.zlink.toutiao.com^
 @@||arus.cc^
+@@||aryenmotors.com^
 @@||as1ansl0t88.site^
 @@||asharq.biz^
 @@||asharq.co^
@@ -6505,6 +6506,7 @@
 @@||s.mzstatic.com^
 @@||s.pximg.net^
 @@||s.sebald.com^
+@@||s.sick.com^
 @@||s.skip.bh^
 @@||s.ub.ac.id^
 @@||s.ubyt.es^
@@ -8362,6 +8364,7 @@
 @@||view.inews.qq.com^$important
 @@||vig.fit^
 @@||vigilink.com^
+@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^

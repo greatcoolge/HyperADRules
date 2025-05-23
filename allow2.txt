@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 21 May 2025 23:25 UTC
-! Version: 2025.0521.2325.07
+! Last modified: 22 May 2025 11:33 UTC
+! Version: 2025.0522.1133.22
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -551,6 +551,7 @@
 @@||arserike.com^
 @@||arsn.al^
 @@||arus.cc^
+@@||aryenmotors.com^
 @@||as1ansl0t88.site^
 @@||asharq.biz^
 @@||asharq.co^
@@ -5187,6 +5188,7 @@
 @@||videopro.live^
 @@||vig.fit^
 @@||vigilink.com^
+@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
