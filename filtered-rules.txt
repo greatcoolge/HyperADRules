@@ -14878,6 +14878,7 @@ sdk.xyapi.game.qq.com
 sdmaid.darken.eu
 sdnl.org
 sdpbne.ws
+sdr168.site
 sds.playstation.com
 sdu.sk
 sdut.us
@@ -17600,6 +17601,7 @@ uedna.com
 uepx.com
 ufai.app
 ufcqc.link
+ufjqt.com
 ug.cz
 ugame.9game.cn
 ugc.api.playstation.com
@@ -18253,7 +18255,6 @@ view.vzaar.com
 vig.fit
 vigilink.com
 viglink.com
-vim-tiktok.live
 vimeo.com
 vincenaja46.live
 vine.co

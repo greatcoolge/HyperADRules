@@ -6644,6 +6644,7 @@
 @@||sdk.xyapi.game.qq.com^
 @@||sdnl.org^
 @@||sdpbne.ws^
+@@||sdr168.site^
 @@||sdu.sk^
 @@||sdut.us^
 @@||sdwone.us^
@@ -8032,6 +8033,7 @@
 @@||uepx.com^
 @@||ufai.app^
 @@||ufcqc.link^
+@@||ufjqt.com^
 @@||ug.cz^
 @@||ugame.9game.cn^
 @@||ugmon.info^
@@ -8364,7 +8366,6 @@
 @@||view.inews.qq.com^$important
 @@||vig.fit^
 @@||vigilink.com^
-@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^

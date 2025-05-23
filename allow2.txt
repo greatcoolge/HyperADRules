@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 22 May 2025 11:33 UTC
-! Version: 2025.0522.1133.22
+! Last modified: 22 May 2025 23:27 UTC
+! Version: 2025.0522.2327.40
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -4037,6 +4037,7 @@
 @@||sdefr.live^
 @@||sdnl.org^
 @@||sdpbne.ws^
+@@||sdr168.site^
 @@||sdu.sk^
 @@||sdut.us^
 @@||sdwone.us^
@@ -4934,6 +4935,7 @@
 @@||uepx.com^
 @@||ufai.app^
 @@||ufcqc.link^
+@@||ufjqt.com^
 @@||ug.cz^
 @@||ugmon.info^
 @@||ugp.io^
@@ -5188,7 +5190,6 @@
 @@||videopro.live^
 @@||vig.fit^
 @@||vigilink.com^
-@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
