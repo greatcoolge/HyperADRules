@@ -182,6 +182,7 @@
 @@||316.coolapk1s.com^
 @@||31productions.de^
 @@||369.xn--6frz82g^
+@@||39d0825d09f05.cdn.sohucs.com^
 @@||3c5.com^
 @@||3cinteractive.com^
 @@||3g.163.com^
@@ -887,6 +888,7 @@
 @@||api3-normal-sinfonlineb.fqnovel.com^
 @@||api5-normal-sinfonlineb.fqnovel.com^
 @@||apis.google.com
+@@||apk-packaging.tapimg.com^
 @@||apll.es^
 @@||aplnn.sbs^
 @@||apmebf.com^
@@ -1447,6 +1449,8 @@
 @@||capitalone-udc.digital-cloud.medallia.com^
 @@||capitalone.com^
 @@||capsulink.com^
+@@||captcha-gray.zt.kuaishou.com^
+@@||captcha.zt.kuaishou.com^
 @@||captive.apple.com^
 @@||captl1.co^
 @@||captur.in^
@@ -1865,6 +1869,7 @@
 @@||csgy.info^
 @@||csmo.us^
 @@||csnode.com^
+@@||css.tv.itc.cn^
 @@||cssubmissions.apple.com^
 @@||cstaticdun-v6.126.net^
 @@||cstaticdun.126.net^
@@ -1922,7 +1927,6 @@
 @@||cutth.com^
 @@||cutturl.xyz^
 @@||cutu.me^
-@@||cutur.link^
 @@||cuturl.com^
 @@||cuturl.net^
 @@||cuty.io^
@@ -1981,6 +1985,7 @@
 @@||data.mistat.intl.xiaomi.com^$important
 @@||data.mistat.xiaomi.com^$important
 @@||data.services.jetbrains.com^
+@@||data.vod.itc.cn^
 @@||datalisa.id^
 @@||datalotrk.com^
 @@||dataprajna.net^
@@ -2259,6 +2264,7 @@
 @@||e.vg^
 @@||e2share.in^
 @@||e37.eu^
+@@||e3f49eaa46b57.cdn.sohucs.com^
 @@||e7.al^
 @@||earn4link.in^
 @@||earnshorter.com^
@@ -2351,6 +2357,7 @@
 @@||emjcd.com^
 @@||emoji.bj.bcebos.com^
 @@||emojied.net^
+@@||emp.onl^
 @@||en.uptodown.com^
 @@||enbl.tech^
 @@||encrypted-tbn0.gstatic.com^
@@ -2876,6 +2883,7 @@
 @@||gocps.net^
 @@||godrk.de^
 @@||gofund.me^
+@@||gogoto.me^
 @@||gol.to^
 @@||goldn.cc^
 @@||golink.one^
@@ -2978,6 +2986,8 @@
 @@||h2apz.com^
 @@||h3x.ir^
 @@||h42.update.netease.com^
+@@||h4g3z1-referral.web.app^
+@@||h4g3z1-urlshortener.web.app^
 @@||h5.360buyimg.com^
 @@||h5.cc.163.com^
 @@||h5.dianping.com^
@@ -3545,8 +3555,10 @@
 @@||js-agent.newrelic.com^
 @@||js.3conline.com^
 @@||js.40017.cn^
+@@||js.a.kspkg.com^
 @@||js.sa^
 @@||js.t.sinajs.cn^
+@@||js.tv.itc.cn^
 @@||jsckd.top^
 @@||jsdqa.top^
 @@||jsl1.in^
@@ -3743,7 +3755,6 @@
 @@||l00p.eu^
 @@||l24.im^
 @@||l2f.ca^
-@@||l2o.ir^
 @@||l36-danmu.hi.163.com^
 @@||l36.gdl.netease.com^
 @@||l36.update.netease.com^
@@ -3801,6 +3812,7 @@
 @@||lf-douyin-pc-search.douyinstatic.com^
 @@||lf-douyin-pc-web.douyinstatic.com^
 @@||lf-douyin-search-fe.bytetos.com^
+@@||lf-sourcecdn-tos.bytegecko.com^
 @@||lf-webcast-platform.bytetos.com^
 @@||lf1-cdn-tos.bytegoofy.com^
 @@||lf1-cdn-tos.bytescm.com^
@@ -4016,6 +4028,7 @@
 @@||liurl.cn^
 @@||live.com^
 @@||live.douyin.com^
+@@||live.kuaishou.com^
 @@||livebetter.website^
 @@||livehotdisini.baby^
 @@||livemu.sc^
@@ -4066,6 +4079,7 @@
 @@||loadingbaycn.webapp.163.com^
 @@||loasj.com^
 @@||loc.map.baidu.com^
+@@||lockororder.netlify.app^
 @@||log.snssdk.com^
 @@||login.live.com^
 @@||login.m.taobao.com^
@@ -4176,6 +4190,7 @@
 @@||m.jiaoyimao.com^
 @@||m.jiaoyimao.com^$important
 @@||m.ke.com^
+@@||m.kuaishou.com^
 @@||m.lianjia.com^
 @@||m.manhuabei.com^$important
 @@||m.me^
@@ -4188,6 +4203,7 @@
 @@||m.so.com^
 @@||m.tb.cn^
 @@||m.toutiao.com^
+@@||m.tv.sohu.com^
 @@||m.v.wali.com^
 @@||m.video.9ddm.com^$important
 @@||m.video.xiaomi.com^
@@ -5584,7 +5600,6 @@
 @@||onlineclothes.live^
 @@||onlinekassirjessica.life^
 @@||onlyfansamairanidiaz.live^
-@@||onlyfanscaycoleman.live^
 @@||onon.in^
 @@||onx.la^
 @@||oo0oo.icu^
@@ -5669,6 +5684,7 @@
 @@||p11.douyinpic.com^
 @@||p1n.in^
 @@||p1r.es^
+@@||p2-game.kskwai.com^
 @@||p26-sign.bdxiguaimg.com^
 @@||p26-sign.douyinpic.com^
 @@||p26.douyinpic.com^
@@ -5806,6 +5822,7 @@
 @@||phimvietsub.life^
 @@||phonecallapi.micloud.xiaomi.net^$important
 @@||phonesubmissions.apple.com^
+@@||photocdn.tv.sohu.com^
 @@||phst.in^
 @@||phyre.live^
 @@||pi.pardot.com^
@@ -6065,6 +6082,7 @@
 @@||qlogo.cn^$important
 @@||qm.qq.com^
 @@||qmnxj.top^
+@@||qn-static-tap.tapimg.com^
 @@||qnap.to^
 @@||qndjq.com^
 @@||qnm.163.com^
@@ -6382,6 +6400,7 @@
 @@||rklmqleab.cc.rs6.net^
 @@||rkypyqrab.cc.rs6.net^
 @@||rli.io^
+@@||rls.tapimg.com^
 @@||rlu.ru^
 @@||rlvmf.top^
 @@||rly.pt^
@@ -6398,7 +6417,6 @@
 @@||ro-go.kelkoogroup.net^
 @@||ro.blox.com^
 @@||robertdray2.live^
-@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||roclcdfab.cc.rs6.net^
@@ -6754,7 +6772,6 @@
 @@||shop-ify-store-km.life^
 @@||shop-links.co^
 @@||shope.ee^
-@@||shopeedeals.sale^
 @@||shopifie.com^
 @@||shopifystorekms.life^
 @@||shoplarryherndon115.life^
@@ -7029,7 +7046,6 @@
 @@||smfcx.live^
 @@||smghf.ca^
 @@||smlk.es^
-@@||smlr.site^
 @@||smo.do^
 @@||smonty.co^
 @@||smoot.apple.com^
@@ -7044,7 +7060,6 @@
 @@||smu.gs^
 @@||smurl.link^
 @@||sn.im^
-@@||snapchats.life^
 @@||snapt.io^
 @@||snar.co^
 @@||snd.sc^
@@ -7183,7 +7198,6 @@
 @@||static-l3.xnxx-cdn.com^
 @@||static-mobilegame-1.biligame.net^
 @@||static-res.qq.com^
-@@||static-tapad.tapdb.net^
 @@||static.360buyimg.com^
 @@||static.91haoka.cn^
 @@||static.ali213.net^
@@ -7560,6 +7574,7 @@
 @@||target.georiot.com^
 @@||target.microsoft.com^
 @@||targeterpro.com^
+@@||taskofdeity.netlify.app^
 @@||tatjanka31sluts.life^
 @@||tautin.id^
 @@||tauzn.top^
@@ -7953,6 +7968,7 @@
 @@||turo.us^
 @@||tuwaga.vip^
 @@||tuwmc.sbs^
+@@||tv.sohu.com^
 @@||tvepg.pandora.xiaomi.com^$important
 @@||tvonlineappitv.life^
 @@||tvonlineappitv.live^
@@ -8373,7 +8389,6 @@
 @@||view.inews.qq.com^$important
 @@||vig.fit^
 @@||vigilink.com^
-@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
@@ -8749,6 +8764,7 @@
 @@||www.kanjiantu.com^$important
 @@||www.kdukvh.com^
 @@||www.ke.com^
+@@||www.kuaishou.com^
 @@||www.lamborghini.com^
 @@||www.lianjia.com^
 @@||www.manhuabei.com^$important

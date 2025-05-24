@@ -299,6 +299,7 @@
 37signals.com
 39.net
 3975.com
+39d0825d09f05.cdn.sohucs.com
 3c.co
 3c5.com
 3cinteractive.com
@@ -2297,6 +2298,7 @@ apis.naver.com
 apis.snapchat.com
 apis.vk.vom
 apiwz.midukanshu.com
+apk-packaging.tapimg.com
 apk.v-mate.mobi
 apkaward.com
 apkmb.com
@@ -3651,10 +3653,12 @@ capitalone-resources.digital-cloud.medallia.com
 capitalone-udc.digital-cloud.medallia.com
 capitalone.com
 capsulink.com
+captcha-gray.zt.kuaishou.com
 captcha.360.cn
 captcha.gtimg.com
 captcha.hd.mi.com
 captcha.wechat.com
+captcha.zt.kuaishou.com
 captions.cloud.vimeo.com
 captivateprime.adobe.com
 captive.apple.com
@@ -4851,6 +4855,7 @@ csp.medium.com
 csr.integration.viber.com
 css.gbtcdn.com
 css.hepsiburada.net
+css.tv.itc.cn
 cssdeck.com
 cssubmissions.apple.com
 cst.cstwpush.com
@@ -4928,7 +4933,6 @@ cutt4.me
 cutth.com
 cutturl.xyz
 cutu.me
-cutur.link
 cuturl.com
 cuturl.net
 cuty.io
@@ -5073,6 +5077,7 @@ data.sec.intl.miui.com
 data.sec.miui.com
 data.services.jetbrains.com
 data.video.iqiyi.com
+data.vod.itc.cn
 datafilehost.com
 datalab.naver.com
 datalisa.id
@@ -5748,6 +5753,7 @@ e2e.ign.com
 e2share.in
 e3489.cd.akamaiedge.net
 e37.eu
+e3f49eaa46b57.cdn.sohucs.com
 e4478.a.akamaiedge.net
 e5298.g.akamaiedge.net
 e7.al
@@ -5975,6 +5981,7 @@ emoji.bj.bcebos.com
 emojied.net
 emote.vuukle.com
 emp.bbci.co.uk
+emp.onl
 empic.dfcfw.com
 emptyloop.com
 ems-delivery.api.playstation.com
@@ -7298,6 +7305,7 @@ gog-statics.com
 gog.com
 gogalaxy.gog-statics.com
 gogoanime.io
+gogoto.me
 gokano.com
 gol.to
 gold.xhamsterpremium.com
@@ -7719,6 +7727,8 @@ h18.update.netease.com
 h2apz.com
 h3x.ir
 h42.update.netease.com
+h4g3z1-referral.web.app
+h4g3z1-urlshortener.web.app
 h5.360buyimg.com
 h5.cc.163.com
 h5.dianping.com
@@ -9080,6 +9090,7 @@ js-agent.newrelic.com
 js-sec.indexww.com
 js.3conline.com
 js.40017.cn
+js.a.kspkg.com
 js.api.here.com
 js.data.auto.qq.com
 js.gleam.io
@@ -9092,6 +9103,7 @@ js.pusher.com
 js.sa
 js.stripe.com
 js.t.sinajs.cn
+js.tv.itc.cn
 js.ui-portal.de
 js1.t.sinajs.cn
 jsak.mmtcdn.com
@@ -9409,7 +9421,6 @@ l.yimg.com
 l00p.eu
 l24.im
 l2f.ca
-l2o.ir
 l36-danmu.hi.163.com
 l36.gdl.netease.com
 l36.update.netease.com
@@ -9541,6 +9552,7 @@ lf-cdn-tos.bytescm.com
 lf-douyin-pc-search.douyinstatic.com
 lf-douyin-pc-web.douyinstatic.com
 lf-douyin-search-fe.bytetos.com
+lf-sourcecdn-tos.bytegecko.com
 lf-webcast-platform.bytetos.com
 lf1-cdn-tos.bytegoofy.com
 lf1-cdn-tos.bytescm.com
@@ -9871,6 +9883,7 @@ live.fc2.com
 live.foxnews.com
 live.github.com
 live.integration.viber.com
+live.kuaishou.com
 live.line.me
 live.mi.com
 live.net
@@ -9974,6 +9987,7 @@ location-inference-westus.cloudapp.net
 location.services.mozilla.com
 locationiq.com
 loccitane.com
+lockororder.netlify.app
 lockurl.com
 lodz.tvp.pl
 log-upload-os.mihoyo.com
@@ -10275,6 +10289,7 @@ m.jiaoyimao.com
 m.jpost.com
 m.jr.mi.com
 m.ke.com
+m.kuaishou.com
 m.lg.com
 m.lianjia.com
 m.line.me
@@ -10350,6 +10365,7 @@ m.travel.dcinside.com
 m.tucows.com
 m.tumblr.com
 m.turbobit.net
+m.tv.sohu.com
 m.twitch.tv
 m.uczzd.cn
 m.uk.ign.com
@@ -12691,7 +12707,6 @@ onlineclothes.live
 onlinekassirjessica.life
 onlinevideoconverter.com
 onlyfansamairanidiaz.live
-onlyfanscaycoleman.live
 onmpeg.com
 onon.in
 onrpg.com
@@ -12899,6 +12914,7 @@ p11-webcast.douyinpic.com
 p11.douyinpic.com
 p1n.in
 p1r.es
+p2-game.kskwai.com
 p20-calendars.icloud.com
 p26-sign.bdxiguaimg.com
 p26-sign.douyinpic.com
@@ -13173,6 +13189,7 @@ photo.mylife.com
 photo.naver.com
 photo.plus.google.com
 photobucket.com
+photocdn.tv.sohu.com
 photolog.blog.naver.com
 photoreview.gotinder.com
 photos-ugc.l.googleusercontent.com
@@ -13820,6 +13837,7 @@ qm.qq.co
 qm.qq.com
 qme.mydns.jp
 qmnxj.top
+qn-static-tap.tapimg.com
 qnap.to
 qndjq.com
 qnm.163.com
@@ -14343,6 +14361,7 @@ rkypyqrab.cc.rs6.net
 rli.io
 rli.nl
 rlogs.youdao.com
+rls.tapimg.com
 rlu.ru
 rlvmf.top
 rlx.org
@@ -14372,7 +14391,6 @@ road.adblock.ro
 roadandtrack.com
 roar.media
 robertdray2.live
-robloxgroup.life
 robloxtech.live
 robul.saas.workertm.com
 rochester.edu
@@ -15220,7 +15238,6 @@ shop.samsung.com.edgekey.net
 shop.skype.com
 shopapi.io.mi.com
 shope.ee
-shopeedeals.sale
 shopifie.com
 shopify.com
 shopifystorekms.life
@@ -15589,7 +15606,6 @@ smghf.ca
 smh.com.au
 smiledirectclub.com
 smlk.es
-smlr.site
 smo.do
 smokingwheels.github.io
 smonkey.com
@@ -15621,7 +15637,6 @@ snahp.it
 snap.com
 snapchat-payments-gateway.snapchat.com
 snapchat.com
-snapchats.life
 snapdeal.com
 snapi.live.net
 snappublisher.snapchat.com
@@ -15988,7 +16003,6 @@ static-mobilegame-1.biligame.net
 static-pepper.dealabs.com
 static-res.qq.com
 static-resource.np.community.playstation.net
-static-tapad.tapdb.net
 static-xl9-ssl.xunlei.com
 static.127777.com
 static.3001.net
@@ -16782,6 +16796,7 @@ target.georiot.com
 target.microsoft.com
 targetednotifications-tm.trafficmanager.net
 targeterpro.com
+taskofdeity.netlify.app
 tatjanka31sluts.life
 tautin.id
 tauzn.top
@@ -18262,7 +18277,6 @@ view.vzaar.com
 vig.fit
 vigilink.com
 viglink.com
-vim-tiktok.live
 vimeo.com
 vincenaja46.live
 vine.co
@@ -19798,6 +19812,7 @@ www.kmart.com.au
 www.knowyourmeme.com
 www.kongregate.com
 www.kopimi.com
+www.kuaishou.com
 www.kutt.it
 www.lamborghini.com
 www.latesthackingnews.com
