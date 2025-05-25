@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 23 May 2025 23:18 UTC
-! Version: 2025.0523.2318.33
+! Last modified: 25 May 2025 07:30 UTC
+! Version: 2025.0525.0730.11
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -1136,6 +1136,7 @@
 @@||cookcenter.info^
 @@||cooldaddy4yatwo.live^
 @@||coop.uk^
+@@||coopurl.com^
 @@||cop.vn^
 @@||cor236kofc.life^
 @@||url.coronassh.com^
@@ -1355,6 +1356,7 @@
 @@||divsly.com^
 @@||djarum88.shop^
 @@||djex.co^
+@@||djljjk.com^
 @@||djloventx.live^
 @@||djp.li^
 @@||djteg.sbs^
@@ -1538,6 +1540,7 @@
 @@||emirat.es^
 @@||emojied.net^
 @@||emp.onl^
+@@||empukjeru.site^
 @@||enbl.tech^
 @@||encurtador.net^
 @@||ene-amari-us-43.life^
@@ -1886,6 +1889,7 @@
 @@||gmy.su^
 @@||gn.am^
 @@||gnam.me^
+@@||gnkxh.top^
 @@||go.aws^
 @@||s.bnpb.go.id^
 @@||go-duo-join-live-video-chat-invite.live^
@@ -3633,6 +3637,7 @@
 @@||prljx.sbs^
 @@||prn.to^
 @@||prodd.co^
+@@||profeelo.com^
 @@||short.profi.lv^
 @@||profile.to^
 @@||projects.id^
@@ -3649,6 +3654,7 @@
 @@||psee.io^
 @@||psfl.in^
 @@||psgra.com^
+@@||psrak.sbs^
 @@||psychic-shiva-ram.live^
 @@||psychology-today.life^
 @@||ptab.it^
@@ -3696,6 +3702,7 @@
 @@||qcutul2702.life^
 @@||qd.rs^
 @@||qdl.pw^
+@@||qfqqi.top^
 @@||qicute.com^
 @@||qiyel.sbs^
 @@||qjccl.com^
@@ -3704,6 +3711,7 @@
 @@||qkvlk.com^
 @@||qlbnk.com^
 @@||qlink.pro^
+@@||qliyr.sbs^
 @@||qlnk.net^
 @@||qmnxj.top^
 @@||qnap.to^
@@ -3822,6 +3830,7 @@
 @@||red.ht^
 @@||redaz.in^
 @@||v.redd.it^
+@@||redditlink.org^
 @@||redem.live^
 @@||redir.ec^
 @@||redir.fr^
@@ -4164,6 +4173,7 @@
 @@||shortenme.io^
 @@||shortenme.me^
 @@||shortenurls.eu^
+@@||shortenurlz.com^
 @@||shortenwe.com^
 @@||shortenworld.com^
 @@||shorter.gg^
@@ -4611,6 +4621,7 @@
 @@||terbar.ink^
 @@||terijoss.com^
 @@||terp.icu^
+@@||texas88vvip.org^
 @@||texasbisa.org^
 @@||texn.cc^
 @@||tfg2000.de^
@@ -4848,6 +4859,7 @@
 @@||trucri.me^
 @@||trunc.it^
 @@||trunkateurl.com^
+@@||truongthanhlen.live^
 @@||try.mk^
 @@||try2link.com^
 @@||try4.me^
@@ -5004,6 +5016,7 @@
 @@||ur1.ca^
 @@||ur3.us^
 @@||ur4l.com^
+@@||ura.vn^
 @@||urb.tf^
 @@||urbn.is^
 @@||newsletter.urcelia.com^

@@ -4792,6 +4792,7 @@
 @@||coop.telecom.mihome.xiaomi.net^
 @@||coop.uk^
 @@||coop.voicecloud.cn^
+@@||coopurl.com^
 @@||cop.vn^
 @@||copyright.help.soundcloud.com^
 @@||copyright.soundcloud.com^
@@ -5486,6 +5487,7 @@
 @@||djex.co^
 @@||dji.com^
 @@||djix.com^
+@@||djljjk.com^
 @@||djloventx.live^
 @@||djp.li^
 @@||djteg.sbs^
@@ -6091,6 +6093,7 @@
 @@||emp.onl^
 @@||empic.dfcfw.com^
 @@||emptyloop.com^
+@@||empukjeru.site^
 @@||ems-delivery.api.playstation.com^
 @@||emui.huawei.com^
 @@||en.bab.la^
@@ -7328,6 +7331,7 @@
 @@||gn.naver.com^
 @@||gnam.me^
 @@||gnar.grammarly.com^
+@@||gnkxh.top^
 @@||gnu.org^
 @@||go-direct.flx1.com^
 @@||go-duo-join-live-video-chat-invite.live^
@@ -8988,6 +8992,7 @@
 @@||isc-vn.org^
 @@||iscool.net^
 @@||isee.weishi.qq.com^
+@@||iservice.10010.com^
 @@||iservice.fuzelfiles.com^
 @@||islamweb.net^
 @@||isols.co^
@@ -9240,6 +9245,7 @@
 @@||js.data.auto.qq.com^
 @@||js.gleam.io^
 @@||js.hsforms.net^
+@@||js.img.10010.com^
 @@||js.indexww.com^
 @@||js.intercomcdn.com^
 @@||js.maxmind.com^
@@ -10360,6 +10366,7 @@
 @@||m.cafe.daum.net^
 @@||m.cafemom.com^
 @@||m.chia-anime.tv^
+@@||m.client.10010.com^
 @@||m.codemasters.com^
 @@||m.collegehumor.com^
 @@||m.comic.naver.com^
@@ -10563,6 +10570,7 @@
 @@||m1p.fr^
 @@||m2-a.sndcdn.com^
 @@||m2.chia-anime.tv^
+@@||m2.img.10010.com^
 @@||m2.nsimg.net^
 @@||m42.pw^
 @@||m4rk.org^
@@ -13792,6 +13800,7 @@
 @@||product.rakuten.co.jp^
 @@||productcard.gog-statics.com^
 @@||products.office.com^
+@@||profeelo.com^
 @@||profile-avatar.csdnimg.cn^
 @@||profile.api.playstation.com^
 @@||profile.blog.naver.com^
@@ -13866,6 +13875,7 @@
 @@||psp.ign.com^
 @@||psp2-e.np.dl.playstation.net^
 @@||psp2.updptl.np.community.playstation.net^
+@@||psrak.sbs^
 @@||pss.bdstatic.com^
 @@||psstatic.cdn.bcebos.com^
 @@||pstatp.com^$important
@@ -14007,6 +14017,7 @@
 @@||qdfepccdn.qidian.com^
 @@||qdl.pw^
 @@||qflm.net^
+@@||qfqqi.top^
 @@||qhres2.com^
 @@||qi.163.com^
 @@||qichacha.com^
@@ -14028,6 +14039,7 @@
 @@||qkvlk.com^
 @@||qlbnk.com^
 @@||qlink.pro^
+@@||qliyr.sbs^
 @@||qlnk.net^
 @@||qlogo.cn^$important
 @@||qm.qq.co^
@@ -14345,6 +14357,7 @@
 @@||reddit
 @@||reddit.app.link^
 @@||reddit.com^
+@@||redditlink.org^
 @@||redditmedia.com^
 @@||redditstatic.com^
 @@||redem.live^
@@ -14452,6 +14465,7 @@
 @@||res.cloudinary.com^
 @@||res.imtt.qq.com^$important
 @@||res.m1.email.samsung.com^
+@@||res.mall.10010.cn^
 @@||res.music.wechat.com^
 @@||res.qiyukf.net^
 @@||res.static.xiaomi.net^
@@ -15521,6 +15535,7 @@
 @@||shortenme.io^
 @@||shortenme.me^
 @@||shortenurls.eu^
+@@||shortenurlz.com^
 @@||shortenwe.com^
 @@||shortenworld.com^
 @@||shorter.gg^
@@ -17145,6 +17160,7 @@
 @@||testit.miui.com^
 @@||testkitchen.huffingtonpost.com^
 @@||texas.gov^
+@@||texas88vvip.org^
 @@||texasbisa.org^
 @@||texn.cc^
 @@||text.getpocket.com^
@@ -17659,6 +17675,7 @@
 @@||truecaller.com^
 @@||trunc.it^
 @@||trunkateurl.com^
+@@||truongthanhlen.live^
 @@||trust-provider.com^
 @@||truste.com^
 @@||trusted.kaspersky.com^
@@ -18062,6 +18079,7 @@
 @@||ur1.ca^
 @@||ur3.us^
 @@||ur4l.com^
+@@||ura.vn^
 @@||urb.tf^
 @@||urbandictionary.com^
 @@||urbanspoon.com^
@@ -19248,6 +19266,7 @@
 @@||www-support-downloads.sonymobile.com^
 @@||www-tc.pbs.org^
 @@||www-wp.viber.com^
+@@||www.10010.com^
 @@||www.123movies.to^
 @@||www.126.com^
 @@||www.163.com^
@@ -19489,6 +19508,8 @@
 @@||www.chemdraw.com.cn^$important
 @@||www.chia-anime.tv^
 @@||www.chiark.greenend.org.uk^
+@@||www.chinaunicom.com.cn^
+@@||www.chinaunicom.com^
 @@||www.chocolatey.org^
 @@||www.chron.com^
 @@||www.citrix.com^
