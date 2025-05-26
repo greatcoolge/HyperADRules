@@ -6977,6 +6977,7 @@
 @@||mqtt.pushy.me^
 @@||mr.da.netease.com^
 @@||mrthumb.nabstudio.com^
+@@||ms.bdstatic.com^
 @@||ms.gravatar.com^
 @@||msecnd.net^
 @@||msedge.api.cdp.microsoft.com^
