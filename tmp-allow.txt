@@ -2121,7 +2121,6 @@
 @@||dldir1.qq.com^
 @@||dldir1.qq.com^$important
 @@||dldir1v6.qq.com^
-@@||dlink.me^
 @@||dlkv.top^
 @@||dlsh.it^
 @@||dlvr.it^
@@ -5608,6 +5607,7 @@
 @@||onlineclothes.live^
 @@||onlinekassirjessica.life^
 @@||onlyfansamairanidiaz.live^
+@@||onlyfanscaycoleman.live^
 @@||onon.in^
 @@||onx.la^
 @@||oo0oo.icu^
@@ -6053,7 +6053,6 @@
 @@||pxgo.net^
 @@||pxicz.com^
 @@||pxlcrv.co^
-@@||pxlme.me^
 @@||pxu.co^
 @@||py.md^
 @@||py6.ru^
@@ -6431,6 +6430,7 @@
 @@||ro-go.kelkoogroup.net^
 @@||ro.blox.com^
 @@||robertdray2.live^
+@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||roclcdfab.cc.rs6.net^
@@ -7075,6 +7075,7 @@
 @@||smu.gs^
 @@||smurl.link^
 @@||sn.im^
+@@||snapchats.life^
 @@||snapt.io^
 @@||snar.co^
 @@||snd.sc^
@@ -8408,6 +8409,7 @@
 @@||view.inews.qq.com^$important
 @@||vig.fit^
 @@||vigilink.com^
+@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
@@ -8825,7 +8827,6 @@
 @@||www.taobao.com^
 @@||www.taptap.cn^
 @@||www.taptap.io^
-@@||www.temporary-url.com^
 @@||www.tiantiantiaosheng.com^
 @@||www.toutiao.com^
 @@||www.vmall.com^
@@ -8922,7 +8923,6 @@
 @@||xoxourl.com^
 @@||xp-cdn.apple.com^
 @@||xp.apple.com^
-@@||xpixl.me^
 @@||xpmas.sbs^
 @@||xpr.li^
 @@||xprt.re^
