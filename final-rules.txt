@@ -4007,6 +4007,7 @@
 @@||cdn.vuukle.com^
 @@||cdn.w3schools.com^
 @@||cdn.walkme.com^
+@@||cdn.web-global.fds.api.mi-img.com^
 @@||cdn.webclicks24.com^
 @@||cdn.wetest.qq.com^
 @@||cdn.wololo.net^
@@ -4056,6 +4057,7 @@
 @@||cdninstagram.com^
 @@||cdnja.r.worldssl.net^
 @@||cdnjs.cloudflare.com^
+@@||cdnjs.com^
 @@||cdns.eu1.gigya.com^
 @@||cdns.gigya.com^
 @@||cdns.us1.gigya.com^
@@ -4415,7 +4417,6 @@
 @@||client-event-reporter.twitch.tv^
 @@||client-gateway-30.xperialounge.sonymobile.com^
 @@||client-gateway-ncm.xperialounge.sonymobile.com^
-@@||client-rapi-missav.recombee.com^
 @@||client-s.gateway.messenger.live.com^
 @@||client-uc.heytapmobi.com^
 @@||client.dropbox.com^
@@ -5543,6 +5544,7 @@
 @@||dlied1.qq.com^
 @@||dlied5.myapp.com^
 @@||dlied6.qq.com^
+@@||dlink.me^
 @@||dlkv.top^
 @@||dll.xposed.info^
 @@||dlsh.it^
@@ -6663,7 +6665,6 @@
 @@||fitgirl-repacks.site^
 @@||fitz.ms^
 @@||fiverr-res.cloudinary.com^
-@@||fivetiu.com^
 @@||fklit.com^
 @@||fkp.samsungcloudsolution.com^
 @@||fkp.samsungcloudsolution.net^
@@ -6809,6 +6810,7 @@
 @@||fotmob.com^
 @@||fotolia.com^
 @@||found.ee^
+@@||fourhoi.com^
 @@||fourier.taobao.com^
 @@||foursquare.com^
 @@||fovre.sbs^
@@ -11093,7 +11095,9 @@
 @@||mishop.cdn.pandora.xiaomi.com^
 @@||mishop.pandora.xiaomi.com^
 @@||miss-m-216.info^
-@@||missav.com^
+@@||missav.ai^
+@@||missav.live^
+@@||missav.ws^
 @@||mistrzowie.org^
 @@||mit.edu^
 @@||mitsha.re^
@@ -12894,7 +12898,6 @@
 @@||onlinekassirjessica.life^
 @@||onlinevideoconverter.com^
 @@||onlyfansamairanidiaz.live^
-@@||onlyfanscaycoleman.live^
 @@||onmpeg.com^
 @@||onon.in^
 @@||onrpg.com^
@@ -13979,6 +13982,7 @@
 @@||pxgo.net^
 @@||pxicz.com^
 @@||pxlcrv.co^
+@@||pxlme.me^
 @@||pxu.co^
 @@||py.md^
 @@||py.pl^
@@ -14612,7 +14616,6 @@
 @@||roadandtrack.com^
 @@||roar.media^
 @@||robertdray2.live^
-@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rochester.edu^
@@ -18552,7 +18555,6 @@
 @@||vig.fit^
 @@||vigilink.com^
 @@||viglink.com^
-@@||vim-tiktok.live^
 @@||vimeo.com^
 @@||vincenaja46.live^
 @@||vine.co^
@@ -19637,6 +19639,8 @@
 @@||www.en.wikipedia.com^
 @@||www.enews.techrepublic.com^
 @@||www.engadget.com^
+@@||www.enigmaprotector.cn^
+@@||www.enigmaprotector.com^
 @@||www.eonline.com^
 @@||www.epicgames.com^
 @@||www.episerver.net^
@@ -20299,6 +20303,7 @@
 @@||www.optinmonster.com^
 @@||www.ora.tv^
 @@||www.orangepi.org^
+@@||www.oreans.com^
 @@||www.ospserver.net^
 @@||www.ouedkniss.com^
 @@||www.ouo.press^
@@ -20545,6 +20550,7 @@
 @@||www.techtarget.com^
 @@||www.teespring.com^
 @@||www.telegra.ph^
+@@||www.temporary-url.com^
 @@||www.tencent.com^
 @@||www.tenforums.com^
 @@||www.textshot.medium.com^
@@ -20892,6 +20898,7 @@
 @@||xpdll.nirsoft.net^
 @@||xperiakeyboard.sonymobile.com^
 @@||xperialounge.sonymobile.com^
+@@||xpixl.me^
 @@||xpmas.sbs^
 @@||xpr.li^
 @@||xprt.re^

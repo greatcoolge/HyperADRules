@@ -1532,6 +1532,7 @@
 @@||cdn.ui.porsche.com^
 @@||cdn.uk.exponea.com^
 @@||cdn.us1.exponea.com^
+@@||cdn.web-global.fds.api.mi-img.com^
 @@||cdn.webclicks24.com^
 @@||cdn.ynuf.aliapp.org^
 @@||cdn1-smallimg.phncdn.com^
@@ -1543,6 +1544,7 @@
 @@||cdn77-vid.xvideos-cdn.com^
 @@||cdnfinder.xyz^
 @@||cdnjs.cloudflare.com^
+@@||cdnjs.com^
 @@||cdotdaplug.life^
 @@||cdpoju.com^
 @@||cdwus.com^
@@ -1701,7 +1703,6 @@
 @@||clickurl.link^
 @@||clicky.me^
 @@||client-api.arkoselabs.com^
-@@||client-rapi-missav.recombee.com^
 @@||client.wns.windows.com^$important
 @@||clients.l.google.com
 @@||clients.piano.io^
@@ -2121,6 +2122,7 @@
 @@||dldir1.qq.com^
 @@||dldir1.qq.com^$important
 @@||dldir1v6.qq.com^
+@@||dlink.me^
 @@||dlkv.top^
 @@||dlsh.it^
 @@||dlvr.it^
@@ -2565,7 +2567,6 @@
 @@||firsturl.net^
 @@||firstweber.life^
 @@||fitz.ms^
-@@||fivetiu.com^
 @@||fklit.com^
 @@||fl-y.com^
 @@||flamingoclub.life^
@@ -2612,6 +2613,7 @@
 @@||forr.com^
 @@||fortunium.xyz^
 @@||found.ee^
+@@||fourhoi.com^
 @@||fovre.sbs^
 @@||fox.tv^
 @@||fpfro.sbs^
@@ -3189,6 +3191,7 @@
 @@||i.gtimg.cn^
 @@||i.imgur.com^
 @@||i.meituan.com^
+@@||i.mi.com^
 @@||i.mtr.cool^
 @@||i.pximg.net^
 @@||i.sso.sina.com.cn^
@@ -4444,7 +4447,9 @@
 @@||mirrors.163.com^
 @@||mis4.me^
 @@||miss-m-216.info^
-@@||missav.com^
+@@||missav.ai^
+@@||missav.live^
+@@||missav.ws^
 @@||mitsha.re^
 @@||mivideo.cdn.pandora.xiaomi.com^$important
 @@||mivideo.g.mi.com^
@@ -5607,7 +5612,6 @@
 @@||onlineclothes.live^
 @@||onlinekassirjessica.life^
 @@||onlyfansamairanidiaz.live^
-@@||onlyfanscaycoleman.live^
 @@||onon.in^
 @@||onx.la^
 @@||oo0oo.icu^
@@ -6053,6 +6057,7 @@
 @@||pxgo.net^
 @@||pxicz.com^
 @@||pxlcrv.co^
+@@||pxlme.me^
 @@||pxu.co^
 @@||py.md^
 @@||py6.ru^
@@ -6430,7 +6435,6 @@
 @@||ro-go.kelkoogroup.net^
 @@||ro.blox.com^
 @@||robertdray2.live^
-@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||roclcdfab.cc.rs6.net^
@@ -8409,7 +8413,6 @@
 @@||view.inews.qq.com^$important
 @@||vig.fit^
 @@||vigilink.com^
-@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
@@ -8761,6 +8764,8 @@
 @@||www.docker.com^
 @@||www.douyin.com^
 @@||www.dpfile.com^
+@@||www.enigmaprotector.cn^
+@@||www.enigmaprotector.com^
 @@||www.epicgames.com^
 @@||www.ero-labs.com^
 @@||www.ferrari.com^
@@ -8778,6 +8783,7 @@
 @@||www.hisense.com^
 @@||www.hoyoverse.com^
 @@||www.ijinshan.com^
+@@||www.internetdownloadmanager.com^
 @@||www.ip138.com^
 @@||www.iqiyi.com^
 @@||www.javbangers.com^
@@ -8803,6 +8809,7 @@
 @@||www.msn.com^
 @@||www.nodeseek.com^
 @@||www.novelfm.com^
+@@||www.oreans.com^
 @@||www.partner-ads.com^
 @@||www.paypal.com^
 @@||www.paypalobjects.com^
@@ -8827,6 +8834,7 @@
 @@||www.taobao.com^
 @@||www.taptap.cn^
 @@||www.taptap.io^
+@@||www.temporary-url.com^
 @@||www.tiantiantiaosheng.com^
 @@||www.toutiao.com^
 @@||www.vmall.com^
@@ -8923,6 +8931,7 @@
 @@||xoxourl.com^
 @@||xp-cdn.apple.com^
 @@||xp.apple.com^
+@@||xpixl.me^
 @@||xpmas.sbs^
 @@||xpr.li^
 @@||xprt.re^
