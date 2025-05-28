@@ -7100,6 +7100,7 @@
 @@||gdmf.apple.com^
 @@||gdown.baidu.com^
 @@||gds-vhs-drops-campaign-images.twitch.tv^
+@@||gdtikx.com^
 @@||gdurl.com^
 @@||ge.tt^
 @@||gear.playstation.com^
@@ -12898,6 +12899,7 @@
 @@||onlinekassirjessica.life^
 @@||onlinevideoconverter.com^
 @@||onlyfansamairanidiaz.live^
+@@||onlyfanscaycoleman.live^
 @@||onmpeg.com^
 @@||onon.in^
 @@||onrpg.com^
@@ -14148,6 +14150,8 @@
 @@||qzs.qq.com^
 @@||qzxva.com^
 @@||r-7.co^
+@@||r-txt.com^
+@@||r-txt.org^
 @@||r.audible.de^
 @@||r.bioinfweb.info^
 @@||r.browser.intl.miui.com^
@@ -14293,6 +14297,7 @@
 @@||rckstr.bz^
 @@||rcl.ink^
 @@||rcld.io^
+@@||rcsurvey.live^
 @@||rcx.my.id^
 @@||rd.gt^
 @@||rd.playstation.com^
@@ -14616,6 +14621,7 @@
 @@||roadandtrack.com^
 @@||roar.media^
 @@||robertdray2.live^
+@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rochester.edu^
@@ -15055,6 +15061,7 @@
 @@||scan.hitmanpro.com^
 @@||scan.kaspersky.com^
 @@||scan.snapchat.com^
+@@||scbet88vvip.org^
 @@||scbetgacorr.org^
 @@||sccden.spot.im^
 @@||scdn.co^
@@ -16642,6 +16649,7 @@
 @@||suitepmta01.emarsys.net^
 @@||suitepmta02.emarsys.net^
 @@||sujanaarch.life^
+@@||sukatobrut.xyz^
 @@||sukebei.nyaa.si^
 @@||sulejalan.online^
 @@||sumal.ly^
@@ -18555,6 +18563,7 @@
 @@||vig.fit^
 @@||vigilink.com^
 @@||viglink.com^
+@@||vim-tiktok.live^
 @@||vimeo.com^
 @@||vincenaja46.live^
 @@||vine.co^

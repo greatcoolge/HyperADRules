@@ -2722,6 +2722,7 @@
 @@||gdmf-ados.apple.com^
 @@||gdmf.apple.com^
 @@||gdown.baidu.com^
+@@||gdtikx.com^
 @@||gdurl.com^
 @@||ge.tt^
 @@||geetlink.com^
@@ -5612,6 +5613,7 @@
 @@||onlineclothes.live^
 @@||onlinekassirjessica.life^
 @@||onlyfansamairanidiaz.live^
+@@||onlyfanscaycoleman.live^
 @@||onon.in^
 @@||onx.la^
 @@||oo0oo.icu^
@@ -6176,6 +6178,8 @@
 @@||qzs.qq.com^
 @@||qzxva.com^
 @@||r-7.co^
+@@||r-txt.com^
+@@||r-txt.org^
 @@||r.audible.de^
 @@||r.bioinfweb.info^
 @@||r.jod.gg^
@@ -6255,6 +6259,7 @@
 @@||rckstr.bz^
 @@||rcl.ink^
 @@||rcld.io^
+@@||rcsurvey.live^
 @@||rcx.my.id^
 @@||rd.gt^
 @@||rd6m7jbbb.cc.rs6.net^
@@ -6435,6 +6440,7 @@
 @@||ro-go.kelkoogroup.net^
 @@||ro.blox.com^
 @@||robertdray2.live^
+@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||roclcdfab.cc.rs6.net^
@@ -6658,6 +6664,7 @@
 @@||sc.mp^
 @@||sc.org^
 @@||sc1o.com^
+@@||scbet88vvip.org^
 @@||scbetgacorr.org^
 @@||sched.co^
 @@||school.apple.com^
@@ -7354,6 +7361,7 @@
 @@||suitepmta01.emarsys.net^
 @@||suitepmta02.emarsys.net^
 @@||sujanaarch.life^
+@@||sukatobrut.xyz^
 @@||sukebei.nyaa.si^
 @@||sulejalan.online^
 @@||sumal.ly^
@@ -8413,6 +8421,7 @@
 @@||view.inews.qq.com^$important
 @@||vig.fit^
 @@||vigilink.com^
+@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
