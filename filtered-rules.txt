@@ -4566,6 +4566,7 @@ common.funimation.com
 common.like.naver.com
 commons.wikipedia.com
 commonsensemedia.org
+comms-2.zoopla.co.uk
 communities.api.playstation.com
 communities.vmware.com
 community-cdn-digitalocean-com.global.ssl.fastly.net
@@ -5857,6 +5858,7 @@ edl.io
 edliratahiri05.life
 edm.to
 edm03.huawei.com
+edmno1.info
 edne.tw
 edoc.huawei.com
 eds.xboxlive.com
@@ -12719,7 +12721,6 @@ onlineclothes.live
 onlinekassirjessica.life
 onlinevideoconverter.com
 onlyfansamairanidiaz.live
-onlyfanscaycoleman.live
 onmpeg.com
 onon.in
 onrpg.com
@@ -14026,6 +14027,8 @@ raindrop.io
 rainonit.com
 raise.ada.support
 rajamahjong.site
+rajaolympus.pro
+rajasurga.link
 rak7fucab.cc.rs6.net
 rakaug.com
 rakuten.co.jp
@@ -14413,7 +14416,6 @@ road.adblock.ro
 roadandtrack.com
 roar.media
 robertdray2.live
-robloxgroup.life
 robloxtech.live
 robul.saas.workertm.com
 rochester.edu
@@ -15095,6 +15097,7 @@ seoexperts.life
 seogilak.lol
 seq.vc
 serial.alcohol-soft.com
+serius.win
 serve.adtrackers.net
 servebbs.net
 servebeer.com
@@ -15444,6 +15447,8 @@ shrtfly.com
 shrtm.nu
 shrturl.site
 shrturll.com
+shrtxb4d.live
+shrtxtus.wiki
 shrunken.com
 shrunkin.com
 shss-ares.live
@@ -15653,6 +15658,7 @@ smtp21t.mail.mylife.com
 smtvj.com
 smu.gs
 smugmug.com
+smurl.fr
 smurl.link
 smzdm.com
 sn.api.np.km.playstation.net
@@ -18308,7 +18314,6 @@ view.vzaar.com
 vig.fit
 vigilink.com
 viglink.com
-vim-tiktok.live
 vimeo.com
 vincenaja46.live
 vine.co

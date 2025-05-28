@@ -4,10 +4,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 25 May 2025 21:56 UTC
-! Version: 2025.0525.2156.24
+! Last modified: 27 May 2025 21:54 UTC
+! Version: 2025.0527.2154.03
 ! Syntax: AdBlock
-! Number of entries: 1725
+! Number of entries: 1726
 !
 @@||l.1mp.ru^
 @@||t.1und1.de^
@@ -209,6 +209,7 @@
 @@||cloudmailn6.netcore.co.in^
 @@||servedby.o2.co.uk^
 @@||vfo.voyage-prive.co.uk^
+@@||comms-2.zoopla.co.uk^
 @@||k.cocooncenter.com^
 @@||aax-eu.amazon.com.be^
 @@||aax-eu.amazon.com.tr^

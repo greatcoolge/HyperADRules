@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 27 May 2025 10:39 UTC
-! Version: 2025.0527.1039.05
+! Last modified: 27 May 2025 22:32 UTC
+! Version: 2025.0527.2232.14
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -1497,6 +1497,7 @@
 @@||edl.io^
 @@||edliratahiri05.life^
 @@||edm.to^
+@@||edmno1.info^
 @@||edne.tw^
 @@||edu.nl^
 @@||eeatu.com^
@@ -3405,7 +3406,6 @@
 @@||onlineclothes.live^
 @@||onlinekassirjessica.life^
 @@||onlyfansamairanidiaz.live^
-@@||onlyfanscaycoleman.live^
 @@||onon.in^
 @@||onx.la^
 @@||oo0oo.icu^
@@ -3787,6 +3787,8 @@
 @@||raic.hu^
 @@||rainonit.com^
 @@||rajamahjong.site^
+@@||rajaolympus.pro^
+@@||rajasurga.link^
 @@||rakaug.com^
 @@||ramcourier.live^
 @@||qs.rams-app.com^
@@ -3923,7 +3925,6 @@
 @@||rnm.me^
 @@||rntyu.com^
 @@||robertdray2.live^
-@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||rog.gg^
 @@||roge.rs^
@@ -4084,6 +4085,7 @@
 @@||seoexperts.life^
 @@||seogilak.lol^
 @@||seq.vc^
+@@||serius.win^
 @@||serveracts.net^
 @@||serverpa.rs^
 @@||servicecenter.life^
@@ -4282,6 +4284,8 @@
 @@||shrtm.nu^
 @@||shrturl.site^
 @@||shrturll.com^
+@@||shrtxb4d.live^
+@@||shrtxtus.wiki^
 @@||shrunken.com^
 @@||shrunkin.com^
 @@||shss-ares.live^
@@ -4376,6 +4380,7 @@
 @@||smsng.us^
 @@||smtvj.com^
 @@||smu.gs^
+@@||smurl.fr^
 @@||smurl.link^
 @@||sn.im^
 @@||snapchats.life^
@@ -5214,7 +5219,6 @@
 @@||videopro.live^
 @@||vig.fit^
 @@||vigilink.com^
-@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
