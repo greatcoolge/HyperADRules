@@ -1731,6 +1731,7 @@
 @@||cmy.tw^
 @@||cn.app.chat.xiaomi.net^
 @@||cn.app.chat.xiaomi.net^$important
+@@||cn.bing.com^
 @@||cn.bing.com^$important
 @@||cn.ekg.riotgames.com^$important
 @@||cn.hk.uy^
@@ -1765,6 +1766,7 @@
 @@||commission-junction.com^
 @@||comms-2.zoopla.co.uk^
 @@||community.akamai.steamstatic.com^
+@@||community.fastly.steamstatic.com^
 @@||components.unrealengine.com^
 @@||compreaquikakspromobaby.live^
 @@||computemaster.bxcearth.com^$important
@@ -2882,6 +2884,7 @@
 @@||goo.su^
 @@||goo2url.com^
 @@||goodnessokparaeke.live^
+@@||google-139382.com^
 @@||google-photo.live^
 @@||google-url.com^
 @@||googleapis.com^
@@ -5589,7 +5592,6 @@
 @@||onlineclothes.live^
 @@||onlinekassirjessica.life^
 @@||onlyfansamairanidiaz.live^
-@@||onlyfanscaycoleman.live^
 @@||onon.in^
 @@||onx.la^
 @@||oo0oo.icu^
@@ -6421,7 +6423,6 @@
 @@||ro.blox.com^
 @@||robertdray2.live^
 @@||robloxgroup.life^
-@@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||roclcdfab.cc.rs6.net^
 @@||rog.gg^
@@ -7241,6 +7242,7 @@
 @@||stats.socialguru24.de^
 @@||statusapi.micloud.xiaomi.net^
 @@||stawritecdn.yuewen.com^
+@@||steamcommunity.com^
 @@||steve-patrick-811.life^
 @@||stfly.me^
 @@||stke.xyz^
@@ -7651,6 +7653,7 @@
 @@||tgcv.top^
 @@||tgdgacor.com^
 @@||tgr.ph^
+@@||th.bing.com^
 @@||thandisozynobiahlongwanes.life^
 @@||thaniel.life^
 @@||tharp.me^
@@ -7965,6 +7968,10 @@
 @@||ts.market.mi-img.com^
 @@||ts.market.mi-img.com^$important
 @@||ts.tradetracker.net^
+@@||ts1.tc.mm.bing.net^
+@@||ts2.tc.mm.bing.net^
+@@||ts3.tc.mm.bing.net^
+@@||ts4.tc.mm.bing.net^
 @@||tsbk.tw^
 @@||tsp.pm^
 @@||tst.page^
@@ -8405,7 +8412,6 @@
 @@||view.inews.qq.com^$important
 @@||vig.fit^
 @@||vigilink.com^
-@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
@@ -8737,6 +8743,7 @@
 @@||www.awin1.com^
 @@||www.bilibili.com^
 @@||www.biligame.com^
+@@||www.bing.com^
 @@||www.bitcomet.com^
 @@||www.bmcx.com^
 @@||www.bmw.com.cn^

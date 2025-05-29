@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 28 May 2025 10:32 UTC
-! Version: 2025.0528.1032.12
+! Last modified: 28 May 2025 22:30 UTC
+! Version: 2025.0528.2230.20
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -1928,6 +1928,7 @@
 @@||goo-id.com^
 @@||goo2url.com^
 @@||goodnessokparaeke.live^
+@@||google-139382.com^
 @@||google-photo.live^
 @@||google-url.com^
 @@||googleidmaps.live^
@@ -3407,7 +3408,6 @@
 @@||onlineclothes.live^
 @@||onlinekassirjessica.life^
 @@||onlyfansamairanidiaz.live^
-@@||onlyfanscaycoleman.live^
 @@||onon.in^
 @@||onx.la^
 @@||oo0oo.icu^
@@ -3930,7 +3930,6 @@
 @@||rntyu.com^
 @@||robertdray2.live^
 @@||robloxgroup.life^
-@@||robloxtech.live^
 @@||rog.gg^
 @@||roge.rs^
 @@||roids.top^
@@ -5224,7 +5223,6 @@
 @@||videopro.live^
 @@||vig.fit^
 @@||vigilink.com^
-@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^

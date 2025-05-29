@@ -4630,6 +4630,7 @@
 @@||community.cloudflare.steamstatic.com^
 @@||community.coinbase.com^
 @@||community.eu.playstation.com^
+@@||community.fastly.steamstatic.com^
 @@||community.funimation.com^
 @@||community.hide.me^
 @@||community.hulu.com^
@@ -7435,6 +7436,7 @@
 @@||goodnessokparaeke.live^
 @@||goodolddownloads.com^
 @@||goodreads.com^
+@@||google-139382.com^
 @@||google-photo.live^
 @@||google-url.com^
 @@||google.ac^
@@ -12875,7 +12877,6 @@
 @@||onlinekassirjessica.life^
 @@||onlinevideoconverter.com^
 @@||onlyfansamairanidiaz.live^
-@@||onlyfanscaycoleman.live^
 @@||onmpeg.com^
 @@||onon.in^
 @@||onrpg.com^
@@ -14602,7 +14603,6 @@
 @@||roar.media^
 @@||robertdray2.live^
 @@||robloxgroup.life^
-@@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rochester.edu^
 @@||rockstargames.com^
@@ -17171,6 +17171,7 @@
 @@||tgcv.top^
 @@||tgdgacor.com^
 @@||tgr.ph^
+@@||th.bing.com^
 @@||th.gravatar.com^
 @@||th.pinduoduo.com^
 @@||thandisozynobiahlongwanes.life^
@@ -17688,6 +17689,10 @@
 @@||ts.market.mi-img.com^$important
 @@||ts.my^
 @@||ts.tradetracker.net^
+@@||ts1.tc.mm.bing.net^
+@@||ts2.tc.mm.bing.net^
+@@||ts3.tc.mm.bing.net^
+@@||ts4.tc.mm.bing.net^
 @@||tsbk.tw^
 @@||tsfe.trafficshaping.dsp.mp.microsoft.com^
 @@||tsp.pm^
@@ -18547,7 +18552,6 @@
 @@||vig.fit^
 @@||vigilink.com^
 @@||viglink.com^
-@@||vim-tiktok.live^
 @@||vimeo.com^
 @@||vincenaja46.live^
 @@||vine.co^
