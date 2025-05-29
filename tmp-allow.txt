@@ -338,21 +338,6 @@
 @@||aarp.info^
 @@||aawsat.news^
 @@||aawwj.com^
-@@||aax-cn-old.amazon.cn^
-@@||aax-cn.amazon.cn^
-@@||aax-console-beta.amazon.com^
-@@||aax-console-cron.amazon.com^
-@@||aax-console-dub.dub.proxy.amazon.com^
-@@||aax-console-pdx.pdx.proxy.amazon.com^
-@@||aax-console-sin.sin.proxy.amazon.com^
-@@||aax-console.amazon.com^
-@@||aax-console.corp.amazon.com^
-@@||aax-dtb-cf.amazon-adsystem.amazon.com^
-@@||aax-dtb-legacy.amazon-adsystem.amazon.com^
-@@||aax-dtb-mobile-cf.amazon-adsystem.amazon.com^
-@@||aax-dtb-mobile-geo.amazon-adsystem.amazon.com^
-@@||aax-dtb-web.amazon-adsystem.amazon.com^
-@@||aax-eu-dub.amazon.com^
 @@||aax-eu-retail-direct.amazon-adsystem.com^
 @@||aax-eu.amazon.ae^
 @@||aax-eu.amazon.co.uk^
@@ -375,21 +360,9 @@
 @@||aax-fe.amazon.com.au^
 @@||aax-fe.amazon.com^
 @@||aax-fe.amazon.sg^
-@@||aax-iad-esproxy.corp.amazon.com^
-@@||aax-ott-sdk.amazon-adsystem.amazon.com^
-@@||aax-ott.amazon-adsystem.amazon.com^
-@@||aax-us-cpm.amazon-adsystem.amazon.com^
 @@||aax-us-east-retail-direct.amazon-adsystem.com^
 @@||aax-us-east-retail-direct.amazon.com^
-@@||aax-us-east.amazon.com^
 @@||aax-us-iad.amazon.com^
-@@||aax-us-ott.amazon-adsystem.amazon.com^
-@@||aax-us-pdx.amazon.com^
-@@||aax-us-west.amazon.com^
-@@||aax-us.amazon-adsystem.amazon.com^
-@@||aax.amazon-adsystem.amazon.com^
-@@||aaxdebugger-iad.iad.proxy.amazon.com^
-@@||aaxdebugger-tool.corp.amazon.com^
 @@||ab.co^
 @@||ab1n.net^
 @@||abar.in^
@@ -2190,6 +2163,7 @@
 @@||dr-lisa.life^
 @@||drafthound.link^
 @@||dre.li^
+@@||dreamshigh.life^
 @@||drinks.me^
 @@||drive-h.quark.cn^
 @@||drive-pc.quark.cn^
@@ -5615,6 +5589,7 @@
 @@||onlineclothes.live^
 @@||onlinekassirjessica.life^
 @@||onlyfansamairanidiaz.live^
+@@||onlyfanscaycoleman.live^
 @@||onon.in^
 @@||onx.la^
 @@||oo0oo.icu^
@@ -6083,6 +6058,7 @@
 @@||qd.rs^
 @@||qdfepccdn.qidian.com^
 @@||qdl.pw^
+@@||qeejx.com^
 @@||qflm.net^
 @@||qfqqi.top^
 @@||qi.163.com^
@@ -6167,6 +6143,7 @@
 @@||qutt.me^
 @@||qutt.us^
 @@||qvc.co^
+@@||qwjbc.sbs^
 @@||qxp.cz^
 @@||qxp.sk^
 @@||qxxxp.org^
@@ -6443,6 +6420,7 @@
 @@||ro-go.kelkoogroup.net^
 @@||ro.blox.com^
 @@||robertdray2.live^
+@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||roclcdfab.cc.rs6.net^
@@ -8427,6 +8405,7 @@
 @@||view.inews.qq.com^$important
 @@||vig.fit^
 @@||vigilink.com^
+@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
@@ -9208,4 +9187,5 @@
 @@||zywv.us^
 @@||zz.gd^
 @@||zzb.bz^
+@@||zzlinks.com^
 @@||zzu.info^
