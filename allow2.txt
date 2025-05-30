@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 28 May 2025 22:30 UTC
-! Version: 2025.0528.2230.20
+! Last modified: 29 May 2025 22:35 UTC
+! Version: 2025.0529.2235.33
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -2237,7 +2237,6 @@
 @@||inicio.link^
 @@||inlnk.ru^
 @@||inmusic.to^
-@@||insd.io^
 @@||insdr.life^
 @@||inshort.ly^
 @@||insig.ht^
@@ -3967,7 +3966,6 @@
 @@||rupilinks.com^
 @@||rusd.in^
 @@||rushgiving.com^
-@@||rushtix.co^
 @@||rusuhkali.xyz^
 @@||rvtv.io^
 @@||rvwd.co^
