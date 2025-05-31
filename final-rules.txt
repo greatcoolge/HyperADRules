@@ -8070,6 +8070,8 @@
 @@||hn.algolia.com^
 @@||hnsl.mn^
 @@||ho.io^
+@@||hoakhanh.life^
+@@||hoaminh.live^
 @@||hobbyajans.live^
 @@||hockeyapp.net^
 @@||hocmai.link^
@@ -9968,6 +9970,7 @@
 @@||linux.mom^
 @@||linuxtracker.org^
 @@||lionl.ink^
+@@||liquid.loans^
 @@||lisar.lisaraeswan.com^
 @@||list-manage.com^
 @@||list-manage1.com^
@@ -12877,6 +12880,7 @@
 @@||onlinekassirjessica.life^
 @@||onlinevideoconverter.com^
 @@||onlyfansamairanidiaz.live^
+@@||onlyfanscaycoleman.live^
 @@||onmpeg.com^
 @@||onon.in^
 @@||onrpg.com^
@@ -14604,6 +14608,7 @@
 @@||roar.media^
 @@||robertdray2.live^
 @@||robloxgroup.life^
+@@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rochester.edu^
 @@||rockstargames.com^
@@ -18552,6 +18557,7 @@
 @@||vig.fit^
 @@||vigilink.com^
 @@||viglink.com^
+@@||vim-tiktok.live^
 @@||vimeo.com^
 @@||vincenaja46.live^
 @@||vine.co^
