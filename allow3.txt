@@ -4,10 +4,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 29 May 2025 21:56 UTC
-! Version: 2025.0529.2156.13
+! Last modified: 01 Jun 2025 21:53 UTC
+! Version: 2025.0601.2153.43
 ! Syntax: AdBlock
-! Number of entries: 1701
+! Number of entries: 1708
 !
 @@||l.1mp.ru^
 @@||t.1und1.de^
@@ -882,6 +882,7 @@
 @@||mkto-ab470148.com^
 @@||mkto-ab470168.com^
 @@||mkto-ab480047.com^
+@@||mkto-ab480059.com^
 @@||mkto-ab480070.com^
 @@||mkto-ab480073.com^
 @@||mkto-ab480089.com^
@@ -1444,12 +1445,15 @@
 @@||rak7fucab.cc.rs6.net^
 @@||raoteqdab.cc.rs6.net^
 @@||rapki9kab.cc.rs6.net^
+@@||rav5ithbb.cc.rs6.net^
 @@||rayrzagab.cc.rs6.net^
 @@||rb6paw8ab.cc.rs6.net^
 @@||rblz6kyab.cc.rs6.net^
 @@||rbozfpgbb.cc.rs6.net^
+@@||rc6m7jbbb.cc.rs6.net^
 @@||rd6m7jbbb.cc.rs6.net^
 @@||rdbpgc7ab.cc.rs6.net^
+@@||rdevbseab.cc.rs6.net^
 @@||rdnybq7ab.cc.rs6.net^
 @@||rdqilixab.cc.rs6.net^
 @@||rdr9bzpab.cc.rs6.net^
@@ -1459,6 +1463,7 @@
 @@||rfgmzawab.cc.rs6.net^
 @@||rfgvnv6ab.cc.rs6.net^
 @@||rflrlptab.cc.rs6.net^
+@@||rfnptk8ab.cc.rs6.net^
 @@||rftyzi5ab.cc.rs6.net^
 @@||rge6j8mab.cc.rs6.net^
 @@||rgkkzvdab.cc.rs6.net^
@@ -1471,6 +1476,7 @@
 @@||rismehabb.cc.rs6.net^
 @@||rjpz4ucab.cc.rs6.net^
 @@||rjrpmitab.cc.rs6.net^
+@@||rk6dggnab.cc.rs6.net^
 @@||rklmqleab.cc.rs6.net^
 @@||rkypyqrab.cc.rs6.net^
 @@||rmjddbabb.cc.rs6.net^
@@ -1500,6 +1506,7 @@
 @@||ry5rzwcab.cc.rs6.net^
 @@||ry9kgedab.cc.rs6.net^
 @@||rye9jgzab.cc.rs6.net^
+@@||rygu9kfbb.cc.rs6.net^
 @@||rypni4cbb.cc.rs6.net^
 @@||rz6dkreab.cc.rs6.net^
 @@||rza6mzmab.cc.rs6.net^

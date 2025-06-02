@@ -168,7 +168,6 @@
 1shortlink.com
 1stgop.co
 1storecatalogrevocation.storequality.microsoft.com
-1sturl.com
 1tian.kuaishou.com
 1tk.us
 1to3.link
@@ -241,6 +240,7 @@
 2link.cc
 2link.in
 2ly.link
+2m.is
 2miners.com
 2my.info
 2no.co
@@ -297,6 +297,7 @@
 369.xn--6frz82g
 36kr.com
 37signals.com
+389sport.store
 39.net
 3975.com
 39d0825d09f05.cdn.sohucs.com
@@ -369,7 +370,6 @@
 5il.co
 5k.lol
 5or.cc
-5ot2.shop
 5qzr.com
 5rb.pro
 5rwv.info
@@ -407,7 +407,6 @@
 77url.com
 7894.xyz
 79423.analytics.edgesuite.net
-7c34.com
 7chan.org
 7eer.net
 7fth.cc
@@ -445,7 +444,6 @@
 925.seiu.org
 92url.com
 93.link
-944.la
 98.to
 985.so
 98pro.cc
@@ -796,7 +794,6 @@ adaware.com
 adaway.org
 adaymag.co
 adb.juvander.net
-adb.ug
 adbl.co
 adblock.dk
 adblock.ee
@@ -3049,12 +3046,14 @@ binged.it
 binglee.com.au
 bio.rub3n.io
 biolinky.co
+biotap.click
 bireysel-zîraat.com
 bisadimasuk.in
 bit.bz
 bit.do
 bit.ly
 bit.namecoin.info
+bit24.live
 bitbucket.io
 bitbucket.org
 bitcoin.com
@@ -7300,6 +7299,7 @@ golfgalaxy.com
 golink.one
 golink.us
 golnk.eu
+goly.me
 gomomento.co
 goninja.live
 goo-gl.me
@@ -8344,7 +8344,6 @@ ilinky.info
 ilix.in
 ilk.ir
 illin.is
-illuminatiracers.live
 iln.io
 ilnk.io
 iltalehti.fi
@@ -9291,6 +9290,7 @@ klclick1.com
 klclick2.com
 klclick3.com
 kli.cx
+klik.gg
 kliks.online
 klmf.ly
 km.gravatar.com
@@ -10485,6 +10485,7 @@ mairuan.com.cn
 mairuan.net
 majorgeeks.com
 make.my
+makemyl.ink
 making.vimeo.com
 makyo.io
 mal.ly
@@ -11187,6 +11188,7 @@ mkto-ab470063.com
 mkto-ab470148.com
 mkto-ab470168.com
 mkto-ab480047.com
+mkto-ab480059.com
 mkto-ab480070.com
 mkto-ab480073.com
 mkto-ab480089.com
@@ -12013,6 +12015,7 @@ mysql.com
 mysupport.sonymobile.com
 mysurl.com
 mytd.cc
+mytiktok.life
 mytinycheck9.life
 mytoluwalemi.life
 mytorus.live
@@ -14053,6 +14056,7 @@ rarbgway.org
 rat.rakuten.co.jp
 ratehub.ca
 rates.viber.com
+rav5ithbb.cc.rs6.net
 ravenjs.com
 ravshort.com
 raw.blocklist.vsnz.net
@@ -14077,6 +14081,7 @@ rbl.ms
 rblx.co
 rblz6kyab.cc.rs6.net
 rbozfpgbb.cc.rs6.net
+rc6m7jbbb.cc.rs6.net
 rch.lt
 rcije.com
 rcknr.io
@@ -14094,6 +14099,7 @@ rdbl.co
 rdbpgc7ab.cc.rs6.net
 rdcrss.org
 rdcu.be
+rdevbseab.cc.rs6.net
 rdl.ink
 rdnybq7ab.cc.rs6.net
 rdqilixab.cc.rs6.net
@@ -14127,6 +14133,7 @@ rebrand.ly
 rebrand.pw
 rebrandly.com
 rebrandlydomain.com
+rec-law.us
 rec.voot.com
 recaptcha.net
 recipe.rakuten.co.jp
@@ -14321,6 +14328,7 @@ rfgmzawab.cc.rs6.net
 rfgvnv6ab.cc.rs6.net
 rfj.tips
 rflrlptab.cc.rs6.net
+rfnptk8ab.cc.rs6.net
 rfr.bz
 rftyzi5ab.cc.rs6.net
 rg3.github.io
@@ -14368,6 +14376,7 @@ rjrpmitab.cc.rs6.net
 rjtgoyal92.live
 rjvn.co
 rjwfd.sbs
+rk6dggnab.cc.rs6.net
 rklmqleab.cc.rs6.net
 rkurl.com
 rkypyqrab.cc.rs6.net
@@ -14537,6 +14546,7 @@ rxyzpj.com
 ry5rzwcab.cc.rs6.net
 ry9kgedab.cc.rs6.net
 rye9jgzab.cc.rs6.net
+rygu9kfbb.cc.rs6.net
 ryml.me
 ryp.im
 rypni4cbb.cc.rs6.net
@@ -15228,6 +15238,7 @@ shlink.io
 shln.me
 shlom.in
 shminorshort.weixin.qq.com
+shmz.me
 sho-rt.ru
 sho.cat
 sho.pe
@@ -15345,6 +15356,7 @@ shortlink.com.au
 shortlink.net
 shortlink88.xyz
 shortlinkid.live
+shortlinkpanel.com
 shortlinks.co.uk
 shortlinksakti.xyz
 shortlk.com
