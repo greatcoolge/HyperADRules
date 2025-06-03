@@ -768,7 +768,6 @@
 @@||animerep.com^
 @@||anisepretzel.com^
 @@||anizam.ru^
-@@||anmeld.biz^
 @@||annas-archive.org^
 @@||anon.to^
 @@||anp.su^
@@ -917,7 +916,6 @@
 @@||apps.apple.com^
 @@||apps.game.qq.com^
 @@||appsec-mobile.meituan.com^
-@@||appsfly.co^
 @@||appsupport.qq.com^$important
 @@||appurl.io^
 @@||appusps.live^
@@ -1011,7 +1009,6 @@
 @@||aven.ga^
 @@||avgle.com^
 @@||avhop.net^
-@@||avjosa.com^
 @@||avl.mx^
 @@||avlne.ws^
 @@||avlr.co^
@@ -1229,7 +1226,6 @@
 @@||bloat.me^
 @@||blogger.googleusercontent.com^
 @@||blogshare.cfd^
-@@||blomlink.com^
 @@||bloom.bg^
 @@||bloomingtonjuneteenth.org^
 @@||blouse.live^
@@ -2497,6 +2493,7 @@
 @@||fe-static.xhscdn.com^
 @@||fe-video-qc.xhscdn.com^
 @@||fe3cr.delivery.mp.microsoft.com^
+@@||fedexx.live^
 @@||fee.vn^
 @@||feedback.miui.com^$important
 @@||feentry.zhuanzhuan.com^
@@ -3268,6 +3265,7 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
+@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||im.alimebot.taobao.com^
@@ -6819,7 +6817,6 @@
 @@||short-url.org^
 @@||short-url.run^
 @@||short-url.upr.ac.id^
-@@||short.assleo.icu^
 @@||short.bid^
 @@||short.cc^
 @@||short.cm^

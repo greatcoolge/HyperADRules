@@ -1916,7 +1916,6 @@
 @@||animeseason.com^
 @@||anisepretzel.com^
 @@||anizam.ru^
-@@||anmeld.biz^
 @@||annas-archive.org^
 @@||anninhthudo.vn^
 @@||announce.xxx-tracker.com^
@@ -2475,7 +2474,6 @@
 @@||appsbackup-pa.googleapis.com^
 @@||appsdock-sdk-cdn.s3.amazonaws.com^
 @@||appsec-mobile.meituan.com^
-@@||appsfly.co^
 @@||appsgames.entrance.sonymobile.com^
 @@||appspot-preview.l.google.com^
 @@||appstore.cdn.pandora.xiaomi.com^
@@ -2762,7 +2760,6 @@
 @@||aven.ga^
 @@||avgle.com^
 @@||avhop.net^
-@@||avjosa.com^
 @@||avl.mx^
 @@||avlne.ws^
 @@||avlr.co^
@@ -3289,7 +3286,6 @@
 @@||blogspot.in^
 @@||blogspot.jp^
 @@||blogspot.l.googleusercontent.com^
-@@||blomlink.com^
 @@||bloom.bg^
 @@||bloomberg.com^
 @@||bloomingtonjuneteenth.org^
@@ -6489,6 +6485,7 @@
 @@||fe4.edge.pantheon.io^
 @@||featured-profiles.soundcloud.com^
 @@||features.engadget.com^
+@@||fedexx.live^
 @@||fee.vn^
 @@||feed.feedburner.com^
 @@||feed.xda-developers.com^
@@ -8476,6 +8473,7 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
+@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||iltalehti.fi^
@@ -15502,7 +15500,6 @@
 @@||short-url.run^
 @@||short-url.upr.ac.id^
 @@||short-video.kakamobi.cn^
-@@||short.assleo.icu^
 @@||short.bid^
 @@||short.cc^
 @@||short.cm^

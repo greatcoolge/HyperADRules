@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 01 Jun 2025 22:30 UTC
-! Version: 2025.0601.2230.49
+! Last modified: 02 Jun 2025 10:26 UTC
+! Version: 2025.0602.1026.58
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -490,7 +490,6 @@
 @@||angl.at^
 @@||anisepretzel.com^
 @@||anizam.ru^
-@@||anmeld.biz^
 @@||anon.to^
 @@||anp.su^
 @@||ansaj.top^
@@ -518,7 +517,6 @@
 @@||apple.co^
 @@||apply-here.live^
 @@||appna.me^
-@@||appsfly.co^
 @@||go.appsscript.info^
 @@||appurl.io^
 @@||appusps.live^
@@ -554,7 +552,6 @@
 @@||asics.tv^
 @@||asin.cc^
 @@||asq.kr^
-@@||short.assleo.icu^
 @@||asso.in^
 @@||asus.click^
 @@||asusrog.de^
@@ -587,7 +584,6 @@
 @@||aveerro.com^
 @@||aven.ga^
 @@||avhop.net^
-@@||avjosa.com^
 @@||avl.mx^
 @@||avlne.ws^
 @@||avlr.co^
@@ -778,7 +774,6 @@
 @@||blnk.in^
 @@||bloat.me^
 @@||blogshare.cfd^
-@@||blomlink.com^
 @@||bloom.bg^
 @@||bloomingtonjuneteenth.org^
 @@||blouse.live^
@@ -1651,6 +1646,7 @@
 @@||fdmlm.com^
 @@||fdmlm.sbs^
 @@||fdzsf.com^
+@@||fedexx.live^
 @@||fee.vn^
 @@||female-and-male-in-tech.com^
 @@||fenomen.live^
@@ -2211,6 +2207,7 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
+@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||imdb.to^
