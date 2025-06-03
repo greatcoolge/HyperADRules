@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 02 Jun 2025 10:26 UTC
-! Version: 2025.0602.1026.58
+! Last modified: 02 Jun 2025 22:28 UTC
+! Version: 2025.0602.2228.51
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -877,7 +877,6 @@
 @@||bulkurlshortener.com^
 @@||bung.ie^
 @@||buprg.sbs^
-@@||burl.me^
 @@||burma123.life^
 @@||burma77.life^
 @@||burnurl.com^
@@ -954,7 +953,6 @@
 @@||cbsloc.al^
 @@||cbsn.ws^
 @@||cbt.gg^
-@@||cbtfgive.org^
 @@||cc.cc^
 @@||cccc.one^
 @@||ccj.im^
@@ -1084,7 +1082,6 @@
 @@||cnnmon.ie^
 @@||l.cnr.it^
 @@||cnvrge.co^
-@@||1a.co.nz^
 @@||jetzt.bekservice.co.uk^
 @@||genie.co.kr^
 @@||ierp.co.nz^
@@ -1108,7 +1105,6 @@
 @@||cofe.io^
 @@||coinbarlink.net^
 @@||coinpr.info^
-@@||coinreal-us.com^
 @@||coki.me^
 @@||coklat.vip^
 @@||by.com.vn^
@@ -3191,7 +3187,6 @@
 @@||mysp.ac^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -3222,6 +3217,7 @@
 @@||nature.ly^
 @@||nav.cx^
 @@||naver.me^
+@@||nawalaku.com^
 @@||on.nba.com^
 @@||nbc4dc.com^
 @@||nbcbay.com^
@@ -3239,6 +3235,7 @@
 @@||ndlb.red^
 @@||ne.fo^
 @@||ne1.net^
+@@||nectarios.info^
 @@||neexulro.net^
 @@||nefeli.live^
 @@||nefix.de^
@@ -4489,7 +4486,6 @@
 @@||st8.fm^
 @@||stack.im^
 @@||y.stadtfabrikanten.org^
-@@||stan.md^
 @@||stanford.io^
 @@||start.fr^
 @@||starturl.com^
@@ -5595,7 +5591,6 @@
 @@||xwhxx.com^
 @@||xwpgf.top^
 @@||xxhjb.com^
-@@||xyvid.tv^
 @@||xzb.cc^
 @@||xzcud.top^
 @@||y2u.be^
@@ -5778,7 +5773,6 @@
 @@||zti.me^
 @@||zugco.sbs^
 @@||zuki.ie^
-@@||zum.bi^
 @@||zuplo.link^
 @@||zurb.us^
 @@||zurins.uk^

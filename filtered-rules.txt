@@ -130,7 +130,6 @@
 18comic.org
 18comic.vip
 192-168-1-103.mydns.jdownloader.org
-1a.co.nz
 1ad.io
 1and1.com
 1and1.fr
@@ -3432,7 +3431,6 @@ bundles.api.here.com
 bung.ie
 bunnings.com.au
 buprg.sbs
-burl.me
 burma123.life
 burma77.life
 burner.bonanza.com
@@ -3691,7 +3689,6 @@ cbslocal.com
 cbsn.ws
 cbsnews.com
 cbt.gg
-cbtfgive.org
 cbu01.alicdn.com
 cc-dt.com
 cc.163.com
@@ -4440,7 +4437,6 @@ cna.asia
 cname.tradepub.com
 cnb.cx
 cnbc.com
-cnbj1-new.fds.api.xiaomi.com
 cnbj1.fds.api.xiaomi.com
 cnc.fe01.lg.xiaomi.com
 cndr.co
@@ -4497,7 +4493,6 @@ coinmama.com
 coinmarketcap.com
 coinmine.pl
 coinpr.info
-coinreal-us.com
 coinurl.com
 coki.me
 coklat.vip
@@ -8073,6 +8068,7 @@ hub.flowplayer.com
 hub.fm
 hub5btmain.sandai.net
 hub5btmain.v6.shub.sandai.net
+hub5idx.v6.shub.sandai.net
 hub5pn.sandai.net
 hub5pn.wap.sandai.net
 hubble.mb-cosmos.com
@@ -8511,6 +8507,7 @@ img.vidible.tv
 img.wechat.com
 img.x.soundcloud.com
 img.xda-developers.com
+img.youpin.mi-img.com
 img.youtube.com
 img.zuoyebang.cc
 img0.dditscdn.com
@@ -9577,6 +9574,7 @@ liangcang-material.alicdn.com
 liantu.com
 lib.ac
 lib.in
+lib.sinaapp.com
 libcom.org
 libero.it
 lic.kr
@@ -9607,6 +9605,7 @@ lifehacker.jp
 lifehacker.ru
 lifelog.blog.naver.com
 lifelog.sonymobile.com
+lifemakeovermysg.archosaur.com
 liffsdk.line-scdn.net
 liftoff.io
 liga.win
@@ -10221,6 +10220,7 @@ m.diigo.com
 m.dnaindia.com
 m.domain.dot.tk
 m.dot.tk
+m.down.sandai.net
 m.dq.com
 m.ds.163.com
 m.dxy.com
@@ -10383,6 +10383,7 @@ m.womenshealthmag.com
 m.xbox.com
 m.xiachufang.com
 m.xiaomi.com
+m.xunlei.com
 m.yjwujian.cn
 m.ykimg.com
 m.youlai.cn
@@ -10415,6 +10416,7 @@ ma.techrepublic.com
 maac.io
 mac.pcbeta.com
 mac.search.naver.com
+mac.xunlei.com
 macau123.link
 maccms.com
 mackeeper.com
@@ -11714,6 +11716,7 @@ mobile.scribd.com
 mobile.twitter.com
 mobile.x.com
 mobile.ximalaya.com
+mobile.xunlei.com
 mobile.yangkeduo.com
 mobilecns.alipay.com
 mobilecodec.alipay.com
@@ -11826,6 +11829,7 @@ mrx.cl
 ms.bdstatic.com
 ms.gravatar.com
 msatt.uk
+msdn.itellyou.cn
 mse.360.cn
 msecnd.net
 msedge.api.cdp.microsoft.com
@@ -12010,10 +12014,10 @@ myshorturls.com
 mysp.ac
 myspace.com
 mysql.com
+mystyle.archosaur.com
 mysupport.sonymobile.com
 mysurl.com
 mytd.cc
-mytiktok.life
 mytinycheck9.life
 mytoluwalemi.life
 mytorus.live
@@ -12080,6 +12084,7 @@ naomy.cdntrex.com
 naping.igamecj.com
 napisy24.pl
 narrowurl.com
+nas.xunlei.com
 nasa.gov
 naszdziennik.pl
 natfrp.cloud
@@ -12099,6 +12104,7 @@ naver.me
 naverapp.naver.com
 navercast.naver.com
 navismithapis-cdn.com
+nawalaku.com
 nayemador.com
 nazwa.pl
 nb-go.kelkoogroup.net
@@ -12131,6 +12137,7 @@ ndtv.com
 ne.fo
 ne1.net
 nebula-collector.huawei.com
+nectarios.info
 neexulro.net
 nefeli.live
 nefix.de
@@ -12232,6 +12239,7 @@ newyork.cbslocal.com
 newyorker.com
 next.daisuki.net
 next.exchange
+next.itellyou.cn
 nextdoor.com
 nextdrop.bz
 nexturl.in
@@ -13428,6 +13436,7 @@ pool.btc.com
 pool.next.exchange
 pool.ntp.org
 pool.supportxmr.com
+pool.v6.bt.n0808.com
 pool.v6.bt.n0808.com
 pools1.cryptopia.co.nz
 pools2.cryptopia.co.nz
@@ -15980,7 +15989,6 @@ stagingv2.spot.im
 stags.bluekai.com
 stallman.org
 stamps.stores.shop.ebay.com
-stan.md
 standardnotes.org
 stanev.org
 stanford.edu
@@ -16086,6 +16094,7 @@ static.internet.sony.tv
 static.ips.apple.com
 static.iqiyi.com
 static.itch.io
+static.itellyou.cn
 static.jvc.gg
 static.kickstarter.com
 static.klaviyo.com
@@ -17518,6 +17527,7 @@ tv.rakuten.co.jp
 tv.sohu.com
 tv.vimeo.com
 tv.wp.pl
+tv.xunlei.com
 tva1.sinaimg.cn
 tva4.sinaimg.cn
 tvax1.sinaimg.cn
@@ -18371,6 +18381,7 @@ vlcbm.com
 vlink.cz
 vloggi.com
 vm.gtimg.cn
+vmat.gtimg.com
 vmp-beta.boldchat.com
 vmp-eu.boldchat.com
 vmp.boldchat.com
@@ -20297,6 +20308,7 @@ www.teespring.com
 www.telegra.ph
 www.temporary-url.com
 www.tencent.com
+www.tencent.net.cn
 www.tenforums.com
 www.textshot.medium.com
 www.the-eye.eu
@@ -20442,12 +20454,14 @@ www.xda-developers.com
 www.xfce.org
 www.xiachufang.com
 www.xiaohongshu.com
+www.xiaomiyoupin.com
 www.ximalaya.com
 www.xinhuanet.com
 www.xmr.to
 www.xnxx.com
 www.xposed.info
 www.xuite.net
+www.xunlei.com
 www.xvideos.com
 www.ya.com
 www.ya.ru
@@ -20591,6 +20605,7 @@ xi.ht
 xiami.com
 xiaomi.com
 xiaomi.net
+xiaomiev.com
 xiazai.xiaomi.com
 xib.me
 xifuquan.com
@@ -20688,7 +20703,6 @@ xx.snap.com
 xxhjb.com
 xxx-image.com
 xyq.163.com
-xyvid.tv
 xywy.com
 xzb.cc
 xzcud.top
@@ -20998,7 +21012,6 @@ ztgame.com
 zti.me
 zugco.sbs
 zuki.ie
-zum.bi
 zuplo.link
 zurb.us
 zurins.uk

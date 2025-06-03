@@ -10468,6 +10468,7 @@
 @@||vl.api.np.km.playstation.net^
 @@||vlab.pp.ru^
 @@||vm.gtimg.cn^
+@@||vmat.gtimg.com^
 @@||vmp-beta.boldchat.com^
 @@||vmp-eu.boldchat.com^
 @@||vmp.boldchat.com^

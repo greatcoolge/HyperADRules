@@ -90,7 +90,6 @@
 @@||17mimei.club^
 @@||18comic.org^
 @@||18comic.vip^
-@@||1a.co.nz^
 @@||1ad.io^
 @@||1bestlinks.net^
 @@||1bitspace.com^
@@ -1336,7 +1335,6 @@
 @@||bulkurlshortener.com^
 @@||bung.ie^
 @@||buprg.sbs^
-@@||burl.me^
 @@||burma123.life^
 @@||burma77.life^
 @@||burnurl.com^
@@ -1452,7 +1450,6 @@
 @@||cbsloc.al^
 @@||cbsn.ws^
 @@||cbt.gg^
-@@||cbtfgive.org^
 @@||cc-dt.com^
 @@||cc.163.com^
 @@||cc.cc^
@@ -1494,7 +1491,6 @@
 @@||cdn.pinduoduo.com^
 @@||cdn.plyr.io^
 @@||cdn.siftscience.com^
-@@||cdn.staticfile.org^
 @@||cdn.tiantiantiaosheng.com^
 @@||cdn.ui.porsche.com^
 @@||cdn.uk.exponea.com^
@@ -1735,7 +1731,6 @@
 @@||cn.uptodown.com^
 @@||cna.asia^
 @@||cnb.cx^
-@@||cnbj1-new.fds.api.xiaomi.com^
 @@||cnbj1.fds.api.xiaomi.com^
 @@||cndr.co^
 @@||cnet.co^
@@ -1751,7 +1746,6 @@
 @@||cofe.io^
 @@||coinbarlink.net^
 @@||coinpr.info^
-@@||coinreal-us.com^
 @@||coki.me^
 @@||coklat.vip^
 @@||collector-axa.cloud.ca.com^
@@ -2134,6 +2128,7 @@
 @@||dourl.pl^
 @@||douyin.team^
 @@||down.360safe.com^
+@@||down.sandai.net^
 @@||down.sandai.net^
 @@||download-cdn.jetbrains.com.cn^
 @@||download-cdn.jetbrains.com^
@@ -2759,6 +2754,7 @@
 @@||gil.re^
 @@||gips2.baidu.com^
 @@||girlte.ch^
+@@||gist.github.com^
 @@||git-scm.com^
 @@||git.io^
 @@||git.new^
@@ -3140,6 +3136,7 @@
 @@||hub.fm^
 @@||hub5btmain.sandai.net^
 @@||hub5btmain.v6.shub.sandai.net^
+@@||hub5idx.v6.shub.sandai.net^
 @@||hub5pn.wap.sandai.net^
 @@||hubs.la^
 @@||hubs.li^
@@ -3299,6 +3296,7 @@
 @@||img.siwazywimg.com^
 @@||img.sogoucdn.com^
 @@||img.tapimg.com^
+@@||img.youpin.mi-img.com^
 @@||img.zuoyebang.cc^$important
 @@||img01.sogoucdn.com^
 @@||img02.sogoucdn.com^
@@ -3819,12 +3817,14 @@
 @@||lialink.net^
 @@||liangcang-material.alicdn.com^
 @@||lib.ac^
+@@||lib.sinaapp.com^
 @@||libero.it^
 @@||lick.my^
 @@||lien.li^
 @@||lienket.vn^
 @@||lieva.sbs^
 @@||lifeandtime.charity^
+@@||lifemakeovermysg.archosaur.com^
 @@||liga.win^
 @@||ligacash88.live^
 @@||lighthouse-scholarship.com^
@@ -4172,6 +4172,7 @@
 @@||m.bilibili.com^
 @@||m.client.10010.com^
 @@||m.dianping.com^
+@@||m.down.sandai.net^
 @@||m.dq.com^
 @@||m.ds.163.com^
 @@||m.dxy.com^
@@ -4204,6 +4205,7 @@
 @@||m.video.xiaomi.com^$important
 @@||m.vmall.com^
 @@||m.xiachufang.com^
+@@||m.xunlei.com^
 @@||m.yjwujian.cn^
 @@||m.ykimg.com^
 @@||m.youlai.cn^
@@ -4227,6 +4229,7 @@
 @@||m8.music.126.net^
 @@||m801.music.126.net^
 @@||maac.io^
+@@||mac.xunlei.com^
 @@||macau123.link^
 @@||maccms.com^
 @@||macrinaperez.live^
@@ -5174,6 +5177,7 @@
 @@||mobile.twitter.com^
 @@||mobile.x.com^
 @@||mobile.ximalaya.com^
+@@||mobile.xunlei.com^
 @@||mobile.yangkeduo.com^
 @@||mobile.yangkeduo.com^$important
 @@||mobilelife.me^
@@ -5224,6 +5228,7 @@
 @@||mrx.cl^
 @@||ms.bdstatic.com^
 @@||msatt.uk^
+@@||msdn.itellyou.cn^
 @@||mse.360.cn^
 @@||msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com^
 @@||msedown.360safe.com^
@@ -5321,9 +5326,9 @@
 @@||myshorturl.link^
 @@||myshorturls.com^
 @@||mysp.ac^
+@@||mystyle.archosaur.com^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -5354,6 +5359,7 @@
 @@||name.ly^
 @@||nanourl.org^
 @@||narrowurl.com^
+@@||nas.xunlei.com^
 @@||nathanaeldan.pro^
 @@||natsbee.link^
 @@||natura.com.vc^
@@ -5362,6 +5368,7 @@
 @@||nav.cx^
 @@||nav.porsche.com^
 @@||naver.me^
+@@||nawalaku.com^
 @@||nb-go.kelkoogroup.net^
 @@||nbc4dc.com^
 @@||nbcbay.com^
@@ -5380,6 +5387,7 @@
 @@||ndlb.red^
 @@||ne.fo^
 @@||ne1.net^
+@@||nectarios.info^
 @@||neexulro.net^
 @@||nefeli.live^
 @@||nefix.de^
@@ -5408,6 +5416,7 @@
 @@||newsletter2go.com^
 @@||newslink.reuters.com^
 @@||newvip-cdn.zhhainiao.com^
+@@||next.itellyou.cn^
 @@||nextdrop.bz^
 @@||nexturl.in^
 @@||nextworm.com^
@@ -5782,6 +5791,7 @@
 @@||payskip.org^
 @@||pbs.twimg.com^
 @@||pbzl.info^
+@@||pc.xunlei.com^
 @@||pchome.link^
 @@||pck.tv^
 @@||pd.am^
@@ -5925,6 +5935,7 @@
 @@||pollardaboxes.life^
 @@||polynation.life^
 @@||pool.v6.bt.n0808.com
+@@||pool.v6.bt.n0808.com^
 @@||popm.ch^
 @@||poprl.com^
 @@||por.nz^
@@ -7212,7 +7223,6 @@
 @@||stack.im^
 @@||stage.exacttarget.com^
 @@||staging.exacttarget.com^
-@@||stan.md^
 @@||stanford.io^
 @@||starlusts.com^
 @@||start.fr^
@@ -7239,6 +7249,7 @@
 @@||static.hdslb.com^
 @@||static.ips.apple.com^
 @@||static.iqiyi.com^
+@@||static.itellyou.cn^
 @@||static.miraheze.org^
 @@||static.pddpic.com^
 @@||static.spankbang.com^
@@ -8011,6 +8022,7 @@
 @@||tuwaga.vip^
 @@||tuwmc.sbs^
 @@||tv.sohu.com^
+@@||tv.xunlei.com^
 @@||tvepg.pandora.xiaomi.com^$important
 @@||tvonlineappitv.life^
 @@||tvonlineappitv.live^
@@ -8825,6 +8837,7 @@
 @@||www.mercedes-benz.com.cn^
 @@||www.mercedes-benz.com^
 @@||www.mhzd.net^
+@@||www.mi.com^
 @@||www.mini1.cn^
 @@||www.mousouzoku-av.com^
 @@||www.msn.com^
@@ -8856,6 +8869,8 @@
 @@||www.taptap.cn^
 @@||www.taptap.io^
 @@||www.temporary-url.com^
+@@||www.tencent.com^
+@@||www.tencent.net.cn^
 @@||www.tiantiantiaosheng.com^
 @@||www.toutiao.com^
 @@||www.vmall.com^
@@ -8863,8 +8878,10 @@
 @@||www.xanimeporn.com^
 @@||www.xiachufang.com^
 @@||www.xiaohongshu.com^
+@@||www.xiaomiyoupin.com^
 @@||www.ximalaya.com^
 @@||www.xnxx.com^
+@@||www.xunlei.com^
 @@||www.xvideos.com^
 @@||www.yidianzixun.com^
 @@||www.yjwujian.cn^
@@ -8922,6 +8939,7 @@
 @@||xgam.es^
 @@||xgd.in^
 @@||xi.ht^
+@@||xiaomiev.com^
 @@||xib.me^
 @@||xip.li^
 @@||xiqi.us^
@@ -8988,7 +9006,6 @@
 @@||xwpgf.top^
 @@||xxhjb.com^
 @@||xyq.163.com^
-@@||xyvid.tv^
 @@||xzb.cc^
 @@||xzcud.top^
 @@||xzz.xiaomin.tech^$important
@@ -9197,7 +9214,6 @@
 @@||zti.me^
 @@||zugco.sbs^
 @@||zuki.ie^
-@@||zum.bi^
 @@||zuplo.link^
 @@||zurb.us^
 @@||zurins.uk^
