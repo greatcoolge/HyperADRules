@@ -2022,7 +2022,6 @@
 @@||dfthethao.com^
 @@||dgmmx.com^
 @@||dgo.to^
-@@||dgshort.com^
 @@||dgt.fm^
 @@||dhe.one^
 @@||dhk.gg^
@@ -2075,7 +2074,6 @@
 @@||djurl.com^
 @@||dkly.me^
 @@||dkng.co^
-@@||dktlg.com^
 @@||dky.bz^
 @@||dl-protect.info^
 @@||dl-protect.link^
@@ -2423,7 +2421,6 @@
 @@||ezc.vc^
 @@||ezexzo.link^
 @@||ezstat.ru^
-@@||ezurl.cc^
 @@||ezurl.co^
 @@||ezyurl.co^
 @@||ezzs.live^
@@ -2488,7 +2485,6 @@
 @@||fe-static.xhscdn.com^
 @@||fe-video-qc.xhscdn.com^
 @@||fe3cr.delivery.mp.microsoft.com^
-@@||fedexx.live^
 @@||fee.vn^
 @@||feedback.miui.com^$important
 @@||feentry.zhuanzhuan.com^
@@ -2521,7 +2517,6 @@
 @@||fi.ro^
 @@||fifa.fans^
 @@||fig.page^
-@@||fighter234.best^
 @@||file.40017.cn^
 @@||file.market.xiaomi.com^$importantcdn.ark.qq.com
 @@||file.neixin.cn^
@@ -2549,7 +2544,6 @@
 @@||flickerlink.com^
 @@||flii.by^
 @@||flip.it^
-@@||fliplink.io^
 @@||flomuz.io^
 @@||flow.page^
 @@||flowcode.com^
@@ -3262,7 +3256,6 @@
 @@||ilix.in^
 @@||ilk.ir^
 @@||illin.is^
-@@||illuminatiracers.live^
 @@||iln.io^
 @@||ilnk.io^
 @@||im.alimebot.taobao.com^
@@ -4754,6 +4747,7 @@
 @@||mkto-ab570054.com^
 @@||mkto-ab570109.com^
 @@||mkto-ab570110.com^
+@@||mkto-ab570128.com^
 @@||mkto-ab570148.com^
 @@||mkto-ab580004.com^
 @@||mkto-ab590004.com^
@@ -5329,6 +5323,7 @@
 @@||mystyle.archosaur.com^
 @@||mysurl.com^
 @@||mytd.cc^
+@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -9214,6 +9209,7 @@
 @@||zti.me^
 @@||zugco.sbs^
 @@||zuki.ie^
+@@||zum.bi^
 @@||zuplo.link^
 @@||zurb.us^
 @@||zurins.uk^

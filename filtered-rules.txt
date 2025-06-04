@@ -5260,7 +5260,6 @@ dg.k.jd.com
 dgit.com
 dgmmx.com
 dgo.to
-dgshort.com
 dgt.fm
 dhe.one
 dhk.gg
@@ -5364,7 +5363,6 @@ djteg.sbs
 djurl.com
 dkly.me
 dkng.co
-dktlg.com
 dky.bz
 dl-1.va.us.xda-developers.com
 dl-canary.discordapp.net
@@ -6239,7 +6237,6 @@ eztv.ch
 eztv.io
 eztv.it
 eztv.re
-ezurl.cc
 ezurl.co
 ezyurl.co
 ezzs.live
@@ -6367,7 +6364,6 @@ fe3cr.delivery.mp.microsoft.com
 fe4.edge.pantheon.io
 featured-profiles.soundcloud.com
 features.engadget.com
-fedexx.live
 fee.vn
 feed.feedburner.com
 feed.xda-developers.com
@@ -6444,7 +6440,6 @@ fifa.fans
 fifthplay.com
 fig.bbc.co.uk
 fig.page
-fighter234.best
 figshare.com
 filament.io
 file-extensions.org
@@ -6543,7 +6538,6 @@ flii.by
 flip.it
 flipboard.com
 flipkart.com
-fliplink.io
 flipp.com
 flipper.flipboard.com
 flixcart.com
@@ -8337,7 +8331,6 @@ ilinky.info
 ilix.in
 ilk.ir
 illin.is
-illuminatiracers.live
 iln.io
 ilnk.io
 iltalehti.fi
@@ -11247,6 +11240,7 @@ mkto-ab570029.com
 mkto-ab570054.com
 mkto-ab570109.com
 mkto-ab570110.com
+mkto-ab570128.com
 mkto-ab570148.com
 mkto-ab580004.com
 mkto-ab590004.com
@@ -12018,6 +12012,7 @@ mystyle.archosaur.com
 mysupport.sonymobile.com
 mysurl.com
 mytd.cc
+mytiktok.life
 mytinycheck9.life
 mytoluwalemi.life
 mytorus.live
@@ -21012,6 +21007,7 @@ ztgame.com
 zti.me
 zugco.sbs
 zuki.ie
+zum.bi
 zuplo.link
 zurb.us
 zurins.uk

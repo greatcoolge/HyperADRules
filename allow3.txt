@@ -4,10 +4,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 01 Jun 2025 21:53 UTC
-! Version: 2025.0601.2153.43
+! Last modified: 03 Jun 2025 09:50 UTC
+! Version: 2025.0603.0950.43
 ! Syntax: AdBlock
-! Number of entries: 1708
+! Number of entries: 1709
 !
 @@||l.1mp.ru^
 @@||t.1und1.de^
@@ -941,6 +941,7 @@
 @@||mkto-ab570054.com^
 @@||mkto-ab570109.com^
 @@||mkto-ab570110.com^
+@@||mkto-ab570128.com^
 @@||mkto-ab570148.com^
 @@||mkto-ab580004.com^
 @@||mkto-ab590004.com^
