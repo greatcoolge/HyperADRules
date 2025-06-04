@@ -3264,6 +3264,7 @@
 @@||data.game.xiaomi.com^
 @@||data.hmxd.g.mi.com^
 @@||data.iana.org^
+@@||data.kuiniuca.com^
 @@||data.linkedin.com^
 @@||data.livefyre.com^
 @@||data.mistat.india.xiaomi.com^
@@ -7495,6 +7496,7 @@
 @@||onesignal.com^
 @@||onet.pl^
 @@||onet.rakuten.co.jp^
+@@||onethingpcs.com^
 @@||onhax.me^
 @@||onhax.net^
 @@||onlinevideoconverter.com^
@@ -7829,6 +7831,7 @@
 @@||pki.kaspersky.com^
 @@||pki.qualcomm.com^
 @@||pkobp.pl^
+@@||pkoplink.com^
 @@||pl.gravatar.com^
 @@||pl.hide.me^
 @@||pl.ign.com^
@@ -12307,6 +12310,7 @@
 @@||xvideos.com^
 @@||xx.snap.com^
 @@||xxx-image.com^
+@@||xycdn.com.gslb.kuiniuca.com^
 @@||xywy.com^
 @@||y0.cn^
 @@||y2u.be^

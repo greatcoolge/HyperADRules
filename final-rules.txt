@@ -5126,6 +5126,7 @@
 @@||data.game.xiaomi.com^
 @@||data.hmxd.g.mi.com^
 @@||data.iana.org^
+@@||data.kuiniuca.com^
 @@||data.linkedin.com^
 @@||data.livefyre.com^
 @@||data.mistat.india.xiaomi.com^
@@ -7273,7 +7274,6 @@
 @@||globalupload.io^
 @@||globo.com^
 @@||gloimg.gbtcdn.com^
-@@||glowin88.site^
 @@||gloyah.net^
 @@||glyph.medium.com^
 @@||gm.163.com^
@@ -8446,7 +8446,6 @@
 @@||iii.hm^
 @@||iii.im^
 @@||iiiii.in^
-@@||iiil.io^
 @@||iikzi.top^
 @@||iiwap.top^
 @@||ijg.cc^
@@ -12188,7 +12187,6 @@
 @@||mysupport.sonymobile.com^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -12879,6 +12877,7 @@
 @@||onesignal.com^
 @@||onet.pl^
 @@||onet.rakuten.co.jp^
+@@||onethingpcs.com^
 @@||onforb.es^
 @@||onhax.me^
 @@||onhax.net^
@@ -13496,6 +13495,7 @@
 @@||pki.kaspersky.com^
 @@||pki.qualcomm.com^
 @@||pkobp.pl^
+@@||pkoplink.com^
 @@||pl-go.kelkoogroup.net^
 @@||pl.gravatar.com^
 @@||pl.hide.me^
@@ -18113,6 +18113,7 @@
 @@||urbanspoon.com^
 @@||urbn.is^
 @@||url-qr.tk^
+@@||url-s.xyz^
 @@||url-shortener.freebusinessapps.net^
 @@||url-shortener.info^
 @@||url-shortener.yc.fstrk.io^
@@ -18354,6 +18355,7 @@
 @@||usnews.com^
 @@||usps-v2.com^
 @@||uspsexpress.org^
+@@||usreviewers.com^
 @@||ustream.tv^
 @@||ut.by^
 @@||utexas.edu^
@@ -20974,6 +20976,7 @@
 @@||xx.snap.com^
 @@||xxhjb.com^
 @@||xxx-image.com^
+@@||xycdn.com.gslb.kuiniuca.com^
 @@||xyq.163.com^
 @@||xywy.com^
 @@||xzb.cc^
@@ -21294,7 +21297,6 @@
 @@||zti.me^
 @@||zugco.sbs^
 @@||zuki.ie^
-@@||zum.bi^
 @@||zuplo.link^
 @@||zurb.us^
 @@||zurins.uk^

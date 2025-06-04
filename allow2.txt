@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 03 Jun 2025 10:27 UTC
-! Version: 2025.0603.1027.07
+! Last modified: 03 Jun 2025 22:29 UTC
+! Version: 2025.0603.2229.50
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -1871,7 +1871,6 @@
 @@||glnk.io^
 @@||glo.bo^
 @@||glo.wf^
-@@||glowin88.site^
 @@||gma.abc^
 @@||gmj.to^
 @@||gmj.tw^
@@ -2184,7 +2183,6 @@
 @@||iii.hm^
 @@||iii.im^
 @@||iiiii.in^
-@@||iiil.io^
 @@||iikzi.top^
 @@||iiwap.top^
 @@||ijg.cc^
@@ -3180,7 +3178,6 @@
 @@||mysp.ac^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -5049,6 +5046,7 @@
 @@||url.sg^
 @@||url.vet^
 @@||url-qr.tk^
+@@||url-s.xyz^
 @@||url-shortener.info^
 @@||url2.fr^
 @@||url2.in^
@@ -5159,6 +5157,7 @@
 @@||usmfs.info^
 @@||usps-v2.com^
 @@||uspsexpress.org^
+@@||usreviewers.com^
 @@||go.ustwo.games^
 @@||utm.to^
 @@||utn.pl^
@@ -5767,7 +5766,6 @@
 @@||zti.me^
 @@||zugco.sbs^
 @@||zuki.ie^
-@@||zum.bi^
 @@||zuplo.link^
 @@||zurb.us^
 @@||zurins.uk^

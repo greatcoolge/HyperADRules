@@ -2775,7 +2775,6 @@
 @@||glnk.io^
 @@||glo.bo^
 @@||glo.wf^
-@@||glowin88.site^
 @@||gm.163.com^
 @@||gma.abc^
 @@||gmj.to^
@@ -3242,7 +3241,6 @@
 @@||iii.hm^
 @@||iii.im^
 @@||iiiii.in^
-@@||iiil.io^
 @@||iikzi.top^
 @@||iiwap.top^
 @@||ijg.cc^
@@ -5323,7 +5321,6 @@
 @@||mystyle.archosaur.com^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -8199,6 +8196,7 @@
 @@||urb.tf^
 @@||urbn.is^
 @@||url-qr.tk^
+@@||url-s.xyz^
 @@||url-shortener.freebusinessapps.net^
 @@||url-shortener.info^
 @@||url-shortener.yc.fstrk.io^
@@ -8336,6 +8334,7 @@
 @@||usmfs.info^
 @@||usps-v2.com^
 @@||uspsexpress.org^
+@@||usreviewers.com^
 @@||utm.to^
 @@||utn.pl^
 @@||utracky.com^
@@ -9209,7 +9208,6 @@
 @@||zti.me^
 @@||zugco.sbs^
 @@||zuki.ie^
-@@||zum.bi^
 @@||zuplo.link^
 @@||zurb.us^
 @@||zurins.uk^

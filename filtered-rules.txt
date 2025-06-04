@@ -5035,6 +5035,7 @@ data.fotmob.com
 data.game.xiaomi.com
 data.hmxd.g.mi.com
 data.iana.org
+data.kuiniuca.com
 data.linkedin.com
 data.livefyre.com
 data.mistat.india.xiaomi.com
@@ -7149,7 +7150,6 @@ globalping.gotinder.com
 globalupload.io
 globo.com
 gloimg.gbtcdn.com
-glowin88.site
 gloyah.net
 glyph.medium.com
 gm.163.com
@@ -8314,7 +8314,6 @@ ii1.su
 iii.hm
 iii.im
 iiiii.in
-iiil.io
 iikzi.top
 iiwap.top
 ijg.cc
@@ -12012,7 +12011,6 @@ mystyle.archosaur.com
 mysupport.sonymobile.com
 mysurl.com
 mytd.cc
-mytiktok.life
 mytinycheck9.life
 mytoluwalemi.life
 mytorus.live
@@ -12699,6 +12697,7 @@ oneplus.com
 onesignal.com
 onet.pl
 onet.rakuten.co.jp
+onethingpcs.com
 onforb.es
 onhax.me
 onhax.net
@@ -13302,6 +13301,7 @@ pkg.tox.chat
 pki.kaspersky.com
 pki.qualcomm.com
 pkobp.pl
+pkoplink.com
 pl-go.kelkoogroup.net
 pl.gravatar.com
 pl.hide.me
@@ -17864,6 +17864,7 @@ urbandictionary.com
 urbanspoon.com
 urbn.is
 url-qr.tk
+url-s.xyz
 url-shortener.freebusinessapps.net
 url-shortener.info
 url-shortener.yc.fstrk.io
@@ -18105,6 +18106,7 @@ usmfs.info
 usnews.com
 usps-v2.com
 uspsexpress.org
+usreviewers.com
 ustream.tv
 ut.by
 utexas.edu
@@ -20697,6 +20699,7 @@ xwpgf.top
 xx.snap.com
 xxhjb.com
 xxx-image.com
+xycdn.com.gslb.kuiniuca.com
 xyq.163.com
 xywy.com
 xzb.cc
@@ -21007,7 +21010,6 @@ ztgame.com
 zti.me
 zugco.sbs
 zuki.ie
-zum.bi
 zuplo.link
 zurb.us
 zurins.uk
