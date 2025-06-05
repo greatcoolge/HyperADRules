@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 04 Jun 2025 11:52 UTC
-! Version: 2025.0604.1152.42
+! Last modified: 04 Jun 2025 22:01 UTC
+! Version: 2025.0604.2201.37
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -3231,7 +3231,6 @@
 @@||networking-htx.com^
 @@||newcecianajada271928.life^
 @@||newdemetrius.life^
-@@||neweden.live^
 @@||newhotlink.com^
 @@||newhrm.life^
 @@||newrich.live^
@@ -3436,7 +3435,6 @@
 @@||ourl.tw^
 @@||oururl.live^
 @@||outschooler.me^
-@@||over.st^
 @@||ovh.to^
 @@||ow.ly^
 @@||ow.nl^
@@ -3503,7 +3501,6 @@
 @@||peek.link^
 @@||peen.ca^
 @@||pekcamke.link^
-@@||pendek.art^
 @@||pens.pe^
 @@||peoplem.ag^
 @@||peppy.link^
