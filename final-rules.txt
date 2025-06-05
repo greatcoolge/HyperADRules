@@ -9252,7 +9252,6 @@
 @@||jupiter.intl.sys.miui.com^
 @@||jupiter.rus.sys.miui.com^
 @@||jupiter.sys.miui.com^
-@@||juragankoin88.life^
 @@||just.as^
 @@||justreleased.site^
 @@||jvc.gg^
@@ -9306,7 +9305,6 @@
 @@||katowice.tvp.pl^
 @@||katwr.sbs^
 @@||katzr.net^
-@@||kawanzeus.com^
 @@||kb.adguard.com^
 @@||kbalq.com^
 @@||kbank.co^
@@ -9332,7 +9330,6 @@
 @@||kem.lu^
 @@||kemono.party^
 @@||kepler.jd.com^
-@@||kerang.life^
 @@||keraskale.me^
 @@||kereta-vip.com^
 @@||kes.re^
@@ -9592,7 +9589,6 @@
 @@||laposte.net^
 @@||laptop-updates.brave.com^
 @@||laptops.engadget.com^
-@@||laralink.net^
 @@||larati.net^
 @@||larindahooks.link^
 @@||larry-herndon-115.life^
@@ -9652,7 +9648,6 @@
 @@||leica.gs^
 @@||leihuo.163.com^
 @@||leit.link^
-@@||leitup.com^
 @@||lelink.in^
 @@||lemde.fr^
 @@||lemonade.com^
@@ -9749,7 +9744,6 @@
 @@||liffsdk.line-scdn.net^
 @@||liftoff.io^
 @@||liga.win^
-@@||ligacash88.live^
 @@||light.ifmo.ru^
 @@||lighthouse-scholarship.com^
 @@||lightnovel.us^
@@ -9865,7 +9859,6 @@
 @@||linkbun.com^
 @@||linkclickcounter.com^
 @@||linkcloaker.pro^
-@@||linkcrypter.com^
 @@||linkcutt.com^
 @@||linkd.in^
 @@||linke.to^
@@ -9907,7 +9900,6 @@
 @@||linkpays.in^
 @@||linkpop.com^
 @@||linkpug4d.com^
-@@||linkr.uk^
 @@||linkrefferal.vip^
 @@||links-anz.afterpay.com^
 @@||links-na.afterpay.com^
