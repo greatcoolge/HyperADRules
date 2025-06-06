@@ -1959,7 +1959,6 @@
 @@||apa.org^
 @@||apache.org^
 @@||apb2.de^
-@@||apd-pcdnwxnat.teg.tencent-cloud.net^
 @@||apeltravel.info^
 @@||apertibumn.org^
 @@||apex.techrepublic.com^
@@ -3404,6 +3403,7 @@
 @@||brands.medium.com^
 @@||brave-core-ext.s3.brave.com^
 @@||bravo.ly^
+@@||bravos.life^
 @@||brazil.hide.me^
 @@||brazil.kaspersky.com^
 @@||brazzers.com^
@@ -8927,6 +8927,7 @@
 @@||ipm.mo^
 @@||ipmcloud.kaspersky.com^
 @@||ipopimg.sina.com.tw^
+@@||ipoy.me^
 @@||ipr-external.huawei.com^
 @@||ipredator.se^
 @@||iprl.com^
@@ -14122,7 +14123,6 @@
 @@||qyoeu.com^
 @@||qze.it^
 @@||qzonestyle.gtimg.cn^
-@@||qzr1.com^
 @@||qzr2.com^
 @@||qzs.qq.com^
 @@||qzxva.com^
@@ -14412,7 +14412,6 @@
 @@||rehtek.live^
 @@||rei.com^
 @@||reimageplus.com^
-@@||reive.site^
 @@||rekk.top^
 @@||relay01.hitbtc.com^
 @@||release.theplatform.com^
@@ -14629,7 +14628,6 @@
 @@||ror4pphbb.cc.rs6.net^
 @@||rotkt.com^
 @@||rouletteonline.live^
-@@||rounash.com^
 @@||roush-jims.live^
 @@||router.bittorrent.com^
 @@||router.utorrent.com^

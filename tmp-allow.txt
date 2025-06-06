@@ -1290,6 +1290,7 @@
 @@||bradley-parker.social^
 @@||brandedstoragereview.directory^
 @@||bravo.ly^
+@@||bravos.life^
 @@||bre.is^
 @@||brendan.fyi^
 @@||brevi.space^
@@ -3381,6 +3382,7 @@
 @@||iplogger.ru^
 @@||iplwin.us^
 @@||ipm.mo^
+@@||ipoy.me^
 @@||iprofiles.apple.com^
 @@||iptn.m3pd.com^
 @@||ipw.cn^
@@ -6148,7 +6150,6 @@
 @@||qy.163.com^
 @@||qyoeu.com^
 @@||qzonestyle.gtimg.cn^
-@@||qzr1.com^
 @@||qzr2.com^
 @@||qzs.qq.com^
 @@||qzxva.com^
@@ -6317,7 +6318,6 @@
 @@||regalacasian8.life^
 @@||regmovi.es^
 @@||rehtek.live^
-@@||reive.site^
 @@||rekk.top^
 @@||relhh.com^
 @@||reline.cc^
@@ -6440,7 +6440,6 @@
 @@||ror4pphbb.cc.rs6.net^
 @@||rotkt.com^
 @@||rouletteonline.live^
-@@||rounash.com^
 @@||roush-jims.live^
 @@||rovb.info^
 @@||rozhl.as^

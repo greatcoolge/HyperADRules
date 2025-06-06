@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 04 Jun 2025 22:01 UTC
-! Version: 2025.0604.2201.37
+! Last modified: 05 Jun 2025 10:01 UTC
+! Version: 2025.0605.1001.43
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -832,6 +832,7 @@
 @@||bradley-parker.social^
 @@||brandedstoragereview.directory^
 @@||bravo.ly^
+@@||bravos.life^
 @@||bre.is^
 @@||brendan.fyi^
 @@||brevi.space^
@@ -2259,6 +2260,7 @@
 @@||iplogger.ru^
 @@||iplwin.us^
 @@||ipm.mo^
+@@||ipoy.me^
 @@||iqiyi.cn^
 @@||iql.ink^
 @@||ir.cx^
@@ -3760,7 +3762,6 @@
 @@||qxxxp.org^
 @@||qxygk.com^
 @@||qyoeu.com^
-@@||qzr1.com^
 @@||qzr2.com^
 @@||qzxva.com^
 @@||r-7.co^
@@ -3848,7 +3849,6 @@
 @@||regalacasian8.life^
 @@||regmovi.es^
 @@||rehtek.live^
-@@||reive.site^
 @@||rekk.top^
 @@||relhh.com^
 @@||reline.cc^
@@ -3925,7 +3925,6 @@
 @@||rool.ink^
 @@||rotkt.com^
 @@||rouletteonline.live^
-@@||rounash.com^
 @@||roush-jims.live^
 @@||rovb.info^
 @@||rozhl.as^
