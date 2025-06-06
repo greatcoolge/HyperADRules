@@ -398,6 +398,7 @@
 @@||accommodatingly.xyz^
 @@||acconpit.com^
 @@||account-verification-man-seeking-man-mps.live^
+@@||account.agiso.com^
 @@||account.apple.com^
 @@||account.dianping.com^
 @@||account.xfinfr.com^
@@ -614,6 +615,7 @@
 @@||adurly.cc^
 @@||adv.li^
 @@||adveduardoalvesinc.live^
+@@||advise.gallup.com^
 @@||adweek.it^
 @@||adx.kr^
 @@||ady.to^
@@ -654,6 +656,7 @@
 @@||aisubtitle.hdslb.com^
 @@||aitoys7.live^
 @@||aitwwl.co^
+@@||ajax.googleapis.com^
 @@||aje.io^
 @@||ajher.com^
 @@||ajn.me^
@@ -1501,6 +1504,7 @@
 @@||cdn.ynuf.aliapp.org^
 @@||cdn1-smallimg.phncdn.com^
 @@||cdn1d-static-shared.phncdn.com^
+@@||cdn2.jianshu.io^
 @@||cdn77-pic.xnxx-cdn.com^
 @@||cdn77-pic.xvideos-cdn.com^
 @@||cdn77-vid-mp4.xvideos-cdn.com^
@@ -2516,6 +2520,7 @@
 @@||fhxor.com^
 @@||fi-go.kelkoogroup.net^
 @@||fi.ro^
+@@||fields.church^
 @@||fifa.fans^
 @@||fig.page^
 @@||file.40017.cn^
@@ -2658,6 +2663,7 @@
 @@||game.gtimg.cn^
 @@||game.qidian.com^
 @@||game.xiaomi.com^
+@@||gamebanana.com^
 @@||gamegta.com^
 @@||gameimg.qidian.com^
 @@||gameover.today^
@@ -3280,6 +3286,7 @@
 @@||img-hw.xvideos-cdn.com^
 @@||img-l3.xnxx-cdn.com^
 @@||img-l3.xvideos-cdn.com^
+@@||img.alicdn.com^
 @@||img.client.10010.com^
 @@||img.kemono.su^
 @@||img.meituan.net^
@@ -3861,6 +3868,7 @@
 @@||line3-h5-pc-api.biligame.com^
 @@||line3-statics-h5-mobile-api.biligame.net^
 @@||linea.link^
+@@||linelive.life^
 @@||lingkod.to^
 @@||link-me.vip^
 @@||link.ac^
@@ -5950,10 +5958,12 @@
 @@||prbly.us^
 @@||prcgg.sbs^
 @@||prdct.school^
+@@||prel.ink^
 @@||premex.link^
 @@||premierbet.live^
 @@||premiumproducts.live^
 @@||preml.ge^
+@@||prendre-rendezvous.com^
 @@||prephe.ro^
 @@||preview-jupiter.sys.miui.com^
 @@||prf.hn^
@@ -6316,6 +6326,7 @@
 @@||refini.tv^
 @@||reg.163.com^
 @@||regalacasian8.life^
+@@||registry.npmmirror.com^
 @@||regmovi.es^
 @@||rehtek.live^
 @@||rekk.top^
@@ -6478,6 +6489,7 @@
 @@||rulgnm4ab.cc.rs6.net^
 @@||run.admost.com^
 @@||rupilinks.com^
+@@||ruplink.com^
 @@||rusd.in^
 @@||rushgiving.com^
 @@||rusuhkali.xyz^
@@ -6817,7 +6829,6 @@
 @@||short.swurl.xyz^
 @@||short.to^
 @@||short1.link^
-@@||short24.pw^
 @@||shortbe.com^
 @@||shortclick.com^
 @@||shortcm.li^
@@ -6876,7 +6887,6 @@
 @@||shortly.cyou^
 @@||shortly.im^
 @@||shortlync.com^
-@@||shortma.de^
 @@||shortmds.xyz^
 @@||shortme.me^
 @@||shortme.work^
@@ -6890,7 +6900,6 @@
 @@||shortpals.online^
 @@||shortpastebin.my.id^
 @@||shortq.link^
-@@||shortr.at^
 @@||shortracz.com^
 @@||shortsfly.me^
 @@||shortshare.app^
@@ -6960,7 +6969,6 @@
 @@||shrunkin.com^
 @@||shss-ares.live^
 @@||sht.moe^
-@@||shtn.me^
 @@||shtnar.com^
 @@||shurl.fr^
 @@||shutr.bz^
@@ -7001,6 +7009,7 @@
 @@||sipetir.pro^
 @@||siriusxm.us^
 @@||sirpaulfan.live^
+@@||site.tiantiantiaosheng.com^
 @@||siteco.re^
 @@||sites.hscoscdn-eu1.net^
 @@||sites.hscoscdn-na2.net^
@@ -7040,7 +7049,6 @@
 @@||slims.us^
 @@||slnk.se^
 @@||slotamina.com^
-@@||sloto89.site^
 @@||slots799.online^
 @@||slpre.com^
 @@||slpzm.top^
@@ -7248,6 +7256,7 @@
 @@||stawritecdn.yuewen.com^
 @@||steamcommunity.com^
 @@||steve-patrick-811.life^
+@@||steveendow.link^
 @@||stfly.me^
 @@||stke.xyz^
 @@||stmodel.com^
@@ -7594,7 +7603,6 @@
 @@||target.microsoft.com^
 @@||targeterpro.com^
 @@||taskofdeity.netlify.app^
-@@||tatjanka31sluts.life^
 @@||tautin.id^
 @@||tauzn.top^
 @@||tawk.link^
@@ -7647,6 +7655,7 @@
 @@||terbar.ink^
 @@||terijoss.com^
 @@||terp.icu^
+@@||texas88register.com^
 @@||texas88vvip.org^
 @@||texasbisa.org^
 @@||texn.cc^
@@ -8158,8 +8167,10 @@
 @@||updating.me^
 @@||upfull.fr^
 @@||upgrade.ptmi.gitv.tv^$important
+@@||upload-images.jianshu.io^
 @@||upload.appleschoolcontent.com^
 @@||upload.cc
+@@||upload.jianshu.io^
 @@||upload.twitter.com^
 @@||upload.x.com^
 @@||uploadrar.com^
@@ -8583,6 +8594,7 @@
 @@||webdigraziosi1.com^
 @@||webep1.com^
 @@||weberdesign.life^
+@@||webfiles.gamebanana.com^
 @@||webflow.grsm.io^
 @@||webgoogle.live^
 @@||webi.li^
@@ -8671,6 +8683,7 @@
 @@||wl.spotify.com^
 @@||wm0.co^
 @@||wmeqx.com^
+@@||wmg.click^
 @@||wmojo.com^
 @@||wn.nr^
 @@||wndhj.top^
@@ -8745,6 +8758,7 @@
 @@||www.54647.io^
 @@||www.9game.cn^
 @@||www.aboluowang.com^
+@@||www.agiso.com^
 @@||www.ali213.net^
 @@||www.anjuke.com^
 @@||www.apple.com.cn^
@@ -8780,6 +8794,7 @@
 @@||www.ferrari.com^
 @@||www.ghproxy.cn^
 @@||www.goofish.com^
+@@||www.goofish.pro^
 @@||www.google.cn^
 @@||www.google.com.hk^
 @@||www.google.com^
@@ -8797,6 +8812,7 @@
 @@||www.iqiyi.com^
 @@||www.javbangers.com^
 @@||www.jd.com^
+@@||www.jianshu.com^
 @@||www.jiaoyimao.com^
 @@||www.jiaoyimao.com^$important
 @@||www.jsdelivr.com^
@@ -8819,8 +8835,10 @@
 @@||www.msn.com^
 @@||www.nodeseek.com^
 @@||www.novelfm.com^
+@@||www.npmjs.com^
 @@||www.oreans.com^
 @@||www.partner-ads.com^
+@@||www.patreon.com^
 @@||www.paypal.com^
 @@||www.paypalobjects.com^
 @@||www.paypalobjects.com^$important

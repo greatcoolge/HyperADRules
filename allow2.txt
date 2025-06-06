@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 05 Jun 2025 10:01 UTC
-! Version: 2025.0605.1001.43
+! Last modified: 05 Jun 2025 21:12 UTC
+! Version: 2025.0605.2112.32
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -1661,6 +1661,7 @@
 @@||fhurl.com^
 @@||fhxor.com^
 @@||fi.ro^
+@@||fields.church^
 @@||fifa.fans^
 @@||fig.page^
 @@||filz.fr^
@@ -2635,6 +2636,7 @@
 @@||lincat.co^
 @@||lincyt.com^
 @@||linea.link^
+@@||linelive.life^
 @@||lingkod.to^
 @@||link.ac^
 @@||link.cc^
@@ -3610,10 +3612,12 @@
 @@||prbly.us^
 @@||prcgg.sbs^
 @@||prdct.school^
+@@||prel.ink^
 @@||premex.link^
 @@||premierbet.live^
 @@||premiumproducts.live^
 @@||preml.ge^
+@@||prendre-rendezvous.com^
 @@||prephe.ro^
 @@||url.prepo.io^
 @@||prf.hn^
@@ -3949,6 +3953,7 @@
 @@||rtxt.co^
 @@||bio.rub3n.io^
 @@||rupilinks.com^
+@@||ruplink.com^
 @@||rusd.in^
 @@||rushgiving.com^
 @@||rusuhkali.xyz^
@@ -4144,7 +4149,6 @@
 @@||short-url.org^
 @@||short-url.run^
 @@||short1.link^
-@@||short24.pw^
 @@||shortbe.com^
 @@||shortclick.com^
 @@||shortcm.li^
@@ -4199,7 +4203,6 @@
 @@||shortly.cyou^
 @@||shortly.im^
 @@||shortlync.com^
-@@||shortma.de^
 @@||shortmds.xyz^
 @@||shortme.me^
 @@||shortme.work^
@@ -4212,7 +4215,6 @@
 @@||shortonly.com^
 @@||shortpals.online^
 @@||shortq.link^
-@@||shortr.at^
 @@||shortracz.com^
 @@||shortsfly.me^
 @@||shortshare.app^
@@ -4280,7 +4282,6 @@
 @@||shrunkin.com^
 @@||shss-ares.live^
 @@||sht.moe^
-@@||shtn.me^
 @@||shtnar.com^
 @@||shurl.fr^
 @@||shutr.bz^
@@ -4343,7 +4344,6 @@
 @@||slims.us^
 @@||slnk.se^
 @@||slotamina.com^
-@@||sloto89.site^
 @@||slots799.online^
 @@||slpre.com^
 @@||slpzm.top^
@@ -4472,6 +4472,7 @@
 @@||staticprocessorsource.review^
 @@||statistics4u.net^
 @@||steve-patrick-811.life^
+@@||steveendow.link^
 @@||stfly.me^
 @@||stke.xyz^
 @@||stmodel.com^
@@ -4578,7 +4579,6 @@
 @@||taplink.cc^
 @@||tapz.in^
 @@||targeterpro.com^
-@@||tatjanka31sluts.life^
 @@||tautin.id^
 @@||tauzn.top^
 @@||tawk.link^
@@ -4625,6 +4625,7 @@
 @@||terbar.ink^
 @@||terijoss.com^
 @@||terp.icu^
+@@||texas88register.com^
 @@||texas88vvip.org^
 @@||texasbisa.org^
 @@||texn.cc^
@@ -5423,6 +5424,7 @@
 @@||wl.co^
 @@||wm0.co^
 @@||wmeqx.com^
+@@||wmg.click^
 @@||wmojo.com^
 @@||wn.nr^
 @@||wndhj.top^

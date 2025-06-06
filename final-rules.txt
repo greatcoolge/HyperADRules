@@ -678,6 +678,7 @@
 @@||account-verification-man-seeking-man-mps.live^
 @@||account.adguard.com^
 @@||account.adobe.com^
+@@||account.agiso.com^
 @@||account.api.here.com^
 @@||account.apple.com^
 @@||account.dianping.com^
@@ -1054,6 +1055,7 @@
 @@||advertising.com^
 @@||advertising.soundcloud.com^
 @@||advil.waze.com^
+@@||advise.gallup.com^
 @@||adweek.com^
 @@||adweek.it^
 @@||adwords.google.com^
@@ -3996,6 +3998,7 @@
 @@||cdn2.editmysite.com^
 @@||cdn2.funimation.com^
 @@||cdn2.hubspot.net^
+@@||cdn2.jianshu.io^
 @@||cdn2.optimizely.com^
 @@||cdn2.xda-developers.com^
 @@||cdn3.digitaltrends.com^
@@ -6554,6 +6557,7 @@
 @@||fiddle.jshell.net^
 @@||fide.com^
 @@||fidelity.com^
+@@||fields.church^
 @@||fifa.fans^
 @@||fifthplay.com^
 @@||fig.bbc.co.uk^
@@ -7007,6 +7011,7 @@
 @@||game.naver.com^
 @@||game.qidian.com^
 @@||game.xiaomi.com^
+@@||gamebanana.com^
 @@||gamecopyworld.click^
 @@||gamegta.com^
 @@||gameimg.qidian.com^
@@ -9804,6 +9809,7 @@
 @@||linea.link^
 @@||lineageoslog.com^
 @@||lineit.line.me^
+@@||linelive.life^
 @@||lingkod.to^
 @@||link-me.vip^
 @@||link.ac^
@@ -13687,6 +13693,7 @@
 @@||prd.sca.samsung.com^
 @@||prdct.school^
 @@||prdl-download.adobe.com^
+@@||prel.ink^
 @@||prelive.cryptopia.co.nz^
 @@||premaster-app-cdn.spot.im^
 @@||premaster-spoxy.spot.im^
@@ -13697,6 +13704,7 @@
 @@||premium.soundcloud.com^
 @@||premiumproducts.live^
 @@||preml.ge^
+@@||prendre-rendezvous.com^
 @@||prephe.ro^
 @@||preprod.hitbtc.com^
 @@||presence-gcp-asia-south1.truecaller.com^
@@ -14408,6 +14416,7 @@
 @@||regalacasian8.life^
 @@||register.xmpush.global.xiaomi.com^
 @@||register.xmpush.xiaomi.com^
+@@||registry.npmmirror.com^
 @@||regmovi.es^
 @@||rehtek.live^
 @@||rei.com^
@@ -14711,6 +14720,7 @@
 @@||run.admost.com^
 @@||ruozuwky-android.mobile-messenger.intercom.com^
 @@||rupilinks.com^
+@@||ruplink.com^
 @@||rupload.facebook.com^
 @@||rusd.in^
 @@||rush.oneplus.com^
@@ -15503,7 +15513,6 @@
 @@||short.swurl.xyz^
 @@||short.to^
 @@||short1.link^
-@@||short24.pw^
 @@||shortbe.com^
 @@||shortclick.com^
 @@||shortcm.li^
@@ -15562,7 +15571,6 @@
 @@||shortly.cyou^
 @@||shortly.im^
 @@||shortlync.com^
-@@||shortma.de^
 @@||shortmds.xyz^
 @@||shortme.me^
 @@||shortme.work^
@@ -15576,7 +15584,6 @@
 @@||shortpals.online^
 @@||shortpastebin.my.id^
 @@||shortq.link^
-@@||shortr.at^
 @@||shortracz.com^
 @@||shortsfly.me^
 @@||shortshare.app^
@@ -15650,7 +15657,6 @@
 @@||shrunkin.com^
 @@||shss-ares.live^
 @@||sht.moe^
-@@||shtn.me^
 @@||shtnar.com^
 @@||shuc-android.ksord.com^
 @@||shuju.mi.com^
@@ -15721,6 +15727,7 @@
 @@||sirpaulfan.live^
 @@||sitcomsonline.com^
 @@||site.gravatar.com^
+@@||site.tiantiantiaosheng.com^
 @@||siteassets.parastorage.com^
 @@||siteco.re^
 @@||sitepoint.com^
@@ -15793,7 +15800,6 @@
 @@||slims.us^
 @@||slnk.se^
 @@||slotamina.com^
-@@||sloto89.site^
 @@||slots799.online^
 @@||slpre.com^
 @@||slpzm.top^
@@ -16430,6 +16436,7 @@
 @@||steamuserimages-a.akamaihd.net^
 @@||stern.de^
 @@||steve-patrick-811.life^
+@@||steveendow.link^
 @@||stfly.me^
 @@||stg-account-samsung-com-1073842004.eu-west-1.elb.amazonaws.com^
 @@||stg-account.samsung.com^
@@ -17049,7 +17056,6 @@
 @@||targetednotifications-tm.trafficmanager.net^
 @@||targeterpro.com^
 @@||taskofdeity.netlify.app^
-@@||tatjanka31sluts.life^
 @@||tautin.id^
 @@||tauzn.top^
 @@||tawk.link^
@@ -17163,6 +17169,7 @@
 @@||testit.miui.com^
 @@||testkitchen.huffingtonpost.com^
 @@||texas.gov^
+@@||texas88register.com^
 @@||texas88vvip.org^
 @@||texasbisa.org^
 @@||texn.cc^
@@ -18052,12 +18059,14 @@
 @@||upgrade.scdn.com^
 @@||upgrade.xl9.xunlei.com^
 @@||uplaypc-s-ubisoft.cdn.ubi.com^
+@@||upload-images.jianshu.io^
 @@||upload.appleschoolcontent.com^
 @@||upload.blog.naver.com^
 @@||upload.cc
 @@||upload.cc^
 @@||upload.dcinside.com^
 @@||upload.facebook.com^
+@@||upload.jianshu.io^
 @@||upload.rapidvideo.com^
 @@||upload.twitter.com^
 @@||upload.vimeo.com^
@@ -18912,6 +18921,7 @@
 @@||webdisk.sitcomsonline.com^
 @@||webep1.com^
 @@||weberdesign.life^
+@@||webfiles.gamebanana.com^
 @@||webflow.grsm.io^
 @@||webgoogle.live^
 @@||webgrab.wechat.com^
@@ -19132,6 +19142,7 @@
 @@||wmeqx.com^
 @@||wmf.ok.ru^
 @@||wmflabs.org^
+@@||wmg.click^
 @@||wmojo.com^
 @@||wmv-dev.walmart.com^
 @@||wmv-prod.walmart.com^
@@ -19330,6 +19341,7 @@
 @@||www.ae911truth.org^
 @@||www.aeropress.com^
 @@||www.aetna.com^
+@@||www.agiso.com^
 @@||www.aiosearch.com^
 @@||www.airtable.com^
 @@||www.alcohol-soft.com^
@@ -19766,6 +19778,7 @@
 @@||www.goodolddownloads.com^
 @@||www.goodreads.com^
 @@||www.goofish.com^
+@@||www.goofish.pro^
 @@||www.google.ac^
 @@||www.google.ad^
 @@||www.google.ae^
@@ -20087,6 +20100,7 @@
 @@||www.jd.com^
 @@||www.jdownloader.org^
 @@||www.jeeng.com^
+@@||www.jianshu.com^
 @@||www.jiaoyimao.com^
 @@||www.jiaoyimao.com^$important
 @@||www.jobs.medium.com^
@@ -20329,6 +20343,7 @@
 @@||www.partner-ads.com^
 @@||www.pastebin.com^
 @@||www.patheos.com^
+@@||www.patreon.com^
 @@||www.paypal.com.edgekey.net^
 @@||www.paypal.com^
 @@||www.paypalobjects.com^

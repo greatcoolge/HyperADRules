@@ -4,10 +4,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 04 Jun 2025 21:31 UTC
-! Version: 2025.0604.2131.10
+! Last modified: 05 Jun 2025 20:37 UTC
+! Version: 2025.0605.2037.59
 ! Syntax: AdBlock
-! Number of entries: 1703
+! Number of entries: 1704
 !
 @@||l.1mp.ru^
 @@||t.1und1.de^
@@ -442,6 +442,7 @@
 @@||eultech.fnac.com^
 @@||fr135.net^
 @@||link.freshmail.mx^
+@@||advise.gallup.com^
 @@||tracker.gamesdonequick.com^
 @@||target.georiot.com^
 @@||linksmail.geosolinc.com^
