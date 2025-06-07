@@ -3858,6 +3858,7 @@
 @@||lin-k.me^
 @@||lin.ee^
 @@||lin.io^
+@@||lin.st^
 @@||lin0.de^
 @@||linc.li^
 @@||lincat.co^
@@ -5317,6 +5318,7 @@
 @@||mystyle.archosaur.com^
 @@||mysurl.com^
 @@||mytd.cc^
+@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -5558,6 +5560,7 @@
 @@||okachi.info^
 @@||okachi.life^
 @@||okcvw.sbs^
+@@||okebio.com^
 @@||okeegas.win^
 @@||okshort.net^
 @@||okt.to^
@@ -7795,6 +7798,7 @@
 @@||titleagentmarketing.com^
 @@||tiurl.link^
 @@||tixxh.com^
+@@||tj-bet88.store^
 @@||tj.wtf^
 @@||tjazih.com^
 @@||tklinks.com^
@@ -8047,7 +8051,6 @@
 @@||txhih.sbs^
 @@||txmov2.a.kwimgs.com^
 @@||txtme-live.co.uk^
-@@||txtr.cc^
 @@||txul.cn^
 @@||txwk.10010.com^
 @@||txxx.ahcdn.com^
@@ -8066,7 +8069,6 @@
 @@||u0c.net^
 @@||u1.img.mobile.sina.cn^$important
 @@||u1.mnge.co^
-@@||u2l.io^
 @@||u301.com^
 @@||u3l.co^
 @@||u6e.de^
@@ -8438,7 +8440,6 @@
 @@||vip.superpopdrop.com^
 @@||vipgacor77.net^
 @@||viprupiah138.net^
-@@||vipshortener.com^
 @@||vipslot4d.site^
 @@||viptango77.net^
 @@||viraln.co^
@@ -8611,7 +8612,6 @@
 @@||webstatic.hoyoverse.com^
 @@||webto.salesforce.com^
 @@||webtor.io^
-@@||webuji4d.life^
 @@||webyank4d.live^
 @@||webz.cc^
 @@||wec.li^
@@ -8651,7 +8651,6 @@
 @@||whr.tn^
 @@||whs.link^
 @@||whxce.sbs^
-@@||whyiwu.com^
 @@||wi.se^
 @@||wideo.fr^
 @@||widgets.wise.com^
@@ -8661,7 +8660,6 @@
 @@||wiki.biligame.com^
 @@||wilsonlopez0404inc.life^
 @@||win.gs^
-@@||win7.life^
 @@||windows.com^
 @@||windows69.live^
 @@||winlynk.com^
@@ -8670,7 +8668,6 @@
 @@||wishct.live^
 @@||wit.to^
 @@||witchny.live^
-@@||withtask.com^
 @@||wiuqz.com^
 @@||wjib.top^
 @@||wjsxb.com^
@@ -8935,7 +8932,6 @@
 @@||xi.ht^
 @@||xiaomiev.com^
 @@||xib.me^
-@@||xip.li^
 @@||xiqi.us^
 @@||xjroy.com^
 @@||xjyus.sbs^
@@ -9208,6 +9204,7 @@
 @@||zti.me^
 @@||zugco.sbs^
 @@||zuki.ie^
+@@||zum.bi^
 @@||zuplo.link^
 @@||zurb.us^
 @@||zurins.uk^
