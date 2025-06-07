@@ -2845,6 +2845,7 @@ bayareane.ws
 bazaarvoice.com
 bb.biv.sony.tv
 bb.vg
+bbb.bz
 bbb.org
 bbc.co.uk
 bbc.com
@@ -3708,6 +3709,7 @@ ccc.sys.intl.xiaomi.com
 ccc.sys.miui.com
 cccc.one
 ccclub.cmbchina.com
+ccits.cc
 ccj.im
 ccleaner.com
 ccmbg.com
@@ -6770,6 +6772,7 @@ fsjvp.sbs
 fslvi.com
 fstgo.to
 fstrk.cc
+fsu.ro
 ft.com
 ft.tt
 ftc.gov
@@ -7777,6 +7780,7 @@ hbs.me
 hbtl.co
 hc.tdm.qq.com
 hcaptcha.com
+hcibh.com
 hcizp.top
 hcjs.nv7s.com
 hclips.ahcdn.com
@@ -10752,6 +10756,7 @@ mensfitness.com
 menshealth.com
 mention-me.com
 menu-static.gog-statics.com
+meraihcuan.com
 mercadolibre.com.ar
 merchandise.api.playstation.com
 merchant.bithumb.com
@@ -12006,7 +12011,6 @@ mystyle.archosaur.com
 mysupport.sonymobile.com
 mysurl.com
 mytd.cc
-mytiktok.life
 mytinycheck9.life
 mytoluwalemi.life
 mytorus.live
@@ -15151,6 +15155,7 @@ sf6-fe-tos.pglstatp-toutiao.com
 sf6-ttcdn-tos.pstatp.com
 sfca.re
 sfcne.ws
+sfcsgala.org
 sfdataservice.microsoft.com
 sfdl.360safe.com
 sfgate.com
@@ -20788,7 +20793,6 @@ youris.pro
 yourl.ir
 yourls.info
 yourls.org
-yourmovie.co
 youronlinechoices.com
 yourwish.es
 youtu.be
@@ -21003,7 +21007,6 @@ ztgame.com
 zti.me
 zugco.sbs
 zuki.ie
-zum.bi
 zuplo.link
 zurb.us
 zurins.uk
