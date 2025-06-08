@@ -155,6 +155,7 @@
 1link.in
 1link.top
 1ly.ru
+1mm.kr
 1nk.co
 1o.pl
 1o2.ir
@@ -432,7 +433,6 @@
 89q.sk
 8a6rh.shop
 8ch.net
-8fig.me
 8n.ink
 8tm.net
 8u.cz
@@ -613,6 +613,7 @@ abnb.me
 about.com
 about.diigo.com
 about.flipboard.com
+about.gitlab.com
 about.me
 about.medium.com
 about.pinterest.com
@@ -5458,6 +5459,7 @@ docremedio.xyz
 docs.bitfinex.com
 docs.brightcove.com
 docs.bugsnag.com
+docs.doudou.fun
 docs.exchange.coinbase.com
 docs.fabric.io
 docs.google.com
@@ -7116,6 +7118,7 @@ github.site
 github.store
 githubapp.com
 githubusercontent.com
+gitlab.cn
 gitlab.com
 gitter.im
 giv.red
@@ -8370,6 +8373,7 @@ image.tmdb.org
 image.uc.cn
 image.uczzd.cn
 image.vuukle.com
+image.yijoys.com
 image.zzd.sm.cn
 image2.gtflixtv.com
 imagebam.com
@@ -8984,6 +8988,7 @@ jiathis.com
 jiazhang.gm.163.com
 jiazhang.qq.com
 jieee.sbs
+jihulab.com
 jii.li
 jijr.com
 jikipedia.com
@@ -12035,6 +12040,7 @@ n.163.com
 n.opn.tl
 n.pr
 n.sinaimg.cn
+n0va-static.mihoyo.com
 n0va.mihoyo.com
 n2s.us
 n6.net
@@ -12986,6 +12992,7 @@ pagefair.com
 pages.ebay.com
 pages.em.funimation.com
 pages.engage.xbox.com
+pages.github.com
 pages.soundcloud.com
 pages.status.xbox.com
 pages.typekit.com
@@ -16032,6 +16039,7 @@ static-mobilegame-1.biligame.net
 static-pepper.dealabs.com
 static-res.qq.com
 static-resource.np.community.playstation.net
+static-web.mimikko.cn
 static-xl9-ssl.xunlei.com
 static.127777.com
 static.3001.net
@@ -16073,6 +16081,7 @@ static.freedownloadmanager.org
 static.fxhome.com
 static.game.xiaomi.com
 static.gigabyte.com
+static.gitbook.com
 static.gotinder.com
 static.hdslb.com
 static.home.mi.com
@@ -17605,6 +17614,7 @@ typekit.com
 typekit.net
 typepad.com
 u-rl.li
+u.10010.cn
 u.163.com
 u.alicdn.com
 u.bb
@@ -18657,6 +18667,7 @@ webapi.kaspersky.com
 webapp.browser.intl.miui.com
 webapp.browser.miui.com
 webapps.entrance.sonymobile.com
+webapps.mimikko.cn
 webappstatic.buzzfeed.com
 webarnoldkamdem513.life
 webbrian.live
@@ -19366,6 +19377,7 @@ www.dolcegabbana.com
 www.domain.dot.tk
 www.domainwhoisinfo.com
 www.dot.tk
+www.doudou.fun
 www.douyin.com
 www.download.windowsupdate.com
 www.downloads.techrepublic.com
@@ -19495,6 +19507,7 @@ www.ghostbin.com
 www.ghproxy.cn
 www.gigapurbalingga.net
 www.ginjfo.com
+www.gitbook.com
 www.github.developerdan.com
 www.githubstatus.com
 www.gizbot.com
@@ -19954,6 +19967,7 @@ www.miaminewtimes.com
 www.microg.org
 www.microsoft.com
 www.mimecast.com
+www.mimikko.cn
 www.minergate.com
 www.minhngoc.net.vn
 www.mini1.cn
@@ -20967,6 +20981,7 @@ zlr.my
 zlra.co
 zlw.re
 zlwpq.com
+zmde.yijoys.com
 znly.in
 znt.bz
 zo.cm

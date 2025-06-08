@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 06 Jun 2025 22:12 UTC
-! Version: 2025.0606.2212.25
+! Last modified: 08 Jun 2025 10:22 UTC
+! Version: 2025.0608.1022.12
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -73,6 +73,7 @@
 @@||1link.in^
 @@||1link.top^
 @@||1ly.ru^
+@@||1mm.kr^
 @@||1nk.co^
 @@||1o.pl^
 @@||1o2.ir^
@@ -243,7 +244,6 @@
 @@||88win.link^
 @@||89q.sk^
 @@||8a6rh.shop^
-@@||8fig.me^
 @@||8n.ink^
 @@||8tm.net^
 @@||8u.cz^

@@ -105,6 +105,7 @@
 @@||1link.in^
 @@||1link.top^
 @@||1ly.ru^
+@@||1mm.kr^
 @@||1nk.co^
 @@||1o.pl^
 @@||1o2.ir^
@@ -285,7 +286,6 @@
 @@||88win.link^
 @@||89q.sk^
 @@||8a6rh.shop^
-@@||8fig.me^
 @@||8n.ink^
 @@||8tm.net^
 @@||8u.cz^
@@ -380,6 +380,7 @@
 @@||ablink.email.etsy.com^
 @@||ablink.mail.parkmobile.io^
 @@||abnb.me^
+@@||about.gitlab.com^
 @@||aboutmywebsite.com^
 @@||abpl.top^
 @@||abr.ai^
@@ -2115,6 +2116,7 @@
 @@||dockr.ly^
 @@||docrdsfx76ssb.cloudfront.net^
 @@||docremedio.xyz^
+@@||docs.doudou.fun^
 @@||docs.idqqimg.com^
 @@||dogelexus.win^
 @@||doh.dns.apple.com^
@@ -2767,9 +2769,11 @@
 @@||github.co^
 @@||github.com^
 @@||github.com^$important
+@@||github.io^
 @@||github.site^
 @@||github.store^
 @@||githubusercontent.com^$important
+@@||gitlab.cn^
 @@||gitlab.com^
 @@||giv.red^
 @@||gizmo.do^
@@ -3273,6 +3277,7 @@
 @@||image.quark.cn^
 @@||image.uc.cn^
 @@||image.uc.cn^$important
+@@||image.yijoys.com^
 @@||imagecdn.clips4sale.com^
 @@||images.google.cn^
 @@||images.google.com.hk^
@@ -3499,6 +3504,7 @@
 @@||jiazhang.gm.163.com^
 @@||jiazhang.qq.com^
 @@||jieee.sbs^
+@@||jihulab.com^
 @@||jii.li^
 @@||jijr.com^
 @@||jikipedia.com^
@@ -5342,6 +5348,7 @@
 @@||n.opn.tl^
 @@||n.pr^
 @@||n.sinaimg.cn^
+@@||n0va-static.mihoyo.com^
 @@||n0va.mihoyo.com^
 @@||n9.cl^
 @@||na61-na62.wagbridge.advertisement.alibabacorp.com.gds.alibabadns.com^$important
@@ -5740,6 +5747,7 @@
 @@||packt.link^
 @@||pag.la^
 @@||page.link^
+@@||pages.github.com^
 @@||paids.site^
 @@||paisakamalo.in^
 @@||paksa.click^
@@ -7229,6 +7237,7 @@
 @@||static-l3.xnxx-cdn.com^
 @@||static-mobilegame-1.biligame.net^
 @@||static-res.qq.com^
+@@||static-web.mimikko.cn^
 @@||static.360buyimg.com^
 @@||static.91haoka.cn^
 @@||static.ali213.net^
@@ -7236,6 +7245,7 @@
 @@||static.cleverpush.com^
 @@||static.clewm.net^
 @@||static.e.189.cn^
+@@||static.gitbook.com^
 @@||static.hdslb.com^
 @@||static.ips.apple.com^
 @@||static.iqiyi.com^
@@ -8064,6 +8074,7 @@
 @@||ty.gy^
 @@||tylervisionary.live^
 @@||u-rl.li^
+@@||u.10010.cn^
 @@||u.163.com^
 @@||u.g0.to^
 @@||u.mavrev.com^
@@ -8594,6 +8605,7 @@
 @@||weatherapi.market.xiaomi.com^
 @@||web.vip.miui.com^$important
 @@||web99.eu^
+@@||webapps.mimikko.cn^
 @@||webarnoldkamdem513.life^
 @@||webbrian.live^
 @@||webcut.net^
@@ -8787,6 +8799,7 @@
 @@||www.dell.com^
 @@||www.dianping.com^
 @@||www.docker.com^
+@@||www.doudou.fun^
 @@||www.douyin.com^
 @@||www.dpfile.com^
 @@||www.enigmaprotector.cn^
@@ -8795,6 +8808,7 @@
 @@||www.ero-labs.com^
 @@||www.ferrari.com^
 @@||www.ghproxy.cn^
+@@||www.gitbook.com^
 @@||www.goofish.com^
 @@||www.goofish.pro^
 @@||www.google.cn^
@@ -8832,6 +8846,7 @@
 @@||www.mercedes-benz.com^
 @@||www.mhzd.net^
 @@||www.mi.com^
+@@||www.mimikko.cn^
 @@||www.mini1.cn^
 @@||www.mousouzoku-av.com^
 @@||www.msn.com^
@@ -9177,6 +9192,7 @@
 @@||zlra.co^
 @@||zlw.re^
 @@||zlwpq.com^
+@@||zmde.yijoys.com^
 @@||znly.in^
 @@||znt.bz^
 @@||zo.cm^

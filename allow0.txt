@@ -9,7 +9,7 @@
 # 规则说明A：列表规则均为网络冲浪时抓取，并已通过实机测试。
 # 规则说明B：规则具有时效性，使用前可自行排查当前域名是否有效。
 #************************************************************************#
-# 更新时间：2025-06-06
+# 更新时间：2025-06-08
 #************************************************************************#
 
 @@||intro.limestart.cn^
@@ -52,6 +52,7 @@
 @@||img.client.10010.com^
 @@||m1.img.10010.com^
 @@||m.client.10010.com^
+@@||u.10010.cn^
 @@||js.img.10010.com^
 @@||m2.img.10010.com^
 @@||res.mall.10010.cn^
@@ -902,10 +903,18 @@
 @@||www.maserati.com^
 @@||www.bmw.com^
 @@||www.bmw.com.cn^
+@@||www.mimikko.cn^
+@@||static-web.mimikko.cn^
+@@||webapps.mimikko.cn^
 @@||android.bugly.qq.com^
 @@||outexp-beta.cdn.qq.com^
+@@||zmde.yijoys.com^
+@@||image.yijoys.com^
 @@||n0va.mihoyo.com^
+@@||n0va-static.mihoyo.com^
 @@||api-n0vadp-static.hoyoverse.com^
+@@||www.doudou.fun^
+@@||docs.doudou.fun^
 @@||ssj-1256119282.cos.ap-guangzhou.myqcloud.com^
 @@||www.docker.com^
 @@||hub.docker.com^
@@ -913,25 +922,32 @@
 @@||podman.io^
 @@||kubernetes.io^
 @@||git-scm.com^
+@@||about.gitlab.com^
 @@||gitlab.com^
+@@||gitlab.cn^
+@@||jihulab.com^
 @@||unpkg.zhimg.com^
 @@||npm.elemecdn.com^
 @@||github.com^
 @@||gist.github.com^
+@@||pages.github.com^
+@@||github.io^
 @@||www.ghproxy.cn^
 @@||github.site^
 @@||github.store^
+@@||www.gitbook.com^
+@@||static.gitbook.com^
 @@||gitcode.com^
 @@||gitee.com^
 @@||www.cloudflare.com^
 @@||www.cloudflare-cn.com^
+@@||cdnjs.com^
+@@||cdnjs.cloudflare.com^
 @@||one.one.one.one^
 @@||cloudflare-dns.com^
 @@||www.cloudns.net^
 @@||www.jsdelivr.com^
 @@||cdn.jsdelivr.net^
-@@||cdnjs.com^
-@@||cdnjs.cloudflare.com^
 @@||www.bootcdn.cn^
 @@||www.bootcss.com^
 @@||heroku.com^
