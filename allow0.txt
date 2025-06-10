@@ -9,7 +9,7 @@
 # 规则说明A：列表规则均为网络冲浪时抓取，并已通过实机测试。
 # 规则说明B：规则具有时效性，使用前可自行排查当前域名是否有效。
 #************************************************************************#
-# 更新时间：2025-06-09
+# 更新时间：2025-06-06
 #************************************************************************#
 
 @@||intro.limestart.cn^
@@ -52,7 +52,6 @@
 @@||img.client.10010.com^
 @@||m1.img.10010.com^
 @@||m.client.10010.com^
-@@||u.10010.cn^
 @@||js.img.10010.com^
 @@||m2.img.10010.com^
 @@||res.mall.10010.cn^
@@ -622,21 +621,16 @@
 @@||act.zhuanzhuan.com^
 @@||www.goofish.com^
 @@||h5api.m.goofish.com^
-@@||img.alicdn.com^
+@@||img.alicdn.com^$important
 @@||passport.goofish.com^
 @@||market.m.taobao.com^
 @@||g-acs.m.goofish.com^
 @@||ssr.m.goofish.com^
 @@||video.goofish.com^
 @@||h5.m.goofish.com^
-@@||g.alicdn.com^
 @@||gjusp.alicdn.com^
-@@||www.goofish.pro^
 @@||api.qiniu.com^
 @@||gtms03.alicdn.com^
-@@||www.agiso.com^
-@@||account.agiso.com^
-@@||mai.91kami.com^
 @@||www.meituan.com^
 @@||s3plus.meituan.net^
 @@||img.meituan.net^
@@ -677,6 +671,7 @@
 @@||91haoka.cn^
 @@||storep.91haoka.cn^
 @@||static.91haoka.cn^
+@@||mai.91kami.com^
 @@||afdian.com^
 @@||ifdian.net^
 @@||static.e.189.cn^
@@ -904,18 +899,10 @@
 @@||www.maserati.com^
 @@||www.bmw.com^
 @@||www.bmw.com.cn^
-@@||www.mimikko.cn^
-@@||static-web.mimikko.cn^
-@@||webapps.mimikko.cn^
 @@||android.bugly.qq.com^
 @@||outexp-beta.cdn.qq.com^
-@@||zmde.yijoys.com^
-@@||image.yijoys.com^
 @@||n0va.mihoyo.com^
-@@||n0va-static.mihoyo.com^
 @@||api-n0vadp-static.hoyoverse.com^
-@@||www.doudou.fun^
-@@||docs.doudou.fun^
 @@||ssj-1256119282.cos.ap-guangzhou.myqcloud.com^
 @@||www.docker.com^
 @@||hub.docker.com^
@@ -923,32 +910,25 @@
 @@||podman.io^
 @@||kubernetes.io^
 @@||git-scm.com^
-@@||about.gitlab.com^
 @@||gitlab.com^
-@@||gitlab.cn^
-@@||jihulab.com^
 @@||unpkg.zhimg.com^
 @@||npm.elemecdn.com^
 @@||github.com^
 @@||gist.github.com^
-@@||pages.github.com^
-@@||github.io^
 @@||www.ghproxy.cn^
 @@||github.site^
 @@||github.store^
-@@||www.gitbook.com^
-@@||static.gitbook.com^
 @@||gitcode.com^
 @@||gitee.com^
 @@||www.cloudflare.com^
 @@||www.cloudflare-cn.com^
-@@||cdnjs.com^
-@@||cdnjs.cloudflare.com^
 @@||one.one.one.one^
 @@||cloudflare-dns.com^
 @@||www.cloudns.net^
 @@||www.jsdelivr.com^
 @@||cdn.jsdelivr.net^
+@@||cdnjs.com^
+@@||cdnjs.cloudflare.com^
 @@||www.bootcdn.cn^
 @@||www.bootcss.com^
 @@||heroku.com^
@@ -1030,14 +1010,7 @@
 @@||xn--l6qx3l9s1a.com^
 @@||gamebanana.com^
 @@||webfiles.gamebanana.com^
-@@||www.papegames.com^
-@@||www.infoldgames.com^
-@@||www.papegames.cn^
-@@||www.nikkigames.cn^
-@@||paperpay.papegames.com^
-@@||assets.papegames.com^
 @@||papegames.qiyukf.com^
-@@||papegames.qiyukf.net^
 @@||mystyle.archosaur.com^
 @@||lifemakeovermysg.archosaur.com^
 @@||uploadstatic.mihoyo.com^

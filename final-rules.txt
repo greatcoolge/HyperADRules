@@ -639,7 +639,6 @@
 @@||about.com^
 @@||about.diigo.com^
 @@||about.flipboard.com^
-@@||about.gitlab.com^
 @@||about.me^
 @@||about.medium.com^
 @@||about.pinterest.com^
@@ -679,7 +678,6 @@
 @@||account-verification-man-seeking-man-mps.live^
 @@||account.adguard.com^
 @@||account.adobe.com^
-@@||account.agiso.com^
 @@||account.api.here.com^
 @@||account.apple.com^
 @@||account.dianping.com^
@@ -2613,7 +2611,6 @@
 @@||assets.nflxext.com^
 @@||assets.onestore.ms^
 @@||assets.oneweb.mercedes-benz.com^
-@@||assets.papegames.com^
 @@||assets.pinterest.com^
 @@||assets.roar.media^
 @@||assets.sb-cd.com^
@@ -5562,7 +5559,6 @@
 @@||docs.bitfinex.com^
 @@||docs.brightcove.com^
 @@||docs.bugsnag.com^
-@@||docs.doudou.fun^
 @@||docs.exchange.coinbase.com^
 @@||docs.fabric.io^
 @@||docs.google.com^
@@ -7246,7 +7242,6 @@
 @@||githubapp.com^
 @@||githubusercontent.com^
 @@||githubusercontent.com^$important
-@@||gitlab.cn^
 @@||gitlab.com^
 @@||gitter.im^
 @@||giv.red^
@@ -8513,7 +8508,6 @@
 @@||image.uc.cn^$important
 @@||image.uczzd.cn^
 @@||image.vuukle.com^
-@@||image.yijoys.com^
 @@||image.zzd.sm.cn^
 @@||image2.gtflixtv.com^
 @@||imagebam.com^
@@ -8612,6 +8606,7 @@
 @@||img.alibaba.com^
 @@||img.alicdn.com.danuoyi.alicdn.com^
 @@||img.alicdn.com^
+@@||img.alicdn.com^$important
 @@||img.animefreak.tv^
 @@||img.breitbart.com^
 @@||img.brightcove.com^
@@ -9139,7 +9134,6 @@
 @@||jiazhang.gm.163.com^
 @@||jiazhang.qq.com^
 @@||jieee.sbs^
-@@||jihulab.com^
 @@||jii.li^
 @@||jijr.com^
 @@||jikipedia.com^
@@ -12228,7 +12222,6 @@
 @@||n.opn.tl^
 @@||n.pr^
 @@||n.sinaimg.cn^
-@@||n0va-static.mihoyo.com^
 @@||n0va.mihoyo.com^
 @@||n2s.us^
 @@||n6.net^
@@ -13188,7 +13181,6 @@
 @@||pages.ebay.com^
 @@||pages.em.funimation.com^
 @@||pages.engage.xbox.com^
-@@||pages.github.com^
 @@||pages.soundcloud.com^
 @@||pages.status.xbox.com^
 @@||pages.typekit.com^
@@ -13211,9 +13203,7 @@
 @@||pantheonsite.io^
 @@||papago.naver.com^
 @@||papegames.qiyukf.com^
-@@||papegames.qiyukf.net^
 @@||paper.li^
-@@||paperpay.papegames.com^
 @@||paperspeedy.com^
 @@||parallels.com^
 @@||pardot.com^
@@ -16280,7 +16270,6 @@
 @@||static-pepper.dealabs.com^
 @@||static-res.qq.com^
 @@||static-resource.np.community.playstation.net^
-@@||static-web.mimikko.cn^
 @@||static-xl9-ssl.xunlei.com^
 @@||static.127777.com^
 @@||static.3001.net^
@@ -16322,7 +16311,6 @@
 @@||static.fxhome.com^
 @@||static.game.xiaomi.com^
 @@||static.gigabyte.com^
-@@||static.gitbook.com^
 @@||static.gotinder.com^
 @@||static.hdslb.com^
 @@||static.home.mi.com^
@@ -17872,7 +17860,6 @@
 @@||typekit.net^
 @@||typepad.com^
 @@||u-rl.li^
-@@||u.10010.cn^
 @@||u.163.com^
 @@||u.alicdn.com^
 @@||u.bb^
@@ -18943,7 +18930,6 @@
 @@||webapp.browser.intl.miui.com^
 @@||webapp.browser.miui.com^
 @@||webapps.entrance.sonymobile.com^
-@@||webapps.mimikko.cn^
 @@||webappstatic.buzzfeed.com^
 @@||webarnoldkamdem513.life^
 @@||webbrian.live^
@@ -19370,7 +19356,6 @@
 @@||www.ae911truth.org^
 @@||www.aeropress.com^
 @@||www.aetna.com^
-@@||www.agiso.com^
 @@||www.aiosearch.com^
 @@||www.airtable.com^
 @@||www.alcohol-soft.com^
@@ -19661,7 +19646,6 @@
 @@||www.domain.dot.tk^
 @@||www.domainwhoisinfo.com^
 @@||www.dot.tk^
-@@||www.doudou.fun^
 @@||www.douyin.com^
 @@||www.download.windowsupdate.com^
 @@||www.downloads.techrepublic.com^
@@ -19791,7 +19775,6 @@
 @@||www.ghproxy.cn^
 @@||www.gigapurbalingga.net^
 @@||www.ginjfo.com^
-@@||www.gitbook.com^
 @@||www.github.developerdan.com^
 @@||www.githubstatus.com^
 @@||www.gizbot.com^
@@ -19809,7 +19792,6 @@
 @@||www.goodolddownloads.com^
 @@||www.goodreads.com^
 @@||www.goofish.com^
-@@||www.goofish.pro^
 @@||www.google.ac^
 @@||www.google.ad^
 @@||www.google.ae^
@@ -20098,7 +20080,6 @@
 @@||www.indystar.com^
 @@||www.info.internet.org^
 @@||www.infoblox.com^
-@@||www.infoldgames.com^
 @@||www.ing-diba.de^
 @@||www.inputdirector.com^
 @@||www.instagram.com^
@@ -20256,7 +20237,6 @@
 @@||www.microg.org^
 @@||www.microsoft.com^
 @@||www.mimecast.com^
-@@||www.mimikko.cn^
 @@||www.minergate.com^
 @@||www.minhngoc.net.vn^
 @@||www.mini1.cn^
@@ -20320,7 +20300,6 @@
 @@||www.next.exchange^
 @@||www.nicehash.com^
 @@||www.niecko.pl^
-@@||www.nikkigames.cn^
 @@||www.nirsoft.net^
 @@||www.nls.techrepublic.com^
 @@||www.no-ip.com^
@@ -20371,8 +20350,6 @@
 @@||www.paessler.com^
 @@||www.pantheon.io^
 @@||www.pantheonsite.io^
-@@||www.papegames.cn^
-@@||www.papegames.com^
 @@||www.parse.ly^
 @@||www.parsely.com^
 @@||www.part.xbox.com^
@@ -21288,7 +21265,6 @@
 @@||zlra.co^
 @@||zlw.re^
 @@||zlwpq.com^
-@@||zmde.yijoys.com^
 @@||znly.in^
 @@||znt.bz^
 @@||zo.cm^
