@@ -962,6 +962,7 @@
 @@||assets.msn.cn^
 @@||assets.msn.com^
 @@||assets.oneweb.mercedes-benz.com^
+@@||assets.papegames.com^
 @@||assets.sb-cd.com^
 @@||assets.youlai.cn^
 @@||asso.in^
@@ -2112,6 +2113,7 @@
 @@||dntbs.info^
 @@||dntx.info^
 @@||do.co^
+@@||doburl.com^
 @@||dockerstatic.com^
 @@||dockr.ly^
 @@||docrdsfx76ssb.cloudfront.net^
@@ -2638,6 +2640,7 @@
 @@||fzwgn.sbs^
 @@||g-acs.m.goofish.com^
 @@||g-web.in^
+@@||g.alicdn.com^
 @@||g.asia^
 @@||g.co^
 @@||g.csdnimg.cn^
@@ -2650,6 +2653,7 @@
 @@||ga.co^
 @@||gaa.st^
 @@||gacha.christmas^
+@@||gacoer.win^
 @@||gacor.tokyo^
 @@||gacor123.red^
 @@||gacor22.me^
@@ -2662,6 +2666,7 @@
 @@||gacorwak.xyz^
 @@||galien.org^
 @@||galleryapi.micloud.xiaomi.net^
+@@||gallerylink.info^
 @@||galvanithina8.life^
 @@||game.163.com^
 @@||game.bilibili.com^
@@ -3093,6 +3098,8 @@
 @@||hoeg.it^
 @@||hoheo.sbs^
 @@||hoholah.xyz^
+@@||hoki22crot.com^
+@@||hokidana.vip^
 @@||hokie.co^
 @@||home.m.duiba.com.cn^
 @@||homes.jp^
@@ -3468,6 +3475,7 @@
 @@||jaenwoo.live^
 @@||jaga.link^
 @@||jaglil.com^
+@@||jagoan-hosting.online^
 @@||jajy.top^
 @@||jamaica-applicants.info^
 @@||jame.sn^
@@ -3593,6 +3601,7 @@
 @@||kaitect.com^
 @@||kaleysupport.life^
 @@||kand18.com^
+@@||kaos.link^
 @@||kapitalbank.live^
 @@||kapten69.life^
 @@||karaoke4kids.live^
@@ -4033,6 +4042,7 @@
 @@||livesport88.life^
 @@||livestre.am^
 @@||ljqlf.com^
+@@||lkdg.yoga^
 @@||lkdin.io^
 @@||lkgw.cc^
 @@||lkysrw.com^
@@ -4084,6 +4094,8 @@
 @@||login.sina.com.cn^
 @@||login.taobao.com^
 @@||logincdn.msauth.net^
+@@||logincuan1.com^
+@@||logincuan2.com^
 @@||loginmaxwin.pro^
 @@||loginsaja.website^
 @@||logs.game.qq.com^$important
@@ -4434,6 +4446,7 @@
 @@||miniurl.be^
 @@||miniurl.com^
 @@||miniurl.ir^
+@@||minl.in^
 @@||minu.be^
 @@||minu.me^
 @@||minurl.fr^
@@ -5329,7 +5342,6 @@
 @@||mystyle.archosaur.com^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
@@ -5756,6 +5768,8 @@
 @@||pan.quark.cn^
 @@||pancitkantonan.life^
 @@||papegames.qiyukf.com^
+@@||papegames.qiyukf.net^
+@@||paperpay.papegames.com^
 @@||paperspeedy.com^
 @@||parg.co^
 @@||parked-content.godaddy.com^$important
@@ -7185,6 +7199,7 @@
 @@||sqrl.it^
 @@||sqrx.io^
 @@||squ.re^
+@@||squadexp.link^
 @@||squadgen.com^
 @@||squareup.com^
 @@||squeez.org^
@@ -7711,6 +7726,7 @@
 @@||thenews24h.tech^
 @@||theogsocialnetwork.live^
 @@||theporndude.com^
+@@||theposhed.com^
 @@||thesa.us^
 @@||thesne.ws^
 @@||thesocial.vip^
@@ -8824,6 +8840,7 @@
 @@||www.hisense.com^
 @@||www.hoyoverse.com^
 @@||www.ijinshan.com^
+@@||www.infoldgames.com^
 @@||www.internetdownloadmanager.com^
 @@||www.ip138.com^
 @@||www.iqiyi.com^
@@ -8851,10 +8868,13 @@
 @@||www.mini1.cn^
 @@||www.mousouzoku-av.com^
 @@||www.msn.com^
+@@||www.nikkigames.cn^
 @@||www.nodeseek.com^
 @@||www.novelfm.com^
 @@||www.npmjs.com^
 @@||www.oreans.com^
+@@||www.papegames.cn^
+@@||www.papegames.com^
 @@||www.partner-ads.com^
 @@||www.patreon.com^
 @@||www.paypal.com^
@@ -9215,6 +9235,7 @@
 @@||zpr.io^
 @@||zpwd.info^
 @@||zqq.bio^
+@@||zrghosting.com^
 @@||zrlul.com^
 @@||zshort.io^
 @@||zshorten.com^

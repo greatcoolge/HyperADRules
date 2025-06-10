@@ -9,7 +9,7 @@
 # 规则说明A：列表规则均为网络冲浪时抓取，并已通过实机测试。
 # 规则说明B：规则具有时效性，使用前可自行排查当前域名是否有效。
 #************************************************************************#
-# 更新时间：2025-06-08
+# 更新时间：2025-06-09
 #************************************************************************#
 
 @@||intro.limestart.cn^
@@ -629,6 +629,7 @@
 @@||ssr.m.goofish.com^
 @@||video.goofish.com^
 @@||h5.m.goofish.com^
+@@||g.alicdn.com^
 @@||gjusp.alicdn.com^
 @@||www.goofish.pro^
 @@||api.qiniu.com^
@@ -1029,7 +1030,14 @@
 @@||xn--l6qx3l9s1a.com^
 @@||gamebanana.com^
 @@||webfiles.gamebanana.com^
+@@||www.papegames.com^
+@@||www.infoldgames.com^
+@@||www.papegames.cn^
+@@||www.nikkigames.cn^
+@@||paperpay.papegames.com^
+@@||assets.papegames.com^
 @@||papegames.qiyukf.com^
+@@||papegames.qiyukf.net^
 @@||mystyle.archosaur.com^
 @@||lifemakeovermysg.archosaur.com^
 @@||uploadstatic.mihoyo.com^
