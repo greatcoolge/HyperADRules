@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 09 Jun 2025 22:36 UTC
-! Version: 2025.0609.2236.07
+! Last modified: 11 Jun 2025 07:29 UTC
+! Version: 2025.0611.0729.21
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -3191,6 +3191,7 @@
 @@||mysp.ac^
 @@||mysurl.com^
 @@||mytd.cc^
+@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
