@@ -398,6 +398,7 @@
 @@||accommodatingly.xyz^
 @@||acconpit.com^
 @@||account-verification-man-seeking-man-mps.live^
+@@||account.agiso.com^
 @@||account.apple.com^
 @@||account.dianping.com^
 @@||account.xfinfr.com^
@@ -978,6 +979,7 @@
 @@||atharori.net^
 @@||athena168.vip^
 @@||athm.cn^
+@@||atid.me^
 @@||atimaze.com^
 @@||atlassbx.com^
 @@||atm.tk^
@@ -3294,7 +3296,7 @@
 @@||img-hw.xvideos-cdn.com^
 @@||img-l3.xnxx-cdn.com^
 @@||img-l3.xvideos-cdn.com^
-@@||img.alicdn.com^$important
+@@||img.alicdn.com^
 @@||img.client.10010.com^
 @@||img.kemono.su^
 @@||img.meituan.net^
@@ -8772,6 +8774,7 @@
 @@||www.54647.io^
 @@||www.9game.cn^
 @@||www.aboluowang.com^
+@@||www.agiso.com^
 @@||www.ali213.net^
 @@||www.anjuke.com^
 @@||www.apple.com.cn^
@@ -8807,6 +8810,7 @@
 @@||www.ferrari.com^
 @@||www.ghproxy.cn^
 @@||www.goofish.com^
+@@||www.goofish.pro^
 @@||www.google.cn^
 @@||www.google.com.hk^
 @@||www.google.com^

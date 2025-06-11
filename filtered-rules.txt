@@ -652,6 +652,7 @@ account-us.huami.com
 account-verification-man-seeking-man-mps.live
 account.adguard.com
 account.adobe.com
+account.agiso.com
 account.api.here.com
 account.apple.com
 account.dianping.com
@@ -2600,6 +2601,7 @@ atharori.net
 athemes.com
 athena168.vip
 athm.cn
+atid.me
 atimaze.com
 atlassbx.com
 atlassian.com
@@ -19088,6 +19090,7 @@ www.adobe.com
 www.ae911truth.org
 www.aeropress.com
 www.aetna.com
+www.agiso.com
 www.aiosearch.com
 www.airtable.com
 www.alcohol-soft.com
@@ -19523,6 +19526,7 @@ www.goldmoney.com
 www.goodolddownloads.com
 www.goodreads.com
 www.goofish.com
+www.goofish.pro
 www.google.ac
 www.google.ad
 www.google.ae

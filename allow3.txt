@@ -4,10 +4,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 05 Jun 2025 20:37 UTC
-! Version: 2025.0605.2037.59
+! Last modified: 10 Jun 2025 10:34 UTC
+! Version: 2025.0610.1034.02
 ! Syntax: AdBlock
-! Number of entries: 1704
+! Number of entries: 1705
 !
 @@||l.1mp.ru^
 @@||t.1und1.de^
@@ -97,6 +97,7 @@
 @@||engagements.appsflyer.com^
 @@||tr.apsis.one^
 @@||uns.apsis.one^
+@@||atid.me^
 @@||atimaze.com^
 @@||atlassbx.com^
 @@||r.audible.de^
