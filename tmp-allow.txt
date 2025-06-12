@@ -4246,6 +4246,7 @@
 @@||maejo.link^
 @@||maga.lu^
 @@||magybu.net^
+@@||maha77.site^
 @@||mahse.life^
 @@||mahse.live^
 @@||mai.91kami.com^
@@ -4411,6 +4412,7 @@
 @@||micpn.com^
 @@||microlinks.io^
 @@||microsoft.com^
+@@||microsoftaistories.com^
 @@||midas.gtimg.cn^
 @@||midiavip.com^
 @@||miffy.me^
@@ -5335,7 +5337,6 @@
 @@||mystyle.archosaur.com^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^

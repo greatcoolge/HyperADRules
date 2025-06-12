@@ -10602,6 +10602,7 @@
 @@||magic.cloud.vimeo.com^
 @@||magpie.daum.net^
 @@||magybu.net^
+@@||maha77.site^
 @@||mahse.life^
 @@||mahse.live^
 @@||mai.91kami.com^
@@ -11011,6 +11012,7 @@
 @@||microg.org^
 @@||microlinks.io^
 @@||microsoft.com^
+@@||microsoftaistories.com^
 @@||microsoftedgewelcome.microsoft.com^
 @@||microsoftonline.com^
 @@||microsoftwindowsupdate.net^
@@ -12199,7 +12201,6 @@
 @@||mysupport.sonymobile.com^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^

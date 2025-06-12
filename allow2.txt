@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 11 Jun 2025 07:29 UTC
-! Version: 2025.0611.0729.21
+! Last modified: 11 Jun 2025 22:42 UTC
+! Version: 2025.0611.2242.53
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -2889,6 +2889,7 @@
 @@||maejo.link^
 @@||maga.lu^
 @@||magybu.net^
+@@||maha77.site^
 @@||mahse.life^
 @@||mahse.live^
 @@||maicowa.xyz^
@@ -2998,6 +2999,7 @@
 @@||mic.fr^
 @@||michmed.org^
 @@||microlinks.io^
+@@||microsoftaistories.com^
 @@||midiavip.com^
 @@||miffy.me^
 @@||adlinkfly.mightyscripts.xyz^
@@ -3191,7 +3193,6 @@
 @@||mysp.ac^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||mytorus.live^
