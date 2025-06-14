@@ -797,6 +797,7 @@
 @@||api-03.moengage.com^
 @@||api-04.moengage.com^
 @@||api-05.moengage.com^
+@@||api-ap1.hubapi.com^
 @@||api-auto.hubapi.com^
 @@||api-edge.cognitive.microsofttranslator.com^
 @@||api-eu.cleverpush.com^
@@ -2944,6 +2945,7 @@
 @@||grpx.in^
 @@||gs.apple.com^
 @@||gsa.apple.com^
+@@||gskvn.live^
 @@||gsp0.baidu.com^
 @@||gsra.apple.com^
 @@||gst.bz^
@@ -3863,6 +3865,7 @@
 @@||lillink.xyz^
 @@||lilllil.ru^
 @@||liltext.com^
+@@||lilyfreeonlyfans.live^
 @@||limestart.cn^
 @@||limiteds.live^
 @@||lin-k.cc^
@@ -5230,6 +5233,7 @@
 @@||mpsapi.amap.com^
 @@||mq3.net^
 @@||mr-kern-al7.life^
+@@||mrkt.link^
 @@||mrte.ch^
 @@||mrturl.com^
 @@||mrx.bz^
@@ -5820,6 +5824,7 @@
 @@||pepsi.co^
 @@||personaclick.com^
 @@||pesc.pw^
+@@||petesmarketinghub.com^
 @@||petir.vip^
 @@||petrobr.as^
 @@||petterihollander.live^
@@ -7885,6 +7890,7 @@
 @@||tonyr.co^
 @@||toonily.com^
 @@||toonily.me^
+@@||top-sub-cve-len.live^
 @@||top.17173.com^
 @@||topfiften.com^
 @@||toplistt.com^

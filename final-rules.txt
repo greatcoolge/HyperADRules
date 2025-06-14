@@ -1970,6 +1970,7 @@
 @@||api-03.moengage.com^
 @@||api-04.moengage.com^
 @@||api-05.moengage.com^
+@@||api-ap1.hubapi.com^
 @@||api-auth.soundcloud.com^
 @@||api-auto.hubapi.com^
 @@||api-beta.huawei.com^
@@ -7760,6 +7761,7 @@
 @@||gs.wixapps.net^
 @@||gs2.ww.prod.dl.playstation.net^
 @@||gsa.apple.com^
+@@||gskvn.live^
 @@||gsmarena.com^
 @@||gsp0.baidu.com^
 @@||gsp1.apple.com^
@@ -9797,6 +9799,7 @@
 @@||lilllil.ru^
 @@||lilo.org^
 @@||liltext.com^
+@@||lilyfreeonlyfans.live^
 @@||limestart.cn^
 @@||limetorrents.info^
 @@||limited-prod.giphy.map.fastly.net^
@@ -12004,6 +12007,7 @@
 @@||mqtt.pushy.me^
 @@||mr-kern-al7.life^
 @@||mr.da.netease.com^
+@@||mrkt.link^
 @@||mrte.ch^
 @@||mrthumb.nabstudio.com^
 @@||mrturl.com^
@@ -13350,6 +13354,7 @@
 @@||personalweb.alipay.com^
 @@||pesc.pw^
 @@||petapixel.com^
+@@||petesmarketinghub.com^
 @@||petir.vip^
 @@||petrobr.as^
 @@||petterihollander.live^
@@ -17511,6 +17516,7 @@
 @@||tools.tracemyip.org^
 @@||toonily.com^
 @@||toonily.me^
+@@||top-sub-cve-len.live^
 @@||top.17173.com^
 @@||top.baidu.com^
 @@||top.cafe.daum.net^
