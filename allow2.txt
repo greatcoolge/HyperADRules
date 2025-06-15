@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 14 Jun 2025 10:46 UTC
-! Version: 2025.0614.1046.48
+! Last modified: 15 Jun 2025 10:44 UTC
+! Version: 2025.0615.1044.54
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -147,6 +147,7 @@
 @@||30na.ma^
 @@||31productions.de^
 @@||369.xn--6frz82g^
+@@||389sport.fun^
 @@||389sport.store^
 @@||3c5.com^
 @@||3ind.com^
@@ -182,6 +183,7 @@
 @@||4shorturl.app^
 @@||4sq.com^
 @@||4ton.com^
+@@||4uid.com^
 @@||4url.cc^
 @@||4x.si^
 @@||5.gp^
@@ -346,6 +348,7 @@
 @@||adesta.cc^
 @@||adf.ly^
 @@||adfa.st^
+@@||adfly.be^
 @@||adflydsp.com^
 @@||adflyfly.com^
 @@||adfoc.us^
@@ -2922,6 +2925,7 @@
 @@||mas.so^
 @@||masklink.org^
 @@||masuk-id.info^
+@@||masuksini.my^
 @@||masy.uk^
 @@||matchurl.com^
 @@||math-sm-9075.life^
