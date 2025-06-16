@@ -2857,6 +2857,7 @@
 @@||backpage.com^
 @@||backstage.soundcloud.com^
 @@||backstage.taboola.com^
+@@||bacn.me^
 @@||baconredirects-elb-eyweax7fhr0v-300945382.us-east-1.elb.amazonaws.com^
 @@||bad.news^
 @@||badge.stumbleupon.com^
@@ -3391,6 +3392,7 @@
 @@||bpapi.apple.com^
 @@||bpdmv.com^
 @@||bpl.kr^
+@@||bprl.site^
 @@||bpvkv.top^
 @@||bqdlp.com^
 @@||bqwpf.com^
@@ -3425,6 +3427,7 @@
 @@||brg.mobi^
 @@||bridge.dev^
 @@||bridgetrack.com^
+@@||bridging-analytics.life^
 @@||brief.ly^
 @@||brightcove.com^
 @@||brightcove.map.fastly.net^
@@ -3450,6 +3453,7 @@
 @@||browserapi.micloud.xiaomi.net^
 @@||brst.link^
 @@||brucezielke.life^
+@@||brzu.net^
 @@||bs.gravatar.com^
 @@||bs303.com^
 @@||bshare.me^
@@ -4208,6 +4212,7 @@
 @@||checkout.stripe.com^
 @@||checkout.vimeo.com^
 @@||checkshorturl.com^
+@@||cheftems.com^
 @@||chekc.life^
 @@||chem.sg^
 @@||chemistdirect.com.au^
@@ -4500,6 +4505,7 @@
 @@||cmail19.com^
 @@||cmail20.com^
 @@||cmbchina.com^
+@@||cml.lol^
 @@||cmon.co^
 @@||cmpassport.com^
 @@||cms-assets.unrealengine.com^
@@ -4822,6 +4828,7 @@
 @@||cpwuc.com^
 @@||cpy-crack.com^
 @@||cqhjbt.com^
+@@||cr.ma^
 @@||cr.naver.com^
 @@||cr2.shopping.naver.com^
 @@||cr8.lv^
@@ -5002,6 +5009,7 @@
 @@||cutth.com^
 @@||cutturl.xyz^
 @@||cutu.me^
+@@||cutur.link^
 @@||cuturl.com^
 @@||cuturl.net^
 @@||cuty.io^
