@@ -1086,7 +1086,6 @@
 @@||africa.pool.ntp.org^
 @@||aftonbladet.se^
 @@||aftv.news^
-@@||agbr.ir^
 @@||age-smart-ch.live^
 @@||agen303.live^
 @@||aghq.top^
@@ -5369,6 +5368,7 @@
 @@||dfkr77.com^
 @@||dfl8.me^
 @@||dfscdn.dfcfw.com^
+@@||dft.ba^
 @@||dfthethao.com^
 @@||dftoutiao.com^
 @@||dftp.flowplayer.com^
@@ -5548,6 +5548,7 @@
 @@||dmprd.com^
 @@||dmreg.co^
 @@||dms.ospserver.net^
+@@||dmvrenew.com^
 @@||dn.ospserver.net^
 @@||dn.se^
 @@||dn303.online^
@@ -5705,6 +5706,7 @@
 @@||dramafever.com^
 @@||draw.io^
 @@||dre.li^
+@@||dreamachievers.live^
 @@||dreamhost.com^
 @@||dreamshigh.life^
 @@||dribbble.com^
@@ -7004,6 +7006,7 @@
 @@||gacor99-vip.xyz^
 @@||gacora.biz^
 @@||gacorbos.me^
+@@||gacortangandewa.com^
 @@||gacortexas.co^
 @@||gacortexas.org^
 @@||gacorwak.xyz^
@@ -7083,6 +7086,7 @@
 @@||gclnk.com^
 @@||gcloudcs.com^
 @@||gcp.api.snapchat.com^
+@@||gcrs.live^
 @@||gcs.sc-cdn.net^
 @@||gdanstum.net^
 @@||gdcsite.cdnsrv.jio.com^
@@ -7692,6 +7696,7 @@
 @@||goto.pt^
 @@||goto.target.com^
 @@||gotoip55.com^
+@@||gotolink.host^
 @@||gotomypc.com^
 @@||gotrackier.com^
 @@||gotraffic.net^
@@ -16565,6 +16570,7 @@
 @@||storycor.ps^
 @@||storyfunding.daum.net^
 @@||storysharing.snapchat.com^
+@@||stpp.co^
 @@||straitstimes.com^
 @@||strangled.net^
 @@||strategosnet.com^
@@ -17645,6 +17651,7 @@
 @@||tracking.cashkaro.com^
 @@||tracking.epicgames.com^
 @@||tracking.feedpress.it^
+@@||tracking.ftmo.com^
 @@||tracking.groupon.com^
 @@||tracking.i2w.io^
 @@||tracking.nw.de^

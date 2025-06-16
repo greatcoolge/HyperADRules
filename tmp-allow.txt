@@ -632,7 +632,6 @@
 @@||affiliatefuture.com^
 @@||afly.in^
 @@||aftv.news^
-@@||agbr.ir^
 @@||age-smart-ch.live^
 @@||agen303.live^
 @@||aghq.top^
@@ -2039,6 +2038,7 @@
 @@||dfgameplay.com^
 @@||dfkr77.com^
 @@||dfl8.me^
+@@||dft.ba^
 @@||dfthethao.com^
 @@||dgmmx.com^
 @@||dgo.to^
@@ -2116,6 +2116,7 @@
 @@||dmm.co.jp^$important
 @@||dmprd.com^
 @@||dmreg.co^
+@@||dmvrenew.com^
 @@||dn303.online^
 @@||dna360.tw^
 @@||dnet.mb.qq.com^$important
@@ -2174,6 +2175,7 @@
 @@||dr-lisa.life^
 @@||drafthound.link^
 @@||dre.li^
+@@||dreamachievers.live^
 @@||dreamshigh.life^
 @@||drinks.me^
 @@||drive-h.quark.cn^
@@ -2670,6 +2672,7 @@
 @@||gacor99-vip.xyz^
 @@||gacora.biz^
 @@||gacorbos.me^
+@@||gacortangandewa.com^
 @@||gacortexas.co^
 @@||gacortexas.org^
 @@||gacorwak.xyz^
@@ -2708,6 +2711,7 @@
 @@||gc.apple.com^
 @@||gcable.com.cn^$important
 @@||gclnk.com^
+@@||gcrs.live^
 @@||gdanstum.net^
 @@||gdmf-ados.apple.com^
 @@||gdmf.apple.com^
@@ -2922,6 +2926,7 @@
 @@||goto.jet.com^
 @@||goto.pt^
 @@||goto.target.com^
+@@||gotolink.host^
 @@||gotrackier.com^
 @@||gourl.gr^
 @@||gourl.me^
@@ -7315,6 +7320,7 @@
 @@||storep.91haoka.cn^
 @@||stormurl.com^
 @@||storycor.ps^
+@@||stpp.co^
 @@||strategosnet.com^
 @@||stratoplot.com^
 @@||streamsb.net^
@@ -7972,6 +7978,7 @@
 @@||tracker.yoncamarket.com^
 @@||tracking.bol.com^
 @@||tracking.cashkaro.com^
+@@||tracking.ftmo.com^
 @@||tracking.publicidees.com^
 @@||tracking.s24.com^
 @@||tracking.socketlabs.com^
