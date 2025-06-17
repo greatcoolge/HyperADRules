@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 16 Jun 2025 22:45 UTC
-! Version: 2025.0616.2245.12
+! Last modified: 17 Jun 2025 10:48 UTC
+! Version: 2025.0617.1048.26
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -1391,6 +1391,7 @@
 @@||doburl.com^
 @@||dockr.ly^
 @@||docremedio.xyz^
+@@||docusignredirectsharepoint.life^
 @@||dogelexus.win^
 @@||doiop.com^
 @@||domi.link^
@@ -3001,6 +3002,7 @@
 @@||megawatts.live^
 @@||meinor.live^
 @@||melbetcom.life^
+@@||meliodaslonesita.live^
 @@||mely.me^
 @@||menang.win^
 @@||menangbola77.info^
@@ -3101,6 +3103,7 @@
 @@||mod.lk^
 @@||modash.link^
 @@||moj.jo^
+@@||mojidul24.info^
 @@||moklotz.live^
 @@||mollyminx.com^
 @@||mom-one-z-1991.life^
@@ -3446,6 +3449,7 @@
 @@||one9.one^
 @@||oneany.shop^
 @@||onelink.to^
+@@||onelovepalmbeaches.life^
 @@||onepl.us^
 @@||onforb.es^
 @@||onion.com^
@@ -3466,6 +3470,7 @@
 @@||opportunityonlinebusiness.com^
 @@||opr.as^
 @@||opr.news^
+@@||ops.consulting^
 @@||optimize.ly^
 @@||oqp.ru^
 @@||url.fti.or.th^
@@ -3532,6 +3537,7 @@
 @@||particulier-connexion.com^
 @@||partyspecial.life^
 @@||passion-radio.net^
+@@||past.is^
 @@||paste.ee^
 @@||pastiberkahh.com^
 @@||pastidubai1.com^
@@ -3554,6 +3560,7 @@
 @@||pd.am^
 @@||pdh.co^
 @@||pdora.co^
+@@||pdp.life^
 @@||pdxint.at^
 @@||pe.ga^
 @@||peak-prosperity.com^
@@ -3572,6 +3579,7 @@
 @@||petterihollander.live^
 @@||pew.org^
 @@||pewrsr.ch^
+@@||pferrer15.info^
 @@||pg3d.app^
 @@||pgat.us^
 @@||pggms.sbs^
@@ -3617,6 +3625,7 @@
 @@||pladollmo.com^
 @@||plannery.app^
 @@||planningwithszenee.com^
+@@||play-app.site^
 @@||playbokep.to^
 @@||pldthome.info^
 @@||plink.ir^
@@ -3910,6 +3919,7 @@
 @@||regalacasian8.life^
 @@||regmovi.es^
 @@||rehtek.live^
+@@||reive.site^
 @@||rekk.top^
 @@||relhh.com^
 @@||reline.cc^
@@ -4008,6 +4018,7 @@
 @@||rtube.nl^
 @@||rtvote.com^
 @@||rtxt.co^
+@@||goo-gl.ru.com^
 @@||bio.rub3n.io^
 @@||rupilinks.com^
 @@||ruplink.com^
@@ -4172,6 +4183,7 @@
 @@||shlink.io^
 @@||shln.me^
 @@||shlom.in^
+@@||shme.io^
 @@||shmz.me^
 @@||sho.cat^
 @@||sho.pe^
@@ -4261,6 +4273,7 @@
 @@||shortly.cyou^
 @@||shortly.im^
 @@||shortlync.com^
+@@||shortma.de^
 @@||shortmds.xyz^
 @@||shortme.me^
 @@||shortme.work^
@@ -4340,6 +4353,7 @@
 @@||shrunkin.com^
 @@||shss-ares.live^
 @@||sht.moe^
+@@||shtlink.eu^
 @@||shtnar.com^
 @@||shurl.fr^
 @@||shutr.bz^
@@ -4526,6 +4540,7 @@
 @@||y.stadtfabrikanten.org^
 @@||stanford.io^
 @@||start.fr^
+@@||startupperks.live^
 @@||starturl.com^
 @@||starz.tv^
 @@||staticprocessorsource.review^
@@ -4590,6 +4605,7 @@
 @@||swll.to^
 @@||swoo.sh^
 @@||swr1.cc^
+@@||swsupt.com^
 @@||swtt.cc^
 @@||short.swurl.xyz^
 @@||sxfy.info^

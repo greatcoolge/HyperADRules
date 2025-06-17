@@ -4977,6 +4977,7 @@ d.looks.wang
 d.minifun.games
 d.ns.campaign.adobe.com
 d.pr
+d.sinaimg.cn
 d.to
 d.toutiao.com
 d.xiaomi.com
@@ -5489,6 +5490,7 @@ docs.snapchat.com
 docs.vuukle.com
 doctor.ndtv.com
 doctorpk.mywibes.com
+docusignredirectsharepoint.life
 dog.bin
 dogelexus.win
 doh.dns.apple.com
@@ -6868,6 +6870,7 @@ g.msn.com
 g.page
 g.static.mega.co.nz
 g.udimg.com
+g.us.sinaimg.cn
 g00.me
 g00.msn.com
 g22jaya.me
@@ -7320,6 +7323,7 @@ goly.me
 gomomento.co
 goninja.live
 goo-gl.me
+goo-gl.ru.com
 goo-id.com
 goo.click
 goo.gl
@@ -7741,6 +7745,7 @@ h5.dingtalk.com
 h5.m.goofish.com
 h5.m.taobao.com
 h5.mi.com
+h5.sinaimg.cn
 h5api.m.goofish.com
 h5api.m.taobao.com
 h5api.m.tmall.com
@@ -9943,6 +9948,7 @@ liveinternet.ru
 livejournal.com
 livemu.sc
 livepassdl.conviva.com
+livephoto.us.sinaimg.cn
 livere.com
 liverpooldescarga.online
 livesport88.life
@@ -10412,6 +10418,7 @@ m.weather.com
 m.weather.gov
 m.webmd.com
 m.wechat.com
+m.weibo.cn
 m.weibo.com
 m.whitehouse.gov
 m.who.is
@@ -10782,6 +10789,7 @@ meizu.com
 meizu.com^
 mel1.speedtest.telstra.net
 melbetcom.life
+meliodaslonesita.live
 mely.me
 mem.gfx.ms
 member.bilibili.com
@@ -11352,6 +11360,7 @@ mkto-cs0007.com
 mkto-d0024.com
 mkto-d0064.com
 mkto-d0083.com
+mkto-d0087.com
 mkto-d0170.com
 mkto-d0177.com
 mkto-e0231.com
@@ -11452,6 +11461,7 @@ mkto-sj020052.com
 mkto-sj020159.com
 mkto-sj020171.com
 mkto-sj020238.com
+mkto-sj030022.com
 mkto-sj030081.com
 mkto-sj030085.com
 mkto-sj030161.com
@@ -11777,6 +11787,7 @@ moderation.spot.im
 modpim.com
 modyolo.com
 moj.jo
+mojidul24.info
 mojime.wechat.com
 moklotz.live
 mollyminx.com
@@ -12744,6 +12755,7 @@ oneid.mmstat.com
 onelink.me
 onelink.to
 onelogin.com
+onelovepalmbeaches.life
 oneocsp.microsoft.com
 onepl.us
 oneplus.com
@@ -12824,6 +12836,7 @@ opr.as
 opr.news
 oprah.com
 oprl.com
+ops.consulting
 optimize.ly
 optimizely.com
 optinmonster.com
@@ -13099,6 +13112,7 @@ passport.weibo.cn
 passport.weibo.com
 passport.yuewen.com
 password.kaspersky.com
+past.is
 paste.ee
 pastebin.com
 pasteboard.co
@@ -13164,6 +13178,7 @@ pdds.ucweb.com
 pdf-archive.com
 pdh.co
 pdora.co
+pdp.life
 pds13.cafe.daum.net
 pds37.cafe.daum.net
 pdst.fm
@@ -13210,6 +13225,7 @@ pew.org
 pewrsr.ch
 pexels.com
 pf-hpx-us1.mpay.samsung.com
+pferrer15.info
 pfga0.market.xiaomi.com
 pfsense.org
 pg-bootstrap.itunes.apple.com
@@ -13376,6 +13392,7 @@ platform.sharethis.com
 platform.stumbleupon.com
 platform.twitter.com
 platform.vine.co
+play-app.site
 play-asia.com
 play.163.com
 play.app.goo.gl
@@ -14276,6 +14293,7 @@ regmovi.es
 rehtek.live
 rei.com
 reimageplus.com
+reive.site
 rekk.top
 relay01.hitbtc.com
 release.theplatform.com
@@ -15293,6 +15311,7 @@ shlink-app.ifo.am
 shlink.io
 shln.me
 shlom.in
+shme.io
 shminorshort.weixin.qq.com
 shmz.me
 sho-rt.ru
@@ -15420,6 +15439,7 @@ shortly.click
 shortly.cyou
 shortly.im
 shortlync.com
+shortma.de
 shortmds.xyz
 shortme.me
 shortme.work
@@ -15506,6 +15526,7 @@ shrunken.com
 shrunkin.com
 shss-ares.live
 sht.moe
+shtlink.eu
 shtnar.com
 shuc-android.ksord.com
 shuju.mi.com
@@ -16052,6 +16073,7 @@ start.fr
 start.nirsoft.net
 start.www.daum.net
 startpage.com
+startupperks.live
 starturl.com
 starz.tv
 stat.10jqka.com.cn
@@ -16619,6 +16641,7 @@ swoo.sh
 swpinger.wip4.adobe.com
 swr1.cc
 swscan.apple.com
+swsupt.com
 swtt.cc
 swupmf.adobe.com
 sxfy.info
@@ -18658,6 +18681,7 @@ wb1.eu
 wbby.co
 wbca.st
 wbduy.top
+wbox.sinaimg.cn
 wbur.fm
 wbw6.pl
 wbze.de

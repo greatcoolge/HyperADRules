@@ -1942,6 +1942,7 @@
 @@||d.looks.wang^
 @@||d.minifun.games^
 @@||d.pr^
+@@||d.sinaimg.cn^
 @@||d.to^
 @@||d.toutiao.com^
 @@||d.yzh.li^
@@ -2132,6 +2133,7 @@
 @@||docrdsfx76ssb.cloudfront.net^
 @@||docremedio.xyz^
 @@||docs.idqqimg.com^
+@@||docusignredirectsharepoint.life^
 @@||dogelexus.win^
 @@||doh.dns.apple.com^
 @@||doiop.com^
@@ -2658,6 +2660,7 @@
 @@||g.csdnimg.cn^
 @@||g.page^
 @@||g.shumafen.cn^$important
+@@||g.us.sinaimg.cn^
 @@||g00.me^
 @@||g22jaya.me^
 @@||g58.update.netease.com^
@@ -2894,6 +2897,7 @@
 @@||gomomento.co^
 @@||goninja.live^
 @@||goo-gl.me^
+@@||goo-gl.ru.com^
 @@||goo-id.com^
 @@||goo.click^
 @@||goo.gl^
@@ -2999,6 +3003,7 @@
 @@||h5.m.goofish.com^
 @@||h5.m.taobao.com^
 @@||h5.m.taobao.com^$important
+@@||h5.sinaimg.cn^
 @@||h5api.m.goofish.com^
 @@||h5api.m.taobao.com^
 @@||h5api.m.tmall.com^
@@ -4060,6 +4065,7 @@
 @@||livebetter.website^
 @@||livehotdisini.baby^
 @@||livemu.sc^
+@@||livephoto.us.sinaimg.cn^
 @@||liverpooldescarga.online^
 @@||livesport88.life^
 @@||livestre.am^
@@ -4242,6 +4248,7 @@
 @@||m.video.xiaomi.com^
 @@||m.video.xiaomi.com^$important
 @@||m.vmall.com^
+@@||m.weibo.cn^
 @@||m.xiachufang.com^
 @@||m.xunlei.com^
 @@||m.yjwujian.cn^
@@ -4400,6 +4407,7 @@
 @@||meinor.live^
 @@||meizu.com^
 @@||melbetcom.life^
+@@||meliodaslonesita.live^
 @@||mely.me^
 @@||member.bilibili.com^
 @@||member.jiaoyimao.com^
@@ -4858,6 +4866,7 @@
 @@||mkto-d0024.com^
 @@||mkto-d0064.com^
 @@||mkto-d0083.com^
+@@||mkto-d0087.com^
 @@||mkto-d0170.com^
 @@||mkto-d0177.com^
 @@||mkto-e0231.com^
@@ -4958,6 +4967,7 @@
 @@||mkto-sj020159.com^
 @@||mkto-sj020171.com^
 @@||mkto-sj020238.com^
+@@||mkto-sj030022.com^
 @@||mkto-sj030081.com^
 @@||mkto-sj030085.com^
 @@||mkto-sj030161.com^
@@ -5225,6 +5235,7 @@
 @@||modash.link^
 @@||modyolo.com^
 @@||moj.jo^
+@@||mojidul24.info^
 @@||moklotz.live^
 @@||mollyminx.com^
 @@||mom-one-z-1991.life^
@@ -5646,6 +5657,7 @@
 @@||oneany.shop^
 @@||onelink.me^
 @@||onelink.to^
+@@||onelovepalmbeaches.life^
 @@||onepl.us^
 @@||onforb.es^
 @@||onion.com^
@@ -5671,6 +5683,7 @@
 @@||opportunityonlinebusiness.com^
 @@||opr.as^
 @@||opr.news^
+@@||ops.consulting^
 @@||optimize.ly^
 @@||oqp.ru^
 @@||oraclecloud.com^
@@ -5815,6 +5828,7 @@
 @@||passport.weibo.com^
 @@||passport.youdao.com^$important
 @@||passport.yuewen.com^
+@@||past.is^
 @@||paste.ee^
 @@||pastiberkahh.com^
 @@||pastidubai1.com^
@@ -5842,6 +5856,7 @@
 @@||pdc.micloud.xiaomi.net^$important
 @@||pdh.co^
 @@||pdora.co^
+@@||pdp.life^
 @@||pdxint.at^
 @@||pe.ga^
 @@||peak-prosperity.com^
@@ -5863,6 +5878,7 @@
 @@||petterihollander.live^
 @@||pew.org^
 @@||pewrsr.ch^
+@@||pferrer15.info^
 @@||pfga0.market.xiaomi.com^
 @@||pg-bootstrap.itunes.apple.com^
 @@||pg3d.app^
@@ -5944,6 +5960,7 @@
 @@||pladollmo.com^
 @@||plannery.app^
 @@||planningwithszenee.com^
+@@||play-app.site^
 @@||play.163.com^
 @@||play.itunes.apple.com^
 @@||play2.nitai.no^
@@ -6388,6 +6405,7 @@
 @@||registry.npmmirror.com^
 @@||regmovi.es^
 @@||rehtek.live^
+@@||reive.site^
 @@||rekk.top^
 @@||relhh.com^
 @@||reline.cc^
@@ -6846,6 +6864,7 @@
 @@||shlink.io^
 @@||shln.me^
 @@||shlom.in^
+@@||shme.io^
 @@||shminorshort.weixin.qq.com^
 @@||shmz.me^
 @@||sho-rt.ru^
@@ -6947,6 +6966,7 @@
 @@||shortly.cyou^
 @@||shortly.im^
 @@||shortlync.com^
+@@||shortma.de^
 @@||shortmds.xyz^
 @@||shortme.me^
 @@||shortme.work^
@@ -7029,6 +7049,7 @@
 @@||shrunkin.com^
 @@||shss-ares.live^
 @@||sht.moe^
+@@||shtlink.eu^
 @@||shtnar.com^
 @@||shurl.fr^
 @@||shutr.bz^
@@ -7269,6 +7290,7 @@
 @@||stanford.io^
 @@||starlusts.com^
 @@||start.fr^
+@@||startupperks.live^
 @@||starturl.com^
 @@||starz.tv^
 @@||stat.api.4399.com^
@@ -7469,6 +7491,7 @@
 @@||swoo.sh^
 @@||swr1.cc^
 @@||swscan.apple.com^
+@@||swsupt.com^
 @@||swtt.cc^
 @@||sxfy.info^
 @@||sxzlj.top^
@@ -8072,6 +8095,11 @@
 @@||tuwmc.sbs^
 @@||tv.sohu.com^
 @@||tv.xunlei.com^
+@@||tva1.sinaimg.cn^
+@@||tvax1.sinaimg.cn^
+@@||tvax2.sinaimg.cn^
+@@||tvax3.sinaimg.cn^
+@@||tvax4.sinaimg.cn^
 @@||tvepg.pandora.xiaomi.com^$important
 @@||tvonlineappitv.life^
 @@||tvonlineappitv.live^
@@ -8632,6 +8660,7 @@
 @@||wbapp.mobile.sina.cn^$important
 @@||wbby.co^
 @@||wbduy.top^
+@@||wbox.sinaimg.cn^
 @@||wbur.fm^
 @@||wbw6.pl^
 @@||wbze.de^
@@ -8682,6 +8711,7 @@
 @@||weelink.io^
 @@||wef.ch^
 @@||weibo.cn^$important
+@@||weibo.com^
 @@||weidian.com^$important
 @@||weiming.info^
 @@||weishi.360.cn^
@@ -8950,7 +8980,11 @@
 @@||wwww.destockdrive.com^
 @@||wwy.me^
 @@||wx.qlogo.cn^
+@@||wx1.sinaimg.cn^
+@@||wx2.sinaimg.cn^
 @@||wx2.sinaimg.cn^$important
+@@||wx3.sinaimg.cn^
+@@||wx4.sinaimg.cn^
 @@||wxaurl.cn^
 @@||wxdib.sbs^
 @@||wxmini-api.uyouqu.com^
