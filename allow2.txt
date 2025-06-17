@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 16 Jun 2025 10:46 UTC
-! Version: 2025.0616.1046.14
+! Last modified: 16 Jun 2025 22:45 UTC
+! Version: 2025.0616.2245.12
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -928,6 +928,7 @@
 @@||calendrierbdp.info^
 @@||camillalaprincessagroup.life^
 @@||can.al^
+@@||candicegilmerauthor.com^
 @@||canon.us^
 @@||capcaifu.com^
 @@||capital.one^
@@ -2211,6 +2212,7 @@
 @@||iii.hm^
 @@||iii.im^
 @@||iiiii.in^
+@@||iiil.io^
 @@||iikzi.top^
 @@||iiwap.top^
 @@||ijg.cc^
@@ -2300,6 +2302,7 @@
 @@||isc-vn.com^
 @@||isc-vn.org^
 @@||iscool.net^
+@@||ishortify.com^
 @@||isols.co^
 @@||isot2024.live^
 @@||istubby.com^
@@ -2325,6 +2328,7 @@
 @@||iurl.one^
 @@||iurl.us^
 @@||iuu.ro^
+@@||iwo.ir^
 @@||iwr.link^
 @@||ix.sk^
 @@||iyc.life^
@@ -2352,6 +2356,7 @@
 @@||japkq.com^
 @@||javadocs.org^
 @@||jaw.gg^
+@@||jaygo.xyz^
 @@||jb.gg^
 @@||jbqdo.com^
 @@||go.jc.fm^
@@ -2365,6 +2370,7 @@
 @@||jejuwin.live^
 @@||jellyurl.com^
 @@||jenoriana.bio^
+@@||jeruk.link^
 @@||jesse-hall-igan112.life^
 @@||jessestonecedar.live^
 @@||jetzt.work^
@@ -2502,6 +2508,7 @@
 @@||kko.to^
 @@||kkstre.am^
 @@||hi.kktv.to^
+@@||kl.am^
 @@||kla.me^
 @@||klas.ws^
 @@||klck.me^
@@ -2534,6 +2541,7 @@
 @@||kpmg.ch^
 @@||kr.pe^
 @@||kr3w.de^
+@@||kratsi.cz^
 @@||krazy.la^
 @@||kriizuh-rig-09.info^
 @@||krishnaraosivaramas.life^
@@ -2700,7 +2708,9 @@
 @@||linkerr.io^
 @@||linkexpander.com^
 @@||linkf.su^
+@@||linkfat.com^
 @@||linkfly.app^
+@@||linkfly.me^
 @@||linkfly.to^
 @@||linkfr.ee^
 @@||linkfuly.com^
@@ -2934,6 +2944,7 @@
 @@||marisofpage.xyz^
 @@||marketclan.com^
 @@||marketingfyte.live^
+@@||marveliness.com^
 @@||mas.si^
 @@||mas.so^
 @@||masklink.org^
@@ -3091,6 +3102,7 @@
 @@||modash.link^
 @@||moj.jo^
 @@||moklotz.live^
+@@||mollyminx.com^
 @@||mom-one-z-1991.life^
 @@||grow.momentumproject.finance^
 @@||momo.dm^
@@ -3115,6 +3127,7 @@
 @@||motpe.sbs^
 @@||motphimz.live^
 @@||mou.sr^
+@@||movevibe.life^
 @@||mpl.pm^
 @@||mpo-link.com^
 @@||mpo228.life^
@@ -3182,6 +3195,7 @@
 @@||mycts.app^
 @@||mycts.info^
 @@||mydemetrius.life^
+@@||myduke.life^
 @@||myf.mg^
 @@||myfonts.us^
 @@||myfreesex.life^
@@ -3270,6 +3284,7 @@
 @@||neoyoyo33ofc.live^
 @@||mylinks.net.br^
 @@||neti.cc^
+@@||netizen303.org^
 @@||netm.ag^
 @@||networking-htx.com^
 @@||newcecianajada271928.life^
@@ -3313,6 +3328,7 @@
 @@||nlc.mobi^
 @@||nmrk.re^
 @@||nmw.news^
+@@||nn.nf^
 @@||nnm.hu^
 @@||nnn.is^
 @@||nnna.ru^

@@ -3684,6 +3684,7 @@
 @@||campaigns.sonymobile.com^
 @@||campus.163.com^
 @@||can.al^
+@@||candicegilmerauthor.com^
 @@||cane.com^
 @@||canhaz.com^
 @@||canon.us^
@@ -7027,6 +7028,7 @@
 @@||game.chat.mi.com^
 @@||game.daum.net^
 @@||game.dcinside.com^
+@@||game.eve.mdt.qq.com^
 @@||game.gtimg.cn^
 @@||game.internetat.tv^
 @@||game.line.me^
@@ -8480,6 +8482,7 @@
 @@||iii.hm^
 @@||iii.im^
 @@||iiiii.in^
+@@||iiil.io^
 @@||iikzi.top^
 @@||iiwap.top^
 @@||ijg.cc^
@@ -9000,6 +9003,7 @@
 @@||isee.weishi.qq.com^
 @@||iservice.10010.com^
 @@||iservice.fuzelfiles.com^
+@@||ishortify.com^
 @@||islamweb.net^
 @@||isols.co^
 @@||isot2024.live^
@@ -9060,6 +9064,7 @@
 @@||iuu.ro^
 @@||iv-h.phncdn.com^
 @@||iwifi.360.cn^
+@@||iwo.ir^
 @@||iwork.apple.com^
 @@||iwr.link^
 @@||iwx.mail.qq.com^
@@ -9109,6 +9114,7 @@
 @@||javdict.disqus.com^
 @@||javfinder.ai^
 @@||jaw.gg^
+@@||jaygo.xyz^
 @@||jb.gg^
 @@||jbhifi.com.au^
 @@||jbqdo.com^
@@ -9135,6 +9141,7 @@
 @@||jenkins.playstation.com^
 @@||jenkins.xda-developers.com^
 @@||jenoriana.bio^
+@@||jeruk.link^
 @@||jesse-hall-igan112.life^
 @@||jessestonecedar.live^
 @@||jetzt.bekservice.co.uk^
@@ -9446,6 +9453,7 @@
 @@||kkne.ws^
 @@||kko.to^
 @@||kkstre.am^
+@@||kl.am^
 @@||kl.ik.my^
 @@||kla.me^
 @@||klas.ws^
@@ -9513,6 +9521,7 @@
 @@||kr.wikipedia.com^
 @@||kr3w.de^
 @@||krakow.tvp.pl^
+@@||kratsi.cz^
 @@||krazy.la^
 @@||krdic.naver.com^
 @@||kriizuh-rig-09.info^
@@ -9907,7 +9916,9 @@
 @@||linkerr.io^
 @@||linkexpander.com^
 @@||linkf.su^
+@@||linkfat.com^
 @@||linkfly.app^
+@@||linkfly.me^
 @@||linkfly.to^
 @@||linkfr.ee^
 @@||linkfuly.com^
@@ -10764,6 +10775,7 @@
 @@||marktplaats.nl^
 @@||marriott.com^
 @@||mars.jd.com^$important
+@@||marveliness.com^
 @@||marx.libcom.org^
 @@||mas-ext.amazon.com^
 @@||mas.si^
@@ -10841,6 +10853,7 @@
 @@||mdmehedi474156.live^
 @@||mdmenrollment.apple.com^
 @@||mdska.com^
+@@||mdt.qq.com^
 @@||mdyvah.com^
 @@||me-en.kaspersky.com^
 @@||me-qr.com^
@@ -11940,6 +11953,7 @@
 @@||moj.jo^
 @@||mojime.wechat.com^
 @@||moklotz.live^
+@@||mollyminx.com^
 @@||mom-one-z-1991.life^
 @@||moments-photos.gotinder.com^
 @@||momo.dm^
@@ -11982,6 +11996,7 @@
 @@||mou.sr^
 @@||mouseflow.com^
 @@||movable-ink-2183.com^
+@@||movevibe.life^
 @@||movie.daum.net^
 @@||movie.naver.com^
 @@||movie2k.to^
@@ -12173,6 +12188,7 @@
 @@||mycts.info^
 @@||mydealz.digidip.net^
 @@||mydemetrius.life^
+@@||myduke.life^
 @@||myer.com.au^
 @@||myf.mg^
 @@||myfico.com^
@@ -12370,6 +12386,7 @@
 @@||netflux.cloud.vimeo.com^
 @@||netherlands.hide.me^
 @@||neti.cc^
+@@||netizen303.org^
 @@||netlify.com^
 @@||netm.ag^
 @@||netroam.mihome.intl.xiaomi.net^
@@ -12537,6 +12554,7 @@
 @@||nmobi.kuwo.cn^
 @@||nmrk.re^
 @@||nmw.news^
+@@||nn.nf^
 @@||nnm.hu^
 @@||nnn.is^
 @@||nnna.ru^
