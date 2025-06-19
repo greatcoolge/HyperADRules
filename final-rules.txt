@@ -2882,6 +2882,7 @@
 @@||bam.nr-data.net^
 @@||bamaccoin.com^
 @@||bamgrid.com^
+@@||banaccroblox.com^
 @@||bandcamp.com^
 @@||bandwagonhost.com^
 @@||banggood.com^
@@ -3368,6 +3369,7 @@
 @@||bordonet.info^
 @@||bos.ngo^
 @@||bose.life^
+@@||boshoki.biz^
 @@||boss.static.xiaomi.net^
 @@||bossaudioandcomic-1252317822.image.myqcloud.com^
 @@||boston-services.gabriels.net^
@@ -9333,6 +9335,7 @@
 @@||kaggi-karr.life^
 @@||kaipuyun.cn^
 @@||kaitect.com^
+@@||kajtech.live^
 @@||kakaotv.daum.net^
 @@||kaleysupport.life^
 @@||kaltura.com^

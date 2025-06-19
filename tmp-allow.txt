@@ -1077,6 +1077,7 @@
 @@||baixeapk.com^
 @@||balls.no^
 @@||bamaccoin.com^
+@@||banaccroblox.com^
 @@||bankcomm.com^
 @@||baratun.de^
 @@||barbenady.live^
@@ -1280,6 +1281,7 @@
 @@||bordonet.info^
 @@||bos.ngo^
 @@||bose.life^
+@@||boshoki.biz^
 @@||bossaudioandcomic-1252317822.image.myqcloud.com^
 @@||boston25.com^
 @@||bot.fi^
@@ -3621,6 +3623,7 @@
 @@||kabuzzle.com^
 @@||kaggi-karr.life^
 @@||kaitect.com^
+@@||kajtech.live^
 @@||kaleysupport.life^
 @@||kand18.com^
 @@||kaos.link^
