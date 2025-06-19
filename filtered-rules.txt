@@ -3716,6 +3716,7 @@ cc3001.dmm.co.jp
 ccare-sts.huawei.com
 ccare.crm.huawei.com
 ccb.internet.sony.tv
+ccc-x.jd.com
 ccc.sys.intl.xiaomi.com
 ccc.sys.miui.com
 cccc.one
@@ -7187,6 +7188,7 @@ globalping.gotinder.com
 globalupload.io
 globo.com
 gloimg.gbtcdn.com
+gloshukadamiava2.live
 gloyah.net
 glyph.medium.com
 gm.163.com
@@ -7882,6 +7884,8 @@ henesyphotos.live
 henrys.com
 hentaihand.com
 hentaihaven.org
+heoiberico.life
+heotoc.life
 her.is
 herbeauty.co
 here.com
