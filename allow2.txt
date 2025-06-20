@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 19 Jun 2025 18:22 UTC
-! Version: 2025.0619.1822.33
+! Last modified: 20 Jun 2025 10:45 UTC
+! Version: 2025.0620.1045.46
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -3133,6 +3133,18 @@
 @@||momonez1991.live^
 @@||momonez1991site.life^
 @@||mondoagram.com^
+@@||monghaiba.life^
+@@||monghaibon.live^
+@@||monghaihai.life^
+@@||monghaimuoi.live^
+@@||monghainam.life^
+@@||mongmuoiba.life^
+@@||mongmuoibay.live^
+@@||mongmuoibon.live^
+@@||mongmuoichin.life^
+@@||mongmuoinam.life^
+@@||mongmuoisau.life^
+@@||mongmuoitam.live^
 @@||monidentie.info^
 @@||mono-gog-o.life^
 @@||monopolycollectdice.xyz^
