@@ -7684,6 +7684,7 @@
 @@||tnw.to^
 @@||tny.cz^
 @@||tny.im^
+@@||tny.lv^
 @@||tny.sh^
 @@||tny.so^
 @@||tny.xyz^
