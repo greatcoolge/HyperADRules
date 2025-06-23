@@ -1766,6 +1766,7 @@ ana.ms
 anacapiaestevezortiz.life
 anacon.org
 analidiaestevezortizs.life
+analytics-api.smzdm.com
 analytics-eu.trustyou.com
 analytics.agoda.com
 analytics.edgesuite.net
@@ -5815,6 +5816,7 @@ er.search.naver.com
 erath.email
 erax.cz
 erdch.com
+erebor.douban.com
 ereg.adobe.com
 ereg.wip3.adobe.com
 eren.chia-anime.tv
@@ -14763,6 +14765,7 @@ silasasanti0543.live
 silo.pluto.tv
 siloh.pluto.tv
 simage.gshifen.com
+simg.sinajs.cn
 simgr.id
 similarweb.com
 simp.ly

@@ -1130,6 +1130,7 @@
 @@||amplitude.com^
 @@||amzn.to^
 @@||ana.fr^
+@@||analytics-api.smzdm.com^
 @@||analytics.agoda.com^
 @@||analytics.edgesuite.net^
 @@||analytics.google.com^
@@ -3896,6 +3897,7 @@
 @@||epochtimes.org^
 @@||eq.10jqka.com.cn^
 @@||er.search.naver.com^
+@@||erebor.douban.com^
 @@||ereg.adobe.com^
 @@||ereg.wip3.adobe.com^
 @@||eren.chia-anime.tv^
@@ -8956,6 +8958,7 @@
 @@||silo.pluto.tv^
 @@||siloh.pluto.tv^
 @@||simage.gshifen.com^
+@@||simg.sinajs.cn^
 @@||similarweb.com^
 @@||simple.wikipedia.com^
 @@||simply.com^
