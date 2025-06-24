@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 23 Jun 2025 18:22 UTC
-! Version: 2025.0623.1822.13
+! Last modified: 24 Jun 2025 06:46 UTC
+! Version: 2025.0624.0646.05
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -1008,6 +1008,7 @@
 @@||chng.it^
 @@||chogoon.com^
 @@||chts.tw^
+@@||chudaitrieuview.info^
 @@||chudaixxx.life^
 @@||chuyenvienming.life^
 @@||chx.to^
