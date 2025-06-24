@@ -670,8 +670,6 @@ acquisition-1.americanexpress.com
 acr-search.sonymobile.com
 acr.sonymobile.com
 acr0.samsungcloudsolution.com
-acrefo.com
-acrestic.com
 acrobat.adobe.com
 acroipm.adobe.com
 acroipm2.adobe.com
@@ -824,7 +822,6 @@ ads.so
 ads.talkbusiness.net
 ads.twitter.com
 adscendmedia.com
-adsclicks.life
 adservice.google.ae
 adservice.google.al
 adservice.google.am
@@ -1808,7 +1805,6 @@ animedigitalnetwork.fr
 animefreak.tv
 animeheaven.eu
 animeseason.com
-anisepretzel.com
 anizam.ru
 anninhthudo.vn
 announce.xxx-tracker.com
@@ -2957,7 +2953,6 @@ bitlee.site
 bitli.pro
 bitly.bz
 bitly.com
-bitly.email
 bitly.gold
 bitly.im
 bitly.is
@@ -2981,7 +2976,6 @@ bittorrent.com
 bittrex.com
 bittylink.com
 bittyurl.co
-biturl.site
 biturl.top
 bitw.in
 bityl.co
@@ -4331,6 +4325,7 @@ coffeecup.com
 cognito-identity.us-east-1.amazonaws.com
 coinbarlink.net
 coinbase.com
+coinbasesupports.live
 coinmama.com
 coinmarketcap.com
 coinmine.pl
@@ -7563,6 +7558,7 @@ heybit.link
 heylink.me
 heytapimage.com
 heyue.xiaomi.com
+heyyyl.ink
 hf.co
 hfddh.sbs
 hfwrental.live
@@ -8510,7 +8506,6 @@ iurl.us
 iutoic-dhaka.edu
 iuu.ro
 iwifi.360.cn
-iwo.ir
 iwork.apple.com
 iwr.link
 iwx.mail.qq.com
@@ -8614,6 +8609,7 @@ jira.flipboard.com
 jira.gotinder.com
 jira.shop.samsung.com
 jira.xda-developers.com
+jjlco.net
 jkf.lv
 jkhzk.sbs
 jkwog.sbs
@@ -9408,6 +9404,7 @@ lists.blocklist.de
 lists.flipboard.com
 lists.noads.online
 lit-bin-ny-65.info
+lit-url.com
 lithium.com
 lithium.facebook.com
 litl.cc
@@ -10126,6 +10123,7 @@ mazu.sec.miui.com
 mbapp.io
 mbayaq.co
 mbd.baidu.com
+mbdns.uk
 mbest.aliexpress.com
 mbl.is
 mboxedge34.tt.omtrdc.net
@@ -11693,6 +11691,7 @@ newslink.reuters.com
 newsmax.com
 newsroom.fb.com
 newsroom.pinterest.com
+newss.info
 newssearch.naver.com
 newsweek.com
 newvector.map.baidu.com
@@ -12168,7 +12167,6 @@ onlineclothes.live
 onlinekassirjessica.life
 onlinevideoconverter.com
 onlyfansamairanidiaz.live
-onlyfanscaycoleman.live
 onlyfansclub.live
 onmpeg.com
 onon.in
@@ -13728,7 +13726,6 @@ road.adblock.ro
 roadandtrack.com
 roar.media
 robertdray2.live
-robloxgroup.life
 robloxtech.live
 robul.saas.workertm.com
 rochester.edu
@@ -14160,7 +14157,6 @@ schibsted.io
 schibsted.se
 scholar.google.com
 school.apple.com
-schoolstorehms.live
 science.howstuffworks.com
 science.twitch.tv
 sciencedaily.com
@@ -14938,7 +14934,6 @@ snahp.it
 snap.com
 snapchat-payments-gateway.snapchat.com
 snapchat.com
-snapchats.life
 snapdeal.com
 snapi.live.net
 snappublisher.snapchat.com
@@ -16071,7 +16066,6 @@ tealium.cbsnews.com
 team.diigo.com
 team.stumbleupon.com
 teamline.live
-teamrrqslot188.live
 teams.microsoft.com
 teamviewer.com
 teaparty.org
@@ -16601,7 +16595,6 @@ travel.latimes.com
 travel.rakuten.co.jp
 travelocity.com
 travl.rs
-travslyf.katatillo.com
 trbas.com
 trck.me
 trclo.top
@@ -17348,8 +17341,6 @@ vcaun.com
 vcrypt.net
 vcs.snssdk.com
 vcwvb.com
-vd0.pro
-vd1.pro
 vd55.com
 vdio.pro
 vea.link
@@ -17459,7 +17450,6 @@ view.vzaar.com
 vig.fit
 vigilink.com
 viglink.com
-vim-tiktok.live
 vimeo.com
 vincenaja46.live
 vine.co
@@ -17792,7 +17782,6 @@ webdisk.sitcomsonline.com
 webep1.com
 weberdesign.life
 webflow.grsm.io
-webgoogle.live
 webgrab.wechat.com
 webhostingtalk.com
 webi.li
@@ -17979,7 +17968,6 @@ wiuqz.com
 wix.com
 wixapps.net
 wixsite.com
-wjcf.co
 wjib.top
 wjsxb.com
 wkf.ms
@@ -19608,7 +19596,6 @@ xing.com
 xinhuanet.com
 xiqi.us
 xj-n-tax.gov.cn
-xjroy.com
 xjyus.sbs
 xk.me
 xkcd.com
@@ -19878,7 +19865,6 @@ zebou.live
 zebous.life
 zecz.ec
 zee.cws.conviva.com
-zeek.ir
 zeep.ly
 zeit.co
 zejop.top

@@ -344,8 +344,6 @@
 @@||acessa.app^
 @@||acg.kr^
 @@||acortar.link^
-@@||acrefo.com^
-@@||acrestic.com^
 @@||acrt.us^
 @@||act.gp^
 @@||action.metaffiliation.com^
@@ -397,7 +395,6 @@
 @@||adrians-guzman-81.life^
 @@||ads.so^
 @@||adscendmedia.com^
-@@||adsclicks.life^
 @@||adservice.google.ae^
 @@||adservice.google.al^
 @@||adservice.google.am^
@@ -661,7 +658,6 @@
 @@||ane.ong^
 @@||anep.top^
 @@||angl.at^
-@@||anisepretzel.com^
 @@||anizam.ru^
 @@||anon.to^
 @@||anp.su^
@@ -991,7 +987,6 @@
 @@||bitli.pro^
 @@||bitly.bz^
 @@||bitly.com^
-@@||bitly.email^
 @@||bitly.gold^
 @@||bitly.im^
 @@||bitly.is^
@@ -1010,7 +1005,6 @@
 @@||bitshrt.com^
 @@||bittylink.com^
 @@||bittyurl.co^
-@@||biturl.site^
 @@||biturl.top^
 @@||bitw.in^
 @@||bityl.co^
@@ -1481,6 +1475,7 @@
 @@||codimenu.com^
 @@||cofe.io^
 @@||coinbarlink.net^
+@@||coinbasesupports.live^
 @@||coinpr.info^
 @@||coki.me^
 @@||coklat.vip^
@@ -2552,6 +2547,7 @@
 @@||hex.io^
 @@||heybit.link^
 @@||heylink.me^
+@@||heyyyl.ink^
 @@||hf.co^
 @@||hfddh.sbs^
 @@||hfwrental.live^
@@ -2843,7 +2839,6 @@
 @@||iurl.one^
 @@||iurl.us^
 @@||iuu.ro^
-@@||iwo.ir^
 @@||iwork.apple.com^
 @@||iwr.link^
 @@||ix.sk^
@@ -2902,6 +2897,7 @@
 @@||jio.sh^
 @@||jiourl.com^
 @@||jipu.info^
+@@||jjlco.net^
 @@||jkf.lv^
 @@||jkhzk.sbs^
 @@||jkwog.sbs^
@@ -3358,6 +3354,7 @@
 @@||list-unsubscribe.eservice.emarsys.net^
 @@||listaderoger.live^
 @@||lit-bin-ny-65.info^
+@@||lit-url.com^
 @@||litl.cc^
 @@||litt.xyz^
 @@||little.im^
@@ -3578,6 +3575,7 @@
 @@||mayocl.in^
 @@||mbapp.io^
 @@||mbayaq.co^
+@@||mbdns.uk^
 @@||mboxedge34.tt.omtrdc.net^
 @@||mboxedge35.tt.omtrdc.net^
 @@||mbx.events^
@@ -4613,6 +4611,7 @@
 @@||newsletter.urcelia.com^
 @@||newsletter2go.com^
 @@||newslink.reuters.com^
+@@||newss.info^
 @@||nextdrop.bz^
 @@||nexturl.in^
 @@||nextworm.com^
@@ -4793,7 +4792,6 @@
 @@||onlineclothes.live^
 @@||onlinekassirjessica.life^
 @@||onlyfansamairanidiaz.live^
-@@||onlyfanscaycoleman.live^
 @@||onlyfansclub.live^
 @@||onon.in^
 @@||onx.la^
@@ -5450,7 +5448,6 @@
 @@||ro-go.kelkoogroup.net^
 @@||ro.blox.com^
 @@||robertdray2.live^
-@@||robloxgroup.life^
 @@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||roclcdfab.cc.rs6.net^
@@ -5654,7 +5651,6 @@
 @@||scbetgacorr.org^
 @@||sched.co^
 @@||school.apple.com^
-@@||schoolstorehms.live^
 @@||scientificglobalevents.com^
 @@||sck.io^
 @@||sclix.com^
@@ -6044,7 +6040,6 @@
 @@||smurl.fr^
 @@||smurl.link^
 @@||sn.im^
-@@||snapchats.life^
 @@||snapt.io^
 @@||snar.co^
 @@||snd.sc^
@@ -6481,7 +6476,6 @@
 @@||tdy.lol^
 @@||tdy.sg^
 @@||teamline.live^
-@@||teamrrqslot188.live^
 @@||tebar.in^
 @@||teeny.life^
 @@||teenycheck9.life^
@@ -6777,7 +6771,6 @@
 @@||trafget.com^
 @@||transfer.sh^
 @@||travl.rs^
-@@||travslyf.katatillo.com^
 @@||trck.me^
 @@||trclo.top^
 @@||trendingvideo.live^
@@ -7153,8 +7146,6 @@
 @@||vbxep.sbs^
 @@||vcaun.com^
 @@||vcwvb.com^
-@@||vd0.pro^
-@@||vd1.pro^
 @@||vd55.com^
 @@||vdio.pro^
 @@||vea.link^
@@ -7188,7 +7179,6 @@
 @@||view.helpline-app.com^
 @@||vig.fit^
 @@||vigilink.com^
-@@||vim-tiktok.live^
 @@||vincenaja46.live^
 @@||vineland.dj^
 @@||vip-gacha99.info^
@@ -7332,7 +7322,6 @@
 @@||webep1.com^
 @@||weberdesign.life^
 @@||webflow.grsm.io^
-@@||webgoogle.live^
 @@||webi.li^
 @@||webinfos.info^
 @@||weblink.biz^
@@ -7392,7 +7381,6 @@
 @@||wit.to^
 @@||witchny.live^
 @@||wiuqz.com^
-@@||wjcf.co^
 @@||wjib.top^
 @@||wjsxb.com^
 @@||wkf.ms^
@@ -7506,7 +7494,6 @@
 @@||xi.ht^
 @@||xib.me^
 @@||xiqi.us^
-@@||xjroy.com^
 @@||xjyus.sbs^
 @@||xkvpf.com^
 @@||xl8.eu^
@@ -7672,7 +7659,6 @@
 @@||zebou.live^
 @@||zebous.life^
 @@||zecz.ec^
-@@||zeek.ir^
 @@||zeep.ly^
 @@||zejop.top^
 @@||zephb.com^
