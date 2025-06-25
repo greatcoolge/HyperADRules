@@ -8889,6 +8889,7 @@
 @@||klik.gg^
 @@||kliks.online^
 @@||klmf.ly^
+@@||klykn.me^
 @@||km.gravatar.com^
 @@||kmart.com.au^
 @@||kmart.com^
@@ -12230,6 +12231,7 @@
 @@||opinionlab.com^
 @@||opjlj.com^
 @@||opkale.me^
+@@||oplink.club^
 @@||oppo.com^
 @@||opportunityonlinebusiness.com^
 @@||opr.as^
@@ -13489,6 +13491,9 @@
 @@||reddit.com^
 @@||redditlink.org^
 @@||redditmedia.com^
+@@||redditp2pcredit.life^
+@@||redditsp2pcredit.life^
+@@||redditsp2pcredit.live^
 @@||redditstatic.com^
 @@||redem.live^
 @@||redemptionservices.accesscontrol.windows.net^

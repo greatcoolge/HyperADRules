@@ -3037,6 +3037,7 @@
 @@||klik.gg^
 @@||kliks.online^
 @@||klmf.ly^
+@@||klykn.me^
 @@||kmi.mobi^
 @@||kmrrf.com^
 @@||knet.cn^
@@ -4805,6 +4806,7 @@
 @@||opent2.com^
 @@||opjlj.com^
 @@||opkale.me^
+@@||oplink.club^
 @@||opportunityonlinebusiness.com^
 @@||opr.as^
 @@||opr.news^
@@ -5321,6 +5323,9 @@
 @@||red.ht^
 @@||redaz.in^
 @@||redditlink.org^
+@@||redditp2pcredit.life^
+@@||redditsp2pcredit.life^
+@@||redditsp2pcredit.live^
 @@||redem.live^
 @@||redir.ec^
 @@||redir.fr^
