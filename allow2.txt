@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 24 Jun 2025 22:43 UTC
-! Version: 2025.0624.2243.49
+! Last modified: 26 Jun 2025 06:44 UTC
+! Version: 2025.0626.0644.00
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -498,6 +498,7 @@
 @@||anvcc.top^
 @@||any.gs^
 @@||anyimage.io^
+@@||anytimefitnessinstagram.com^
 @@||aol.it^
 @@||aon.io^
 @@||aorracer.com^
@@ -1660,6 +1661,7 @@
 @@||fdzsf.com^
 @@||fee.vn^
 @@||female-and-male-in-tech.com^
+@@||fenditorosiatoter.life^
 @@||fenomen.live^
 @@||fetnet.tw^
 @@||fevo.me^
@@ -2313,6 +2315,7 @@
 @@||isot2024.live^
 @@||istubby.com^
 @@||isw.pub^
+@@||itdad.info^
 @@||itdmusic.top^
 @@||iterasi.net^
 @@||itiny.in^
@@ -3204,6 +3207,7 @@
 @@||musicpack4djs.download^
 @@||t.musixmatch.com^
 @@||mut.lu^
+@@||mute-fill-mood.life^
 @@||muth.io^
 @@||mvmtwatch.co^
 @@||mvpmw.sbs^
@@ -3598,6 +3602,7 @@
 @@||pdp.life^
 @@||pdxint.at^
 @@||pe.ga^
+@@||peak.fan^
 @@||peak-prosperity.com^
 @@||pecurgoa.com^
 @@||peek.link^

@@ -1837,6 +1837,7 @@
 @@||any-in-2015.1e100.net^
 @@||any.gs^
 @@||anyimage.io^
+@@||anytimefitnessinstagram.com^
 @@||aol.com^
 @@||aol.it^
 @@||aolcdn.com^
@@ -6155,6 +6156,7 @@
 @@||feelinsonice.appspot.l.google.com^
 @@||feelinsonice.l.google.com^
 @@||female-and-male-in-tech.com^
+@@||fenditorosiatoter.life^
 @@||fenomen.live^
 @@||feodotracker.abuse.ch^
 @@||fetnet.tw^
@@ -8477,6 +8479,7 @@
 @@||it.playstation.com^
 @@||it.statcounter.com^
 @@||it.wikipedia.com^
+@@||itdad.info^
 @@||itdmusic.top^
 @@||item.mi.com^
 @@||item.taobao.com^
@@ -11392,6 +11395,7 @@
 @@||musicliberatesmusic.soundcloud.com^
 @@||musicpack4djs.download^
 @@||mut.lu^
+@@||mute-fill-mood.life^
 @@||mute.bradconte.com^
 @@||muth.io^
 @@||muzmo.ru^
@@ -12516,6 +12520,7 @@
 @@||pdxint.at^
 @@||pe.ga^
 @@||peak-prosperity.com^
+@@||peak.fan^
 @@||pecl.php.net^
 @@||pecurgoa.com^
 @@||pedr.com^
