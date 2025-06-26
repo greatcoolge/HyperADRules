@@ -6744,6 +6744,8 @@
 @@||track.grove.co^
 @@||track.gumroad.com^
 @@||track.mdrctr.com^
+@@||track.mydirectpromonews-ah.com^
+@@||track.payzilch.com^
 @@||track.production.webgains.team^
 @@||track.productsup.com^
 @@||track.productsup.io^
@@ -6760,6 +6762,7 @@
 @@||tracker.gamesdonequick.com^
 @@||tracker.marinsm.com^
 @@||tracker.pusulapartners6.com^
+@@||tracker.trust-link.io^
 @@||tracker.yoncamarket.com^
 @@||tracking.bol.com^
 @@||tracking.cashkaro.com^
@@ -6769,6 +6772,7 @@
 @@||tracking.socketlabs.com^
 @@||tracking.tldrnewsletter.com^
 @@||tracking.truthfinder.com^
+@@||tracking.wordvineswz.com^
 @@||trackpw.xyz^
 @@||trackurl.link^
 @@||trade.re^

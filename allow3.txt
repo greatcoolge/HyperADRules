@@ -4,10 +4,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 18 Jun 2025 10:31 UTC
-! Version: 2025.0618.1031.55
+! Last modified: 25 Jun 2025 14:10 UTC
+! Version: 2025.0625.1410.12
 ! Syntax: AdBlock
-! Number of entries: 1710
+! Number of entries: 1714
 !
 @@||l.1mp.ru^
 @@||t.1und1.de^
@@ -1335,6 +1335,7 @@
 @@||mssg.me^
 @@||mtpc.se^
 @@||trk.musvccustom.net^
+@@||track.mydirectpromonews-ah.com^
 @@||email.namebase.io^
 @@||api.narrativ.com^
 @@||events.release.narrativ.com^
@@ -1366,6 +1367,7 @@
 @@||pi.pardot.com^
 @@||ablink.mail.parkmobile.io^
 @@||www.partner-ads.com^
+@@||track.payzilch.com^
 @@||pepperjamnetwork.com^
 @@||personaclick.com^
 @@||c2.piano.io^
@@ -1691,6 +1693,7 @@
 @@||api.traq.li^
 @@||secure.traqkarr.com^
 @@||track.connect.travelaudience.com^
+@@||tracker.trust-link.io^
 @@||analytics.trustyou.com^
 @@||analytics-eu.trustyou.com^
 @@||tracking.truthfinder.com^
@@ -1709,6 +1712,7 @@
 @@||solution.weborama.fr^
 @@||webpower.eu^
 @@||engage.windows.com^
+@@||tracking.wordvineswz.com^
 @@||engage.xbox.com^
 @@||t.xfin.me^
 @@||xg4ken.com^
