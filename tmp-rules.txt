@@ -3422,6 +3422,7 @@
 @@||devmate.com^
 @@||df.ly^
 @@||dfcfw.com^
+@@||dfmc.com.cn^
 @@||dfscdn.dfcfw.com^
 @@||dftoutiao.com^
 @@||dftp.flowplayer.com^

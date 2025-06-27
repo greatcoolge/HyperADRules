@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 26 Jun 2025 22:46 UTC
-! Version: 2025.0626.2246.19
+! Last modified: 27 Jun 2025 10:44 UTC
+! Version: 2025.0627.1044.40
 ! Syntax: AdBlock
 !
 @@||00oo.lol^
@@ -161,7 +161,6 @@
 @@||3x.si^
 @@||3xs.live^
 @@||4.gg^
-@@||4.gp^
 @@||4.ly^
 @@||4172499085.live^
 @@||420.bio^
@@ -182,8 +181,6 @@
 @@||4uid.com^
 @@||4url.cc^
 @@||4x.si^
-@@||5.gp^
-@@||52.nu^
 @@||5278url.com^
 @@||531566.xyz^
 @@||53eig.ht^
@@ -198,7 +195,6 @@
 @@||5url.net^
 @@||5w.fit^
 @@||5z8.info^
-@@||6.gp^
 @@||6.ly^
 @@||60.dk^
 @@||654.pl^
@@ -219,7 +215,6 @@
 @@||71a.xyz^
 @@||73.nu^
 @@||733s.com^
-@@||777online.life^
 @@||77url.com^
 @@||7894.xyz^
 @@||7fth.cc^
@@ -296,7 +291,6 @@
 @@||abit.ly^
 @@||abnb.me^
 @@||aboutmywebsite.com^
-@@||abpl.top^
 @@||abr.ai^
 @@||abr.to^
 @@||abre.ae^
@@ -316,7 +310,6 @@
 @@||account-verification-man-seeking-man-mps.live^
 @@||accu.ps^
 @@||s.accupass.com^
-@@||ace777hitamasik.site^
 @@||acer.co^
 @@||acer.link^
 @@||aces.mp^
@@ -357,7 +350,6 @@
 @@||adm.to^
 @@||adobe.ly^
 @@||adobefiles.com^
-@@||adoj36.life^
 @@||adol.us^
 @@||adpaylink.com^
 @@||adr.ec^
@@ -369,7 +361,6 @@
 @@||adult-haem-home.life^
 @@||adurly.cc^
 @@||adv.li^
-@@||adveduardoalvesinc.live^
 @@||adweek.it^
 @@||adx.kr^
 @@||ady.to^
@@ -378,11 +369,9 @@
 @@||afb88.life^
 @@||afly.in^
 @@||aftv.news^
-@@||age-smart-ch.live^
 @@||agen303.live^
 @@||aghq.top^
 @@||agileurbia.com^
-@@||agirz.com^
 @@||agmd.win^
 @@||agoz.me^
 @@||agphosting.com^
@@ -394,10 +383,8 @@
 @@||ai-beast-online.life^
 @@||ai6.net^
 @@||aiecj2.com^
-@@||aighy.com^
 @@||aim2.cc^
 @@||airshort.de^
-@@||airvin17.life^
 @@||aisc.life^
 @@||aisc.live^
 @@||aitoys7.live^
@@ -426,8 +413,6 @@
 @@||alexa.design^
 @@||ali.onl^
 @@||alias.live^
-@@||alibuy.click^
-@@||alibuy.live^
 @@||alien-traffic.com^
 @@||alientraffic.com^
 @@||aliexpi.com^
@@ -439,7 +424,6 @@
 @@||alolink.com^
 @@||alongno1.live^
 @@||alpha.camp^
-@@||alpha-air.live^
 @@||alphab.gr^
 @@||alpinedatalake.com^
 @@||alsa.me^
@@ -450,7 +434,6 @@
 @@||alturl.com^
 @@||alturl.link^
 @@||alturl.site^
-@@||alys-lacey-05.life^
 @@||am.lol^
 @@||amays.im^
 @@||amba.to^
@@ -467,12 +450,8 @@
 @@||amzn.id^
 @@||amzn.pw^
 @@||an.to^
-@@||an-up-gop-u-ram.life^
 @@||ana.ms^
-@@||ana-lid-ia-estevez-ortiz.life^
-@@||anacapiaestevezortiz.life^
 @@||anacon.org^
-@@||analidiaestevezortizs.life^
 @@||analyticslinker.ovh^
 @@||anch.co^
 @@||anchorurl.cloud^
@@ -481,7 +460,6 @@
 @@||anda.li^
 @@||andauth.co^
 @@||ane.ong^
-@@||anep.top^
 @@||angl.at^
 @@||anizam.ru^
 @@||anon.to^
