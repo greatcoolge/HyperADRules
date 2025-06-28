@@ -1845,7 +1845,6 @@
 @@||anp.su^
 @@||anquan.org^
 @@||anrdoezrs.net^
-@@||ansaj.top^
 @@||ansg.media^
 @@||answ.xyz^
 @@||answers.com^
@@ -1855,7 +1854,6 @@
 @@||antfin.com^
 @@||anthos.googleapis.com^
 @@||antinawala.team^
-@@||anupgopurams.life^
 @@||anurl.com^
 @@||anvcc.top^
 @@||anvil.opentok.com^
@@ -2233,7 +2231,6 @@
 @@||apkmirror.com^
 @@||apkpure.com^
 @@||apll.es^
-@@||aplnn.sbs^
 @@||apm.wetest.qq.com^
 @@||apm3.music.163.com^
 @@||apmebf.com^
@@ -2395,13 +2392,10 @@
 @@||aptg.tw^
 @@||apticirl.com^
 @@||apurl.in^
-@@||apzjp.com^
 @@||apzjp.sbs^
 @@||apzones.com^
-@@||aqehb.com^
 @@||aquacard.co.uk^
 @@||aqva.pl^
-@@||aqyne.com^
 @@||ar-ar.about.flipboard.com^
 @@||ar-technology.live^
 @@||ar.gravatar.com^
@@ -2543,9 +2537,7 @@
 @@||astrazeneca.com^
 @@||asus.click^
 @@||asusrog.de^
-@@||asynp.top^
 @@||aszfg.top^
-@@||aszvv.com^
 @@||at-blog.line.me^
 @@||at-go.kelkoogroup.net^
 @@||at.alicdn.com.danuoyi.alicdn.com^
@@ -2604,13 +2596,11 @@
 @@||auditrecording-pa.googleapis.com^
 @@||auditude.com^
 @@||audownload.windowsupdate.nsatc.net^
-@@||aunut.top^
 @@||aupvhn.com^
 @@||auroracoin.org^
 @@||aus5.mozilla.org^
 @@||auslogics.com^
 @@||auspost.com.au^
-@@||austineckert.live^
 @@||auth-prod.ros.rockstargames.com^
 @@||auth-relay-pqj6ndd4jq-uc.a.run.app^
 @@||auth.api.np.ac.playstation.net^
@@ -2642,8 +2632,6 @@
 @@||autolink.live^
 @@||autolinkmaker.itunes.apple.com^
 @@||autos.plus.google.com^
-@@||auyoa.com^
-@@||auyyb.com^
 @@||av.me^
 @@||avantlink.com^
 @@||avast.com^
@@ -2670,7 +2658,6 @@
 @@||avtk.io^
 @@||avtub.pw^
 @@||avty.xboxlive.com^
-@@||avxvz.com^
 @@||avydn.co^
 @@||awards.netflix.com^
 @@||awobio.id^
@@ -2760,7 +2747,6 @@
 @@||badges.linkedin.com^
 @@||badges.twitch.tv^
 @@||badoo.com^
-@@||bafrv.top^
 @@||bagas31.info^
 @@||baid.us^
 @@||baidu-ide.bj.bcebos.com^
@@ -2793,7 +2779,6 @@
 @@||barbenady.live^
 @@||barbieclothingcloset.live^
 @@||barebones.com^
-@@||barisbalci13inc.life^
 @@||barnesandnoble.com^
 @@||barsoocm.com^
 @@||barz.it^
@@ -2826,19 +2811,16 @@
 @@||bc.tc^
 @@||bc.vc^
 @@||bca.id^
-@@||bcair.sbs^
 @@||bcbits.com^
 @@||bce.baidu.com^
 @@||bcedns.com^
 @@||bcedns.net^
 @@||bcee.lu^
 @@||bcene.ws^
-@@||bch.gg^
 @@||bchf.life^
 @@||bckr.club^
 @@||bcl.ink^
 @@||bcove.video^
-@@||bcpsf.sbs^
 @@||bcsite.io^
 @@||bcsp2p.baidu.com^
 @@||bd-fw.com^
@@ -2873,7 +2855,6 @@
 @@||behindthevoiceactors.com^
 @@||behoimi.org^
 @@||beian.gov.cn^
-@@||beica.sbs^
 @@||beige.xboxservices.com^
 @@||beingtek.com^
 @@||bely.pw^
@@ -2922,8 +2903,6 @@
 @@||beurl.app^
 @@||bez.link^
 @@||bfast.com^
-@@||bfio.top^
-@@||bfmre.com^
 @@||bfol.me^
 @@||bfpne.ws^
 @@||bfy.tw^
@@ -2939,14 +2918,12 @@
 @@||bg4.me^
 @@||bg5.v4.a.dl.ws.microsoft.com^
 @@||bg5.v4.emdl.ws.microsoft.com^
-@@||bg9.us^
 @@||bgp.fe01.c3.xiaomi.com^
 @@||bgr.com^
 @@||bharattimes.com^
 @@||bhpho.to^
 @@||bhphotovideo.com^
 @@||bhx.one^
-@@||bhzae.sbs^
 @@||bi-tly.com^
 @@||bia2vip.site^
 @@||bialystok.tvp.pl^
@@ -2967,7 +2944,6 @@
 @@||bighollywood.breitbart.com^
 @@||biglistofwebsites.com^
 @@||biglobe.ne.jp^
-@@||bigmikebphx.live^
 @@||bigthink.com^
 @@||bigw.com.au^
 @@||bigzipfiles.facebook.com^
@@ -2984,7 +2960,6 @@
 @@||binancetransactionf077171f1gl1od17ro1asecure.life^
 @@||binaryage.com^
 @@||binbox.io^
-@@||binbucks.com^
 @@||bing.at^
 @@||bing.ch^
 @@||bing.co.uk^
@@ -3068,7 +3043,6 @@
 @@||bj.bcebos.com^
 @@||bj88php.fun^
 @@||bjbgc.com^
-@@||bjhig.sbs^
 @@||bjl.ink^
 @@||bjli.in^
 @@||bk01.hh.xiaomi.com^
@@ -3187,8 +3161,6 @@
 @@||blogspot.l.googleusercontent.com^
 @@||bloom.bg^
 @@||bloomberg.com^
-@@||bloomingtonjuneteenth.org^
-@@||blouse.live^
 @@||blrqfe.com^
 @@||bls.gov^
 @@||blstg.news^
@@ -3254,8 +3226,6 @@
 @@||bootstrapcdn.com^
 @@||bootstrapcdn.jdorfman.netdna-cdn.com^
 @@||bopvu.life^
-@@||boqzl.com^
-@@||bordonet.info^
 @@||bos.ngo^
 @@||bose.life^
 @@||boshoki.biz^
@@ -3269,7 +3239,6 @@
 @@||bot.fi^
 @@||botemoda.com^
 @@||bowercdn.net^
-@@||bowfest.live^
 @@||box.com^
 @@||box.kaspersky.com^
 @@||box.sonymobile.com^
@@ -3283,9 +3252,6 @@
 @@||bpdmv.com^
 @@||bpl.kr^
 @@||bprl.site^
-@@||bpvkv.top^
-@@||bqdlp.com^
-@@||bqwpf.com^
 @@||br-go.kelkoogroup.net^
 @@||br.gravatar.com^
 @@||br.ign.com^
@@ -3364,7 +3330,6 @@
 @@||btcc.com^
 @@||btco.link^
 @@||btf.st^
-@@||btly.cc^
 @@||btm.li^
 @@||btstatic.com^
 @@||btwrdn.com^
@@ -3397,7 +3362,6 @@
 @@||bundles.api.here.com^
 @@||bung.ie^
 @@||bunnings.com.au^
-@@||buprg.sbs^
 @@||burma123.life^
 @@||burma77.life^
 @@||burner.bonanza.com^
@@ -3429,16 +3393,13 @@
 @@||buzzao.online^
 @@||buzzfeed.com^
 @@||bvsok.sbs^
-@@||bvtfb.sbs^
 @@||bw.care^
 @@||bwlf.us^
 @@||bwmhosting.huawei.com^
 @@||bwnews.pr^
 @@||bwp.techrepublic.com^
-@@||bwpdz.com^
 @@||bwrmp.com^
 @@||bws.bitpay.com^
-@@||bxjtf.com^
 @@||bxl.me^
 @@||by.com.vn^
 @@||by1.eu^
@@ -3447,8 +3408,6 @@
 @@||byjusclasses.freshdesk.com^
 @@||byli.pro^
 @@||bylink.me^
-@@||bymac.sbs^
-@@||byng.info^
 @@||byod-web.huawei.com^
 @@||bytedance.com^
 @@||bytepool.com^
@@ -3456,10 +3415,8 @@
 @@||bytr.ee^
 @@||bzfd.it^
 @@||bzfhq.sbs^
-@@||bzgso.com^
 @@||bzh.me^
 @@||c-dot-da-plug.life^
-@@||c-fields-d.life^
 @@||c-hud-aixxx.life^
 @@||c-o.in^
 @@||c.58cdn.com.cn^
@@ -3542,7 +3499,6 @@
 @@||cafeblog.search.naver.com^
 @@||cafemom.com^
 @@||cafepress.com^
-@@||caksf.top^
 @@||cal.link^
 @@||calcol.cc^
 @@||caldav.fe.apple-dns.net^
@@ -3609,7 +3565,6 @@
 @@||careers.lg.com^
 @@||careers.snap.com^
 @@||careers.us.samsung.com^
-@@||carlos-valle-sara-cho32.life^
 @@||caro.sl^
 @@||carrier.huawei.com^
 @@||cart.mi.com^
@@ -3631,7 +3586,6 @@
 @@||castatic.fengkongcloud.com^
 @@||castbox.shopping.naver.com^
 @@||casualient.com^
-@@||casvi.sbs^
 @@||cat.nl.eu.criteo.com^
 @@||catalog.gamepass.com^
 @@||catbrood.com^
@@ -3935,13 +3889,11 @@
 @@||cds.d2s7q6s2.hwcdn.net^
 @@||cds.j3z9t3p6.hwcdn.net^
 @@||cds.s5x3j6q5.hwcdn.net^
-@@||cdwus.com^
 @@||ce5.at^
 @@||ceci-ana-jada-271928.life^
 @@||cedexis.net^
 @@||cedexispub.cdnetworks.net^
 @@||celfam.us^
-@@||celiasorrentino.life^
 @@||cell.office.naver.com^
 @@||ceneo.pl^
 @@||census.gov^
@@ -3968,7 +3920,6 @@
 @@||cf.iadsdk.apple.com^
 @@||cf2.me^
 @@||cf6.co^
-@@||cfcpz.sbs^
 @@||cfg.me^
 @@||cfl.dropboxstatic.com^
 @@||cfl.re^
@@ -3983,15 +3934,12 @@
 @@||cg.163.com^
 @@||cgi.adobe.com^
 @@||cgi.connect.qq.com^
-@@||cgreend.life^
-@@||cgyw.info^
 @@||ch.hide.me^
 @@||ch.hitbtc.com^
 @@||ch.run^
 @@||ch.wikipedia.com^
 @@||ch0p.darty.com^
 @@||cha1.speedtest.telstra.net^
-@@||chadkoesterincs.life^
 @@||chadmayfield.com^
 @@||chain.next.exchange^
 @@||chainnews.com^
@@ -4009,7 +3957,6 @@
 @@||charleseski.life^
 @@||charlesschwab.sc.omtrdc.net^
 @@||chart.googleapis.com^
-@@||chase-side-maintenance.live^
 @@||chat-gateway-prod.chat.snapchat.com^
 @@||chat-gateway000-prod.chat.snapchat.com^
 @@||chat-gateway001-prod.chat.snapchat.com^
@@ -4138,7 +4085,6 @@
 @@||chts.tw^
 @@||chudaitrieuview.info^
 @@||chudaixxx.life^
-@@||chuyenvienming.life^
 @@||chx.to^
 @@||chzb.gr^
 @@||ci.phncdn.com^
@@ -4150,7 +4096,6 @@
 @@||ci61.actonsoftware.com^
 @@||ci8.de^
 @@||cib-tea.life^
-@@||cibel.sbs^
 @@||cifraclub.com.br^
 @@||cimage.adobe.com^
 @@||cin.ci^
@@ -4166,8 +4111,6 @@
 @@||citi.asia^
 @@||citimobile.d2.sc.omtrdc.net^
 @@||citrix.com^
-@@||civicagambassi.life^
-@@||cizv00000.live^
 @@||cj.com^
 @@||cj.dotomi.com^
 @@||cj.mplxtms.com^
@@ -4175,7 +4118,6 @@
 @@||cjiy.top^
 @@||cjky.it^
 @@||cjn.mx^
-@@||cjwze.sbs^
 @@||cjyzkqj.homes^
 @@||ckbe.at^
 @@||cl.exct.net^
@@ -4331,7 +4273,6 @@
 @@||cloudcache.tencent-cloud.cn^
 @@||cloudcampus.rnd.huawei.com^
 @@||clouddn.com^
-@@||cloudfare.icu^
 @@||cloudflare-dns.com^
 @@||cloudflare.com^
 @@||cloudflareworkers.com^
@@ -4362,9 +4303,7 @@
 @@||clu.sonymobile.com^
 @@||club.huawei.com^
 @@||clubedohardware.com.br^
-@@||cluml.sbs^
 @@||clvr.rocks^
-@@||clymont.live^
 @@||cm-01-ams1.cm.steampowered.com^
 @@||cm-02-ams1.cm.steampowered.com^
 @@||cm-03-ams1.cm.steampowered.com^
@@ -4393,7 +4332,6 @@
 @@||cmts.iqiyi.com^
 @@||cmu.edu^
 @@||cmu.is^
-@@||cmvsc.com^
 @@||cmy.tw^
 @@||cn.app.chat.xiaomi.net^
 @@||cn.bing.com^
@@ -4534,7 +4472,6 @@
 @@||complex.com^
 @@||components.unrealengine.com^
 @@||componentupdater.brave.com^
-@@||compreaquikakspromobaby.live^
 @@||compute.googleapis.com^
 @@||computer.howstuffworks.com^
 @@||computermediapk.com^
@@ -4634,7 +4571,6 @@
 @@||convertkit-mail3.com^
 @@||convertkit-mail4.com^
 @@||convertkit.com^
-@@||conviva.live^
 @@||cookcenter.info^
 @@||cookie.monster.com^
 @@||cookiebot.com^
@@ -15553,7 +15489,6 @@
 @@||simgr.id^
 @@||similarweb.com^
 @@||simp.ly^
-@@||simpl.com.ng^
 @@||simple.wikipedia.com^
 @@||simply.com^
 @@||simplyhired.com^
