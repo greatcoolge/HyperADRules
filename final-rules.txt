@@ -1025,6 +1025,7 @@
 @@||africa.pool.ntp.org^
 @@||aftonbladet.se^
 @@||aftv.news^
+@@||agbr.ir^
 @@||agen303.live^
 @@||aghq.top^
 @@||agilean.in^
@@ -4626,7 +4627,6 @@
 @@||cpu.baidu.com^
 @@||cpucdn.baidu.com^
 @@||cpuid.com^
-@@||cpwuc.com^
 @@||cpy-crack.com^
 @@||cqhjbt.com^
 @@||cr.ma^
@@ -4662,9 +4662,7 @@
 @@||credicard.biz^
 @@||credit-account.staging.viber.com^
 @@||credit.jr.mi.com^
-@@||creditacademy.live^
 @@||creditcards.com^
-@@||crfe.top^
 @@||cricbuzz.com^
 @@||crisp.chat^
 @@||critic.api.playstation.com^
@@ -4694,7 +4692,6 @@
 @@||crunchyroll.bannertrack.net^
 @@||crunchyroll.com^
 @@||crutchfield.com^
-@@||crvbd.com^
 @@||crvw.ru^
 @@||crwd.fr^
 @@||crwd.in^
@@ -4705,7 +4702,6 @@
 @@||cryptoguide.website^
 @@||cryptolabpro.com^
 @@||cryptopia.co.nz^
-@@||crzgu.sbs^
 @@||cs.co^
 @@||cs.daum.net^
 @@||cs.gravatar.com^
@@ -4738,7 +4734,6 @@
 @@||cstaticdun-v6.126.net^
 @@||cstaticdun.126.net^
 @@||cstu.io^
-@@||cstudyd.life^
 @@||ct-m-fbx.fbsbx.com^
 @@||ct.sendgrid.net^
 @@||ct.techrepublic.com^
@@ -4751,7 +4746,6 @@
 @@||ctldl.windowsupdate.com ^
 @@||ctldl.windowsupdate.com^
 @@||ctr.sh^
-@@||ctrackd.life^
 @@||ctrip.com^
 @@||cts.businesswire.com^
 @@||cts.vresp.com^
@@ -4769,7 +4763,6 @@
 @@||cupfox.app^
 @@||cupid.iqiyi.com^
 @@||cupoms.info^
-@@||cur.lv^
 @@||curben.gitlab.io^
 @@||curiosity.com^
 @@||curious-cat.live^
@@ -4783,7 +4776,6 @@
 @@||customerevents.netflix.com^
 @@||customlinks.appsflyer.com^
 @@||customtraffic.impactradius.com^
-@@||customurlshortener.com^
 @@||cut.by^
 @@||cut.live^
 @@||cut.lu^
@@ -4797,8 +4789,6 @@
 @@||cutit.bid^
 @@||cutlinker.com^
 @@||cutlly.com^
-@@||cuto.info^
-@@||cuto.life^
 @@||cuts.al^
 @@||cuts.kr^
 @@||cuts2.com^
@@ -4818,7 +4808,6 @@
 @@||cvcpl.us^
 @@||cvent.me^
 @@||cvfmiij.wiki^
-@@||cviqs.com^
 @@||cvp.twitch.tv^
 @@||cvp1.cdn.turner.com^
 @@||cvs.adobe.com^
@@ -4845,11 +4834,9 @@
 @@||cydia.saurik.com.cdngc.net^
 @@||cydia.saurik.com^
 @@||cygwin.com^
-@@||cyhrb.top^
 @@||cyizs.com^
 @@||cyngfs.com^
 @@||cyonix.to^
-@@||cyunz.com^
 @@||cz.playstation.com^
 @@||cz.wikipedia.com^
 @@||d-h.st^
@@ -4985,10 +4972,8 @@
 @@||db.tt^
 @@||db5-eap.settings-win.data.microsoft.com.akadns.net^
 @@||db5.settings-win.data.microsoft.com.akadns.net^
-@@||dbanm.com^
 @@||dbccx.top^
 @@||dbl.oisd.nl^
-@@||dbmarketing.app^
 @@||dbox.lol^
 @@||dbregistration.cuteftp.com^
 @@||dbricks.co^
@@ -5010,13 +4995,11 @@
 @@||dctrawler.dailycaller.com^
 @@||dd.ma^
 @@||dd.myapp.com^
-@@||ddbfx.com^
 @@||ddlsu.com^
 @@||ddns.net^
 @@||ddos-guard.net^
 @@||ddrk.me^
 @@||ddw.nu^
-@@||ddwxl.info^
 @@||ddyunbo.com^
 @@||de-1.hide.me^
 @@||de-de.about.flipboard.com^
@@ -5071,7 +5054,6 @@
 @@||dell.com^
 @@||dell.to^
 @@||deloi.tt^
-@@||delta.live^
 @@||demandbase.com^
 @@||demo-api.hitbtc.com^
 @@||demo-s.hitbtc.com^
@@ -5086,7 +5068,6 @@
 @@||denis-ovs.narod.ru^
 @@||depot.xda-developers.com^
 @@||des.gbtcdn.com^
-@@||desertofny.org^
 @@||design.www.huffingtonpost.com^
 @@||desin.me^
 @@||desktop-data.sonymobile.com^
@@ -5170,7 +5151,6 @@
 @@||dftp.flowplayer.com^
 @@||dg.k.jd.com^
 @@||dgit.com^
-@@||dgmmx.com^
 @@||dgo.to^
 @@||dgt.fm^
 @@||dhe.one^
@@ -5180,7 +5160,6 @@
 @@||di.sn^
 @@||dia.so^
 @@||diagassets.apple.com^
-@@||diakoniefeier.live^
 @@||dialin.qualcomm.com^
 @@||dialog.filepicker.io^
 @@||dianfeijisuanqi.bmcx.com^
@@ -5199,7 +5178,6 @@
 @@||dictionary.law.com^
 @@||dictionary.webmd.com^
 @@||dicts.mobisystems.com^
-@@||diemburden.life^
 @@||dig.bdurl.net^
 @@||digbig.com^
 @@||digg.com^
@@ -5248,18 +5226,14 @@
 @@||discuss.dev.twitch.tv^
 @@||discussions.apple.com^
 @@||discvr.co^
-@@||disjt.com^
 @@||disneyplus.bn5x.net^
 @@||display.ugc.bazaarvoice.com^
 @@||displaycatalog.mp.microsoft.com^
 @@||disq.us^
 @@||disqus.com^
 @@||disquscdn.com^
-@@||distinct-rp.live^
-@@||distinctrp.live^
 @@||distribute.adobe.com^
 @@||distributions.crowdin.net^
-@@||ditn.top^
 @@||dive.pub^
 @@||divestiture.life^
 @@||divsly.com^
@@ -5270,7 +5244,6 @@
 @@||djljjk.com^
 @@||djloventx.live^
 @@||djp.li^
-@@||djteg.sbs^
 @@||djurl.com^
 @@||dkly.me^
 @@||dkng.co^
@@ -5334,7 +5307,6 @@
 @@||dmcdn.net^
 @@||dmd.metaservices.microsoft.com^
 @@||dmdi.pl^
-@@||dmkkc.com^
 @@||dmm.com^
 @@||dmp.adform.net^
 @@||dmprd.com^
@@ -5352,7 +5324,6 @@
 @@||dns1.funimation.com^
 @@||dns2.funimation.com^
 @@||dntbs.info^
-@@||dntx.info^
 @@||do.co^
 @@||doburl.com^
 @@||doc.btc.com^
@@ -5402,7 +5373,6 @@
 @@||domraider.io^
 @@||donorschoose.org^
 @@||doodstream.day^
-@@||door2door2.org^
 @@||dopice.sk^
 @@||doris.yidianzixun.com^
 @@||dot.gov^
@@ -5483,7 +5453,6 @@
 @@||dpbolvw.net^
 @@||dpessm.com^
 @@||dpimg.ospserver.net^
-@@||dpkqq.sbs^
 @@||dpm.demdex.net^
 @@||dpmd.ai^
 @@||dpo.st^
@@ -5608,7 +5577,6 @@
 @@||dyo.gs^
 @@||dyx.is^
 @@||dzc-metrics.mzstatic.com^
-@@||dzmem.top^
 @@||e-campaign.huawei.com^
 @@||e-contactus.samsung.com^
 @@||e-file.huawei.com^
@@ -5646,7 +5614,6 @@
 @@||ea1-urlp.secure.skypeassets.com^
 @@||eaash.co^
 @@||earn4link.in^
-@@||earnshorter.com^
 @@||earth.google.com^
 @@||earthlink.net^
 @@||earthtoday.info^
@@ -5710,7 +5677,6 @@
 @@||ed.gov^
 @@||ed.gr^
 @@||ed.rdtcdn.com^
-@@||edda-noun-i-145.info^
 @@||edge-chat.facebook.com^
 @@||edge-enterprise.activity.windows.com^
 @@||edge-mqtt.facebook.com^
@@ -5750,12 +5716,9 @@
 @@||eepurl.com^
 @@||eeurl.com^
 @@||eeztk.top^
-@@||eezy99.live^
 @@||efe.snssdk.com^
 @@||eff.org^
-@@||effde.sbs^
 @@||efie.co^
-@@||eflsb.com^
 @@||efraising.org^
 @@||efs.link^
 @@||efshop.tw^
@@ -5768,7 +5731,6 @@
 @@||ehtracker.org^
 @@||ei.phncdn.com^
 @@||eightforums.com^
-@@||eijxq.sbs^
 @@||ein.funimation.com^
 @@||eio-feed.exchange.coinbase.com^
 @@||eip-ntt.pinimg.com.akapinimg.net^
@@ -5806,7 +5768,6 @@
 @@||elpais.com^
 @@||elsevier.com^
 @@||elsextosol.org^
-@@||eltiongjetaj91.live^
 @@||elurl.com^
 @@||elx.site^
 @@||ely.re^
@@ -5936,7 +5897,6 @@
 @@||epix.xbox.com^
 @@||epizy.com^
 @@||epl.paypal-communication.com^
-@@||eplt.net^
 @@||epochalchange.live^
 @@||epochtim.es^
 @@||epochtimes.com^
@@ -5946,9 +5906,7 @@
 @@||epuu.info^
 @@||eq.10jqka.com.cn^
 @@||eqcodecracks.life^
-@@||eqddh.top^
 @@||eqix.it^
-@@||eqpgt.top^
 @@||er.search.naver.com^
 @@||erath.email^
 @@||erax.cz^
@@ -5981,7 +5939,6 @@
 @@||es.twitch.tv^
 @@||es.wikipedia.com^
 @@||es.wix.com^
-@@||esabong.life^
 @@||escape.to^
 @@||esearch.rakuten.co.jp^
 @@||esl.gg^
@@ -6001,7 +5958,6 @@
 @@||etao.com^
 @@||etf.com^
 @@||ethermine.org^
-@@||etkpa.com^
 @@||etl.tindersparks.com^
 @@||etl.xlmc.sec.miui.com^
 @@||etoro-cdn.etorostatic.com^
@@ -6009,7 +5965,6 @@
 @@||etoro.tw^
 @@||etorostatic.com^
 @@||etp.tw^
-@@||etsgrescore.org^
 @@||etsy.com^
 @@||etsy.me^
 @@||eu-v20.events.data.microsoft.com^
@@ -6033,7 +5988,6 @@
 @@||eulatracking-public-service-prod.ol.epicgames.com^
 @@||eulerian.brandalley.fr^
 @@||eulerian.net^
-@@||eulh.info^
 @@||eultech.fnac.com^
 @@||euping.igamecj.com^
 @@||euqni.com^
@@ -6048,7 +6002,6 @@
 @@||eus1-urlp.secure.skypeassets.com^
 @@||ev-h.phncdn.com^
 @@||eva.us^
-@@||evbvq.top^
 @@||evcs-ocsp.ws.symantec.com^
 @@||event.api.np.km.playstation.net^
 @@||event.dcinside.com^
@@ -6062,7 +6015,6 @@
 @@||eventbrite.com^
 @@||eventgateway.soundcloud.com^
 @@||eventgateway.x.sndcdn.com^
-@@||eventhivek.live^
 @@||eventlogger.soundcloud.com^
 @@||events.data.microsoft.com^
 @@||events.gfe.nvidia.com^
@@ -6140,7 +6092,6 @@
 @@||exx.us^
 @@||eyemakeu.com^
 @@||eyq.me^
-@@||eyud.top^
 @@||ez1.cc^
 @@||ezbz.me^
 @@||ezc.vc^
@@ -6197,13 +6148,11 @@
 @@||factorio.com^
 @@||factory.blog.naver.com^
 @@||fadurl.com^
-@@||fagn.top^
 @@||faiq09824.life^
 @@||fakecell.sys.miui.com^
 @@||fal.cn^
 @@||fam.ag^
 @@||familydollar.com^
-@@||famousurl.com^
 @@||fan.twitch.tv^
 @@||fanat.ua^
 @@||fanboy.co.nz^
@@ -6259,9 +6208,6 @@
 @@||fda.gov^
 @@||fdfs.xmcdn.com^
 @@||fdkmx.sbs^
-@@||fdmlm.com^
-@@||fdmlm.sbs^
-@@||fdzsf.com^
 @@||fe-static.xhscdn.com^
 @@||fe-video-qc.xhscdn.com^
 @@||fe.apple-dns.net^
@@ -6329,9 +6275,7 @@
 @@||fff.to^
 @@||fff.wf^
 @@||fffutu.re^
-@@||ffiwk.com^
 @@||ffm.to^
-@@||ffrpa.sbs^
 @@||fg.ds.b1.download.windowsupdate.com^
 @@||fg.v4.download.windowsupdate.com^
 @@||fga0.market.xiaomi.com^
@@ -6340,7 +6284,6 @@
 @@||fhm.com^
 @@||fhmzz.com^
 @@||fhurl.com^
-@@||fhxor.com^
 @@||fi-go.kelkoogroup.net^
 @@||fi.gravatar.com^
 @@||fi.m.wikipedia.com^
@@ -6410,11 +6353,9 @@
 @@||financial.org^
 @@||find-url.co^
 @@||find.api.micloud.xiaomi.net^
-@@||findanupgopuram.life^
 @@||findapi.micloud.xiaomi.net^
 @@||findmymobile.samsung.com^
 @@||fiplabcdn.com^
-@@||fiqto.sbs^
 @@||fir.im^
 @@||fire.to^
 @@||firebase-settings.crashlytics.com^
@@ -6435,7 +6376,6 @@
 @@||fkp.samsungcloudsolution.net^
 @@||fl-y.com^
 @@||fl8.me^
-@@||flamingoclub.life^
 @@||flapi.flipboard.com^
 @@||flash-point-studios.life^
 @@||flash-point-studios.live^
@@ -6487,7 +6427,6 @@
 @@||fnote.it^
 @@||focus.de^
 @@||foe.hn^
-@@||foee.top^
 @@||fok.nl^
 @@||folu.me^
 @@||fon.gs^
@@ -6522,7 +6461,6 @@
 @@||forr.com^
 @@||fortune-mag.line.me^
 @@||fortune.com^
-@@||fortunium.xyz^
 @@||forum.avast.com^
 @@||forum.bit.ly^
 @@||forum.dirtywarez.com^
@@ -6650,7 +6588,6 @@
 @@||freebitco.in^
 @@||freebsd.org^
 @@||freedomhacker.net^
-@@||freefc24code.life^
 @@||freenet.de^
 @@||freenom.link^
 @@||freeones.com^
@@ -6660,7 +6597,6 @@
 @@||freshdirect.com^
 @@||freshflowangling.store^
 @@||freze.it^
-@@||fri-masms7.info^
 @@||friend-list-view.us.np.communication.playstation.net^
 @@||friendbuy.com^
 @@||friendfinder.api.np.km.playstation.net^
@@ -6676,8 +6612,6 @@
 @@||fs.microsoft.com^
 @@||fs1.dl-bia2.ir^
 @@||fsa01.ps4.update.playstation.net^
-@@||fsjvp.sbs^
-@@||fslvi.com^
 @@||fstgo.to^
 @@||fstrk.cc^
 @@||fsu.ro^
@@ -6726,19 +6660,14 @@
 @@||fwdme.info^
 @@||fwkar.com^
 @@||fwme.eu^
-@@||fwwdc.com^
 @@||fwzi.top^
 @@||fx.cc^
 @@||fxhome.com^
 @@||fxn.ws^
 @@||fxqwe.com^
-@@||fxrie.top^
-@@||fyndr.info^
 @@||fyre.co^
 @@||fzmovies.net^
-@@||fznby.sbs^
 @@||fzuploads.com^
-@@||fzwgn.sbs^
 @@||g-acs.m.goofish.com^
 @@||g-ecx.images-amazon.com^
 @@||g-web.in^
@@ -6845,15 +6774,10 @@
 @@||gawker.com^
 @@||gaysi.live^
 @@||gazeta.pl^
-@@||gbblp.sbs^
-@@||gbdra.top^
 @@||gbfek.dfcfw.com^
-@@||gbnbm.top^
 @@||gbod.org^
 @@||gbpg.net^
-@@||gbrqg.top^
 @@||gbte.tech^
-@@||gbxb.info^
 @@||gc.apple.com^
 @@||gc.fe.apple-dns.net^
 @@||gc.zgo.at^
@@ -6884,7 +6808,6 @@
 @@||gekko.spiceworks.com^
 @@||gelbooru.com^
 @@||gematsu.com^
-@@||gems-hunters-verified-url.live^
 @@||gemy.link^
 @@||gen.cat^
 @@||genexcloud-sz.huawei.com^
@@ -6937,7 +6860,6 @@
 @@||gestyy.com^
 @@||get-l.ink^
 @@||get-modern.com^
-@@||get-rude-boutique.live^
 @@||get.adobe.com^
 @@||get.blazetv.com^
 @@||get.daum.net^
@@ -6974,7 +6896,6 @@
 @@||gfuel.ly^
 @@||gfwsl.geforce.com^
 @@||gfx.ms^
-@@||gfxa.top^
 @@||gfycat.com^
 @@||gg.apple.com^
 @@||ggl.link^
@@ -7097,7 +7018,6 @@
 @@||gn.naver.com^
 @@||gnam.me^
 @@||gnar.grammarly.com^
-@@||gnkxh.top^
 @@||gnu.org^
 @@||go-direct.flx1.com^
 @@||go-duo-join-live-video-chat-invite.live^

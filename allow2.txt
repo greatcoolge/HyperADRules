@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 27 Jun 2025 23:09 UTC
-! Version: 2025.0627.2309.59
+! Last modified: 28 Jun 2025 10:45 UTC
+! Version: 2025.0628.1045.34
 ! Syntax: AdBlock
 !
 @@||00oo.lol^
@@ -369,6 +369,7 @@
 @@||afb88.life^
 @@||afly.in^
 @@||aftv.news^
+@@||agbr.ir^
 @@||agen303.live^
 @@||aghq.top^
 @@||agileurbia.com^
@@ -1062,7 +1063,6 @@
 @@||cplink.co^
 @@||cpmlink.net^
 @@||cptl.me^
-@@||cpwuc.com^
 @@||cqhjbt.com^
 @@||cr.ma^
 @@||cr8.lv^
@@ -1071,11 +1071,8 @@
 @@||goto.cream.org^
 @@||creativ.li^
 @@||credicard.biz^
-@@||creditacademy.live^
-@@||crfe.top^
 @@||croc.global^
 @@||cropped.xyz^
-@@||crvbd.com^
 @@||crvw.ru^
 @@||crwd.fr^
 @@||crwd.in^
@@ -1083,18 +1080,15 @@
 @@||cry-pto.life^
 @@||crypsante.com^
 @@||cryptoguide.website^
-@@||crzgu.sbs^
 @@||cs.co^
 @@||csgy.info^
 @@||csmo.us^
 @@||csnode.com^
 @@||cstu.io^
-@@||cstudyd.life^
 @@||ctbc.tw^
 @@||cte.li^
 @@||ctfl.io^
 @@||ctr.sh^
-@@||ctrackd.life^
 @@||ctse-registry.com^
 @@||ctx.ink^
 @@||cukbaray.com^
@@ -1103,12 +1097,10 @@
 @@||cuoinamdiedm.life^
 @@||cup.org^
 @@||cupoms.info^
-@@||cur.lv^
 @@||curious-cat.live^
 @@||curl.im^
 @@||curl.pk^
 @@||curl.ro^
-@@||customurlshortener.com^
 @@||cut.by^
 @@||cut.live^
 @@||cut.lu^
@@ -1120,8 +1112,6 @@
 @@||cutit.bid^
 @@||cutlinker.com^
 @@||cutlly.com^
-@@||cuto.info^
-@@||cuto.life^
 @@||cuts.al^
 @@||cuts.kr^
 @@||cuts2.com^
@@ -1139,7 +1129,6 @@
 @@||cvcpl.us^
 @@||cvent.me^
 @@||cvfmiij.wiki^
-@@||cviqs.com^
 @@||cvs.co^
 @@||cwg.li^
 @@||go.cwtv.com^
@@ -1148,11 +1137,9 @@
 @@||cyb.ec^
 @@||cybr.fr^
 @@||cybr.rocks^
-@@||cyhrb.top^
 @@||cyizs.com^
 @@||cyngfs.com^
 @@||cyonix.to^
-@@||cyunz.com^
 @@||d.pr^
 @@||d.to^
 @@||d-its-hekis-osama-kwi.info^
@@ -1188,9 +1175,7 @@
 @@||track3.davydovlaw.com^
 @@||daylitendarkness.life^
 @@||db.tt^
-@@||dbanm.com^
 @@||dbccx.top^
-@@||dbmarketing.app^
 @@||dbox.lol^
 @@||dbricks.co^
 @@||go.dbs.com^
@@ -1199,10 +1184,8 @@
 @@||dcps.co^
 @@||dcshru.ru^
 @@||dd.ma^
-@@||ddbfx.com^
 @@||ddlsu.com^
 @@||ddw.nu^
-@@||ddwxl.info^
 @@||dealc.me^
 @@||deb.li^
 @@||debbiewestdicksons.life^
@@ -1215,10 +1198,8 @@
 @@||deliverable.email^
 @@||dell.to^
 @@||deloi.tt^
-@@||delta.live^
 @@||demolink.net^
 @@||dems.me^
-@@||desertofny.org^
 @@||desin.me^
 @@||wwww.destockdrive.com^
 @@||detonnot.com^
@@ -1232,17 +1213,14 @@
 @@||dfl8.me^
 @@||dft.ba^
 @@||dfthethao.com^
-@@||dgmmx.com^
 @@||dgo.to^
 @@||dgt.fm^
 @@||dhe.one^
 @@||dhk.gg^
 @@||di.sn^
 @@||dia.so^
-@@||diakoniefeier.live^
 @@||diato.lol^
 @@||dibb.me^
-@@||diemburden.life^
 @@||digbig.com^
 @@||digg.com^
 @@||qr.digi.tips^
@@ -1259,11 +1237,7 @@
 @@||dis.tl^
 @@||disanspam.life^
 @@||discvr.co^
-@@||disjt.com^
 @@||disq.us^
-@@||distinct-rp.live^
-@@||distinctrp.live^
-@@||ditn.top^
 @@||dive.pub^
 @@||divestiture.life^
 @@||divsly.com^
@@ -1272,7 +1246,6 @@
 @@||djljjk.com^
 @@||djloventx.live^
 @@||djp.li^
-@@||djteg.sbs^
 @@||djurl.com^
 @@||dkly.me^
 @@||dkng.co^
@@ -1287,7 +1260,6 @@
 @@||dlvr.it^
 @@||dly.es^
 @@||dmdi.pl^
-@@||dmkkc.com^
 @@||dmprd.com^
 @@||dmreg.co^
 @@||dmvrenew.com^
@@ -1295,7 +1267,6 @@
 @@||dna360.tw^
 @@||dnmqv.top^
 @@||dntbs.info^
-@@||dntx.info^
 @@||do.co^
 @@||doburl.com^
 @@||dockr.ly^
@@ -1306,7 +1277,6 @@
 @@||domi.link^
 @@||dominguez-nieves-71.life^
 @@||doodstream.day^
-@@||door2door2.org^
 @@||dopice.sk^
 @@||dotalink.com^
 @@||doturl.io^
@@ -1316,7 +1286,6 @@
 @@||dpb.fm^
 @@||dpb.link^
 @@||dpessm.com^
-@@||dpkqq.sbs^
 @@||dpmd.ai^
 @@||dpo.st^
 @@||dqojii.com^
@@ -1381,7 +1350,6 @@
 @@||dyjmk.sbs^
 @@||dyo.gs^
 @@||dyx.is^
-@@||dzmem.top^
 @@||e.lilly^
 @@||e.vg^
 @@||e2share.in^
@@ -1390,7 +1358,6 @@
 @@||eaash.co^
 @@||l.ead.me^
 @@||earn4link.in^
-@@||earnshorter.com^
 @@||earthtoday.info^
 @@||easycut.io^
 @@||easyuri.com^
@@ -1407,7 +1374,6 @@
 @@||ecrane.link^
 @@||ed.gr^
 @@||ed-lira-tahiri-05.life^
-@@||edda-noun-i-145.info^
 @@||edgs.co^
 @@||go.edh.tw^
 @@||edin.ac^
@@ -1422,10 +1388,7 @@
 @@||url.eefocus.com^
 @@||eepurl.com^
 @@||eeztk.top^
-@@||eezy99.live^
-@@||effde.sbs^
 @@||efie.co^
-@@||eflsb.com^
 @@||efraising.org^
 @@||efs.link^
 @@||efshop.tw^
@@ -1435,7 +1398,6 @@
 @@||go.egi.eu^
 @@||egw.bz^
 @@||egypsianrubie.live^
-@@||eijxq.sbs^
 @@||eit.tw^
 @@||ejo.bz^
 @@||el.lk^
@@ -1451,7 +1413,6 @@
 @@||ellemag.co^
 @@||eloism.net^
 @@||elsextosol.org^
-@@||eltiongjetaj91.live^
 @@||elx.site^
 @@||ely.re^
 @@||em.cm^
@@ -1469,16 +1430,13 @@
 @@||entryurl.com^
 @@||envs.sh^
 @@||epicwin138.life^
-@@||eplt.net^
 @@||epochalchange.live^
 @@||epochtim.es^
 @@||epsi.link^
 @@||ept.ms^
 @@||epuu.info^
 @@||eqcodecracks.life^
-@@||eqddh.top^
 @@||eqix.it^
-@@||eqpgt.top^
 @@||erath.email^
 @@||erax.cz^
 @@||erdch.com^
@@ -1487,7 +1445,6 @@
 @@||eru789.com^
 @@||erw.cz^
 @@||es.pn^
-@@||esabong.life^
 @@||escape.to^
 @@||esl.gg^
 @@||eslite.me^
@@ -1497,19 +1454,14 @@
 @@||esyurl.com^
 @@||eszen.sbs^
 @@||et2.top^
-@@||etkpa.com^
 @@||etoro.tw^
 @@||etp.tw^
-@@||etsgrescore.org^
 @@||etsy.me^
 @@||euapoio.live^
 @@||eubok.com^
-@@||eulh.info^
 @@||euqni.com^
 @@||eurl.live^
 @@||eva.us^
-@@||evbvq.top^
-@@||eventhivek.live^
 @@||everri.ch^
 @@||evx.ca^
 @@||ewed.us^
@@ -1522,7 +1474,6 @@
 @@||exx.us^
 @@||eyemakeu.com^
 @@||eyq.me^
-@@||eyud.top^
 @@||ez1.cc^
 @@||ezbz.me^
 @@||ezc.vc^
@@ -1544,11 +1495,9 @@
 @@||fa-st.co^
 @@||facebookid.live^
 @@||fadurl.com^
-@@||fagn.top^
 @@||faiq09824.life^
 @@||fal.cn^
 @@||fam.ag^
-@@||famousurl.com^
 @@||fandan.co^
 @@||fandom.link^
 @@||fandw.me^
@@ -1565,9 +1514,6 @@
 @@||fbx.nz^
 @@||fce.gg^
 @@||fdkmx.sbs^
-@@||fdmlm.com^
-@@||fdmlm.sbs^
-@@||fdzsf.com^
 @@||fee.vn^
 @@||female-and-male-in-tech.com^
 @@||fenditorosiatoter.life^
@@ -1581,14 +1527,11 @@
 @@||fff.to^
 @@||fff.wf^
 @@||fffutu.re^
-@@||ffiwk.com^
 @@||ffm.to^
-@@||ffrpa.sbs^
 @@||fgsrwy.com^
 @@||fgurl.net^
 @@||fhmzz.com^
 @@||fhurl.com^
-@@||fhxor.com^
 @@||fi.ro^
 @@||fields.church^
 @@||fifa.fans^
@@ -1596,8 +1539,6 @@
 @@||fighter234.best^
 @@||filz.fr^
 @@||find-url.co^
-@@||findanupgopuram.life^
-@@||fiqto.sbs^
 @@||fire.to^
 @@||firsturl.de^
 @@||firsturl.net^
@@ -1605,7 +1546,6 @@
 @@||fitz.ms^
 @@||fklit.com^
 @@||fl-y.com^
-@@||flamingoclub.life^
 @@||flash-point-studios.life^
 @@||flash-point-studios.live^
 @@||flashsc.re^
@@ -1634,7 +1574,6 @@
 @@||fnb.lc^
 @@||fnote.it^
 @@||foe.hn^
-@@||foee.top^
 @@||folu.me^
 @@||fon.gs^
 @@||foodtv.com^
@@ -1642,7 +1581,6 @@
 @@||ford.to^
 @@||forms.gle^
 @@||forr.com^
-@@||fortunium.xyz^
 @@||found.ee^
 @@||fovre.sbs^
 @@||fox.tv^
@@ -1652,13 +1590,9 @@
 @@||s.free.fr^
 @@||free-sex.live^
 @@||url-shortener.freebusinessapps.net^
-@@||freefc24code.life^
 @@||freesexes.life^
 @@||freshflowangling.store^
 @@||freze.it^
-@@||fri-masms7.info^
-@@||fsjvp.sbs^
-@@||fslvi.com^
 @@||fstgo.to^
 @@||fstrk.cc^
 @@||url-shortener.yc.fstrk.io^
@@ -1681,15 +1615,10 @@
 @@||fwdme.info^
 @@||fwkar.com^
 @@||fwme.eu^
-@@||fwwdc.com^
 @@||fwzi.top^
 @@||fxn.ws^
 @@||fxqwe.com^
-@@||fxrie.top^
 @@||download.fxsound.com^
-@@||fyndr.info^
-@@||fznby.sbs^
-@@||fzwgn.sbs^
 @@||g.asia^
 @@||g.co^
 @@||g.page^
@@ -1727,14 +1656,9 @@
 @@||gatustox.net^
 @@||gaw.kr^
 @@||gaysi.live^
-@@||gbblp.sbs^
-@@||gbdra.top^
-@@||gbnbm.top^
 @@||gbod.org^
 @@||gbpg.net^
-@@||gbrqg.top^
 @@||gbte.tech^
-@@||gbxb.info^
 @@||go.gcash.com^
 @@||gclnk.com^
 @@||gcrs.live^
@@ -1748,7 +1672,6 @@
 @@||geg.li^
 @@||gegeshidzedato10.life^
 @@||gek.link^
-@@||gems-hunters-verified-url.live^
 @@||gemy.link^
 @@||gen.cat^
 @@||geni.us^
@@ -1763,7 +1686,6 @@
 @@||get.lc^
 @@||get-l.ink^
 @@||get-modern.com^
-@@||get-rude-boutique.live^
 @@||getadsnow.org^
 @@||getbitly.pro^
 @@||getblue.me^
@@ -1778,7 +1700,6 @@
 @@||gf.to^
 @@||gfree.fr^
 @@||gfuel.ly^
-@@||gfxa.top^
 @@||ggl.link^
 @@||ggle.io^
 @@||gglink.site^
@@ -1815,7 +1736,6 @@
 @@||gmy.su^
 @@||gn.am^
 @@||gnam.me^
-@@||gnkxh.top^
 @@||go.aws^
 @@||s.bnpb.go.id^
 @@||go-duo-join-live-video-chat-invite.live^
