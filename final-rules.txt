@@ -7369,7 +7369,6 @@
 @@||gopvote.co^
 @@||gora.golf.rakuten.co.jp^
 @@||gorio.page^
-@@||goshareit.net^
 @@||goshrink.com^
 @@||gosible6.click^
 @@||gosign.adobe.com^
@@ -7403,7 +7402,6 @@
 @@||gowat.ch^
 @@||gp.se^
 @@||gph.to^
-@@||gppyi.com^
 @@||gpqkc.top^
 @@||gps.engadget.com^
 @@||gpsfront.aliexpress.com^
@@ -7411,7 +7409,6 @@
 @@||gq.com^
 @@||gq.mn^
 @@||gql.twitch.tv^
-@@||gqqri.top^
 @@||gr-go.kelkoogroup.net^
 @@||gr.ign.com^
 @@||gr.me^
@@ -7495,7 +7492,6 @@
 @@||guardian.co.uk^
 @@||guardianproject.gitlab.io^
 @@||guardianproject.info^
-@@||gubdw.com^
 @@||guce.advertising.com^
 @@||guce.engadget.com^
 @@||guce.huffingtonpost.com.au^
@@ -7530,7 +7526,6 @@
 @@||gym.sh^
 @@||gyork1651blog.life^
 @@||gz-lb1.internet.spanner.alipaydns.com^
-@@||gzrql.com^
 @@||h-adashx.ut.dingtalk.com^
 @@||h-adashx.ut.ele.me^
 @@||h-cdn.com^
@@ -7565,8 +7560,6 @@
 @@||hackerone.com^
 @@||hackthissite.org^
 @@||hadsucma.com^
-@@||haibmwku.xyz^
-@@||halfacamel.info^
 @@||halifax.maelstrom.gameservices.xboxlive.com^
 @@||halo.part.xbox.com^
 @@||halo.xbox.com^
@@ -7575,7 +7568,6 @@
 @@||hanada.info^
 @@||handhelds.engadget.com^
 @@||hangeul.naver.com^
-@@||hangthietyeu.life^
 @@||hanime1.me^
 @@||hans-me-hike.life^
 @@||hansmehikes.life^
@@ -7587,7 +7579,6 @@
 @@||haokawx.lot-ml.com^
 @@||haoma.163.com^
 @@||hapi.hi.163.com^
-@@||happytobackspace.com^
 @@||har.es^
 @@||harachi.info^
 @@||harapan777.love^
@@ -7605,7 +7596,6 @@
 @@||hausarzt.link^
 @@||hawk.pcgamer.com^
 @@||hbaz.co^
-@@||hbdzx.sbs^
 @@||hblab.me^
 @@||hbo.com^
 @@||hbogo.com^
@@ -7618,7 +7608,6 @@
 @@||hc.tdm.qq.com^
 @@||hcaptcha.com^
 @@||hcibh.com^
-@@||hcizp.top^
 @@||hcjs.nv7s.com^
 @@||hclips.ahcdn.com^
 @@||hclips.com^
@@ -7646,8 +7635,6 @@
 @@||hec.su^
 @@||heise.de^
 @@||hello.myfonts.net^
-@@||hellosliponi.life^
-@@||hellowork.life^
 @@||hellraisers.info^
 @@||help-assets.soundcloud.com^
 @@||help-m.line.me^
@@ -7698,7 +7685,6 @@
 @@||herokuapp.com^
 @@||herokudns.com^
 @@||herramientasecommerce.com^
-@@||heuxn.sbs^
 @@||hex.io^
 @@||heybit.link^
 @@||heylink.me^
@@ -7706,11 +7692,7 @@
 @@||heyue.xiaomi.com^
 @@||heyyyl.ink^
 @@||hf.co^
-@@||hfddh.sbs^
-@@||hfwrental.live^
-@@||hgowh.com^
 @@||hgs.xyz^
-@@||hgtyu.sbs^
 @@||hhbw.io^
 @@||hhs.gov^
 @@||hi.kktv.to^
@@ -7759,7 +7741,6 @@
 @@||hkconfig.gcloud.qq.com^
 @@||hkping.igamecj.com^
 @@||hkspeed.igamecj.com^
-@@||hkwvi.top^
 @@||hl2rcv.adobe.com^
 @@||hl7.me^
 @@||hlaueriksson.me^
@@ -7775,7 +7756,6 @@
 @@||hm.com^
 @@||hm.ru^
 @@||hmf.li^
-@@||hmorc.top^
 @@||hmp.me^
 @@||hmt.ai^
 @@||hn.algolia.com^
@@ -7788,7 +7768,6 @@
 @@||hocmai.link^
 @@||hodroffs.com^
 @@||hoeg.it^
-@@||hoheo.sbs^
 @@||hoholah.xyz^
 @@||hoken.rakuten.co.jp^
 @@||hoki22crot.com^
@@ -7855,7 +7834,6 @@
 @@||how.my^
 @@||howtoforge.com^
 @@||howtogeek.com^
-@@||hoy.kr^
 @@||hp.care^
 @@||hp.com^
 @@||hpe.to^
@@ -7863,7 +7841,6 @@
 @@||hpxjl.com^
 @@||hqq.tv^
 @@||hqq.watch^
-@@||hqsee.sbs^
 @@||hqstreams7.info^
 @@||hqxxx.bar^
 @@||hr.163.com^
@@ -7871,13 +7848,10 @@
 @@||hrbl.me^
 @@||hrbrg.co^
 @@||hrcs.huawei.com^
-@@||hrdcx.top^
 @@||href.li^
 @@||href.pw^
-@@||hrjqn.com^
 @@||hrst.ph^
 @@||hrten.com^
-@@||hrxyb.sbs^
 @@||hs-uk.co^
 @@||hs.eloqua.com^
 @@||hscr.me^
@@ -7887,7 +7861,6 @@
 @@||hsr.hoyoverse.com^
 @@||hsrw.info^
 @@||hstx.eu^
-@@||hszci.sbs^
 @@||ht.ly^
 @@||htgb.co^
 @@||htgi.ru^
@@ -7929,7 +7902,6 @@
 @@||hubspotlinks.com^
 @@||hubt.pornhub.com^
 @@||hud.gov^
-@@||huepl.sbs^
 @@||huff.to^
 @@||huffingtonpost.co.uk^
 @@||huffingtonpost.com^
@@ -7942,7 +7914,6 @@
 @@||hulu.tv^
 @@||huluxia.com^
 @@||huma.na^
-@@||humanityforgaza.live^
 @@||humansarefree.com^
 @@||humb.apple.com^
 @@||humblebundle.com^
@@ -8049,7 +8020,6 @@
 @@||ibest.in^
 @@||ibf.tw^
 @@||ibit.ly^
-@@||iblgcr.com^
 @@||ibm.biz^
 @@||ibm.co^
 @@||ibm.com^
@@ -8061,7 +8031,6 @@
 @@||icanhazip.com^
 @@||icann.org^
 @@||icare.huawei.com^
-@@||ice-bath-studio.life^
 @@||ice.lol^
 @@||ichafunddrives.live^
 @@||ichnaea-web.netflix.com^
@@ -8083,7 +8052,6 @@
 @@||icute.com^
 @@||icutlink.com^
 @@||icux.xyz^
-@@||icwdk.sbs^
 @@||id-cdn.twitch.tv^
 @@||id-lookup.api.playstation.com^
 @@||id.163.com^
@@ -8104,7 +8072,6 @@
 @@||idd.sonymobile.com^
 @@||ide-run.goorm.io^
 @@||idealista.com^
-@@||idek.net^
 @@||identity.apple.com^
 @@||ideone.com^
 @@||idfk.lol^
@@ -8112,7 +8079,6 @@
 @@||idg.me^
 @@||idg.se^
 @@||idjzj.sbs^
-@@||idksg.top^
 @@||idm.in^
 @@||idmail.me^
 @@||idmsa.apple.com^
@@ -8122,7 +8088,6 @@
 @@||idv-prod1.apple.com^
 @@||idv.cdn-apple.com^
 @@||idvip.us^
-@@||idwln.com^
 @@||idz-do.pl^
 @@||ie-go.kelkoogroup.net^
 @@||ie.ign.com^
@@ -8166,8 +8131,6 @@
 @@||iii.im^
 @@||iiiii.in^
 @@||iiil.io^
-@@||iikzi.top^
-@@||iiwap.top^
 @@||ijg.cc^
 @@||ijn.tl^
 @@||ijr.com^
@@ -8402,7 +8365,6 @@
 @@||imo.cx^
 @@||imop.com^
 @@||impala-external-lb-1441126057.us-east-1.elb.amazonaws.com^
-@@||imperiolink.com^
 @@||import.spot.im^
 @@||improving.duckduckgo.com^
 @@||impv2mgt-dev.modpim.com^
@@ -8460,8 +8422,6 @@
 @@||indiamart.com^
 @@||indiatimes.com^
 @@||indiegogo.com^
-@@||indovipx1000.com^
-@@||indtr.ee^
 @@||induknaga.xyz^
 @@||indvix.com^
 @@||indy.st^
@@ -8482,7 +8442,6 @@
 @@||info.viber.com^
 @@||infoblox.com^
 @@||infoq.com^
-@@||infostarenas.info^
 @@||infs.site^
 @@||infy.com^
 @@||ing-diba.de^
@@ -8584,7 +8543,6 @@
 @@||iny123.com^
 @@||inyarro.ws^
 @@||inyurl.com^
-@@||inyuy.com^
 @@||io.mi.com^
 @@||io.playstation.com^
 @@||iob.imgur.com^
@@ -8658,12 +8616,9 @@
 @@||irc.abjects.net^
 @@||irc.chat.twitch.tv^
 @@||irc.twitch.tv^
-@@||iriacassu.life^
 @@||irishtimes.com^
-@@||irkc.top^
 @@||irl.com^
 @@||irng.ca^
-@@||irop.top^
 @@||irs.gov^
 @@||is.am^
 @@||is.gd^
@@ -8717,10 +8672,7 @@
 @@||itrk.it^
 @@||its-4-u.com^
 @@||itsh.bo^
-@@||itsmariapage.xyz^
-@@||itsmariaspage.xyz^
 @@||itsssl.com^
-@@||itumb.sbs^
 @@||itunes.apple.com^
 @@||itunes.com^
 @@||itunesconnect.apple.com^
@@ -8767,7 +8719,6 @@
 @@||jaga.link^
 @@||jaglil.com^
 @@||jagoan-hosting.online^
-@@||jajy.top^
 @@||jalopnik.com^
 @@||jamaica-applicants.info^
 @@||jame.sn^
@@ -8788,7 +8739,6 @@
 @@||jb.gg^
 @@||jbhifi.com.au^
 @@||jbqdo.com^
-@@||jcjbi.com^
 @@||jcmsfd.account.microsoft.com^
 @@||jcp.is^
 @@||jcpenney.com^
@@ -8800,20 +8750,14 @@
 @@||jdem.cz^
 @@||jdoqocy.com^
 @@||jdownloader.org^
-@@||jdqf.info^
-@@||jdsounds.live^
-@@||jean-pex-974.life^
 @@||jeeng.com^
 @@||jei2iedx-android.mobile-sdk-api.intercom.io^
-@@||jejuwin.live^
 @@||jellyfish.pandora.xiaomi.com^
 @@||jellyurl.com^
 @@||jenkins.playstation.com^
 @@||jenkins.xda-developers.com^
 @@||jenoriana.bio^
 @@||jeruk.link^
-@@||jesse-hall-igan112.life^
-@@||jessestonecedar.live^
 @@||jetzt.bekservice.co.uk^
 @@||jetzt.work^
 @@||jf.360.cn^
@@ -8821,7 +8765,6 @@
 @@||jftvd.com^
 @@||jhk-cdn-mampic.hismarttv.com^
 @@||jhu.li^
-@@||jhxpc.info^
 @@||jiagu.360.cn^
 @@||jiamitu.mi.com^
 @@||jianghu.163.com^
@@ -8829,7 +8772,6 @@
 @@||jiathis.com^
 @@||jiazhang.gm.163.com^
 @@||jiazhang.qq.com^
-@@||jieee.sbs^
 @@||jii.li^
 @@||jijr.com^
 @@||jikipedia.com^
@@ -8840,15 +8782,12 @@
 @@||jiotv.catchup.cdn.jio.com^
 @@||jiotv.data.cdn.jio.com^
 @@||jiourl.com^
-@@||jipu.info^
 @@||jira.flipboard.com^
 @@||jira.gotinder.com^
 @@||jira.shop.samsung.com^
 @@||jira.xda-developers.com^
 @@||jjlco.net^
 @@||jkf.lv^
-@@||jkhzk.sbs^
-@@||jkwog.sbs^
 @@||jmp2.net^
 @@||jnfusa.org^
 @@||jnn-pa.googleapis.com^
@@ -8865,24 +8804,19 @@
 @@||joemonster.org^
 @@||joewein.net^
 @@||join-id.info^
-@@||join-live-cam.life^
 @@||join.secure.skypeassets.com^
 @@||join.slack.com^
 @@||join.validatedsite.com^
 @@||join.vimeo.com^
 @@||join.worldoftanks.eu^
 @@||joiner.co^
-@@||joinlive.live^
-@@||joinlivecam.live^
 @@||joint.reg2t.sandai.net^
 @@||jomblo.org^
 @@||joo.gl^
 @@||joomla.org^
-@@||jornallogica.com^
 @@||josue-p-ellis-co.life^
 @@||jotform.com^
 @@||joturl.com^
-@@||jouih.top^
 @@||journey.playstation.com^
 @@||joy8.bond^
 @@||joyreactor.cc^
@@ -8900,7 +8834,6 @@
 @@||jp06.zopim.com^
 @@||jp1.p5.documentsawsperf.adobe.com^
 @@||jp22.net^
-@@||jp2455jp99999.live^
 @@||jpdic.naver.com^
 @@||jpeg.ly^
 @@||jpjp.io^
@@ -8909,11 +8842,7 @@
 @@||jpost.com^
 @@||jppt.cc^
 @@||jproxy.zoho.com^
-@@||jpsds.sbs^
-@@||jpym.info^
 @@||jq.qq.com^
-@@||jqkfm.top^
-@@||jqroy.com^
 @@||jquery.com^
 @@||jqueryscript.net^
 @@||jqueryui.com^
@@ -8942,20 +8871,15 @@
 @@||js.ui-portal.de^
 @@||js1.t.sinajs.cn^
 @@||jsak.mmtcdn.com^
-@@||jsckd.top^
 @@||jsdelivr.net^
-@@||jsdqa.top^
 @@||jsfiddle.net^
 @@||jsinfo.net^
 @@||jsl1.in^
-@@||jsodg.sbs^
 @@||json.cn^
 @@||jsparty.fm^
 @@||jspassport.ssl.qhimg.com^
 @@||jssocdn.indiatimes.com^
 @@||jstatic.3.cn^
-@@||jtltl.info^
-@@||jtnhe.com^
 @@||ju.mp^
 @@||judge.me^
 @@||jugem.jp^
@@ -8967,20 +8891,15 @@
 @@||just.as^
 @@||justreleased.site^
 @@||jvc.gg^
-@@||jvjum.com^
 @@||jvod.300hu.com^
-@@||jvtgd.sbs^
 @@||jwpcdn.com^
 @@||jwplatform.com^
 @@||jwpsrv.com^
-@@||jwyra.sbs^
 @@||jx.cn^
 @@||jx.me^
 @@||jxxl.live^
 @@||jynjdg.com^
-@@||jypgl.com^
 @@||jytechs.in^
-@@||k-chapman.life^
 @@||k-p.li^
 @@||k.cocooncenter.com^
 @@||k.sinaimg.cn^
@@ -9000,17 +8919,14 @@
 @@||kakaotv.daum.net^
 @@||kaleysupport.life^
 @@||kaltura.com^
-@@||kand18.com^
 @@||kanjiantu.com^
 @@||kaos.link^
-@@||kapitalbank.live^
 @@||kaptcha.com^
 @@||kapten69.life^
 @@||karanpc.com^
 @@||karaoke4kids.live^
 @@||karisaathman346.life^
 @@||kas.pr^
-@@||kasambuhay-consumer-community-square-community.live^
 @@||kask.us^
 @@||kaspersky.com^
 @@||kastatic.com^
@@ -9020,16 +8936,11 @@
 @@||katwr.sbs^
 @@||katzr.net^
 @@||kb.adguard.com^
-@@||kbalq.com^
 @@||kbank.co^
 @@||kbit.co^
-@@||kbxul.com^
 @@||kcbxo.com^
 @@||kck.st^
 @@||kcsoftwares.com^
-@@||kcwqz.com^
-@@||kdhyf.sbs^
-@@||kdpc.info^
 @@||ke.me^
 @@||keen.io^
 @@||keep.line.me^
@@ -9040,7 +8951,6 @@
 @@||keepo.bio^
 @@||keepo.io^
 @@||keiba.rakuten.co.jp^
-@@||kelzj.com^
 @@||kem.lu^
 @@||kemono.party^
 @@||kepler.jd.com^
@@ -9059,8 +8969,6 @@
 @@||kf.org^
 @@||kf5.com^
 @@||kfd.pl^
-@@||kfnji.com^
-@@||kfqfh.com^
 @@||kfrc.co^
 @@||kg.games^
 @@||kgs.link^
@@ -9143,7 +9051,6 @@
 @@||kmart.com.au^
 @@||kmart.com^
 @@||kmi.mobi^
-@@||kmrrf.com^
 @@||kn.gravatar.com^
 @@||knet.cn^
 @@||knf.md^
@@ -9157,8 +9064,6 @@
 @@||ko.gl^
 @@||ko.gravatar.com^
 @@||ko.wikipedia.com^
-@@||koahb.top^
-@@||kofn.info^
 @@||kohls.com^
 @@||koi800.cc^
 @@||koinko.in^
@@ -9171,12 +9076,10 @@
 @@||kont.ly^
 @@||koofr.eu^
 @@||kopimi.com^
-@@||kopo.live^
 @@||kort.ca^
 @@||korta.nu^
 @@||korta.st^
 @@||kortlink.dk^
-@@||kosniem79.life^
 @@||koszykrd.wp.pl^
 @@||kotaku.com^
 @@||kotl.in^
@@ -9204,14 +9107,10 @@
 @@||krping.igamecj.com^
 @@||krpp.me^
 @@||krunchd.com^
-@@||kshjg.sbs^
 @@||ksn.kaspersky.com^
-@@||ksorr.com^
 @@||ktbs.in^
-@@||ktbsa.sbs^
 @@||ktckesaria.com^
 @@||ktla.com^
-@@||ktudg.com^
 @@||ktv303.cc^
 @@||ku-li.de^
 @@||kuaiche.com^
@@ -9229,7 +9128,6 @@
 @@||kurzelinks.de^
 @@||kutt.comodo.com^
 @@||kutt.it^
-@@||kuty.me^
 @@||kuykendall-lauren.life^
 @@||kv.ci^
 @@||kve.so^
@@ -9238,7 +9136,6 @@
 @@||kxcdn.com^
 @@||ky77.link^
 @@||kyaa.info^
-@@||kyqog.sbs^
 @@||kyshort.xyz^
 @@||l-i-nk.me^
 @@||l-ink.me^
@@ -9285,7 +9182,6 @@
 @@||labs.xda-developers.com^
 @@||laco.st^
 @@||lacumpa.biz^
-@@||ladreamsbig.life^
 @@||lads.myspacecdn.com^
 @@||ladyfootlocker.com^
 @@||laerd.com^
@@ -9309,8 +9205,6 @@
 @@||laptops.engadget.com^
 @@||larati.net^
 @@||larindahooks.link^
-@@||larry-herndon-115.life^
-@@||larryherndon115inc.life^
 @@||lastfm-img2.akamaized.net^
 @@||lasvegas.cbslocal.com^
 @@||lat.ms^
@@ -9328,7 +9222,6 @@
 @@||launcher.twitch.tv^
 @@||launchpad.net^
 @@||launchpadlibrarian.net^
-@@||lavtp.com^
 @@||layouts.nvidiagrid.net^
 @@||lazada.co.id^
 @@||lb.cm^
@@ -9337,7 +9230,6 @@
 @@||lb1.ow.ly^
 @@||lb2.ow.ly^
 @@||lbc.line.me^
-@@||lbocc.com^
 @@||lbs.pandora.xiaomi.com^
 @@||lbtw.tw^
 @@||lc-cn-n1-shared.com^
@@ -9562,14 +9454,12 @@
 @@||link3s.net^
 @@||link4.net^
 @@||linka.li^
-@@||linkabc.net^
 @@||linkable.to^
 @@||linkaff.com^
 @@||linkai.in^
 @@||linkaku.pro^
 @@||linkapp.click^
 @@||linkasli.pro^
-@@||linkb.ee^
 @@||linkbear.me^
 @@||linkbio.co^
 @@||linkbirdy.com^
@@ -9620,7 +9510,6 @@
 @@||linkjust.com^
 @@||linklada.com^
 @@||linklyhq.com^
-@@||linkmonet.com^
 @@||linkmpomax.live^
 @@||linkn.co^
 @@||linko.page^
@@ -9665,7 +9554,6 @@
 @@||linkshortner.online^
 @@||linkshrink.net^
 @@||linkshrink.org^
-@@||linksimples.com^
 @@||linksmail.geosolinc.com^
 @@||linksnappy.com^
 @@||linksubmit.net^
@@ -9699,7 +9587,6 @@
 @@||lists.blocklist.de^
 @@||lists.flipboard.com^
 @@||lists.noads.online^
-@@||lit-bin-ny-65.info^
 @@||lit-url.com^
 @@||lithium.com^
 @@||lithium.facebook.com^
@@ -9767,7 +9654,6 @@
 @@||livedoor.jp^
 @@||livefilestore.com^
 @@||livefyre.com^
-@@||livehotdisini.baby^
 @@||liveinternet.ru^
 @@||livejournal.com^
 @@||livemu.sc^
@@ -9782,7 +9668,6 @@
 @@||liveupdate.mac.sandai.net^
 @@||livewebbs2.msstatic.com^
 @@||lix.in^
-@@||ljqlf.com^
 @@||lkdg.yoga^
 @@||lkdin.io^
 @@||lkgw.cc^
@@ -9824,7 +9709,6 @@
 @@||lnkiy.in^
 @@||lnks.ai^
 @@||lnks.es^
-@@||lnks.fr^
 @@||lnkw.co^
 @@||lnky.jp^
 @@||lnkz.at^
@@ -9923,9 +9807,7 @@
 @@||loopia.com^
 @@||loopia.se^
 @@||loopt.us^
-@@||lop-o.live^
 @@||losangeles.cbslocal.com^
-@@||losblancos.vip^
 @@||lotustalk.com^
 @@||lou.ly^
 @@||love.xbox.com^
@@ -9941,10 +9823,8 @@
 @@||lowx.de^
 @@||lp.pinduoduo.com^
 @@||lpcdn.pinduoduo.com^
-@@||lpggy.sbs^
 @@||lph.la^
 @@||lprk.co^
-@@||lqjkn.com^
 @@||lr53r.com^
 @@||lrrahad200346.info^
 @@||lru.jp^
@@ -9952,7 +9832,6 @@
 @@||lsdl.es^
 @@||lsn.to^
 @@||lstu.fr^
-@@||lswmv.com^
 @@||lt-in-f14.1e100.net^
 @@||lt-in-f26.1e100.net^
 @@||lt-in-f27.1e100.net^
@@ -9965,7 +9844,6 @@
 @@||ltc.cryptopia.co.nz^
 @@||ltd.ac^
 @@||ltjay.sbs^
-@@||ltonh.top^
 @@||lttr.ai^
 @@||lu.api.mega.co.nz^
 @@||lublin.tvp.pl^
@@ -9992,7 +9870,6 @@
 @@||lxcdn.dl.files.xiaomi.net^
 @@||lxcdn2.api.files.xiaomi.net^
 @@||lxddck.com^
-@@||lxso.top^
 @@||ly.hkfture.com^
 @@||ly.me^
 @@||ly.my^
@@ -10000,7 +9877,6 @@
 @@||lyksoomu.com^
 @@||lyn.bz^
 @@||lync.cc^
-@@||lync.ly^
 @@||lynks.in^
 @@||lynkz.in^
 @@||lyreck.com^
@@ -10291,7 +10167,6 @@
 @@||maccms.com^
 @@||mackeeper.com^
 @@||macmillandictionary.com^
-@@||macrinaperez.live^
 @@||macrium.com^
 @@||macromedia.com^
 @@||macrr.com^
@@ -10345,7 +10220,6 @@
 @@||mailisa.live^
 @@||mailtrack.io^
 @@||maimai.cn^
-@@||main-xgslot88.fun^
 @@||main.iam.ad.ext.azure.com^
 @@||main.m.taobao.com^
 @@||mainaku.life^
@@ -10360,7 +10234,6 @@
 @@||making.vimeo.com^
 @@||makyo.io^
 @@||mal.ly^
-@@||malachi-qain.life^
 @@||malc0de.com^
 @@||mall.bilibili.com^
 @@||mall.mi.com^
@@ -10370,7 +10243,6 @@
 @@||malwareurls.joxeankoret.com^
 @@||mamm.ie^
 @@||mampir.link^
-@@||man-virgil-l-4057.life^
 @@||man.ac.uk^
 @@||manage.stripe.com^
 @@||mandrillapp.com^
@@ -10413,11 +10285,7 @@
 @@||maps5.moovitapp.com^
 @@||marfeelcache.com^
 @@||margevicius.lt^
-@@||mariaofpage.xyz^
-@@||mariasofpage.xyz^
 @@||marinetraffic.com^
-@@||mariofpage.online^
-@@||marisofpage.xyz^
 @@||market-api.staging.viber.com^
 @@||market.admin.staging.viber.com^
 @@||market.api.staging.viber.com^
@@ -10436,7 +10304,6 @@
 @@||marketing.hostgator.com^
 @@||marketing.tllms.com^
 @@||marketing.tr.netsalesmedia.pl^
-@@||marketingfyte.live^
 @@||marketo.com^
 @@||marketplace-origin.xbox.com^
 @@||marketplace.xbox.com^
