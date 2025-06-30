@@ -12401,7 +12401,6 @@ oo-software.com
 oo.gl
 oo0oo.icu
 oooo.to
-oostra.live
 ootit.com
 oow.pw
 ooyala.com
@@ -12446,7 +12445,6 @@ opera.com
 opera.software 
 opinion.latimes.com
 opinionlab.com
-opjlj.com
 opkale.me
 oplink.club
 oppo.com
@@ -12505,7 +12503,6 @@ osp.meituan.net
 ospserver.net
 ospt.me
 ospug.top
-osqcb.com
 osrecovery.apple.com
 oss.maxcdn.com
 ossp.voicecloud.cn
@@ -12529,7 +12526,6 @@ ourl.in
 ourl.tw
 ourle.net
 ourmagazines.co.uk
-oururl.live
 outbrain.com
 outexp-beta.cdn.qq.com
 outlook.com
@@ -12561,7 +12557,6 @@ ox.ac.uk
 oxelt.gl
 oxf.am
 oxfordjournals.org
-oycyi.sbs
 oyn.at
 oyo.net
 ozb.me
@@ -12654,7 +12649,6 @@ p9-webcast-sign.douyinpic.com
 p9.douyinpic.com
 pa-ko.ir
 pa.ag
-pablo168.online
 pacaio.match.qq.com
 pacbell.snap.com
 package.chocolatey.org
@@ -12865,9 +12859,6 @@ phicdn.net
 phidonpens.com
 philadelphia.cbslocal.com
 philips.to
-phimchualanh.life
-phimhays.live
-phimvietsub.life
 phishing.army
 phishing.mailscanner.info
 phobos.apple.com
@@ -12895,11 +12886,9 @@ phrase.dict.naver.com
 phrasebook.naver.com
 phs.tanx.com
 phst.in
-phyre.live
 pi-hole.net
 pi.hole
 pi.pardot.com
-pi.uz
 pia.sh
 pic*.40017.cn
 pic*.zhimg.com
@@ -12953,13 +12942,10 @@ pipe.int.trafficmanager.net
 pipe.skype.com
 pipeaota.com
 pipr.es
-pipsops.live
-piscanadaca.life
 pitchfork.com
 pitt.health
 pittsburgh.cbslocal.com
 piwik.org
-piwjn.com
 pix11.com
 pixel-static.spotify.com
 pixel.everesttech.net
@@ -12974,7 +12960,6 @@ pixeldrain.com
 pixelfy.me
 pixelsdesign.net
 pixhost.to
-pixietown.org
 pixiv.net
 pixly.link
 pixly.me
@@ -13068,10 +13053,8 @@ plus.l.google.com
 plus.ly
 pluwen.com
 plyr.io
-plystore.live
 pm.ly
 pmall.migc.xiaomi.com
-pmcccssa.info
 pmd.cdn.turner.com
 pmir.sec.miui.com
 pmp.ae
@@ -13082,7 +13065,6 @@ pnsne.ws
 pntra.com
 pntrac.com
 pntrack.com
-pnuhi.com
 pnut.co
 po.gravatar.com
 po.st
@@ -13109,12 +13091,10 @@ politi.co
 politico.com
 polka-staging.typekit.com
 polka.typekit.com
-pollardaboxes.life
 polling.bbc.co.uk
 polling.finance.naver.com
 poloniex.com
 polyfill.io
-polynation.life
 pool-de.supportxmr.com
 pool.btc.com
 pool.next.exchange
@@ -13128,11 +13108,9 @@ popm.ch
 poprl.com
 por.nz
 porkbun.com
-porn-sex.live
 pornhub.com
 pornhubpremium.com
 pornone.com
-pornrulett.live
 porntop.com
 porntrex.com
 pornzog.com
@@ -13165,7 +13143,6 @@ potplayer.daum.net
 powerreviews.com
 powershellgallery.com
 powr.io
-pp.cr
 pp.myapp.com
 pp.ru
 pp.ua
@@ -13187,7 +13164,6 @@ pr.tn
 pr0gramm.com
 practice.typekit.com
 practivate.adobe.com
-pradn.sbs
 pragmaticurl.com
 prbly.us
 prcgg.sbs
@@ -13204,7 +13180,6 @@ premierbet.live
 premierleague.com
 premium.linkedin.com
 premium.soundcloud.com
-premiumproducts.live
 preml.ge
 prendre-rendezvous.com
 prephe.ro
@@ -13254,7 +13229,6 @@ privad0.com
 privatehomeclips.com
 privateinternetaccess.com
 prize.travel.rakuten.co.jp
-prljx.sbs
 prn.to
 prnewswire.com
 prnt.sc
@@ -13372,7 +13346,6 @@ psstatic.cdn.bcebos.com
 pstmrk.it
 psu.edu
 psychic-shiva-ram.live
-psychology-today.life
 psychologytoday.com
 pt-br.about.flipboard.com
 pt-go.kelkoogroup.net
@@ -13431,7 +13404,6 @@ puhli.icu
 pull-m1.wxlivecdn.com
 pull.ticktick.com
 pulsar.ebay.com
-pun.ro
 purch.com
 purchase.mp.microsoft.com
 purdue.university
@@ -13467,7 +13439,6 @@ px.spiceworks.com
 px.srvcs.tumblr.com
 pxf.io
 pxgo.net
-pxicz.com
 pxlcrv.co
 pxlme.me
 pxu.co
@@ -13475,12 +13446,8 @@ py.md
 py.pl
 py6.ru
 pygy.co
-pylwm.sbs
 pymd.org
-pyrif.top
-pywpv.top
 pzdls.co
-pzjbw.sbs
 pzjms.sbs
 q-r.to
 q.ebaystatic.com
@@ -13522,34 +13489,22 @@ qiniuts.com
 qiuziti.com
 qiye.163.com
 qiye.xiaomi.com
-qiyel.sbs
 qiyukf.com
-qjccl.com
 qk.lc
 qksrv.net
-qkvlk.com
-qlbnk.com
 qlink.pro
-qliyr.sbs
 qlnk.net
 qm.qq.co
 qm.qq.com
 qme.mydns.jp
-qmnxj.top
 qn-static-tap.tapimg.com
 qnap.to
-qndjq.com
 qnm.163.com
-qntfq.sbs
-qnvhd.sbs
-qnxuw.sbs
 qo.dk
-qogbv.sbs
 qoo.by
 qos.gcloud.qq.com
 qos.hk.gcloudcs.com
 qos1.ol.epicgames.com
-qossl.com
 qowrk.com
 qph.ec.quoracdn.net
 qpic.cn
@@ -13569,7 +13524,6 @@ qr.codes
 qr.digi.tips
 qr.net
 qr2.bz
-qrbpw.com
 qrcc.me
 qrcd.org
 qrco.de
@@ -13590,8 +13544,6 @@ qsrm.qualcomm.com
 qt.gtimg.cn
 qt.ke
 qtn.co.il
-qtoit.com
-qton.top
 quainator.com
 qualcomm.com
 qualtrics.com
@@ -13610,7 +13562,6 @@ query1.finance.yahoo.com
 query2.finance.yahoo.com
 quick.lt
 quip-art.com
-quizoficial.live
 quora.com
 quoraurls.life
 quoraurlsite.life
@@ -13622,14 +13573,11 @@ qwjbc.sbs
 qxp.cz
 qxp.sk
 qxxxp.org
-qxygk.com
 qy.163.com
-qyoeu.com
 qze.it
 qzonestyle.gtimg.cn
 qzr2.com
 qzs.qq.com
-qzxva.com
 r-7.co
 r-txt.com
 r-txt.org
@@ -13696,7 +13644,6 @@ ra.gtimg.com
 ra6ofgjab.cc.rs6.net
 ra78rnoab.cc.rs6.net
 ra7jt48ab.cc.rs6.net
-rabde.sbs
 raceclip.com
 rackcdn.com
 radikal.ru
@@ -13719,7 +13666,6 @@ ramcourier.live
 ramp.purch.com
 rank.spot.im
 ranker.com
-rankgenius.live
 ranking.rakuten.co.jp
 ransomwaretracker.abuse.ch
 rantenah.com
@@ -13757,7 +13703,6 @@ raw.githubusercontent.com
 rawcdn.githack.com
 rawgit.com
 rawhttp.cloudflareworkers.com
-raxpj.com
 raygun.io
 raykiemery.com
 rayrzagab.cc.rs6.net
@@ -13774,7 +13719,6 @@ rblz6kyab.cc.rs6.net
 rbozfpgbb.cc.rs6.net
 rc6m7jbbb.cc.rs6.net
 rch.lt
-rcije.com
 rcknr.io
 rckstr.bz
 rcl.ink
@@ -13854,7 +13798,6 @@ redditp2pcredit.life
 redditsp2pcredit.life
 redditsp2pcredit.live
 redditstatic.com
-redem.live
 redemptionservices.accesscontrol.windows.net
 redfin.com
 rediff.com
@@ -13916,7 +13859,6 @@ rehtek.live
 rei.com
 reimageplus.com
 reive.site
-rekk.top
 relay01.hitbtc.com
 release.theplatform.com
 release.twitch.tv
@@ -13924,7 +13866,6 @@ releasenotes.sonymobile.com
 releases.flowplayer.com
 releases.flowplayer.org
 releases.hashicorp.com
-relhh.com
 reline.cc
 relink.asia
 relink.fr
@@ -14003,7 +13944,6 @@ rev.cm
 revanced.net
 revdl.com
 revenuecat.com
-review-us.life
 review.gbtcdn.com
 review.sandbox.engadget.com
 review.travel.rakuten.co.jp
@@ -14015,8 +13955,6 @@ revlk.com
 revr.ec
 rewards.xbox.com
 rewardtk.com
-rewssa-sew-e.live
-rewssasewes.live
 rexdl.com
 rfbybmuab.cc.rs6.net
 rfgmzawab.cc.rs6.net
@@ -14031,22 +13969,17 @@ rge6j8mab.cc.rs6.net
 rgkkzvdab.cc.rs6.net
 rgllca6ab.cc.rs6.net
 rgmechanicsgames.com
-rgpug.com
 rh5utc9ab.cc.rs6.net
 rh5uuo4ab.cc.rs6.net
 rh75p55ab.cc.rs6.net
-rhtxf.sbs
 rhub.in
-rhyiu.sbs
 ri-cdn.exponea.com
-ri.ms
 ri5mlu6ab.cc.rs6.net
 rice-v-ave.life
 rickroll.it
 rides.sng.link
 right.daum.net
 rikka.app
-rikkileesmith18.live
 rimgak.mmtcdn.com
 ringcentr.al
 rink.hockeyapp.com
@@ -14066,11 +13999,8 @@ rizy.ir
 rj99.art
 rjpl.link
 rjpz4ucab.cc.rs6.net
-rjqmg.top
 rjrpmitab.cc.rs6.net
-rjtgoyal92.live
 rjvn.co
-rjwfd.sbs
 rk6dggnab.cc.rs6.net
 rklmqleab.cc.rs6.net
 rkurl.com
@@ -14080,20 +14010,15 @@ rli.nl
 rlogs.youdao.com
 rls.tapimg.com
 rlu.ru
-rlvmf.top
 rlx.org
 rlxp.com
 rly.pt
 rm.flowplayer.com
-rmekg.com
 rmjddbabb.cc.rs6.net
-rmlvt.top
 rmnbcy7ab.cc.rs6.net
 rmuti.me
-rmvdt.com
 rng7xicab.cc.rs6.net
 rnk.net
-rnly.info
 rnm.me
 rntyu.com
 ro-go.kelkoogroup.net
@@ -14127,12 +14052,10 @@ ronald-adams-1.life
 rool.ink
 roosterteeth.com
 ror4pphbb.cc.rs6.net
-rotkt.com
 rouletteonline.live
 roush-jims.live
 router.bittorrent.com
 router.utorrent.com
-rovb.info
 rover.ebay.co.uk
 rover.ebay.com
 rover.ebay.de
@@ -14144,7 +14067,6 @@ rpd.ink
 rpetri.ch
 rpf.io
 rpg.twitch.tv
-rpghg.sbs
 rplg.co
 rptcs9bab.cc.rs6.net
 rptl.io
@@ -14154,12 +14076,9 @@ rq.fyi
 rq656jlab.cc.rs6.net
 rq6agxabb.cc.rs6.net
 rqenw9cab.cc.rs6.net
-rqnav.com
-rqtfy.com
 rqtqnaqab.cc.rs6.net
 rr.be
 rrd9h64ab.cc.rs6.net
-rrsby.com
 rrtdkicbb.cc.rs6.net
 rs.playstation.com
 rs6.net
@@ -14180,7 +14099,6 @@ rt7utobab.cc.rs6.net
 rtam-collector.appspot.com
 rtaw7vebb.cc.rs6.net
 rte.ch
-rteoo.sbs
 rtmp.cloud.vimeo.com
 rtss-prod.jioconnect.com
 rtube.nl
@@ -14217,7 +14135,6 @@ rupload.facebook.com
 rusd.in
 rush.oneplus.com
 rushgiving.com
-rusuhkali.xyz
 ruten.com.tw
 rutube.ru
 ruuppwbab.cc.rs6.net
@@ -14225,17 +14142,14 @@ rv2.com
 rvb5wz6ab.cc.rs6.net
 rvtv.io
 rvwd.co
-rwecv.com
 rwemw.com
 rwl.io
 rwp9h64ab.cc.rs6.net
-rwqhh.sbs
 rwx.es
 rwz.fr
 rx.link
 rxe.lol
 rxfc49ebb.cc.rs6.net
-rxxuy.top
 rxyzpj.com
 ry5rzwcab.cc.rs6.net
 ry9kgedab.cc.rs6.net
@@ -14517,7 +14431,6 @@ sb.hitbtc.com
 sb.ltn.fi
 sbanh.com
 sbfast.com
-sbfkg.top
 sbfull.com
 sbfunapi.cc
 sbfunservice-mirror.cc
@@ -14597,14 +14510,11 @@ scs.huawei.com
 scs.naver.com
 scts.in
 scuf.co
-scvjj.sbs
 sd-ccdc.huawei.com
 sd.360.cn
 sdafasf.info
 sdafasf.life
 sdafasf.live
-sdefr.life
-sdefr.live
 sdk-os.mpsdk.easebar.com
 sdk.accountkit.com
 sdk.jinrishici.com
@@ -14673,7 +14583,6 @@ searchapi.samsung.com.edgekey.net
 searchencrypt.com
 searchenginejournal.com
 sears.com
-sebe-got-u-melo-4.live
 seby.au
 seby.io
 sec-boss.static.xiaomi.net
@@ -14761,7 +14670,6 @@ seiu.co
 sejr.nl
 seldgtm1.sonymobile.com
 select.gotinder.com
-selena-lopez-2796.life
 self-repair.mozilla.org
 self.events.data.microsoft.com
 selink.top
@@ -14770,7 +14678,6 @@ sell.storefarm.naver.com
 selnd.com
 semrush.com
 senate.gov
-send-in-blue.live
 sendgrid-secure.bluecore.com
 sendgrid.net
 sendinblue.hitbtc.com
@@ -14782,9 +14689,7 @@ sentry.flipboard.com
 sentry.io
 sentry.lbry.tech
 sentry.spot.im
-seo-expert.live
 seo.spot.im
-seoexperts.life
 seogilak.lol
 seq.vc
 serial.alcohol-soft.com
@@ -14806,7 +14711,6 @@ service.oneplus.com
 service.signalr.net
 service.weather.microsoft.com
 serviceapi.rmcnmv.naver.com
-servicecenter.life
 servicenetwork.sonymobile.com
 services.addons.mozilla.org
 services.gfe.nvidia.com
@@ -14826,7 +14730,6 @@ seu.cleverreach.com
 seu1.cleverreach.com
 seu2.cleverreach.com
 sevenforums.com
-sewei.top
 sex4fun.co.uk
 sexy.jill.survive.from.the.monster
 seznam.cz
@@ -14884,7 +14787,6 @@ sh.st
 sh.wagbridge.taobao.com.gds.alibabadns.com
 sh7.ch
 shacknews.com
-shadowtech.life
 shadyurl.com
 shaken.rakuten.co.jp
 shang.qq.com
@@ -14963,13 +14865,11 @@ shope.ee
 shopifie.com
 shopify.com
 shopifystorekms.life
-shoplarryherndon115.life
 shopping.line.me
 shopping.naver.com
 shoppy.gg
 shopquoraurl.life
 shopvt.life
-shopwoolworths.live
 shorix.ru
 shorl.com
 shorrtener.herokuapp.com
@@ -15028,7 +14928,6 @@ shortenme.co
 shortenme.io
 shortenme.me
 shortenurls.eu
-shortenurlz.com
 shortenwe.com
 shortenworld.com
 shorter.gg
@@ -15048,7 +14947,6 @@ shortlink.co.za
 shortlink.com.au
 shortlink.net
 shortlink88.xyz
-shortlinkid.live
 shortlinkpanel.com
 shortlinks.co.uk
 shortlinksakti.xyz
@@ -15122,7 +15020,6 @@ shrink.pe
 shrinkearn.com
 shrinkforearn.in
 shrinkify.com
-shrinkin.xyz
 shrinkl.com
 shrinkly.co
 shrinkme.in
@@ -15180,7 +15077,6 @@ sikilat.fun
 sikk.de
 siklik.id
 sikqvt.com
-silasasanti0543.live
 silo.pluto.tv
 siloh.pluto.tv
 simage.gshifen.com
@@ -15246,7 +15142,6 @@ skills.samsung.com
 skimmth.is
 skimresources.com
 skiplinko.com
-skiplinks.net
 skipper.indevice.sonymobile.com
 skl.apple.com
 skl.sh
@@ -15269,7 +15164,6 @@ skypeassets.com
 skyrock.com
 skyurl.cc
 sl.gravatar.com
-sla-tory-a-1116.info
 slack-redir.net
 slack.com
 slackb.com
@@ -15289,7 +15183,6 @@ slnk.se
 slotamina.com
 slots799.online
 slpre.com
-slpzm.top
 sls.update.microsoft.com
 sls.update.microsoft.com.akadns.net
 slscr.update.microsoft.com
@@ -15385,7 +15278,6 @@ sns.m.taobao.com
 snsapi.relation.xiaomi.net
 snurl.com
 snurl.dk
-snvcp.sbs
 snyk.co
 snzypic.com
 so.arte
@@ -15409,9 +15301,6 @@ sockjs.pusher.com
 socks-indosat-aws-01.lotusflare.com
 socks-indosat-aws-02.lotusflare.com
 socx.in
-soegyi.info
-soegyi.life
-soegyi.live
 sofascore.com
 sofe.ebay.com
 sofire.baidu.com
@@ -15458,7 +15347,6 @@ sor.bz
 sorkale.me
 soso.com
 sosy.al
-sotis.sbs
 sotly.me
 sou.nu
 soulful-transformation-studio.life
@@ -15471,7 +15359,6 @@ source.typekit.com
 sourceforge.mirrorservice.org
 sourceforge.net
 sourl.cn
-sousj.sbs
 south-america.pool.ntp.org
 south-plus.net
 southfreak.com
@@ -15567,7 +15454,6 @@ sq6.ru
 sqdd.myapp.com
 sqex.to
 sqimg.qq.com
-sqmlm.sbs
 sqrl.it
 sqrx.io
 sqs.us-east-1.amazonaws.com
@@ -15584,7 +15470,6 @@ sr23.ru
 srdug.com
 sresc.io
 srnk.us
-srnku.sbs
 srturl.xyz
 sruuuqg.bond
 srv.au.ebayrtm.com
@@ -15601,14 +15486,12 @@ ss0.baidu.com
 ss1.baidu.com
 ss2.baidu.com
 ss3.baidu.com
-ss777-sl.ca
 ss777.games
 ss777.win
 ss88.my
 ssa.li
 ssc2003.info
 ssj-1256119282.cos.ap-guangzhou.myqcloud.com
-ssktf.com
 ssl-ccstatic.highwebmedia.com
 ssl-cdn.static.browser.mi-img.com
 ssl-check-links.info
@@ -15634,7 +15517,6 @@ ssr.m.goofish.com
 sstats.adobe.com
 sstats.economist.com
 sstream.flipboard.com
-ssugc.sbs
 st.hitbtc.com
 st.jingxi.com
 st.mycdn.me
@@ -16038,7 +15920,6 @@ style.sndcdn.com
 styles.redditmedia.com
 su.pr
 suarankri.me
-sub-slave-28.info
 sub2unlock.net
 subscribe.ign.com
 subscribe.wired.com
@@ -16120,7 +16001,6 @@ suite9-cdnnet.emarsys.net
 suite9.emarsys.net
 suitepmta01.emarsys.net
 suitepmta02.emarsys.net
-sujanaarch.life
 sukatobrut.xyz
 sukebei.nyaa.si
 sulejalan.online
@@ -16203,7 +16083,6 @@ supportxmr.com
 supr.cl
 supr.link
 supurlman.com
-suqrv.com
 sur.ly
 sura.pw
 surf.plus.google.com
@@ -16223,7 +16102,6 @@ surveymonkey.com
 surveys.twilio.com
 susurl.com
 suumk.com
-suvk.online
 sv.aq.qq.com
 sv.gravatar.com
 sv.map.baidu.com
@@ -16251,7 +16129,6 @@ swifttopia.com
 swipedright.gotinder.com
 switchy.io
 swiy.co
-swjdf.top
 swll.to
 swoo.sh
 swpinger.wip4.adobe.com
@@ -16260,8 +16137,6 @@ swscan.apple.com
 swsupt.com
 swtt.cc
 swupmf.adobe.com
-sxfy.info
-sxzlj.top
 sy.pe
 sy.to
 syandus.com
@@ -16287,7 +16162,6 @@ sysctl.org
 sytes.net
 syurl.com
 syw.co
-syyqk.top
 szag.link
 szczecin.tvp.pl
 szjrw.sbs
@@ -16442,7 +16316,6 @@ t1.market.xiaomi.com
 t1.nl
 t10.baidu.com
 t11.baidu.com
-t111.info
 t111.pro
 t12.baidu.com
 t13.intelliad.de
@@ -16476,7 +16349,6 @@ tabsoft.co
 tabzi.com
 tac.blog.naver.com
 tachiyomi.org
-taedy.com
 tag.aticdn.net
 tag.blog.naver.com
 tag.getdrip.com
@@ -16500,7 +16372,6 @@ talkgadget.google.com
 talkingdata.com
 talkx.l.google.com
 tamar.is
-tammy-jo33.life
 tampa.cbslocal.com
 tampermonkey.net
 tandfonline.com
@@ -16525,7 +16396,6 @@ targetednotifications-tm.trafficmanager.net
 targeterpro.com
 taskofdeity.netlify.app
 tautin.id
-tauzn.top
 tawk.link
 tawk.to
 taxi.line.me
@@ -16540,7 +16410,6 @@ tbsc.apple.com
 tbskip.taobao.com
 tbv.sb-cd.com
 tc.tradetracker.net
-tcat.tc
 tcc.io
 tcch.ch
 tcdn.qq.com
@@ -16551,7 +16420,6 @@ tdid.m.qq.com
 tdotly.com
 tdrive.li
 tdv-adm.live
-tdvtb.sbs
 tdy.lol
 tdy.sg
 te.deviantart.com
@@ -16560,11 +16428,9 @@ te.wikipedia.com
 tealium.cbsnews.com
 team.diigo.com
 team.stumbleupon.com
-teamline.live
 teams.microsoft.com
 teamviewer.com
 teaparty.org
-tebar.in
 techcommunity.microsoft.com
 techcrunch.com
 techguy.org
@@ -16647,7 +16513,6 @@ tg1.premium.db4.wix.com
 tg1.premium.dc11.wix.com
 tgam.ca
 tgbe.link
-tgcv.top
 tgdgacor.com
 tgr.ph
 th.bing.com
@@ -16698,7 +16563,6 @@ themes.mozilla.org
 themoviedb.com
 thenews24h.tech
 thenextweb.com
-theogsocialnetwork.live
 thepiratebay.org
 thepiratebay.se
 theporndude.com
@@ -16721,11 +16585,6 @@ thirdwx.qlogo.cn
 thls.co
 thm.market.xiaomi.com
 thn.news
-tho-bani-emncw-abe.info
-thobaniemncwabe.life
-thoitrang.life
-thong-tin-can-han.info
-thongtincanhan.life
 thoschi.com
 thr.cm
 thrdl.es
@@ -16784,7 +16643,6 @@ timeline.line.me
 timesofindia.indiatimes.com
 tin.li
 tinderurl.com
-tinesy.com
 tini.cc
 tinky.cc
 tinu.be
@@ -16876,7 +16734,6 @@ tllg.net
 tlot.cc
 tlrd.pl
 tlrk.it
-tlrsq.top
 tls.yt
 tlsn.io
 tlu.dl.delivery.mp.microsoft.com
@@ -16892,7 +16749,6 @@ tmi.twitch.tv
 tmidao.com
 tmidaos.com
 tmisc.home.news.cn
-tmkzy.com
 tmsnrt.rs
 tmt.pw
 tmz.com
@@ -16920,7 +16776,6 @@ to.lk
 to.ly
 to.pbs.org
 to8.cc
-tocnp.com
 today.com
 today.line.me
 tofukko.r.ribbon.to
@@ -16975,7 +16830,6 @@ torproject.org
 torren.eu
 torrentfreak.com
 torrentgalaxy.to
-tosul.top
 tot.hoyoverse.com
 touch.facebook.com
 touch.kaspersky.com
@@ -16996,7 +16850,6 @@ tp24.com
 tp90.link
 tpaper.my
 tpc.io
-tpjir.top
 tplinkwifi.net
 tpm.ac
 tpmr.com
@@ -17111,7 +16964,6 @@ travelocity.com
 travl.rs
 trbas.com
 trck.me
-trclo.top
 trendingvideo.live
 trezor.io
 trezurl.ir
@@ -17149,7 +17001,6 @@ trl.ca
 troasters.com
 trophy01.np.community.playstation.net
 trowel.twitch.tv
-troy-a-112255.life
 troy.hn
 trpd.xyz
 trsm.es
@@ -17185,8 +17036,6 @@ tsta.rs
 tsz4.me
 tt5k.site
 ttad.me
-ttcoa.sbs
-ttppk.info
 ttrewards.com
 tuasaude.com
 tuba.fm
@@ -17195,21 +17044,17 @@ tuchong.com
 tucows.com
 tucowsdomains.com
 tudou.com
-tufts-medicine-transportation-hub.org
-tuhny.com
 tulinks.online
 tumblr.com
 tunein.com
 turboagram.com
 turbobit.net
-turhi.com
 turner.com
 turo.us
 tusfiles.net
 tut.by
 tutti.ch
 tuwaga.vip
-tuwmc.sbs
 tv-stage.line.me
 tv.adobe.com
 tv.app.migc.xiaomi.com
@@ -17255,7 +17100,6 @@ twb.nz
 tweetable.link
 tweetburner.com
 twemoji.maxcdn.com
-twghc.top
 twilightparadox.com
 twimg.com
 twimg.sinatw.com
@@ -17271,14 +17115,9 @@ twitterpan.com
 twitthis.com
 twiturl.de
 twixar.com
-twkfd.top
 twm5g.co
 two.re
-twofactorauth.info
-twojm.com
-twojm.sbs
 twou.co
-twpyl.com
 twrd.in
 twt-assets.washtimes.com
 twtr.in
@@ -17291,7 +17130,6 @@ tx2.a.kwimgs.com
 tx2.a.yximgs.com
 tx3.163.com
 txdl.top
-txhih.sbs
 txmov2.a.kwimgs.com
 txt.go.sohu.com
 txtme-live.co.uk
@@ -17370,14 +17208,10 @@ ufjqt.com
 ug.cz
 ugame.9game.cn
 ugc.api.playstation.com
-ugmon.info
 ugp.io
 ugurl.cn
 uhf.microsoft.com
-uhiim.sbs
 uhishado.com
-uhnqe.com
-uhtny.com
 ui.ptlogin2.wechat.com
 ui.skype.akadns.net
 ui.skype.com
@@ -17398,8 +17232,6 @@ uk.playstation.com
 uk.pool.ntp.org
 ukf.me
 ukoeln.de
-ukphamacyunited.live
-ukqf.top
 ul.rs
 ul.to
 ul3.ir
@@ -17421,9 +17253,7 @@ uminify.com
 umiwi.com
 umlib.us
 umn.edu
-umnm.top
 umuly.com
-umuoq.com
 un.org
 unand.net
 unbouncepages.com
@@ -17434,7 +17264,6 @@ undrarmr.co
 undraw.co
 unesa.me
 unesco.org
-unhc.life
 uni.cf
 unibytes.com
 unicycle.to
@@ -17446,7 +17275,6 @@ uniportal.huawei.com
 unisdk.update.easebar.com
 unisdk.update.netease.com
 united-links.com
-unitedkingdompharmacy.life
 unity3d.com
 university.rakuten.co.jp
 unix.com
@@ -17467,11 +17295,9 @@ unsw.to
 untiny.me
 untpft.com
 unv.integration.viber.com
-unzp.top
 uob.sc.omtrdc.net
 uofr.us
 uoft.me
-uokko.sbs
 uol.com.br
 uom.link
 uongjowo.gravatar.com
@@ -17549,7 +17375,6 @@ uptobox.com
 uptostream.com
 upu.samsungelectronics.com
 upzat.com
-upziq.com
 ur-l.ru
 ur.link
 ur.ly
@@ -17819,16 +17644,12 @@ utz.me
 uu.nu
 uucc.cc
 uudta.com
-uufso.sbs
 uurl.icu
 uurl.us
 uurml.top
 uuz.cc
 uwat.ca
-uwcqe.com
-uwvim.sbs
 ux5.de
-uxild.com
 v.daum.net
 v.douyin.com
 v.firebog.net
@@ -17888,13 +17709,10 @@ vas.samsungapps.com
 vaserviece.10jqka.com.cn
 vast.link
 vats.im
-vaufs.sbs
 vaultmedia.ign.com
 vaza.me
 vbly.us
-vbxep.sbs
 vc.ru
-vcaun.com
 vcrypt.net
 vcs.snssdk.com
 vcwvb.com
@@ -17934,10 +17752,7 @@ vfo.voyage-prive.co.uk
 vgfiles.nabstudio.com
 vgn.me
 vgnx.co
-vgoaa.com
-vgwrm.com
 vhcae.com
-vhdgx.sbs
 vi-vn.about.flipboard.com
 vi.gravatar.com
 vi.sa
@@ -17954,7 +17769,6 @@ viafoura.net
 viahold.com
 viaja.am
 viarnd.112.2o7.net
-vibebycalifornia.life
 viberout-calls.staging.viber.com
 viberout-lp.viber.com
 vibes.viber.com
