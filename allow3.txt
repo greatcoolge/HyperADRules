@@ -4,15 +4,16 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 29 Jun 2025 04:32 UTC
-! Version: 2025.0629.0432.30
+! Last modified: 30 Jun 2025 12:04 UTC
+! Version: 2025.0630.1204.43
 ! Syntax: AdBlock
-! Number of entries: 1709
+! Number of entries: 1763
 !
 @@||l.1mp.ru^
 @@||t.1und1.de^
 @@||links.2ns.fi^
 @@||3cinteractive.com^
+@@||t.6sc.co^
 @@||7eer.net^
 @@||bestbuy.7tiv.net^
 @@||redirect.public.beta.us-east-1.ses.aws.a2z.com^
@@ -23,6 +24,7 @@
 @@||accesstrade.net^
 @@||acemlnb.com^
 @@||t.adcell.com^
+@@||track.addtocart.today^
 @@||adfoc.us^
 @@||a1.adform.net^
 @@||track.adform.net^
@@ -45,16 +47,20 @@
 @@||adscendmedia.com^
 @@||online.adservicemedia.dk^
 @@||adspeed.net^
+@@||track.adsplay.in^
 @@||email-link.adtidy.org^
 @@||track.adtraction.com^
+@@||ad.adverticum.net^
 @@||adzerk.com^
 @@||adzerk.net^
+@@||trk.affattr.com^
 @@||affiliatefuture.com^
 @@||links.afterpay.com^
 @@||links-anz.afterpay.com^
 @@||links-na.afterpay.com^
 @@||d.agkn.com^
 @@||i.airtel.in^
+@@||r.akipam.com^
 @@||campaign.aliexpress.com^
 @@||click.aliexpress.com^
 @@||alitems.co^
@@ -102,6 +108,7 @@
 @@||atlassbx.com^
 @@||r.audible.de^
 @@||auto-swiat.pl^
+@@||fcd.autoads.asia^
 @@||avantlink.com^
 @@||clicks.aweber.com^
 @@||www.awin1.com^
@@ -124,6 +131,7 @@
 @@||bnc.lt^
 @@||tracking.bol.com^
 @@||clk.boulanger.com^
+@@||sv.brand-display.com^
 @@||eulerian.brandalley.fr^
 @@||referrals.brave.com^
 @@||referrals.bravesoftware.com^
@@ -135,6 +143,7 @@
 @@||track.canva.com^
 @@||tracking.cashkaro.com^
 @@||cc-dt.com^
+@@||t.cfjump.com^
 @@||cse3.chausport.com^
 @@||mkto-trk.cisco.com^
 @@||cj.com^
@@ -152,8 +161,12 @@
 @@||clickcease.com^
 @@||clickdimensions.com^
 @@||target.clickfunnels.com^
+@@||io.clickguard.com^
+@@||pulse.clickguard.com^
+@@||tracker.clickguard.com^
 @@||clickiocdn.com^
 @@||clicktale.net^
+@@||tracker.clixtell.com^
 @@||readdle.cmail20.com^
 @@||aax-eu.amazon.co.uk^
 @@||aax-eu.amazon.co.za^
@@ -232,6 +245,7 @@
 @@||adservice.google.com.uy^
 @@||adservice.google.com.vn^
 @@||tags.news.com.au^
+@@||p.nexinsight.com.ua^
 @@||commander1.com^
 @@||commission-junction.com^
 @@||conversantmedia.com^
@@ -249,6 +263,7 @@
 @@||createsend1.com^
 @@||click.mc.crimsontrace.com^
 @@||links.email.crunchbase.com^
+@@||bcp.crwdcntrl.net^
 @@||m-3fh3e.custobar.com^
 @@||m-6hcq7.custobar.com^
 @@||m-6pyms.custobar.com^
@@ -270,6 +285,10 @@
 @@||ch0p.darty.com^
 @@||mkto-mail.delphix.com^
 @@||click.o.delta.com^
+@@||unilever.demdex.net^
+@@||unilever2.demdex.net^
+@@||unilever3.demdex.net^
+@@||unileverbrazil.demdex.net^
 @@||mydealz.digidip.net^
 @@||online.digital-advisor.com^
 @@||link.digitaladvisor.dk^
@@ -373,6 +392,7 @@
 @@||pixel.everesttech.net^
 @@||pixel1083.everesttech.net^
 @@||pixel2261.everesttech.net^
+@@||sync-tm.everesttech.net^
 @@||secure.everyaction.com^
 @@||evyy.net^
 @@||m.exactag.com^
@@ -442,12 +462,16 @@
 @@||go-direct.flx1.com^
 @@||eultech.fnac.com^
 @@||fr135.net^
+@@||monitor.fraudblocker.com^
 @@||link.freshmail.mx^
 @@||tracking.ftmo.com^
 @@||advise.gallup.com^
 @@||tracker.gamesdonequick.com^
+@@||trk.genieshopping.com^
+@@||trk2.genieshopping.com^
 @@||target.georiot.com^
 @@||linksmail.geosolinc.com^
+@@||clicktracker.getblue.io^
 @@||tag.getdrip.com^
 @@||app.getresponse.com^
 @@||glnk.io^
@@ -529,6 +553,7 @@
 @@||webflow.grsm.io^
 @@||creators.gumroad.com^
 @@||track.gumroad.com^
+@@||d.hodes.com^
 @@||click.holidayinnclubemail.com^
 @@||click.instantink.hpsmart.com^
 @@||href.li^
@@ -557,6 +582,7 @@
 @@||m.icares.app^
 @@||click.icptrack.com^
 @@||assets.ikhnaie.link^
+@@||one.impact-ad.jp^
 @@||customtraffic.impactradius.com^
 @@||mkto-email.imprivata.com^
 @@||t.indeed.com^
@@ -566,7 +592,9 @@
 @@||t23.intelliad.de^
 @@||intercom-clicks.com^
 @@||t.ionos.de^
+@@||i.ipromote.com^
 @@||links.iterable.com^
+@@||r.jakuli.com^
 @@||go.jc.fm^
 @@||click.email.jcpenney.com^
 @@||jdoqocy.com^
@@ -594,6 +622,7 @@
 @@||sk-go.kelkoogroup.net^
 @@||uk-go.kelkoogroup.net^
 @@||us-go.kelkoogroup.net^
+@@||k.keyade.com^
 @@||click.klarna.de^
 @@||click-tracking.klarna.net^
 @@||l.klarna.com^
@@ -602,24 +631,32 @@
 @@||klclick2.com^
 @@||klclick3.com^
 @@||admarkt.kleinanzeigen.de^
+@@||control.kochava.com^
 @@||click.chp.kohls.com^
 @@||click.s.kohls.com^
 @@||kqzyfj.com^
 @@||click.e.krogermail.com^
+@@||r.lafamo.com^
 @@||click.landsend.com^
 @@||lddy.no^
 @@||unsubscribe.prod.leanplum.com^
 @@||l.lefigaro.fr^
 @@||trk.ecomm.lenovo.com^
 @@||t.lever-analytics.com^
+@@||ad.lifesight.io^
 @@||tr.line.me^
 @@||r.linksprf.com^
 @@||click.linksynergy.com^
+@@||go.linkwi.se^
 @@||list-manage.com^
+@@||adsv.svc.litv.tv^
+@@||banners.livepartners.com^
+@@||netbet.livepartners.com^
 @@||click.e.lowes.com^
 @@||t.lt02.net^
 @@||lt45.net^
 @@||click.mail.macmillan.com^
+@@||k.madmetrics.com^
 @@||mandrillapp.com^
 @@||tracker.marinsm.com^
 @@||track.mdrctr.com^
@@ -1341,17 +1378,23 @@
 @@||marketing.tr.netsalesmedia.pl^
 @@||newsletter2go.com^
 @@||go.nextiva.com^
+@@||r.niwepa.com^
 @@||njih.net^
+@@||trk.nomadzdigital.com^
 @@||nonstoppartner.net^
 @@||go.nordlocker.net^
 @@||go.nordvpn.net^
 @@||mg.mail.notion.so^
 @@||click.members.nra.org^
+@@||serve.nrich.ai^
+@@||us-serve.nrich.ai^
 @@||view.email.nzz.ch^
+@@||tracker.offersfollow.com^
 @@||c.office.com^
 @@||email.office.com^
 @@||ojrq.net^
 @@||clk.omgt3.com^
+@@||track.omguk.com^
 @@||mail.onedrive.com^
 @@||onelink.me^
 @@||openinapp.link^
@@ -1386,6 +1429,7 @@
 @@||pntrac.com^
 @@||pntrack.com^
 @@||postaffiliatepro.com^
+@@||r.powuta.com^
 @@||ndirect.ppro.de^
 @@||geo01.dns.presslabs.net^
 @@||geo02.dns.presslabs.net^
@@ -1411,6 +1455,7 @@
 @@||go.redirectingat.com^
 @@||restaurant-information.com^
 @@||newslink.reuters.com^
+@@||ads.revjet.com^
 @@||rewardtk.com^
 @@||adorama.rfvk.net^
 @@||click.royalcaribbeanmarketing.com^
@@ -1630,6 +1675,8 @@
 @@||t.sidekickopen88.com^
 @@||t.sidekickopen90.com^
 @@||app.e.sigsauer.com^
+@@||tm.simptrack.com^
+@@||clickserv.sitescout.com^
 @@||go.skimresources.com^
 @@||a.slashdotmedia.com^
 @@||slickdeals.net^
@@ -1670,6 +1717,7 @@
 @@||goto.target.com^
 @@||ctagm.tchibo.de^
 @@||tagm.tchibo.de^
+@@||track.tenjin.io^
 @@||eu2.cdn.thunderhead.com^
 @@||eu2.thunderhead.com^
 @@||click.mailing.ticketmaster.com^
@@ -1685,9 +1733,12 @@
 @@||tl.tradetracker.net^
 @@||tm.tradetracker.net^
 @@||ts.tradetracker.net^
+@@||track.trafficguard.ai^
 @@||api.traq.li^
 @@||secure.traqkarr.com^
 @@||track.connect.travelaudience.com^
+@@||onboard.triptease.io^
+@@||tracking.trucliks.com^
 @@||tracker.trust-link.io^
 @@||analytics.trustyou.com^
 @@||analytics-eu.trustyou.com^
@@ -1698,6 +1749,9 @@
 @@||redirect.viglink.com^
 @@||ek8.voyage-prive.com^
 @@||cts.vresp.com^
+@@||rdr.wargaming.net^
+@@||redir.wargaming.net^
+@@||trck.wargaming.net^
 @@||h4g3z1-referral.web.app^
 @@||cdn.webclicks24.com^
 @@||api.webengage.com^
