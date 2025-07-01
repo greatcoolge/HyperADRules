@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 30 Jun 2025 10:49 UTC
-! Version: 2025.0630.1049.36
+! Last modified: 30 Jun 2025 16:45 UTC
+! Version: 2025.0630.1645.40
 ! Syntax: AdBlock
 !
 @@||00oo.lol^
@@ -622,6 +622,7 @@
 @@||bdtvzl.com^
 @@||beam.to^
 @@||beats.is^
+@@||beautyfitnesshealth.com^
 @@||becsn.net^
 @@||bee-kz.life^
 @@||bee1s.com^
@@ -2613,6 +2614,7 @@
 @@||lurl.org^
 @@||luto.lol^
 @@||lutre.it^
+@@||lvfst.com^
 @@||lvr.li^
 @@||lvvk.com^
 @@||lxddck.com^
@@ -2925,7 +2927,6 @@
 @@||mysp.ac^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||myumi.ch^
@@ -3382,6 +3383,7 @@
 @@||q.gs^
 @@||q-r.to^
 @@||q8at.link^
+@@||qain.si^
 @@||qb.dk^
 @@||go.qb.by^
 @@||qbn.ru^

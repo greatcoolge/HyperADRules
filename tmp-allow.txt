@@ -345,6 +345,7 @@
 @@||abs-0.twimg.com^
 @@||abs.twimg.com^
 @@||abso.lt^
+@@||ac.ebis.ne.jp^
 @@||accesslinkk.com^
 @@||accessmy.tax^
 @@||accesstrade.net^
@@ -998,6 +999,7 @@
 @@||bdtvzl.com^
 @@||beam.to^
 @@||beats.is^
+@@||beautyfitnesshealth.com^
 @@||becsn.net^
 @@||bee-kz.life^
 @@||bee1s.com^
@@ -1330,6 +1332,7 @@
 @@||cdn-eu.piano.io^
 @@||cdn-go.cn^
 @@||cdn-magiclinks.trackonomics.net^
+@@||cdn.adsdefender.com^
 @@||cdn.akamai.steamstatic.com^
 @@||cdn.aligames.com^
 @@||cdn.ark.qq.com^
@@ -3738,6 +3741,7 @@
 @@||lurl.org^
 @@||luto.lol^
 @@||lutre.it^
+@@||lvfst.com^
 @@||lvr.li^
 @@||lvvk.com^
 @@||lx.meituan.net^
@@ -4882,7 +4886,6 @@
 @@||mystyle.archosaur.com^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||myumi.ch^
@@ -5549,6 +5552,7 @@
 @@||q-r.to^
 @@||q.gs^
 @@||q8at.link^
+@@||qain.si^
 @@||qb.dk^
 @@||qbn.ru^
 @@||qcaptcha.so.com^

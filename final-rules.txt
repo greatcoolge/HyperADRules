@@ -614,6 +614,7 @@
 @@||abuse.ch^
 @@||ac.duckduckgo.com^
 @@||ac.dun.163.com^
+@@||ac.ebis.ne.jp^
 @@||ac.search.naver.com^
 @@||ac0-edge-chat.facebook.com^
 @@||academia.edu^
@@ -2848,6 +2849,7 @@
 @@||beam.to^
 @@||beats.is^
 @@||beauty.rakuten.co.jp^
+@@||beautyfitnesshealth.com^
 @@||bebe.com^
 @@||becsn.net^
 @@||bedbathandbeyond.com^
@@ -3690,6 +3692,7 @@
 @@||cdn.activistpost.com^
 @@||cdn.adf.ly^
 @@||cdn.adrise.tv^
+@@||cdn.adsdefender.com^
 @@||cdn.airfind.com^
 @@||cdn.akamai.steamstatic.com^
 @@||cdn.akubebas.com^
@@ -9877,6 +9880,7 @@
 @@||lutre.it^
 @@||luyou.360.cn^
 @@||lv.wikipedia.com^
+@@||lvfst.com^
 @@||lvr.li^
 @@||lvvk.com^
 @@||lwn.net^
@@ -11753,7 +11757,6 @@
 @@||mysupport.sonymobile.com^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||myumi.ch^
@@ -13490,6 +13493,7 @@
 @@||qa-www.funimation.com^
 @@||qa.global.fncstatic.com^
 @@||qa.sockets.stackexchange.com^
+@@||qain.si^
 @@||qb.dk^
 @@||qbn.ru^
 @@||qbox.me^
