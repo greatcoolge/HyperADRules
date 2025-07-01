@@ -1902,6 +1902,7 @@
 @@||api-c.sonymobile.com^
 @@||api-consup.huawei.com^
 @@||api-da.wixmp.com^
+@@||api-docs.deepseek.com^
 @@||api-edge.cognitive.microsofttranslator.com^
 @@||api-embedded.soundcloud.com^
 @@||api-eu.cleverpush.com^
@@ -2642,6 +2643,7 @@
 @@||avantlink.com^
 @@||avast.com^
 @@||avataaars.io^
+@@||avatar.bdstatic.com^
 @@||avatar.coolapk.com^
 @@||avatar.csdnimg.cn^
 @@||avatar.skype.com^
@@ -2760,6 +2762,7 @@
 @@||baiduyundns.com^
 @@||baiduyundns.net^
 @@||baijiahao.baidu.com^
+@@||baike.baidu.com^
 @@||baikebcs.bdimg.com^
 @@||baixeapk.com^
 @@||baixing.com^
@@ -3055,6 +3058,7 @@
 @@||bjl.ink^
 @@||bjli.in^
 @@||bk01.hh.xiaomi.com^
+@@||bkimg.cdn.bcebos.com^
 @@||bkite.com^
 @@||bkjkwg.quest^
 @@||bkssl.bdimg.com^
@@ -3723,6 +3727,7 @@
 @@||cdn.dailycaller.com^
 @@||cdn.datatables.net^
 @@||cdn.dealersocket.com^
+@@||cdn.deepseek.com^
 @@||cdn.destinilocators.com^
 @@||cdn.digitaltrends.com^
 @@||cdn.discordapp.com^
@@ -4026,6 +4031,7 @@
 @@||chat-gateway393-prod.chat.snapchat.com^
 @@||chat-gateway397-prod.chat.snapchat.com^
 @@||chat.bilibili.com^
+@@||chat.deepseek.com^
 @@||chat.minergate.com^
 @@||chat.xiaomi.net^
 @@||chatapi.viber.com^
@@ -5418,6 +5424,7 @@
 @@||download.bitcomet.com^
 @@||download.cdn.yandex.net^
 @@||download.cnet.com^
+@@||download.deepseek.com^
 @@||download.developer.apple.com^
 @@||download.fxsound.com^
 @@||download.huawei.com^
@@ -13022,6 +13029,7 @@
 @@||planningwithszenee.com^
 @@||platform-lookaside.fbsbx.com^
 @@||platform.bing.com^
+@@||platform.deepseek.com^
 @@||platform.instagram.com^
 @@||platform.linkedin.com^
 @@||platform.sharethis.com^
@@ -15680,6 +15688,7 @@
 @@||static.coinbase.com^
 @@||static.crunchyroll.com^
 @@||static.cyberdrop.me^
+@@||static.deepseek.com^
 @@||static.dingtalk.com^
 @@||static.djangoproject.com^
 @@||static.e.189.cn^
@@ -15807,6 +15816,7 @@
 @@||status.coinbase.com^
 @@||status.daum.net^
 @@||status.dealersocket.com^
+@@||status.deepseek.com^
 @@||status.discord.com^
 @@||status.github.com^
 @@||status.icq.com^
@@ -17782,6 +17792,7 @@
 @@||vcs.snssdk.com^
 @@||vcwvb.com^
 @@||vd0.market.xiaomi.com^
+@@||vd3.bdstatic.com^
 @@||vd55.com^
 @@||vdio.pro^
 @@||vdn3.vzuu.com^

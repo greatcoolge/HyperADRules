@@ -722,6 +722,7 @@
 @@||api-05.moengage.com^
 @@||api-ap1.hubapi.com^
 @@||api-auto.hubapi.com^
+@@||api-docs.deepseek.com^
 @@||api-edge.cognitive.microsofttranslator.com^
 @@||api-eu.cleverpush.com^
 @@||api-eu1.hubapi.com^
@@ -897,6 +898,7 @@
 @@||autolink.live^
 @@||autolinkmaker.itunes.apple.com^
 @@||avantlink.com^
+@@||avatar.bdstatic.com^
 @@||avatar.coolapk.com^
 @@||avatar.csdnimg.cn^
 @@||avbc.me^
@@ -959,6 +961,7 @@
 @@||baid.us^
 @@||baidu-ide.bj.bcebos.com^
 @@||baijiahao.baidu.com^
+@@||baike.baidu.com^
 @@||baikebcs.bdimg.com^
 @@||baixeapk.com^
 @@||balls.no^
@@ -1090,6 +1093,7 @@
 @@||bj88php.fun^
 @@||bjl.ink^
 @@||bjli.in^
+@@||bkimg.cdn.bcebos.com^
 @@||bkite.com^
 @@||bkjkwg.quest^
 @@||bkssl.bdimg.com^
@@ -1339,6 +1343,7 @@
 @@||cdn.branch.io^
 @@||cdn.braze.eu^
 @@||cdn.cnbj1.fds.api.mi-img.com^
+@@||cdn.deepseek.com^
 @@||cdn.eu1.exponea.com^
 @@||cdn.exponea.com^
 @@||cdn.ferrari.com^
@@ -1389,6 +1394,7 @@
 @@||chantucker53.live^
 @@||charleseski.life^
 @@||charlesschwab.sc.omtrdc.net^
+@@||chat.deepseek.com^
 @@||chatg.pt^
 @@||checkshorturl.com^
 @@||cheftems.com^
@@ -1922,6 +1928,7 @@
 @@||download-cdn.jetbrains.com.cn^
 @@||download-cdn.jetbrains.com^
 @@||download.bitcomet.com^
+@@||download.deepseek.com^
 @@||download.developer.apple.com^
 @@||download.fxsound.com^
 @@||download.jetbrains.com^
@@ -5397,6 +5404,7 @@
 @@||pladollmo.com^
 @@||plannery.app^
 @@||planningwithszenee.com^
+@@||platform.deepseek.com^
 @@||play-app.site^
 @@||play.163.com^
 @@||play.itunes.apple.com^
@@ -6619,6 +6627,7 @@
 @@||static.biligame.com^
 @@||static.cleverpush.com^
 @@||static.clewm.net^
+@@||static.deepseek.com^
 @@||static.e.189.cn^
 @@||static.hdslb.com^
 @@||static.ips.apple.com^
@@ -6643,6 +6652,7 @@
 @@||staticwiki.biligame.com^
 @@||statistics4u.net^
 @@||stats.socialguru24.de^
+@@||status.deepseek.com^
 @@||statusapi.micloud.xiaomi.net^
 @@||stawritecdn.yuewen.com^
 @@||steamcommunity.com^
@@ -7715,6 +7725,7 @@
 @@||vbly.us^
 @@||vcwvb.com^
 @@||vd0.market.xiaomi.com^
+@@||vd3.bdstatic.com^
 @@||vd55.com^
 @@||vdio.pro^
 @@||vdn3.vzuu.com^
