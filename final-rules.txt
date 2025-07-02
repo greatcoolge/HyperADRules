@@ -762,7 +762,6 @@
 @@||ad.vu^
 @@||ad5.eu^
 @@||ad7.biz^
-@@||ada-shorts.life^
 @@||ada.support^
 @@||ada2.in^
 @@||adage.com^
@@ -1030,7 +1029,6 @@
 @@||africa.pool.ntp.org^
 @@||aftonbladet.se^
 @@||aftv.news^
-@@||agbr.ir^
 @@||agen303.live^
 @@||aghq.top^
 @@||agilean.in^
@@ -1040,7 +1038,6 @@
 @@||agphosting.com^
 @@||agrd.io^
 @@||agroforestri.id^
-@@||agt.fyi^
 @@||ahcdn.com^
 @@||ahd.ruten.com.tw^
 @@||ahgzp.com^
@@ -1062,11 +1059,8 @@
 @@||airinstall.adobe.com^
 @@||airshort.de^
 @@||airtable.com^
-@@||aisc.life^
-@@||aisc.live^
 @@||aiseet.atianqi.com^
 @@||aisubtitle.hdslb.com^
-@@||aitoys7.live^
 @@||aitwwl.co^
 @@||aizhigu.com.cn^
 @@||ajax.aspnetcdn.com^
@@ -1097,7 +1091,6 @@
 @@||akamaitechnologies.com^
 @@||akamaized.net^
 @@||aki.today^
-@@||akivulhasan.live^
 @@||akses.gg^
 @@||akses.me^
 @@||akslot.io^
@@ -1148,7 +1141,6 @@
 @@||allaboutcookies.org^
 @@||allamericanpatriots.com^
 @@||alldebrid.com^
-@@||alldemetrius.life^
 @@||allegro.pl^
 @@||allekabels.nl^
 @@||alli.pub^
@@ -1786,7 +1778,6 @@
 @@||amplitude.com^
 @@||ampr.gs^
 @@||amrep.org^
-@@||amspi.top^
 @@||amway-cdn.exponea.com^
 @@||amz.run^
 @@||amzn.com^
@@ -2399,7 +2390,6 @@
 @@||aptg.tw^
 @@||apticirl.com^
 @@||apurl.in^
-@@||apzjp.sbs^
 @@||apzones.com^
 @@||aquacard.co.uk^
 @@||aqva.pl^
@@ -2430,7 +2420,6 @@
 @@||argumentiru.com^
 @@||aria.microsoft.com^
 @@||ariadne.cs.kuleuven.be^
-@@||ariahscollection.life^
 @@||ark.mwbsys.com^
 @@||arkinv.st^
 @@||armdl.adobe.com^
@@ -2439,9 +2428,7 @@
 @@||army.mil^
 @@||arn.es^
 @@||arpy.in^
-@@||arrington-j153.info^
 @@||ars.smartscreen.microsoft.com^
-@@||arserike.com^
 @@||arsn.al^
 @@||arstechnica.com^
 @@||art19.com^
@@ -2544,7 +2531,6 @@
 @@||astrazeneca.com^
 @@||asus.click^
 @@||asusrog.de^
-@@||aszfg.top^
 @@||at-blog.line.me^
 @@||at-go.kelkoogroup.net^
 @@||at.alicdn.com.danuoyi.alicdn.com^
@@ -2815,7 +2801,6 @@
 @@||bbs2.appmifile.com^
 @@||bbstatic.ign.com^
 @@||bbtree.com^
-@@||bbuyyani.life^
 @@||bbva.info^
 @@||bc.marfeelcache.com^
 @@||bc.tc^
@@ -2840,7 +2825,6 @@
 @@||bddy.me^
 @@||bdf.net^
 @@||bdimg.com^
-@@||bdjk.info^
 @@||bdsmtest.org^
 @@||bdsmtv.cc^
 @@||bdtvzl.com^
@@ -2878,7 +2862,6 @@
 @@||benes.se^
 @@||benqurl.biz^
 @@||bento.agoda.com^
-@@||berater-it.de^
 @@||berde.bar^
 @@||berkeley.edu^
 @@||best.aliexpress.com^

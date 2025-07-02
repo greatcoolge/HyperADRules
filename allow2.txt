@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 30 Jun 2025 16:45 UTC
-! Version: 2025.0630.1645.40
+! Last modified: 01 Jul 2025 22:46 UTC
+! Version: 2025.0701.2246.00
 ! Syntax: AdBlock
 !
 @@||00oo.lol^
@@ -325,7 +325,6 @@
 @@||ad-med.cz^
 @@||ad5.eu^
 @@||ad7.biz^
-@@||ada-shorts.life^
 @@||ada2.in^
 @@||adaymag.co^
 @@||adbl.co^
@@ -369,7 +368,6 @@
 @@||afb88.life^
 @@||afly.in^
 @@||aftv.news^
-@@||agbr.ir^
 @@||agen303.live^
 @@||aghq.top^
 @@||agileurbia.com^
@@ -378,7 +376,6 @@
 @@||agphosting.com^
 @@||agrd.io^
 @@||agroforestri.id^
-@@||agt.fyi^
 @@||ahgzp.com^
 @@||y.ahoo.it^
 @@||ai-beast-online.life^
@@ -386,9 +383,6 @@
 @@||aiecj2.com^
 @@||aim2.cc^
 @@||airshort.de^
-@@||aisc.life^
-@@||aisc.live^
-@@||aitoys7.live^
 @@||aitwwl.co^
 @@||aje.io^
 @@||ajher.com^
@@ -400,7 +394,6 @@
 @@||aka.my^
 @@||aka.re^
 @@||aki.today^
-@@||akivulhasan.live^
 @@||akses.gg^
 @@||akses.me^
 @@||akslot.io^
@@ -419,7 +412,6 @@
 @@||aliexpi.com^
 @@||alishort.com^
 @@||allamericanpatriots.com^
-@@||alldemetrius.life^
 @@||alli.pub^
 @@||alnk.to^
 @@||alolink.com^
@@ -445,7 +437,6 @@
 @@||amoz.onl^
 @@||ampr.gs^
 @@||amrep.org^
-@@||amspi.top^
 @@||amz.run^
 @@||amzn.com^
 @@||amzn.id^
@@ -495,7 +486,6 @@
 @@||aptg.tw^
 @@||apticirl.com^
 @@||apurl.in^
-@@||apzjp.sbs^
 @@||aqva.pl^
 @@||ar-technology.live^
 @@||arab.news^
@@ -505,12 +495,9 @@
 @@||arclight.live^
 @@||ardchk.me^
 @@||aresgacor.info^
-@@||ariahscollection.life^
 @@||arkinv.st^
 @@||arn.es^
 @@||arpy.in^
-@@||arrington-j153.info^
-@@||arserike.com^
 @@||arsn.al^
 @@||arus.cc^
 @@||aryenmotors.com^
@@ -523,7 +510,6 @@
 @@||asso.in^
 @@||asus.click^
 @@||asusrog.de^
-@@||aszfg.top^
 @@||ata.ink^
 @@||atglinks.com^
 @@||atharori.net^
@@ -602,7 +588,6 @@
 @@||bbb.bz^
 @@||bbc.in^
 @@||bbff.me^
-@@||bbuyyani.life^
 @@||bbva.info^
 @@||bc.tc^
 @@||bc.vc^
@@ -618,7 +603,6 @@
 @@||bddugi.com^
 @@||bddy.me^
 @@||bdf.net^
-@@||bdjk.info^
 @@||bdtvzl.com^
 @@||beam.to^
 @@||beats.is^
@@ -634,7 +618,6 @@
 @@||benco.io^
 @@||benes.se^
 @@||benqurl.biz^
-@@||berater-it.de^
 @@||berde.bar^
 @@||bestshortlink.com^
 @@||bet200.win^

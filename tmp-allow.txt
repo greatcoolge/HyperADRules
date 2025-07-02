@@ -391,7 +391,6 @@
 @@||ad.lifesight.io^
 @@||ad5.eu^
 @@||ad7.biz^
-@@||ada-shorts.life^
 @@||ada2.in^
 @@||adaymag.co^
 @@||adbl.co^
@@ -576,7 +575,6 @@
 @@||affiliatefuture.com^
 @@||afly.in^
 @@||aftv.news^
-@@||agbr.ir^
 @@||agen303.live^
 @@||aghq.top^
 @@||agileurbia.com^
@@ -585,7 +583,6 @@
 @@||agphosting.com^
 @@||agrd.io^
 @@||agroforestri.id^
-@@||agt.fyi^
 @@||ahgzp.com^
 @@||ai-beast-online.life^
 @@||ai-cdn.duba.net^
@@ -594,10 +591,7 @@
 @@||aiecj2.com^
 @@||aim2.cc^
 @@||airshort.de^
-@@||aisc.life^
-@@||aisc.live^
 @@||aisubtitle.hdslb.com^
-@@||aitoys7.live^
 @@||aitwwl.co^
 @@||ajax.googleapis.com^
 @@||aje.io^
@@ -611,7 +605,6 @@
 @@||aka.re^
 @@||aka.sainnhe.dev^
 @@||aki.today^
-@@||akivulhasan.live^
 @@||akses.gg^
 @@||akses.me^
 @@||akslot.io^
@@ -639,7 +632,6 @@
 @@||alitems.co^
 @@||alitems.site^
 @@||allamericanpatriots.com^
-@@||alldemetrius.life^
 @@||alli.pub^
 @@||alnk.to^
 @@||alolink.com^
@@ -667,7 +659,6 @@
 @@||amoz.onl^
 @@||ampr.gs^
 @@||amrep.org^
-@@||amspi.top^
 @@||amway-cdn.exponea.com^
 @@||amz.run^
 @@||amzn.com^
@@ -829,7 +820,6 @@
 @@||aptg.tw^
 @@||apticirl.com^
 @@||apurl.in^
-@@||apzjp.sbs^
 @@||apzones.com^
 @@||aqva.pl^
 @@||ar-technology.live^
@@ -840,12 +830,9 @@
 @@||arclight.live^
 @@||ardchk.me^
 @@||aresgacor.info^
-@@||ariahscollection.life^
 @@||arkinv.st^
 @@||arn.es^
 @@||arpy.in^
-@@||arrington-j153.info^
-@@||arserike.com^
 @@||arsn.al^
 @@||article.zlink.toutiao.com^
 @@||arus.cc^
@@ -869,7 +856,6 @@
 @@||assoc-redirect.amazon.com^
 @@||asus.click^
 @@||asusrog.de^
-@@||aszfg.top^
 @@||at-go.kelkoogroup.net^
 @@||at.vibe.com^
 @@||ata.ink^
@@ -980,7 +966,6 @@
 @@||bbb.bz^
 @@||bbc.in^
 @@||bbff.me^
-@@||bbuyyani.life^
 @@||bbva.info^
 @@||bc.tc^
 @@||bc.vc^
@@ -996,7 +981,6 @@
 @@||bddugi.com^
 @@||bddy.me^
 @@||bdf.net^
-@@||bdjk.info^
 @@||bdsmtest.org^
 @@||bdsmtv.cc^
 @@||bdtvzl.com^
@@ -1015,7 +999,6 @@
 @@||benco.io^
 @@||benes.se^
 @@||benqurl.biz^
-@@||berater-it.de^
 @@||berde.bar^
 @@||bestbuy.7tiv.net^
 @@||bestshortlink.com^
