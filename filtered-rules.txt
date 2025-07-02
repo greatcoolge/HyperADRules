@@ -495,6 +495,7 @@ a.hl.mi.com
 a.huodong.mi.com
 a.idio.co
 a.kickass.to
+a.market.xiaomi.com
 a.nel.cloudflare.com
 a.nf
 a.ooyala.com
@@ -3382,7 +3383,6 @@ buydomains.com
 buymeacoffee.com
 buzzao.online
 buzzfeed.com
-bvsok.sbs
 bw.care
 bwlf.us
 bwmhosting.huawei.com
@@ -3521,7 +3521,6 @@ canhaz.com
 canon.us
 canva.com
 canyoublockit.com
-capcaifu.com
 capi-cn.ssl-images-amazon.com
 capi-eu.ssl-images-amazon.com
 capi-fe.ssl-images-amazon.com
@@ -3889,8 +3888,6 @@ celfam.us
 cell.office.naver.com
 ceneo.pl
 census.gov
-cepatwd.vip
-cepatwd.win
 cert.halo.part.xbox.com
 cert.mgt.xboxlive.com
 cert.mgt.xboxlive.com 
@@ -16353,6 +16350,7 @@ t12.baidu.com
 t13.intelliad.de
 t1p.de
 t2.58cdn.com.cn
+t2.a.market.xiaomi.com
 t2.baidu.com
 t2.market.mi-img.com
 t2.market.xiaomi.com
@@ -16361,6 +16359,7 @@ t2m.co
 t2m.io
 t2mio.com
 t3.58cdn.com.cn
+t3.a.market.xiaomi.com
 t3.baidu.com
 t3.market.xiaomi.com
 t4.baidu.com
@@ -17179,7 +17178,6 @@ tx3.163.com
 txdl.top
 txmov2.a.kwimgs.com
 txt.go.sohu.com
-txtme-live.co.uk
 txul.cn
 txwk.10010.com
 txxx.ahcdn.com

@@ -1203,7 +1203,6 @@
 @@||butt-link.us^
 @@||buybitcoinsworldwide.com^
 @@||buzzao.online^
-@@||bvsok.sbs^
 @@||bw.care^
 @@||bwlf.us^
 @@||bwnews.pr^
@@ -1257,7 +1256,6 @@
 @@||can.al^
 @@||candicegilmerauthor.com^
 @@||canon.us^
-@@||capcaifu.com^
 @@||capital.one^
 @@||capitalfm.co^
 @@||capitalone-resources.digital-cloud.medallia.com^
@@ -1360,8 +1358,6 @@
 @@||cdpoju.com^
 @@||ceci-ana-jada-271928.life^
 @@||celfam.us^
-@@||cepatwd.vip^
-@@||cepatwd.win^
 @@||certs.apple.com^
 @@||cesinthi.com^
 @@||cf.aliyun.com^
@@ -7404,7 +7400,6 @@
 @@||tx3.163.com^
 @@||txdl.top^
 @@||txmov2.a.kwimgs.com^
-@@||txtme-live.co.uk^
 @@||txul.cn^
 @@||txwk.10010.com^
 @@||txxx.ahcdn.com^
