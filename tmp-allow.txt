@@ -1671,7 +1671,6 @@
 @@||cuoinamdiedm.life^
 @@||cup.org^
 @@||cupoms.info^
-@@||curious-cat.live^
 @@||curl.im^
 @@||curl.pk^
 @@||curl.ro^
@@ -1716,7 +1715,6 @@
 @@||cyizs.com^
 @@||cyngfs.com^
 @@||cyonix.to^
-@@||d-its-hekis-osama-kwi.info^
 @@||d-sh.io^
 @@||d.agkn.com^
 @@||d.bilibili.com^
@@ -1730,7 +1728,6 @@
 @@||d.toutiao.com^
 @@||d.yzh.li^
 @@||d138.link^
-@@||d13links.online^
 @@||d1ayxb9ooonjts.cloudfront.net^
 @@||d2ks.one^
 @@||da.gd^
@@ -1738,7 +1735,6 @@
 @@||dad.do^
 @@||daduslot88.life^
 @@||dafa07.net^
-@@||dafjk.info^
 @@||daftarhoki.live^
 @@||daftarmpomax.live^
 @@||dai.ly^
@@ -1747,7 +1743,6 @@
 @@||dajdam.rs^
 @@||dalinksavad.eu^
 @@||danbooru.donmai.us^
-@@||dandbsolutions.live^
 @@||dandy.dental^
 @@||dashi.163.com^
 @@||data.digital.costco.ca^
@@ -1824,9 +1819,6 @@
 @@||dibb.me^
 @@||digbig.com^
 @@||digg.com^
-@@||digital-it-park.life^
-@@||digitalitpark.life^
-@@||digitalitparks.life^
 @@||digitize-umfrage.at^
 @@||dik.si^
 @@||dimg04.c-ctrip.com^
@@ -1848,7 +1840,6 @@
 @@||dive.pub^
 @@||divestiture.life^
 @@||divsly.com^
-@@||djarum88.shop^
 @@||djex.co^
 @@||djljjk.com^
 @@||djloventx.live^
@@ -1878,7 +1869,6 @@
 @@||dmvrenew.com^
 @@||dn303.online^
 @@||dna360.tw^
-@@||dnmqv.top^
 @@||dntbs.info^
 @@||do.co^
 @@||doburl.com^
@@ -1893,7 +1883,6 @@
 @@||doiop.com^
 @@||domains-ws.revved.com^
 @@||domi.link^
-@@||dominguez-nieves-71.life^
 @@||dominos.sng.link^
 @@||doodstream.day^
 @@||dopice.sk^
@@ -1940,12 +1929,10 @@
 @@||dropmylinks.com^
 @@||drpsnd.io^
 @@||drte.co^
-@@||drunks.life^
 @@||drutki.com^
 @@||druuz.com^
 @@||drw.sh^
 @@||ds.163.com^
-@@||dscef.rest^
 @@||dsh.re^
 @@||dside.ca^
 @@||dsre.me^
@@ -1994,7 +1981,6 @@
 @@||dy.fi^
 @@||dy.si^
 @@||dydou.life^
-@@||dyjmk.sbs^
 @@||dyo.gs^
 @@||dyx.is^
 @@||e-hentai.org^
@@ -2022,28 +2008,24 @@
 @@||econ.st^
 @@||ecra.se^
 @@||ecrane.link^
-@@||ed-lira-tahiri-05.life^
 @@||ed.gr^
 @@||edge.microsoft.com^
 @@||edgs.co^
 @@||edin.ac^
 @@||editricity.xyz^
 @@||edl.io^
-@@||edliratahiri05.life^
 @@||edm.to^
 @@||edmno1.info^
 @@||edne.tw^
 @@||edu.nl^
 @@||eeatu.com^
 @@||eepurl.com^
-@@||eeztk.top^
 @@||efe.snssdk.com^
 @@||efie.co^
 @@||efraising.org^
 @@||efs.link^
 @@||efshop.tw^
 @@||efw4.one^
-@@||eg-hr.com^
 @@||eg-sale.com^
 @@||egw.bz^
 @@||egypsianrubie.live^
@@ -2058,13 +2040,9 @@
 @@||ela.st^
 @@||elevation-crew.life^
 @@||elink.ly^
-@@||elizabethblog.info^
-@@||elizabethblog.life^
-@@||elizabethdesign.life^
 @@||ellastern.live^
 @@||elle.re^
 @@||ellemag.co^
-@@||eloism.net^
 @@||elsextosol.org^
 @@||elx.site^
 @@||ely.re^
@@ -2113,7 +2091,6 @@
 @@||epochtim.es^
 @@||epsi.link^
 @@||ept.ms^
-@@||epuu.info^
 @@||eqcodecracks.life^
 @@||eqix.it^
 @@||erath.email^
@@ -2132,7 +2109,6 @@
 @@||estimatedangles.info^
 @@||esun.co^
 @@||esyurl.com^
-@@||eszen.sbs^
 @@||et2.top^
 @@||etoro.tw^
 @@||etp.tw^
@@ -2198,7 +2174,6 @@
 @@||facebookid.live^
 @@||facepic.qidian.com^
 @@||fadurl.com^
-@@||faiq09824.life^
 @@||fal.cn^
 @@||fam.ag^
 @@||fandan.co^
@@ -2266,7 +2241,6 @@
 @@||firebase-settings.crashlytics.com^
 @@||firsturl.de^
 @@||firsturl.net^
-@@||firstweber.life^
 @@||fitz.ms^
 @@||fklit.com^
 @@||fl-y.com^
@@ -2310,9 +2284,7 @@
 @@||forr.com^
 @@||found.ee^
 @@||fourhoi.com^
-@@||fovre.sbs^
 @@||fox.tv^
-@@||fpfro.sbs^
 @@||fqbgk.com^
 @@||fr-go.kelkoogroup.net^
 @@||fr135.net^
@@ -2329,7 +2301,6 @@
 @@||ftnt.net^
 @@||fts.ms^
 @@||fullbreed.live^
-@@||fullstacklogan.live^
 @@||fumacrom.com^
 @@||fund.school^
 @@||funimg.pddpic.com^
@@ -2386,12 +2357,10 @@
 @@||gamebanana.com^
 @@||gamegta.com^
 @@||gameimg.qidian.com^
-@@||gameover.today^
 @@||gamerzchoices.com^
 @@||ganalytics.net^
 @@||gandi.link^
 @@||garuda.homes^
-@@||gary-kopff.life^
 @@||garyvee.com^
 @@||gate-ag.first-id.fr^
 @@||gateway.icloud.com^
@@ -2428,9 +2397,6 @@
 @@||geo02.dns.presslabs.net^
 @@||geo1.presslabs.net^
 @@||geo2ipv6.dns.presslabs.net^
-@@||george-dab-a.life^
-@@||georgebita.life^
-@@||georgeblota.life^
 @@||georiot.co^
 @@||gesit.io^
 @@||gesn.it^
@@ -2459,7 +2425,6 @@
 @@||ghalida.info^
 @@||ghkp.us^
 @@||ghntinyurl.com^
-@@||ghxgw.com^
 @@||gi.lt^
 @@||gigaz.in^
 @@||gil.re^
@@ -2682,7 +2647,6 @@
 @@||h5static.cc.163.com^
 @@||haa.su^
 @@||hab.cx^
-@@||hadsucma.com^
 @@||hamza-prince-001.info^
 @@||han.gl^
 @@||hanada.info^
@@ -2694,7 +2658,6 @@
 @@||haokawx.lot-ml.com^
 @@||haoma.163.com^
 @@||hapi.hi.163.com^
-@@||harachi.info^
 @@||harapan777.love^
 @@||harleyned.live^
 @@||has.coffee^
@@ -2793,7 +2756,6 @@
 @@||hover.com^
 @@||hp.care^
 @@||hpe.to^
-@@||hpxjl.com^
 @@||hqstreams7.info^
 @@||hqxxx.bar^
 @@||hr.163.com^
@@ -2832,7 +2794,6 @@
 @@||huff.to^
 @@||huffp.st^
 @@||hugeurl.com^
-@@||hulk3.com^
 @@||hulu.tv^
 @@||huluxia.com^
 @@||huma.na^
@@ -2878,7 +2839,6 @@
 @@||ic9.in^
 @@||icanhaz.com^
 @@||ice.lol^
-@@||ichafunddrives.live^
 @@||icit.fr^
 @@||ick.li^
 @@||icks.ro^
@@ -2891,7 +2851,6 @@
 @@||id.163.com^
 @@||identity.apple.com^
 @@||idfk.lol^
-@@||idjzj.sbs^
 @@||idm.in^
 @@||idmail.me^
 @@||idmsa.apple.com^
@@ -2903,7 +2862,6 @@
 @@||iea.li^
 @@||iembelleze.com^
 @@||ierp.co.nz^
-@@||ievccd.com^
 @@||if.fm^
 @@||ifdian.net^
 @@||ifix.gd^
@@ -2911,7 +2869,6 @@
 @@||iframe.arkoselabs.com^
 @@||ift.cx^
 @@||ift.tt^
-@@||ifwni.com^
 @@||ig.apple.com^
 @@||igotthejuices.live^
 @@||iherb.co^
@@ -2986,7 +2943,6 @@
 @@||imo.cx^
 @@||in.gl^
 @@||in.mt^
-@@||inburstcorp.live^
 @@||incab.us^
 @@||incl.live^
 @@||inclusivetravelwithnikki.com^
@@ -3031,7 +2987,6 @@
 @@||inx.name^
 @@||io.clickguard.com^
 @@||ionos.ly^
-@@||ioui.ru^
 @@||ip*.ahcdn.com^
 @@||ip.900cha.com^
 @@||ip.cn^
@@ -3107,7 +3062,6 @@
 @@||ja.ma^
 @@||jacesantiago.space^
 @@||jacobgb334inc.live^
-@@||jaenwoo.live^
 @@||jaga.link^
 @@||jaglil.com^
 @@||jagoan-hosting.online^
@@ -3116,13 +3070,11 @@
 @@||jamesastaten.live^
 @@||janji.me^
 @@||janjihoki.fun^
-@@||japkq.com^
 @@||javadocs.org^
 @@||javfinder.ai^
 @@||jaw.gg^
 @@||jaygo.xyz^
 @@||jb.gg^
-@@||jbqdo.com^
 @@||jcp.is^
 @@||jd.cn.hn^
 @@||jddbo.com^

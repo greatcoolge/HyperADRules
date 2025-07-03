@@ -4757,7 +4757,6 @@ cupid.iqiyi.com
 cupoms.info
 curben.gitlab.io
 curiosity.com
-curious-cat.live
 curl.im
 curl.pk
 curl.ro
@@ -4832,7 +4831,6 @@ cyonix.to
 cz.playstation.com
 cz.wikipedia.com
 d-h.st
-d-its-hekis-osama-kwi.info
 d-sh.io
 d.agkn.com
 d.bilibili.com
@@ -4855,7 +4853,6 @@ d.yimg.com
 d.yzh.li
 d10lpsik1i8c69.cloudfront.net
 d138.link
-d13links.online
 d1ayxb9ooonjts.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
 d1zgderxoe1a.cloudfront.net
@@ -4885,7 +4882,6 @@ dad.do
 daduslot88.life
 dafa07.net
 daffodilvarsity.edu.bd
-dafjk.info
 daftarhoki.live
 daftarmpomax.live
 daftsex.com
@@ -4903,7 +4899,6 @@ dajdam.rs
 dalinksavad.eu
 damengxiang.me
 danbooru.donmai.us
-dandbsolutions.live
 dandy.dental
 dansguardian.org
 dash.cloudflare.com
@@ -5176,12 +5171,9 @@ digbig.com
 digg.com
 digicert.com
 digidip.net
-digital-it-park.life
 digitalassetlinks.googleapis.com
 digitalcameras.engadget.com
 digitalfirstmedia.com
-digitalitpark.life
-digitalitparks.life
 digitalocean.com
 digitaltrends.com
 digitize-umfrage.at
@@ -5230,7 +5222,6 @@ distributions.crowdin.net
 dive.pub
 divestiture.life
 divsly.com
-djarum88.shop
 djex.co
 dji.com
 djix.com
@@ -5311,7 +5302,6 @@ dn.se
 dn303.online
 dna360.tw
 dnaindia.com
-dnmqv.top
 dns.cloudflare.com
 dns.msftncsi.com
 dns1.funimation.com
@@ -5360,7 +5350,6 @@ domains-ws.revved.com
 domainwhoisinfo.com
 domeneshop.no
 domi.link
-dominguez-nieves-71.life
 dominos.co.in
 dominos.sng.link
 domraider.io
@@ -5481,7 +5470,6 @@ dropmylinks.com
 drp.su
 drpsnd.io
 drte.co
-drunks.life
 drupal.org
 drutki.com
 druuz.com
@@ -5489,7 +5477,6 @@ drw.sh
 ds.163.com
 ds.download.windowsupdate.com
 ds.prod.vidible.tv
-dscef.rest
 dsh.re
 dside.ca
 dsm.ok.ru
@@ -5558,7 +5545,6 @@ dy-pic0.iqiyipic.com
 dy.fi
 dy.si
 dydou.life
-dyjmk.sbs
 dyn.ithome.com
 dynaimage.cdn.turner.com
 dynamic-cdn.spot.im
@@ -5667,7 +5653,6 @@ econ.st
 economist.com
 ecra.se
 ecrane.link
-ed-lira-tahiri-05.life
 ed.gov
 ed.gr
 ed.rdtcdn.com
@@ -5695,7 +5680,6 @@ editor.flipboard.com
 editor.swagger.io
 editricity.xyz
 edl.io
-edliratahiri05.life
 edm.to
 edm03.huawei.com
 edmno1.info
@@ -5709,7 +5693,6 @@ eeatu.com
 eek.us
 eepurl.com
 eeurl.com
-eeztk.top
 efe.snssdk.com
 eff.org
 efie.co
@@ -5717,7 +5700,6 @@ efraising.org
 efs.link
 efshop.tw
 efw4.one
-eg-hr.com
 eg-sale.com
 egw.bz
 egypsianrubie.live
@@ -5749,15 +5731,11 @@ elink.ly
 elita.fr
 eliteoz.com.au
 elivr.com
-elizabethblog.info
-elizabethblog.life
-elizabethdesign.life
 elkjop.no
 ellastern.live
 elle.re
 ellemag.co
 elm-lang.org
-eloism.net
 eloqua.com
 elpais.com
 elsevier.com
@@ -5897,7 +5875,6 @@ epochtimes.com
 epochtimes.org
 epsi.link
 ept.ms
-epuu.info
 eq.10jqka.com.cn
 eqcodecracks.life
 eqix.it
@@ -5946,7 +5923,6 @@ estore.sonymobile.com
 estream.to
 esun.co
 esyurl.com
-eszen.sbs
 et2.top
 etahub.com
 etao.com
@@ -6142,7 +6118,6 @@ facepic.qidian.com
 factorio.com
 factory.blog.naver.com
 fadurl.com
-faiq09824.life
 fakecell.sys.miui.com
 fal.cn
 fam.ag
@@ -6362,7 +6337,6 @@ firstpost.com
 firstspot.com
 firsturl.de
 firsturl.net
-firstweber.life
 fitgirl-repacks.site
 fitz.ms
 fiverr-res.cloudinary.com
@@ -6509,7 +6483,6 @@ found.ee
 fourhoi.com
 fourier.taobao.com
 foursquare.com
-fovre.sbs
 fox.tv
 fox13now.com
 fox17online.com
@@ -6529,7 +6502,6 @@ fp.profiles.us.playstation.com
 fp.tongdun.net
 fpdownload.adobe.com
 fpdownload.macromedia.com
-fpfro.sbs
 fpn.flipboard.com
 fpt.microsoft.com
 fpt.xbox.com
@@ -6631,7 +6603,6 @@ fts.ms
 ftvr-na.amazon.com
 fuas.sonymobile.com
 fullbreed.live
-fullstacklogan.live
 fullstory.com
 fumacrom.com
 fund.jr.mi.com
@@ -6741,7 +6712,6 @@ gamelist.api.playstation.com
 gameloft.com
 gamelogs.live.bhvrdbd.com
 gameone.com
-gameover.today
 gamercard.xbox.com
 gamerzchoices.com
 games.buzzfeed.com
@@ -6757,7 +6727,6 @@ gandi.link
 gap.com
 garena.com
 garuda.homes
-gary-kopff.life
 garyvee.com
 gate-ag.first-id.fr
 gatehousemedia.com
@@ -6838,9 +6807,6 @@ geoip.sonymobile.com
 geoip.tnt-ea.com
 geojs.io
 geolocation.onetrust.com
-george-dab-a.life
-georgebita.life
-georgeblota.life
 georiot.co
 georiot.com
 geoserver.org
@@ -6907,7 +6873,6 @@ ghntinyurl.com
 ghostbin.com
 ghostery.com
 ghs.googlehosted.com
-ghxgw.com
 gi.lt
 gia.jd.com
 gift-blog.line.me
@@ -7555,7 +7520,6 @@ hackaday.com
 hackernoon.com
 hackerone.com
 hackthissite.org
-hadsucma.com
 halifax.maelstrom.gameservices.xboxlive.com
 halo.part.xbox.com
 halo.xbox.com
@@ -7576,7 +7540,6 @@ haokawx.lot-ml.com
 haoma.163.com
 hapi.hi.163.com
 har.es
-harachi.info
 harapan777.love
 harborfreight.com
 hardware.support.eu.playstation.com
@@ -7834,7 +7797,6 @@ hp.care
 hp.com
 hpe.to
 hpg.com.br
-hpxjl.com
 hqq.tv
 hqq.watch
 hqstreams7.info
@@ -7904,7 +7866,6 @@ huffingtonpost.com
 huffp.st
 huffpost.com
 hugeurl.com
-hulk3.com
 hulkshare.com
 hulu.com
 hulu.tv
@@ -8029,7 +7990,6 @@ icanhazip.com
 icann.org
 icare.huawei.com
 ice.lol
-ichafunddrives.live
 ichnaea-web.netflix.com
 ichnaea.netflix.com
 ichnaea.netflix.com 
@@ -8075,7 +8035,6 @@ idfk.lol
 idg.com
 idg.me
 idg.se
-idjzj.sbs
 idm.in
 idmail.me
 idmsa.apple.com
@@ -8092,7 +8051,6 @@ iea.li
 ieee.org
 iembelleze.com
 ierp.co.nz
-ievccd.com
 if.fm
 iface2.iqiyi.com
 ifdian.net
@@ -8105,7 +8063,6 @@ iframe.arkoselabs.com
 ift.cx
 ift.rakuten.co.jp
 ift.tt
-ifwni.com
 ig-us-notice.igamecj.com
 ig-us-sdkapi.igamecj.com
 ig.apple.com
@@ -8399,7 +8356,6 @@ in.xms.d.mi.com
 inapcache.boston.com
 inbox.google.com
 inbrowserediting.adobe.com
-inburstcorp.live
 inc.com
 incab.us
 incl.live
@@ -8549,7 +8505,6 @@ ios.nccp.netflix.com
 ios.soundcloud.com
 iosdl.game.xiaomi.com
 iota.bitfinex.com
-ioui.ru
 ip*.ahcdn.com
 ip-adress.com
 ip-api.com
@@ -8712,7 +8667,6 @@ jacepayment.airasia.com
 jacesantiago.space
 jackjones.com
 jacobgb334inc.live
-jaenwoo.live
 jaga.link
 jaglil.com
 jagoan-hosting.online
@@ -8725,7 +8679,6 @@ janji.me
 janjihoki.fun
 japan.techrepublic.com
 japanese.engadget.com
-japkq.com
 jarvis-dev.sonymobile.com
 jav321.com
 javadocs.org
@@ -8735,7 +8688,6 @@ jaw.gg
 jaygo.xyz
 jb.gg
 jbhifi.com.au
-jbqdo.com
 jcmsfd.account.microsoft.com
 jcp.is
 jcpenney.com
