@@ -3894,6 +3894,7 @@
 @@||cell.office.naver.com^
 @@||ceneo.pl^
 @@||census.gov^
+@@||centi.ai^
 @@||cert.halo.part.xbox.com^
 @@||cert.mgt.xboxlive.com ^
 @@||cert.mgt.xboxlive.com^
@@ -4420,6 +4421,7 @@
 @@||com.com^
 @@||com.edgesuite.net^
 @@||comca.st^
+@@||come.ac^
 @@||comic.naver.com^
 @@||comic.nil.naver.com^
 @@||commander1.com^
@@ -12609,7 +12611,6 @@
 @@||pan-cdn.exponea.com^
 @@||pan.quark.cn^
 @@||pan.tenire.com^
-@@||pancitkantonan.life^
 @@||pando.com^
 @@||pandora.mi.com^
 @@||panduoduo.net^
@@ -13004,7 +13005,6 @@
 @@||po.st^
 @@||pochta.ru^
 @@||pocketmath-cdn.com^
-@@||pocketpass.live^
 @@||pod.fo^
 @@||podcasting.help.soundcloud.com^
 @@||podcasts.engadget.com^
@@ -13082,8 +13082,6 @@
 @@||pp.ua^
 @@||pp.userapi.com^
 @@||ppa.launchpad.net^
-@@||ppcgogo.live^
-@@||ppcome.live^
 @@||pplx.ai^
 @@||ppq.apple.com^
 @@||ppslots.live^
@@ -13268,13 +13266,11 @@
 @@||pse.is^
 @@||psee.io^
 @@||psfl.in^
-@@||psgra.com^
 @@||psmedia.playstation.com^
 @@||psn-rsc.prod.dl.playstation.net^
 @@||psp.ign.com^
 @@||psp2-e.np.dl.playstation.net^
 @@||psp2.updptl.np.community.playstation.net^
-@@||psrak.sbs^
 @@||pss.bdstatic.com^
 @@||psstatic.cdn.bcebos.com^
 @@||pstmrk.it^
@@ -13383,7 +13379,6 @@
 @@||pygy.co^
 @@||pymd.org^
 @@||pzdls.co^
-@@||pzjms.sbs^
 @@||q-r.to^
 @@||q.ebaystatic.com^
 @@||q.gs^
@@ -13409,9 +13404,7 @@
 @@||qd.rs^
 @@||qdfepccdn.qidian.com^
 @@||qdl.pw^
-@@||qeejx.com^
 @@||qflm.net^
-@@||qfqqi.top^
 @@||qhres2.com^
 @@||qi.163.com^
 @@||qichacha.com^
@@ -13469,7 +13462,6 @@
 @@||qrfy.com^
 @@||qrfy.io^
 @@||qrisni.me^
-@@||qrlcm.top^
 @@||qrs.ly^
 @@||qrtag.fr^
 @@||qrurl.cc^
@@ -13489,8 +13481,6 @@
 @@||quantummetric.com^
 @@||quark.sm.cn^
 @@||quee.link^
-@@||queen-kelly.life^
-@@||queenkelly.live^
 @@||query.prod.cms.rt.microsoft.com^
 @@||query.yahoo.com^
 @@||query.yahooapis.com^
@@ -13499,8 +13489,6 @@
 @@||quick.lt^
 @@||quip-art.com^
 @@||quora.com^
-@@||quoraurls.life^
-@@||quoraurlsite.life^
 @@||qut.to^
 @@||qutt.me^
 @@||qutt.us^
@@ -13548,7 +13536,6 @@
 @@||r20-test.rs6.net^
 @@||r20.rs6.net^
 @@||r2c.one^
-@@||r2slotamp.xyz^
 @@||r3---sn-2x3elnel.gvt1-cn.com^
 @@||r3---sn-2x3elnes.gvt1-cn.com^
 @@||r3---sn-npoe7nsl.gvt1.com^
@@ -13935,7 +13922,6 @@
 @@||rismehabb.cc.rs6.net^
 @@||risu.io^
 @@||ritea.id^
-@@||rivera-quinones-luis-manuel-5.life^
 @@||riverisland.com^
 @@||riz.cz^
 @@||rizy.ir^
@@ -14812,7 +14798,6 @@
 @@||shopping.line.me^
 @@||shopping.naver.com^
 @@||shoppy.gg^
-@@||shopquoraurl.life^
 @@||shopvt.life^
 @@||shorix.ru^
 @@||shorl.com^
@@ -14855,6 +14840,7 @@
 @@||shorten.ee^
 @@||shorten.is^
 @@||shorten.rest^
+@@||shorten.so^
 @@||shorten.tv^
 @@||shortened.website^
 @@||shortenedlinks.com^
@@ -14894,7 +14880,6 @@
 @@||shortlinkpanel.com^
 @@||shortlinks.co.uk^
 @@||shortlinksakti.xyz^
-@@||shortlk.com^
 @@||shortll.com^
 @@||shortly.cc^
 @@||shortly.click^
@@ -14907,7 +14892,6 @@
 @@||shortme.work^
 @@||shortme.xyz^
 @@||shortmenu.com^
-@@||shortmoneyus.com^
 @@||shortna.me^
 @@||shortner.app^
 @@||shortner.cc^
@@ -15003,7 +14987,6 @@
 @@||siakapkeli.info^
 @@||siasat.pk^
 @@||siatka.org^
-@@||sibutathemba120.life^
 @@||sicax.net^
 @@||sie.ag^
 @@||sifu.im^
@@ -15011,7 +14994,6 @@
 @@||sign-in.soundcloud.com^
 @@||signals.aimtell.com^
 @@||signals.qualcomm.com^
-@@||signatureclub.site^
 @@||signin.ebay.com^
 @@||signup.hulu.com^
 @@||signup.live.com^
@@ -15112,7 +15094,6 @@
 @@||slack.com^
 @@||slackb.com^
 @@||slaesforce.com^
-@@||slamfootball.com^
 @@||slashdot.org^
 @@||slate.adobe.com^
 @@||slate.com^
@@ -15293,7 +15274,6 @@
 @@||sosy.al^
 @@||sotly.me^
 @@||sou.nu^
-@@||soulful-transformation-studio.life^
 @@||soumtrack.info^
 @@||soundcaptcha.naver.com^
 @@||soundcheck.soundcloud.com^
@@ -15434,7 +15414,6 @@
 @@||ss777.win^
 @@||ss88.my^
 @@||ssa.li^
-@@||ssc2003.info^
 @@||ssj-1256119282.cos.ap-guangzhou.myqcloud.com^
 @@||ssl-ccstatic.highwebmedia.com^
 @@||ssl-cdn.static.browser.mi-img.com^
@@ -15738,7 +15717,6 @@
 @@||steamusercontent-a.akamaihd.net^
 @@||steamuserimages-a.akamaihd.net^
 @@||stern.de^
-@@||steve-patrick-811.life^
 @@||steveendow.link^
 @@||stfly.me^
 @@||stg-account-samsung-com-1073842004.eu-west-1.elb.amazonaws.com^
@@ -15953,7 +15931,6 @@
 @@||sumal.ly^
 @@||summer-plus.net^
 @@||sumo.com^
-@@||sumpahdokteruph52.live^
 @@||suning.com^
 @@||sunmaker.com^
 @@||suntimes.com^
@@ -16047,7 +16024,6 @@
 @@||surveymonkey.com^
 @@||surveys.twilio.com^
 @@||susurl.com^
-@@||suumk.com^
 @@||sv.aq.qq.com^
 @@||sv.brand-display.com^
 @@||sv.gravatar.com^

@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 03 Jul 2025 10:45 UTC
-! Version: 2025.0703.1045.11
+! Last modified: 03 Jul 2025 22:45 UTC
+! Version: 2025.0703.2245.03
 ! Syntax: AdBlock
 !
 @@||00oo.lol^
@@ -883,6 +883,7 @@
 @@||s.cdw.ro^
 @@||ceci-ana-jada-271928.life^
 @@||celfam.us^
+@@||centi.ai^
 @@||cesinthi.com^
 @@||cf2.me^
 @@||cf6.co^
@@ -1019,6 +1020,7 @@
 @@||tim.com.vc^
 @@||useek.com.au^
 @@||comca.st^
+@@||come.ac^
 @@||kutt.comodo.com^
 @@||consiseurl.com^
 @@||consultant828.com^
@@ -3080,7 +3082,6 @@
 @@||paids.site^
 @@||paisakamalo.in^
 @@||paksa.click^
-@@||pancitkantonan.life^
 @@||paperspeedy.com^
 @@||parg.co^
 @@||parky.tv^
@@ -3180,7 +3181,6 @@
 @@||pnsne.ws^
 @@||pnut.co^
 @@||po.st^
-@@||pocketpass.live^
 @@||pod.fo^
 @@||poeurl.com^
 @@||poie.ma^
@@ -3197,8 +3197,6 @@
 @@||post.ly^
 @@||posted.at^
 @@||go.poweren.ir^
-@@||ppcgogo.live^
-@@||ppcome.live^
 @@||pplx.ai^
 @@||ppslots.live^
 @@||ppt.cc^
@@ -3243,8 +3241,6 @@
 @@||pse.is^
 @@||psee.io^
 @@||psfl.in^
-@@||psgra.com^
-@@||psrak.sbs^
 @@||psychic-shiva-ram.live^
 @@||ptab.it^
 @@||ptix.co^
@@ -3275,7 +3271,6 @@
 @@||pygy.co^
 @@||pymd.org^
 @@||pzdls.co^
-@@||pzjms.sbs^
 @@||q.gs^
 @@||q-r.to^
 @@||q8at.link^
@@ -3286,8 +3281,6 @@
 @@||qcutul2702.life^
 @@||qd.rs^
 @@||qdl.pw^
-@@||qeejx.com^
-@@||qfqqi.top^
 @@||qicute.com^
 @@||jobs.qjobsindia.com^
 @@||qk.lc^
@@ -3315,7 +3308,6 @@
 @@||qrfy.com^
 @@||qrfy.io^
 @@||qrisni.me^
-@@||qrlcm.top^
 @@||qrs.ly^
 @@||qrtag.fr^
 @@||qrurl.cc^
@@ -3325,12 +3317,8 @@
 @@||quainator.com^
 @@||quamiller.com^
 @@||quee.link^
-@@||queen-kelly.life^
-@@||queenkelly.live^
 @@||quick.lt^
 @@||quip-art.com^
-@@||quoraurls.life^
-@@||quoraurlsite.life^
 @@||qut.to^
 @@||qutt.me^
 @@||qutt.us^
@@ -3344,7 +3332,6 @@
 @@||r-txt.com^
 @@||r-txt.org^
 @@||r2c.one^
-@@||r2slotamp.xyz^
 @@||raceclip.com^
 @@||radly.ir^
 @@||raic.hu^
@@ -3457,7 +3444,6 @@
 @@||rip.to^
 @@||risu.io^
 @@||ritea.id^
-@@||rivera-quinones-luis-manuel-5.life^
 @@||riz.cz^
 @@||rizy.ir^
 @@||rj99.art^
@@ -3654,7 +3640,6 @@
 @@||shope.ee^
 @@||shopifie.com^
 @@||shopifystorekms.life^
-@@||shopquoraurl.life^
 @@||shopvt.life^
 @@||shorix.ru^
 @@||shorl.com^
@@ -3687,6 +3672,7 @@
 @@||shorten.ee^
 @@||shorten.is^
 @@||shorten.rest^
+@@||shorten.so^
 @@||shorten.tv^
 @@||shorten-url.com^
 @@||shortened.website^
@@ -3723,7 +3709,6 @@
 @@||shortlink88.xyz^
 @@||shortlinkpanel.com^
 @@||shortlinksakti.xyz^
-@@||shortlk.com^
 @@||shortll.com^
 @@||shortly.cc^
 @@||shortly.click^
@@ -3736,7 +3721,6 @@
 @@||shortme.work^
 @@||shortme.xyz^
 @@||shortmenu.com^
-@@||shortmoneyus.com^
 @@||shortna.me^
 @@||shortner.app^
 @@||shortner.cc^
@@ -3820,12 +3804,10 @@
 @@||shycmedi.com^
 @@||siakap.life^
 @@||siakapkeli.info^
-@@||sibutathemba120.life^
 @@||sicax.net^
 @@||sie.ag^
 @@||sifu.im^
 @@||sigboms.com^
-@@||signatureclub.site^
 @@||sikencang.com^
 @@||sikilat.fun^
 @@||sikk.de^
@@ -3862,7 +3844,6 @@
 @@||sku.su^
 @@||sky.si^
 @@||skyurl.cc^
-@@||slamfootball.com^
 @@||slecastle.com^
 @@||slice.partners^
 @@||slidesha.re^
@@ -3927,7 +3908,6 @@
 @@||sosy.al^
 @@||sotly.me^
 @@||sou.nu^
-@@||soulful-transformation-studio.life^
 @@||soumtrack.info^
 @@||sourl.cn^
 @@||sovrn.co^
@@ -3971,7 +3951,6 @@
 @@||ss777.win^
 @@||ss88.my^
 @@||ssa.li^
-@@||ssc2003.info^
 @@||ssl.gs^
 @@||ssl-check-links.info^
 @@||st.news^
@@ -3985,7 +3964,6 @@
 @@||starz.tv^
 @@||staticprocessorsource.review^
 @@||statistics4u.net^
-@@||steve-patrick-811.life^
 @@||steveendow.link^
 @@||stfly.me^
 @@||stke.xyz^
@@ -4008,7 +3986,6 @@
 @@||sukatobrut.xyz^
 @@||sulejalan.online^
 @@||sumal.ly^
-@@||sumpahdokteruph52.live^
 @@||suo.fyi^
 @@||suo.im^
 @@||suo.su^
@@ -4025,7 +4002,6 @@
 @@||surl.me^
 @@||surl.pro^
 @@||susurl.com^
-@@||suumk.com^
 @@||sva.onl^
 @@||svy.mk^
 @@||swa.is^
