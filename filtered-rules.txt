@@ -11667,6 +11667,7 @@ mysql.com
 mystyle.archosaur.com
 mysupport.sonymobile.com
 mytd.cc
+mytiktok.life
 mytinycheck9.life
 mytoluwalemi.life
 myumi.ch
@@ -16300,7 +16301,6 @@ tandfonline.com
 tanks.ly
 tantanapp.com
 tanx.com
-tanzx.cloud
 taobao.com
 taobaocdn.com
 tap-rt-prod1-t.campaign.adobe.com
@@ -16367,10 +16367,8 @@ techtarget.com
 techtunes.com.bd
 ted.com
 tedcdn.com
-teeny.life
 teenycheck9.life
 teespring.com
-tegmv.rest
 teil.cc
 tek.io
 teknut.com
@@ -16440,7 +16438,6 @@ tgr.ph
 th.bing.com
 th.gravatar.com
 th.pinduoduo.com
-thandisozynobiahlongwanes.life
 thaniel.life
 tharp.me
 thatis.me
@@ -16448,7 +16445,6 @@ thd.co
 the-eye.eu
 the-link.me
 the-mc-michel-group.live
-the-vic.info
 the.earth.li
 theantisocialengineer.com
 theatlantic.com
@@ -16474,9 +16470,6 @@ thehill.com
 theia.dl.playstation.net
 thein.fo
 thejoekuskie.com
-thekrew.info
-thekrew.net
-thekreww.com
 thelegends.land
 theme-shop.coffeecup.com
 themeforest.net
@@ -16636,7 +16629,6 @@ tixxh.com
 tj-bet88.store
 tj-in-f14.1e100.net
 tj.wtf
-tjazih.com
 tklinks.com
 tkqlhce.com
 tktwb.tw
@@ -17106,7 +17098,6 @@ ualberta.ca
 uaprof.sonymobile.com
 uarel.com
 ub0.cc
-ubfhb.sbs
 ubisoft-orbit-savegames.s3.amazonaws.com
 ublock.org
 ubm.io
@@ -17134,14 +17125,12 @@ udl-api.sonymobile.com
 udomain.dl.sourceforge.net
 uds.licenses.adobe.com
 udurl.com
-udylo.rest
 ue.flipboard.com
 ueb.eu
 uedna.com
 uepx.com
 ufai.app
 ufcqc.link
-ufjqt.com
 ug.cz
 ugame.9game.cn
 ugc.api.playstation.com
@@ -17158,7 +17147,6 @@ uich.cc
 uidesign.gbtcdn.com
 uinw.site
 uisdc.com
-uitve.sbs
 ujootchu.net
 uk-go.kelkoogroup.net
 uk.gravatar.com
@@ -17375,7 +17363,6 @@ urlao.com
 urlbd.com
 urlbit.co
 urlbox.cc
-urlbrief.com
 urlchecker.info
 urlcover.com
 urlcut.com
@@ -17459,7 +17446,6 @@ urlz.my
 urlzen.com
 urlzs.com
 urlzs.in
-urppj.top
 urs.techrepublic.com
 urstoron.com
 urswebzj.nosdn.127.net
@@ -17812,7 +17798,6 @@ vivo.sx
 vivo.tl
 vjav.com
 vjav0.ahcdn.com
-vjhxy.com
 vjs.zencdn.net
 vk.cc
 vk.com
@@ -17905,7 +17890,6 @@ vtred.net
 vtru.xyz
 vtu.cc
 vturl.net
-vtxtl.com
 vu.fr
 vudu.com
 vudu.hs.llnwd.net
@@ -17915,7 +17899,6 @@ vulcan.condenastdigital.com
 vulcan.xbox.com
 vultr.com
 vulture.com
-vunvc.sbs
 vupload2.facebook.com
 vur.me
 vurl.com
@@ -17931,10 +17914,8 @@ vxn.link
 vxxx.com
 vy.me
 vypij.bar
-vyqqr.com
 vz.to
 vzaar.com
-vzturl.com
 w-hun-n-9883-gh.info
 w.big-appli.fr
 w.idg.de
@@ -18094,7 +18075,6 @@ webcut.net
 webdigraziosi1.com
 webdisk.sitcomsonline.com
 webep1.com
-weberdesign.life
 webfiles.gamebanana.com
 webflow.grsm.io
 webgrab.wechat.com
@@ -18111,7 +18091,6 @@ webmienphi.net
 weboffice-static.docs.dingtalk.com
 webopedia.com
 webpower.eu
-webprografor.live
 webprotech.live
 webrc.net
 websearch.rakuten.co.jp
@@ -18220,7 +18199,6 @@ widgets.ign.com
 widgets.twimg.com
 widgets.weather.com
 widgets.wise.com
-widyh.com
 wieistmeineip.de
 wifiapi.micloud.xiaomi.net
 wig.ht
@@ -19923,7 +19901,6 @@ wx3.sinaimg.cn
 wx4.sinaimg.cn
 wxapp.lvyadx.cn
 wxaurl.cn
-wxdib.sbs
 wxmini-api.uyouqu.com
 wxsnsdy.wxs.qq.com
 wy.si
@@ -20011,7 +19988,6 @@ xkms.xboxlive.com
 xl7xml.client.xunlei.com
 xl8.eu
 xmcs.mi.com
-xmekz.com
 xmlr.link
 xmpp-server.l.google.com
 xmpush.xiaomi.com
@@ -20068,7 +20044,6 @@ xurls.net
 xvideos-cdn.com
 xvideos.com
 xvirt.it
-xwhxx.com
 xwq.info
 xx.snap.com
 xxx-image.com
@@ -20122,10 +20097,7 @@ yep.pt
 yepp.link
 yerl.org
 yex.tt
-yfdxr.top
 yfrog.com
-ygudy.com
-yh6.us
 yhd.com
 yhoo.it
 yiii.de
@@ -20170,7 +20142,6 @@ youtube-nocookie.com
 youtube-ui.l.google.com
 youtube.com
 youtubei.googleapis.com
-yozzc.com
 yql.yahoo.com
 ysear.ch
 ysf.qiyukf.net
@@ -20216,7 +20187,6 @@ z4a.net
 z9.fr
 za.ign.com
 za2.us
-zaidsafwah.live
 zajefajna.com
 zak.by
 zaloapp.com
@@ -20265,8 +20235,6 @@ zeus4d.mom
 zeusstore.live
 zeustracker.abuse.ch
 zez.kr
-zfgcx.com
-zggvt.com
 zh-cn.about.flipboard.com
 zh-hk.about.flipboard.com
 zh-tw.gravatar.com
@@ -20348,7 +20316,6 @@ zshort.io
 zshorten.com
 zshortner.com
 zsirkacsa.hu
-zsjdu.com
 zsote.com
 ztgame.com
 zti.me

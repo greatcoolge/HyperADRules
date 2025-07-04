@@ -11673,6 +11673,7 @@
 @@||mystyle.archosaur.com^
 @@||mysupport.sonymobile.com^
 @@||mytd.cc^
+@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||myumi.ch^
@@ -16306,7 +16307,6 @@
 @@||tanks.ly^
 @@||tantanapp.com^
 @@||tanx.com^
-@@||tanzx.cloud^
 @@||taobao.com^
 @@||taobaocdn.com^
 @@||tap-rt-prod1-t.campaign.adobe.com^
@@ -16373,10 +16373,8 @@
 @@||techtunes.com.bd^
 @@||ted.com^
 @@||tedcdn.com^
-@@||teeny.life^
 @@||teenycheck9.life^
 @@||teespring.com^
-@@||tegmv.rest^
 @@||teil.cc^
 @@||tek.io^
 @@||teknut.com^
@@ -16446,7 +16444,6 @@
 @@||th.bing.com^
 @@||th.gravatar.com^
 @@||th.pinduoduo.com^
-@@||thandisozynobiahlongwanes.life^
 @@||thaniel.life^
 @@||tharp.me^
 @@||thatis.me^
@@ -16454,7 +16451,6 @@
 @@||the-eye.eu^
 @@||the-link.me^
 @@||the-mc-michel-group.live^
-@@||the-vic.info^
 @@||the.earth.li^
 @@||theantisocialengineer.com^
 @@||theatlantic.com^
@@ -16480,9 +16476,6 @@
 @@||theia.dl.playstation.net^
 @@||thein.fo^
 @@||thejoekuskie.com^
-@@||thekrew.info^
-@@||thekrew.net^
-@@||thekreww.com^
 @@||thelegends.land^
 @@||theme-shop.coffeecup.com^
 @@||themeforest.net^
@@ -16642,7 +16635,6 @@
 @@||tj-bet88.store^
 @@||tj-in-f14.1e100.net^
 @@||tj.wtf^
-@@||tjazih.com^
 @@||tklinks.com^
 @@||tkqlhce.com^
 @@||tktwb.tw^
@@ -17112,7 +17104,6 @@
 @@||uaprof.sonymobile.com^
 @@||uarel.com^
 @@||ub0.cc^
-@@||ubfhb.sbs^
 @@||ubisoft-orbit-savegames.s3.amazonaws.com^
 @@||ublock.org^
 @@||ubm.io^
@@ -17140,14 +17131,12 @@
 @@||udomain.dl.sourceforge.net^
 @@||uds.licenses.adobe.com^
 @@||udurl.com^
-@@||udylo.rest^
 @@||ue.flipboard.com^
 @@||ueb.eu^
 @@||uedna.com^
 @@||uepx.com^
 @@||ufai.app^
 @@||ufcqc.link^
-@@||ufjqt.com^
 @@||ug.cz^
 @@||ugame.9game.cn^
 @@||ugc.api.playstation.com^
@@ -17164,7 +17153,6 @@
 @@||uidesign.gbtcdn.com^
 @@||uinw.site^
 @@||uisdc.com^
-@@||uitve.sbs^
 @@||ujootchu.net^
 @@||uk-go.kelkoogroup.net^
 @@||uk.gravatar.com^
@@ -17381,7 +17369,6 @@
 @@||urlbd.com^
 @@||urlbit.co^
 @@||urlbox.cc^
-@@||urlbrief.com^
 @@||urlchecker.info^
 @@||urlcover.com^
 @@||urlcut.com^
@@ -17465,7 +17452,6 @@
 @@||urlzen.com^
 @@||urlzs.com^
 @@||urlzs.in^
-@@||urppj.top^
 @@||urs.techrepublic.com^
 @@||urstoron.com^
 @@||urswebzj.nosdn.127.net^
@@ -17818,7 +17804,6 @@
 @@||vivo.tl^
 @@||vjav.com^
 @@||vjav0.ahcdn.com^
-@@||vjhxy.com^
 @@||vjs.zencdn.net^
 @@||vk.cc^
 @@||vk.com^
@@ -17911,7 +17896,6 @@
 @@||vtru.xyz^
 @@||vtu.cc^
 @@||vturl.net^
-@@||vtxtl.com^
 @@||vu.fr^
 @@||vudu.com^
 @@||vudu.hs.llnwd.net^
@@ -17921,7 +17905,6 @@
 @@||vulcan.xbox.com^
 @@||vultr.com^
 @@||vulture.com^
-@@||vunvc.sbs^
 @@||vupload2.facebook.com^
 @@||vur.me^
 @@||vurl.com^
@@ -17937,10 +17920,8 @@
 @@||vxxx.com^
 @@||vy.me^
 @@||vypij.bar^
-@@||vyqqr.com^
 @@||vz.to^
 @@||vzaar.com^
-@@||vzturl.com^
 @@||w-hun-n-9883-gh.info^
 @@||w.big-appli.fr^
 @@||w.idg.de^
@@ -18100,7 +18081,6 @@
 @@||webdigraziosi1.com^
 @@||webdisk.sitcomsonline.com^
 @@||webep1.com^
-@@||weberdesign.life^
 @@||webfiles.gamebanana.com^
 @@||webflow.grsm.io^
 @@||webgrab.wechat.com^
@@ -18117,7 +18097,6 @@
 @@||weboffice-static.docs.dingtalk.com^
 @@||webopedia.com^
 @@||webpower.eu^
-@@||webprografor.live^
 @@||webprotech.live^
 @@||webrc.net^
 @@||websearch.rakuten.co.jp^
@@ -18226,7 +18205,6 @@
 @@||widgets.twimg.com^
 @@||widgets.weather.com^
 @@||widgets.wise.com^
-@@||widyh.com^
 @@||wieistmeineip.de^
 @@||wifiapi.micloud.xiaomi.net^
 @@||wig.ht^
@@ -19929,7 +19907,6 @@
 @@||wx4.sinaimg.cn^
 @@||wxapp.lvyadx.cn^
 @@||wxaurl.cn^
-@@||wxdib.sbs^
 @@||wxmini-api.uyouqu.com^
 @@||wxsnsdy.wxs.qq.com^
 @@||wy.si^
@@ -20017,7 +19994,6 @@
 @@||xl7xml.client.xunlei.com^
 @@||xl8.eu^
 @@||xmcs.mi.com^
-@@||xmekz.com^
 @@||xmlr.link^
 @@||xmpp-server.l.google.com^
 @@||xmpush.xiaomi.com^
@@ -20074,7 +20050,6 @@
 @@||xvideos-cdn.com^
 @@||xvideos.com^
 @@||xvirt.it^
-@@||xwhxx.com^
 @@||xwq.info^
 @@||xx.snap.com^
 @@||xxx-image.com^
@@ -20128,10 +20103,7 @@
 @@||yepp.link^
 @@||yerl.org^
 @@||yex.tt^
-@@||yfdxr.top^
 @@||yfrog.com^
-@@||ygudy.com^
-@@||yh6.us^
 @@||yhd.com^
 @@||yhoo.it^
 @@||yiii.de^
@@ -20176,7 +20148,6 @@
 @@||youtube-ui.l.google.com^
 @@||youtube.com^
 @@||youtubei.googleapis.com^
-@@||yozzc.com^
 @@||yql.yahoo.com^
 @@||ysear.ch^
 @@||ysf.qiyukf.net^
@@ -20222,7 +20193,6 @@
 @@||z9.fr^
 @@||za.ign.com^
 @@||za2.us^
-@@||zaidsafwah.live^
 @@||zajefajna.com^
 @@||zak.by^
 @@||zaloapp.com^
@@ -20271,8 +20241,6 @@
 @@||zeusstore.live^
 @@||zeustracker.abuse.ch^
 @@||zez.kr^
-@@||zfgcx.com^
-@@||zggvt.com^
 @@||zh-cn.about.flipboard.com^
 @@||zh-hk.about.flipboard.com^
 @@||zh-tw.gravatar.com^
@@ -20354,7 +20322,6 @@
 @@||zshorten.com^
 @@||zshortner.com^
 @@||zsirkacsa.hu^
-@@||zsjdu.com^
 @@||zsote.com^
 @@||ztgame.com^
 @@||zti.me^

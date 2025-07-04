@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 03 Jul 2025 22:45 UTC
-! Version: 2025.0703.2245.03
+! Last modified: 04 Jul 2025 10:47 UTC
+! Version: 2025.0704.1047.04
 ! Syntax: AdBlock
 !
 @@||00oo.lol^
@@ -2837,6 +2837,7 @@
 @@||myshorturls.com^
 @@||mysp.ac^
 @@||mytd.cc^
+@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||myumi.ch^
@@ -4054,7 +4055,6 @@
 @@||taleus.live^
 @@||tamar.is^
 @@||tanks.ly^
-@@||tanzx.cloud^
 @@||taphoa24h.live^
 @@||taplink.cc^
 @@||tapz.in^
@@ -4075,9 +4075,7 @@
 @@||tdv-adm.live^
 @@||tdy.lol^
 @@||tdy.sg^
-@@||teeny.life^
 @@||teenycheck9.life^
-@@||tegmv.rest^
 @@||teil.cc^
 @@||tek.io^
 @@||teknut.com^
@@ -4110,7 +4108,6 @@
 @@||tgbe.link^
 @@||tgdgacor.com^
 @@||tgr.ph^
-@@||thandisozynobiahlongwanes.life^
 @@||thaniel.life^
 @@||tharp.me^
 @@||thatis.me^
@@ -4118,7 +4115,6 @@
 @@||sexy.jill.survive.from.the.monster^
 @@||the-link.me^
 @@||the-mc-michel-group.live^
-@@||the-vic.info^
 @@||thebindaas.com^
 @@||thedo.do^
 @@||thefood2.com^
@@ -4126,9 +4122,6 @@
 @@||thefunkymonkey.lu^
 @@||thein.fo^
 @@||thejoekuskie.com^
-@@||thekrew.info^
-@@||thekrew.net^
-@@||thekreww.com^
 @@||thelegends.land^
 @@||thenews24h.tech^
 @@||theposhed.com^
@@ -4217,7 +4210,6 @@
 @@||tixxh.com^
 @@||tj.wtf^
 @@||tj-bet88.store^
-@@||tjazih.com^
 @@||tklinks.com^
 @@||tktwb.tw^
 @@||tkz.es^
@@ -4386,7 +4378,6 @@
 @@||uafly.co^
 @@||ual.fyi^
 @@||ub0.cc^
-@@||ubfhb.sbs^
 @@||ubm.io^
 @@||ubmvs.top^
 @@||ubnt.link^
@@ -4400,18 +4391,15 @@
 @@||uclck.me^
 @@||uct-tobacco.live^
 @@||udhbc.com^
-@@||udylo.rest^
 @@||uepx.com^
 @@||ufai.app^
 @@||ufcqc.link^
-@@||ufjqt.com^
 @@||ug.cz^
 @@||ugp.io^
 @@||uhishado.com^
 @@||ui8.ru^
 @@||uich.cc^
 @@||uinw.site^
-@@||uitve.sbs^
 @@||ujootchu.net^
 @@||ukf.me^
 @@||ukoeln.de^
@@ -4487,7 +4475,6 @@
 @@||urlao.com^
 @@||urlbit.co^
 @@||urlbox.cc^
-@@||urlbrief.com^
 @@||urlchecker.info^
 @@||urlcover.com^
 @@||urlcut.com^
@@ -4565,7 +4552,6 @@
 @@||urlzen.com^
 @@||urlzs.com^
 @@||urlzs.in^
-@@||urppj.top^
 @@||urstoron.com^
 @@||urt.io^
 @@||urweb.net^
@@ -4648,7 +4634,6 @@
 @@||virl.com^
 @@||url.virtualstr8pnp.com^
 @@||vivo.tl^
-@@||vjhxy.com^
 @@||vk.cc^
 @@||vk.sv^
 @@||vkujd.com^
@@ -4684,9 +4669,7 @@
 @@||vtru.xyz^
 @@||vtu.cc^
 @@||vturl.net^
-@@||vtxtl.com^
 @@||vu.fr^
-@@||vunvc.sbs^
 @@||vur.me^
 @@||vurl.com^
 @@||vv.vg^
@@ -4694,9 +4677,7 @@
 @@||vvt.am^
 @@||vxn.link^
 @@||vypij.bar^
-@@||vyqqr.com^
 @@||vz.to^
-@@||vzturl.com^
 @@||w.wiki^
 @@||w-hun-n-9883-gh.info^
 @@||w1p.fr^
@@ -4748,13 +4729,11 @@
 @@||webbrian.live^
 @@||webcut.net^
 @@||webdigraziosi1.com^
-@@||weberdesign.life^
 @@||webi.li^
 @@||weblink.biz^
 @@||webmienphi.net^
 @@||url.webof.xyz^
 @@||l.webopt.eu^
-@@||webprografor.live^
 @@||webprotech.live^
 @@||webrc.net^
 @@||webshort.org^
@@ -4788,7 +4767,6 @@
 @@||whts.cc^
 @@||wi.se^
 @@||wideo.fr^
-@@||widyh.com^
 @@||wig.ht^
 @@||s.wikicharlie.cl^
 @@||peercertification.wildalwhite.com^
@@ -4847,7 +4825,6 @@
 @@||wwtt.to^
 @@||www-go.net^
 @@||wwy.me^
-@@||wxdib.sbs^
 @@||wy.si^
 @@||wyyw.de^
 @@||x.co^
@@ -4881,7 +4858,6 @@
 @@||xib.me^
 @@||xiqi.us^
 @@||xl8.eu^
-@@||xmekz.com^
 @@||xmlr.link^
 @@||xn--57h.ws^
 @@||xn--a-4ka.eu^
@@ -4915,7 +4891,6 @@
 @@||xurl.jp^
 @@||xurls.net^
 @@||xvirt.it^
-@@||xwhxx.com^
 @@||xwq.info^
 @@||xzb.cc^
 @@||y2u.be^
@@ -4944,10 +4919,7 @@
 @@||yep.pt^
 @@||yepp.link^
 @@||yex.tt^
-@@||yfdxr.top^
 @@||yfrog.com^
-@@||ygudy.com^
-@@||yh6.us^
 @@||yhoo.it^
 @@||yiii.de^
 @@||yji.tw^
@@ -4970,7 +4942,6 @@
 @@||yourls.info^
 @@||yourls.org^
 @@||yourwish.es^
-@@||yozzc.com^
 @@||ysear.ch^
 @@||yts.nu^
 @@||ytube.io^
@@ -4989,7 +4960,6 @@
 @@||z23.ru^
 @@||z9.fr^
 @@||za2.us^
-@@||zaidsafwah.live^
 @@||zak.by^
 @@||zap.buzz^
 @@||zap-onlisd.live^
@@ -5012,8 +4982,6 @@
 @@||zeus4d.mom^
 @@||zeusstore.live^
 @@||zez.kr^
-@@||zfgcx.com^
-@@||zggvt.com^
 @@||zhort.de^
 @@||zhort.link^
 @@||zhx.su^
@@ -5066,7 +5034,6 @@
 @@||zshorten.com^
 @@||zshortner.com^
 @@||zsirkacsa.hu^
-@@||zsjdu.com^
 @@||zsote.com^
 @@||zti.me^
 @@||zuki.ie^

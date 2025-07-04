@@ -4801,6 +4801,7 @@
 @@||mysp.ac^
 @@||mystyle.archosaur.com^
 @@||mytd.cc^
+@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||myumi.ch^
@@ -6850,7 +6851,6 @@
 @@||taleus.live^
 @@||tamar.is^
 @@||tanks.ly^
-@@||tanzx.cloud^
 @@||tapfiliate.com^
 @@||taphoa24h.live^
 @@||taplink.cc^
@@ -6880,9 +6880,7 @@
 @@||tdv-adm.live^
 @@||tdy.lol^
 @@||tdy.sg^
-@@||teeny.life^
 @@||teenycheck9.life^
-@@||tegmv.rest^
 @@||teil.cc^
 @@||tek.io^
 @@||teknut.com^
@@ -6916,14 +6914,12 @@
 @@||tgdgacor.com^
 @@||tgr.ph^
 @@||th.bing.com^
-@@||thandisozynobiahlongwanes.life^
 @@||thaniel.life^
 @@||tharp.me^
 @@||thatis.me^
 @@||thd.co^
 @@||the-link.me^
 @@||the-mc-michel-group.live^
-@@||the-vic.info^
 @@||thebindaas.com^
 @@||thecubexguide.com^
 @@||thedo.do^
@@ -6933,9 +6929,6 @@
 @@||thefunkymonkey.lu^
 @@||thein.fo^
 @@||thejoekuskie.com^
-@@||thekrew.info^
-@@||thekrew.net^
-@@||thekreww.com^
 @@||thelegends.land^
 @@||thenews24h.tech^
 @@||theporndude.com^
@@ -7038,7 +7031,6 @@
 @@||tixxh.com^
 @@||tj-bet88.store^
 @@||tj.wtf^
-@@||tjazih.com^
 @@||tklinks.com^
 @@||tkqlhce.com^
 @@||tktwb.tw^
@@ -7315,7 +7307,6 @@
 @@||uafly.co^
 @@||ual.fyi^
 @@||ub0.cc^
-@@||ubfhb.sbs^
 @@||ubm.io^
 @@||ubmvs.top^
 @@||ubnt.link^
@@ -7328,12 +7319,10 @@
 @@||uclck.me^
 @@||uct-tobacco.live^
 @@||udhbc.com^
-@@||udylo.rest^
 @@||ue.flipboard.com^
 @@||uepx.com^
 @@||ufai.app^
 @@||ufcqc.link^
-@@||ufjqt.com^
 @@||ug.cz^
 @@||ugame.9game.cn^
 @@||ugp.io^
@@ -7342,7 +7331,6 @@
 @@||ui8.ru^
 @@||uich.cc^
 @@||uinw.site^
-@@||uitve.sbs^
 @@||ujootchu.net^
 @@||uk-go.kelkoogroup.net^
 @@||ukf.me^
@@ -7454,7 +7442,6 @@
 @@||urlao.com^
 @@||urlbit.co^
 @@||urlbox.cc^
-@@||urlbrief.com^
 @@||urlchecker.info^
 @@||urlcover.com^
 @@||urlcut.com^
@@ -7534,7 +7521,6 @@
 @@||urlzen.com^
 @@||urlzs.com^
 @@||urlzs.in^
-@@||urppj.top^
 @@||urstoron.com^
 @@||urswebzj.nosdn.127.net^
 @@||urt.io^
@@ -7653,7 +7639,6 @@
 @@||vivo.tl^
 @@||vjav.com^
 @@||vjav0.ahcdn.com^
-@@||vjhxy.com^
 @@||vk.cc^
 @@||vk.sv^
 @@||vkujd.com^
@@ -7694,9 +7679,7 @@
 @@||vtru.xyz^
 @@||vtu.cc^
 @@||vturl.net^
-@@||vtxtl.com^
 @@||vu.fr^
-@@||vunvc.sbs^
 @@||vur.me^
 @@||vurl.com^
 @@||vv.vg^
@@ -7705,9 +7688,7 @@
 @@||vxn.link^
 @@||vxxx.com^
 @@||vypij.bar^
-@@||vyqqr.com^
 @@||vz.to^
-@@||vzturl.com^
 @@||w-hun-n-9883-gh.info^
 @@||w.big-appli.fr^
 @@||w.idg.de^
@@ -7768,14 +7749,12 @@
 @@||webcut.net^
 @@||webdigraziosi1.com^
 @@||webep1.com^
-@@||weberdesign.life^
 @@||webfiles.gamebanana.com^
 @@||webflow.grsm.io^
 @@||webi.li^
 @@||weblink.biz^
 @@||webmienphi.net^
 @@||webpower.eu^
-@@||webprografor.live^
 @@||webprotech.live^
 @@||webrc.net^
 @@||webshort.org^
@@ -7817,7 +7796,6 @@
 @@||wi.se^
 @@||wideo.fr^
 @@||widgets.wise.com^
-@@||widyh.com^
 @@||wig.ht^
 @@||wiki.biligame.com^
 @@||win.gs^
@@ -8023,7 +8001,6 @@
 @@||wx3.sinaimg.cn^
 @@||wx4.sinaimg.cn^
 @@||wxaurl.cn^
-@@||wxdib.sbs^
 @@||wxmini-api.uyouqu.com^
 @@||wxsnsdy.wxs.qq.com^
 @@||wy.si^
@@ -8062,7 +8039,6 @@
 @@||xib.me^
 @@||xiqi.us^
 @@||xl8.eu^
-@@||xmekz.com^
 @@||xmlr.link^
 @@||xn--57h.ws^
 @@||xn--a-4ka.eu^
@@ -8102,7 +8078,6 @@
 @@||xurl.jp^
 @@||xurls.net^
 @@||xvirt.it^
-@@||xwhxx.com^
 @@||xwq.info^
 @@||xyq.163.com^
 @@||xzb.cc^
@@ -8139,10 +8114,7 @@
 @@||yep.pt^
 @@||yepp.link^
 @@||yex.tt^
-@@||yfdxr.top^
 @@||yfrog.com^
-@@||ygudy.com^
-@@||yh6.us^
 @@||yhoo.it^
 @@||yiii.de^
 @@||yji.tw^
@@ -8167,7 +8139,6 @@
 @@||yourls.info^
 @@||yourls.org^
 @@||yourwish.es^
-@@||yozzc.com^
 @@||ysear.ch^
 @@||ysf.qiyukf.net^
 @@||yts.nu^
@@ -8189,7 +8160,6 @@
 @@||z23.ru^
 @@||z9.fr^
 @@||za2.us^
-@@||zaidsafwah.live^
 @@||zak.by^
 @@||zap-onlisd.live^
 @@||zap.buzz^
@@ -8212,8 +8182,6 @@
 @@||zeus4d.mom^
 @@||zeusstore.live^
 @@||zez.kr^
-@@||zfgcx.com^
-@@||zggvt.com^
 @@||zhidao.baidu.com^
 @@||zhipin.com^
 @@||zhort.de^
@@ -8269,7 +8237,6 @@
 @@||zshorten.com^
 @@||zshortner.com^
 @@||zsirkacsa.hu^
-@@||zsjdu.com^
 @@||zsote.com^
 @@||zti.me^
 @@||zuki.ie^
