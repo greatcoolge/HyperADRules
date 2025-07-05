@@ -12637,6 +12637,7 @@
 @@||partner.huawei.com^
 @@||partner.microsoft.com^
 @@||partner.mylife.com^
+@@||partnerlinks.io^
 @@||partners-office.integration.viber.com^
 @@||partners-office.viber.com^
 @@||partners.etoro.com^
