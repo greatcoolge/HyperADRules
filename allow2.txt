@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 05 Jul 2025 10:47 UTC
-! Version: 2025.0705.1047.17
+! Last modified: 08 Jul 2025 22:44 UTC
+! Version: 2025.0708.2244.10
 ! Syntax: AdBlock
 !
 @@||00oo.lol^
@@ -1440,7 +1440,6 @@
 @@||ezyurl.co^
 @@||ezzs.live^
 @@||f0rk.in^
-@@||f1.com^
 @@||f1.tf^
 @@||f1m.in^
 @@||f1mate.com^
@@ -1842,6 +1841,7 @@
 @@||hmf.li^
 @@||hmp.me^
 @@||hmt.ai^
+@@||hncinnamon.com^
 @@||hnsl.mn^
 @@||go.hny.co^
 @@||ho.io^
@@ -1912,6 +1912,7 @@
 @@||i7i.co^
 @@||i8.ae^
 @@||i99.cz^
+@@||iamsrikrung.com^
 @@||iapdw.com^
 @@||ibb.co^
 @@||ibest.in^
@@ -2142,11 +2143,13 @@
 @@||kask.us^
 @@||katespadesneakpeek.com^
 @@||katzr.net^
+@@||kaz.sk^
 @@||kbank.co^
 @@||kbit.co^
 @@||kcbxo.com^
 @@||kck.st^
 @@||slurl.keatsmedia.ca^
+@@||keckcntr.com^
 @@||keepo.bio^
 @@||keepo.io^
 @@||kem.lu^
@@ -2211,6 +2214,7 @@
 @@||kotl.in^
 @@||kp.org^
 @@||kpmg.ch^
+@@||kppgay.com^
 @@||kr.pe^
 @@||kr3w.de^
 @@||kratsi.cz^
@@ -2281,6 +2285,7 @@
 @@||lessnmore.net^
 @@||letsharu.cc^
 @@||lft.to^
+@@||lgay.sbs^
 @@||lialink.net^
 @@||lib.ac^
 @@||libero.it^
@@ -2485,6 +2490,7 @@
 @@||lnkiy.in^
 @@||lnks.ai^
 @@||lnks.es^
+@@||lnkshk.com^
 @@||lnkw.co^
 @@||lnky.jp^
 @@||lnkz.at^
@@ -2492,6 +2498,7 @@
 @@||lnv.gy^
 @@||lo.ge^
 @@||loasj.com^
+@@||loaynwfv2.live^
 @@||logincuan1.com^
 @@||logincuan2.com^
 @@||loginmaxwin.pro^
@@ -2782,6 +2789,7 @@
 @@||my.mtr.cool^
 @@||mttr.io^
 @@||link.mtvrs.it^
+@@||mtws.cc^
 @@||mub.me^
 @@||multishorturl.com^
 @@||mumy.me^
@@ -2800,6 +2808,7 @@
 @@||my-ab.co^
 @@||my-club.live^
 @@||my-gay.life^
+@@||my-google.live^
 @@||my-link.in^
 @@||myanlink.com^
 @@||myautotrading.live^
@@ -3012,7 +3021,6 @@
 @@||onion.com^
 @@||onlineclothes.live^
 @@||onlinekassirjessica.life^
-@@||onlyfansamairanidiaz.live^
 @@||onlyfansclub.live^
 @@||onon.in^
 @@||onx.la^
@@ -3329,6 +3337,7 @@
 @@||qxxxp.org^
 @@||qzr2.com^
 @@||r-7.co^
+@@||r-txt.co^
 @@||r-txt.com^
 @@||r-txt.org^
 @@||r2c.one^
@@ -3456,7 +3465,6 @@
 @@||rnm.me^
 @@||rntyu.com^
 @@||robertdray2.live^
-@@||robloxtech.live^
 @@||rog.gg^
 @@||roge.rs^
 @@||roids.top^
@@ -4604,6 +4612,7 @@
 @@||vehi.co^
 @@||vena.sh^
 @@||vendoagora.live^
+@@||venkateswaragases.com^
 @@||vercel.link^
 @@||verd.in^
 @@||veshort.com^
@@ -4624,6 +4633,7 @@
 @@||vig.fit^
 @@||vigilink.com^
 @@||vineland.dj^
+@@||vinmalamsuwdwdc.life^
 @@||vip-gacha99.info^
 @@||vipgacor77.net^
 @@||viprupiah138.net^

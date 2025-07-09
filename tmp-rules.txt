@@ -4405,6 +4405,7 @@
 @@||frontgate.com^
 @@||frontpage.fok.nl^
 @@||frys.com^
+@@||fs-im-kefu.7moor-fs1.com^
 @@||fs.microsoft.com^
 @@||fs1.dl-bia2.ir^
 @@||fsa01.ps4.update.playstation.net^
@@ -5295,6 +5296,7 @@
 @@||i3.feedspot.com^
 @@||i3.sndcdn.com^
 @@||i4.sndcdn.com^
+@@||i6.weather.oppomobile.com^
 @@||i9.ytimg.com^
 @@||ia601203.us.archive.org^
 @@||ia801005.us.archive.org^
