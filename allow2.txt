@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 08 Jul 2025 22:44 UTC
-! Version: 2025.0708.2244.10
+! Last modified: 10 Jul 2025 22:47 UTC
+! Version: 2025.0710.2247.28
 ! Syntax: AdBlock
 !
 @@||00oo.lol^
@@ -2574,6 +2574,9 @@
 @@||madondressokwanda2.life^
 @@||maejo.link^
 @@||maga.lu^
+@@||magaus.co^
+@@||magaus.net^
+@@||magaus.org^
 @@||maha77.site^
 @@||mahse.life^
 @@||mahse.live^
