@@ -855,6 +855,7 @@
 @@||adrians-guzman-81.life^
 @@||adrise.tv^
 @@||ads.google.com^
+@@||ads.heytapmobi.com^
 @@||ads.revjet.com^
 @@||ads.so^
 @@||ads.talkbusiness.net^
@@ -10546,6 +10547,7 @@
 @@||mikgr.si^
 @@||milink.pandora.xiaomi.com^
 @@||mimc.chat.xiaomi.net^
+@@||mime.baidu.com^
 @@||mimecast.com^
 @@||mimobile.esim.mihome.xiaomi.net^
 @@||minapp.com^
@@ -11432,6 +11434,7 @@
 @@||mongmuoitam.live^
 @@||monidentie.info^
 @@||monitor.fraudblocker.com^
+@@||monitor.lunio.ai^
 @@||monitor.returnpath.net^
 @@||monitoring-team.sonymobile.com^
 @@||monitoring.googleapis.com^
@@ -11510,6 +11513,7 @@
 @@||ms.bdstatic.com^
 @@||ms.gravatar.com^
 @@||msatt.uk^
+@@||msdk.qq.com^
 @@||msdn.itellyou.cn^
 @@||mse.360.cn^
 @@||msecnd.net^
@@ -15169,6 +15173,7 @@
 @@||smr.sh^
 @@||smr.to^
 @@||sms-receive.net^
+@@||sms.ads.heytapmobi.com^
 @@||sms.playstation.com^
 @@||smsapi.micloud.xiaomi.net^
 @@||smsb.co^
@@ -16689,6 +16694,7 @@
 @@||tmz.me^
 @@||tn.txxx.tube^
 @@||tn.wikipedia.com^
+@@||tnc3-alisc1.bytedance.com^
 @@||tnij.org^
 @@||tnl-dash.com.edgesuite.net^
 @@||tnlnk.fr^

@@ -434,6 +434,7 @@
 @@||ador.com^
 @@||adrise.tv^
 @@||ads.google.com^
+@@||ads.heytapmobi.com^
 @@||ads.talkbusiness.net^
 @@||ads.twitter.com^
 @@||adsp.xunlei.com^
@@ -6820,6 +6821,7 @@
 @@||mijndomein.nl^
 @@||milink.pandora.xiaomi.com^
 @@||mimc.chat.xiaomi.net^
+@@||mime.baidu.com^
 @@||mimecast.com^
 @@||mimobile.esim.mihome.xiaomi.net^
 @@||minapp.com^
@@ -6990,6 +6992,7 @@
 @@||mrthumb.nabstudio.com^
 @@||ms.bdstatic.com^
 @@||ms.gravatar.com^
+@@||msdk.qq.com^
 @@||msecnd.net^
 @@||msedge.api.cdp.microsoft.com^
 @@||msedge.net^
@@ -9040,6 +9043,7 @@
 @@||smokingwheels.github.io^
 @@||smonkey.com^
 @@||sms-receive.net^
+@@||sms.ads.heytapmobi.com^
 @@||sms.playstation.com^
 @@||smsapi.micloud.xiaomi.net^
 @@||smtp.mail.yahoo.com^
@@ -9918,6 +9922,7 @@
 @@||tmisc.home.news.cn^
 @@||tmz.com^
 @@||tn.wikipedia.com^
+@@||tnc3-alisc1.bytedance.com^
 @@||tnl-dash.com.edgesuite.net^
 @@||today.com^
 @@||today.line.me^

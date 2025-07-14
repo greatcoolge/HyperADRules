@@ -4693,6 +4693,7 @@
 @@||mongmuoitam.live^
 @@||monidentie.info^
 @@||monitor.fraudblocker.com^
+@@||monitor.lunio.ai^
 @@||mono-gog-o.life^
 @@||monopolycollectdice.xyz^
 @@||monopolygodices.xyz^
