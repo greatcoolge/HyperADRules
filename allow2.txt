@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 12 Jul 2025 10:45 UTC
-! Version: 2025.0712.1045.52
+! Last modified: 14 Jul 2025 22:44 UTC
+! Version: 2025.0714.2244.04
 ! Syntax: AdBlock
 !
 @@||00oo.lol^
@@ -1994,6 +1994,7 @@
 @@||insig.ht^
 @@||insprl.com^
 @@||instagr.am^
+@@||instagramaf.life^
 @@||instarouting.com^
 @@||instaurl.me^
 @@||intel.ly^
@@ -4165,6 +4166,7 @@
 @@||go.tinder.com^
 @@||tinderurl.com^
 @@||tini.cc^
+@@||tiniworkfennies.live^
 @@||tinky.cc^
 @@||tinu.be^
 @@||tiny.cc^
@@ -4445,6 +4447,7 @@
 @@||uom.link^
 @@||uos.cc^
 @@||up.to^
+@@||update-info-saudi-a.live^
 @@||updating.me^
 @@||upfull.fr^
 @@||upmchp.us^
@@ -4627,6 +4630,7 @@
 @@||url.vhearts.net^
 @@||vi.sa^
 @@||vi.tc^
+@@||vi-tiktok.com^
 @@||viaalto.me^
 @@||viahold.com^
 @@||viaja.am^

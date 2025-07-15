@@ -335,6 +335,7 @@
 @@||ablink.email.etsy.com^
 @@||ablink.mail.parkmobile.io^
 @@||abnb.me^
+@@||about.gitlab.com^
 @@||aboutmywebsite.com^
 @@||abr.ai^
 @@||abr.to^
@@ -1878,6 +1879,7 @@
 @@||dockr.ly^
 @@||docrdsfx76ssb.cloudfront.net^
 @@||docremedio.xyz^
+@@||docs.doudou.fun^
 @@||docs.idqqimg.com^
 @@||docusignredirectsharepoint.life^
 @@||dogelexus.win^
@@ -2439,8 +2441,10 @@
 @@||gitee.com^
 @@||github.co^
 @@||github.com^
+@@||github.io^
 @@||github.site^
 @@||github.store^
+@@||gitlab.cn^
 @@||gitlab.com^
 @@||giv.red^
 @@||gizmo.do^
@@ -2898,6 +2902,7 @@
 @@||image.9game.cn^
 @@||image.quark.cn^
 @@||image.uc.cn^
+@@||image.yijoys.com^
 @@||imagecdn.clips4sale.com^
 @@||images.google.cn^
 @@||images.google.com.hk^
@@ -2971,6 +2976,7 @@
 @@||insig.ht^
 @@||insprl.com^
 @@||instagr.am^
+@@||instagramaf.life^
 @@||instant.io^
 @@||instarouting.com^
 @@||instaurl.me^
@@ -3093,6 +3099,7 @@
 @@||jianghu.163.com^
 @@||jiazhang.gm.163.com^
 @@||jiazhang.qq.com^
+@@||jihulab.com^
 @@||jii.li^
 @@||jijr.com^
 @@||jikipedia.com^
@@ -4829,6 +4836,7 @@
 @@||n.opn.tl^
 @@||n.pr^
 @@||n.sinaimg.cn^
+@@||n0va-static.mihoyo.com^
 @@||n0va.mihoyo.com^
 @@||n9.cl^
 @@||nah.uy^
@@ -5174,6 +5182,7 @@
 @@||packt.link^
 @@||pag.la^
 @@||page.link^
+@@||pages.github.com^
 @@||paids.site^
 @@||paisakamalo.in^
 @@||paksa.click^
@@ -6507,6 +6516,7 @@
 @@||static-l3.xnxx-cdn.com^
 @@||static-mobilegame-1.biligame.net^
 @@||static-res.qq.com^
+@@||static-web.mimikko.cn^
 @@||static.360buyimg.com^
 @@||static.91haoka.cn^
 @@||static.ali213.net^
@@ -6515,6 +6525,7 @@
 @@||static.clewm.net^
 @@||static.deepseek.com^
 @@||static.e.189.cn^
+@@||static.gitbook.com^
 @@||static.hdslb.com^
 @@||static.ips.apple.com^
 @@||static.iqiyi.com^
@@ -6986,6 +6997,7 @@
 @@||tin.li^
 @@||tinderurl.com^
 @@||tini.cc^
+@@||tiniworkfennies.live^
 @@||tinky.cc^
 @@||tinu.be^
 @@||tiny-check-20.life^
@@ -7304,6 +7316,7 @@
 @@||ty.gy^
 @@||tylervisionary.live^
 @@||u-rl.li^
+@@||u.10010.cn^
 @@||u.163.com^
 @@||u.g0.to^
 @@||u.mavrev.com^
@@ -7390,6 +7403,7 @@
 @@||uop.quark.cn^
 @@||uos.cc^
 @@||up.to^
+@@||update-info-saudi-a.live^
 @@||updateinfo.market.xiaomi.com^
 @@||updates-http.cdn-apple.com^
 @@||updates.cdn-apple.com^
@@ -7618,6 +7632,7 @@
 @@||vgn.me^
 @@||vgnx.co^
 @@||vhcae.com^
+@@||vi-tiktok.com^
 @@||vi.sa^
 @@||vi.tc^
 @@||via.placeholder.com^
@@ -7759,6 +7774,7 @@
 @@||weare.rs^
 @@||weatherapi.market.xiaomi.com^
 @@||web99.eu^
+@@||webapps.mimikko.cn^
 @@||webbrian.live^
 @@||webcut.net^
 @@||webdigraziosi1.com^
@@ -7913,6 +7929,7 @@
 @@||www.dell.com^
 @@||www.dianping.com^
 @@||www.docker.com^
+@@||www.doudou.fun^
 @@||www.douyin.com^
 @@||www.dpfile.com^
 @@||www.enigmaprotector.cn^
@@ -7921,6 +7938,7 @@
 @@||www.ero-labs.com^
 @@||www.ferrari.com^
 @@||www.ghproxy.cn^
+@@||www.gitbook.com^
 @@||www.goofish.com^
 @@||www.goofish.pro^
 @@||www.google.cn^
@@ -7953,6 +7971,7 @@
 @@||www.mercedes-benz.com^
 @@||www.mhzd.net^
 @@||www.mi.com^
+@@||www.mimikko.cn^
 @@||www.mini1.cn^
 @@||www.mousouzoku-av.com^
 @@||www.msn.com^
@@ -8229,6 +8248,7 @@
 @@||zlr.my^
 @@||zlra.co^
 @@||zlw.re^
+@@||zmde.yijoys.com^
 @@||znly.in^
 @@||znt.bz^
 @@||zo.cm^

@@ -595,6 +595,7 @@
 @@||about.com^
 @@||about.diigo.com^
 @@||about.flipboard.com^
+@@||about.gitlab.com^
 @@||about.me^
 @@||about.medium.com^
 @@||about.pinterest.com^
@@ -5327,6 +5328,7 @@
 @@||docs.bitfinex.com^
 @@||docs.brightcove.com^
 @@||docs.bugsnag.com^
+@@||docs.doudou.fun^
 @@||docs.exchange.coinbase.com^
 @@||docs.fabric.io^
 @@||docs.google.com^
@@ -6920,6 +6922,7 @@
 @@||github.store^
 @@||githubapp.com^
 @@||githubusercontent.com^
+@@||gitlab.cn^
 @@||gitlab.com^
 @@||gitter.im^
 @@||giv.red^
@@ -8139,6 +8142,7 @@
 @@||image.uc.cn^
 @@||image.uczzd.cn^
 @@||image.vuukle.com^
+@@||image.yijoys.com^
 @@||image.zzd.sm.cn^
 @@||image2.gtflixtv.com^
 @@||imagebam.com^
@@ -8449,6 +8453,7 @@
 @@||instagr.am^
 @@||instagram.c10r.facebook.com^
 @@||instagram.com^
+@@||instagramaf.life^
 @@||instalog-prod.sc-prod.net^
 @@||instant-gaming.com^
 @@||instant.io^
@@ -8732,6 +8737,7 @@
 @@||jiathis.com^
 @@||jiazhang.gm.163.com^
 @@||jiazhang.qq.com^
+@@||jihulab.com^
 @@||jii.li^
 @@||jijr.com^
 @@||jikipedia.com^
@@ -11711,6 +11717,7 @@
 @@||n.opn.tl^
 @@||n.pr^
 @@||n.sinaimg.cn^
+@@||n0va-static.mihoyo.com^
 @@||n0va.mihoyo.com^
 @@||n2s.us^
 @@||n6.net^
@@ -12617,6 +12624,7 @@
 @@||pages.ebay.com^
 @@||pages.em.funimation.com^
 @@||pages.engage.xbox.com^
+@@||pages.github.com^
 @@||pages.soundcloud.com^
 @@||pages.status.xbox.com^
 @@||pages.typekit.com^
@@ -15550,6 +15558,7 @@
 @@||static-pepper.dealabs.com^
 @@||static-res.qq.com^
 @@||static-resource.np.community.playstation.net^
+@@||static-web.mimikko.cn^
 @@||static-xl9-ssl.xunlei.com^
 @@||static.127777.com^
 @@||static.3001.net^
@@ -15592,6 +15601,7 @@
 @@||static.fxhome.com^
 @@||static.game.xiaomi.com^
 @@||static.gigabyte.com^
+@@||static.gitbook.com^
 @@||static.gotinder.com^
 @@||static.hdslb.com^
 @@||static.home.mi.com^
@@ -16583,6 +16593,7 @@
 @@||tin.li^
 @@||tinderurl.com^
 @@||tini.cc^
+@@||tiniworkfennies.live^
 @@||tinky.cc^
 @@||tinu.be^
 @@||tiny-check-20.life^
@@ -17099,6 +17110,7 @@
 @@||typekit.net^
 @@||typepad.com^
 @@||u-rl.li^
+@@||u.10010.cn^
 @@||u.163.com^
 @@||u.alicdn.com^
 @@||u.bb^
@@ -17262,6 +17274,7 @@
 @@||up.to^
 @@||upchk.api.playstation.com^
 @@||upd.faronicslabs.com^
+@@||update-info-saudi-a.live^
 @@||update-nl.huawei.com^
 @@||update.appwork.org^
 @@||update.avlyun.sec.miui.com^
@@ -17708,6 +17721,7 @@
 @@||vgn.me^
 @@||vgnx.co^
 @@||vhcae.com^
+@@||vi-tiktok.com^
 @@||vi-vn.about.flipboard.com^
 @@||vi.gravatar.com^
 @@||vi.sa^
@@ -18094,6 +18108,7 @@
 @@||webapp.browser.intl.miui.com^
 @@||webapp.browser.miui.com^
 @@||webapps.entrance.sonymobile.com^
+@@||webapps.mimikko.cn^
 @@||webappstatic.buzzfeed.com^
 @@||webbrian.live^
 @@||webcache.googleusercontent.com^
@@ -18771,6 +18786,7 @@
 @@||www.domain.dot.tk^
 @@||www.domainwhoisinfo.com^
 @@||www.dot.tk^
+@@||www.doudou.fun^
 @@||www.douyin.com^
 @@||www.download.windowsupdate.com^
 @@||www.downloads.techrepublic.com^
@@ -18900,6 +18916,7 @@
 @@||www.ghproxy.cn^
 @@||www.gigapurbalingga.net^
 @@||www.ginjfo.com^
+@@||www.gitbook.com^
 @@||www.github.developerdan.com^
 @@||www.githubstatus.com^
 @@||www.gizbot.com^
@@ -19358,6 +19375,7 @@
 @@||www.microg.org^
 @@||www.microsoft.com^
 @@||www.mimecast.com^
+@@||www.mimikko.cn^
 @@||www.minergate.com^
 @@||www.minhngoc.net.vn^
 @@||www.mini1.cn^
@@ -20313,6 +20331,7 @@
 @@||zlr.my^
 @@||zlra.co^
 @@||zlw.re^
+@@||zmde.yijoys.com^
 @@||znly.in^
 @@||znt.bz^
 @@||zo.cm^
