@@ -28,6 +28,7 @@
 0.fr.pool.ntp.org
 0.freebasics.com
 0.freebsd.pool.ntp.org
+0.gp
 0.gravatar.com
 0.hk.pool.ntp.org
 0.jp.pool.ntp.org
@@ -164,6 +165,7 @@
 1shortlink.com
 1stgop.co
 1storecatalogrevocation.storequality.microsoft.com
+1sturl.com
 1tian.kuaishou.com
 1tk.us
 1to3.link
@@ -195,6 +197,7 @@
 2.fr.pool.ntp.org
 2.gb.pool.ntp.org
 2.gd
+2.gp
 2.gravatar.com
 2.ht
 2.irobot.pool.ntp.org
@@ -327,6 +330,7 @@
 4.bp.blogspot.com
 4.cn
 4.gg
+4.gp
 4.ly
 4172499085.live
 420.bio
@@ -337,6 +341,7 @@
 49rs.co
 4chan.org
 4d2.link
+4eq.ir
 4h.net
 4insurancejobs.com
 4ja.ai
@@ -353,6 +358,7 @@
 4url.cc
 4x.si
 5-edge-chat.facebook.com
+5.gp
 500px.com
 5278url.com
 531566.xyz
@@ -371,6 +377,7 @@
 5w.fit
 5z8.info
 6-edge-chat.facebook.com
+6.gp
 6.ly
 60.dk
 654.pl
@@ -399,6 +406,7 @@
 77url.com
 7894.xyz
 79423.analytics.edgesuite.net
+7c34.com
 7chan.org
 7eer.net
 7fth.cc
@@ -11239,6 +11247,7 @@ mkto-sj310186.com
 mkto-sj320033.com
 mkto-sj320047.com
 mkto-sj320055.com
+mkto-sj320061.com
 mkto-sj320081.com
 mkto-sj320146.com
 mkto-sj320189.com
