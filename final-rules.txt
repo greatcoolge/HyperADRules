@@ -1040,6 +1040,7 @@
 @@||africa.pool.ntp.org^
 @@||aftonbladet.se^
 @@||aftv.news^
+@@||agbr.ir^
 @@||agen303.live^
 @@||aghq.top^
 @@||agilean.in^
@@ -2966,6 +2967,7 @@
 @@||binancetransactionf077171f1gl1od17ro1asecure.life^
 @@||binaryage.com^
 @@||binbox.io^
+@@||binbucks.com^
 @@||bing.at^
 @@||bing.ch^
 @@||bing.co.uk^
@@ -3468,6 +3470,7 @@
 @@||c1.skype.com^
 @@||c1.xmssmc.mws.xiaomi.net^
 @@||c11.kr^
+@@||c1k.co^
 @@||c2-ap.piano.io^
 @@||c2-au.piano.io^
 @@||c2-eu.piano.io^
@@ -4374,6 +4377,7 @@
 @@||cnnmon.ie^
 @@||cnstrc.com^
 @@||cnvrge.co^
+@@||cnz.ir^
 @@||cnzz.com^
 @@||co.in^
 @@||co2saver.snap.com^
@@ -4773,6 +4777,7 @@
 @@||cupfox.app^
 @@||cupid.iqiyi.com^
 @@||cupoms.info^
+@@||cur.lv^
 @@||curben.gitlab.io^
 @@||curiosity.com^
 @@||curl.im^
@@ -12659,6 +12664,7 @@
 @@||paperspeedy.com^
 @@||parallels.com^
 @@||pardot.com^
+@@||parg.aparg.com^
 @@||parg.co^
 @@||parking.namesilo.com^
 @@||parky.tv^

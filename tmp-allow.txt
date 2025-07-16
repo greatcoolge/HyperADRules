@@ -584,6 +584,7 @@
 @@||affiliatefuture.com^
 @@||afly.in^
 @@||aftv.news^
+@@||agbr.ir^
 @@||agen303.live^
 @@||aghq.top^
 @@||agileurbia.com^
@@ -1038,6 +1039,7 @@
 @@||biltiy.com^
 @@||bim.im^
 @@||binancetransactionf077171f1gl1od17ro1asecure.life^
+@@||binbucks.com^
 @@||binged.it^
 @@||bio.rub3n.io^
 @@||biolinky.co^
@@ -1240,6 +1242,7 @@
 @@||c.umsns.com^
 @@||c.webengage.com^
 @@||c11.kr^
+@@||c1k.co^
 @@||c2-ap.piano.io^
 @@||c2-au.piano.io^
 @@||c2-eu.piano.io^
@@ -1570,6 +1573,7 @@
 @@||cnn.it^
 @@||cnnmon.ie^
 @@||cnvrge.co^
+@@||cnz.ir^
 @@||coach-robin.life^
 @@||cockroa.ch^
 @@||code.piano.io^
@@ -1682,6 +1686,7 @@
 @@||cuoinamdiedm.life^
 @@||cup.org^
 @@||cupoms.info^
+@@||cur.lv^
 @@||curl.im^
 @@||curl.pk^
 @@||curl.ro^
@@ -5199,6 +5204,7 @@
 @@||pan.quark.cn^
 @@||papegames.qiyukf.com^
 @@||paperspeedy.com^
+@@||parg.aparg.com^
 @@||parg.co^
 @@||parking.namesilo.com^
 @@||parky.tv^

@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 15 Jul 2025 06:45 UTC
-! Version: 2025.0715.0645.08
+! Last modified: 15 Jul 2025 22:44 UTC
+! Version: 2025.0715.2244.52
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -376,6 +376,7 @@
 @@||afb88.life^
 @@||afly.in^
 @@||aftv.news^
+@@||agbr.ir^
 @@||agen303.live^
 @@||aghq.top^
 @@||agileurbia.com^
@@ -476,6 +477,7 @@
 @@||aorracer.com^
 @@||aozczwj.life^
 @@||ap.lc^
+@@||parg.aparg.com^
 @@||apb2.de^
 @@||apeltravel.info^
 @@||apertibumn.org^
@@ -652,6 +654,7 @@
 @@||biltiy.com^
 @@||bim.im^
 @@||binancetransactionf077171f1gl1od17ro1asecure.life^
+@@||binbucks.com^
 @@||binged.it^
 @@||r.bioinfweb.info^
 @@||biolinky.co^
@@ -837,6 +840,7 @@
 @@||c-hud-aixxx.life^
 @@||c-o.in^
 @@||c11.kr^
+@@||c1k.co^
 @@||c2d.in^
 @@||c80.us^
 @@||c87.to^
@@ -994,6 +998,7 @@
 @@||cnnmon.ie^
 @@||l.cnr.it^
 @@||cnvrge.co^
+@@||cnz.ir^
 @@||jetzt.bekservice.co.uk^
 @@||genie.co.kr^
 @@||ierp.co.nz^
@@ -1086,6 +1091,7 @@
 @@||cuoinamdiedm.life^
 @@||cup.org^
 @@||cupoms.info^
+@@||cur.lv^
 @@||curl.im^
 @@||curl.pk^
 @@||curl.ro^
