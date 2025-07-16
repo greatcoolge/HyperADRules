@@ -5618,6 +5618,7 @@
 @@||ea1-urlp.secure.skypeassets.com^
 @@||eaash.co^
 @@||earn4link.in^
+@@||earnshorter.com^
 @@||earth.google.com^
 @@||earthlink.net^
 @@||earthtoday.info^
@@ -6860,6 +6861,7 @@
 @@||get3.adobe.com^
 @@||getadsnow.org^
 @@||getalinkandshare.com^
+@@||getashorturl.com^
 @@||getbitly.pro^
 @@||getblue.me^
 @@||getf.ly^
