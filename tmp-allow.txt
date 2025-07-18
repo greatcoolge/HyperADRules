@@ -5398,6 +5398,7 @@
 @@||postaffiliatepro.com^
 @@||posted.at^
 @@||postsign.docusign.com^
+@@||potong.co^
 @@||pp.myapp.com^
 @@||pplx.ai^
 @@||ppq.apple.com^
@@ -5447,6 +5448,7 @@
 @@||pros.is^
 @@||pros.si^
 @@||prt.nu^
+@@||prvt.mobi^
 @@||prz.pw^
 @@||psce.pw^
 @@||pse.is^
@@ -5840,6 +5842,7 @@
 @@||rool.ink^
 @@||ror4pphbb.cc.rs6.net^
 @@||rouletteonline.live^
+@@||rounash.com^
 @@||roush-jims.live^
 @@||rozhl.as^
 @@||rpd.ink^
@@ -5875,6 +5878,7 @@
 @@||ruplink.com^
 @@||rusd.in^
 @@||rushgiving.com^
+@@||rusuhkali.xyz^
 @@||ruuppwbab.cc.rs6.net^
 @@||rvb5wz6ab.cc.rs6.net^
 @@||rvtv.io^
@@ -6190,6 +6194,7 @@
 @@||short.swurl.xyz^
 @@||short.to^
 @@||short1.link^
+@@||short24.pw^
 @@||shortbe.com^
 @@||shortclick.com^
 @@||shortcm.li^
@@ -6241,6 +6246,7 @@
 @@||shortlinks.co.uk^
 @@||shortlinksakti.xyz^
 @@||shortll.com^
+@@||shortlurl.com^
 @@||shortly.cc^
 @@||shortly.click^
 @@||shortly.cyou^
@@ -6259,6 +6265,7 @@
 @@||shortpals.online^
 @@||shortpastebin.my.id^
 @@||shortq.link^
+@@||shortr.at^
 @@||shortracz.com^
 @@||shortsfly.me^
 @@||shortshare.app^
@@ -6317,8 +6324,10 @@
 @@||shrt.lat^
 @@||shrt.st^
 @@||shrtco.de^
+@@||shrten.com^
 @@||shrtfly.com^
 @@||shrtm.nu^
+@@||shrtme.link^
 @@||shrturl.site^
 @@||shrturll.com^
 @@||shrtxb4d.live^
@@ -6477,6 +6486,7 @@
 @@||spedr.com^
 @@||spgo.io^
 @@||spgrp.sg^
+@@||spidz.xyz^
 @@||spigen.co^
 @@||split.to^
 @@||splitterhq.com^
@@ -7498,6 +7508,7 @@
 @@||urlao.com^
 @@||urlbit.co^
 @@||urlbox.cc^
+@@||urlbrief.com^
 @@||urlchecker.info^
 @@||urlcover.com^
 @@||urlcut.com^
@@ -7691,6 +7702,7 @@
 @@||vip.superpopdrop.com^
 @@||vipgacor77.net^
 @@||viprupiah138.net^
+@@||vipshortener.com^
 @@||vipslot4d.site^
 @@||viptango77.net^
 @@||viraln.co^
@@ -7748,6 +7760,7 @@
 @@||vxxx.com^
 @@||vypij.bar^
 @@||vz.to^
+@@||vzturl.com^
 @@||w-hun-n-9883-gh.info^
 @@||w.big-appli.fr^
 @@||w.idg.de^
@@ -7853,6 +7866,7 @@
 @@||whr.tn^
 @@||whs.link^
 @@||whts.cc^
+@@||whyiwu.com^
 @@||wi.se^
 @@||wideo.fr^
 @@||widgets.wise.com^
@@ -7865,6 +7879,8 @@
 @@||wipp.me^
 @@||wishct.live^
 @@||wit.to^
+@@||withtask.com^
+@@||wjcf.co^
 @@||wk.idey.cn^
 @@||wkf.ms^
 @@||wkms-public.apple.com^
@@ -8080,6 +8096,7 @@
 @@||x11.pw^
 @@||x19.update.netease.com^
 @@||x2c.eu^
+@@||x2t.com^
 @@||x2y.me^
 @@||x3.cx^
 @@||xaddr.com^
@@ -8202,6 +8219,7 @@
 @@||yourl.ir^
 @@||yourls.info^
 @@||yourls.org^
+@@||yourmovie.co^
 @@||yourwish.es^
 @@||ysear.ch^
 @@||ysf.qiyukf.net^
@@ -8239,6 +8257,7 @@
 @@||zdrive.li^
 @@||zdsk.co^
 @@||zecz.ec^
+@@||zeek.ir^
 @@||zeep.ly^
 @@||zenless.hoyoverse.com^
 @@||zeroshort.xyz^
@@ -8302,6 +8321,7 @@
 @@||zshorten.com^
 @@||zshortner.com^
 @@||zsirkacsa.hu^
+@@||zsms.net^
 @@||zsote.com^
 @@||zti.me^
 @@||zuki.ie^

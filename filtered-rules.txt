@@ -13123,6 +13123,7 @@ postimg.cc
 postimg.org
 postoffice.adobe.com
 postsign.docusign.com
+potong.co
 potplayer.daum.net
 powerreviews.com
 powershellgallery.com
@@ -13303,6 +13304,7 @@ proxy.smartstore.naver.com
 proxy02.pop.ord.plex.bz
 prt.nu
 prtimes.jp
+prvt.mobi
 prz.pw
 ps.software.eu.playstation.com
 ps2media.ign.com
@@ -14032,6 +14034,7 @@ rool.ink
 roosterteeth.com
 ror4pphbb.cc.rs6.net
 rouletteonline.live
+rounash.com
 roush-jims.live
 router.bittorrent.com
 router.utorrent.com
@@ -14114,6 +14117,7 @@ rupload.facebook.com
 rusd.in
 rush.oneplus.com
 rushgiving.com
+rusuhkali.xyz
 ruten.com.tw
 rutube.ru
 ruuppwbab.cc.rs6.net
@@ -14880,6 +14884,7 @@ short.silex.me
 short.swurl.xyz
 short.to
 short1.link
+short24.pw
 shortbe.com
 shortclick.com
 shortcm.li
@@ -14931,6 +14936,7 @@ shortlinkpanel.com
 shortlinks.co.uk
 shortlinksakti.xyz
 shortll.com
+shortlurl.com
 shortly.cc
 shortly.click
 shortly.cyou
@@ -14949,6 +14955,7 @@ shortonly.com
 shortpals.online
 shortpastebin.my.id
 shortq.link
+shortr.at
 shortracz.com
 shortsfly.me
 shortshare.app
@@ -15011,8 +15018,10 @@ shrt.in
 shrt.lat
 shrt.st
 shrtco.de
+shrten.com
 shrtfly.com
 shrtm.nu
+shrtme.link
 shrturl.site
 shrturll.com
 shrtxb4d.live
@@ -15376,6 +15385,7 @@ spgo.io
 spgrp.sg
 spiceworks.com
 spiderbytes.vimeo.com
+spidz.xyz
 spiegel.de
 spieletipps.de
 spigen.co
@@ -17425,6 +17435,7 @@ urlao.com
 urlbd.com
 urlbit.co
 urlbox.cc
+urlbrief.com
 urlchecker.info
 urlcover.com
 urlcut.com
@@ -17841,6 +17852,7 @@ viper.click
 vipergirls.to
 vipgacor77.net
 viprupiah138.net
+vipshortener.com
 vipslot4d.site
 viptango77.net
 viraln.co
@@ -17981,6 +17993,7 @@ vy.me
 vypij.bar
 vz.to
 vzaar.com
+vzturl.com
 w-hun-n-9883-gh.info
 w.big-appli.fr
 w.idg.de
@@ -18242,6 +18255,7 @@ whoisprivacyprotect.com
 whr.tn
 whs.link
 whts.cc
+whyiwu.com
 wi.se
 wi.tl
 wiadomosci.onet.pl
@@ -18319,9 +18333,11 @@ wistia.com
 wistia.net
 wit.to
 witchervault.ign.com
+withtask.com
 wix.com
 wixapps.net
 wixsite.com
+wjcf.co
 wk.idey.cn
 wkf.ms
 wkms-public.apple.com
@@ -19992,6 +20008,7 @@ x11.pw
 x1337x.ws
 x19.update.netease.com
 x2c.eu
+x2t.com
 x2y.me
 x3.cx
 x6img.com
@@ -20204,6 +20221,7 @@ youris.pro
 yourl.ir
 yourls.info
 yourls.org
+yourmovie.co
 youronlinechoices.com
 yourwish.es
 youtu.be
@@ -20289,6 +20307,7 @@ zdsk.co
 zdstatic.ign.com
 zecz.ec
 zee.cws.conviva.com
+zeek.ir
 zeep.ly
 zeit.co
 zencdn.net
@@ -20387,6 +20406,7 @@ zshort.io
 zshorten.com
 zshortner.com
 zsirkacsa.hu
+zsms.net
 zsote.com
 ztgame.com
 zti.me

@@ -4,8 +4,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 16 Jul 2025 22:32 UTC
-! Version: 2025.0716.2232.35
+! Last modified: 17 Jul 2025 22:35 UTC
+! Version: 2025.0717.2235.04
 ! Syntax: AdBlock
 ! Number of entries: 1767
 !
