@@ -35,7 +35,6 @@ allow=(
 
 # 处理规则列表
 echo '下载规则列表'
-i=2
 for i in "${!rules[@]}"
 do
   curl -m 60 --retry-delay 2 --retry 5 --parallel --parallel-immediate -k -L -C - -o "rules${i}.txt" --connect-timeout 60 -s "${rules[$i]}" | iconv -t utf-8 &
