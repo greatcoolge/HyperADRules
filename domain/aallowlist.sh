@@ -33,18 +33,19 @@ allow=(
 )
 
 # 处理规则列表
-echo '下载规则列表'
-for i in "${!rules[@]}"
-do
-  curl -m 60 --retry-delay 2 --retry 5 --parallel --parallel-immediate -k -L -C - -o "rules${i}.txt" --connect-timeout 60 -s "${rules[$i]}" | iconv -t utf-8 &
+echo '开始下载主规则'
+i=2
+for url in "${rules[@]}"; do
+  echo "→ $url"
+  curl -sSL --retry 3 --connect-timeout 30 -o "./tmp/rules$(printf "%02d" $i).txt" "$url"
+  i=$((i + 1))
 done
-wait
 
-# 处理允许列表
-echo '下载允许列表'
-for i in "${!allow[@]}"
-do
-  curl -m 60 --retry-delay 2 --retry 5 --parallel --parallel-immediate -k -L -C - -o "allow${i}.txt" --connect-timeout 60 -s "${allow[$i]}" | iconv -t utf-8 &
+echo '开始下载补充白名单'
+for url in "${allow[@]}"; do
+  echo "→ $url"
+  curl -sSL --retry 3 --connect-timeout 30 -o "./tmp/allow$(printf "%02d" $i).txt" "$url"
+  i=$((i + 1))
 done
 wait
 
