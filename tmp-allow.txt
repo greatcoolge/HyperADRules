@@ -3353,6 +3353,7 @@
 @@||lcdn-registration.apple.com^
 @@||lcut.in^
 @@||lddy.no^
+@@||leadfoxcloud.com^
 @@||learn.to^
 @@||learnit.today^
 @@||lego.build^
@@ -5826,6 +5827,7 @@
 @@||rng7xicab.cc.rs6.net^
 @@||rnm.me^
 @@||rntyu.com^
+@@||rny9z6jab.cc.rs6.net^
 @@||ro-go.kelkoogroup.net^
 @@||ro.blox.com^
 @@||robertdray2.live^
@@ -7229,11 +7231,15 @@
 @@||tracker.clickguard.com^
 @@||tracker.clixtell.com^
 @@||tracker.gamesdonequick.com^
+@@||tracker.gobjet.fr^
 @@||tracker.marinsm.com^
 @@||tracker.offersfollow.com^
 @@||tracker.pusulapartners6.com^
+@@||tracker.shoppinea.com^
 @@||tracker.trust-link.io^
 @@||tracker.yoncamarket.com^
+@@||tracking-bcr.conectoo.com^
+@@||tracking.alhilal.abudhabi^
 @@||tracking.bol.com^
 @@||tracking.cashkaro.com^
 @@||tracking.ftmo.com^
@@ -7276,6 +7282,7 @@
 @@||trk.musvccustom.net^
 @@||trk.nomadzdigital.com^
 @@||trk.specialized.com^
+@@||trk.sveltelinks.com^
 @@||trk2.genieshopping.com^
 @@||trkr.ws^
 @@||trl.ca^

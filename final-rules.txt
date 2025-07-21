@@ -9229,6 +9229,7 @@
 @@||lddy.no^
 @@||ldmnq.com^
 @@||lds.org^
+@@||leadfoxcloud.com^
 @@||leadpages.co^
 @@||leanplum.com^
 @@||learn.elephantjournal.com^
@@ -14009,6 +14010,7 @@
 @@||rnk.net^
 @@||rnm.me^
 @@||rntyu.com^
+@@||rny9z6jab.cc.rs6.net^
 @@||ro-go.kelkoogroup.net^
 @@||ro.blox.com^
 @@||ro.gravatar.com^
@@ -16908,11 +16910,13 @@
 @@||tracker.clickguard.com^
 @@||tracker.clixtell.com^
 @@||tracker.gamesdonequick.com^
+@@||tracker.gobjet.fr^
 @@||tracker.imgoingto.icu^
 @@||tracker.marinsm.com^
 @@||tracker.offersfollow.com^
 @@||tracker.opentrackr.org^
 @@||tracker.pusulapartners6.com^
+@@||tracker.shoppinea.com^
 @@||tracker.tiny-vps.com^
 @@||tracker.trackerfix.com^
 @@||tracker.trust-link.io^
@@ -16920,7 +16924,9 @@
 @@||tracker.yoncamarket.com^
 @@||tracker2.itzmx.com^
 @@||tracker4.itzmx.com^
+@@||tracking-bcr.conectoo.com^
 @@||tracking-protection.cdn.mozilla.net^
+@@||tracking.alhilal.abudhabi^
 @@||tracking.bol.com^
 @@||tracking.cashkaro.com^
 @@||tracking.epicgames.com^
@@ -17002,6 +17008,7 @@
 @@||trk.musvccustom.net^
 @@||trk.nomadzdigital.com^
 @@||trk.specialized.com^
+@@||trk.sveltelinks.com^
 @@||trk2.genieshopping.com^
 @@||trkr.ws^
 @@||trl.ca^
