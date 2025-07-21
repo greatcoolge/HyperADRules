@@ -8,7 +8,7 @@ mkdir -p ./tmp/
 
 #添加补充规则
 #cp ./data/rules/adblock.txt ./tmp/rules01.txt
-cp ./data/rules/whitelist.txt allow00.txt
+cp ./data/rules/whitelist.txt ./tmp/allow01.txt
 # 下载规则列表
 echo '下载规则'
 rules=(
@@ -34,18 +34,19 @@ allow=(
 
 
 # 处理规则列表
-echo '下载规则列表'
-for i in "${!rules[@]}"
-do
-  curl -m 60 --retry-delay 2 --retry 5 --parallel --parallel-immediate -k -L -C - -o "rules${i}.txt" --connect-timeout 60 -s "${rules[$i]}" | iconv -t utf-8 &
+echo '开始下载主规则'
+i=2
+for url in "${rules[@]}"; do
+  echo "→ $url"
+  curl -sSL --retry 3 --connect-timeout 30 -o "./tmp/rules$(printf "%02d" $i).txt" "$url"
+  i=$((i + 1))
 done
-wait
 
-# 处理允许列表
-echo '下载允许列表'
-for i in "${!allow[@]}"
-do
-  curl -m 60 --retry-delay 2 --retry 5 --parallel --parallel-immediate -k -L -C - -o "allow${i}.txt" --connect-timeout 60 -s "${allow[$i]}" | iconv -t utf-8 &
+echo '开始下载补充白名单'
+for url in "${allow[@]}"; do
+  echo "→ $url"
+  curl -sSL --retry 3 --connect-timeout 30 -o "./tmp/allow$(printf "%02d" $i).txt" "$url"
+  i=$((i + 1))
 done
 wait
 
@@ -74,7 +75,7 @@ wait
 # 合并规则并去重
 echo '处理规则和允许列表'
 # 处理规则并生成 tmp-rules.txt
-cat rules*.txt | sort -n | grep -v -E "^((#.*)|(\s*))$" \
+cat ./tmp/rules*.txt | sort -n | grep -v -E "^((#.*)|(\s*))$" \
   | grep -v -E "^[0-9f\.:]+\s+(ip6\-)|(localhost|local|loopback)$" \
   | grep -Ev "local.*\.local.*$" \
   | grep -Ev '#|\$|@|!|/|\\|\*' \
@@ -87,7 +88,7 @@ cat rules*.txt | sort -n | grep -v -E "^((#.*)|(\s*))$" \
 
 wait
 
-cat allow*.txt \
+cat ./tmp/allow*.txt \
   | grep -v '#' \
   | sed '/^[[:space:]]*$/d' \
   | grep -v '!' \
