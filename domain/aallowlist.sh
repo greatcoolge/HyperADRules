@@ -33,18 +33,42 @@ allow=(
 )
 
 # 处理规则列表
-echo '开始下载主规则'
 i=2
-for url in "${rules[@]}"; do
-  echo "→ $url"
-  curl -sSL --retry 3 --connect-timeout 30 -o "./tmp/rules$(printf "%02d" $i).txt" "$url"
+
+echo '下载规则列表'
+for src in "${rules[@]}"; do
+  filename="rules$(printf "%02d" "$i").txt"
+
+  if [[ "$src" =~ ^https?:// ]]; then
+    echo "→ 下载: $src → $filename"
+    curl -m 60 --retry-delay 2 --retry 5 --parallel --parallel-immediate \
+         -k -L -C - -o "$filename" --connect-timeout 60 -s "$src" | iconv -t utf-8 &
+  elif [[ -f "$src" ]]; then
+    echo "→ 拷贝本地规则文件: $src → $filename"
+    cp "$src" "$filename" &
+  else
+    echo "× 无效规则来源: $src"
+  fi
+
   i=$((i + 1))
 done
+wait
 
-echo '开始下载补充白名单'
-for url in "${allow[@]}"; do
-  echo "→ $url"
-  curl -sSL --retry 3 --connect-timeout 30 -o "./tmp/allow$(printf "%02d" $i).txt" "$url"
+echo '下载允许列表'
+for src in "${allow[@]}"; do
+  filename="allow$(printf "%02d" "$i").txt"
+
+  if [[ "$src" =~ ^https?:// ]]; then
+    echo "→ 下载: $src → $filename"
+    curl -m 60 --retry-delay 2 --retry 5 --parallel --parallel-immediate \
+         -k -L -C - -o "$filename" --connect-timeout 60 -s "$src" | iconv -t utf-8 &
+  elif [[ -f "$src" ]]; then
+    echo "→ 拷贝本地白名单: $src → $filename"
+    cp "$src" "$filename" &
+  else
+    echo "× 无效允许来源: $src"
+  fi
+
   i=$((i + 1))
 done
 wait
