@@ -8,7 +8,7 @@ mkdir -p ./tmp/
 
 #添加补充规则
 #cp ./data/rules/adblock.txt ./tmp/rules01.txt
-cp ./data/rules/whitelist.txt ./tmp/allow01.txt
+cp ./data/rules/whitelist.txt allow00.txt
 # 下载规则列表
 echo '下载规则'
 rules=(
@@ -49,24 +49,6 @@ do
 done
 wait
 
-echo '下载允许列表'
-for src in "${allow[@]}"; do
-  filename="allow$(printf "%02d" "$i").txt"
-
-  if [[ "$src" =~ ^https?:// ]]; then
-    echo "→ 下载: $src → $filename"
-    curl -m 60 --retry-delay 2 --retry 5 --parallel --parallel-immediate \
-         -k -L -C - -o "$filename" --connect-timeout 60 -s "$src" | iconv -t utf-8 &
-  elif [[ -f "$src" ]]; then
-    echo "→ 拷贝本地白名单: $src → $filename"
-    cp "$src" "$filename" &
-  else
-    echo "× 无效允许来源: $src"
-  fi
-
-  i=$((i + 1))
-done
-wait
 
 echo '规则下载完成'
 
