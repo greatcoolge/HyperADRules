@@ -2596,6 +2596,7 @@ audiof.com
 auditrecording-pa.googleapis.com
 auditude.com
 audownload.windowsupdate.nsatc.net
+auni.telecome.cn
 aupvhn.com
 auroracoin.org
 aus5.mozilla.org
@@ -3456,6 +3457,7 @@ c.trackmytarget.com
 c.trello.com
 c.umsns.com
 c.webengage.com
+c.y.qq.com
 c.youdao.com
 c0.ifengimg.com
 c00.adobe.com
@@ -4363,6 +4365,7 @@ cnet3.cbsistatic.com
 cnet4.cbsistatic.com
 cnevids.com
 cnfl.io
+cnlogin.cainiao.com
 cnn.com
 cnn.it
 cnnct.soundcloud.com
@@ -6516,6 +6519,7 @@ fox8.com
 foxnews.com
 foxsports.com.au
 fp-eu-w1-aai.flowplayer.com
+fp-it.fengkongcloud.com
 fp-upload.dun.163.com
 fp.profiles.us.playstation.com
 fp.tongdun.net
@@ -6983,6 +6987,7 @@ gm.163.com
 gm.gds.mmstat.com
 gm.mmstat.com
 gma.abc
+gma.alicdn.com
 gmail.com
 gmail.google.com
 gmj.to
@@ -14498,6 +14503,7 @@ scripts.pay.bka.sh
 scrootca2.ocsp.secomtrust.net
 scs.huawei.com
 scs.naver.com
+sctapi.ftqq.com
 scts.in
 scuf.co
 sd-ccdc.huawei.com

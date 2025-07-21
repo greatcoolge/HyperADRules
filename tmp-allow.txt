@@ -886,6 +886,7 @@
 @@||atualizeja.xyz^
 @@||audiocontentdownload.apple.com^
 @@||audiof.com^
+@@||auni.telecome.cn^
 @@||aupvhn.com^
 @@||auth.zijieapi.com^
 @@||author.to^
@@ -1241,6 +1242,7 @@
 @@||c.trackmytarget.com^
 @@||c.umsns.com^
 @@||c.webengage.com^
+@@||c.y.qq.com^
 @@||c11.kr^
 @@||c1k.co^
 @@||c2-ap.piano.io^
@@ -1333,6 +1335,7 @@
 @@||cdn.akamai.steamstatic.com^
 @@||cdn.aligames.com^
 @@||cdn.ark.qq.com^
+@@||cdn.bootcdn.net^
 @@||cdn.branch.io^
 @@||cdn.braze.eu^
 @@||cdn.cnbj1.fds.api.mi-img.com^
@@ -1570,6 +1573,7 @@
 @@||cndr.co^
 @@||cnet.co^
 @@||cnfl.io^
+@@||cnlogin.cainiao.com^
 @@||cnn.it^
 @@||cnnmon.ie^
 @@||cnvrge.co^
@@ -2302,6 +2306,7 @@
 @@||found.ee^
 @@||fourhoi.com^
 @@||fox.tv^
+@@||fp-it.fengkongcloud.com^
 @@||fqbgk.com^
 @@||fr-go.kelkoogroup.net^
 @@||fr135.net^
@@ -2478,6 +2483,7 @@
 @@||gloshukadamiava2.live^
 @@||gm.163.com^
 @@||gma.abc^
+@@||gma.alicdn.com^
 @@||gmj.to^
 @@||gmj.tw^
 @@||gmy.su^
@@ -6057,6 +6063,7 @@
 @@||scrapy.co^
 @@||scrb.ly^
 @@||screeee.com^
+@@||sctapi.ftqq.com^
 @@||scts.in^
 @@||scuf.co^
 @@||sd.360.cn^
@@ -7231,6 +7238,7 @@
 @@||track3410224983.effiliation.com^
 @@||trackcmp.net^
 @@||trackee.net^
+@@||tracker.ai.xiaomi.com^
 @@||tracker.clickguard.com^
 @@||tracker.clixtell.com^
 @@||tracker.gamesdonequick.com^
