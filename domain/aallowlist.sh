@@ -34,23 +34,19 @@ allow=(
 
 # 处理规则列表
 i=2
-
+# 处理规则列表
 echo '下载规则列表'
-for src in "${rules[@]}"; do
-  filename="rules$(printf "%02d" "$i").txt"
+for i in "${!rules[@]}"
+do
+  curl -m 60 --retry-delay 2 --retry 5 --parallel --parallel-immediate -k -L -C - -o "rules${i}.txt" --connect-timeout 60 -s "${rules[$i]}" | iconv -t utf-8 &
+done
+wait
 
-  if [[ "$src" =~ ^https?:// ]]; then
-    echo "→ 下载: $src → $filename"
-    curl -m 60 --retry-delay 2 --retry 5 --parallel --parallel-immediate \
-         -k -L -C - -o "$filename" --connect-timeout 60 -s "$src" | iconv -t utf-8 &
-  elif [[ -f "$src" ]]; then
-    echo "→ 拷贝本地规则文件: $src → $filename"
-    cp "$src" "$filename" &
-  else
-    echo "× 无效规则来源: $src"
-  fi
-
-  i=$((i + 1))
+# 处理允许列表
+echo '下载允许列表'
+for i in "${!allow[@]}"
+do
+  curl -m 60 --retry-delay 2 --retry 5 --parallel --parallel-immediate -k -L -C - -o "allow${i}.txt" --connect-timeout 60 -s "${allow[$i]}" | iconv -t utf-8 &
 done
 wait
 
