@@ -19903,7 +19903,6 @@ www.whitepapers.techrepublic.com
 www.who.is
 www.whoisentry.com
 www.whoismind.com
-www.widgets.link
 www.wikipedia.com
 www.winfuture.de
 www.wire.com
@@ -20337,7 +20336,6 @@ zero.facebook.com
 zero.wikipedia.com
 zerohedge.com
 zeroshort.xyz
-zerossl.ocsp.sectigo.com
 zeurl.net
 zeus4d.mom
 zeusstore.live
