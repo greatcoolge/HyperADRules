@@ -3152,7 +3152,6 @@ blogs.discovermagazine.com
 blogs.feedburner.com
 blogs.sonymobile.com
 blogs.techrepublic.com
-blogshare.cfd
 blogsimages.adobe.com
 blogsmithmedia.com
 blogspot.ca
@@ -3289,7 +3288,6 @@ brew.qualcomm.com
 brg.mobi
 bridge.dev
 bridgetrack.com
-bridging-analytics.life
 brief.ly
 brightcove.com
 brightcove.map.fastly.net
@@ -4047,7 +4045,6 @@ checkout.soundcloud.com
 checkout.stripe.com
 checkout.vimeo.com
 checkshorturl.com
-cheftems.com
 chekc.life
 chem.sg
 chemistdirect.com.au
@@ -4376,7 +4373,6 @@ cnnic.net.cn
 cnnmon.ie
 cnstrc.com
 cnvrge.co
-cnz.ir
 cnzz.com
 co.in
 co2saver.snap.com
@@ -5318,7 +5314,6 @@ dmp.adform.net
 dmprd.com
 dmreg.co
 dms.ospserver.net
-dmvrenew.com
 dn.ospserver.net
 dn.se
 dn303.online
@@ -5469,7 +5464,6 @@ drafthound.link
 dramafever.com
 draw.io
 dre.li
-dreamachievers.live
 dreamhost.com
 dreamshigh.life
 dribbble.com
@@ -5617,7 +5611,6 @@ ea.com
 ea1-urlp.secure.skypeassets.com
 eaash.co
 earn4link.in
-earnshorter.com
 earth.google.com
 earthlink.net
 earthtoday.info
@@ -6084,7 +6077,6 @@ extras.mnginteractive.com
 extratorrent.cc
 extratorrent.com
 exx.us
-eyemakeu.com
 eyq.me
 ez1.cc
 ezbz.me
@@ -6704,7 +6696,6 @@ gacortangandewa.com
 gacortexas.co
 gacortexas.org
 gacorwak.xyz
-galien.org
 gall.dcinside.com
 gallery.cdn.pandora.xiaomi.com
 gallery.consumer.huawei.com
@@ -6773,7 +6764,6 @@ gc.zgo.at
 gclnk.com
 gcloudcs.com
 gcp.api.snapchat.com
-gcrs.live
 gcs.sc-cdn.net
 gdanstum.net
 gdcsite.cdnsrv.jio.com
@@ -8625,7 +8615,6 @@ issa.be
 issuecdn.baidupcs.com
 issuu.com
 istockphoto.com
-istubby.com
 isw.pub
 it-go.kelkoogroup.net
 it-it.about.flipboard.com
@@ -8862,7 +8851,6 @@ jsfiddle.net
 jsinfo.net
 jsl1.in
 json.cn
-jsparty.fm
 jspassport.ssl.qhimg.com
 jssocdn.indiatimes.com
 jstatic.3.cn
@@ -9698,7 +9686,6 @@ lnkiy.com
 lnkiy.in
 lnks.ai
 lnks.es
-lnks.fr
 lnkshk.com
 lnkw.co
 lnky.jp
@@ -11369,7 +11356,6 @@ mms.pinduoduo.com
 mmstat.com
 mmtro.com
 mmwzvo.com
-mmz.li
 mnet.samsung.com
 mney.co
 mng.bz
@@ -11443,7 +11429,6 @@ modyolo.com
 moj.jo
 mojidul24.info
 mojime.wechat.com
-mollyminx.com
 mom-one-z-1991.life
 moments-photos.gotinder.com
 momo.dm
@@ -11497,7 +11482,6 @@ motto.daisuki.net
 mou.sr
 mouseflow.com
 movable-ink-2183.com
-movevibe.life
 movie.daum.net
 movie.naver.com
 movie2k.to
@@ -11678,7 +11662,6 @@ mycrypto.com
 mycts.app
 mycts.info
 mydealz.digidip.net
-myduke.life
 myer.com.au
 myf.mg
 myfico.com
@@ -11725,7 +11708,6 @@ mystyle.archosaur.com
 mysupport.sonymobile.com
 mysurl.com
 mytd.cc
-mytiktok.life
 mytinycheck9.life
 mytoluwalemi.life
 myumi.ch
@@ -12240,7 +12222,6 @@ oauth.reddit.com
 oauth.vk.com
 oaxyteek.net
 obank.tw
-obblink.com
 oboom.com
 obs.line-scdn.net
 observer.com
@@ -12363,7 +12344,6 @@ oneid.mmstat.com
 onelink.me
 onelink.to
 onelogin.com
-onelovepalmbeaches.life
 onenetworkdirect.net
 oneocsp.microsoft.com
 onepl.us
@@ -12381,7 +12361,6 @@ online.digital-advisor.com
 onlineclothes.live
 onlinekassirjessica.life
 onlinevideoconverter.com
-onlyfansamairanidiaz.live
 onlyfansclub.live
 onmpeg.com
 onon.in
@@ -12785,7 +12764,6 @@ pdds.ucweb.com
 pdf-archive.com
 pdh.co
 pdora.co
-pdp.life
 pds13.cafe.daum.net
 pds37.cafe.daum.net
 pdst.fm
@@ -12833,7 +12811,6 @@ pew.org
 pewrsr.ch
 pexels.com
 pf-hpx-us1.mpay.samsung.com
-pferrer15.info
 pfga0.market.xiaomi.com
 pfsense.org
 pg-bootstrap.itunes.apple.com
@@ -13133,7 +13110,6 @@ postimg.cc
 postimg.org
 postoffice.adobe.com
 postsign.docusign.com
-potong.co
 potplayer.daum.net
 powerreviews.com
 powershellgallery.com
@@ -14027,7 +14003,6 @@ road.adblock.ro
 roadandtrack.com
 roar.media
 robertdray2.live
-robloxtech.live
 robul.saas.workertm.com
 rochester.edu
 rockstargames.com
@@ -15222,7 +15197,6 @@ smlk.es
 smo.do
 smokingwheels.github.io
 smonkey.com
-smonty.co
 smoot.apple.com
 smp-device-content.apple.com
 smr.sh
@@ -15571,7 +15545,6 @@ start.fr
 start.nirsoft.net
 start.www.daum.net
 startpage.com
-startupperks.live
 starturl.com
 starz.tv
 stat.10jqka.com.cn
@@ -15808,7 +15781,6 @@ stickers.viber.com
 stileproject.com
 stitcher.com
 stitcher.pluto.tv
-stke.xyz
 stmodel.com
 stock.adobe.com
 stock.daum.net
@@ -20153,7 +20125,6 @@ xurls.net
 xvideos-cdn.com
 xvideos.com
 xvirt.it
-xwq.info
 xx.snap.com
 xxx-image.com
 xycdn.com.gslb.kuiniuca.com

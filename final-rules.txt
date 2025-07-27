@@ -3158,7 +3158,6 @@
 @@||blogs.feedburner.com^
 @@||blogs.sonymobile.com^
 @@||blogs.techrepublic.com^
-@@||blogshare.cfd^
 @@||blogsimages.adobe.com^
 @@||blogsmithmedia.com^
 @@||blogspot.ca^
@@ -3295,7 +3294,6 @@
 @@||brg.mobi^
 @@||bridge.dev^
 @@||bridgetrack.com^
-@@||bridging-analytics.life^
 @@||brief.ly^
 @@||brightcove.com^
 @@||brightcove.map.fastly.net^
@@ -4053,7 +4051,6 @@
 @@||checkout.stripe.com^
 @@||checkout.vimeo.com^
 @@||checkshorturl.com^
-@@||cheftems.com^
 @@||chekc.life^
 @@||chem.sg^
 @@||chemistdirect.com.au^
@@ -4382,7 +4379,6 @@
 @@||cnnmon.ie^
 @@||cnstrc.com^
 @@||cnvrge.co^
-@@||cnz.ir^
 @@||cnzz.com^
 @@||co.in^
 @@||co2saver.snap.com^
@@ -5324,7 +5320,6 @@
 @@||dmprd.com^
 @@||dmreg.co^
 @@||dms.ospserver.net^
-@@||dmvrenew.com^
 @@||dn.ospserver.net^
 @@||dn.se^
 @@||dn303.online^
@@ -5475,7 +5470,6 @@
 @@||dramafever.com^
 @@||draw.io^
 @@||dre.li^
-@@||dreamachievers.live^
 @@||dreamhost.com^
 @@||dreamshigh.life^
 @@||dribbble.com^
@@ -5623,7 +5617,6 @@
 @@||ea1-urlp.secure.skypeassets.com^
 @@||eaash.co^
 @@||earn4link.in^
-@@||earnshorter.com^
 @@||earth.google.com^
 @@||earthlink.net^
 @@||earthtoday.info^
@@ -6090,7 +6083,6 @@
 @@||extratorrent.cc^
 @@||extratorrent.com^
 @@||exx.us^
-@@||eyemakeu.com^
 @@||eyq.me^
 @@||ez1.cc^
 @@||ezbz.me^
@@ -6710,7 +6702,6 @@
 @@||gacortexas.co^
 @@||gacortexas.org^
 @@||gacorwak.xyz^
-@@||galien.org^
 @@||gall.dcinside.com^
 @@||gallery.cdn.pandora.xiaomi.com^
 @@||gallery.consumer.huawei.com^
@@ -6779,7 +6770,6 @@
 @@||gclnk.com^
 @@||gcloudcs.com^
 @@||gcp.api.snapchat.com^
-@@||gcrs.live^
 @@||gcs.sc-cdn.net^
 @@||gdanstum.net^
 @@||gdcsite.cdnsrv.jio.com^
@@ -8631,7 +8621,6 @@
 @@||issuecdn.baidupcs.com^
 @@||issuu.com^
 @@||istockphoto.com^
-@@||istubby.com^
 @@||isw.pub^
 @@||it-go.kelkoogroup.net^
 @@||it-it.about.flipboard.com^
@@ -8868,7 +8857,6 @@
 @@||jsinfo.net^
 @@||jsl1.in^
 @@||json.cn^
-@@||jsparty.fm^
 @@||jspassport.ssl.qhimg.com^
 @@||jssocdn.indiatimes.com^
 @@||jstatic.3.cn^
@@ -9704,7 +9692,6 @@
 @@||lnkiy.in^
 @@||lnks.ai^
 @@||lnks.es^
-@@||lnks.fr^
 @@||lnkshk.com^
 @@||lnkw.co^
 @@||lnky.jp^
@@ -11375,7 +11362,6 @@
 @@||mmstat.com^
 @@||mmtro.com^
 @@||mmwzvo.com^
-@@||mmz.li^
 @@||mnet.samsung.com^
 @@||mney.co^
 @@||mng.bz^
@@ -11449,7 +11435,6 @@
 @@||moj.jo^
 @@||mojidul24.info^
 @@||mojime.wechat.com^
-@@||mollyminx.com^
 @@||mom-one-z-1991.life^
 @@||moments-photos.gotinder.com^
 @@||momo.dm^
@@ -11503,7 +11488,6 @@
 @@||mou.sr^
 @@||mouseflow.com^
 @@||movable-ink-2183.com^
-@@||movevibe.life^
 @@||movie.daum.net^
 @@||movie.naver.com^
 @@||movie2k.to^
@@ -11684,7 +11668,6 @@
 @@||mycts.app^
 @@||mycts.info^
 @@||mydealz.digidip.net^
-@@||myduke.life^
 @@||myer.com.au^
 @@||myf.mg^
 @@||myfico.com^
@@ -11731,7 +11714,6 @@
 @@||mysupport.sonymobile.com^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||myumi.ch^
@@ -12246,7 +12228,6 @@
 @@||oauth.vk.com^
 @@||oaxyteek.net^
 @@||obank.tw^
-@@||obblink.com^
 @@||oboom.com^
 @@||obs.line-scdn.net^
 @@||observer.com^
@@ -12369,7 +12350,6 @@
 @@||onelink.me^
 @@||onelink.to^
 @@||onelogin.com^
-@@||onelovepalmbeaches.life^
 @@||onenetworkdirect.net^
 @@||oneocsp.microsoft.com^
 @@||onepl.us^
@@ -12387,7 +12367,6 @@
 @@||onlineclothes.live^
 @@||onlinekassirjessica.life^
 @@||onlinevideoconverter.com^
-@@||onlyfansamairanidiaz.live^
 @@||onlyfansclub.live^
 @@||onmpeg.com^
 @@||onon.in^
@@ -12791,7 +12770,6 @@
 @@||pdf-archive.com^
 @@||pdh.co^
 @@||pdora.co^
-@@||pdp.life^
 @@||pds13.cafe.daum.net^
 @@||pds37.cafe.daum.net^
 @@||pdst.fm^
@@ -12839,7 +12817,6 @@
 @@||pewrsr.ch^
 @@||pexels.com^
 @@||pf-hpx-us1.mpay.samsung.com^
-@@||pferrer15.info^
 @@||pfga0.market.xiaomi.com^
 @@||pfsense.org^
 @@||pg-bootstrap.itunes.apple.com^
@@ -13139,7 +13116,6 @@
 @@||postimg.org^
 @@||postoffice.adobe.com^
 @@||postsign.docusign.com^
-@@||potong.co^
 @@||potplayer.daum.net^
 @@||powerreviews.com^
 @@||powershellgallery.com^
@@ -14033,7 +14009,6 @@
 @@||roadandtrack.com^
 @@||roar.media^
 @@||robertdray2.live^
-@@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||rochester.edu^
 @@||rockstargames.com^
@@ -15228,7 +15203,6 @@
 @@||smo.do^
 @@||smokingwheels.github.io^
 @@||smonkey.com^
-@@||smonty.co^
 @@||smoot.apple.com^
 @@||smp-device-content.apple.com^
 @@||smr.sh^
@@ -15577,7 +15551,6 @@
 @@||start.nirsoft.net^
 @@||start.www.daum.net^
 @@||startpage.com^
-@@||startupperks.live^
 @@||starturl.com^
 @@||starz.tv^
 @@||stat.10jqka.com.cn^
@@ -15814,7 +15787,6 @@
 @@||stileproject.com^
 @@||stitcher.com^
 @@||stitcher.pluto.tv^
-@@||stke.xyz^
 @@||stmodel.com^
 @@||stock.adobe.com^
 @@||stock.daum.net^
@@ -20159,7 +20131,6 @@
 @@||xvideos-cdn.com^
 @@||xvideos.com^
 @@||xvirt.it^
-@@||xwq.info^
 @@||xx.snap.com^
 @@||xxx-image.com^
 @@||xycdn.com.gslb.kuiniuca.com^

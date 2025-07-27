@@ -1106,7 +1106,6 @@
 @@||blnk.in^
 @@||bloat.me^
 @@||blogger.googleusercontent.com^
-@@||blogshare.cfd^
 @@||bloom.bg^
 @@||blrqfe.com^
 @@||blstg.news^
@@ -1171,7 +1170,6 @@
 @@||brevi.space^
 @@||brg.mobi^
 @@||bridge.dev^
-@@||bridging-analytics.life^
 @@||brief.ly^
 @@||briidge.life^
 @@||brilink.me^
@@ -1393,7 +1391,6 @@
 @@||chat.deepseek.com^
 @@||chatg.pt^
 @@||checkshorturl.com^
-@@||cheftems.com^
 @@||chekc.life^
 @@||chem.sg^
 @@||chfm.ch^
@@ -1578,7 +1575,6 @@
 @@||cnn.it^
 @@||cnnmon.ie^
 @@||cnvrge.co^
-@@||cnz.ir^
 @@||coach-robin.life^
 @@||cockroa.ch^
 @@||code.piano.io^
@@ -1887,7 +1883,6 @@
 @@||dmdi.pl^
 @@||dmprd.com^
 @@||dmreg.co^
-@@||dmvrenew.com^
 @@||dn303.online^
 @@||dna360.tw^
 @@||dntbs.info^
@@ -1939,7 +1934,6 @@
 @@||dr-lisa.life^
 @@||drafthound.link^
 @@||dre.li^
-@@||dreamachievers.live^
 @@||dreamshigh.life^
 @@||drinks.me^
 @@||drive-h.quark.cn^
@@ -2015,7 +2009,6 @@
 @@||e7.al^
 @@||eaash.co^
 @@||earn4link.in^
-@@||earnshorter.com^
 @@||earthtoday.info^
 @@||easycut.io^
 @@||easyuri.com^
@@ -2164,7 +2157,6 @@
 @@||exploreosv.com^
 @@||exporntoons.net^
 @@||exx.us^
-@@||eyemakeu.com^
 @@||eyq.me^
 @@||ez1.cc^
 @@||ezbz.me^
@@ -2368,7 +2360,6 @@
 @@||gacortexas.co^
 @@||gacortexas.org^
 @@||gacorwak.xyz^
-@@||galien.org^
 @@||galleryapi.micloud.xiaomi.net^
 @@||gallerylink.info^
 @@||galvanithina8.life^
@@ -2395,7 +2386,6 @@
 @@||gbte.tech^
 @@||gc.apple.com^
 @@||gclnk.com^
-@@||gcrs.live^
 @@||gdanstum.net^
 @@||gdmf-ados.apple.com^
 @@||gdmf.apple.com^
@@ -3052,7 +3042,6 @@
 @@||ishortify.com^
 @@||isols.co^
 @@||isot2024.live^
-@@||istubby.com^
 @@||isw.pub^
 @@||it-go.kelkoogroup.net^
 @@||itdad.info^
@@ -3165,7 +3154,6 @@
 @@||js.t.sinajs.cn^
 @@||js.tv.itc.cn^
 @@||jsl1.in^
-@@||jsparty.fm^
 @@||jstatic.3.cn^
 @@||ju.mp^
 @@||judge.me^
@@ -3652,7 +3640,6 @@
 @@||lnkiy.in^
 @@||lnks.ai^
 @@||lnks.es^
-@@||lnks.fr^
 @@||lnkshk.com^
 @@||lnkw.co^
 @@||lnky.jp^
@@ -4685,7 +4672,6 @@
 @@||mms.pinduoduo.com^
 @@||mmtro.com^
 @@||mmwzvo.com^
-@@||mmz.li^
 @@||mney.co^
 @@||mng.bz^
 @@||mnge.it^
@@ -4713,7 +4699,6 @@
 @@||modyolo.com^
 @@||moj.jo^
 @@||mojidul24.info^
-@@||mollyminx.com^
 @@||mom-one-z-1991.life^
 @@||momo.dm^
 @@||momonez1991.live^
@@ -4750,7 +4735,6 @@
 @@||motiatech.com^
 @@||motphimz.live^
 @@||mou.sr^
-@@||movevibe.life^
 @@||mp.163.com^
 @@||mp.yidianzixun.com^
 @@||mpay-web.g.mkey.163.com^
@@ -4823,7 +4807,6 @@
 @@||mycts.app^
 @@||mycts.info^
 @@||mydealz.digidip.net^
-@@||myduke.life^
 @@||myf.mg^
 @@||myfonts.us^
 @@||myfreesex.life^
@@ -4855,7 +4838,6 @@
 @@||mystyle.archosaur.com^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytiktok.life^
 @@||mytinycheck9.life^
 @@||mytoluwalemi.life^
 @@||myumi.ch^
@@ -5026,7 +5008,6 @@
 @@||oal.lu^
 @@||oaxyteek.net^
 @@||obank.tw^
-@@||obblink.com^
 @@||ocaslots.live^
 @@||ock.cn^
 @@||ocsp.apple.com^
@@ -5081,7 +5062,6 @@
 @@||oneany.shop^
 @@||onelink.me^
 @@||onelink.to^
-@@||onelovepalmbeaches.life^
 @@||onenetworkdirect.net^
 @@||onepl.us^
 @@||onforb.es^
@@ -5090,7 +5070,6 @@
 @@||online.digital-advisor.com^
 @@||onlineclothes.live^
 @@||onlinekassirjessica.life^
-@@||onlyfansamairanidiaz.live^
 @@||onlyfansclub.live^
 @@||onon.in^
 @@||onx.la^
@@ -5272,7 +5251,6 @@
 @@||pd.am^
 @@||pdh.co^
 @@||pdora.co^
-@@||pdp.life^
 @@||pdxint.at^
 @@||pe.ga^
 @@||peak-prosperity.com^
@@ -5295,7 +5273,6 @@
 @@||petterihollander.live^
 @@||pew.org^
 @@||pewrsr.ch^
-@@||pferrer15.info^
 @@||pfga0.market.xiaomi.com^
 @@||pg-bootstrap.itunes.apple.com^
 @@||pg3d.app^
@@ -5408,7 +5385,6 @@
 @@||postaffiliatepro.com^
 @@||posted.at^
 @@||postsign.docusign.com^
-@@||potong.co^
 @@||pp.myapp.com^
 @@||pplx.ai^
 @@||ppq.apple.com^
@@ -5840,7 +5816,6 @@
 @@||ro-go.kelkoogroup.net^
 @@||ro.blox.com^
 @@||robertdray2.live^
-@@||robloxtech.live^
 @@||robul.saas.workertm.com^
 @@||roclcdfab.cc.rs6.net^
 @@||rog.gg^
@@ -6439,7 +6414,6 @@
 @@||smghf.ca^
 @@||smlk.es^
 @@||smo.do^
-@@||smonty.co^
 @@||smoot.apple.com^
 @@||smp-device-content.apple.com^
 @@||smr.sh^
@@ -6557,7 +6531,6 @@
 @@||stanford.io^
 @@||starlusts.com^
 @@||start.fr^
-@@||startupperks.live^
 @@||starturl.com^
 @@||starz.tv^
 @@||stat6.y.qq.com^
@@ -6608,7 +6581,6 @@
 @@||steamcommunity.com^
 @@||steveendow.link^
 @@||stfly.me^
-@@||stke.xyz^
 @@||stmodel.com^
 @@||stoodsef.com^
 @@||stor.ee^
@@ -8181,7 +8153,6 @@
 @@||xurl.jp^
 @@||xurls.net^
 @@||xvirt.it^
-@@||xwq.info^
 @@||xyq.163.com^
 @@||xzb.cc^
 @@||y.ahoo.it^
