@@ -6066,6 +6066,7 @@
 @@||seby.au^
 @@||seby.io^
 @@||sec.resource.xiaomi.net^
+@@||secreet.site^
 @@||secure-dentist.com^
 @@||secure-hotel-tracker.com^
 @@||secure.everyaction.com^
