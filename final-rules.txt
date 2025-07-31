@@ -229,6 +229,7 @@
 @@||256.so^
 @@||2a.me^
 @@||2ad.in^
+@@||2b1s.zacharyhurdle.com^
 @@||2big.at^
 @@||2bio.link^
 @@||2ch.net^
@@ -13977,6 +13978,7 @@
 @@||rjrpmitab.cc.rs6.net^
 @@||rjvn.co^
 @@||rk6dggnab.cc.rs6.net^
+@@||rkgbvycab.cc.rs6.net^
 @@||rklmqleab.cc.rs6.net^
 @@||rkurl.com^
 @@||rkypyqrab.cc.rs6.net^
@@ -13996,6 +13998,7 @@
 @@||rnk.net^
 @@||rnm.me^
 @@||rntyu.com^
+@@||rnu9kgcab.cc.rs6.net^
 @@||rny9z6jab.cc.rs6.net^
 @@||ro-go.kelkoogroup.net^
 @@||ro.blox.com^
@@ -17726,6 +17729,7 @@
 @@||vdn3.vzuu.com^
 @@||vdownload-*.sb-cd.com^
 @@||vdownload.hembed.com^
+@@||vdp.in.net^
 @@||vea.link^
 @@||vectorsdk.map.qq.com^
 @@||vegalinks.net^
