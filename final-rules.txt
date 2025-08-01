@@ -260,7 +260,6 @@
 @@||2tf.net^
 @@||2tiny.in^
 @@||2to.info^
-@@||2tu.us^
 @@||2u.lc^
 @@||2u.pw^
 @@||2u.xf.cz^
@@ -339,7 +338,6 @@
 @@||4.gg^
 @@||4.gp^
 @@||4.ly^
-@@||4172499085.live^
 @@||420.bio^
 @@||42url.com^
 @@||45h.it^
@@ -13974,6 +13972,7 @@
 @@||riz.cz^
 @@||rizy.ir^
 @@||rj99.art^
+@@||rjazqoyab.cc.rs6.net^
 @@||rjpl.link^
 @@||rjpz4ucab.cc.rs6.net^
 @@||rjrpmitab.cc.rs6.net^
