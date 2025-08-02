@@ -1212,7 +1212,6 @@
 @@||calcol.cc^
 @@||calendrierbdp.info^
 @@||callback.58.com^
-@@||camillalaprincessagroup.life^
 @@||campaign.adobe.com^
 @@||campaign.aliexpress.com^
 @@||campus.163.com^
@@ -1236,9 +1235,6 @@
 @@||careem.me^
 @@||caro.sl^
 @@||cart.mn^
-@@||carters-the-best-2012.live^
-@@||cartersthebest2012.live^
-@@||cartersthegolden2012.life^
 @@||casale-match.dotomi.com^
 @@||cash4share.com^
 @@||cashurl.win^
@@ -1318,9 +1314,6 @@
 @@||cdnfinder.xyz^
 @@||cdnjs.cloudflare.com^
 @@||cdnjs.com^
-@@||cdotdaplug.life^
-@@||cdpoju.com^
-@@||ceci-ana-jada-271928.life^
 @@||celfam.us^
 @@||centi.ai^
 @@||certs.apple.com^
@@ -1335,13 +1328,10 @@
 @@||ch0p.darty.com^
 @@||change-erp.com^
 @@||changelink.pro^
-@@||chantucker53.live^
-@@||charleseski.life^
 @@||charlesschwab.sc.omtrdc.net^
 @@||chat.deepseek.com^
 @@||chatg.pt^
 @@||checkshorturl.com^
-@@||chekc.life^
 @@||chem.sg^
 @@||chfm.ch^
 @@||chilp.it^
@@ -1375,7 +1365,6 @@
 @@||cj.dotomi.com^
 @@||cj.mplxtms.com^
 @@||cjb.net^
-@@||cjiy.top^
 @@||cjky.it^
 @@||cjn.mx^
 @@||cjyzkqj.homes^
@@ -1458,7 +1447,6 @@
 @@||clickserve.dartsearch.net^
 @@||clicksfly.com^
 @@||clicktale.net^
-@@||clicktosee.live^
 @@||clicktracker.getblue.io^
 @@||clicktracker.net^
 @@||clickurl.link^
@@ -1483,7 +1471,6 @@
 @@||cloud.video.taobao.com^
 @@||cloudcache.tencent-cloud.cn^
 @@||cloudflare-dns.com^
-@@||cloudlettings.live^
 @@||cloudmail14.netcore.co.in^
 @@||cloudmail16.netcore.co.in^
 @@||cloudmail17.netcore.co.in^
@@ -1525,13 +1512,11 @@
 @@||cnn.it^
 @@||cnnmon.ie^
 @@||cnvrge.co^
-@@||coach-robin.life^
 @@||cockroa.ch^
 @@||code.piano.io^
 @@||codimenu.com^
 @@||cofe.io^
 @@||coinbarlink.net^
-@@||coinbasesupports.live^
 @@||coinpr.info^
 @@||coki.me^
 @@||coklat.vip^
@@ -1550,7 +1535,6 @@
 @@||connect.rom.miui.com^
 @@||consiseurl.com^
 @@||console.cloud.tencent.com^
-@@||consultant828.com^
 @@||conta.cc^
 @@||contentcenter-vali-drcn.dbankcdn.com^
 @@||contra.dance^
@@ -1563,12 +1547,10 @@
 @@||convertkit-mail4.com^
 @@||convertkit.com^
 @@||cookcenter.info^
-@@||cooldaddy4yatwo.live^
 @@||coop.uk^
 @@||coop.voicecloud.cn^
 @@||coopurl.com^
 @@||cop.vn^
-@@||cor236kofc.life^
 @@||cort.as^
 @@||cortalo.net^
 @@||couic.fr^
@@ -1584,7 +1566,6 @@
 @@||cptl.me^
 @@||cpu.baidu.com^
 @@||cpucdn.baidu.com^
-@@||cqhjbt.com^
 @@||cr.ma^
 @@||cr8.lv^
 @@||crackm.ag^
@@ -1606,11 +1587,9 @@
 @@||crwdstr.ke^
 @@||cry-pto.life^
 @@||crypsante.com^
-@@||cryptoguide.website^
 @@||cs.co^
 @@||csd.dotomi.com^
 @@||cse3.chausport.com^
-@@||csgy.info^
 @@||csmo.us^
 @@||csnode.com^
 @@||css.tv.itc.cn^
@@ -1633,10 +1612,8 @@
 @@||cube.meituan.net^
 @@||cukbaray.com^
 @@||cultm.ac^
-@@||culture1.live^
 @@||cuoinamdiedm.life^
 @@||cup.org^
-@@||cupoms.info^
 @@||cur.lv^
 @@||curl.im^
 @@||curl.pk^
@@ -1679,8 +1656,6 @@
 @@||cyb.ec^
 @@||cybr.fr^
 @@||cybr.rocks^
-@@||cyizs.com^
-@@||cyngfs.com^
 @@||cyonix.to^
 @@||d-sh.io^
 @@||d.agkn.com^
@@ -7669,7 +7644,6 @@
 @@||vlink.cz^
 @@||vloggi.com^
 @@||vm.gtimg.cn^
-@@||vm88.com.co^
 @@||vms.bz^
 @@||vnl.vn^
 @@||vnlink.top^

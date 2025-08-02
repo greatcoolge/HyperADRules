@@ -3475,7 +3475,6 @@
 @@||camera.api.io.mi.com^
 @@||camera.line.me^
 @@||camera.wechat.com^
-@@||camillalaprincessagroup.life^
 @@||camo.githubusercontent.com^
 @@||campaign-archive1.com^
 @@||campaign-archive2.com^
@@ -3530,9 +3529,6 @@
 @@||cart.mi.com^
 @@||cart.mn^
 @@||cart.tmall.com^
-@@||carters-the-best-2012.live^
-@@||cartersthebest2012.live^
-@@||cartersthegolden2012.life^
 @@||cartm.gearbest.com^
 @@||casale-match.dotomi.com^
 @@||cash4share.com^
@@ -3842,17 +3838,14 @@
 @@||cdns1.gigya.com^
 @@||cdnsecakmi.kaltura.com^
 @@||cdntip.com^
-@@||cdotdaplug.life^
 @@||cdp.aliexpress.com^
 @@||cdp.rapidssl.com^
 @@||cdpn.io^
-@@||cdpoju.com^
 @@||cds.csx.sony.com^
 @@||cds.d2s7q6s2.hwcdn.net^
 @@||cds.j3z9t3p6.hwcdn.net^
 @@||cds.s5x3j6q5.hwcdn.net^
 @@||ce5.at^
-@@||ceci-ana-jada-271928.life^
 @@||cedexis.net^
 @@||cedexispub.cdnetworks.net^
 @@||celfam.us^
@@ -3913,9 +3906,7 @@
 @@||changelogs.ubuntu.com^
 @@||channel9.msdn.com^
 @@||channelusa.samsung.com^
-@@||chantucker53.live^
 @@||chaoxing.com^
-@@||charleseski.life^
 @@||charlesschwab.sc.omtrdc.net^
 @@||chart.googleapis.com^
 @@||chat-gateway-prod.chat.snapchat.com^
@@ -4001,7 +3992,6 @@
 @@||checkout.stripe.com^
 @@||checkout.vimeo.com^
 @@||checkshorturl.com^
-@@||chekc.life^
 @@||chem.sg^
 @@||chemistdirect.com.au^
 @@||cherry.flipboard.com^
@@ -4076,7 +4066,6 @@
 @@||cj.dotomi.com^
 @@||cj.mplxtms.com^
 @@||cjb.net^
-@@||cjiy.top^
 @@||cjky.it^
 @@||cjn.mx^
 @@||cjyzkqj.homes^
@@ -4172,7 +4161,6 @@
 @@||clickserve.dartsearch.net^
 @@||clicksfly.com^
 @@||clicktale.net^
-@@||clicktosee.live^
 @@||clicktracker.getblue.io^
 @@||clicktracker.net^
 @@||clickurl.link^
@@ -4242,7 +4230,6 @@
 @@||cloudfront-app-cdn.spot.im^
 @@||cloudfront.net^
 @@||cloudinary.com^
-@@||cloudlettings.live^
 @@||cloudmail14.netcore.co.in^
 @@||cloudmail16.netcore.co.in^
 @@||cloudmail17.netcore.co.in^
@@ -4332,7 +4319,6 @@
 @@||cnzz.com^
 @@||co.in^
 @@||co2saver.snap.com^
-@@||coach-robin.life^
 @@||coasttocoastam.com^
 @@||cockroa.ch^
 @@||code.binance.com^
@@ -4361,7 +4347,6 @@
 @@||cognito-identity.us-east-1.amazonaws.com^
 @@||coinbarlink.net^
 @@||coinbase.com^
-@@||coinbasesupports.live^
 @@||coinmama.com^
 @@||coinmarketcap.com^
 @@||coinmine.pl^
@@ -4487,7 +4472,6 @@
 @@||console.cloud.google.com^
 @@||console.cloud.tencent.com^
 @@||constantcontact.com^
-@@||consultant828.com^
 @@||consumer-img.huawei.com^
 @@||consumer-res.huawei.com^
 @@||consumer.huawei.com^
@@ -4540,7 +4524,6 @@
 @@||cookcenter.info^
 @@||cookie.monster.com^
 @@||cookiebot.com^
-@@||cooldaddy4yatwo.live^
 @@||coolrom.com^
 @@||coop.telecom.mihome.xiaomi.net^
 @@||coop.uk^
@@ -4550,7 +4533,6 @@
 @@||copyright.help.soundcloud.com^
 @@||copyright.soundcloud.com^
 @@||copyrights.help.soundcloud.com^
-@@||cor236kofc.life^
 @@||corbettreport.com^
 @@||core.windows.net^
 @@||corel.com^
@@ -4593,7 +4575,6 @@
 @@||cpucdn.baidu.com^
 @@||cpuid.com^
 @@||cpy-crack.com^
-@@||cqhjbt.com^
 @@||cr.ma^
 @@||cr.naver.com^
 @@||cr2.shopping.naver.com^
@@ -4664,7 +4645,6 @@
 @@||cry-pto.life^
 @@||cryoutcreations.eu^
 @@||crypsante.com^
-@@||cryptoguide.website^
 @@||cryptolabpro.com^
 @@||cryptopia.co.nz^
 @@||cs.co^
@@ -4684,7 +4664,6 @@
 @@||csdnimg.cn^
 @@||cse.google.com^
 @@||cse3.chausport.com^
-@@||csgy.info^
 @@||csi.gstatic.com^
 @@||csmo.us^
 @@||csnode.com^
@@ -4722,12 +4701,10 @@
 @@||cubestat.com^
 @@||cukbaray.com^
 @@||cultm.ac^
-@@||culture1.live^
 @@||cuoinamdiedm.life^
 @@||cup.org^
 @@||cupfox.app^
 @@||cupid.iqiyi.com^
-@@||cupoms.info^
 @@||cur.lv^
 @@||curben.gitlab.io^
 @@||curiosity.com^
@@ -4799,8 +4776,6 @@
 @@||cydia.saurik.com.cdngc.net^
 @@||cydia.saurik.com^
 @@||cygwin.com^
-@@||cyizs.com^
-@@||cyngfs.com^
 @@||cyonix.to^
 @@||cz.playstation.com^
 @@||cz.wikipedia.com^
@@ -17845,7 +17820,6 @@
 @@||vlink.cz^
 @@||vloggi.com^
 @@||vm.gtimg.cn^
-@@||vm88.com.co^
 @@||vmat.gtimg.com^
 @@||vmp-beta.boldchat.com^
 @@||vmp-eu.boldchat.com^
