@@ -430,7 +430,6 @@
 88nb.cc
 88win.link
 89q.sk
-8a6rh.shop
 8ch.net
 8n.ink
 8tm.net
@@ -521,8 +520,6 @@ a1.qpic.cn
 a1.sndcdn.com
 a1.soundcloud.com
 a1014.g.akamai.net
-a101indirimleriaktuel.life
-a1b.team
 a2a.me
 a2zapk.com
 a360.co
@@ -540,7 +537,6 @@ aakem.click
 aarp.info
 aatkit.com
 aawsat.news
-aawwj.com
 aax-eu-retail-direct.amazon-adsystem.com
 aax-eu.amazon.ae
 aax-eu.amazon.co.uk
@@ -569,7 +565,6 @@ aax-us-iad.amazon.com
 ab.co
 ab1n.net
 abar.in
-abasaras.live
 abbr.site
 abbreviations.com
 abbrr.com
@@ -633,7 +628,6 @@ accommodatingly.xyz
 acconpit.com
 account-assets.jimstatic.com
 account-us.huami.com
-account-verification-man-seeking-man-mps.live
 account.adguard.com
 account.adobe.com
 account.agiso.com
@@ -784,14 +778,12 @@ adcolo.com
 adcr.naver.com
 add.lat
 addevent.com
-addict-tt27.life
 addictivetips.com
 addons.cdn.mozilla.net
 addons.mozilla.org
 addons.prestashop.com
 addr.com
 adedownload.adobe.com
-adeolasagay.live
 adesta.cc
 adf.ly
 adfa.st
@@ -854,7 +846,6 @@ adorama.rfvk.net
 adpaylink.com
 adr.ec
 adr3.ir
-adrians-guzman-81.life
 adrise.tv
 ads.google.com
 ads.heytapmobi.com
@@ -996,7 +987,6 @@ adsp.xunlei.com
 adspeed.net
 adsv.svc.litv.tv
 adtidy.org
-adult-haem-home.life
 adult.com
 adurly.cc
 adv.ccb.com
@@ -1010,7 +1000,6 @@ advise.gallup.com
 adweek.com
 adweek.it
 adwords.google.com
-adx.kr
 ady.to
 adzerk.com
 adzerk.net
@@ -1035,8 +1024,6 @@ africa.pool.ntp.org
 aftonbladet.se
 aftv.news
 agbr.ir
-agen303.live
-aghq.top
 agilean.in
 agileurbia.com
 agmd.win
@@ -1046,9 +1033,7 @@ agrd.io
 agroforestri.id
 ahcdn.com
 ahd.ruten.com.tw
-ahgzp.com
 ahoo.it
-ai-beast-online.life
 ai-cdn.duba.net
 ai.blendnow.com
 ai.ly
@@ -1112,7 +1097,6 @@ alcohol-soft.com
 aldi.com.au
 aldimobile.com.au
 aldwx.com
-alex-test-1.life
 alexa.com
 alexa.design
 algolia.com
@@ -1162,7 +1146,6 @@ alongno1.live
 alpha-t.net
 alpha.camp
 alphab.gr
-alpinedatalake.com
 als.baidu.com
 alsa.me
 alstr.in
@@ -1849,7 +1832,6 @@ anp.su
 anquan.org
 anrdoezrs.net
 ansg.media
-answ.xyz
 answers.com
 answers.microsoft.com
 answersstaticfilecdnv2.azureedge.net
@@ -1858,7 +1840,6 @@ antfin.com
 anthos.googleapis.com
 antinawala.team
 anurl.com
-anvcc.top
 anvil.opentok.com
 any-in-2015.1e100.net
 any.gs
@@ -1882,7 +1863,6 @@ ap6.ssl.msdk.qq.com
 apa.org
 apache.org
 apb2.de
-apeltravel.info
 apertibumn.org
 apex.techrepublic.com
 apexstats.com
@@ -2386,7 +2366,6 @@ appstore.pandora.xiaomi.com
 appsumo.com
 apptimize.com
 appurl.io
-appusps.live
 appx.transient.amazon.com
 appx.transient.amazon.in
 apresolve.spotify.com
@@ -2567,8 +2546,6 @@ attestation.xboxlive.com
 attestation.xboxlive.com 
 attracta.com
 atu.ca
-atualizefacil.xyz
-atualizeja.xyz
 atuc.com
 au-1.hide.me
 au-2.hide.me
@@ -2596,7 +2573,6 @@ auditrecording-pa.googleapis.com
 auditude.com
 audownload.windowsupdate.nsatc.net
 auni.telecome.cn
-aupvhn.com
 auroracoin.org
 aus5.mozilla.org
 auslogics.com
@@ -2682,9 +2658,7 @@ axoni.us
 axs.com
 ay.gy
 aylink.co
-aypkl.com
 ayt.fr
-ayzyu.com
 az.gravatar.com
 az667904.vo.msecnd.net
 az725175.vo.msecnd.net
@@ -2695,7 +2669,6 @@ azali.fr
 azc.cc
 azipurl.app
 azipurl.com
-azov.life
 azure.com
 azureedge.net
 azx.az
@@ -2779,8 +2752,6 @@ banners.livepartners.com
 banners.spiceworks.com
 bapi.flipboard.com
 baratun.de
-barbenady.live
-barbieclothingcloset.live
 barebones.com
 barnesandnoble.com
 barsoocm.com
@@ -2828,13 +2799,11 @@ bcsite.io
 bcsp2p.baidu.com
 bd-fw.com
 bd-pratidin.com
-bddugi.com
 bddy.me
 bdf.net
 bdimg.com
 bdsmtest.org
 bdsmtv.cc
-bdtvzl.com
 bdydns.com
 bdydns.net
 be5.com
@@ -2852,7 +2821,6 @@ bee1s.com
 bee4.biz
 beeb.us
 beehiiv.com
-bees-fumb-lin-tumblers.life
 behacdn.ksmobile.sec.miui.com
 behance.net
 behindthevoiceactors.com
@@ -2931,7 +2899,6 @@ bia2vip.site
 bialystok.tvp.pl
 biastonu.com
 bibl.es
-bibomart.live
 bidobido.xyz
 big.at
 big.bilibili.com
@@ -2999,7 +2966,6 @@ bitcoin.de
 bitcoinshortener.top
 bitdefender.net
 bitfinex.com
-bitfly.me
 bitfury.com
 bitfy.cc
 bithumb.com
@@ -3054,7 +3020,6 @@ bkite.com
 bkjkwg.quest
 bkssl.bdimg.com
 bl.ink
-black-panther.live
 black.game.naver.com
 blackberry.com
 blacklistednews.com
@@ -3164,7 +3129,6 @@ blogspot.jp
 blogspot.l.googleusercontent.com
 bloom.bg
 bloomberg.com
-blrqfe.com
 bls.gov
 blstg.news
 bluebillywig.com
@@ -3173,19 +3137,16 @@ blueskyxn.com
 bluesoleil.com
 blur.by
 blyto.com
-blyxg.top
 bmai.cc
 bmj.com
 bmr.li
 bmtrck.com
 bn.gravatar.com
-bn8.us
 bnc.lt
 bnds.in
 bnetwhk.com
 bo.st
 boa.la
-boa5s.life
 board.jdownloader.org
 boardgamegeek.com
 boards.greenhouse.io
@@ -3253,7 +3214,6 @@ bp-gc.in
 bp.blogspot.com
 bp.cool
 bpapi.apple.com
-bpdmv.com
 bpl.kr
 bprl.site
 br-go.kelkoogroup.net
@@ -3268,7 +3228,6 @@ branch.io
 brand-images.jbhifi.com.au
 brand.qualcomm.com
 brand.sndcdn.com
-brandedstoragereview.directory
 brands.flipboard.com
 brands.medium.com
 brave-core-ext.s3.brave.com
@@ -3291,7 +3250,6 @@ brief.ly
 brightcove.com
 brightcove.map.fastly.net
 brightcove.net
-briidge.life
 brilink.me
 brisktopia.com
 briurl.com
@@ -3310,7 +3268,6 @@ browser.pipe.aria.microsoft.com
 browser.to
 browserapi.micloud.xiaomi.net
 brst.link
-brucezielke.life
 brzu.net
 bs.gravatar.com
 bs303.com
@@ -3365,8 +3322,6 @@ bulletin.plus.google.com
 bundles.api.here.com
 bung.ie
 bunnings.com.au
-burma123.life
-burma77.life
 burner.bonanza.com
 burnurl.com
 buscape.com.br
@@ -3393,14 +3348,12 @@ buy.mi.com
 buybitcoinsworldwide.com
 buydomains.com
 buymeacoffee.com
-buzzao.online
 buzzfeed.com
 bw.care
 bwlf.us
 bwmhosting.huawei.com
 bwnews.pr
 bwp.techrepublic.com
-bwrmp.com
 bws.bitpay.com
 bxl.me
 by.com.vn
@@ -3416,9 +3369,7 @@ bytepool.com
 bytl.fr
 bytr.ee
 bzfd.it
-bzfhq.sbs
 bzh.me
-c-dot-da-plug.life
 c-hud-aixxx.life
 c-o.in
 c.58cdn.com.cn
