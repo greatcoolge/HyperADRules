@@ -8450,7 +8450,6 @@
 @@||ishortify.com^
 @@||islamweb.net^
 @@||isols.co^
-@@||isot2024.live^
 @@||issa.be^
 @@||issuecdn.baidupcs.com^
 @@||issuu.com^
@@ -8468,7 +8467,6 @@
 @@||it.statcounter.com^
 @@||it.wikipedia.com^
 @@||itdad.info^
-@@||itdmusic.top^
 @@||item.mi.com^
 @@||item.taobao.com^
 @@||iterasi.net^
@@ -8531,12 +8529,10 @@
 @@||jacepayment.airasia.com^
 @@||jacesantiago.space^
 @@||jackjones.com^
-@@||jacobgb334inc.live^
 @@||jaga.link^
 @@||jaglil.com^
 @@||jagoan-hosting.online^
 @@||jalopnik.com^
-@@||jamaica-applicants.info^
 @@||jame.sn^
 @@||jamesastaten.live^
 @@||jango.com^
@@ -8560,7 +8556,6 @@
 @@||jd.cn.hn^
 @@||jd.com^
 @@||jd.mi.com^
-@@||jddbo.com^
 @@||jdem.cz^
 @@||jdoqocy.com^
 @@||jdownloader.org^
@@ -8570,13 +8565,11 @@
 @@||jellyurl.com^
 @@||jenkins.playstation.com^
 @@||jenkins.xda-developers.com^
-@@||jenoriana.bio^
 @@||jeruk.link^
 @@||jetzt.bekservice.co.uk^
 @@||jetzt.work^
 @@||jf.360.cn^
 @@||jfe-cdn.qualtrics.com^
-@@||jftvd.com^
 @@||jhk-cdn-mampic.hismarttv.com^
 @@||jhu.li^
 @@||jiagu.360.cn^
@@ -8590,7 +8583,6 @@
 @@||jii.li^
 @@||jijr.com^
 @@||jikipedia.com^
-@@||jilislots.life^
 @@||jimdo.com^
 @@||jio.sh^
 @@||jioconnect.com^
@@ -8629,7 +8621,6 @@
 @@||jomblo.org^
 @@||joo.gl^
 @@||joomla.org^
-@@||josue-p-ellis-co.life^
 @@||jotform.com^
 @@||joturl.com^
 @@||journey.playstation.com^
@@ -8712,7 +8703,6 @@
 @@||jx.cn^
 @@||jx.me^
 @@||jxxl.live^
-@@||jynjdg.com^
 @@||jytechs.in^
 @@||k-p.li^
 @@||k.cocooncenter.com^
@@ -8728,20 +8718,15 @@
 @@||ka.wtf^
 @@||kaas.gg^
 @@||kabuzzle.com^
-@@||kaggi-karr.life^
 @@||kaipuyun.cn^
 @@||kaitect.com^
 @@||kajtech.live^
 @@||kakaotv.daum.net^
-@@||kaleysupport.life^
 @@||kaltura.com^
 @@||kanjiantu.com^
 @@||kaos.link^
 @@||kaptcha.com^
-@@||kapten69.life^
 @@||karanpc.com^
-@@||karaoke4kids.live^
-@@||karisaathman346.life^
 @@||kas.pr^
 @@||kask.us^
 @@||kaspersky.com^
@@ -8754,7 +8739,6 @@
 @@||kb.adguard.com^
 @@||kbank.co^
 @@||kbit.co^
-@@||kcbxo.com^
 @@||kck.st^
 @@||kcsoftwares.com^
 @@||ke.me^
@@ -8795,7 +8779,6 @@
 @@||kham.tw^
 @@||khan.co^
 @@||kharkov.ua^
-@@||kharyona.info^
 @@||khtm.ir^
 @@||ki.gy^
 @@||kiacat.co^
@@ -8883,8 +8866,6 @@
 @@||kohls.com^
 @@||koi800.cc^
 @@||koinko.in^
-@@||kojj.info^
-@@||kolstadhandball.live^
 @@||komputerswiat.pl^
 @@||konachan.com^
 @@||konachan.net^
@@ -8915,7 +8896,6 @@
 @@||kratsi.cz^
 @@||krazy.la^
 @@||krdic.naver.com^
-@@||kristal777.us^
 @@||kro.kr^
 @@||kroger.com^
 @@||krohne.link^
@@ -8935,14 +8915,12 @@
 @@||kuku.lu^
 @@||kuleuven.eu.qualtrics.com^
 @@||kulink.me^
-@@||kulturaff.info^
 @@||kurl.ru^
 @@||kurv.gr^
 @@||kurz.jetzt^
 @@||kurzelinks.de^
 @@||kutt.comodo.com^
 @@||kutt.it^
-@@||kuykendall-lauren.life^
 @@||kv.ci^
 @@||kve.so^
 @@||kwx.fyi^
@@ -9000,7 +8978,6 @@
 @@||ladyfootlocker.com^
 @@||laerd.com^
 @@||lam.bo^
-@@||lameutefrance.info^
 @@||lammariom.dev^
 @@||lan.line.me^
 @@||land.naver.com^
@@ -9156,7 +9133,6 @@
 @@||lids.com^
 @@||lien.li^
 @@||lienket.vn^
-@@||lieva.sbs^
 @@||life.wechat.com^
 @@||lifeandtime.charity^
 @@||lifehack.org^
@@ -9198,7 +9174,6 @@
 @@||lil.ee^
 @@||lil.ge^
 @@||lil.so^
-@@||lillebrordahlstrom.life^
 @@||lillink.xyz^
 @@||lilllil.ru^
 @@||lilo.org^
@@ -9290,11 +9265,9 @@
 @@||linkd.in^
 @@||linke.to^
 @@||linkedin.com^
-@@||linkedinbraniluca.live^
 @@||linkedinjobmkt.info^
 @@||linkedinmkt.com^
 @@||linkedinmobileapp.com^
-@@||linkedins.live^
 @@||linkerr.io^
 @@||linkexpander.com^
 @@||linkezurl.com^
@@ -9308,9 +9281,7 @@
 @@||linkgacor33.info^
 @@||linkgacorr88.shop^
 @@||linkgol88.com^
-@@||linkgrab.top^
 @@||linkia.co^
-@@||linkifly.net^
 @@||linkila.com^
 @@||linkin.icu^
 @@||linkinghub.elsevier.com^
@@ -9369,7 +9340,6 @@
 @@||linkshorteners.com^
 @@||linkshortify.com^
 @@||linkshortner.net^
-@@||linkshortner.online^
 @@||linkshrink.net^
 @@||linkshrink.org^
 @@||linksmail.geosolinc.com^
@@ -9400,7 +9370,6 @@
 @@||list-manage2.com^
 @@||list-unsubscribe.eservice.emarsys.net^
 @@||list.tmall.com^
-@@||listaderoger.live^
 @@||listenanddiscover.help.soundcloud.com^
 @@||lists.blocklist.de^
 @@||lists.flipboard.com^
@@ -9411,8 +9380,6 @@
 @@||litl.cc^
 @@||litt.xyz^
 @@||little.im^
-@@||littlecheck9.life^
-@@||littlehedgehogs.life^
 @@||littlelnk.com^
 @@||litty.in^
 @@||liu.es^
@@ -9478,7 +9445,6 @@
 @@||livepassdl.conviva.com^
 @@||livephoto.us.sinaimg.cn^
 @@||livere.com^
-@@||liverpooldescarga.online^
 @@||livesport88.life^
 @@||livestre.am^
 @@||livestream.com^
@@ -9489,7 +9455,6 @@
 @@||lkdg.yoga^
 @@||lkdin.io^
 @@||lkgw.cc^
-@@||lkysrw.com^
 @@||ll.sa^
 @@||llclick.com^
 @@||llink.to^
@@ -9535,7 +9500,6 @@
 @@||lo.ge^
 @@||load.to^
 @@||loadingbaycn.webapp.163.com^
-@@||loasj.com^
 @@||loaynwfv2.live^
 @@||lobby.igamecj.com^
 @@||loc.gov^
@@ -9616,7 +9580,6 @@
 @@||loli.io^
 @@||loli.net^
 @@||lompat.xyz^
-@@||lomuhm.com^
 @@||lonerwolf.co^
 @@||look.com^
 @@||lookaside.facebook.com^
@@ -9688,7 +9651,6 @@
 @@||lxcdn.app.chat.xiaomi.net^
 @@||lxcdn.dl.files.xiaomi.net^
 @@||lxcdn2.api.files.xiaomi.net^
-@@||lxddck.com^
 @@||ly.hkfture.com^
 @@||ly.me^
 @@||ly.my^
@@ -9698,8 +9660,6 @@
 @@||lync.cc^
 @@||lynks.in^
 @@||lynkz.in^
-@@||lyreck.com^
-@@||lyreck.site^
 @@||lz.com^
 @@||lzd.co^
 @@||lzd.page^
@@ -9993,7 +9953,6 @@
 @@||macys.com^
 @@||madison.com^
 @@||madison.techcrunch.com^
-@@||madondressokwanda2.life^
 @@||maejo.link^
 @@||maga.lu^
 @@||magaus.co^
@@ -10004,8 +9963,6 @@
 @@||magic.cloud.vimeo.com^
 @@||magpie.daum.net^
 @@||maha77.site^
-@@||mahse.life^
-@@||mahse.live^
 @@||mai.91kami.com^
 @@||mai.pinduoduo.com^
 @@||maicowa.xyz^
@@ -10038,7 +9995,6 @@
 @@||mail2.support.snapchat.com^
 @@||mailchimp.com^
 @@||mailing.cryptopia.co.nz^
-@@||mailisa.live^
 @@||mailtrack.io^
 @@||maimai.cn^
 @@||main.iam.ad.ext.azure.com^
@@ -10063,7 +10019,6 @@
 @@||malwaredomains.lehigh.edu^
 @@||malwareurls.joxeankoret.com^
 @@||mamm.ie^
-@@||mampir.link^
 @@||man.ac.uk^
 @@||manage.stripe.com^
 @@||mandrillapp.com^
@@ -10084,7 +10039,6 @@
 @@||manwa.fun^
 @@||manwac.xyz^
 @@||many.at^
-@@||manyi3dcreations.com^
 @@||maoruan.club^
 @@||map.daum.net^
 @@||map.naver.com^
@@ -10198,7 +10152,6 @@
 @@||mdap.alipay.com^
 @@||mdgram.app^
 @@||mdidesign.ca^
-@@||mdklt.com^
 @@||mdl.town^
 @@||mdl29.net^
 @@||mdmblz.com^
@@ -10280,14 +10233,11 @@
 @@||meetingsandevents.qualcomm.com^
 @@||meetu.ps^
 @@||meetup.com^
-@@||meg-e-sdi.info^
 @@||mega.co.nz^
 @@||mega.io^
 @@||mega.nz^
 @@||megagames.com^
 @@||megalink.vip^
-@@||megawatts.live^
-@@||meinor.live^
 @@||meipian7.cn^
 @@||meitubeauty.meitudata.com^
 @@||meizu.com^
@@ -10361,8 +10311,6 @@
 @@||mgr.consensu.org^
 @@||mgstn.ly^
 @@||mhi5.us^
-@@||mhmt01777.life^
-@@||mhsta.life^
 @@||mi.com^
 @@||mi.me^
 @@||mi.samsung.com^
@@ -10394,15 +10342,12 @@
 @@||migly.in^
 @@||migrate.driveapi.micloud.xiaomi.net^
 @@||migre.me^
-@@||miguel-castillo-a-59.life^
-@@||miguelcastilloa59club.life^
 @@||mihanblog.com^
 @@||mii.pm^
 @@||miibeian.gov.cn^
 @@||miitbeian.gov.cn^
 @@||mijndomein.nl^
 @@||mikale.me^
-@@||mikepir84.live^
 @@||mikgr.si^
 @@||milink.pandora.xiaomi.com^
 @@||mimc.chat.xiaomi.net^
@@ -10461,7 +10406,6 @@
 @@||mis4.me^
 @@||mishop.cdn.pandora.xiaomi.com^
 @@||mishop.pandora.xiaomi.com^
-@@||miss-m-216.info^
 @@||missav.ai^
 @@||missav.live^
 @@||missav.ws^
@@ -10486,7 +10430,6 @@
 @@||mk0ghacksnety2pjrgh8.kinstacdn.com^
 @@||mkfreedl.b-cdn.net^
 @@||mki.my^
-@@||mkish1950.life^
 @@||mklnd.com^
 @@||mkt7185.com^
 @@||mktcloud.c.huawei.com^
@@ -10686,7 +10629,6 @@
 @@||mkto-ab410013.com^
 @@||mkto-ab410171.com^
 @@||mkto-ab420034.com^
-@@||mkto-ab420051.com^
 @@||mkto-ab420081.com^
 @@||mkto-ab420109.com^
 @@||mkto-ab420140.com^
@@ -10936,7 +10878,6 @@
 @@||mkto-p0056.com^
 @@||mkto-p0110.com^
 @@||mkto-p0136.com^
-@@||mkto-q0030.com^
 @@||mkto-q0045.com^
 @@||mkto-qa-stage.softwareone.com^
 @@||mkto-sj010104.com^
@@ -11186,7 +11127,6 @@
 @@||mmccwilson.live^
 @@||mmfiles.amp.mcafee.com^
 @@||mmg.whatsapp.net^
-@@||mmk999.live^
 @@||mmo-it.com^
 @@||mms-static.pddpic.com^
 @@||mms-static.pinduoduo.com^
@@ -11194,7 +11134,6 @@
 @@||mms.pinduoduo.com^
 @@||mmstat.com^
 @@||mmtro.com^
-@@||mmwzvo.com^
 @@||mnet.samsung.com^
 @@||mney.co^
 @@||mng.bz^
@@ -11202,7 +11141,6 @@
 @@||mno.snetroam.mihome.xiaomi.net^
 @@||mnot.es^
 @@||mntrmeme.com^
-@@||mo-lane-jerry-20.life^
 @@||mo.ma^
 @@||mo.res.wpscdn.cn^
 @@||moapi.wps.cn^
@@ -11268,11 +11206,8 @@
 @@||moj.jo^
 @@||mojidul24.info^
 @@||mojime.wechat.com^
-@@||mom-one-z-1991.life^
 @@||moments-photos.gotinder.com^
 @@||momo.dm^
-@@||momonez1991.live^
-@@||momonez1991site.life^
 @@||mon.isnssdk.com^
 @@||mondoagram.com^
 @@||money.yandex.ru^
@@ -11289,7 +11224,6 @@
 @@||mongmuoinam.life^
 @@||mongmuoisau.life^
 @@||mongmuoitam.live^
-@@||monidentie.info^
 @@||monitor.fraudblocker.com^
 @@||monitor.lunio.ai^
 @@||monitor.returnpath.net^
@@ -11316,7 +11250,6 @@
 @@||motherboard.vice.com^
 @@||motiatech.com^
 @@||motor-forum.nl^
-@@||motphimz.live^
 @@||motto.daisuki.net^
 @@||mou.sr^
 @@||mouseflow.com^
@@ -11456,10 +11389,8 @@
 @@||mx.freenet.de^
 @@||mx.namecoin.info^
 @@||mx1.hitbtc.com^
-@@||mxccfs.com^
 @@||my-ab.co^
 @@||my-beta.boldchat.com^
-@@||my-club.live^
 @@||my-gay.life^
 @@||my-google.live^
 @@||my-link.in^
@@ -11489,14 +11420,12 @@
 @@||my.vudu.com^
 @@||myaccount.nytimes.com^
 @@||myanlink.com^
-@@||myautotrading.live^
 @@||myaz.tech^
 @@||mybanktracker.com^
 @@||mybbc.files.bbci.co.uk^
 @@||mybmw.tw^
 @@||mybranded.link^
 @@||mybrowserbar-com.samsung.com.nas^
-@@||mycecianajada271928.life^
 @@||mycrypto.com^
 @@||mycts.app^
 @@||mycts.info^
@@ -11509,11 +11438,9 @@
 @@||myfox8.com^
 @@||myfreesex.life^
 @@||myglamm.in^
-@@||mygresham.info^
 @@||mygw.alipay.com^
 @@||myhome.naver.com^
 @@||myikoniq.info^
-@@||myjj789.com^
 @@||mylife.com^
 @@||mylinkinb.io^
 @@||mylinks.net.br^
@@ -11533,7 +11460,6 @@
 @@||myppt.cc^
 @@||myqcloud.com^
 @@||myqrcode.mobi^
-@@||mysales.life^
 @@||myservice.xbox.com^
 @@||mysexychat.live^
 @@||myshopify.com^
@@ -11547,15 +11473,12 @@
 @@||mysupport.sonymobile.com^
 @@||mysurl.com^
 @@||mytd.cc^
-@@||mytinycheck9.life^
-@@||mytoluwalemi.life^
 @@||myumi.ch^
 @@||myunidays.com^
 @@||myup.work^
 @@||myurl.in^
 @@||myurl.ly^
 @@||myurls.ca^
-@@||myvdcc.com^
 @@||mywot.com^
 @@||myxperia.sonymobile.com^
 @@||myètherwället.com^
@@ -11697,7 +11620,6 @@
 @@||new.www.huffingtonpost.com^
 @@||newbiecontest.com^
 @@||newbiecontest.org^
-@@||newcecianajada271928.life^
 @@||newclient.map.baidu.com^
 @@||neweden.live^
 @@||newegg.com^
@@ -11788,10 +11710,8 @@
 @@||nifty.com^
 @@||nig.gr^
 @@||nih.gov^
-@@||niit-mts.info^
 @@||nij.org^
 @@||nike.com^
-@@||nikoroli.life^
 @@||nil.naver.com^
 @@||nils.link^
 @@||nimbi.net^
@@ -11823,7 +11743,6 @@
 @@||nk.pl^
 @@||nkbp.jp^
 @@||nkf.re^
-@@||nktcx.com^
 @@||nl-1.hide.me^
 @@||nl-go.kelkoogroup.net^
 @@||nl-nl.about.flipboard.com^
@@ -11857,7 +11776,6 @@
 @@||node.plexapp.com^
 @@||nodes1.cryptopia.co.nz^
 @@||nodes2.cryptopia.co.nz^
-@@||noeuz.sbs^
 @@||nofnec.live^
 @@||noicindya.life^
 @@||nokia.ly^
@@ -13898,6 +13816,7 @@
 @@||rsc.li^
 @@||rsci.app.link^
 @@||rsg.ms^
+@@||rsgn6x9ab.cc.rs6.net^
 @@||rsgo.cc^
 @@||rsh.md^
 @@||rsload.net^
@@ -14786,7 +14705,6 @@
 @@||shortner.cc^
 @@||shortonly.com^
 @@||shortpals.online^
-@@||shortpastebin.my.id^
 @@||shortq.link^
 @@||shortr.at^
 @@||shortracz.com^
