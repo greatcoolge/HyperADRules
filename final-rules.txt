@@ -11831,7 +11831,6 @@
 @@||nr.tn^
 @@||nrdp.nccp.netflix.com^
 @@||nrsry.co^
-@@||nrvdi.com^
 @@||ns-1119.awsdns-11.org^
 @@||ns-1468.awsdns-55.org^
 @@||ns-1892.awsdns-44.co.uk^
@@ -11902,8 +11901,6 @@
 @@||nurl.net^
 @@||nus.edu^
 @@||nus1-urlp.secure.skypeassets.com^
-@@||nusukservics.life^
-@@||nusukservics.live^
 @@||nutrija.com^
 @@||nv.veta.naver.com^
 @@||nvda.ws^
@@ -11915,11 +11912,9 @@
 @@||nwsdy.li^
 @@||nwspprs.com^
 @@||nxb.tw^
-@@||nxc.life^
 @@||nxdr.co^
 @@||nxeassets-ssl.xbox.com^
 @@||nxeassets.xbox.com^
-@@||nxgtm.com^
 @@||nxi-cdn.exponea.com^
 @@||nxm.us^
 @@||nxpay.dutchbanglabank.com^
@@ -11983,7 +11978,6 @@
 @@||obs.line-scdn.net^
 @@||observer.com^
 @@||oca-api.netflix.com^
-@@||ocaslots.live^
 @@||oceania.pool.ntp.org^
 @@||oceanofgames.com^
 @@||ock.cn^
@@ -12037,7 +12031,6 @@
 @@||offs.ec^
 @@||ogcrawler.blog.naver.com^
 @@||oge.la^
-@@||ogle-wolfe.life^
 @@||ogms.co^
 @@||ogs.google.com^
 @@||oh.pn^
@@ -12064,7 +12057,6 @@
 @@||olympus1000.fyi^
 @@||om.cbsi.com^
 @@||om.ly^
-@@||omedia.live^
 @@||omegalinks.in^
 @@||omn.sonypictures.com^
 @@||omni.ag^
@@ -12115,8 +12107,6 @@
 @@||onion.com^
 @@||online.adservicemedia.dk^
 @@||online.digital-advisor.com^
-@@||onlineclothes.live^
-@@||onlinekassirjessica.life^
 @@||onlinevideoconverter.com^
 @@||onlyfansclub.live^
 @@||onmpeg.com^
@@ -12175,7 +12165,6 @@
 @@||opkale.me^
 @@||oplink.club^
 @@||oppo.com^
-@@||opportunityonlinebusiness.com^
 @@||opr.as^
 @@||opr.news^
 @@||oprah.com^
@@ -12229,7 +12218,6 @@
 @@||osp.meituan.net^
 @@||ospserver.net^
 @@||ospt.me^
-@@||ospug.top^
 @@||osrecovery.apple.com^
 @@||oss.maxcdn.com^
 @@||ossp.voicecloud.cn^
@@ -12287,7 +12275,6 @@
 @@||oyn.at^
 @@||oyo.net^
 @@||ozb.me^
-@@||ozkyx.sbs^
 @@||ozone.10jqka.com.cn^
 @@||p*.qhimg.com^
 @@||p-it.co.uk^
@@ -12398,7 +12385,6 @@
 @@||pages.status.xbox.com^
 @@||pages.typekit.com^
 @@||pagseguro.uol.com.br^
-@@||paids.site^
 @@||painthegame.playstation.com^
 @@||paisakamalo.in^
 @@||paksa.click^
@@ -12442,7 +12428,6 @@
 @@||partnerseu.sec.samsung.com^
 @@||parts.blog.livedoor.jp^
 @@||party.163.com^
-@@||partyspecial.life^
 @@||pass.1688.com^
 @@||passion-radio.net^
 @@||passport.alipay.com^
@@ -12475,7 +12460,6 @@
 @@||path3.xtracloud.net^
 @@||patheos.com^
 @@||paulfredrick.com^
-@@||pav-lobe-z-rod-ny-8611.life^
 @@||pay.bilibili.com^
 @@||pay.bithumb.com^
 @@||pay.g2play.com^
@@ -12504,7 +12488,6 @@
 @@||paytmofferlive.wpengine.com^
 @@||pbs.org^
 @@||pbs.twimg.com^
-@@||pbzl.info^
 @@||pc-magazin.de^
 @@||pc.xunlei.com^
 @@||pcbeta.com^
@@ -12563,7 +12546,6 @@
 @@||petesmarketinghub.com^
 @@||petir.vip^
 @@||petrobr.as^
-@@||petterihollander.live^
 @@||pew.org^
 @@||pewrsr.ch^
 @@||pexels.com^
@@ -12575,7 +12557,6 @@
 @@||pg.cdn.viber.com^
 @@||pg3d.app^
 @@||pgat.us^
-@@||pggms.sbs^
 @@||pgi.billdesk.com^
 @@||pgl.yoyo.org^
 @@||pgrs.in^
@@ -12689,7 +12670,6 @@
 @@||pixelsdesign.net^
 @@||pixhost.to^
 @@||pixiv.net^
-@@||pixly.link^
 @@||pixly.me^
 @@||pj.pizza^
 @@||pjatr.com^
@@ -12716,7 +12696,6 @@
 @@||placesunknown.art^
 @@||pladollmo.com^
 @@||plannery.app^
-@@||planningwithszenee.com^
 @@||platform-lookaside.fbsbx.com^
 @@||platform.bing.com^
 @@||platform.deepseek.com^
@@ -12850,7 +12829,6 @@
 @@||portal.fb.com^
 @@||portal.flipboard.com^
 @@||portalink.me^
-@@||portall2024pr.live^
 @@||portfolio.adobe.com^
 @@||pos-device.apple.com^
 @@||posarprodcssservice.accesscontrol.windows.net^
@@ -12878,7 +12856,6 @@
 @@||ppa.launchpad.net^
 @@||pplx.ai^
 @@||ppq.apple.com^
-@@||ppslots.live^
 @@||ppt.cc^
 @@||ppt.dpanda.in^
 @@||ppt.li^
@@ -12892,7 +12869,6 @@
 @@||practivate.adobe.com^
 @@||pragmaticurl.com^
 @@||prbly.us^
-@@||prcgg.sbs^
 @@||prd.jwpltx.com^
 @@||prd.sca.samsung.com^
 @@||prdct.school^
@@ -12902,7 +12878,6 @@
 @@||premaster-app-cdn.spot.im^
 @@||premaster-spoxy.spot.im^
 @@||premex.link^
-@@||premierbet.live^
 @@||premierleague.com^
 @@||premium.linkedin.com^
 @@||premium.soundcloud.com^
@@ -12940,8 +12915,6 @@
 @@||prime-link.net^
 @@||prime.coinbase.com^
 @@||primewire.ag^
-@@||prince-0210th-akur.info^
-@@||princessbabybratx.live^
 @@||princeton.edu^
 @@||printfriendly.com^
 @@||priority-static-api.nkstatic.com^
@@ -13008,7 +12981,6 @@
 @@||proflowers.com^
 @@||projects.huffingtonpost.com.au^
 @@||projects.id^
-@@||prokura.space^
 @@||prolinks.me^
 @@||prologue.blog.naver.com^
 @@||promo-visits.site^
@@ -13070,7 +13042,6 @@
 @@||psstatic.cdn.bcebos.com^
 @@||pstmrk.it^
 @@||psu.edu^
-@@||psychic-shiva-ram.live^
 @@||psychologytoday.com^
 @@||pt-br.about.flipboard.com^
 @@||pt-go.kelkoogroup.net^
@@ -13194,7 +13165,6 @@
 @@||qcaptcha.so.com^
 @@||qcloud.com^
 @@||qcloudimg.tencent-cloud.cn^
-@@||qcutul2702.life^
 @@||qcz.gallery.vsassets.io^
 @@||qd.rs^
 @@||qdfepccdn.qidian.com^
@@ -13229,7 +13199,6 @@
 @@||qos.gcloud.qq.com^
 @@||qos.hk.gcloudcs.com^
 @@||qos1.ol.epicgames.com^
-@@||qowrk.com^
 @@||qph.ec.quoracdn.net^
 @@||qpic.cn^
 @@||qq-web.cdn-go.cn^
@@ -13288,7 +13257,6 @@
 @@||qutt.me^
 @@||qutt.us^
 @@||qvc.co^
-@@||qwjbc.sbs^
 @@||qxp.cz^
 @@||qxp.sk^
 @@||qxxxp.org^
@@ -13383,10 +13351,8 @@
 @@||rajaolympus.pro^
 @@||rajasurga.link^
 @@||rak7fucab.cc.rs6.net^
-@@||rakaug.com^
 @@||rakuten.co.jp^
 @@||rambler.ru^
-@@||ramcourier.live^
 @@||ramp.purch.com^
 @@||rank.spot.im^
 @@||ranker.com^

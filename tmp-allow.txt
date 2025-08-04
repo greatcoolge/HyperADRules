@@ -4720,7 +4720,6 @@
 @@||npm.elemecdn.com^
 @@||nr.tn^
 @@||nrsry.co^
-@@||nrvdi.com^
 @@||ns.itunes.apple.com^
 @@||nsfw.in^
 @@||nstool.netease.com^
@@ -4731,8 +4730,6 @@
 @@||ntuc.co^
 @@||nullrefer.com^
 @@||nus.edu^
-@@||nusukservics.life^
-@@||nusukservics.live^
 @@||nvda.ws^
 @@||nw5g.com^
 @@||nwo-s.top^
@@ -4740,9 +4737,7 @@
 @@||nwsdy.li^
 @@||nwspprs.com^
 @@||nxb.tw^
-@@||nxc.life^
 @@||nxdr.co^
-@@||nxgtm.com^
 @@||nxi-cdn.exponea.com^
 @@||nxm.us^
 @@||nxy.in^
@@ -4758,7 +4753,6 @@
 @@||oal.lu^
 @@||oaxyteek.net^
 @@||obank.tw^
-@@||ocaslots.live^
 @@||ock.cn^
 @@||ocsp.apple.com^
 @@||ocsp.digicert.com^
@@ -4773,7 +4767,6 @@
 @@||offf.to^
 @@||offlink.us^
 @@||offs.ec^
-@@||ogle-wolfe.life^
 @@||ogms.co^
 @@||oh.pn^
 @@||ohw.tf^
@@ -4788,7 +4781,6 @@
 @@||oli.vi^
 @@||olympus1000.fyi^
 @@||om.ly^
-@@||omedia.live^
 @@||omegalinks.in^
 @@||omni.ag^
 @@||omofun.link^
@@ -4818,8 +4810,6 @@
 @@||onion.com^
 @@||online.adservicemedia.dk^
 @@||online.digital-advisor.com^
-@@||onlineclothes.live^
-@@||onlinekassirjessica.life^
 @@||onlyfansclub.live^
 @@||onon.in^
 @@||onx.la^
@@ -4832,7 +4822,6 @@
 @@||opent2.com^
 @@||opkale.me^
 @@||oplink.club^
-@@||opportunityonlinebusiness.com^
 @@||opr.as^
 @@||opr.news^
 @@||ops.consulting^
@@ -4850,7 +4839,6 @@
 @@||oslash.com^
 @@||osp.meituan.net^
 @@||ospt.me^
-@@||ospug.top^
 @@||osrecovery.apple.com^
 @@||ossp.voicecloud.cn^
 @@||otolink.pl^
@@ -4877,7 +4865,6 @@
 @@||oyn.at^
 @@||oyo.net^
 @@||ozb.me^
-@@||ozkyx.sbs^
 @@||p*.qhimg.com^
 @@||p-it.co.uk^
 @@||p-r.io^
@@ -4951,7 +4938,6 @@
 @@||pag.la^
 @@||page.link^
 @@||pages.github.com^
-@@||paids.site^
 @@||paisakamalo.in^
 @@||paksa.click^
 @@||pan-cdn.exponea.com^
@@ -4966,7 +4952,6 @@
 @@||partnerlinks.io^
 @@||partners3.stacksocial.com^
 @@||party.163.com^
-@@||partyspecial.life^
 @@||passion-radio.net^
 @@||passport.bilibili.com^
 @@||passport.goofish.com^
@@ -4986,7 +4971,6 @@
 @@||pastionline.com^
 @@||pastirokok.com^
 @@||patchwiki.biligame.com^
-@@||pav-lobe-z-rod-ny-8611.life^
 @@||pay.bilibili.com^
 @@||pay.openspeech.cn^
 @@||payapp.weixin.qq.com^
@@ -4994,7 +4978,6 @@
 @@||paypal.com^
 @@||payskip.org^
 @@||pbs.twimg.com^
-@@||pbzl.info^
 @@||pc.xunlei.com^
 @@||pchome.link^
 @@||pck.tv^
@@ -5020,14 +5003,12 @@
 @@||petesmarketinghub.com^
 @@||petir.vip^
 @@||petrobr.as^
-@@||petterihollander.live^
 @@||pew.org^
 @@||pewrsr.ch^
 @@||pfga0.market.xiaomi.com^
 @@||pg-bootstrap.itunes.apple.com^
 @@||pg3d.app^
 @@||pgat.us^
-@@||pggms.sbs^
 @@||pgrs.in^
 @@||ph.ly^
 @@||ph88.link^
@@ -5074,7 +5055,6 @@
 @@||pixel1083.everesttech.net^
 @@||pixel2261.everesttech.net^
 @@||pixelfy.me^
-@@||pixly.link^
 @@||pixly.me^
 @@||pj.pizza^
 @@||pjatr.com^
@@ -5087,7 +5067,6 @@
 @@||placesunknown.art^
 @@||pladollmo.com^
 @@||plannery.app^
-@@||planningwithszenee.com^
 @@||platform.deepseek.com^
 @@||play-app.site^
 @@||play.163.com^
@@ -5127,7 +5106,6 @@
 @@||pornzog.com^
 @@||port.sec.miui.com^
 @@||portalink.me^
-@@||portall2024pr.live^
 @@||pos-device.apple.com^
 @@||posh.mk^
 @@||post.ly^
@@ -5138,7 +5116,6 @@
 @@||pp.myapp.com^
 @@||pplx.ai^
 @@||ppq.apple.com^
-@@||ppslots.live^
 @@||ppt.cc^
 @@||ppt.dpanda.in^
 @@||ppt.li^
@@ -5147,11 +5124,9 @@
 @@||pr.tn^
 @@||pragmaticurl.com^
 @@||prbly.us^
-@@||prcgg.sbs^
 @@||prdct.school^
 @@||prel.ink^
 @@||premex.link^
-@@||premierbet.live^
 @@||preml.ge^
 @@||prendre-rendezvous.com^
 @@||prephe.ro^
@@ -5159,8 +5134,6 @@
 @@||prf.hn^
 @@||prgress.co^
 @@||prime-link.net^
-@@||prince-0210th-akur.info^
-@@||princessbabybratx.live^
 @@||prism.app-us1.com^
 @@||privad0.com^
 @@||privatehomeclips.com^
@@ -5175,7 +5148,6 @@
 @@||profitshare.emag.ro^
 @@||profitshare.ro^
 @@||projects.id^
-@@||prokura.space^
 @@||prolinks.me^
 @@||promo-visits.site^
 @@||promo.mobile.de^
@@ -5192,7 +5164,6 @@
 @@||psfl.in^
 @@||pss.bdstatic.com^
 @@||psstatic.cdn.bcebos.com^
-@@||psychic-shiva-ram.live^
 @@||pt-go.kelkoogroup.net^
 @@||ptab.it^
 @@||ptix.co^
@@ -5244,7 +5215,6 @@
 @@||qbn.ru^
 @@||qcaptcha.so.com^
 @@||qcloudimg.tencent-cloud.cn^
-@@||qcutul2702.life^
 @@||qd.rs^
 @@||qdfepccdn.qidian.com^
 @@||qdl.pw^
@@ -5263,7 +5233,6 @@
 @@||qnm.163.com^
 @@||qo.dk^
 @@||qoo.by^
-@@||qowrk.com^
 @@||qq-web.cdn-go.cn^
 @@||qq.cn.hn^
 @@||qqadapt.qpic.cn^
@@ -5305,7 +5274,6 @@
 @@||qutt.me^
 @@||qutt.us^
 @@||qvc.co^
-@@||qwjbc.sbs^
 @@||qxp.cz^
 @@||qxp.sk^
 @@||qxxxp.org^
@@ -5371,8 +5339,6 @@
 @@||rajaolympus.pro^
 @@||rajasurga.link^
 @@||rak7fucab.cc.rs6.net^
-@@||rakaug.com^
-@@||ramcourier.live^
 @@||rantenah.com^
 @@||raoteqdab.cc.rs6.net^
 @@||rapki9kab.cc.rs6.net^
