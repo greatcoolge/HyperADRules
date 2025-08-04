@@ -5344,7 +5344,6 @@
 @@||rapki9kab.cc.rs6.net^
 @@||rav5ithbb.cc.rs6.net^
 @@||ravshort.com^
-@@||raykiemery.com^
 @@||rayrzagab.cc.rs6.net^
 @@||rayzershort.com^
 @@||rb-story.com^
@@ -5352,7 +5351,6 @@
 @@||rb6.co^
 @@||rb6.me^
 @@||rb6paw8ab.cc.rs6.net^
-@@||rbhouse.live^
 @@||rbl.ms^
 @@||rblx.co^
 @@||rblz6kyab.cc.rs6.net^
@@ -5399,9 +5397,6 @@
 @@||recommender-eu.scarabresearch.com^
 @@||recommender.scarabresearch.com^
 @@||reconis.co^
-@@||recruiment.live^
-@@||recruitings.online^
-@@||recruitings.solutions^
 @@||red.ht^
 @@||redaz.in^
 @@||redditlink.org^
@@ -5441,10 +5436,8 @@
 @@||referrer.disqus.com^
 @@||refini.tv^
 @@||reg.163.com^
-@@||regalacasian8.life^
 @@||registry.npmmirror.com^
 @@||regmovi.es^
-@@||rehtek.live^
 @@||reive.site^
 @@||reline.cc^
 @@||relink.asia^
@@ -5498,7 +5491,6 @@
 @@||rhub.in^
 @@||ri-cdn.exponea.com^
 @@||ri5mlu6ab.cc.rs6.net^
-@@||rice-v-ave.life^
 @@||rickroll.it^
 @@||rides.sng.link^
 @@||ringcentr.al^
@@ -5530,12 +5522,10 @@
 @@||rmuti.me^
 @@||rng7xicab.cc.rs6.net^
 @@||rnm.me^
-@@||rntyu.com^
 @@||rnu9kgcab.cc.rs6.net^
 @@||rny9z6jab.cc.rs6.net^
 @@||ro-go.kelkoogroup.net^
 @@||ro.blox.com^
-@@||robertdray2.live^
 @@||robul.saas.workertm.com^
 @@||roclcdfab.cc.rs6.net^
 @@||rog.gg^
@@ -5545,14 +5535,10 @@
 @@||roli8hmab.cc.rs6.net^
 @@||rollwithpaul.com^
 @@||romw.co^
-@@||ronald-adams-1.life^
 @@||rool.ink^
 @@||ror4pphbb.cc.rs6.net^
-@@||rouletteonline.live^
 @@||rounash.com^
-@@||roush-jims.live^
 @@||rozhl.as^
-@@||rpd.ink^
 @@||rpf.io^
 @@||rplg.co^
 @@||rptcs9bab.cc.rs6.net^
@@ -5591,7 +5577,6 @@
 @@||rvb5wz6ab.cc.rs6.net^
 @@||rvtv.io^
 @@||rvwd.co^
-@@||rwemw.com^
 @@||rwl.io^
 @@||rwp9h64ab.cc.rs6.net^
 @@||rwx.es^
@@ -5599,7 +5584,6 @@
 @@||rx.link^
 @@||rxe.lol^
 @@||rxfc49ebb.cc.rs6.net^
-@@||rxyzpj.com^
 @@||ry5rzwcab.cc.rs6.net^
 @@||ry9kgedab.cc.rs6.net^
 @@||rye9jgzab.cc.rs6.net^
@@ -5692,7 +5676,6 @@
 @@||s3.voicecloud.cn^
 @@||s3plus-img.meituan.net^
 @@||s3plus.meituan.net^
-@@||s3r.io^
 @@||s3vip.tw^
 @@||s3w.net^
 @@||s4.exacttarget.com^
@@ -5720,11 +5703,8 @@
 @@||sail.to^
 @@||sailthru.com^
 @@||salesadvisor.nazriproton.com.my^
-@@||salesinc.live^
 @@||samcart.me^
-@@||samueledwardrotimi7inc.life^
 @@||san.aq^
-@@||sanantoniocollegenavigator.com^
 @@||sangamtalks.com^
 @@||sanilac.gives^
 @@||saucenao.com^
@@ -5752,10 +5732,8 @@
 @@||scbetgacorr.org^
 @@||sched.co^
 @@||school.apple.com^
-@@||scientificglobalevents.com^
 @@||sck.io^
 @@||sclix.com^
-@@||scoreonline.live^
 @@||scr.bi^
 @@||scrapy.co^
 @@||scrb.ly^
@@ -5764,9 +5742,6 @@
 @@||scts.in^
 @@||scuf.co^
 @@||sd.360.cn^
-@@||sdafasf.info^
-@@||sdafasf.life^
-@@||sdafasf.live^
 @@||sdk.jinrishici.com^
 @@||sdk.mihoyo.com^
 @@||sdk.ptqy.gitv.tv^
@@ -5811,7 +5786,6 @@
 @@||serverpa.rs^
 @@||serverstatus.apple.com^
 @@||service.mkey.163.com^
-@@||seterusnya.live^
 @@||setup.icloud.com^
 @@||seu.cleverreach.com^
 @@||seu1.cleverreach.com^
@@ -5855,7 +5829,6 @@
 @@||shelbyknox.com^
 @@||shenfenzheng.bmcx.com^
 @@||sheve.me^
-@@||shgy.info^
 @@||shikshansagar.org^
 @@||shink.me^
 @@||shiny.link^
@@ -5870,12 +5843,9 @@
 @@||sho.cat^
 @@||sho.pe^
 @@||shoort.io^
-@@||shop-ify-store-km.life^
 @@||shop-links.co^
 @@||shope.ee^
 @@||shopifie.com^
-@@||shopifystorekms.life^
-@@||shopvt.life^
 @@||shorix.ru^
 @@||shorl.com^
 @@||shorrtener.herokuapp.com^
@@ -6015,19 +5985,16 @@
 @@||shpze.com^
 @@||shre.ink^
 @@||shrink-your-link.org^
-@@||shrink.id^
 @@||shrink.pe^
 @@||shrinkearn.com^
 @@||shrinkforearn.in^
 @@||shrinkify.com^
-@@||shrinkl.com^
 @@||shrinkly.co^
 @@||shrinkme.in^
 @@||shrinkme.ink^
 @@||shrinkme.io^
 @@||shrinkster.com^
 @@||shrinkurl.us^
-@@||shrt-l.ink^
 @@||shrt.co^
 @@||shrt.in^
 @@||shrt.lat^
@@ -6053,8 +6020,6 @@
 @@||shxi.ir^
 @@||shy.si^
 @@||shycmedi.com^
-@@||siakap.life^
-@@||siakapkeli.info^
 @@||sicax.net^
 @@||sie.ag^
 @@||sifu.im^
@@ -6064,7 +6029,6 @@
 @@||sikilat.fun^
 @@||sikk.de^
 @@||siklik.id^
-@@||sikqvt.com^
 @@||simg.sinajs.cn^
 @@||simgr.id^
 @@||simp.ly^
@@ -6079,7 +6043,6 @@
 @@||sinyi.in^
 @@||sipetir.pro^
 @@||siriusxm.us^
-@@||sirpaulfan.live^
 @@||site.tiantiantiaosheng.com^
 @@||siteco.re^
 @@||sites.hscoscdn-eu1.net^
@@ -6117,7 +6080,6 @@
 @@||slims.us^
 @@||slnk.se^
 @@||slotamina.com^
-@@||slots799.online^
 @@||slpre.com^
 @@||slurl.keatsmedia.ca^
 @@||sm-s.in^
@@ -6131,7 +6093,6 @@
 @@||smartrobot-drcn.dbankcdn.com^
 @@||smarturl.it^
 @@||smashed.by^
-@@||smfcx.live^
 @@||smghf.ca^
 @@||smlk.es^
 @@||smo.do^
@@ -6155,7 +6116,6 @@
 @@||sni.ps^
 @@||snip.link^
 @@||snip.ly^
-@@||snipit.in^
 @@||snipr.com^
 @@||snipurl.com^
 @@||snpy.link^
@@ -6223,13 +6183,11 @@
 @@||squeez.org^
 @@||sqzr.cz^
 @@||sr23.ru^
-@@||srdug.com^
 @@||sresc.io^
 @@||srnk.us^
 @@||srturl.xyz^
 @@||sruuuqg.bond^
 @@||srv.sec.miui.com^
-@@||srwedding.live^
 @@||ss.phncdn.com^
 @@||ss777.games^
 @@||ss777.win^
@@ -6290,7 +6248,6 @@
 @@||static2.clips4sale.com^
 @@||statici.icloud.com^
 @@||staticimg.yidianzixun.com^
-@@||staticprocessorsource.review^
 @@||statics.123pan.com^
 @@||staticsns.cdn.bcebos.com^
 @@||staticwiki.biligame.com^
@@ -6324,7 +6281,6 @@
 @@||streamsb.net^
 @@||streamwish.to^
 @@||strikersoftsolutions.com^
-@@||strms.ly^
 @@||stspg.io^
 @@||stts.in^
 @@||study.163.com^
@@ -6411,7 +6367,6 @@
 @@||suo.su^
 @@||suoc.me^
 @@||support.weixin.qq.com^
-@@||supporticket231.live^
 @@||supr.cl^
 @@||supr.link^
 @@||supurlman.com^
@@ -6432,7 +6387,6 @@
 @@||swcdn.apple.com^
 @@||swdist.apple.com^
 @@||swdownload.apple.com^
-@@||sweaver.life^
 @@||swff.us^
 @@||swi.nu^
 @@||swiftation.com^
@@ -6449,14 +6403,12 @@
 @@||sy.to^
 @@||syb.la^
 @@||sydkings.com^
-@@||syl83otk.live^
 @@||sylvan.apple.com^
 @@||sync-tm.everesttech.net^
 @@||synd.co^
 @@||syr.us^
 @@||syw.co^
 @@||szag.link^
-@@||szjrw.sbs^
 @@||t*.baidu.com^
 @@||t*img.yangkeduo.com^
 @@||t-bi.link^
@@ -6588,7 +6540,6 @@
 @@||t1.market.xiaomi.com^
 @@||t10.baidu.com^
 @@||t11.baidu.com^
-@@||t111.pro^
 @@||t12.baidu.com^
 @@||t13.intelliad.de^
 @@||t1p.de^
@@ -6617,11 +6568,9 @@
 @@||tags.news.com.au^
 @@||tagtic.cn^
 @@||taiwangov.com^
-@@||taleus.live^
 @@||tamar.is^
 @@||tanks.ly^
 @@||tapfiliate.com^
-@@||taphoa24h.live^
 @@||taplink.cc^
 @@||tapz.in^
 @@||target.clickfunnels.com^
@@ -6649,22 +6598,16 @@
 @@||tdv-adm.live^
 @@||tdy.lol^
 @@||tdy.sg^
-@@||teenycheck9.life^
 @@||teil.cc^
 @@||tek.io^
-@@||teknut.com^
 @@||tel-u.ac.id^
 @@||teleko.me^
-@@||teliget.info^
-@@||teliget.life^
-@@||teliget.live^
 @@||tellurl.com^
 @@||telnet-service.net^
 @@||temu.to^
 @@||ter.li^
 @@||terabox.in^
 @@||terabox.pw^
-@@||terahnahor.info^
 @@||terakki.link^
 @@||terasherelinks.site^
 @@||teratai888.ink^
@@ -6683,12 +6626,10 @@
 @@||tgdgacor.com^
 @@||tgr.ph^
 @@||th.bing.com^
-@@||thaniel.life^
 @@||tharp.me^
 @@||thatis.me^
 @@||thd.co^
 @@||the-link.me^
-@@||the-mc-michel-group.live^
 @@||thebindaas.com^
 @@||thecubexguide.com^
 @@||thedo.do^
@@ -6702,7 +6643,6 @@
 @@||thenews24h.tech^
 @@||theporndude.com^
 @@||theposhed.com^
-@@||thesa.us^
 @@||thesne.ws^
 @@||thesocial.vip^
 @@||thetim.es^
@@ -6718,7 +6658,6 @@
 @@||thr.cm^
 @@||thrdl.es^
 @@||thrill.to^
-@@||thug-bug-g-928.life^
 @@||thumbs2.imgbox.com^
 @@||ti.me^
 @@||ti.tradetracker.net^
@@ -6727,15 +6666,12 @@
 @@||tibco.co^
 @@||tick.news^
 @@||tidd.ly^
-@@||tiger388.life^
 @@||tiger77.monster^
 @@||tighturl.com^
 @@||tik.la^
-@@||tik.lat^
 @@||tik.lol^
 @@||tiktokcdn.com^
 @@||tiktokv.com^
-@@||tiky.cc^
 @@||tim.com.vc^
 @@||time-ios.apple.com^
 @@||time-macos.apple.com^
@@ -6746,9 +6682,6 @@
 @@||tiniworkfennies.live^
 @@||tinky.cc^
 @@||tinu.be^
-@@||tiny-check-20.life^
-@@||tiny-check-9.life^
-@@||tiny-check-9.live^
 @@||tiny-link.org^
 @@||tiny-url.me^
 @@||tiny.cc^
@@ -6766,9 +6699,6 @@
 @@||tiny123.com^
 @@||tinyarro.ws^
 @@||tinybit.cc^
-@@||tinycheck20.life^
-@@||tinycheck9.life^
-@@||tinycheck9.live^
 @@||tinyfy.me^
 @@||tinyl.ink^
 @@||tinyl.io^
@@ -6776,8 +6706,6 @@
 @@||tinylink.net^
 @@||tinylink.onl^
 @@||tinylinkurl.com^
-@@||tinyreview20.life^
-@@||tinyreview9.life^
 @@||tinyshorturl.com^
 @@||tinyst.com^
 @@||tinyuri.com^
@@ -6787,7 +6715,6 @@
 @@||tinyurl.mobi^
 @@||tinyurl.ph^
 @@||tinyurl.rocks^
-@@||tinyurl.software^
 @@||tinyurls.io^
 @@||tinyurlwebsite.com^
 @@||tinyurlz.co^
@@ -6798,7 +6725,6 @@
 @@||titaniumlinks.com^
 @@||titleagentmarketing.com^
 @@||tiurl.link^
-@@||tixxh.com^
 @@||tj-bet88.store^
 @@||tj.wtf^
 @@||tklinks.com^
@@ -6808,8 +6734,6 @@
 @@||tl.gd^
 @@||tl.tradetracker.net^
 @@||tldr.sk^
-@@||tlgs.info^
-@@||tlgs.life^
 @@||tlil.nl^
 @@||tlinky.com^
 @@||tllg.net^
@@ -6823,7 +6747,6 @@
 @@||tm.simptrack.com^
 @@||tm.tradetracker.net^
 @@||tmblr.co^
-@@||tmdv.top^
 @@||tmidao.com^
 @@||tmidaos.com^
 @@||tmsnrt.rs^
@@ -6832,7 +6755,6 @@
 @@||tn.txxx.tube^
 @@||tnij.org^
 @@||tnlnk.fr^
-@@||tnlxz.com^
 @@||tnne.ws^
 @@||tnot.es^
 @@||tnsne.ws^
@@ -6889,7 +6811,6 @@
 @@||tprurl.at^
 @@||tr.apsis.one^
 @@||tr.ee^
-@@||tr.im^
 @@||tr.line.me^
 @@||tr.link^
 @@||tr.rdrtr.com^
@@ -7032,8 +6953,6 @@
 @@||tvax2.sinaimg.cn^
 @@||tvax3.sinaimg.cn^
 @@||tvax4.sinaimg.cn^
-@@||tvonlineappitv.life^
-@@||tvonlineappitv.live^
 @@||tvote.org^
 @@||tvss.jp^
 @@||tvt.lat^
@@ -7070,7 +6989,6 @@
 @@||txxx.com^
 @@||ty.163.com^
 @@||ty.gy^
-@@||tylervisionary.live^
 @@||u-rl.li^
 @@||u.10010.cn^
 @@||u.163.com^
@@ -7089,10 +7007,8 @@
 @@||ual.fyi^
 @@||ub0.cc^
 @@||ubm.io^
-@@||ubmvs.top^
 @@||ubnt.link^
 @@||ubr.to^
-@@||uby.es^
 @@||ucal.us^
 @@||ucbexed.org^
 @@||ucblib.link^
