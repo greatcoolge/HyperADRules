@@ -2596,6 +2596,7 @@
 @@||hodroffs.com^
 @@||hoeg.it^
 @@||hoholah.xyz^
+@@||hoki108.shop^
 @@||hoki22crot.com^
 @@||hokidana.vip^
 @@||hokie.co^
@@ -3090,6 +3091,7 @@
 @@||krazy.la^
 @@||kro.kr^
 @@||krohne.link^
+@@||krpcgvm.wiki^
 @@||krpp.me^
 @@||krunchd.com^
 @@||ktbs.in^
@@ -5602,6 +5604,7 @@
 @@||s-url.fr^
 @@||s.163.com^
 @@||s.accupass.com^
+@@||s.bluecore.com^
 @@||s.bnpb.go.id^
 @@||s.bts-ev.de^
 @@||s.bw^
@@ -7014,8 +7017,6 @@
 @@||ucblib.link^
 @@||ucla.in^
 @@||uclck.me^
-@@||uct-tobacco.live^
-@@||udhbc.com^
 @@||ue.flipboard.com^
 @@||uepx.com^
 @@||ufai.app^
@@ -7027,8 +7028,6 @@
 @@||uhishado.com^
 @@||ui8.ru^
 @@||uich.cc^
-@@||uinw.site^
-@@||ujootchu.net^
 @@||uk-go.kelkoogroup.net^
 @@||ukf.me^
 @@||ukoeln.de^
@@ -7058,7 +7057,6 @@
 @@||unipapa.co^
 @@||unisdk.update.netease.com^
 @@||united-links.com^
-@@||unknown123.live^
 @@||unp.my.id^
 @@||unpkg.zhimg.com^
 @@||uns.apsis.one^
@@ -7068,14 +7066,12 @@
 @@||unsubscribe.prod.leanplum.com^
 @@||unsw.to^
 @@||untiny.me^
-@@||untpft.com^
 @@||uofr.us^
 @@||uoft.me^
 @@||uom.link^
 @@||uop.quark.cn^
 @@||uos.cc^
 @@||up.to^
-@@||update-info-saudi-a.live^
 @@||updateinfo.market.xiaomi.com^
 @@||updates-http.cdn-apple.com^
 @@||updates.cdn-apple.com^
@@ -7174,7 +7170,6 @@
 @@||urlner.com^
 @@||urlo.in^
 @@||urlot.com^
-@@||urlpire.com^
 @@||urlplus.link^
 @@||urlpoints.com^
 @@||urlq.com^
@@ -7227,7 +7222,6 @@
 @@||urwebs.it^
 @@||us-go.kelkoogroup.net^
 @@||us-serve.nrich.ai^
-@@||usalbackpacking.club^
 @@||usanet.tv^
 @@||usat.ly^
 @@||use.my^
@@ -7236,8 +7230,6 @@
 @@||useshort.com^
 @@||usf.services^
 @@||usheethe.com^
-@@||usm.ag^
-@@||usmfs.info^
 @@||usps-v2.com^
 @@||uspsexpress.org^
 @@||usreviewers.com^
@@ -7246,9 +7238,7 @@
 @@||utracky.com^
 @@||utraker.com^
 @@||uucc.cc^
-@@||uudta.com^
 @@||uurl.icu^
-@@||uurml.top^
 @@||uuz.cc^
 @@||uwat.ca^
 @@||ux5.de^
@@ -7278,7 +7268,6 @@
 @@||vats.im^
 @@||vaza.me^
 @@||vbly.us^
-@@||vcwvb.com^
 @@||vd0.market.xiaomi.com^
 @@||vd3.bdstatic.com^
 @@||vd55.com^
@@ -7301,11 +7290,9 @@
 @@||veshort.com^
 @@||vestil.org^
 @@||vfiles.gtimg.cn^
-@@||vfnzvr.com^
 @@||vfo.voyage-prive.co.uk^
 @@||vgn.me^
 @@||vgnx.co^
-@@||vhcae.com^
 @@||vi-tiktok.com^
 @@||vi.sa^
 @@||vi.tc^
@@ -7333,7 +7320,6 @@
 @@||vinmalamsuwdwdc.life^
 @@||vip-gacha99.info^
 @@||vip.superpopdrop.com^
-@@||vipgacor77.net^
 @@||viprupiah138.net^
 @@||vipshortener.com^
 @@||vipslot4d.site^
@@ -7345,7 +7331,6 @@
 @@||vjav0.ahcdn.com^
 @@||vk.cc^
 @@||vk.sv^
-@@||vkujd.com^
 @@||vl.am^
 @@||vla.lu^
 @@||vlink.cz^
@@ -7375,7 +7360,6 @@
 @@||vrnda.us^
 @@||vscode.download.prss.microsoft.com^
 @@||vshorturl.com^
-@@||vsucs.sbs^
 @@||vt802.us^
 @@||vtns.io^
 @@||vtred.co^
@@ -7394,7 +7378,6 @@
 @@||vypij.bar^
 @@||vz.to^
 @@||vzturl.com^
-@@||w-hun-n-9883-gh.info^
 @@||w.big-appli.fr^
 @@||w.idg.de^
 @@||w.wiki^
@@ -7417,7 +7400,6 @@
 @@||walkjc.org^
 @@||wallets.my^
 @@||wallpaperm.cmcm.com^
-@@||walpolevoterguide2024.com^
 @@||wannianrili.bmcx.com^
 @@||wap.zol.com.cn^
 @@||wapo.st^
@@ -7451,9 +7433,7 @@
 @@||weatherapi.market.xiaomi.com^
 @@||web99.eu^
 @@||webapps.mimikko.cn^
-@@||webbrian.live^
 @@||webcut.net^
-@@||webdigraziosi1.com^
 @@||webep1.com^
 @@||webfiles.gamebanana.com^
 @@||webflow.grsm.io^
@@ -7491,8 +7471,6 @@
 @@||whcs.law^
 @@||wheel.to^
 @@||whi.ch^
-@@||white-horse-dc-58.life^
-@@||white-maw.info^
 @@||white-plus.net^
 @@||whoel.se^
 @@||whois.cloud.tencent.com^
@@ -7529,14 +7507,9 @@
 @@||woah.top^
 @@||woflpackciye.com^
 @@||wolftravels.live^
-@@||wolg.top^
 @@||wonderl.ink^
 @@||wooo.tw^
-@@||wordmovies.live^
-@@||work24.life^
-@@||world-champions-us.life^
 @@||world.qpic.cn^
-@@||worldcinema.info^
 @@||wow.link^
 @@||wowurl.com^
 @@||wozencraft.boats^
@@ -7557,7 +7530,6 @@
 @@||ws.school.apple.com^
 @@||ws.tc^
 @@||wsdl.360safe.com^
-@@||wsdxfn.com^
 @@||wtc.la^
 @@||wts2.smhi.se^
 @@||wts3.smhi.se^
@@ -7565,7 +7537,6 @@
 @@||wu.vc^
 @@||wun.io^
 @@||wurlie.net^
-@@||wurlz.com^
 @@||wuxia.163.com^
 @@||ww7.fr^
 @@||wwdurl.com^
@@ -7717,7 +7688,6 @@
 @@||wxsnsdy.wxs.qq.com^
 @@||wy.si^
 @@||wyyw.de^
-@@||x-d.me^
 @@||x-i.me^
 @@||x.bestcheck.de^
 @@||x.co^
@@ -7732,15 +7702,11 @@
 @@||x2y.me^
 @@||x3.cx^
 @@||xaddr.com^
-@@||xajfl.com^
 @@||xb5.com^
-@@||xbhpd.com^
 @@||xbrch.com^
 @@||xbx.lv^
-@@||xdsnht.com^
 @@||xdu.me^
 @@||xerox.bz^
-@@||xezlk.sbs^
 @@||xfin.tv^
 @@||xfl.ag^
 @@||xfru.it^
@@ -7763,7 +7729,6 @@
 @@||xn--ms8h.st^
 @@||xn--ul-ksa.eu^
 @@||xoe.cz^
-@@||xojby.com^
 @@||xor.tw^
 @@||xortly.com^
 @@||xoxourl.com^
@@ -7790,7 +7755,6 @@
 @@||xurl.es^
 @@||xurl.jp^
 @@||xurls.net^
-@@||xvirt.it^
 @@||xyq.163.com^
 @@||xzb.cc^
 @@||y.ahoo.it^
@@ -7814,7 +7778,6 @@
 @@||yau.sh^
 @@||yayin.la^
 @@||yb.gd^
-@@||ybhd.info^
 @@||yc.ms^
 @@||ye.pe^
 @@||yeah.163.com^
@@ -7830,11 +7793,9 @@
 @@||yhoo.it^
 @@||yiii.de^
 @@||yji.tw^
-@@||yjmva.com^
 @@||ykm.de^
 @@||ylink.bid^
 @@||ym.163.com^
-@@||ymoizd.com^
 @@||yo.ma^
 @@||yoalizer.com^
 @@||yogh.me^
@@ -7863,7 +7824,6 @@
 @@||yun.duiba.com.cn^
 @@||yun.ir^
 @@||yweb.com^
-@@||ywum.top^
 @@||yx.si^
 @@||yxe3d.paulchavady.com^
 @@||yys.163.com^
@@ -7872,16 +7832,12 @@
 @@||z20.su^
 @@||z23.ru^
 @@||z9.fr^
-@@||za2.us^
 @@||zak.by^
-@@||zap-onlisd.live^
 @@||zap.buzz^
 @@||zaq.be^
 @@||zaya.io^
-@@||zbgtd.biz^
 @@||zbitly.com^
 @@||zc.vg^
-@@||zcays.com^
 @@||zctz.me^
 @@||zcu.io^
 @@||zd.net^
@@ -7894,7 +7850,6 @@
 @@||zeroshort.xyz^
 @@||zeurl.net^
 @@||zeus4d.mom^
-@@||zeusstore.live^
 @@||zez.kr^
 @@||zhidao.baidu.com^
 @@||zhipin.com^
@@ -7917,7 +7872,6 @@
 @@||zisoj.cyou^
 @@||ziturl.com^
 @@||ziyuan.guwendao.net^
-@@||zkmddn.com^
 @@||zkr.cz^
 @@||zkr.pw^
 @@||zkrat.me^
@@ -7953,7 +7907,6 @@
 @@||zshortner.com^
 @@||zsirkacsa.hu^
 @@||zsms.net^
-@@||zsote.com^
 @@||zti.me^
 @@||zuki.ie^
 @@||zuplo.link^
