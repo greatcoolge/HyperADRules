@@ -5228,6 +5228,7 @@ dmp.adform.net
 dmprd.com
 dmreg.co
 dms.ospserver.net
+dmvrenew.com
 dn.ospserver.net
 dn.se
 dn303.online
@@ -5544,6 +5545,7 @@ ebd.cda.pl
 ebgames.com.au
 ebill.sydneywater.com.au
 ebookstore.sony.com
+ebooktruyen.info
 ec-encrypted-hls-media.sndcdn.com
 ec-hls-media.sndcdn.com
 ec-hls-media.soundcloud.com
@@ -5972,6 +5974,7 @@ eyq.me
 ez1.cc
 ezbz.me
 ezc.vc
+ezclick.me
 ezexzo.link
 ezstat.ru
 eztv.ag
