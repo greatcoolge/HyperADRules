@@ -1026,6 +1026,7 @@ aftv.news
 agbr.ir
 agilean.in
 agileurbia.com
+agirz.com
 agmd.win
 agoz.me
 agphosting.com
@@ -2790,6 +2791,7 @@ bcedns.com
 bcedns.net
 bcee.lu
 bcene.ws
+bch.gg
 bchf.life
 bckr.club
 bcl.ink
@@ -3290,6 +3292,7 @@ btc.com
 btcc.com
 btco.link
 btf.st
+btly.cc
 btm.li
 btstatic.com
 btwrdn.com
@@ -3322,6 +3325,7 @@ bulletin.plus.google.com
 bundles.api.here.com
 bung.ie
 bunnings.com.au
+burl.me
 burner.bonanza.com
 burnurl.com
 buscape.com.br
@@ -3986,6 +3990,7 @@ checkout.soundcloud.com
 checkout.stripe.com
 checkout.vimeo.com
 checkshorturl.com
+chekc.life
 chem.sg
 chemistdirect.com.au
 cherry.flipboard.com
@@ -4345,6 +4350,7 @@ coinmama.com
 coinmarketcap.com
 coinmine.pl
 coinpr.info
+coinreal-us.com
 coinurl.com
 coki.me
 coklat.vip
@@ -6500,6 +6506,7 @@ funk.eu
 funnymp4.net
 funnyordie.com
 funurl.com
+fupi.co.tz
 fur.ly
 furl.in
 fustat.ospserver.net
@@ -17508,6 +17515,7 @@ vlab.pp.ru
 vlink.cz
 vloggi.com
 vm.gtimg.cn
+vm88.com.co
 vmat.gtimg.com
 vmp-beta.boldchat.com
 vmp-eu.boldchat.com
