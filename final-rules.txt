@@ -435,6 +435,8 @@
 @@||88link.me^
 @@||88nb.cc^
 @@||88win.link^
+@@||89bet69.cc^
+@@||89bet69.net^
 @@||89q.sk^
 @@||8ch.net^
 @@||8n.ink^
@@ -1829,6 +1831,7 @@
 @@||animerep.com^
 @@||animeseason.com^
 @@||anizam.ru^
+@@||annah.ar^
 @@||annas-archive.org^
 @@||anninhthudo.vn^
 @@||announce.xxx-tracker.com^
@@ -4961,6 +4964,7 @@
 @@||de.wikipedia.com^
 @@||dealc.me^
 @@||deals.breitbart.com^
+@@||dealsfindersgroup.com^
 @@||deb.li^
 @@||debian.org^
 @@||decat.de^
@@ -5992,6 +5996,7 @@
 @@||ezyurl.co^
 @@||f*.market.mi-img.com^
 @@||f*.market.xiaomi.com^
+@@||f-ast.me^
 @@||f-droid.org^
 @@||f-secure.com^
 @@||f.bmcx.com^
@@ -6036,6 +6041,7 @@
 @@||fal.cn^
 @@||fam.ag^
 @@||familydollar.com^
+@@||famu.cc^
 @@||fan.twitch.tv^
 @@||fanat.ua^
 @@||fanboy.co.nz^
@@ -6302,6 +6308,7 @@
 @@||fok.nl^
 @@||folu.me^
 @@||fon.gs^
+@@||font.ai^
 @@||fontawesome-cdn.fonticons.netdna-cdn.com^
 @@||fontawesome.com^
 @@||fonts-prod.adobe.com^
@@ -7669,6 +7676,7 @@
 @@||how.my^
 @@||howtoforge.com^
 @@||howtogeek.com^
+@@||hoy.kr^
 @@||hp.care^
 @@||hp.com^
 @@||hpe.to^
@@ -9263,6 +9271,7 @@
 @@||linkaku.pro^
 @@||linkapp.click^
 @@||linkasli.pro^
+@@||linkb.ee^
 @@||linkbear.me^
 @@||linkbio.co^
 @@||linkbirdy.com^
@@ -9310,6 +9319,7 @@
 @@||linkjust.com^
 @@||linklada.com^
 @@||linklyhq.com^
+@@||linkmonet.com^
 @@||linkmpomax.live^
 @@||linkn.co^
 @@||linko.page^
@@ -9503,6 +9513,7 @@
 @@||lnkiy.in^
 @@||lnks.ai^
 @@||lnks.es^
+@@||lnks.fr^
 @@||lnkshk.com^
 @@||lnkw.co^
 @@||lnky.jp^
@@ -9672,6 +9683,7 @@
 @@||lync.cc^
 @@||lynks.in^
 @@||lynkz.in^
+@@||lyt.me^
 @@||lz.com^
 @@||lzd.co^
 @@||lzd.page^
@@ -10110,6 +10122,7 @@
 @@||mask.icloud.com^
 @@||masklink.org^
 @@||massive.io^
+@@||masterpoing.vip^
 @@||masuk-id.info^
 @@||masuksini.my^
 @@||masy.uk^
@@ -10119,6 +10132,7 @@
 @@||matchurl.com^
 @@||mathmayr.com^
 @@||matlab.mathworks.com^
+@@||matmacakiem222.makeup^
 @@||matten1.life^
 @@||mattes.live^
 @@||matwo.fr^
@@ -10249,6 +10263,7 @@
 @@||mega.io^
 @@||mega.nz^
 @@||megagames.com^
+@@||megalink.pro^
 @@||megalink.vip^
 @@||meipian7.cn^
 @@||meitubeauty.meitudata.com^
@@ -10362,10 +10377,12 @@
 @@||mikale.me^
 @@||mikgr.si^
 @@||milink.pandora.xiaomi.com^
+@@||millerreception.com^
 @@||mimc.chat.xiaomi.net^
 @@||mime.baidu.com^
 @@||mimecast.com^
 @@||mimobile.esim.mihome.xiaomi.net^
+@@||min.bz^
 @@||minapp.com^
 @@||mine.nu^
 @@||minecraft.cryptopia.co.nz^
@@ -10464,6 +10481,7 @@
 @@||mkto-ab030019.com^
 @@||mkto-ab030084.com^
 @@||mkto-ab030222.com^
+@@||mkto-ab040018.com^
 @@||mkto-ab040115.com^
 @@||mkto-ab040147.com^
 @@||mkto-ab050179.com^
@@ -12527,9 +12545,11 @@
 @@||peak.fan^
 @@||pecl.php.net^
 @@||pecurgoa.com^
+@@||pedalhub.store^
 @@||pedr.com^
 @@||peek.link^
 @@||peeksoft.co^
+@@||peekstory.com^
 @@||peen.ca^
 @@||peercertification.wildalwhite.com^
 @@||pekcamke.link^
@@ -13655,6 +13675,7 @@
 @@||rewards.xbox.com^
 @@||rewardtk.com^
 @@||rexdl.com^
+@@||rfb97ghbb.cc.rs6.net^
 @@||rfbybmuab.cc.rs6.net^
 @@||rfgmzawab.cc.rs6.net^
 @@||rfgvnv6ab.cc.rs6.net^
@@ -14578,6 +14599,7 @@
 @@||short.ie^
 @@||short.io^
 @@||short.ms^
+@@||short.mypaste.fun^
 @@||short.pe^
 @@||short.php8developer.com^
 @@||short.pk^
@@ -16457,6 +16479,7 @@
 @@||topsubcvelens.life^
 @@||topt.al^
 @@||toptenreviews.com^
+@@||topurl.cc^
 @@||topurl.link^
 @@||toreedgefd.dsx.mp.microsoft.com^
 @@||torlock.com^

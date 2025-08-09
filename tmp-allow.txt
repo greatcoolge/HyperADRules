@@ -248,6 +248,8 @@
 @@||88link.me^
 @@||88nb.cc^
 @@||88win.link^
+@@||89bet69.cc^
+@@||89bet69.net^
 @@||89q.sk^
 @@||8n.ink^
 @@||8tm.net^
@@ -678,6 +680,7 @@
 @@||angl.at^
 @@||animerep.com^
 @@||anizam.ru^
+@@||annah.ar^
 @@||annas-archive.org^
 @@||anon.to^
 @@||anp.su^
@@ -1720,6 +1723,7 @@
 @@||ddyunbo.com^
 @@||de-go.kelkoogroup.net^
 @@||dealc.me^
+@@||dealsfindersgroup.com^
 @@||deb.li^
 @@||decat.de^
 @@||decenturl.com^
@@ -2061,6 +2065,7 @@
 @@||ezyurl.co^
 @@||f*.market.mi-img.com^
 @@||f*.market.xiaomi.com^
+@@||f-ast.me^
 @@||f.bmcx.com^
 @@||f.video.weibocdn.com^
 @@||f0rk.in^
@@ -2083,6 +2088,7 @@
 @@||fadurl.com^
 @@||fal.cn^
 @@||fam.ag^
+@@||famu.cc^
 @@||fandan.co^
 @@||fandom.link^
 @@||fandw.me^
@@ -2171,6 +2177,7 @@
 @@||foe.hn^
 @@||folu.me^
 @@||fon.gs^
+@@||font.ai^
 @@||fonts.googleapis.com^
 @@||fonts.gstatic.com^
 @@||foodtv.com^
@@ -2624,6 +2631,7 @@
 @@||hotsexymaids.com^
 @@||housga.me^
 @@||hover.com^
+@@||hoy.kr^
 @@||hp.care^
 @@||hpe.to^
 @@||hqstreams7.info^
@@ -3304,6 +3312,7 @@
 @@||linkaku.pro^
 @@||linkapp.click^
 @@||linkasli.pro^
+@@||linkb.ee^
 @@||linkbear.me^
 @@||linkbio.co^
 @@||linkbirdy.com^
@@ -3346,6 +3355,7 @@
 @@||linkjust.com^
 @@||linklada.com^
 @@||linklyhq.com^
+@@||linkmonet.com^
 @@||linkmpomax.live^
 @@||linkn.co^
 @@||linko.page^
@@ -3452,6 +3462,7 @@
 @@||lnkiy.in^
 @@||lnks.ai^
 @@||lnks.es^
+@@||lnks.fr^
 @@||lnkshk.com^
 @@||lnkw.co^
 @@||lnky.jp^
@@ -3525,6 +3536,7 @@
 @@||lync.cc^
 @@||lynks.in^
 @@||lynkz.in^
+@@||lyt.me^
 @@||lz.com^
 @@||lzd.co^
 @@||lzd.page^
@@ -3648,12 +3660,14 @@
 @@||mask-h2.icloud.com^
 @@||mask.icloud.com^
 @@||masklink.org^
+@@||masterpoing.vip^
 @@||masuk-id.info^
 @@||masuksini.my^
 @@||masy.uk^
 @@||mat1.gtimg.com^
 @@||matchurl.com^
 @@||mathmayr.com^
+@@||matmacakiem222.makeup^
 @@||matten1.life^
 @@||mattes.live^
 @@||matwo.fr^
@@ -3700,6 +3714,7 @@
 @@||medusa88.store^
 @@||meetu.ps^
 @@||mega.nz^
+@@||megalink.pro^
 @@||megalink.vip^
 @@||meliodaslonesita.live^
 @@||mely.me^
@@ -3743,6 +3758,8 @@
 @@||mii.pm^
 @@||mikale.me^
 @@||mikgr.si^
+@@||millerreception.com^
+@@||min.bz^
 @@||mineurl.top^
 @@||minggu.cfd^
 @@||miniapp.gtimg.cn^
@@ -3791,6 +3808,7 @@
 @@||mkto-ab030019.com^
 @@||mkto-ab030084.com^
 @@||mkto-ab030222.com^
+@@||mkto-ab040018.com^
 @@||mkto-ab040115.com^
 @@||mkto-ab040147.com^
 @@||mkto-ab050179.com^
@@ -5004,7 +5022,9 @@
 @@||peak-prosperity.com^
 @@||peak.fan^
 @@||pecurgoa.com^
+@@||pedalhub.store^
 @@||peek.link^
+@@||peekstory.com^
 @@||peen.ca^
 @@||peercertification.wildalwhite.com^
 @@||pekcamke.link^
@@ -5488,6 +5508,7 @@
 @@||revlk.com^
 @@||revr.ec^
 @@||rewardtk.com^
+@@||rfb97ghbb.cc.rs6.net^
 @@||rfbybmuab.cc.rs6.net^
 @@||rfgmzawab.cc.rs6.net^
 @@||rfgvnv6ab.cc.rs6.net^
@@ -5882,6 +5903,7 @@
 @@||short.icu^
 @@||short.io^
 @@||short.ms^
+@@||short.mypaste.fun^
 @@||short.pe^
 @@||short.php8developer.com^
 @@||short.pk^
@@ -6808,6 +6830,7 @@
 @@||topsitus.com^
 @@||topsubcvelens.life^
 @@||topt.al^
+@@||topurl.cc^
 @@||topurl.link^
 @@||tot.hoyoverse.com^
 @@||toui.cc^
