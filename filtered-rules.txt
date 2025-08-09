@@ -11808,6 +11808,7 @@ nolp.dhl.de
 nonstoppartner.net
 noodlemagazine.com
 nord.click
+nordlitt.fr
 nordvpn.com
 normandy.cdn.mozilla.net
 north-america.pool.ntp.org
@@ -12255,6 +12256,7 @@ otp.li
 ott.io.mi.com
 ottv.co
 oturl.com
+ou.gd
 oua.be
 ouedkniss.com
 ouo.io
@@ -12876,6 +12878,7 @@ potplayer.daum.net
 powerreviews.com
 powershellgallery.com
 powr.io
+pp.cr
 pp.myapp.com
 pp.ru
 pp.ua
@@ -12900,6 +12903,7 @@ prd.jwpltx.com
 prd.sca.samsung.com
 prdct.school
 prdl-download.adobe.com
+pre.la
 prel.ink
 prelive.cryptopia.co.nz
 premaster-app-cdn.spot.im
@@ -14037,6 +14041,7 @@ s3plus.meituan.net
 s3vip.tw
 s3w.net
 s4.exacttarget.com
+s4.is
 s4.qa1.exacttarget.com
 s4.symcb.com
 s4w.in
@@ -14388,6 +14393,7 @@ sendgrid.net
 sendinblue.hitbtc.com
 sendspace.com
 sendurl.me
+senin.lol
 sensasi777.love
 sentry.cloud.vimeo.com
 sentry.flipboard.com
@@ -14721,6 +14727,7 @@ shrink.pe
 shrinkearn.com
 shrinkforearn.in
 shrinkify.com
+shrinkin.xyz
 shrinkly.co
 shrinkme.in
 shrinkme.ink

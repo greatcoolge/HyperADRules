@@ -4740,6 +4740,7 @@
 @@||nonstoppartner.net^
 @@||noodlemagazine.com^
 @@||nord.click^
+@@||nordlitt.fr^
 @@||north-plus.net^
 @@||notlong.com^
 @@||nov.io^
@@ -4877,6 +4878,7 @@
 @@||otolink.pl^
 @@||otp.li^
 @@||ottv.co^
+@@||ou.gd^
 @@||oua.be^
 @@||ouo.io^
 @@||ouo.press^
@@ -5148,6 +5150,7 @@
 @@||postaffiliatepro.com^
 @@||posted.at^
 @@||postsign.docusign.com^
+@@||pp.cr^
 @@||pp.myapp.com^
 @@||pplx.ai^
 @@||ppq.apple.com^
@@ -5160,6 +5163,7 @@
 @@||pragmaticurl.com^
 @@||prbly.us^
 @@||prdct.school^
+@@||pre.la^
 @@||prel.ink^
 @@||premex.link^
 @@||preml.ge^
@@ -5716,6 +5720,7 @@
 @@||s3vip.tw^
 @@||s3w.net^
 @@||s4.exacttarget.com^
+@@||s4.is^
 @@||s4.qa1.exacttarget.com^
 @@||s4w.in^
 @@||s5.exacttarget.com^
@@ -5813,6 +5818,7 @@
 @@||sendgrid-secure.bluecore.com^
 @@||sendgrid.net^
 @@||sendurl.me^
+@@||senin.lol^
 @@||sensasi777.love^
 @@||seogilak.lol^
 @@||seq.vc^
@@ -6027,6 +6033,7 @@
 @@||shrinkearn.com^
 @@||shrinkforearn.in^
 @@||shrinkify.com^
+@@||shrinkin.xyz^
 @@||shrinkly.co^
 @@||shrinkme.in^
 @@||shrinkme.ink^
