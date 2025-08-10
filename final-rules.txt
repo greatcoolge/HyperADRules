@@ -1027,6 +1027,7 @@
 @@||affiliate.hitbtc.com^
 @@||affiliate.twitch.tv^
 @@||affiliatefuture.com^
+@@||aficlicktrack.xyz^
 @@||afly.in^
 @@||africa.pool.ntp.org^
 @@||aftonbladet.se^
@@ -1046,6 +1047,7 @@
 @@||ai-cdn.duba.net^
 @@||ai.blendnow.com^
 @@||ai.ly^
+@@||ai18.link^
 @@||ai6.net^
 @@||aicdn.com^
 @@||aider-res.meizu.com^
@@ -3261,6 +3263,7 @@
 @@||brightcove.com^
 @@||brightcove.map.fastly.net^
 @@||brightcove.net^
+@@||brightestbeginning.me^
 @@||brilink.me^
 @@||brisktopia.com^
 @@||briurl.com^
@@ -3855,6 +3858,7 @@
 @@||ce5.at^
 @@||cedexis.net^
 @@||cedexispub.cdnetworks.net^
+@@||ceittp.com^
 @@||celfam.us^
 @@||cell.office.naver.com^
 @@||ceneo.pl^
@@ -4725,6 +4729,7 @@
 @@||custody.coinbase.com^
 @@||custom.bnc.lt^
 @@||customerevents.netflix.com^
+@@||customers.my^
 @@||customlinks.appsflyer.com^
 @@||customtraffic.impactradius.com^
 @@||cut.by^
@@ -5804,6 +5809,7 @@
 @@||er.search.naver.com^
 @@||erath.email^
 @@||erax.cz^
+@@||erd.wtf^
 @@||erebor.douban.com^
 @@||ereg.adobe.com^
 @@||ereg.wip3.adobe.com^
@@ -6667,6 +6673,7 @@
 @@||gear.xbox.com^
 @@||gearbest.com^
 @@||gearsofwar.xbox.com^
+@@||geefi.me^
 @@||geetlink.com^
 @@||gef.me^
 @@||geg.li^
@@ -8490,6 +8497,7 @@
 @@||item.taobao.com^
 @@||iterasi.net^
 @@||iteye.com^
+@@||iti.bz^
 @@||itiny.in^
 @@||itiy.in^
 @@||itknowledgeexchange.techtarget.com^
@@ -8506,6 +8514,7 @@
 @@||its-4-u.com^
 @@||itsh.bo^
 @@||itsssl.com^
+@@||itty.be^
 @@||itunes.apple.com^
 @@||itunes.com^
 @@||itunesconnect.apple.com^
@@ -9518,6 +9527,7 @@
 @@||lnkw.co^
 @@||lnky.jp^
 @@||lnkz.at^
+@@||lnkzap.com^
 @@||lnnk.in^
 @@||lnv.gy^
 @@||lo.ge^
@@ -10182,6 +10192,7 @@
 @@||mdl29.net^
 @@||mdmblz.com^
 @@||mdmenrollment.apple.com^
+@@||mdsh.io^
 @@||mdt.qq.com^
 @@||me-en.kaspersky.com^
 @@||me-qr.com^
@@ -12065,6 +12076,7 @@
 @@||oge.la^
 @@||ogms.co^
 @@||ogs.google.com^
+@@||ogwa.me^
 @@||oh.pn^
 @@||ohw.tf^
 @@||oidc.techcrunch.com^
@@ -13031,6 +13043,7 @@
 @@||promotion.aliyun.com^
 @@||promotions.newegg.com^
 @@||promotions.soundcloud.com^
+@@||proof.click^
 @@||proofpoint.com^
 @@||proposal.talecraft.io^
 @@||propub.li^
@@ -13375,7 +13388,9 @@
 @@||ra7jt48ab.cc.rs6.net^
 @@||raceclip.com^
 @@||rackcdn.com^
+@@||radiances.beauty^
 @@||radikal.ru^
+@@||radioantennaweb.com^
 @@||radiostacja.pl^
 @@||radly.ir^
 @@||rads.stackoverflow.com^
@@ -13861,6 +13876,7 @@
 @@||ruten.com.tw^
 @@||rutube.ru^
 @@||ruuppwbab.cc.rs6.net^
+@@||ruvi.me^
 @@||rv2.com^
 @@||rvb5wz6ab.cc.rs6.net^
 @@||rvtv.io^
@@ -17968,6 +17984,7 @@
 @@||win.gs^
 @@||win10.ipv6.microsoft.com^
 @@||win1710.ipv6.microsoft.com^
+@@||win7.life^
 @@||win7dll.nirsoft.net^
 @@||win7dllnet.nirsoft.net^
 @@||windows.com^
@@ -18118,6 +18135,7 @@
 @@||wufoo.com^
 @@||wun.io^
 @@||wunderground.com^
+@@||wuniw.com^
 @@||wup.imtt.qq.com^
 @@||wurl.nl^
 @@||wurlie.net^
@@ -19914,6 +19932,7 @@
 @@||yys.163.com^
 @@||yyv.co^
 @@||yz2.xmss.micloud.mi.com^
+@@||z-der.xyz^
 @@||z-m.c10r.facebook.com^
 @@||z-m.facebook.com^
 @@||z-p4-graph.facebook.com^
