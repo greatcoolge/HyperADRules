@@ -261,6 +261,7 @@
 2wo.ir
 2wsb.tv
 2ww.me
+2x0.net
 2x1.io
 2xo.net
 2ya.com
@@ -2347,6 +2348,7 @@ appnee.com
 apps-dn2.ospserver.net
 apps-marketplace.apple.com
 apps.apple.com
+apps.coloros.com
 apps.daum.net
 apps.entrance.sonymobile.com
 apps.facebook.com
@@ -2543,6 +2545,7 @@ atm.tk
 atmilb.com
 atmlb.com
 ato.gov.au
+atqiv.org
 atres.red
 att.com
 att.ovh
@@ -3178,6 +3181,8 @@ bom.to
 bomis.snap.com
 bonai.re
 bonap.it
+bonsaifreespins.com
+bonsaiyamasignup.com
 bonustips.club
 boofola.link
 book.daum.net
@@ -5913,6 +5918,7 @@ events.kaspersky.com
 events.mapbox.com
 events.recode.net
 events.release.narrativ.com
+everee.link
 everest.castbox.fm
 evergage.com
 evernote.com
@@ -6225,6 +6231,7 @@ filetransfer.coinbase.com
 fili.cc
 fili.tv
 filmweb.pl
+filmygallery1.my
 filmyhd.net
 filson.com
 filterlists.com
@@ -6833,6 +6840,7 @@ gl.gravatar.com
 gl.statcounter.com
 glass.twitch.tv
 glb.paypal.com
+glb.pw
 glbe.co
 glblctzn.co
 glblctzn.me
@@ -7535,6 +7543,7 @@ heytapimage.com
 heyue.xiaomi.com
 heyyyl.ink
 hf.co
+hgcj.org
 hgs.xyz
 hhbw.io
 hhs.gov
@@ -8260,6 +8269,7 @@ index.kaspersky.com
 indiamart.com
 indiatimes.com
 indiegogo.com
+inds.me
 indvix.com
 indy.st
 indystar.com
@@ -8551,6 +8561,7 @@ jabcreations.com
 jacepayment.airasia.com
 jacesantiago.space
 jackjones.com
+jaecoomy.com
 jaga.link
 jaglil.com
 jagoan-hosting.online
@@ -9278,6 +9289,7 @@ linkb.ee
 linkbear.me
 linkbio.co
 linkbirdy.com
+linkbiscuit.co
 linkbitty.com
 linkbucks.com
 linkbun.ch
@@ -9327,6 +9339,7 @@ linkmpomax.live
 linkn.co
 linko.page
 linkoo.ru
+linkoon.com
 linkopener.co
 linkotw.live
 linkpays.in
@@ -9373,6 +9386,7 @@ linksubmit.net
 linksy.io
 linksynergy.com
 linktexas.info
+linktgd.com
 linkthis.link
 linktop.site
 linktr.ee
@@ -10275,6 +10289,7 @@ meitubeauty.meitudata.com
 meizu.com
 mel1.speedtest.telstra.net
 meliodaslonesita.live
+melissahotdeals.com
 mely.me
 mem.gfx.ms
 member.bilibili.com
@@ -11459,6 +11474,7 @@ myanlink.com
 myaz.tech
 mybanktracker.com
 mybbc.files.bbci.co.uk
+mybiz.ws
 mybmw.tw
 mybranded.link
 mybrowserbar-com.samsung.com.nas
@@ -12146,6 +12162,7 @@ onion.com
 online.adservicemedia.dk
 online.digital-advisor.com
 onlinevideoconverter.com
+onlyads.space
 onlyfansclub.live
 onmpeg.com
 onon.in
@@ -12534,6 +12551,7 @@ pcgames-download.com
 pchome.link
 pci.spotify.com
 pck.tv
+pclosdebian.org
 pcmag.com
 pcsuite.mi.com
 pcwelt.de
@@ -13771,6 +13789,7 @@ robul.saas.workertm.com
 rochester.edu
 rockstargames.com
 roclcdfab.cc.rs6.net
+roderurl.info
 rog.gg
 roge.rs
 rogers.com
@@ -16435,6 +16454,7 @@ tn.txxx.tube
 tn.wikipedia.com
 tnc3-alisc1.bytedance.com
 tnij.org
+tnij.uk
 tnl-dash.com.edgesuite.net
 tnlnk.fr
 tnne.ws
@@ -17403,6 +17423,7 @@ vaultmedia.ign.com
 vaza.me
 vbly.us
 vc.ru
+vciya.com
 vcrypt.net
 vcs.snssdk.com
 vd0.market.xiaomi.com
@@ -17460,6 +17481,7 @@ viafoura.net
 viahold.com
 viaja.am
 viarnd.112.2o7.net
+vibegaming.online
 viberout-calls.staging.viber.com
 viberout-lp.viber.com
 vibes.viber.com
@@ -17695,6 +17717,7 @@ w3m.huawei.com
 w3n.us
 w3schools.com
 w3t.org
+w411.co
 w5n.co
 w8.com.cn
 w88.espn.com
@@ -17875,6 +17898,7 @@ wec.li
 wechat.com
 wed.li
 wedding.rakuten.co.jp
+wee.bz
 wee.wtf
 weebly.com
 weeklyad.target.com
@@ -19661,6 +19685,7 @@ wx3.sinaimg.cn
 wx4.sinaimg.cn
 wxapp.lvyadx.cn
 wxaurl.cn
+wximg.wxs.qq.com
 wxmini-api.uyouqu.com
 wxsnsdy.wxs.qq.com
 wy.si
@@ -19711,6 +19736,7 @@ xda-developers.com
 xdatools.xda-developers.com
 xdjiraintegration.adobe.com
 xdu.me
+xemoday.com
 xerox.bz
 xfce.org
 xfin.tv

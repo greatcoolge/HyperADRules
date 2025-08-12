@@ -134,6 +134,7 @@
 @@||2wo.ir^
 @@||2wsb.tv^
 @@||2ww.me^
+@@||2x0.net^
 @@||2x1.io^
 @@||2xo.net^
 @@||2ya.com^
@@ -863,6 +864,7 @@
 @@||atm.tk^
 @@||atmilb.com^
 @@||atmlb.com^
+@@||atqiv.org^
 @@||atres.red^
 @@||att.ovh^
 @@||atu.ca^
@@ -1103,6 +1105,8 @@
 @@||bom.to^
 @@||bonai.re^
 @@||bonap.it^
+@@||bonsaifreespins.com^
+@@||bonsaiyamasignup.com^
 @@||bonustips.club^
 @@||boofola.link^
 @@||book.qidian.com^
@@ -2044,6 +2048,7 @@
 @@||ev-h.phncdn.com^
 @@||eva.us^
 @@||events.release.narrativ.com^
+@@||everee.link^
 @@||everri.ch^
 @@||evx.ca^
 @@||evyy.net^
@@ -2146,6 +2151,7 @@
 @@||file.40017.cn^
 @@||file.neixin.cn^
 @@||file2.speedtest.cn^
+@@||filmygallery1.my^
 @@||filz.fr^
 @@||find-url.co^
 @@||find.api.micloud.xiaomi.net^
@@ -2350,6 +2356,7 @@
 @@||gjusp.alicdn.com^
 @@||gkurl.us^
 @@||gl.am^
+@@||glb.pw^
 @@||glbe.co^
 @@||glblctzn.co^
 @@||glblctzn.me^
@@ -2584,6 +2591,7 @@
 @@||heylink.me^
 @@||heyyyl.ink^
 @@||hf.co^
+@@||hgcj.org^
 @@||hgs.xyz^
 @@||hhbw.io^
 @@||hi.kktv.to^
@@ -2836,6 +2844,7 @@
 @@||indahnyaberbagi.lol^
 @@||indahnyaberbagi.shop^
 @@||indeedhi.re^
+@@||inds.me^
 @@||indvix.com^
 @@||indy.st^
 @@||inews.gtimg.com^
@@ -2945,6 +2954,7 @@
 @@||ja.cat^
 @@||ja.ma^
 @@||jacesantiago.space^
+@@||jaecoomy.com^
 @@||jaga.link^
 @@||jaglil.com^
 @@||jagoan-hosting.online^
@@ -3325,6 +3335,7 @@
 @@||linkbear.me^
 @@||linkbio.co^
 @@||linkbirdy.com^
+@@||linkbiscuit.co^
 @@||linkbitty.com^
 @@||linkbun.ch^
 @@||linkbun.com^
@@ -3369,6 +3380,7 @@
 @@||linkn.co^
 @@||linko.page^
 @@||linkoo.ru^
+@@||linkoon.com^
 @@||linkopener.co^
 @@||linkotw.live^
 @@||linkpays.in^
@@ -3407,6 +3419,7 @@
 @@||linksubmit.net^
 @@||linksy.io^
 @@||linktexas.info^
+@@||linktgd.com^
 @@||linkthis.link^
 @@||linktop.site^
 @@||linktr.ee^
@@ -3728,6 +3741,7 @@
 @@||megalink.pro^
 @@||megalink.vip^
 @@||meliodaslonesita.live^
+@@||melissahotdeals.com^
 @@||mely.me^
 @@||member.bilibili.com^
 @@||member.jiaoyimao.com^
@@ -4607,6 +4621,7 @@
 @@||my.mtr.cool^
 @@||myanlink.com^
 @@||myaz.tech^
+@@||mybiz.ws^
 @@||mybmw.tw^
 @@||mybranded.link^
 @@||mycts.app^
@@ -4856,6 +4871,7 @@
 @@||onion.com^
 @@||online.adservicemedia.dk^
 @@||online.digital-advisor.com^
+@@||onlyads.space^
 @@||onlyfansclub.live^
 @@||onon.in^
 @@||onx.la^
@@ -5028,6 +5044,7 @@
 @@||pc.xunlei.com^
 @@||pchome.link^
 @@||pck.tv^
+@@||pclosdebian.org^
 @@||pd.am^
 @@||pdh.co^
 @@||pdora.co^
@@ -5583,6 +5600,7 @@
 @@||ro.blox.com^
 @@||robul.saas.workertm.com^
 @@||roclcdfab.cc.rs6.net^
+@@||roderurl.info^
 @@||rog.gg^
 @@||roge.rs^
 @@||roids.top^
@@ -6819,6 +6837,7 @@
 @@||tmz.me^
 @@||tn.txxx.tube^
 @@||tnij.org^
+@@||tnij.uk^
 @@||tnlnk.fr^
 @@||tnne.ws^
 @@||tnot.es^
@@ -7336,6 +7355,7 @@
 @@||vats.im^
 @@||vaza.me^
 @@||vbly.us^
+@@||vciya.com^
 @@||vd0.market.xiaomi.com^
 @@||vd3.bdstatic.com^
 @@||vd55.com^
@@ -7368,6 +7388,7 @@
 @@||viaalto.me^
 @@||viahold.com^
 @@||viaja.am^
+@@||vibegaming.online^
 @@||vid.lu^
 @@||video.goofish.com^
 @@||video.kts.g.mi.com^
@@ -7454,6 +7475,7 @@
 @@||w3dv.com^
 @@||w3n.us^
 @@||w3t.org^
+@@||w411.co^
 @@||w5n.co^
 @@||wa.gl^
 @@||wa.link^
@@ -7522,6 +7544,7 @@
 @@||webz.cc^
 @@||wec.li^
 @@||wed.li^
+@@||wee.bz^
 @@||wee.wtf^
 @@||weelink.io^
 @@||wef.ch^
@@ -7778,6 +7801,7 @@
 @@||xbrch.com^
 @@||xbx.lv^
 @@||xdu.me^
+@@||xemoday.com^
 @@||xerox.bz^
 @@||xfin.tv^
 @@||xfl.ag^
