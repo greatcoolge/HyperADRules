@@ -5797,6 +5797,7 @@
 @@||sbird.co^
 @@||sbms.biz^
 @@||sbotangandewa.com^
+@@||sbps.ms^
 @@||sbsb.kr^
 @@||sbux.co^
 @@||sbux.jp^
@@ -5957,6 +5958,7 @@
 @@||shortclick.com^
 @@||shortcm.li^
 @@||shortcut.ac^
+@@||shorte.pro^
 @@||shorte.st^
 @@||shorten-url.com^
 @@||shorten.asia^
@@ -6682,6 +6684,8 @@
 @@||teil.cc^
 @@||tek.io^
 @@||tel-u.ac.id^
+@@||telegramviral.com^
+@@||telegramviral.online^
 @@||teleko.me^
 @@||tellurl.com^
 @@||telnet-service.net^
@@ -7405,6 +7409,7 @@
 @@||view.helpline-app.com^
 @@||vig.fit^
 @@||vigilink.com^
+@@||vindicoce.com^
 @@||vineland.dj^
 @@||vinmalamsuwdwdc.life^
 @@||vip-gacha99.info^

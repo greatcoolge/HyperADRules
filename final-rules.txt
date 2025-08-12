@@ -14195,6 +14195,7 @@
 @@||sblinks.com^
 @@||sbms.biz^
 @@||sbotangandewa.com^
+@@||sbps.ms^
 @@||sbs.com.au^
 @@||sbsb.kr^
 @@||sbsvodns-vh.akamaihd.net^
@@ -14654,6 +14655,7 @@
 @@||shortclick.com^
 @@||shortcm.li^
 @@||shortcut.ac^
+@@||shorte.pro^
 @@||shorte.st^
 @@||shorten-url.com^
 @@||shorten.asia^
@@ -16186,6 +16188,8 @@
 @@||telegra.ph^
 @@||telegram.me^
 @@||telegram.org^
+@@||telegramviral.com^
+@@||telegramviral.online^
 @@||telegraph.co.uk^
 @@||teleko.me^
 @@||telemetry-incoming.r53-2.services.mozilla.com^
@@ -17557,6 +17561,7 @@
 @@||vigilink.com^
 @@||viglink.com^
 @@||vimeo.com^
+@@||vindicoce.com^
 @@||vine.co^
 @@||vineland.dj^
 @@||vinmalamsuwdwdc.life^
