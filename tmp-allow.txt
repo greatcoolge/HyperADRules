@@ -6031,6 +6031,7 @@
 @@||shortie.io^
 @@||shortify.pro^
 @@||shortifyme.com^
+@@||shortin.asia^
 @@||shortin.id^
 @@||shortin.in^
 @@||shortio.sk^
@@ -7001,6 +7002,7 @@
 @@||tracking.bol.com^
 @@||tracking.cashkaro.com^
 @@||tracking.ftmo.com^
+@@||tracking.mailerswift.app^
 @@||tracking.publicidees.com^
 @@||tracking.s24.com^
 @@||tracking.socketlabs.com^

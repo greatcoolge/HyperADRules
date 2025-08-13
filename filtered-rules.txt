@@ -14722,6 +14722,7 @@ shorti.me
 shortie.io
 shortify.pro
 shortifyme.com
+shortin.asia
 shortin.id
 shortin.in
 shortio.sk
@@ -16686,6 +16687,7 @@ tracking.feedpress.it
 tracking.ftmo.com
 tracking.groupon.com
 tracking.i2w.io
+tracking.mailerswift.app
 tracking.nw.de
 tracking.publicidees.com
 tracking.s24.com
