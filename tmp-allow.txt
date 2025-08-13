@@ -783,6 +783,7 @@
 @@||app.philz.us^
 @@||app.sephora.com^
 @@||app.tr.adjust.com^
+@@||app.univ-cotedazur.fr^
 @@||app.us.adjust.com^
 @@||app.zhuanzhuan.com^
 @@||app2.salesmanago.pl^
@@ -1686,6 +1687,7 @@
 @@||d.sinaimg.cn^
 @@||d.to^
 @@||d.toutiao.com^
+@@||d.tuor.us^
 @@||d.yzh.li^
 @@||d138.link^
 @@||d1ayxb9ooonjts.cloudfront.net^
@@ -1798,6 +1800,7 @@
 @@||dl.delivery.mp.microsoft.com^
 @@||dl.gl^
 @@||dl.hdslb.com^
+@@||dl.hitxgh.com^
 @@||dl.reg.163.com^
 @@||dld.bz^
 @@||dldir1.qq.com^
@@ -2011,6 +2014,7 @@
 @@||engage.xbox.com^
 @@||engagements.appsflyer.com^
 @@||engt.co^
+@@||enlaces.entrelasgestiones.com^
 @@||enshom.link^
 @@||entm.ag^
 @@||envs.sh^
@@ -2176,6 +2180,7 @@
 @@||flq.us^
 @@||flrt.me^
 @@||fltr.ai^
+@@||flubber.pro^
 @@||flx.to^
 @@||fly.yt^
 @@||fly2.ws^
@@ -2381,6 +2386,7 @@
 @@||go.appsscript.info^
 @@||go.aws^
 @@||go.bath.ac.uk^
+@@||go.bigdomain.my^
 @@||go.blokada.org^
 @@||go.btwrdn.co^
 @@||go.cwtv.com^
@@ -2396,12 +2402,14 @@
 @@||go.id.me^
 @@||go.intel-academy.com^
 @@||go.intigriti.com^
+@@||go.itanea.fr^
 @@||go.jc.fm^
 @@||go.koloua.com^
 @@||go.lamotte.fr^
 @@||go.link^
 @@||go.linkwi.se^
 @@||go.lsb.nrw^
+@@||go.ltdo.org^
 @@||go.lu-h.de^
 @@||go.microsoft.com^
 @@||go.nasa.gov^
@@ -2418,6 +2426,7 @@
 @@||go.rebel.pl^
 @@||go.redirectingat.com^
 @@||go.sainnhe.dev^
+@@||go.sajogolaw.com^
 @@||go.shell.com^
 @@||go.shr.lc^
 @@||go.skimresources.com^
@@ -2425,7 +2434,9 @@
 @@||go.tinder.com^
 @@||go.usa.gov^
 @@||go.ustwo.games^
+@@||go.uumeriden.org^
 @@||go.uv.es^
+@@||go.vhost.vn^
 @@||go.vic.gov.au^
 @@||go.weplayholding.com^
 @@||go.westco.mobi^
@@ -2439,6 +2450,7 @@
 @@||go2u.cc^
 @@||go777.net^
 @@||goads.id^
+@@||goclck.me^
 @@||gocps.net^
 @@||godrk.de^
 @@||gofund.me^
@@ -2579,6 +2591,7 @@
 @@||help-on.com^
 @@||help.twitter.com^
 @@||help.x.com^
+@@||henslot.urlklik.com^
 @@||hentaihand.com^
 @@||heoiberico.life^
 @@||heotoc.life^
@@ -2710,6 +2723,7 @@
 @@||i.mi.com^
 @@||i.mtr.cool^
 @@||i.pximg.net^
+@@||i.saychik.com^
 @@||i.sso.sina.com.cn^
 @@||i0.hdslb.com^
 @@||i1.hdslb.com^
@@ -2852,6 +2866,7 @@
 @@||inf.so^
 @@||infy.com^
 @@||inicio.link^
+@@||ink.vibez.band^
 @@||ink1001.com^
 @@||inlnk.ru^
 @@||inmusic.to^
@@ -3242,6 +3257,7 @@
 @@||libero.it^
 @@||lick.my^
 @@||lien.li^
+@@||lien.paribal.fr^
 @@||lienket.vn^
 @@||lifeandtime.charity^
 @@||lifemakeovermysg.archosaur.com^
@@ -3302,7 +3318,9 @@
 @@||link.cc^
 @@||link.dana.id^
 @@||link.devit.group^
+@@||link.digipull.in^
 @@||link.digitaladvisor.dk^
+@@||link.dstrct.at^
 @@||link.freshmail.mx^
 @@||link.goglogo.com^
 @@||link.gy^
@@ -3310,12 +3328,17 @@
 @@||link.io.hubs.vn^
 @@||link.mtvrs.it^
 @@||link.phsz.ch^
+@@||link.plutonflix.stream^
+@@||link.repithwin.com^
+@@||link.sekitarkita.id^
 @@||link.sekuritance.com^
 @@||link.so^
 @@||link.springer.com^
 @@||link.swa.info^
 @@||link.sylikes.com^
+@@||link.tomalvarez.com^
 @@||link.tubi.tv^
+@@||link.u-pov.ru^
 @@||link.untirta.ac.id^
 @@||link.us.paramountplus.com^
 @@||link.zhihu.com^
@@ -3401,6 +3424,7 @@
 @@||links.mkt71.net^
 @@||links.mkt81.net^
 @@||links.rasa.io^
+@@||links.rbsoft.org^
 @@||links.uv.es^
 @@||links2.me^
 @@||links4money.com^
@@ -3452,6 +3476,7 @@
 @@||livephoto.us.sinaimg.cn^
 @@||livesport88.life^
 @@||livestre.am^
+@@||lk.macmarketing.us^
 @@||lkdg.yoga^
 @@||lkdin.io^
 @@||lkgw.cc^
@@ -3500,6 +3525,7 @@
 @@||log.snssdk.com^
 @@||login.live.com^
 @@||login.m.taobao.com^
+@@||login.maraset.site^
 @@||login.microsoftonline.com^
 @@||login.sina.com.cn^
 @@||login.taobao.com^
@@ -4632,6 +4658,7 @@
 @@||myfreesex.life^
 @@||myglamm.in^
 @@||myikoniq.info^
+@@||mylink.ai.in^
 @@||mylinkinb.io^
 @@||mylinks.net.br^
 @@||mylinks.top^
@@ -4715,6 +4742,7 @@
 @@||newhotlink.com^
 @@||news.163.com^
 @@||news.17173.com^
+@@||news.ltdo.org^
 @@||news.qq.com^
 @@||news.sina.com.cn^
 @@||newsletter.urcelia.com^
@@ -5312,6 +5340,7 @@
 @@||qr-codes.io^
 @@||qr-in.com^
 @@||qr.ae^
+@@||qr.attps.fr^
 @@||qr.codes^
 @@||qr.digi.tips^
 @@||qr.net^
@@ -5356,11 +5385,13 @@
 @@||r-txt.org^
 @@||r.akipam.com^
 @@||r.audible.de^
+@@||r.babscon.com^
 @@||r.bioinfweb.info^
 @@||r.jakuli.com^
 @@||r.jod.gg^
 @@||r.lafamo.com^
 @@||r.linksprf.com^
+@@||r.lp2.me^
 @@||r.niwepa.com^
 @@||r.powuta.com^
 @@||r.srvtrck.com^
@@ -5696,6 +5727,7 @@
 @@||s.mj.run^
 @@||s.mzstatic.com^
 @@||s.pximg.net^
+@@||s.reinhart1010.id^
 @@||s.sebald.com^
 @@||s.sick.com^
 @@||s.skip.bh^
@@ -5704,6 +5736,7 @@
 @@||s.ul.com^
 @@||s.uniqlo.com^
 @@||s.wikicharlie.cl^
+@@||s.wiz.or.id^
 @@||s.yam.com^
 @@||s.zazuko.com^
 @@||s0.2mdn.net^
@@ -5890,6 +5923,7 @@
 @@||sgq.io^
 @@||sgrtldm.com^
 @@||sh-ort.app^
+@@||sh.oo.gd^
 @@||sh.sg^
 @@||sh.st^
 @@||sh7.ch^
@@ -5943,12 +5977,15 @@
 @@||short.gy^
 @@||short.icu^
 @@||short.io^
+@@||short.lokuads.com^
 @@||short.ms^
 @@||short.mypaste.fun^
+@@||short.organicweb.top^
 @@||short.pe^
 @@||short.php8developer.com^
 @@||short.pk^
 @@||short.profi.lv^
+@@||short.sashem.com^
 @@||short.silex.me^
 @@||short.swurl.xyz^
 @@||short.to^
@@ -6649,10 +6686,12 @@
 @@||tags.adsafety.net^
 @@||tags.news.com.au^
 @@||tagtic.cn^
+@@||tahuplay.urlklik.com^
 @@||taiwangov.com^
 @@||tamar.is^
 @@||tanks.ly^
 @@||tao.mba^
+@@||tap.urlklik.com^
 @@||tapfiliate.com^
 @@||taplink.cc^
 @@||tapz.in^
@@ -6858,6 +6897,7 @@
 @@||tnyurl.one^
 @@||to.lk^
 @@||to.ly^
+@@||to.nconnect.asia^
 @@||to.pbs.org^
 @@||to8.cc^
 @@||togoto.us^
@@ -7051,6 +7091,7 @@
 @@||twb.nz^
 @@||tweetable.link^
 @@||tweetburner.com^
+@@||twg.urlklik.com^
 @@||twi.im^
 @@||twirl.at^
 @@||twirl.otee.dev^
@@ -7200,9 +7241,12 @@
 @@||url.gratis^
 @@||url.ie^
 @@||url.lcisd.net^
+@@||url.lumeapresei.ro^
 @@||url.lv^
 @@||url.mn^
+@@||url.nimsindia.org^
 @@||url.prepo.io^
+@@||url.procreatebrushes.app^
 @@||url.rw^
 @@||url.sae.digital^
 @@||url.sg^
@@ -7270,6 +7314,7 @@
 @@||urls.fr^
 @@||urls.kr^
 @@||urlsh.net^
+@@||urlshort.allcrom.com.br^
 @@||urlshort.click^
 @@||urlshort.dev^
 @@||urlshort.host^
@@ -7446,6 +7491,7 @@
 @@||volamtruyenky.life^
 @@||volvocars.us^
 @@||vonq.io^
+@@||vote.ltdo.org^
 @@||vov.li^
 @@||vp-link.com^
 @@||vpn2.win^
@@ -7911,6 +7957,7 @@
 @@||youris.pro^
 @@||yourl.ir^
 @@||yourls.info^
+@@||yourls.irex.aretex.ca^
 @@||yourls.org^
 @@||yourmovie.co^
 @@||yourwish.es^

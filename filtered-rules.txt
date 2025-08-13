@@ -2301,6 +2301,7 @@ app.stumbleupon.com
 app.syndicaster.tv
 app.tr.adjust.com
 app.twitch.tv
+app.univ-cotedazur.fr
 app.us.adjust.com
 app.vsaex.visualstudio.com
 app.wechat.com
@@ -4810,6 +4811,7 @@ d.pr
 d.sinaimg.cn
 d.to
 d.toutiao.com
+d.tuor.us
 d.xiaomi.com
 d.yimg.com
 d.yzh.li
@@ -5206,6 +5208,7 @@ dl.free.fr
 dl.gl
 dl.google.com
 dl.hdslb.com
+dl.hitxgh.com
 dl.humble.com
 dl.notepad-plus-plus.org
 dl.opensubtitles.org
@@ -5773,6 +5776,7 @@ engineering.flipboard.com
 engineering.taboola.com
 engineering.twitch.tv
 engt.co
+enlaces.entrelasgestiones.com
 enpass.io
 enshom.link
 enter.dcinside.com
@@ -6296,6 +6300,7 @@ fls-eu.amazon.com
 fls-eu.amazon.de
 fls-na.amazon.com
 fltr.ai
+flubber.pro
 fluffy-blocklist.skcat.tk
 flx.to
 fly.yt
@@ -6899,6 +6904,7 @@ go.admost.com
 go.appsscript.info
 go.aws
 go.bath.ac.uk
+go.bigdomain.my
 go.binance.com
 go.blokada.org
 go.btwrdn.co
@@ -6923,6 +6929,7 @@ go.ign.com
 go.infoblox.com
 go.intel-academy.com
 go.intigriti.com
+go.itanea.fr
 go.jc.fm
 go.koloua.com
 go.lamotte.fr
@@ -6930,6 +6937,7 @@ go.leanplum.com
 go.link
 go.linkwi.se
 go.lsb.nrw
+go.ltdo.org
 go.lu-h.de
 go.microsoft.com
 go.nasa.gov
@@ -6947,6 +6955,7 @@ go.rakuten.com
 go.rebel.pl
 go.redirectingat.com
 go.sainnhe.dev
+go.sajogolaw.com
 go.shell.com
 go.shr.lc
 go.skimresources.com
@@ -6961,7 +6970,9 @@ go.trouter.skype.com
 go.twitch.tv
 go.usa.gov
 go.ustwo.games
+go.uumeriden.org
 go.uv.es
+go.vhost.vn
 go.vic.gov.au
 go.wechat.com
 go.weplayholding.com
@@ -6978,6 +6989,7 @@ go777.net
 goads.id
 goatcounter.com
 gob.pe
+goclck.me
 gocps.net
 godaddy.com
 godofwar.playstation.com
@@ -7524,6 +7536,7 @@ helpme.viber.com
 helpscout.net
 helpx.adobe.com
 henrys.com
+henslot.urlklik.com
 hentaihand.com
 hentaihaven.org
 heoiberico.life
@@ -7822,6 +7835,7 @@ i.pximg.net
 i.redd.it
 i.reddit.com
 i.s-microsoft.com
+i.saychik.com
 i.scdn.co
 i.snap.com
 i.sso.sina.com.cn
@@ -8298,6 +8312,7 @@ ingest.twitch.tv
 ingress.com
 inicio.link
 init.spot.im
+ink.vibez.band
 ink1001.com
 inkbee.com
 inkpeak.com
@@ -9166,6 +9181,7 @@ licensing.xboxlive.com
 lick.my
 lids.com
 lien.li
+lien.paribal.fr
 lienket.vn
 life.wechat.com
 lifeandtime.charity
@@ -9247,7 +9263,9 @@ link.cc
 link.dailycaller.com
 link.dana.id
 link.devit.group
+link.digipull.in
 link.digitaladvisor.dk
+link.dstrct.at
 link.freshmail.mx
 link.goglogo.com
 link.gy
@@ -9258,7 +9276,10 @@ link.mtvrs.it
 link.nayemador.com
 link.p0.com
 link.phsz.ch
+link.plutonflix.stream
+link.repithwin.com
 link.safelinkconverter.com
+link.sekitarkita.id
 link.sekuritance.com
 link.so
 link.springer.com
@@ -9267,8 +9288,10 @@ link.sylikes.com
 link.techcrunch.com
 link.theplatform.com
 link.tl
+link.tomalvarez.com
 link.tubi.tv
 link.twitch.tv
+link.u-pov.ru
 link.untirta.ac.id
 link.us.paramountplus.com
 link.xperialounge.sonymobile.com
@@ -9365,6 +9388,7 @@ links.mkt71.net
 links.mkt81.net
 links.notifications.soundcloud.com
 links.rasa.io
+links.rbsoft.org
 links.uv.es
 links2.me
 links4money.com
@@ -9491,6 +9515,7 @@ livetile.hulu.com
 liveupdate.mac.sandai.net
 livewebbs2.msstatic.com
 lix.in
+lk.macmarketing.us
 lkdg.yoga
 lkdin.io
 lkgw.cc
@@ -9575,6 +9600,7 @@ login.game.xiaomi.com
 login.hulu.com
 login.live.com
 login.m.taobao.com
+login.maraset.site
 login.marketing.adobe.com
 login.mediaset.it
 login.microsoftonline.com
@@ -11494,6 +11520,7 @@ mygw.alipay.com
 myhome.naver.com
 myikoniq.info
 mylife.com
+mylink.ai.in
 mylinkinb.io
 mylinks.net.br
 mylinks.top
@@ -11688,6 +11715,7 @@ news.ebc.net.tw
 news.engadget.com
 news.google.com
 news.line.me
+news.ltdo.org
 news.naver.com
 news.nil.naver.com
 news.qq.com
@@ -13275,6 +13303,7 @@ qr-code.click
 qr-codes.io
 qr-in.com
 qr.ae
+qr.attps.fr
 qr.codes
 qr.digi.tips
 qr.net
@@ -13333,6 +13362,7 @@ r-txt.com
 r-txt.org
 r.akipam.com
 r.audible.de
+r.babscon.com
 r.bioinfweb.info
 r.browser.intl.miui.com
 r.browser.miui.com
@@ -13340,6 +13370,7 @@ r.jakuli.com
 r.jod.gg
 r.lafamo.com
 r.linksprf.com
+r.lp2.me
 r.mail.ru
 r.mzstatic.com
 r.niwepa.com
@@ -13967,6 +13998,7 @@ s.pinimg.com.gslb.pinterest.com
 s.put.re
 s.pximg.net
 s.reddit.com
+s.reinhart1010.id
 s.sc-cdn.net
 s.sc-jpl.com
 s.sebald.com
@@ -13984,6 +14016,7 @@ s.uniqlo.com
 s.w-x.co
 s.w.org
 s.wikicharlie.cl
+s.wiz.or.id
 s.yam.com
 s.yimg.com
 s.youtube.com
@@ -14529,6 +14562,7 @@ sgrtldm.com
 sgsg.samsung.com
 sh-ort.app
 sh.docs.dingtalk.com
+sh.oo.gd
 sh.sg
 sh.st
 sh.wagbridge.taobao.com.gds.alibabadns.com
@@ -14634,12 +14668,15 @@ short.gy
 short.icu
 short.ie
 short.io
+short.lokuads.com
 short.ms
 short.mypaste.fun
+short.organicweb.top
 short.pe
 short.php8developer.com
 short.pk
 short.profi.lv
+short.sashem.com
 short.silex.me
 short.swurl.xyz
 short.to
@@ -16093,6 +16130,7 @@ tags.bkrtx.com
 tags.news.com.au
 tags.tiqcdn.com
 tagtic.cn
+tahuplay.urlklik.com
 taiwangov.com
 talk.google.com
 talk.l.google.com
@@ -16112,6 +16150,7 @@ tao.mba
 taobao.com
 taobaocdn.com
 tap-rt-prod1-t.campaign.adobe.com
+tap.urlklik.com
 tapad.com
 tapfiliate.com
 taplink.cc
@@ -16476,6 +16515,7 @@ tny.xyz
 tnyurl.one
 to.lk
 to.ly
+to.nconnect.asia
 to.pbs.org
 to8.cc
 today.com
@@ -16825,6 +16865,7 @@ twb.nz
 tweetable.link
 tweetburner.com
 twemoji.maxcdn.com
+twg.urlklik.com
 twi.im
 twilightparadox.com
 twimg.com
@@ -17124,11 +17165,14 @@ url.gratis
 url.ie
 url.it
 url.lcisd.net
+url.lumeapresei.ro
 url.lv
 url.me
 url.mn
+url.nimsindia.org
 url.org
 url.prepo.io
+url.procreatebrushes.app
 url.rw
 url.sae.digital
 url.sg
@@ -17201,6 +17245,7 @@ urls.fr
 urls.kr
 urls.me
 urlsh.net
+urlshort.allcrom.com.br
 urlshort.click
 urlshort.dev
 urlshort.host
@@ -17646,6 +17691,7 @@ vonq.io
 voot.com
 vortex.accuweather.com
 vortex.data.microsoft.com
+vote.ltdo.org
 vote.weibo.com
 vov.li
 vox-cdn.com
@@ -19914,6 +19960,7 @@ yourcs.us
 youris.pro
 yourl.ir
 yourls.info
+yourls.irex.aretex.ca
 yourls.org
 yourmovie.co
 youronlinechoices.com
