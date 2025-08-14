@@ -11308,6 +11308,7 @@
 @@||mongmuoinam.life^
 @@||mongmuoisau.life^
 @@||mongmuoitam.live^
+@@||monitor.azure.com^
 @@||monitor.fraudblocker.com^
 @@||monitor.lunio.ai^
 @@||monitor.returnpath.net^

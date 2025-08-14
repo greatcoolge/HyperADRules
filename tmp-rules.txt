@@ -6945,6 +6945,7 @@
 @@||mon.isnssdk.com^
 @@||money.yandex.ru^
 @@||moneysavingexpert.com^
+@@||monitor.azure.com^
 @@||monitor.returnpath.net^
 @@||monitoring-team.sonymobile.com^
 @@||monitoring.googleapis.com^
