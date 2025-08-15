@@ -1025,7 +1025,6 @@
 @@||bitfy.cc^
 @@||bitigee.com^
 @@||bitj.icu^
-@@||bitl.app^
 @@||bitlee.site^
 @@||bitli.pro^
 @@||bitly.bz^
@@ -1175,7 +1174,6 @@
 @@||burl.me^
 @@||burnurl.com^
 @@||business.apple.com^
-@@||butt-link.us^
 @@||buybitcoinsworldwide.com^
 @@||bw.care^
 @@||bwlf.us^
@@ -1529,7 +1527,6 @@
 @@||codimenu.com^
 @@||cofe.io^
 @@||coinbarlink.net^
-@@||coinpr.info^
 @@||coinreal-us.com^
 @@||coki.me^
 @@||coklat.vip^
