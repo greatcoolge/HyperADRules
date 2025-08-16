@@ -126,6 +126,7 @@
 17u.cn
 18comic.org
 18comic.vip
+19081.com
 192-168-1-103.mydns.jdownloader.org
 1ad.io
 1and1.com
@@ -6760,6 +6761,8 @@ gfwsl.geforce.com
 gfx.ms
 gfycat.com
 gg.apple.com
+ggayt.sbs
+ggilfz.link
 ggl.link
 ggle.io
 gglink.site
@@ -7954,7 +7957,6 @@ ifix.gd
 ifixit.com
 iflow.uczzd.cn
 ifmo.ru
-ifnews.cc
 iframe.arkoselabs.com
 ift.cx
 ift.rakuten.co.jp
@@ -8315,7 +8317,6 @@ inquisitr.com
 ins.jr.mi.com
 inscname.net
 insdr.life
-inshort.ly
 inside-brazil.flipboard.com
 inside-espanol.flipboard.com
 inside.flipboard.com
@@ -8332,7 +8333,6 @@ insprl.com
 instagr.am
 instagram.c10r.facebook.com
 instagram.com
-instagramaf.life
 instalog-prod.sc-prod.net
 instant-gaming.com
 instant.io
@@ -8502,12 +8502,10 @@ item.taobao.com
 iterasi.net
 iteye.com
 iti.bz
-itiny.in
 itiy.in
 itknowledgeexchange.techtarget.com
 itly.com
 itly.in
-itm.im
 itmagazine.ch
 itop.qq.com
 itop.so
@@ -8753,7 +8751,6 @@ kaas.gg
 kabuzzle.com
 kaipuyun.cn
 kaitect.com
-kajtech.live
 kakaotv.daum.net
 kaltura.com
 kanjiantu.com
@@ -8806,6 +8803,7 @@ kf5.com
 kfd.pl
 kfrc.co
 kg.games
+kgayz.org
 kgs.link
 kh.de
 kh.google.com
@@ -8814,7 +8812,6 @@ khan.co
 kharkov.ua
 khtm.ir
 ki.gy
-kiacat.co
 kiboke-studio.hr
 kick.is
 kickass.cd
@@ -8826,7 +8823,6 @@ kiev.ua
 kijiji.ca
 kijiji.com
 kik.soundcloud.com
-kilat.ink
 kilat.io
 kimmel.trade
 kin.naver.com
@@ -9163,7 +9159,6 @@ licensing.mp.microsoft.com
 licensing.tableausoftware.com
 licensing.xboxlive.com
 licensing.xboxlive.com 
-lick.my
 lids.com
 lien.li
 lien.paribal.fr
@@ -9303,7 +9298,6 @@ linkbucks.com
 linkbun.ch
 linkbun.com
 linkclickcounter.com
-linkcloaker.pro
 linkcrypter.com
 linkcutt.com
 linkd.in
@@ -9877,7 +9871,6 @@ m.mi.com
 m.mirror.co.uk
 m.msnbc.com
 m.mylife.com
-m.n1.e-nocibe.fr
 m.namecheap.com
 m.naver.com
 m.news-tst.qualcomm.com
@@ -11456,7 +11449,6 @@ mx.namecoin.info
 mx1.hitbtc.com
 my-ab.co
 my-beta.boldchat.com
-my-gay.life
 my-google.live
 my-link.in
 my-material.zone1.meitudata.com
@@ -11502,7 +11494,6 @@ myfico.com
 myfonts.net
 myfonts.us
 myfox8.com
-myfreesex.life
 myglamm.in
 mygw.alipay.com
 myhome.naver.com
@@ -11514,6 +11505,7 @@ mylinks.net.br
 mylinks.top
 mylinksentry.com
 mylt.tv
+mymilf.tech
 myminiurl.net
 mymole.info
 mymst.co
@@ -12282,6 +12274,7 @@ osb.samsungqbe.com
 oscdn.apple.com
 oscp.apple.com
 osdb.link
+osexuw.com
 oshko.sh
 osint.bambenekconsulting.com
 oslash.com
@@ -16794,6 +16787,7 @@ tsta.rs
 tsz4.me
 tt5k.site
 ttad.me
+ttbad.com
 ttrewards.com
 tuasaude.com
 tuba.fm

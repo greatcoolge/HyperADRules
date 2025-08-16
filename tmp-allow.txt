@@ -53,6 +53,7 @@
 @@||17mimei.club^
 @@||18comic.org^
 @@||18comic.vip^
+@@||19081.com^
 @@||1ad.io^
 @@||1bestlinks.net^
 @@||1bitspace.com^
@@ -2317,6 +2318,8 @@
 @@||gfree.fr^
 @@||gfuel.ly^
 @@||gg.apple.com^
+@@||ggayt.sbs^
+@@||ggilfz.link^
 @@||ggl.link^
 @@||ggle.io^
 @@||gglink.site^
@@ -2759,7 +2762,6 @@
 @@||if.fm^
 @@||ifdian.net^
 @@||ifix.gd^
-@@||ifnews.cc^
 @@||iframe.arkoselabs.com^
 @@||ift.cx^
 @@||ift.tt^
@@ -2857,11 +2859,9 @@
 @@||inmusic.to^
 @@||inporn.com^
 @@||insdr.life^
-@@||inshort.ly^
 @@||insig.ht^
 @@||insprl.com^
 @@||instagr.am^
-@@||instagramaf.life^
 @@||instant.io^
 @@||instarouting.com^
 @@||instaurl.me^
@@ -2917,10 +2917,8 @@
 @@||item.taobao.com^
 @@||iterasi.net^
 @@||iti.bz^
-@@||itiny.in^
 @@||itiy.in^
 @@||itly.in^
-@@||itm.im^
 @@||itop.qq.com^
 @@||itop.so^
 @@||itp24.com^
@@ -3040,7 +3038,6 @@
 @@||kaas.gg^
 @@||kabuzzle.com^
 @@||kaitect.com^
-@@||kajtech.live^
 @@||kaos.link^
 @@||kas.pr^
 @@||kask.us^
@@ -3064,14 +3061,13 @@
 @@||kfd.pl^
 @@||kfrc.co^
 @@||kg.games^
+@@||kgayz.org^
 @@||kgs.link^
 @@||kham.tw^
 @@||khan.co^
 @@||khtm.ir^
 @@||ki.gy^
-@@||kiacat.co^
 @@||kick.is^
-@@||kilat.ink^
 @@||kilat.io^
 @@||kimmel.trade^
 @@||kingplate.lol^
@@ -3240,7 +3236,6 @@
 @@||lib.ac^
 @@||lib.sinaapp.com^
 @@||libero.it^
-@@||lick.my^
 @@||lien.li^
 @@||lien.paribal.fr^
 @@||lienket.vn^
@@ -3348,7 +3343,6 @@
 @@||linkbun.ch^
 @@||linkbun.com^
 @@||linkclickcounter.com^
-@@||linkcloaker.pro^
 @@||linkcrypter.com^
 @@||linkcutt.com^
 @@||linkd.in^
@@ -3612,7 +3606,6 @@
 @@||m.lianjia.com^
 @@||m.me^
 @@||m.meizu.com^
-@@||m.n1.e-nocibe.fr^
 @@||m.pinduoduo.com^
 @@||m.qdmm.com^
 @@||m.qidian.com^
@@ -4626,7 +4619,6 @@
 @@||mwfimsvfast3.cc^
 @@||mx-go.kelkoogroup.net^
 @@||my-ab.co^
-@@||my-gay.life^
 @@||my-google.live^
 @@||my-link.in^
 @@||my.163.com^
@@ -4642,7 +4634,6 @@
 @@||mydealz.digidip.net^
 @@||myf.mg^
 @@||myfonts.us^
-@@||myfreesex.life^
 @@||myglamm.in^
 @@||myikoniq.info^
 @@||mylink.ai.in^
@@ -4651,6 +4642,7 @@
 @@||mylinks.top^
 @@||mylinksentry.com^
 @@||mylt.tv^
+@@||mymilf.tech^
 @@||myminiurl.net^
 @@||mymole.info^
 @@||mymst.co^
@@ -4912,6 +4904,7 @@
 @@||orts.link^
 @@||oscdn.apple.com^
 @@||osdb.link^
+@@||osexuw.com^
 @@||oshko.sh^
 @@||oslash.com^
 @@||osp.meituan.net^
@@ -7061,6 +7054,7 @@
 @@||tsz4.me^
 @@||tt5k.site^
 @@||ttad.me^
+@@||ttbad.com^
 @@||ttrewards.com^
 @@||tulinks.online^
 @@||turboagram.com^
