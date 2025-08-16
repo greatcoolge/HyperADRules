@@ -1736,7 +1736,6 @@
 @@||deliverable.email^
 @@||dell.to^
 @@||deloi.tt^
-@@||demolink.net^
 @@||dems.me^
 @@||desin.me^
 @@||detail.meizu.com^
@@ -1813,10 +1812,8 @@
 @@||dockerstatic.com^
 @@||dockr.ly^
 @@||docrdsfx76ssb.cloudfront.net^
-@@||docremedio.xyz^
 @@||docs.doudou.fun^
 @@||docs.idqqimg.com^
-@@||docusignredirectsharepoint.life^
 @@||dogelexus.win^
 @@||doh.dns.apple.com^
 @@||doiop.com^
@@ -1935,7 +1932,6 @@
 @@||eclip.se^
 @@||econ.st^
 @@||ecra.se^
-@@||ecrane.link^
 @@||ed.gr^
 @@||edge.microsoft.com^
 @@||edgs.co^
@@ -2202,8 +2198,6 @@
 @@||fr135.net^
 @@||framework.cdn-go.cn^
 @@||frdm.mobi^
-@@||free-sex.live^
-@@||freesexes.life^
 @@||freze.it^
 @@||fstgo.to^
 @@||fstrk.cc^
@@ -2511,7 +2505,6 @@
 @@||grouprai.se^
 @@||groupsexting.live^
 @@||grpc.biliapi.net^
-@@||grpx.in^
 @@||gs.apple.com^
 @@||gsa.apple.com^
 @@||gskvn.live^

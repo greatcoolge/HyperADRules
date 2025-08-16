@@ -5003,7 +5003,6 @@
 @@||demo-s.hitbtc.com^
 @@||demo-staging.jifflenow.com^
 @@||demo.hitbtc.com^
-@@||demolink.net^
 @@||demon-networks.com^
 @@||demos.flowplayer.com^
 @@||demotywatory.pl^
@@ -5260,7 +5259,6 @@
 @@||dockerstatic.com^
 @@||dockr.ly^
 @@||docrdsfx76ssb.cloudfront.net^
-@@||docremedio.xyz^
 @@||docs.bitfinex.com^
 @@||docs.brightcove.com^
 @@||docs.bugsnag.com^
@@ -5280,7 +5278,6 @@
 @@||docs.vuukle.com^
 @@||doctor.ndtv.com^
 @@||doctorpk.mywibes.com^
-@@||docusignredirectsharepoint.life^
 @@||dog.bin^
 @@||dogelexus.win^
 @@||doh.dns.apple.com^
@@ -5588,7 +5585,6 @@
 @@||econ.st^
 @@||economist.com^
 @@||ecra.se^
-@@||ecrane.link^
 @@||ed.gov^
 @@||ed.gr^
 @@||ed.rdtcdn.com^
@@ -6464,7 +6460,6 @@
 @@||free-adsmind.ugdtimg.com^
 @@||free-ca.hide.me^
 @@||free-nl.hide.me^
-@@||free-sex.live^
 @@||free-sg.hide.me^
 @@||free.appnee.com^
 @@||free.facebook.com^
@@ -6478,7 +6473,6 @@
 @@||freenet.de^
 @@||freenom.link^
 @@||freeones.com^
-@@||freesexes.life^
 @@||freewebs.com^
 @@||freight.aliexpress.com^
 @@||freshdirect.com^
@@ -7331,7 +7325,6 @@
 @@||growth.pusher.com^
 @@||grp02.trc.ashiato.rakuten.co.jp^
 @@||grpc.biliapi.net^
-@@||grpx.in^
 @@||gs-sec.ww.np.dl.playstation.net^
 @@||gs.apple.com^
 @@||gs.statcounter.com^
