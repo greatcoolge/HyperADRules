@@ -14767,7 +14767,6 @@
 @@||shorturlapp.com^
 @@||shorturlbot.com^
 @@||shorturls.co.uk^
-@@||shorturls.me^
 @@||shorturlss.com^
 @@||shortylink.org^
 @@||shortyzone.com^
@@ -16271,7 +16270,6 @@
 @@||thatis.me^
 @@||thd.co^
 @@||the-eye.eu^
-@@||the-link.me^
 @@||the.earth.li^
 @@||theantisocialengineer.com^
 @@||theatlantic.com^
@@ -16870,7 +16868,6 @@
 @@||twitter.com^
 @@||twitterpan.com^
 @@||twitthis.com^
-@@||twiturl.de^
 @@||twixar.com^
 @@||twm5g.co^
 @@||two.re^
@@ -17380,7 +17377,6 @@
 @@||usis.bracu.ac.bd^
 @@||usnews.com^
 @@||usps-v2.com^
-@@||uspsexpress.org^
 @@||usreviewers.com^
 @@||ustream.tv^
 @@||ut.by^
@@ -17565,7 +17561,6 @@
 @@||videolog.blog.naver.com^
 @@||videomate.mobi^
 @@||videopress.com^
-@@||videopro.live^
 @@||videos.files.wordpress.com^
 @@||videos.pbi.tools^
 @@||videos.porsche.cn^

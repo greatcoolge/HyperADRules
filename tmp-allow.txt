@@ -6069,7 +6069,6 @@
 @@||shorturlapp.com^
 @@||shorturlbot.com^
 @@||shorturls.co.uk^
-@@||shorturls.me^
 @@||shorturlss.com^
 @@||shortylink.org^
 @@||shortyzone.com^
@@ -6733,7 +6732,6 @@
 @@||tharp.me^
 @@||thatis.me^
 @@||thd.co^
-@@||the-link.me^
 @@||thebindaas.com^
 @@||thecubexguide.com^
 @@||thedo.do^
@@ -7081,7 +7079,6 @@
 @@||twitspin.win^
 @@||twitterpan.com^
 @@||twitthis.com^
-@@||twiturl.de^
 @@||twixar.com^
 @@||twm5g.co^
 @@||two.re^
@@ -7349,7 +7346,6 @@
 @@||usf.services^
 @@||usheethe.com^
 @@||usps-v2.com^
-@@||uspsexpress.org^
 @@||usreviewers.com^
 @@||utm.to^
 @@||utn.pl^
@@ -7428,7 +7424,6 @@
 @@||video.zhihu.com^
 @@||video1p.dxycdn.com^
 @@||video2.pddpic.com^
-@@||videopro.live^
 @@||videos.pbi.tools^
 @@||videos.porsche.cn^
 @@||videos.porsche.com^
