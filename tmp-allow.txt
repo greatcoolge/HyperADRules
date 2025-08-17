@@ -5512,7 +5512,6 @@
 @@||reel.io^
 @@||ref.so^
 @@||ref11.top^
-@@||referer.us^
 @@||referrals.brave.com^
 @@||referrals.bravesoftware.com^
 @@||referrer.disqus.com^

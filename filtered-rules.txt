@@ -13604,7 +13604,6 @@ ref.to
 ref11.top
 refer.wordpress.com
 reference.com
-referer.us
 referrals.brave.com
 referrals.bravesoftware.com
 referrer.disqus.com
