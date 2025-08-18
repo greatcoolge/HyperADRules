@@ -2826,6 +2826,7 @@
 @@||clouddn.com^
 @@||cloudflare-dns.com^
 @@||cloudflare.com^
+@@||cloudflareinsights.com^
 @@||cloudflareworkers.com^
 @@||cloudfront-app-cdn.spot.im^
 @@||cloudfront.net^
