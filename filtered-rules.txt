@@ -8735,6 +8735,7 @@ jx.cn
 jx.me
 jxxl.live
 jytechs.in
+jz.rs
 k-p.li
 k.cocooncenter.com
 k.keyade.com
@@ -9236,6 +9237,7 @@ lineageoslog.com
 lineit.line.me
 linelive.life
 lingkod.to
+link-cut.com
 link-me.vip
 link.ac
 link.betclic.com
@@ -14890,6 +14892,7 @@ sj1gtm004.adobe.com
 sk-go.kelkoogroup.net
 sk.gravatar.com
 sk.gy
+sk.in.rs
 sk.news
 sk.wikipedia.com
 sketch.sonymobile.com
@@ -14903,6 +14906,7 @@ skl.apple.com
 skl.sh
 skladovaokna.cz
 sknrd.us
+skr.rs
 skr.sk
 skrat.it
 skrill.com
@@ -15002,6 +15006,7 @@ smzdm.com
 sn.api.np.km.playstation.net
 sn.im
 sn.io
+sn.rs
 snahp.it
 snap.com
 snapchat-payments-gateway.snapchat.com
@@ -16743,6 +16748,7 @@ trk.nomadzdigital.com
 trk.specialized.com
 trk.sveltelinks.com
 trk.teonea.fr
+trk.thewanderclub.com
 trk2.genieshopping.com
 trkr.ws
 trl.ca
@@ -16869,7 +16875,6 @@ twou.co
 twrd.in
 twt-assets.washtimes.com
 twtr.in
-twtr.to
 twurl.cc
 twurl.nl
 tx.163.com
@@ -17197,6 +17202,7 @@ urlhaus.abuse.ch
 urlhawk.com
 urlhum.com
 urli.ai
+urli.info
 urlify.cn
 urlin.it
 urlinko.com
@@ -20080,7 +20086,6 @@ ziyuan.guwendao.net
 zkr.cz
 zkr.pw
 zkrat.me
-zkrt.cz
 zlink.fun
 zln.do
 zlnk.com
