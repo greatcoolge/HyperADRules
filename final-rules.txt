@@ -4753,6 +4753,7 @@
 @@||credit-account.staging.viber.com^
 @@||credit.jr.mi.com^
 @@||creditcards.com^
+@@||creeds.io^
 @@||cricbuzz.com^
 @@||crisp.chat^
 @@||critic.api.playstation.com^
@@ -4872,6 +4873,7 @@
 @@||cut.sk^
 @@||cut2.ir^
 @@||cutcaptcha.com^
+@@||cutcut.uk^
 @@||cuterurlha.xyz^
 @@||cutestat.com^
 @@||cuteurl.co^
@@ -5221,6 +5223,7 @@
 @@||devices.netflix.com^
 @@||deviceservices-external.apple.com^
 @@||devimages-cdn.apple.com^
+@@||devkaffe.com^
 @@||devmate.com^
 @@||devuploads.com^
 @@||df-sports.com^
@@ -5630,7 +5633,6 @@
 @@||dvrv.ai^
 @@||dw-online.ksosoft.com^
 @@||dw.com.com^
-@@||dw.com^
 @@||dw.techrepublic.com^
 @@||dw.uptodown.com^
 @@||dwarfurl.com^
@@ -6186,6 +6188,8 @@
 @@||ezc.vc^
 @@||ezclick.me^
 @@||ezexzo.link^
+@@||ezlc.net^
+@@||ezlinkcloaker.com^
 @@||ezstat.ru^
 @@||eztv.ag^
 @@||eztv.ch^
@@ -9043,6 +9047,7 @@
 @@||k2.ma^
 @@||k2.midasplayer.com^
 @@||k2s.cc^
+@@||k2v.pro^
 @@||k33.bz^
 @@||k8s-jena.schneevonmorgen.com^
 @@||k9.ms^
@@ -9266,6 +9271,7 @@
 @@||kurzelinks.de^
 @@||kutt.comodo.com^
 @@||kutt.it^
+@@||kuttify.com^
 @@||kuyla.me^
 @@||kv.ci^
 @@||kve.so^
@@ -9677,6 +9683,7 @@
 @@||linkmpomax.live^
 @@||linkmu.cyou^
 @@||linkn.co^
+@@||linko.me^
 @@||linko.page^
 @@||linkol.xyz^
 @@||linkoo.ru^
@@ -12566,6 +12573,7 @@
 @@||nxm.us^
 @@||nxpay.dutchbanglabank.com^
 @@||nxsg.us^
+@@||nxturl.com^
 @@||nxy.in^
 @@||ny.com^
 @@||ny1.com^
@@ -12693,6 +12701,7 @@
 @@||ojrq.net^
 @@||ok.ru^
 @@||ok2.com^
+@@||oke.io^
 @@||okebio.com^
 @@||okeegas.win^
 @@||okniu.com^
@@ -12730,6 +12739,7 @@
 @@||on.soundcloud.com^
 @@||on.tcs.com^
 @@||on.wsj.com^
+@@||on4t.com^
 @@||on5.net^
 @@||on9news.tv^
 @@||onboard.triptease.io^
@@ -12954,6 +12964,7 @@
 @@||p-store.rakuten.co.jp^
 @@||p.asia^
 @@||p.bokecc.com^
+@@||p.dw.com^
 @@||p.ebaystatic.com^
 @@||p.imgur.com^
 @@||p.jwpcdn.com^
@@ -13353,6 +13364,7 @@
 @@||pixelsdesign.net^
 @@||pixhost.to^
 @@||pixiv.net^
+@@||pixllink.com^
 @@||pixly.me^
 @@||pj.pizza^
 @@||pjatr.com^
@@ -15783,6 +15795,7 @@
 @@||snipqr.com^
 @@||snipr.com^
 @@||snipurl.com^
+@@||snipzr.com^
 @@||snplink.com^
 @@||snpy.link^
 @@||sns-avatar-qc.xhscdn.com^
@@ -17356,6 +17369,7 @@
 @@||tools.pingdom.com^
 @@||tools.ranker.com^
 @@||tools.tracemyip.org^
+@@||toolspivot.com^
 @@||toonily.com^
 @@||toonily.me^
 @@||top-sub-cve-len.live^
@@ -18144,11 +18158,13 @@
 @@||urluno.com^
 @@||urlvanish.com^
 @@||urlverkorten.com^
+@@||urlw.com^
 @@||urlx.graphicwallet.com^
 @@||urlx.ie^
 @@||urlx.org^
 @@||urlxray.com^
 @@||urly.co^
+@@||urlyte.com^
 @@||urlz.at^
 @@||urlz.com^
 @@||urlz.fr^
@@ -18683,6 +18699,7 @@
 @@||waiting.bithumb.com^
 @@||wajinlong.pro^
 @@||wakgengs.pro^
+@@||wal.ee^
 @@||walgreens.com^
 @@||walk.sc^
 @@||walkjc.org^
@@ -19104,6 +19121,7 @@
 @@||wt.soundcloud.com^
 @@||wtc.la^
 @@||wtfismyip.com^
+@@||wtfurl.com^
 @@||wtkr.com^
 @@||wtradv.market.xiaomi.com^
 @@||wts2.smhi.se^
@@ -21101,9 +21119,11 @@
 @@||zurl.ir^
 @@||zurl.ws^
 @@||zweep.co^
+@@||zweet.link^
 @@||zws.im^
 @@||zxc.li^
 @@||zynga.my^
+@@||zyp.to^
 @@||zyva.org^
 @@||zywv.us^
 @@||zz-tw.co^
