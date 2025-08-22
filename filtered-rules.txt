@@ -3065,6 +3065,7 @@ bitly.kr
 bitly.mobi
 bitly.net
 bitly.network
+bitly.pk
 bitly.team
 bitly.ws
 bitly1.ru
@@ -6379,6 +6380,7 @@ fi.ro
 fi.statcounter.com
 fi.wikipedia.com
 fiatconnect.app
+fibr.ai
 ficken.ws
 fico.i.lithium.com
 fiddle.jshell.net
@@ -9745,6 +9747,7 @@ linkunshorten.com
 linkvp.com
 linkwi.se
 linky.cc
+linky.is
 linky31.com
 linkye.net
 linode.com
@@ -11928,6 +11931,7 @@ msedown.360safe.com
 msft.it
 msftconnecttest.com
 msftncsi.com
+msfy.in
 msg.douyu.com
 msg.edit.yahoo.com
 msg.netflix.com
@@ -17193,6 +17197,7 @@ tiny.us
 tiny.zodia.studio
 tiny123.com
 tiny1z.com
+tiny4t.com
 tinyarro.ws
 tinybit.cc
 tinyerz.com
@@ -18832,6 +18837,7 @@ webmail.orange.fr
 webmail.vtr.net
 webmd.com
 webmienphi.net
+webn.in
 weboffice-static.docs.dingtalk.com
 webopedia.com
 webpower.eu
@@ -20885,6 +20891,7 @@ ynuf.alipay.com
 yo.ma
 yoalizer.com
 yogh.me
+yolla.link
 yon.ir
 yoox.ly
 yotpoclicks.com

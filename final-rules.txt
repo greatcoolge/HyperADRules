@@ -3071,6 +3071,7 @@
 @@||bitly.mobi^
 @@||bitly.net^
 @@||bitly.network^
+@@||bitly.pk^
 @@||bitly.team^
 @@||bitly.ws^
 @@||bitly1.ru^
@@ -6385,6 +6386,7 @@
 @@||fi.statcounter.com^
 @@||fi.wikipedia.com^
 @@||fiatconnect.app^
+@@||fibr.ai^
 @@||ficken.ws^
 @@||fico.i.lithium.com^
 @@||fiddle.jshell.net^
@@ -9751,6 +9753,7 @@
 @@||linkvp.com^
 @@||linkwi.se^
 @@||linky.cc^
+@@||linky.is^
 @@||linky31.com^
 @@||linkye.net^
 @@||linode.com^
@@ -11934,6 +11937,7 @@
 @@||msft.it^
 @@||msftconnecttest.com^
 @@||msftncsi.com^
+@@||msfy.in^
 @@||msg.douyu.com^
 @@||msg.edit.yahoo.com^
 @@||msg.netflix.com^
@@ -17199,6 +17203,7 @@
 @@||tiny.zodia.studio^
 @@||tiny123.com^
 @@||tiny1z.com^
+@@||tiny4t.com^
 @@||tinyarro.ws^
 @@||tinybit.cc^
 @@||tinyerz.com^
@@ -18838,6 +18843,7 @@
 @@||webmail.vtr.net^
 @@||webmd.com^
 @@||webmienphi.net^
+@@||webn.in^
 @@||weboffice-static.docs.dingtalk.com^
 @@||webopedia.com^
 @@||webpower.eu^
@@ -20891,6 +20897,7 @@
 @@||yo.ma^
 @@||yoalizer.com^
 @@||yogh.me^
+@@||yolla.link^
 @@||yon.ir^
 @@||yoox.ly^
 @@||yotpoclicks.com^
