@@ -4879,6 +4879,7 @@
 @@||cutestat.com^
 @@||cuteurl.co^
 @@||cutit.bid^
+@@||cutle.co^
 @@||cutlink.now^
 @@||cutlinker.com^
 @@||cutlly.com^
@@ -5704,6 +5705,7 @@
 @@||ea.com^
 @@||ea1-urlp.secure.skypeassets.com^
 @@||eaash.co^
+@@||earl.sh^
 @@||earn4link.in^
 @@||earnfly.net^
 @@||earth.google.com^
@@ -6514,6 +6516,7 @@
 @@||fly.yt^
 @@||fly2.ws^
 @@||fly4win.com^
+@@||flyra.link^
 @@||flys.pw^
 @@||flyurl.net^
 @@||fm.tuba.pl^
@@ -11291,6 +11294,7 @@
 @@||mkto-ab570110.com^
 @@||mkto-ab570128.com^
 @@||mkto-ab570148.com^
+@@||mkto-ab570160.com^
 @@||mkto-ab580004.com^
 @@||mkto-ab590004.com^
 @@||mkto-ab610021.com^
@@ -20818,6 +20822,7 @@
 @@||xuite.net^
 @@||xunlei.com^
 @@||xurl.jp^
+@@||xurl.pk^
 @@||xurl302.top^
 @@||xurls.net^
 @@||xvideos-cdn.com^

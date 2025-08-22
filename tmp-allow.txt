@@ -1777,6 +1777,7 @@
 @@||cuterurlha.xyz^
 @@||cuteurl.co^
 @@||cutit.bid^
+@@||cutle.co^
 @@||cutlink.now^
 @@||cutlinker.com^
 @@||cutlly.com^
@@ -2094,6 +2095,7 @@
 @@||e49.us^
 @@||e7.al^
 @@||eaash.co^
+@@||earl.sh^
 @@||earn4link.in^
 @@||earnfly.net^
 @@||earthtoday.info^
@@ -2386,6 +2388,7 @@
 @@||fly.yt^
 @@||fly2.ws^
 @@||fly4win.com^
+@@||flyra.link^
 @@||flys.pw^
 @@||flyurl.net^
 @@||fmurl.cc^
@@ -4616,6 +4619,7 @@
 @@||mkto-ab570110.com^
 @@||mkto-ab570128.com^
 @@||mkto-ab570148.com^
+@@||mkto-ab570160.com^
 @@||mkto-ab580004.com^
 @@||mkto-ab590004.com^
 @@||mkto-ab610021.com^
@@ -8822,6 +8826,7 @@
 @@||xub.me^
 @@||xuc88.club^
 @@||xurl.jp^
+@@||xurl.pk^
 @@||xurl302.top^
 @@||xurls.net^
 @@||xxxdwz.cc^
