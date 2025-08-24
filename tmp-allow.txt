@@ -614,6 +614,7 @@
 @@||ai6.net^
 @@||aiecj2.com^
 @@||aim2.cc^
+@@||aimetath.com^
 @@||airshort.de^
 @@||aisubtitle.hdslb.com^
 @@||aitwwl.co^
@@ -1089,9 +1090,11 @@
 @@||binbucks.com^
 @@||binged.it^
 @@||bio.rub3n.io^
+@@||biolinkexp.com^
 @@||biolinky.co^
 @@||bioreling.com^
 @@||biotap.click^
+@@||biotap.io^
 @@||biourl.link^
 @@||bisadimasuk.in^
 @@||bisakale.me^
@@ -1498,6 +1501,7 @@
 @@||cisn.co^
 @@||cit.to^
 @@||citi.asia^
+@@||cixi.bio^
 @@||cj.com^
 @@||cj.dotomi.com^
 @@||cj.mplxtms.com^
@@ -1810,6 +1814,7 @@
 @@||cuturl.com^
 @@||cuturl.net^
 @@||cuty.io^
+@@||cutyurl.com^
 @@||cv-h.phncdn.com^
 @@||cvcpl.us^
 @@||cvent.me^
@@ -2031,10 +2036,12 @@
 @@||dre.li^
 @@||dreamshigh.life^
 @@||drinks.me^
+@@||dripurl.com^
 @@||drive-h.quark.cn^
 @@||drive-pc.quark.cn^
 @@||drnx.ir^
 @@||droid.ws^
+@@||droidqr.com^
 @@||dronescapes.video^
 @@||drop.tf^
 @@||droplr.net^
@@ -2436,6 +2443,7 @@
 @@||framework.cdn-go.cn^
 @@||frdm.mobi^
 @@||fre.to^
+@@||freeshorturl.com^
 @@||freze.it^
 @@||fstgo.to^
 @@||fstrk.cc^
@@ -2603,7 +2611,6 @@
 @@||gkurl.us^
 @@||gl.am^
 @@||glb.pw^
-@@||glbe.co^
 @@||glblctzn.co^
 @@||glblctzn.me^
 @@||gldr.co^
@@ -3069,6 +3076,7 @@
 @@||iky.fr^
 @@||ilang.in^
 @@||ild.info^
+@@||iligstein.com^
 @@||ilinky.info^
 @@||ilix.in^
 @@||ilk.ir^
@@ -3311,7 +3319,6 @@
 @@||join-id.info^
 @@||joiner.co^
 @@||jomblo.org^
-@@||joo.gl^
 @@||jos.bio^
 @@||joshbut.llc^
 @@||joturl.com^
@@ -3547,6 +3554,7 @@
 @@||leakslinks.com^
 @@||learn.to^
 @@||learnit.today^
+@@||lef.link^
 @@||lego.build^
 @@||leica.gs^
 @@||leihuo.163.com^
@@ -3807,6 +3815,7 @@
 @@||linktop.site^
 @@||linktr.ee^
 @@||linkunshorten.com^
+@@||linkverified.net^
 @@||linkvp.com^
 @@||linky.cc^
 @@||linky.is^
@@ -4033,6 +4042,7 @@
 @@||m101.org^
 @@||m15.360buyimg.com^
 @@||m17.ca^
+@@||m1d.me^
 @@||m1p.fr^
 @@||m2.img.10010.com^
 @@||m2g.me^
@@ -5998,6 +6008,7 @@
 @@||qk.lc^
 @@||qksrv.net^
 @@||qlink.pro^
+@@||qlixelapp.com^
 @@||qlnk.net^
 @@||qm.qq.com^
 @@||qn-static-tap.tapimg.com^
@@ -6025,6 +6036,7 @@
 @@||qrcc.me^
 @@||qrcd.org^
 @@||qrco.de^
+@@||qrcode.primetecnologia.net.br^
 @@||qrcood.com^
 @@||qrcs.io^
 @@||qrdb.co^
@@ -6052,6 +6064,7 @@
 @@||quick.lt^
 @@||quicurl.com^
 @@||quip-art.com^
+@@||quiturl.com^
 @@||qut.to^
 @@||qutt.me^
 @@||qutt.us^
@@ -6645,6 +6658,7 @@
 @@||sfdl.360safe.com^
 @@||sforce.co^
 @@||sfty.io^
+@@||sfwx.me^
 @@||sg0.co^
 @@||sgq.io^
 @@||sgrtldm.com^
@@ -6660,6 +6674,7 @@
 @@||shar.i.ng^
 @@||shareasale-analytics.com^
 @@||shareasale.com^
+@@||shareclicker.com^
 @@||sharein.com^
 @@||sharem.tech^
 @@||sharepointshorturl.com^
@@ -6673,6 +6688,7 @@
 @@||shikshansagar.org^
 @@||shink.me^
 @@||shiny.link^
+@@||shkurto.com^
 @@||shlink-app.ifo.am^
 @@||shlink.in^
 @@||shlink.io^
@@ -6691,6 +6707,7 @@
 @@||shop-links.co^
 @@||shope.ee^
 @@||shopifie.com^
+@@||shor.is^
 @@||shorix.ru^
 @@||shorkit.com^
 @@||shorl.com^
@@ -6859,6 +6876,7 @@
 @@||shoturl.us^
 @@||shotzon.com^
 @@||shouji.bmcx.com^
+@@||showrtner.com^
 @@||shp.ee^
 @@||shp.page^
 @@||shpze.com^
@@ -7615,6 +7633,7 @@
 @@||thenews24h.tech^
 @@||theporndude.com^
 @@||theposhed.com^
+@@||theshortener.com^
 @@||thesne.ws^
 @@||thesocial.vip^
 @@||thetim.es^
@@ -8045,11 +8064,13 @@
 @@||u6e.de^
 @@||uafly.co^
 @@||ual.fyi^
+@@||ualam.com^
 @@||ub0.cc^
 @@||ubm.io^
 @@||ubnt.link^
 @@||ubr.to^
 @@||ucal.us^
+@@||ucamli.com^
 @@||ucbexed.org^
 @@||ucblib.link^
 @@||ucla.in^
@@ -8066,6 +8087,7 @@
 @@||uhishado.com^
 @@||ui8.ru^
 @@||uich.cc^
+@@||uitly.com^
 @@||uk-go.kelkoogroup.net^
 @@||ukaz.me^
 @@||ukf.me^
@@ -8190,6 +8212,7 @@
 @@||urla.ru^
 @@||urlah.com^
 @@||urlao.com^
+@@||urlbae.com^
 @@||urlbind.com^
 @@||urlbit.co^
 @@||urlbox.cc^
@@ -8248,12 +8271,14 @@
 @@||urls.kr^
 @@||urls.to^
 @@||urlsh.net^
+@@||urlsh.us^
 @@||urlshort.allcrom.com.br^
 @@||urlshort.click^
 @@||urlshort.dev^
 @@||urlshort.host^
 @@||urlshort.rest^
 @@||urlshort.xyz^
+@@||urlshort3x.com^
 @@||urlshorten.link^
 @@||urlshortener.at^
 @@||urlshortener.best^
@@ -8580,6 +8605,7 @@
 @@||wejdz.do^
 @@||wellc.me^
 @@||wenk.io^
+@@||wes.la^
 @@||weworkers.io^
 @@||wez.info^
 @@||wf0.xin^
@@ -9039,6 +9065,7 @@
 @@||zimy.pw^
 @@||zip.net^
 @@||zip.pe^
+@@||ziphly.com^
 @@||zipmyurl.com^
 @@||zipurl.fr^
 @@||zipurl.link^

@@ -1079,6 +1079,7 @@
 @@||aiecj2.com^
 @@||aillis.line.me^
 @@||aim2.cc^
+@@||aimetath.com^
 @@||air.1688.com^
 @@||airdownload.adobe.com^
 @@||airdownload2.adobe.com^
@@ -3037,9 +3038,11 @@
 @@||binged.it^
 @@||binglee.com.au^
 @@||bio.rub3n.io^
+@@||biolinkexp.com^
 @@||biolinky.co^
 @@||bioreling.com^
 @@||biotap.click^
+@@||biotap.io^
 @@||biourl.link^
 @@||bireysel-zîraat.com^
 @@||bisadimasuk.in^
@@ -4200,6 +4203,7 @@
 @@||citi.asia^
 @@||citimobile.d2.sc.omtrdc.net^
 @@||citrix.com^
+@@||cixi.bio^
 @@||cj.com^
 @@||cj.dotomi.com^
 @@||cj.mplxtms.com^
@@ -4912,6 +4916,7 @@
 @@||cuturl.com^
 @@||cuturl.net^
 @@||cuty.io^
+@@||cutyurl.com^
 @@||cv-h.phncdn.com^
 @@||cv.phncdn.com^
 @@||cvcpl.us^
@@ -5573,6 +5578,7 @@
 @@||drift.com^
 @@||driftt.com^
 @@||drinks.me^
+@@||dripurl.com^
 @@||drive-h.quark.cn^
 @@||drive-pc.quark.cn^
 @@||drive.google.com^
@@ -5580,6 +5586,7 @@
 @@||driveapi.micloud.xiaomi.net^
 @@||drnx.ir^
 @@||droid.ws^
+@@||droidqr.com^
 @@||dronescapes.video^
 @@||drop.tf^
 @@||dropbox.com^
@@ -6712,6 +6719,7 @@
 @@||freenet.de^
 @@||freenom.link^
 @@||freeones.com^
+@@||freeshorturl.com^
 @@||freewebs.com^
 @@||freight.aliexpress.com^
 @@||freshdirect.com^
@@ -7094,7 +7102,6 @@
 @@||glass.twitch.tv^
 @@||glb.paypal.com^
 @@||glb.pw^
-@@||glbe.co^
 @@||glblctzn.co^
 @@||glblctzn.me^
 @@||gldr.co^
@@ -8286,6 +8293,7 @@
 @@||il.ign.com^
 @@||ilang.in^
 @@||ild.info^
+@@||iligstein.com^
 @@||ilinky.info^
 @@||ilix.in^
 @@||ilk.ir^
@@ -8973,7 +8981,6 @@
 @@||joiner.co^
 @@||joint.reg2t.sandai.net^
 @@||jomblo.org^
-@@||joo.gl^
 @@||joomla.org^
 @@||jos.bio^
 @@||joshbut.llc^
@@ -9428,6 +9435,7 @@
 @@||learn.to^
 @@||learndownload.adobe.com^
 @@||learnit.today^
+@@||lef.link^
 @@||legal.medium.com^
 @@||legal.qualcomm.com^
 @@||lego.build^
@@ -9781,6 +9789,7 @@
 @@||linktop.site^
 @@||linktr.ee^
 @@||linkunshorten.com^
+@@||linkverified.net^
 @@||linkvp.com^
 @@||linkwi.se^
 @@||linky.cc^
@@ -10379,6 +10388,7 @@
 @@||m101.org^
 @@||m15.360buyimg.com^
 @@||m17.ca^
+@@||m1d.me^
 @@||m1p.fr^
 @@||m2-a.sndcdn.com^
 @@||m2.chia-anime.tv^
@@ -13960,6 +13970,7 @@
 @@||qk.lc^
 @@||qksrv.net^
 @@||qlink.pro^
+@@||qlixelapp.com^
 @@||qlnk.net^
 @@||qm.qq.co^
 @@||qm.qq.com^
@@ -13996,6 +14007,7 @@
 @@||qrcc.me^
 @@||qrcd.org^
 @@||qrco.de^
+@@||qrcode.primetecnologia.net.br^
 @@||qrcood.com^
 @@||qrcs.io^
 @@||qrdb.co^
@@ -14035,6 +14047,7 @@
 @@||quick.lt^
 @@||quicurl.com^
 @@||quip-art.com^
+@@||quiturl.com^
 @@||quora.com^
 @@||qut.to^
 @@||qutt.me^
@@ -15275,6 +15288,7 @@
 @@||sfsapi.micloud.xiaomi.net^
 @@||sfty.io^
 @@||sfw.in^
+@@||sfwx.me^
 @@||sg.a.stat.mi.com^
 @@||sg.api.io.mi.com^
 @@||sg.cs.be.mi.com^
@@ -15321,6 +15335,7 @@
 @@||shareandembed.help.soundcloud.com^
 @@||shareasale-analytics.com^
 @@||shareasale.com^
+@@||shareclicker.com^
 @@||sharein.com^
 @@||sharem.tech^
 @@||sharepoint.com^
@@ -15346,6 +15361,7 @@
 @@||shimo.im^
 @@||shink.me^
 @@||shiny.link^
+@@||shkurto.com^
 @@||shlink-app.ifo.am^
 @@||shlink.in^
 @@||shlink.io^
@@ -15387,6 +15403,7 @@
 @@||shopping.line.me^
 @@||shopping.naver.com^
 @@||shoppy.gg^
+@@||shor.is^
 @@||shorix.ru^
 @@||shorkit.com^
 @@||shorl.com^
@@ -15561,6 +15578,7 @@
 @@||shouji.360.cn^
 @@||shouji.bmcx.com^
 @@||shouji.sogou.com^
+@@||showrtner.com^
 @@||shp.ee^
 @@||shp.page^
 @@||shpze.com^
@@ -17180,6 +17198,7 @@
 @@||theporndude.com^
 @@||theposhed.com^
 @@||theregister.co.uk^
+@@||theshortener.com^
 @@||thesne.ws^
 @@||thesocial.vip^
 @@||thetim.es^
@@ -17865,6 +17884,7 @@
 @@||u6e.de^
 @@||uafly.co^
 @@||ual.fyi^
+@@||ualam.com^
 @@||ualberta.ca^
 @@||uaprof.sonymobile.com^
 @@||uarel.com^
@@ -17878,6 +17898,7 @@
 @@||uc.cn^
 @@||uc.pcbeta.com^
 @@||ucal.us^
+@@||ucamli.com^
 @@||ucan.25pp.com^
 @@||ucbexed.org^
 @@||ucblib.link^
@@ -17914,6 +17935,7 @@
 @@||uich.cc^
 @@||uidesign.gbtcdn.com^
 @@||uisdc.com^
+@@||uitly.com^
 @@||uk-go.kelkoogroup.net^
 @@||uk.gravatar.com^
 @@||uk.hide.me^
@@ -18142,6 +18164,7 @@
 @@||urla.ru^
 @@||urlah.com^
 @@||urlao.com^
+@@||urlbae.com^
 @@||urlbd.com^
 @@||urlbind.com^
 @@||urlbit.co^
@@ -18205,12 +18228,14 @@
 @@||urls.me^
 @@||urls.to^
 @@||urlsh.net^
+@@||urlsh.us^
 @@||urlshort.allcrom.com.br^
 @@||urlshort.click^
 @@||urlshort.dev^
 @@||urlshort.host^
 @@||urlshort.rest^
 @@||urlshort.xyz^
+@@||urlshort3x.com^
 @@||urlshorten.link^
 @@||urlshortener.at^
 @@||urlshortener.best^
@@ -18968,6 +18993,7 @@
 @@||wer.org^
 @@||weri.com^
 @@||werl.com^
+@@||wes.la^
 @@||wetransfer.com^
 @@||wetter.de^
 @@||weu1-urlp.secure.skypeassets.com^
@@ -21139,6 +21165,7 @@
 @@||zimy.pw^
 @@||zip.net^
 @@||zip.pe^
+@@||ziphly.com^
 @@||zipmyurl.com^
 @@||zippyshare.com^
 @@||ziprecruiter.com^
