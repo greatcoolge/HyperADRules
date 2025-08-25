@@ -301,6 +301,7 @@
 30na.ma
 316.coolapk1s.com
 31productions.de
+350.my
 360.cn
 369.xn--6frz82g
 36kr.com
@@ -308,9 +309,15 @@
 389sport.fun
 389sport.store
 39.net
+396264243-020.com
+396264243-025.com
+396264243-029.com
+396264243-033.com
+396264243-044.com
 3975.com
 39d0825d09f05.cdn.sohucs.com
 3c.co
+3c.pw
 3c5.com
 3cinteractive.com
 3d-creator.sonymobile.com
@@ -472,6 +479,7 @@
 9fx.org
 9gag.com
 9k.gg
+9lick.me
 9mp.com
 9o9.cc
 9oz.com
@@ -624,6 +632,7 @@ abre-videos.cdn1122.com
 abre.ae
 abre.ai
 abre.pub
+abrir.link
 abroad.apilocate.amap.com
 abs-0.twimg.com
 abs.twimg.com
@@ -3063,6 +3072,7 @@ bitigee.com
 bitily.com.br
 bitit.io
 bitj.icu
+bitl.to
 bitlee.site
 bitly.bz
 bitly.com
@@ -3083,6 +3093,7 @@ bitlyvi.com
 bitlz.cc
 bitnew.us
 bitpay.com
+bitq.link
 bits.twitch.tv
 bitshort.vip
 bitshrt.com
@@ -3118,6 +3129,7 @@ bkite.com
 bkjkwg.quest
 bkssl.bdimg.com
 bl.ink
+blabigo.com
 black.game.naver.com
 blackberry.com
 blacklistednews.com
@@ -6013,6 +6025,7 @@ epsi.link
 ept.ms
 eq.10jqka.com.cn
 eqix.it
+eqrco.de
 er.search.naver.com
 erannis.com
 erath.email
@@ -8783,6 +8796,7 @@ isee.weishi.qq.com
 iservice.10010.com
 iservice.fuzelfiles.com
 ishortie.com
+ishortn.ink
 isinstance.com
 islamweb.net
 isols.co
@@ -17272,6 +17286,8 @@ tini.cc
 tiniworkfennies.live
 tinky.cc
 tinlie.com
+tinurl.pro
+tiny-l.com
 tiny-link.org
 tiny-url.me
 tiny.cc
@@ -17298,6 +17314,7 @@ tinyfy.io
 tinyfy.me
 tinygo.co
 tinyi.sh
+tinyl.co
 tinyl.ink
 tinyl.io
 tinylink.ca
@@ -21047,6 +21064,7 @@ yts.mx
 yts.nu
 ytstatic.l.google.com
 ytube.io
+ytubl.ink
 ytxt.mobi
 yubi.co
 yui.co
