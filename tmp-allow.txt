@@ -1895,6 +1895,7 @@
 @@||dcloud.net.cn^
 @@||dcps.co^
 @@||dcshru.ru^
+@@||dct.klaviyodns.com^
 @@||dd.ma^
 @@||dd.myapp.com^
 @@||ddot.to^
@@ -7959,6 +7960,7 @@
 @@||trizlink.com^
 @@||trk.affattr.com^
 @@||trk.ecomm.lenovo.com^
+@@||trk.esn.com^
 @@||trk.genieshopping.com^
 @@||trk.mg.aadvantageeshopping.com^
 @@||trk.musvccustom.net^

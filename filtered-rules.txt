@@ -5108,6 +5108,7 @@ dcms.1688.com
 dcps.co
 dcs-vod.apis.anvato.net
 dcshru.ru
+dct.klaviyodns.com
 dctrawler.dailycaller.com
 dd.ma
 dd.myapp.com
@@ -13941,6 +13942,7 @@ q.ebaystatic.com
 q.gs
 q.stripe.com
 q13fox.com
+q2.qlogo.cn
 q8at.link
 qa-admin.actionbutton.co
 qa-api.actionbutton.co
@@ -17698,6 +17700,7 @@ trizlink.com
 trk.affattr.com
 trk.cp20.com
 trk.ecomm.lenovo.com
+trk.esn.com
 trk.genieshopping.com
 trk.klclick.com
 trk.mg.aadvantageeshopping.com
