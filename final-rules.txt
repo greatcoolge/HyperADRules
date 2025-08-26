@@ -4282,6 +4282,7 @@
 @@||click.fidelityinvestments.com^
 @@||click.holidayinnclubemail.com^
 @@||click.icptrack.com^
+@@||click.idprotect.experian.com^
 @@||click.instantink.hpsmart.com^
 @@||click.justwatch.com^
 @@||click.klarna.de^
@@ -14292,6 +14293,7 @@
 @@||rdee.us^
 @@||rdelivery.qq.com^
 @@||rdevbseab.cc.rs6.net^
+@@||rdj5fmtab.cc.rs6.net^
 @@||rdl.ink^
 @@||rdmra8eab.cc.rs6.net^
 @@||rdnybq7ab.cc.rs6.net^
@@ -14303,6 +14305,7 @@
 @@||rdrt.cc^
 @@||rds-assets.nvidia.com^
 @@||rdsig.yahoo.co.jp^
+@@||rdswyccab.cc.rs6.net^
 @@||rdtcdn.com^
 @@||rdv.az^
 @@||rdwest.playstation.com^
