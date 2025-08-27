@@ -2370,6 +2370,7 @@ appboot.netflix.com
 appboot.netflix.com 
 appbrain.com
 appcenter.ms
+appcfg.v.qq.com
 appcloud.ironbeast.io
 appconf.heytapdownload.com
 appdl-1-drcn.dbankcdn.com
@@ -13377,6 +13378,7 @@ pg.cdn.integration.viber.com
 pg.cdn.viber.com
 pg3d.app
 pgat.us
+pgdt.gtimg.cn
 pgi.billdesk.com
 pgl.yoyo.org
 pgrs.in
@@ -17090,6 +17092,7 @@ tamar.is
 tampa.cbslocal.com
 tampermonkey.net
 tandfonline.com
+tangram-config.gdt.qq.com
 tanks.ly
 tantanapp.com
 tanx.com
