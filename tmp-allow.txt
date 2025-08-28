@@ -12,6 +12,7 @@
 @@||*.xn--ngstr-lra8j.com^
 @@||0.gp^
 @@||000714.xyz^
+@@||00m.in^
 @@||00oo.lol^
 @@||010.at^
 @@||02faq.com^
@@ -2961,6 +2962,7 @@
 @@||hoo.be^
 @@||hop2.page^
 @@||hopla.to^
+@@||hopp.co^
 @@||hops.me^
 @@||hopth.ru^
 @@||hot.browser.miui.com^
@@ -8462,7 +8464,6 @@
 @@||v-k.pw^
 @@||v.douyin.com^
 @@||v.gd^
-@@||v.redd.it^
 @@||v1-mllqsv.onewsvod.com^
 @@||v1.ax^
 @@||v11-fq-tts.fqnovelvod.com^

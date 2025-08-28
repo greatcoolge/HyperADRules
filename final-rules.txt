@@ -45,6 +45,7 @@
 @@||0.us.pool.ntp.org^
 @@||0.wikipedia.com^
 @@||000714.xyz^
+@@||00m.in^
 @@||00oo.lol^
 @@||010.at^
 @@||02faq.com^
@@ -7978,6 +7979,7 @@
 @@||hoopshype.com^
 @@||hop2.page^
 @@||hopla.to^
+@@||hopp.co^
 @@||hops.me^
 @@||hopth.ru^
 @@||hopto.org^
@@ -18525,7 +18527,6 @@
 @@||v.firebog.net^
 @@||v.gd^
 @@||v.pinimg.com^
-@@||v.redd.it^
 @@||v.shopify.com^
 @@||v.smtcdns.net^
 @@||v1-mllqsv.onewsvod.com^
