@@ -718,6 +718,7 @@
 @@||analytics.trustyou.com^
 @@||analytics.twitter.com^
 @@||analyticslinker.ovh^
+@@||anbisu.com^
 @@||anch.co^
 @@||anchorurl.cloud^
 @@||ancstry.me^
@@ -813,6 +814,7 @@
 @@||apms5.com^
 @@||apna.link^
 @@||apne.ws^
+@@||apollo2b.com^
 @@||aporasal.net^
 @@||app-measurement.com^
 @@||app-site-association.cdn-apple.com^
@@ -1848,12 +1850,14 @@
 @@||cv-h.phncdn.com^
 @@||cvcpl.us^
 @@||cvent.me^
+@@||cvitko.com^
 @@||cvs.co^
 @@||cwg.li^
 @@||cwr.link^
 @@||cy8.co^
 @@||cya.nz^
 @@||cyb.ec^
+@@||cyberrl.com^
 @@||cybr.fr^
 @@||cybr.rocks^
 @@||cyonix.to^
@@ -1869,6 +1873,7 @@
 @@||d.to^
 @@||d.toutiao.com^
 @@||d.tuor.us^
+@@||d0.mk^
 @@||d138.link^
 @@||d1ayxb9ooonjts.cloudfront.net^
 @@||d2eak.link^
@@ -2591,6 +2596,7 @@
 @@||geo1.presslabs.net^
 @@||geo2ipv6.dns.presslabs.net^
 @@||georiot.co^
+@@||geralink.net^
 @@||gesit.io^
 @@||gesn.it^
 @@||gestyy.com^
@@ -2606,6 +2612,7 @@
 @@||getlickd.com^
 @@||getlink.space^
 @@||getmovie.vip^
+@@||getrecipe.pro^
 @@||getshort.in^
 @@||getsmallurl.com^
 @@||getthot.com^
@@ -3313,12 +3320,14 @@
 @@||jagoan-hosting.online^
 @@||jalanku.me^
 @@||jalanpintas4d.com^
+@@||jalurvip.co^
 @@||jame.sn^
 @@||jamesastaten.live^
 @@||janji.me^
 @@||janjihoki.fun^
 @@||janjikita.me^
 @@||japha.co^
+@@||jasafoll.com^
 @@||jasj.us^
 @@||javadocs.org^
 @@||javfinder.ai^
@@ -5229,6 +5238,7 @@
 @@||moonlinks.in^
 @@||moourl.com^
 @@||moovit.me^
+@@||mooxi.io^
 @@||more.sh^
 @@||moreluck.xyz^
 @@||morimo.info^
@@ -5260,6 +5270,7 @@
 @@||msedown.360safe.com^
 @@||msft.it^
 @@||msfy.in^
+@@||msgtechzone.com^
 @@||mshorten.com^
 @@||msi.gm^
 @@||mskb.ir^
@@ -6109,6 +6120,7 @@
 @@||qr1.jp^
 @@||qr123reg.click^
 @@||qr2.bz^
+@@||qra.se^
 @@||qraus.com^
 @@||qrbee.net^
 @@||qrcc.me^
@@ -6638,6 +6650,7 @@
 @@||sbgo.io^
 @@||sbird.co^
 @@||sbms.biz^
+@@||sbobet.host^
 @@||sbotangandewa.com^
 @@||sbps.ms^
 @@||sbsb.kr^
@@ -6891,6 +6904,7 @@
 @@||shortino.link^
 @@||shortinx.xyz^
 @@||shortiny.com^
+@@||shortio.net^
 @@||shortio.sk^
 @@||shortit.me^
 @@||shortl.net^
@@ -6984,6 +6998,7 @@
 @@||shrinkme.io^
 @@||shrinkster.com^
 @@||shrinkurl.us^
+@@||shrnk.co.uk^
 @@||shrt.co^
 @@||shrt.in^
 @@||shrt.it^
@@ -7066,6 +7081,7 @@
 @@||sites.kr^
 @@||sites.paradox.ai^
 @@||siteurl.ink^
+@@||situs.bio^
 @@||situsslotzeus.store^
 @@||siwazywcdn2.com^
 @@||siz.la^
@@ -7341,6 +7357,7 @@
 @@||stuf.in^
 @@||stvkr.com^
 @@||su.pr^
+@@||suakhoacamlam.com^
 @@||sub2unlock.net^
 @@||suconfig.apple.com^
 @@||sugar.zhihu.com^
@@ -7755,12 +7772,14 @@
 @@||tick.news^
 @@||tidd.ly^
 @@||tiddly.io^
+@@||tidyurl.link^
 @@||tiger77.monster^
 @@||tigerlink.me^
 @@||tighturl.com^
 @@||tik.la^
 @@||tik.lat^
 @@||tik.lol^
+@@||tiklagit.net^
 @@||tiktokcdn.com^
 @@||tiktokv.com^
 @@||tim.com.vc^
@@ -8312,6 +8331,7 @@
 @@||url7x.com^
 @@||url84.com^
 @@||url88.online^
+@@||url8x.com^
 @@||urla.ru^
 @@||urlah.com^
 @@||urlao.com^
@@ -8558,6 +8578,7 @@
 @@||viraatlabs.com^
 @@||viraln.co^
 @@||virl.com^
+@@||vivir.pro^
 @@||vivo.tl^
 @@||vivoldi.com^
 @@||vjav.com^
@@ -8681,12 +8702,14 @@
 @@||webfiles.gamebanana.com^
 @@||webflow.grsm.io^
 @@||webi.li^
+@@||webixcard.me^
 @@||weblink.biz^
 @@||webmienphi.net^
 @@||webn.in^
 @@||webpower.eu^
 @@||webprotech.live^
 @@||webrc.net^
+@@||webshon.com^
 @@||webshort.org^
 @@||webshortner.com^
 @@||webstatic.hoyoverse.com^

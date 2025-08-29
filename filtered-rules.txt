@@ -1842,6 +1842,7 @@ analytics.twitter.com
 analyticsindiamag.com
 analyticslinker.ovh
 anandtech.com
+anbisu.com
 ancda.com
 anch.co
 anchorurl.cloud
@@ -2282,6 +2283,7 @@ apne.ws
 apnupdate.sonymobile.com
 apo.st
 apollo.dl.playstation.net
+apollo2b.com
 aporasal.net
 app-301.huawei.com
 app-ab03.marketo.com
@@ -4946,6 +4948,7 @@ cv-h.phncdn.com
 cv.phncdn.com
 cvcpl.us
 cvent.me
+cvitko.com
 cvp.twitch.tv
 cvp1.cdn.turner.com
 cvs.adobe.com
@@ -4967,6 +4970,7 @@ cybercrime-tracker.net
 cyberdrop.me
 cyberlink.com
 cybermap.kaspersky.com
+cyberrl.com
 cyberthreatcoalition.org
 cybr.fr
 cybr.rocks
@@ -4997,6 +5001,7 @@ d.toutiao.com
 d.tuor.us
 d.xiaomi.com
 d.yimg.com
+d0.mk
 d10lpsik1i8c69.cloudfront.net
 d138.link
 d1ayxb9ooonjts.cloudfront.net
@@ -7011,6 +7016,7 @@ geotrust.com
 geover-prod.do.dsp.mp.microsoft.com
 geover-prod.dodsp.mp.microsoft.com.nsatc.net
 ger.cdn.survey.medallia.com
+geralink.net
 gesangsunterricht-hh.de
 geshopcss.logsss.com
 gesit.io
@@ -7044,6 +7050,7 @@ getmore.sonymobile.com
 getmovie.vip
 getpocket.com
 getprof.sg.np.community.playstation.net
+getrecipe.pro
 getresponse.com
 getsatisfaction.com
 getsharex.com
@@ -8923,6 +8930,7 @@ jagoan-hosting.online
 jalanku.me
 jalanpintas4d.com
 jalopnik.com
+jalurvip.co
 jame.sn
 jamesastaten.live
 jango.com
@@ -8933,6 +8941,7 @@ japan.techrepublic.com
 japanese.engadget.com
 japha.co
 jarvis-dev.sonymobile.com
+jasafoll.com
 jasj.us
 jav321.com
 javadocs.org
@@ -11971,6 +11980,7 @@ mooo.com
 moourl.com
 moovit.me
 moovitapp.com
+mooxi.io
 mopub.com
 more.sh
 moreluck.xyz
@@ -12055,6 +12065,7 @@ msg.edit.yahoo.com
 msg.netflix.com
 msg.video.qiyi.com
 msg2.client.xunlei.com
+msgtechzone.com
 msh.amazon.com
 mshorten.com
 msi.gm
@@ -14077,6 +14088,7 @@ qr.net
 qr1.jp
 qr123reg.click
 qr2.bz
+qra.se
 qraus.com
 qrbee.net
 qrcc.me
@@ -15035,6 +15047,7 @@ sbird.co
 sbl.wmk
 sblinks.com
 sbms.biz
+sbobet.host
 sbotangandewa.com
 sbps.ms
 sbs.com.au
@@ -15587,6 +15600,7 @@ shortin.in
 shortino.link
 shortinx.xyz
 shortiny.com
+shortio.net
 shortio.sk
 shortit.me
 shortl.net
@@ -15684,6 +15698,7 @@ shrinkme.ink
 shrinkme.io
 shrinkster.com
 shrinkurl.us
+shrnk.co.uk
 shrt.co
 shrt.in
 shrt.it
@@ -15801,6 +15816,7 @@ sites.kr
 sites.paradox.ai
 sites.techcrunch.com
 siteurl.ink
+situs.bio
 situsslotzeus.store
 siwazywcdn2.com
 siz.la
@@ -16628,6 +16644,7 @@ stvkr.com
 style.sndcdn.com
 styles.redditmedia.com
 su.pr
+suakhoacamlam.com
 suarankri.me
 sub2unlock.net
 subscribe.ign.com
@@ -17339,6 +17356,7 @@ tick.news
 ticket.rakuten.co.jp
 tidd.ly
 tiddly.io
+tidyurl.link
 tier2.ios.skypeassets.com
 tiger77.monster
 tigerlink.me
@@ -17347,6 +17365,7 @@ tighturl.com
 tik.la
 tik.lat
 tik.lol
+tiklagit.net
 tiktok.com
 tiktokcdn.com
 tiktokv.com
@@ -18261,6 +18280,7 @@ url724.link
 url7x.com
 url84.com
 url88.online
+url8x.com
 urla.ru
 urlah.com
 urlao.com
@@ -18745,6 +18765,7 @@ visualstudio-devdiv-c2s.msedge.net
 visualstudio.com
 vitacost.com
 vitalia.pl
+vivir.pro
 vivo.sx
 vivo.tl
 vivoldi.com
@@ -19039,6 +19060,7 @@ webgrab.wechat.com
 webhostingtalk.com
 webi.li
 webinstallers.gog-statics.com
+webixcard.me
 weblb-wg.dual-gslb.spotify.com
 weblink.biz
 webmail.laposte.net
@@ -19059,6 +19081,7 @@ webservices.amazon.com
 webservices.amazon.de
 webservices.amazon.es
 webservices.amazon.it
+webshon.com
 webshort.org
 webshortner.com
 website-api.gotinder.com
