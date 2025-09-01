@@ -59,7 +59,6 @@
 @@||0eaf.cardinalcommerce.com^
 @@||0i.is^
 @@||0ln.io^
-@@||0o.lv^
 @@||0oj.cn^
 @@||0p.de^
 @@||0rl.cc^
@@ -15811,6 +15810,7 @@
 @@||sitepoint.com^
 @@||sites.engadget.com^
 @@||sites.google.com^
+@@||sites.hscoscdn-ap1.net^
 @@||sites.hscoscdn-eu1.net^
 @@||sites.hscoscdn-na2.net^
 @@||sites.hscoscdn00.net^

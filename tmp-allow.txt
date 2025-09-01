@@ -24,7 +24,6 @@
 @@||0a0.uk^
 @@||0i.is^
 @@||0ln.io^
-@@||0o.lv^
 @@||0oj.cn^
 @@||0rl.cc^
 @@||0rz.tw^
@@ -7071,6 +7070,7 @@
 @@||siriusxm.us^
 @@||site.tiantiantiaosheng.com^
 @@||siteco.re^
+@@||sites.hscoscdn-ap1.net^
 @@||sites.hscoscdn-eu1.net^
 @@||sites.hscoscdn-na2.net^
 @@||sites.hscoscdn00.net^
