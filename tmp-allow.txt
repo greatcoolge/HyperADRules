@@ -147,6 +147,7 @@
 @@||2x0.net^
 @@||2x1.io^
 @@||2xo.net^
+@@||2y2.co^
 @@||2ya.com^
 @@||3.cn^
 @@||3.ly^
@@ -209,6 +210,7 @@
 @@||4shorturl.app^
 @@||4sq.com^
 @@||4ton.com^
+@@||4tw.uk^
 @@||4uid.com^
 @@||4url.cc^
 @@||5.gp^
@@ -222,7 +224,6 @@
 @@||5ne.co^
 @@||5or.cc^
 @@||5qzr.com^
-@@||5rb.pro^
 @@||5rwv.info^
 @@||5url.net^
 @@||5v-v.com^
@@ -301,6 +302,7 @@
 @@||9oz.com^
 @@||9splay.store^
 @@||9u9.de^
+@@||9url.net^
 @@||Linux.do^
 @@||a.189.cn^
 @@||a.6mqw.org^
@@ -447,7 +449,6 @@
 @@||adjix.com^
 @@||adlinkcash.com^
 @@||adlinkfly.mightyscripts.xyz^
-@@||adlinkfly.space^
 @@||adlinkpay.com^
 @@||adlinksumo.com^
 @@||adlvy.com^
@@ -619,6 +620,8 @@
 @@||agphosting.com^
 @@||agrd.io^
 @@||agroforestri.id^
+@@||ah.my^
+@@||aholink.com^
 @@||ai-cdn.duba.net^
 @@||ai.blendnow.com^
 @@||ai18.link^
@@ -676,6 +679,8 @@
 @@||alldomainwhois.xyz^
 @@||alli.pub^
 @@||alllinks.in^
+@@||alllinksinbio.com^
+@@||allytab.com^
 @@||alnk.to^
 @@||alolink.com^
 @@||alongno1.live^
@@ -871,6 +876,7 @@
 @@||apsense.cc^
 @@||aptg.tw^
 @@||apticirl.com^
+@@||aptly.co.za^
 @@||apurl.in^
 @@||apzones.com^
 @@||aqva.pl^
@@ -893,7 +899,6 @@
 @@||arsn.al^
 @@||article.zlink.toutiao.com^
 @@||arus.cc^
-@@||as1ansl0t88.site^
 @@||asap.to^
 @@||asc.cool^
 @@||ase.ink^
@@ -1004,6 +1009,7 @@
 @@||b23.tv^
 @@||b2g.tech^
 @@||b2n.ir^
+@@||b2u.io^
 @@||b33.fr^
 @@||b54.in^
 @@||b6e.cn^
@@ -1074,9 +1080,9 @@
 @@||benfei.to^
 @@||benqurl.biz^
 @@||berde.bar^
+@@||beree.io^
 @@||bestbuy.7tiv.net^
 @@||bestshortlink.com^
-@@||bet200.win^
 @@||betaloop.io^
 @@||beteshis.com^
 @@||beth.games^
@@ -1109,6 +1115,7 @@
 @@||bio.rub3n.io^
 @@||biolinkexp.com^
 @@||biolook.net^
+@@||bioqr.me^
 @@||bioreling.com^
 @@||biotap.click^
 @@||biotap.io^
@@ -1116,6 +1123,7 @@
 @@||bisadimasuk.in^
 @@||bisakale.me^
 @@||bisd.link^
+@@||bit-ely.com^
 @@||bit.bz^
 @@||bit.do^
 @@||bit.ly^
@@ -1126,7 +1134,6 @@
 @@||bitgg.co^
 @@||bitigee.com^
 @@||bitily.com.br^
-@@||bitj.icu^
 @@||bitl.to^
 @@||bitlee.site^
 @@||bitly.bz^
@@ -1142,7 +1149,6 @@
 @@||bitly.team^
 @@||bitly.ws^
 @@||bitly1.ru^
-@@||bitlyli.com^
 @@||bitlylinks.com^
 @@||bitlyvi.com^
 @@||bitlz.cc^
@@ -1249,6 +1255,7 @@
 @@||brev.ws^
 @@||brevelink.com^
 @@||brevi.space^
+@@||brevly.co^
 @@||brg.mobi^
 @@||bridge.dev^
 @@||brief.ly^
@@ -1490,6 +1497,7 @@
 @@||chekc.life^
 @@||chem.sg^
 @@||cherrykiss.club^
+@@||chew88.com^
 @@||chfm.ch^
 @@||chill.ly^
 @@||chilp.it^
@@ -1546,6 +1554,7 @@
 @@||clckr.pw^
 @@||cle.clinic^
 @@||cleverlink.pro^
+@@||cleverurls.com^
 @@||cli.fm^
 @@||cli.gs^
 @@||cli.im^
@@ -1634,6 +1643,7 @@
 @@||clipmy.link^
 @@||clips4sale.com^
 @@||clipurl.com^
+@@||cliq.ing^
 @@||clix.kr^
 @@||clk.asia^
 @@||clk.boulanger.com^
@@ -1736,6 +1746,7 @@
 @@||coopurl.com^
 @@||cop.vn^
 @@||cort.as^
+@@||cort.my^
 @@||cortalo.net^
 @@||couic.fr^
 @@||count.shopping.t-online.de^
@@ -1822,6 +1833,7 @@
 @@||cute.link^
 @@||cuterurlha.xyz^
 @@||cuteurl.co^
+@@||cutfy.co^
 @@||cutit.bid^
 @@||cutle.co^
 @@||cutlink.now^
@@ -1839,6 +1851,7 @@
 @@||cuttly.art^
 @@||cuttly.io^
 @@||cutto.io^
+@@||cutts.in^
 @@||cutturl.xyz^
 @@||cutu.me^
 @@||cutur.link^
@@ -1860,6 +1873,7 @@
 @@||cybr.fr^
 @@||cybr.rocks^
 @@||cyonix.to^
+@@||cyte.in^
 @@||d-sh.io^
 @@||d.agkn.com^
 @@||d.bilibili.com^
@@ -1883,6 +1897,7 @@
 @@||daduslot88.life^
 @@||dafa01.net^
 @@||dafa07.net^
+@@||daftar.to^
 @@||daftar.tokyo^
 @@||daftarhoki.live^
 @@||daftarmpomax.live^
@@ -2165,6 +2180,7 @@
 @@||ebooktruyen.info^
 @@||eby.onl^
 @@||ecard.163.com^
+@@||eclink.me^
 @@||eclip.se^
 @@||econ.st^
 @@||ecra.se^
@@ -2179,6 +2195,7 @@
 @@||edmno1.info^
 @@||edne.tw^
 @@||edocs.co^
+@@||edoin.com^
 @@||edu.nl^
 @@||ee.ci^
 @@||ee9.ir^
@@ -2458,6 +2475,8 @@
 @@||fna.ir^
 @@||fnb.ink^
 @@||fnb.lc^
+@@||fneezet.com^
+@@||fnoogy.com^
 @@||fnote.it^
 @@||foe.hn^
 @@||foll.link^
@@ -2662,6 +2681,7 @@
 @@||glmr.co^
 @@||glnk.io^
 @@||glo.bo^
+@@||globargains.com^
 @@||gloshukadamiava2.live^
 @@||gm.163.com^
 @@||gma.abc^
@@ -2715,6 +2735,7 @@
 @@||go.nowth.is^
 @@||go.osu.edu^
 @@||go.pardot.com^
+@@||go.pastemega.com^
 @@||go.pomona.rocks^
 @@||go.poweren.ir^
 @@||go.qb.by^
@@ -2765,7 +2786,6 @@
 @@||goo-gl.me^
 @@||goo-id.com^
 @@||goo.click^
-@@||goo.gl^
 @@||goo.gle^
 @@||goo.re^
 @@||goo.su^
@@ -2904,6 +2924,7 @@
 @@||hentaihand.com^
 @@||heoiberico.life^
 @@||heotoc.life^
+@@||hepsipay.eu^
 @@||her.is^
 @@||herff.ly^
 @@||hero.link^
@@ -2932,6 +2953,7 @@
 @@||hill.cm^
 @@||himg.bdimg.com^
 @@||histori.ca^
+@@||hitlap.com^
 @@||hitomi.la^
 @@||hive.arf.dev^
 @@||hivy.net^
@@ -2966,6 +2988,7 @@
 @@||homes.jp^
 @@||honkaiimpact3.hoyoverse.com^
 @@||hoo.be^
+@@||hooturl.com^
 @@||hop2.page^
 @@||hopla.to^
 @@||hopp.co^
@@ -3472,6 +3495,7 @@
 @@||kisa.link^
 @@||kisa.pro^
 @@||kisaca.site^
+@@||kisalt.co^
 @@||kisaurl.org^
 @@||kissa.be^
 @@||kjd.us^
@@ -3520,6 +3544,7 @@
 @@||korta.nu^
 @@||korta.st^
 @@||kortlink.dk^
+@@||kota.lk^
 @@||kotl.in^
 @@||kp.org^
 @@||kpmg.ch^
@@ -3534,6 +3559,7 @@
 @@||krpcgvm.wiki^
 @@||krpp.me^
 @@||krunchd.com^
+@@||ksni.my^
 @@||ktbs.in^
 @@||ktckesaria.com^
 @@||ku-li.de^
@@ -3648,6 +3674,7 @@
 @@||lf8.info^
 @@||lft.to^
 @@||li.bi^
+@@||lia.nz^
 @@||lialink.net^
 @@||liangcang-material.alicdn.com^
 @@||lib.ac^
@@ -3756,6 +3783,7 @@
 @@||linkaff.com^
 @@||linkai.in^
 @@||linkaku.pro^
+@@||linkallstar.com^
 @@||linkalp.com^
 @@||linkapp.click^
 @@||linkasli.pro^
@@ -3768,6 +3796,7 @@
 @@||linkbite.io^
 @@||linkbitty.com^
 @@||linkbloomer.com^
+@@||linkboard.com.br^
 @@||linkbreakers.com^
 @@||linkbulks.com^
 @@||linkbun.ch^
@@ -3777,6 +3806,7 @@
 @@||linkclickcounter.com^
 @@||linkcrypter.com^
 @@||linkcut.io^
+@@||linkcut.net^
 @@||linkcutt.com^
 @@||linkd.in^
 @@||linke.to^
@@ -3790,6 +3820,7 @@
 @@||linkfly.to^
 @@||linkfr.ee^
 @@||linkfuly.com^
+@@||linkfusion.in^
 @@||linkgacor33.info^
 @@||linkgacorr88.shop^
 @@||linkgol88.com^
@@ -3811,6 +3842,7 @@
 @@||linkjago.me^
 @@||linkjet.net^
 @@||linkjitu.site^
+@@||linkjoy.org^
 @@||linkjp.org^
 @@||linkjust.com^
 @@||linkku.me^
@@ -3833,6 +3865,7 @@
 @@||linkpug4d.com^
 @@||linkqb.com^
 @@||linkr.uk^
+@@||linkr.vc^
 @@||linkraya.com^
 @@||linkrefferal.vip^
 @@||linkrjb.me^
@@ -3888,6 +3921,8 @@
 @@||linky.is^
 @@||linky31.com^
 @@||linkye.net^
+@@||linkz.tn^
+@@||linkzap.in^
 @@||lintlink.com^
 @@||linux.mom^
 @@||lionl.ink^
@@ -3914,6 +3949,7 @@
 @@||livephoto.us.sinaimg.cn^
 @@||livesport88.life^
 @@||livestre.am^
+@@||liy.ke^
 @@||lk.macmarketing.us^
 @@||lkbitz.com^
 @@||lkdg.yoga^
@@ -4263,6 +4299,7 @@
 @@||met.bz^
 @@||met.to^
 @@||metamark.net^
+@@||meterlinks.com^
 @@||metric.picodi.com^
 @@||metro-tmo.com^
 @@||meumessage.com^
@@ -4286,6 +4323,7 @@
 @@||microlinkfy.io^
 @@||microlinks.io^
 @@||microsoft.com^
+@@||microurls.io^
 @@||midas.gtimg.cn^
 @@||midiavip.com^
 @@||miffy.me^
@@ -5491,6 +5529,7 @@
 @@||no404.de^
 @@||nobitaxx.live^
 @@||nofnec.live^
+@@||nogfan.com^
 @@||noicindya.life^
 @@||nokia.ly^
 @@||nonstoppartner.net^
@@ -5573,6 +5612,7 @@
 @@||oink.us^
 @@||oinla.com^
 @@||ojrq.net^
+@@||ok.link^
 @@||ok2.com^
 @@||oke.io^
 @@||okebio.com^
@@ -5922,6 +5962,7 @@
 @@||playsolaire.com^
 @@||pldthome.info^
 @@||plink.ir^
+@@||plinkzy.com^
 @@||plots.fr^
 @@||plrx.me^
 @@||plu.sh^
@@ -6238,10 +6279,12 @@
 @@||rantenah.com^
 @@||raoteqdab.cc.rs6.net^
 @@||rapki9kab.cc.rs6.net^
+@@||rapurl.com^
 @@||rav5ithbb.cc.rs6.net^
 @@||ravshort.com^
 @@||rayrzagab.cc.rs6.net^
 @@||rayzershort.com^
+@@||razi-link.ir^
 @@||rb-story.com^
 @@||rb.gy^
 @@||rb6.co^
@@ -6251,6 +6294,7 @@
 @@||rblx.co^
 @@||rblz6kyab.cc.rs6.net^
 @@||rbozfpgbb.cc.rs6.net^
+@@||rbtly.com^
 @@||rbx-url.com^
 @@||rbxurl.pro^
 @@||rc6m7jbbb.cc.rs6.net^
@@ -6509,6 +6553,7 @@
 @@||ryml.me^
 @@||ryp.im^
 @@||rypni4cbb.cc.rs6.net^
+@@||ryps.us^
 @@||rz6dkreab.cc.rs6.net^
 @@||rza6mzmab.cc.rs6.net^
 @@||rzeyu9wab.cc.rs6.net^
@@ -6662,6 +6707,7 @@
 @@||sc1o.com^
 @@||scanlah.com^
 @@||scanqris.me^
+@@||scanquickly.com^
 @@||scbet88vvip.org^
 @@||scbetgacorr.org^
 @@||sched.co^
@@ -6707,6 +6753,7 @@
 @@||sedap.me^
 @@||seedsta.rs^
 @@||seek.hosting.exacttarget.com^
+@@||seez.bio^
 @@||seiu.co^
 @@||sejr.nl^
 @@||seka.li^
@@ -6777,6 +6824,7 @@
 @@||shareasale.com^
 @@||shareclicker.com^
 @@||sharein.com^
+@@||sharelinkpro.com^
 @@||sharem.tech^
 @@||sharepointshorturl.com^
 @@||sharetabs.com^
@@ -6803,6 +6851,7 @@
 @@||sho.ae^
 @@||sho.cat^
 @@||sho.pe^
+@@||shoco.one^
 @@||shoort.io^
 @@||shoortly.com^
 @@||shop-links.co^
@@ -6925,6 +6974,7 @@
 @@||shortly.cyou^
 @@||shortly.im^
 @@||shortlync.com^
+@@||shortlynks.com^
 @@||shortma.de^
 @@||shortmds.xyz^
 @@||shortme.me^
@@ -6938,9 +6988,11 @@
 @@||shortnerurl.org^
 @@||shortonly.com^
 @@||shortpals.online^
+@@||shortpro.in^
 @@||shortq.link^
 @@||shortr.at^
 @@||shortracz.com^
+@@||shortrl.com^
 @@||shortsfly.me^
 @@||shortshare.app^
 @@||shortstat.com^
@@ -6999,6 +7051,7 @@
 @@||shrinkster.com^
 @@||shrinkurl.us^
 @@||shrnk.co.uk^
+@@||shrnkz.com^
 @@||shrt.co^
 @@||shrt.in^
 @@||shrt.it^
@@ -7115,6 +7168,7 @@
 @@||slby.ir^
 @@||slecastle.com^
 @@||slice.partners^
+@@||slicethis.link^
 @@||slickdeals.net^
 @@||slidesha.re^
 @@||slimeteam.live^
@@ -7172,6 +7226,8 @@
 @@||snip.link^
 @@||snip.ly^
 @@||snip.ng^
+@@||snipi.io^
+@@||snipmojo.com^
 @@||snipp.dev^
 @@||snipqr.com^
 @@||snipr.com^
@@ -7354,6 +7410,7 @@
 @@||strk12.link^
 @@||stspg.io^
 @@||stts.in^
+@@||studioki.re^
 @@||study.163.com^
 @@||stuf.in^
 @@||stvkr.com^
@@ -7449,6 +7506,7 @@
 @@||surl.li^
 @@||surl.me^
 @@||surl.pro^
+@@||surl.ro^
 @@||surlgo.com^
 @@||surlz.com^
 @@||surrit.com^
@@ -7653,6 +7711,7 @@
 @@||taiwangov.com^
 @@||takenlink.eu^
 @@||taklo.me^
+@@||talinker.com^
 @@||tamar.is^
 @@||tanks.ly^
 @@||tao.mba^
@@ -7796,6 +7855,7 @@
 @@||tinurl.pro^
 @@||tiny-l.com^
 @@||tiny-link.org^
+@@||tiny-links.net^
 @@||tiny-url.me^
 @@||tiny.cc^
 @@||tiny.do^
@@ -7815,6 +7875,7 @@
 @@||tinyarro.ws^
 @@||tinybit.cc^
 @@||tinybro.com^
+@@||tinycut.io^
 @@||tinyerz.com^
 @@||tinyfy.io^
 @@||tinyfy.me^
@@ -7850,6 +7911,7 @@
 @@||tinyurlz.co^
 @@||tinyvid.io^
 @@||tinyvnn.com^
+@@||tinyy.me^
 @@||tinyy.xyz^
 @@||tipeos.com^
 @@||tisfri.se^
@@ -7906,6 +7968,7 @@
 @@||tny.ws^
 @@||tny.xyz^
 @@||tnyurl.one^
+@@||tnyurl.pro^
 @@||to.lk^
 @@||to.ly^
 @@||to.nconnect.asia^
@@ -7923,6 +7986,7 @@
 @@||tomasz.top^
 @@||tonancos.com^
 @@||tonyr.co^
+@@||toolsfox.com^
 @@||toolspivot.com^
 @@||toonily.com^
 @@||toonily.me^
@@ -8115,6 +8179,7 @@
 @@||tu4.me^
 @@||tulinks.online^
 @@||tunepit.net^
+@@||tunjob.com^
 @@||tunl.link^
 @@||turboagram.com^
 @@||turlt.com^
@@ -8236,6 +8301,7 @@
 @@||unilever2.demdex.net^
 @@||unilever3.demdex.net^
 @@||unileverbrazil.demdex.net^
+@@||unimma.link^
 @@||union-click.jd.com^
 @@||union.jd.com^
 @@||unipapa.co^
@@ -8321,6 +8387,7 @@
 @@||url2.in^
 @@||url2a.site^
 @@||url2s.com^
+@@||url2xx.com^
 @@||url302x.icu^
 @@||url302x.top^
 @@||url4.eu^
@@ -8333,7 +8400,9 @@
 @@||url84.com^
 @@||url88.online^
 @@||url8x.com^
+@@||url9xx.com^
 @@||urla.ru^
+@@||urladda.com^
 @@||urlah.com^
 @@||urlao.com^
 @@||urlb.link^
@@ -8374,6 +8443,7 @@
 @@||urlino.net^
 @@||urlis.net^
 @@||urlist.net^
+@@||urlkai.com^
 @@||urlki.com^
 @@||urlkr.com^
 @@||urlky.com^
@@ -8398,6 +8468,7 @@
 @@||urls.to^
 @@||urlsh.net^
 @@||urlsh.us^
+@@||urlshor.com^
 @@||urlshort.allcrom.com.br^
 @@||urlshort.click^
 @@||urlshort.dev^
@@ -8463,12 +8534,14 @@
 @@||uselinkwizard.com^
 @@||userlinks.in^
 @@||useshort.com^
+@@||usetiny.link^
 @@||usf.services^
 @@||usheethe.com^
 @@||ushort.me^
 @@||usps-v2.com^
 @@||usreviewers.com^
 @@||ut9.cc^
+@@||utag.us^
 @@||utm.io^
 @@||utm.to^
 @@||utn.pl^
@@ -8539,6 +8612,7 @@
 @@||vestil.org^
 @@||vfiles.gtimg.cn^
 @@||vfo.voyage-prive.co.uk^
+@@||vgg.gg^
 @@||vgn.me^
 @@||vgnx.co^
 @@||vi-tiktok.com^
@@ -8566,10 +8640,12 @@
 @@||vigilink.com^
 @@||vindicoce.com^
 @@||vineland.dj^
+@@||vinggle.com^
 @@||vinmalamsuwdwdc.life^
 @@||vinurl.com^
 @@||vip-gacha99.info^
 @@||vip.superpopdrop.com^
+@@||vipb.io^
 @@||vipcair.click^
 @@||vipjus.click^
 @@||viprupiah138.net^
@@ -8602,6 +8678,7 @@
 @@||vodafone.uk^
 @@||vodkgeyttp8.vod.126.net^
 @@||vodkgeyttp9.vod.126.net^
+@@||vog.me^
 @@||vogue.cm^
 @@||voicetu.be^
 @@||volamtruyenky.life^
@@ -8618,6 +8695,7 @@
 @@||vrnda.us^
 @@||vscode.download.prss.microsoft.com^
 @@||vshorturl.com^
+@@||vslinks.com^
 @@||vt802.us^
 @@||vtns.io^
 @@||vtred.co^
@@ -8696,6 +8774,7 @@
 @@||weall.vote^
 @@||weare.rs^
 @@||weatherapi.market.xiaomi.com^
+@@||weaveen.com^
 @@||web99.eu^
 @@||webapps.mimikko.cn^
 @@||webcut.net^
@@ -9014,6 +9093,7 @@
 @@||xib.me^
 @@||xiqi.us^
 @@||xl8.eu^
+@@||xlnk.eu^
 @@||xmlr.link^
 @@||xn--57h.ws^
 @@||xn--9p4bqa88cp2m.t2m.top^
@@ -9180,6 +9260,7 @@
 @@||zeusurl.com^
 @@||zeusurl.net^
 @@||zez.kr^
+@@||zguarou.com^
 @@||zhidao.baidu.com^
 @@||zhipin.com^
 @@||zhort.de^
@@ -9218,6 +9299,7 @@
 @@||znt.bz^
 @@||znv.cc^
 @@||zo.cm^
+@@||zobzob.com^
 @@||zodgame.xyz^
 @@||zoho.to^
 @@||zom.ink^
@@ -9234,6 +9316,7 @@
 @@||zovpart.com^
 @@||zpag.es^
 @@||zpr.io^
+@@||zpurl.org^
 @@||zqq.bio^
 @@||zrghosting.com^
 @@||zrpl.ir^
