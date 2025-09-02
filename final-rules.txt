@@ -3300,7 +3300,6 @@
 @@||boldchat.com^
 @@||bolstr.online^
 @@||bolt.dropbox.com^
-@@||bom.one^
 @@||bomis.snap.com^
 @@||bonai.re^
 @@||bonap.it^
