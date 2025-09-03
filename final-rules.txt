@@ -4977,6 +4977,7 @@
 @@||cutur.link^
 @@||cuturl.com^
 @@||cuturl.net^
+@@||cutx.me^
 @@||cuty.io^
 @@||cutyurl.com^
 @@||cv-h.phncdn.com^
@@ -7677,7 +7678,6 @@
 @@||grouprai.se^
 @@||groups.diigo.com^
 @@||groups.google.com^
-@@||groupsexting.live^
 @@||growingio.com^
 @@||growth.pusher.com^
 @@||grp02.trc.ashiato.rakuten.co.jp^
@@ -7804,7 +7804,6 @@
 @@||haoma.163.com^
 @@||hapi.hi.163.com^
 @@||har.es^
-@@||harapan777.love^
 @@||harborfreight.com^
 @@||hardware.support.eu.playstation.com^
 @@||hardwareluxx.de^
@@ -8168,7 +8167,6 @@
 @@||hybrid.xiaomi.com^
 @@||hydrax.net^
 @@||hyperlinker.io^
-@@||hyperly.co^
 @@||hypershort.com^
 @@||hyperurl.co^
 @@||hyperx.gg^
@@ -8320,7 +8318,6 @@
 @@||idek.net^
 @@||identity.apple.com^
 @@||ideone.com^
-@@||idfk.lol^
 @@||idg.com^
 @@||idg.me^
 @@||idg.se^
@@ -8359,7 +8356,6 @@
 @@||ige.li^
 @@||igg-games.com^
 @@||igg.com^
-@@||igit.me^
 @@||igludostats.moonfroglabs.com^
 @@||ign.com^
 @@||ignorelist.com^
@@ -9820,7 +9816,6 @@
 @@||linkfuly.com^
 @@||linkfusion.in^
 @@||linkgacor33.info^
-@@||linkgacorr88.shop^
 @@||linkgol88.com^
 @@||linkhebat.com^
 @@||linki.run^
@@ -9929,7 +9924,6 @@
 @@||linkverified.net^
 @@||linkvp.com^
 @@||linkwi.se^
-@@||linky.cc^
 @@||linky.is^
 @@||linky31.com^
 @@||linkye.net^
@@ -15632,7 +15626,6 @@
 @@||short.ie^
 @@||short.io^
 @@||short.lokuads.com^
-@@||short.ly^
 @@||short.ms^
 @@||short.mypaste.fun^
 @@||short.organicweb.top^

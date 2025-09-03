@@ -1874,6 +1874,7 @@
 @@||cutur.link^
 @@||cuturl.com^
 @@||cuturl.net^
+@@||cutx.me^
 @@||cuty.io^
 @@||cutyurl.com^
 @@||cv-h.phncdn.com^
@@ -2857,7 +2858,6 @@
 @@||grnh.se^
 @@||groupprohead.gtimg.cn^
 @@||grouprai.se^
-@@||groupsexting.live^
 @@||grpc.biliapi.net^
 @@||gs.apple.com^
 @@||gsa.apple.com^
@@ -2912,7 +2912,6 @@
 @@||haokawx.lot-ml.com^
 @@||haoma.163.com^
 @@||hapi.hi.163.com^
-@@||harapan777.love^
 @@||has.coffee^
 @@||hashi.co^
 @@||hatl.ink^
@@ -3070,7 +3069,6 @@
 @@||husband92.com^
 @@||hut.bz^
 @@||hyperlinker.io^
-@@||hyperly.co^
 @@||hypershort.com^
 @@||hyperurl.co^
 @@||hyperx.gg^
@@ -3128,7 +3126,6 @@
 @@||id.163.com^
 @@||idek.net^
 @@||identity.apple.com^
-@@||idfk.lol^
 @@||idm.in^
 @@||idmail.me^
 @@||idmsa.apple.com^
@@ -3147,7 +3144,6 @@
 @@||ift.tt^
 @@||ig.apple.com^
 @@||ige.li^
-@@||igit.me^
 @@||iherb.co^
 @@||ihnpo.com^
 @@||ihor.se^
@@ -3854,7 +3850,6 @@
 @@||linkfuly.com^
 @@||linkfusion.in^
 @@||linkgacor33.info^
-@@||linkgacorr88.shop^
 @@||linkgol88.com^
 @@||linkhebat.com^
 @@||linki.run^
@@ -3952,7 +3947,6 @@
 @@||linkunshorten.com^
 @@||linkverified.net^
 @@||linkvp.com^
-@@||linky.cc^
 @@||linky.is^
 @@||linky31.com^
 @@||linkye.net^
@@ -6929,7 +6923,6 @@
 @@||short.icu^
 @@||short.io^
 @@||short.lokuads.com^
-@@||short.ly^
 @@||short.ms^
 @@||short.mypaste.fun^
 @@||short.organicweb.top^
