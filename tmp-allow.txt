@@ -142,7 +142,6 @@
 @@||2tiny.in^
 @@||2to.info^
 @@||2u.lc^
-@@||2u.pw^
 @@||2u.xf.cz^
 @@||2ur.jp^
 @@||2vu.me^
@@ -6381,7 +6380,6 @@
 @@||rbxurl.pro^
 @@||rc6m7jbbb.cc.rs6.net^
 @@||rch.lt^
-@@||rck.gg^
 @@||rcknr.io^
 @@||rcld.io^
 @@||rcsurvey.live^
@@ -6856,7 +6854,6 @@
 @@||sendme.help^
 @@||sendurl.me^
 @@||senin.lol^
-@@||sensasi777.love^
 @@||seocantik.link^
 @@||seogilak.lol^
 @@||seq.vc^
@@ -7060,7 +7057,6 @@
 @@||shortlinkgenerator.com^
 @@||shortlinkpanel.com^
 @@||shortlinks.co.uk^
-@@||shortlinksakti.xyz^
 @@||shortll.com^
 @@||shortlurl.com^
 @@||shortly.cc^
@@ -7130,7 +7126,6 @@
 @@||shouji.bmcx.com^
 @@||showrtner.com^
 @@||shp.ee^
-@@||shp.page^
 @@||shpze.com^
 @@||shr.gg^
 @@||shr.li^
@@ -7171,7 +7166,6 @@
 @@||shrtyo.site^
 @@||shrunken.com^
 @@||shrunkin.com^
-@@||shss-ares.live^
 @@||sht.moe^
 @@||sht.wf^
 @@||shtlink.eu^
@@ -7233,11 +7227,9 @@
 @@||sites.paradox.ai^
 @@||siteurl.ink^
 @@||situs.bio^
-@@||situsslotzeus.store^
 @@||siwazywcdn2.com^
 @@||siz.la^
 @@||sk-go.kelkoogroup.net^
-@@||sk.gy^
 @@||sk.in.rs^
 @@||sk.news^
 @@||skimmth.is^
@@ -7297,7 +7289,6 @@
 @@||smlfy.com^
 @@||smlk.es^
 @@||smll.cc^
-@@||smo.do^
 @@||smoner.com^
 @@||smoot.apple.com^
 @@||smp-device-content.apple.com^
@@ -7871,7 +7862,6 @@
 @@||telegramviral.online^
 @@||teleko.me^
 @@||tellurl.com^
-@@||telnet-service.net^
 @@||temu.to^
 @@||ter.li^
 @@||terabox.in^
@@ -8087,12 +8077,10 @@
 @@||to8.cc^
 @@||toclick.link^
 @@||tog.li^
-@@||togoto.us^
 @@||tohle.de^
 @@||toi.in^
 @@||tokogenie.online^
 @@||tokopedia.link^
-@@||tokurlshortener.com^
 @@||toliveal.ie^
 @@||tom.163.com^
 @@||tomasz.top^
