@@ -7992,6 +7992,7 @@
 @@||presence-gcp-asia-south1.truecaller.com^
 @@||presence-grpc-noneu.truecaller.com^
 @@||presence-grpc.truecaller.com^
+@@||presence.teams.live.com^
 @@||press.soundcloud.com^
 @@||press.vimeo.com^
 @@||presscenter.playstation.com^
