@@ -990,6 +990,7 @@
 @@||awp-assets.meituan.net^
 @@||aws.tl^
 @@||awstrack.me^
+@@||aww.al^
 @@||awwurl.com^
 @@||awy.to^
 @@||axees.ir^
@@ -1039,6 +1040,7 @@
 @@||bacc666.mobi^
 @@||bacn.me^
 @@||bad.news^
+@@||bagi.link^
 @@||baid.us^
 @@||baidu-ide.bj.bcebos.com^
 @@||baijiahao.baidu.com^
@@ -1858,6 +1860,7 @@
 @@||customers.my^
 @@||customlinks.appsflyer.com^
 @@||customtraffic.impactradius.com^
+@@||cut-ly.com^
 @@||cut.by^
 @@||cut.gl^
 @@||cut.live^
@@ -2341,6 +2344,7 @@
 @@||es.pn^
 @@||escape.to^
 @@||esgr.xyz^
+@@||eshort.net^
 @@||esilkroads.com^
 @@||esl.gg^
 @@||eslite.me^
@@ -2967,6 +2971,7 @@
 @@||has.coffee^
 @@||hashi.co^
 @@||hatl.ink^
+@@||haur.be^
 @@||hausarzt.link^
 @@||hbaz.co^
 @@||hblab.me^
@@ -3326,6 +3331,7 @@
 @@||invpy.com^
 @@||invy.in^
 @@||inx.name^
+@@||iny.me^
 @@||io.clickguard.com^
 @@||ionos.ly^
 @@||ip*.ahcdn.com^
@@ -3378,6 +3384,7 @@
 @@||itrk.it^
 @@||its-4-u.com^
 @@||itsh.bo^
+@@||itshrt.com^
 @@||itsssl.com^
 @@||ittle.co^
 @@||itty.be^
@@ -3668,6 +3675,7 @@
 @@||kutt.mariodian.com^
 @@||kutt.this.team^
 @@||kuttify.com^
+@@||kuty.us^
 @@||kuyla.me^
 @@||kv.ci^
 @@||kve.so^
@@ -3851,6 +3859,7 @@
 @@||lingkod.to^
 @@||link-cut.com^
 @@||link-me.vip^
+@@||link-zy.com^
 @@||link.betclic.com^
 @@||link.cc^
 @@||link.climatemessengers.ca^
@@ -5411,6 +5420,7 @@
 @@||mongmuoitam.live^
 @@||monitor.fraudblocker.com^
 @@||monitor.lunio.ai^
+@@||monly.id^
 @@||mono-gog-o.life^
 @@||monopolycollectdice.xyz^
 @@||monopolygodices.xyz^
@@ -5642,6 +5652,7 @@
 @@||nfw.cz^
 @@||ng.je^
 @@||nglink.id^
+@@||ngnbrand.com^
 @@||ngrid.com^
 @@||nhentai.com^
 @@||nhentai.net^
@@ -5804,6 +5815,7 @@
 @@||on9news.tv^
 @@||onboard.triptease.io^
 @@||oncliq.co^
+@@||one.icykit.com^
 @@||one.impact-ad.jp^
 @@||one.one.one.one^
 @@||one9.one^
@@ -6035,6 +6047,7 @@
 @@||pepperjamnetwork.com^
 @@||peppy.link^
 @@||pepsi.co^
+@@||perseal.app^
 @@||persocheck.com^
 @@||personaclick.com^
 @@||pesc.pw^
@@ -6337,6 +6350,7 @@
 @@||qrfy.io^
 @@||qrgenerator.org^
 @@||qrisni.me^
+@@||qrkiss.com^
 @@||qrlinker.net^
 @@||qrlit.com^
 @@||qrme.be^
@@ -6585,6 +6599,7 @@
 @@||resmiteratai888.us^
 @@||restapi.amap.com^
 @@||restaurant-information.com^
+@@||resvoice.com^
 @@||rethinktw.cc^
 @@||retont.link^
 @@||reurl.cc^
@@ -7154,6 +7169,7 @@
 @@||shortlinkgenerator.com^
 @@||shortlinkpanel.com^
 @@||shortlinks.co.uk^
+@@||shortlinks.com.tr^
 @@||shortll.com^
 @@||shortlurl.com^
 @@||shortly.cc^
@@ -7250,6 +7266,7 @@
 @@||shrt.vip^
 @@||shrtco.de^
 @@||shrten.com^
+@@||shrten.us^
 @@||shrtfly.com^
 @@||shrtlnk.com^
 @@||shrtm.nu^
@@ -7257,6 +7274,8 @@
 @@||shrtn.ee^
 @@||shrtq.link^
 @@||shrtr.cc^
+@@||shrtru.com^
+@@||shrturl.com^
 @@||shrturl.site^
 @@||shrturll.com^
 @@||shrtxb4d.live^
@@ -7288,6 +7307,7 @@
 @@||sifu.im^
 @@||sigboms.com^
 @@||signals.aimtell.com^
+@@||siguiente.link^
 @@||sikencang.com^
 @@||sikilat.fun^
 @@||sikk.de^
@@ -7923,6 +7943,7 @@
 @@||tapfiliate.com^
 @@||taplink.cc^
 @@||tapme.ink^
+@@||tapmy.app^
 @@||tapto.bio^
 @@||tapz.in^
 @@||target.clickfunnels.com^
@@ -8661,6 +8682,7 @@
 @@||urlkai.com^
 @@||urlki.com^
 @@||urlkr.com^
+@@||urlkw.com^
 @@||urlky.com^
 @@||urlli.com^
 @@||urllimit.com^
@@ -9550,6 +9572,7 @@
 @@||zoho.to^
 @@||zom.ink^
 @@||zom.io^
+@@||zonearcad.xyz^
 @@||zoneurl.net^
 @@||zoodl.com^
 @@||zop.gr^
