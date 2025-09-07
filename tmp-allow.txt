@@ -1092,6 +1092,7 @@
 @@||beeb.us^
 @@||beehiiv.com^
 @@||beepurl.com^
+@@||beif.us^
 @@||beingtek.com^
 @@||bely.pw^
 @@||benco.io^
@@ -5579,6 +5580,7 @@
 @@||n7i.cn^
 @@||n9.cl^
 @@||n9x.co^
+@@||na2.com^
 @@||na5.nl^
 @@||nah.uy^
 @@||naik-terus.com^
@@ -6855,6 +6857,7 @@
 @@||safelinking.net^
 @@||safelinku.com^
 @@||safeurl.ch^
+@@||safeurl.in^
 @@||safl.it^
 @@||saggiolink.it^
 @@||sah.ooo^
@@ -8687,6 +8690,7 @@
 @@||urlli.com^
 @@||urllimit.com^
 @@||urllink.link^
+@@||urllinker.com^
 @@||urlme.cc^
 @@||urlme.us^
 @@||urlmy.link^
@@ -9445,6 +9449,7 @@
 @@||yji.tw^
 @@||ylg.org^
 @@||ylink.bid^
+@@||ylinkshort.com^
 @@||ym.163.com^
 @@||yo.ma^
 @@||yoalizer.com^

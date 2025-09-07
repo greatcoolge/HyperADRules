@@ -2955,6 +2955,7 @@
 @@||behindthevoiceactors.com^
 @@||behoimi.org^
 @@||beian.gov.cn^
+@@||beif.us^
 @@||beige.xboxservices.com^
 @@||beingtek.com^
 @@||bely.pw^
@@ -12472,6 +12473,7 @@
 @@||na1.p3.documentsawsperf.adobe.com^
 @@||na1.p5.documentsawsperf.adobe.com^
 @@||na1r.services.adobe.com^
+@@||na2.com^
 @@||na2.documents.adobe.com^
 @@||na2.docusign.net^
 @@||na2.p2.documentsawsperf.adobe.com^
@@ -15209,6 +15211,7 @@
 @@||safelinking.net^
 @@||safelinku.com^
 @@||safeurl.ch^
+@@||safeurl.in^
 @@||safl.it^
 @@||sagepub.com^
 @@||saggiolink.it^
@@ -18649,6 +18652,7 @@
 @@||urlli.com^
 @@||urllimit.com^
 @@||urllink.link^
+@@||urllinker.com^
 @@||urlme.cc^
 @@||urlme.us^
 @@||urlmy.link^
@@ -21470,6 +21474,7 @@
 @@||yji.tw^
 @@||ylg.org^
 @@||ylink.bid^
+@@||ylinkshort.com^
 @@||ym.163.com^
 @@||ynuf.aliapp.org^
 @@||ynuf.alipay.com^
