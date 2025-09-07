@@ -59,6 +59,7 @@
 @@||0eaf.cardinalcommerce.com^
 @@||0i.is^
 @@||0ln.io^
+@@||0o.lv^
 @@||0oj.cn^
 @@||0p.de^
 @@||0rl.cc^
@@ -395,6 +396,7 @@
 @@||5.gp^
 @@||500px.com^
 @@||51tu.lol^
+@@||52.nu^
 @@||5278url.com^
 @@||531566.xyz^
 @@||53eig.ht^
