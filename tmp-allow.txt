@@ -613,6 +613,7 @@
 @@||advartiso.com^
 @@||advise.gallup.com^
 @@||adweek.it^
+@@||adx.kr^
 @@||ady.to^
 @@||adzerk.com^
 @@||adzerk.net^
@@ -636,6 +637,7 @@
 @@||agroforestri.id^
 @@||ah.my^
 @@||aholink.com^
+@@||ahpit.cyou^
 @@||ai-cdn.duba.net^
 @@||ai.blendnow.com^
 @@||ai18.link^
@@ -760,6 +762,7 @@
 @@||anquan.org^
 @@||anrdoezrs.net^
 @@||ansg.media^
+@@||answ.xyz^
 @@||antinawala.team^
 @@||any.gs^
 @@||anyimage.io^
@@ -979,6 +982,7 @@
 @@||avc.tapimg.com^
 @@||aveerro.com^
 @@||aven.ga^
+@@||avenir.to^
 @@||avgle.com^
 @@||avhop.net^
 @@||avl.mx^
@@ -1087,6 +1091,7 @@
 @@||be6.in^
 @@||beats.is^
 @@||beautyfitnesshealth.com^
+@@||becakrcg.xyz^
 @@||becsn.net^
 @@||bee-kz.life^
 @@||bee1s.com^
@@ -1172,6 +1177,7 @@
 @@||bitly.pk^
 @@||bitly.pw^
 @@||bitly.team^
+@@||bitly.to^
 @@||bitly.ws^
 @@||bitly1.ru^
 @@||bitlylinks.com^

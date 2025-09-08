@@ -1058,6 +1058,7 @@
 @@||adweek.com^
 @@||adweek.it^
 @@||adwords.google.com^
+@@||adx.kr^
 @@||ady.to^
 @@||adzerk.com^
 @@||adzerk.net^
@@ -1097,6 +1098,7 @@
 @@||ahd.ruten.com.tw^
 @@||aholink.com^
 @@||ahoo.it^
+@@||ahpit.cyou^
 @@||ai-cdn.duba.net^
 @@||ai.blendnow.com^
 @@||ai.ly^
@@ -1916,6 +1918,7 @@
 @@||anquan.org^
 @@||anrdoezrs.net^
 @@||ansg.media^
+@@||answ.xyz^
 @@||answers.com^
 @@||answers.microsoft.com^
 @@||answersstaticfilecdnv2.azureedge.net^
@@ -2736,6 +2739,7 @@
 @@||avc.tapimg.com^
 @@||aveerro.com^
 @@||aven.ga^
+@@||avenir.to^
 @@||avgle.com^
 @@||avhop.net^
 @@||avl.mx^
@@ -2944,6 +2948,7 @@
 @@||beauty.rakuten.co.jp^
 @@||beautyfitnesshealth.com^
 @@||bebe.com^
+@@||becakrcg.xyz^
 @@||becsn.net^
 @@||bedbathandbeyond.com^
 @@||bee-kz.life^
@@ -3133,6 +3138,7 @@
 @@||bitly.pk^
 @@||bitly.pw^
 @@||bitly.team^
+@@||bitly.to^
 @@||bitly.ws^
 @@||bitly1.ru^
 @@||bitlylinks.com^
