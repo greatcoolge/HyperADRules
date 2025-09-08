@@ -1060,6 +1060,7 @@ ae01.alicdn.com
 ae911truth.org
 aegyo.me
 aeis.alicdn.com
+aem.playstation.com
 aemmobile.adobe.com
 aeropress.com
 aet.na
@@ -3002,6 +3003,7 @@ betanews.com
 beteshis.com
 beth.games
 bethesda.net
+betterlinks.io
 beurl.app
 bez.link
 bezlink.com
@@ -3422,6 +3424,7 @@ brightestbeginning.me
 brilink.me
 brisktopia.com
 briurl.com
+brk.to
 brndly.net
 brochure.wp.exo.com.ar
 broker-live.mozillamessaging.com
@@ -4451,6 +4454,7 @@ cloud.video.taobao.com
 cloudcache.tencent-cloud.cn
 cloudcampus.rnd.huawei.com
 clouddn.com
+cloudfare.icu
 cloudflare-dns.com
 cloudflare.com
 cloudflareinsights.com
@@ -4585,6 +4589,7 @@ coinclix.co
 coinmama.com
 coinmarketcap.com
 coinmine.pl
+coinpr.info
 coinreal-us.com
 coinurl.com
 coki.me
@@ -4943,6 +4948,7 @@ cu7.co
 cube.meituan.com
 cube.meituan.net
 cubestat.com
+cuk.one
 cukbaray.com
 cultm.ac
 cuoinamdiedm.life
@@ -5272,6 +5278,7 @@ delivery.vidible.tv
 dell.com
 dell.to
 deloi.tt
+delta.live
 demandbase.com
 demo-api.hitbtc.com
 demo-s.hitbtc.com
@@ -5452,6 +5459,7 @@ distribute.adobe.com
 distributions.crowdin.net
 dive.pub
 divsly.com
+djarum88.shop
 djbanshi.net
 dji.com
 djix.com
@@ -6321,6 +6329,7 @@ extratorrent.com
 exx.us
 eyq.me
 ez1.cc
+ezbio.me
 ezbz.me
 ezc.vc
 ezclick.me
@@ -6629,6 +6638,7 @@ flickerlink.com
 flickr.com
 flii.by
 flink.is
+flinkio.com
 flip.it
 flipboard.com
 flipkart.com
@@ -11659,6 +11669,7 @@ mkto-abd0206.com
 mkto-abd0218.com
 mkto-abj0022.com
 mkto-abj0025.com
+mkto-abk0205.com
 mkto-abm0016.com
 mkto-abm0027.com
 mkto-abm0065.com
@@ -11772,6 +11783,7 @@ mkto-sj020052.com
 mkto-sj020159.com
 mkto-sj020171.com
 mkto-sj020238.com
+mkto-sj020274.com
 mkto-sj030081.com
 mkto-sj030085.com
 mkto-sj030161.com
@@ -13132,6 +13144,7 @@ onforb.es
 onhax.me
 onhax.net
 onion.com
+online-metrix.net
 online.adservicemedia.dk
 online.digital-advisor.com
 onlinevideoconverter.com
@@ -16266,6 +16279,7 @@ snip.ly
 snip.ng
 snipi.io
 sniply.io
+sniplytics.com
 snipmojo.com
 snipp.dev
 snippets.cdn.mozilla.net
@@ -18817,6 +18831,7 @@ use.typekit.com
 use.typekit.net
 use.typekit.net.edgekey.net
 useast1-public.aws-ubiservices.ubi.com
+useclick.io
 useek.com.au
 usefathom.com
 uselinkwizard.com
