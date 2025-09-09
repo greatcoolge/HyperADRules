@@ -6399,6 +6399,7 @@
 @@||fal.cn^
 @@||fam.ag^
 @@||familydollar.com^
+@@||famousurl.com^
 @@||famu.cc^
 @@||fan.twitch.tv^
 @@||fanat.ua^
@@ -6648,6 +6649,7 @@
 @@||flip.it^
 @@||flipboard.com^
 @@||flipkart.com^
+@@||fliplink.io^
 @@||flipp.com^
 @@||flipper.flipboard.com^
 @@||flixcart.com^
@@ -7430,6 +7432,7 @@
 @@||golink.us^
 @@||golinker.in^
 @@||golinkfy.io^
+@@||golnk.eu^
 @@||goly.me^
 @@||gomomento.co^
 @@||goninja.live^
@@ -7743,6 +7746,7 @@
 @@||great.kaspersky.com^
 @@||greenhouse.io^
 @@||grem.io^
+@@||gresham.life^
 @@||grk.am^
 @@||grlu.us^
 @@||grm.my^
@@ -7862,6 +7866,7 @@
 @@||hackernoon.com^
 @@||hackerone.com^
 @@||hackthissite.org^
+@@||hadsucma.com^
 @@||halifax.maelstrom.gameservices.xboxlive.com^
 @@||halo.part.xbox.com^
 @@||halo.xbox.com^
@@ -7934,6 +7939,7 @@
 @@||hec.su^
 @@||heise.de^
 @@||hello.myfonts.net^
+@@||hellowork.life^
 @@||help-assets.soundcloud.com^
 @@||help-m.line.me^
 @@||help-on.com^
@@ -8434,6 +8440,7 @@
 @@||ige.li^
 @@||igg-games.com^
 @@||igg.com^
+@@||igit.me^
 @@||igludostats.moonfroglabs.com^
 @@||ign.com^
 @@||ignorelist.com^
@@ -8792,10 +8799,12 @@
 @@||inputdirector.com^
 @@||inq.com^
 @@||inquisitr.com^
+@@||inreply.to^
 @@||ins.jr.mi.com^
 @@||inscname.net^
 @@||insdr.life^
 @@||inshort.link^
+@@||inshorten.com^
 @@||inshorturl.com^
 @@||inside-brazil.flipboard.com^
 @@||inside-espanol.flipboard.com^
@@ -8990,10 +8999,12 @@
 @@||iterasi.net^
 @@||iteye.com^
 @@||iti.bz^
+@@||itiny.in^
 @@||itiy.in^
 @@||itknowledgeexchange.techtarget.com^
 @@||itly.com^
 @@||itly.in^
+@@||itm.im^
 @@||itmagazine.ch^
 @@||itop.qq.com^
 @@||itop.so^
@@ -9120,6 +9131,7 @@
 @@||jikipedia.com^
 @@||jimdo.com^
 @@||jio.sh^
+@@||jio.to^
 @@||jioconnect.com^
 @@||jiotv.catchup.cdn.jio.com^
 @@||jiotv.data.cdn.jio.com^
@@ -9964,6 +9976,7 @@
 @@||linkku-ob.com^
 @@||linkku-pl.com^
 @@||linkku-pn.com^
+@@||linkku-rp.com^
 @@||linkku-sd.com^
 @@||linkku-st.com^
 @@||linkku-wt.com^
@@ -11675,7 +11688,6 @@
 @@||mkto-abd0218.com^
 @@||mkto-abj0022.com^
 @@||mkto-abj0025.com^
-@@||mkto-abk0205.com^
 @@||mkto-abm0016.com^
 @@||mkto-abm0027.com^
 @@||mkto-abm0065.com^
@@ -11789,7 +11801,6 @@
 @@||mkto-sj020159.com^
 @@||mkto-sj020171.com^
 @@||mkto-sj020238.com^
-@@||mkto-sj020274.com^
 @@||mkto-sj030081.com^
 @@||mkto-sj030085.com^
 @@||mkto-sj030161.com^
@@ -21373,10 +21384,12 @@
 @@||xn--allestrungen-9ib.de^
 @@||xn--cp3a08l.com^
 @@||xn--k28h.tk^
+@@||xn--ka-uja.fr^
 @@||xn--krz-8na.de^
 @@||xn--l6qx3l9s1a.com^
 @@||xn--mes358aby2apfg.com^
 @@||xn--ms8h.st^
+@@||xn--ru-via.me^
 @@||xn--s7y86k.jp^
 @@||xn--ugt.cc^
 @@||xn--ul-ksa.eu^
