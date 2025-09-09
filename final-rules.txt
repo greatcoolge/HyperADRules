@@ -9422,6 +9422,7 @@
 @@||klik.best^
 @@||klik.gg^
 @@||klik.top^
+@@||kliks.online^
 @@||kliksaja.me^
 @@||kliksaya.co^
 @@||klink.red^
@@ -9483,6 +9484,7 @@
 @@||kratsi.cz^
 @@||krazy.la^
 @@||krdic.naver.com^
+@@||kristal777.us^
 @@||kro.kr^
 @@||kroger.com^
 @@||krohne.link^
@@ -9563,6 +9565,7 @@
 @@||l24.im^
 @@||l2f.ca^
 @@||l2g.hu^
+@@||l2o.ir^
 @@||l338.co^
 @@||l36-danmu.hi.163.com^
 @@||l36.gdl.netease.com^
@@ -9907,6 +9910,7 @@
 @@||linkallstar.com^
 @@||linkalp.com^
 @@||linkapp.click^
+@@||linkasd.com^
 @@||linkasli.pro^
 @@||linkb.ee^
 @@||linkbear.me^
@@ -10925,6 +10929,7 @@
 @@||mdcr1.com^
 @@||mdgram.app^
 @@||mdidesign.ca^
+@@||mdklt.com^
 @@||mdl.town^
 @@||mdl29.net^
 @@||mdmblz.com^
@@ -12718,6 +12723,7 @@
 @@||ngw-static.franklyinc.com^
 @@||nhattruyen.com^
 @@||nhaxequanghuy.com^
+@@||nhbvi.com^
 @@||nhentai.com^
 @@||nhentai.net^
 @@||nhk.or.jp^
