@@ -5922,6 +5922,7 @@ edgs.co
 edh.kr
 edin.ac
 edir.ec
+edit.telegra.ph
 edith.xiaohongshu.com
 edition.cnn.com
 editmysite.com
@@ -7357,6 +7358,7 @@ go.pardot.com
 go.pastemega.com
 go.paykassma.com
 go.pomona.rocks
+go.poweren.ir
 go.qb.by
 go.rakuten.com
 go.rebel.pl
@@ -12920,6 +12922,7 @@ nt3.ggpht.com
 ntalij.com
 ntalker.com
 ntap.com
+ntbk.io
 ntbx.ir
 ntck.co
 ntlink.co
@@ -13086,6 +13089,7 @@ oiop.com
 ojrq.net
 ok.link
 ok.ru
+ok.tc
 ok2.com
 okdc.me
 oke.io
@@ -13229,6 +13233,7 @@ opkale.me
 opli.xyz
 oplink.club
 oppo.com
+opportunityonlinebusiness.com
 opr.as
 opr.news
 oprah.com
@@ -13992,6 +13997,7 @@ prelive.cryptopia.co.nz
 premaster-app-cdn.spot.im
 premaster-spoxy.spot.im
 premex.link
+premierbet.live
 premierleague.com
 premium.linkedin.com
 premium.soundcloud.com
@@ -14327,6 +14333,7 @@ qoo.by
 qos.gcloud.qq.com
 qos.hk.gcloudcs.com
 qos1.ol.epicgames.com
+qowrk.com
 qph.ec.quoracdn.net
 qpic.cn
 qq-web.cdn-go.cn
@@ -14829,6 +14836,7 @@ rfr.bz
 rftyzi5ab.cc.rs6.net
 rfyyv8nab.cc.rs6.net
 rg3.github.io
+rg644bbbb.cc.rs6.net
 rge6j8mab.cc.rs6.net
 rgkkzvdab.cc.rs6.net
 rgllca6ab.cc.rs6.net
@@ -14919,6 +14927,7 @@ roosterteeth.com
 roq.to
 ror4pphbb.cc.rs6.net
 rotf.lol
+rouletteonline.live
 rounash.com
 router.bittorrent.com
 router.utorrent.com
@@ -15001,6 +15010,7 @@ rupload.facebook.com
 rusd.in
 rush.oneplus.com
 rushgiving.com
+rusuhkali.xyz
 ruten.com.tw
 rutgon.top
 rutgonurl.com
@@ -15943,6 +15953,7 @@ shortsfly.me
 shortshare.app
 shortstat.com
 shortswitch.com
+shortturl.co
 shortuel.asia
 shorturl.ac
 shorturl.ae
@@ -16002,6 +16013,7 @@ shrinkster.com
 shrinkurl.us
 shrnk.co.uk
 shrnkz.com
+shrt-l.ink
 shrt.co
 shrt.in
 shrt.it
@@ -16162,6 +16174,7 @@ skyapi.live.net
 skyapi.policies.live.net
 skyclad.me
 skydrive.live.com
+skye.to
 skyhook.sonarr.tv
 skype.com
 skypeassets.com
@@ -16295,6 +16308,7 @@ snip.link
 snip.ly
 snip.ng
 snipi.io
+snipit.in
 sniply.io
 sniplytics.com
 snipmojo.com
@@ -17487,6 +17501,7 @@ tcc.io
 tcch.ch
 tcdn.qq.com
 tce.alicdn.com
+tckl.party
 tcp.pw
 tcrn.ch
 tdid.m.qq.com
@@ -17526,6 +17541,7 @@ teeplantage.de
 teespring.com
 teil.cc
 tek.io
+teknut.com
 tel-u.ac.id
 tel.fe01.hh.xiaomi.com
 telegra.ph
@@ -17643,6 +17659,7 @@ thetim.es
 thetimes.co.uk
 thetinyurls.com
 thetvdb.com
+theurl.to
 theverge.com
 thewindowsclub.com
 thewrap.com
@@ -18291,7 +18308,9 @@ twitchy.com
 twitspin.win
 twitter.com
 twitthis.com
+twiturl.de
 twixar.com
+twlink.ir
 twm5g.co
 two.re
 twou.co
@@ -18556,6 +18575,7 @@ uptimerobot.com
 uptobox.com
 uptostream.com
 upu.samsungelectronics.com
+upyun.online
 upzat.com
 ur-l.ru
 ur.link
@@ -19253,6 +19273,7 @@ vulture.com
 vupload2.facebook.com
 vur.me
 vurl.com
+vurlz.com
 vuukle.com
 vv.vg
 vv.video.qq.com
@@ -19303,6 +19324,7 @@ wacom.com
 wahoowa.net
 waiting.bithumb.com
 wajinlong.pro
+wakgengs.pro
 wal.ee
 walgreens.com
 walk.sc
@@ -19751,6 +19773,7 @@ wuniw.com
 wup.imtt.qq.com
 wurl.nl
 wurlie.net
+wurlz.com
 wuu.wikipedia.com
 wuxia.163.com
 ww1.chia-anime.tv

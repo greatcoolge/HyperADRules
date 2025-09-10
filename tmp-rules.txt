@@ -3777,6 +3777,7 @@
 @@||edgecastcdn.net^
 @@||edgesuite.net^
 @@||edir.ec^
+@@||edit.telegra.ph^
 @@||edith.xiaohongshu.com^
 @@||edition.cnn.com^
 @@||editmysite.com^
