@@ -2756,6 +2756,8 @@
 @@||gjusp.alicdn.com^
 @@||gkurl.us^
 @@||gl.am^
+@@||glatt.io^
+@@||glattly.com^
 @@||glb.pw^
 @@||glblctzn.co^
 @@||glblctzn.me^
@@ -4168,6 +4170,7 @@
 @@||lnkiy.com^
 @@||lnkiy.in^
 @@||lnkm.ee^
+@@||lnkr1.com^
 @@||lnks.ai^
 @@||lnks.es^
 @@||lnks.fr^
@@ -6024,6 +6027,7 @@
 @@||paksa.click^
 @@||pan-cdn.exponea.com^
 @@||pan.quark.cn^
+@@||panitech.us^
 @@||papegames.qiyukf.com^
 @@||paperspeedy.com^
 @@||parg.aparg.com^
@@ -6083,6 +6087,7 @@
 @@||peen.ca^
 @@||peercertification.wildalwhite.com^
 @@||peerwith.me^
+@@||pegasurl.com^
 @@||pekcamke.link^
 @@||pens.pe^
 @@||peoplem.ag^
@@ -6397,6 +6402,7 @@
 @@||qrkiss.com^
 @@||qrlinker.net^
 @@||qrlit.com^
+@@||qrly.io^
 @@||qrme.be^
 @@||qrnesign.com^
 @@||qrouton.jp^
@@ -6601,6 +6607,7 @@
 @@||redu.it^
 @@||redvt.cc^
 @@||reel.io^
+@@||ref.gs^
 @@||ref.so^
 @@||ref11.top^
 @@||refer.is^
@@ -7438,6 +7445,7 @@
 @@||slpre.com^
 @@||slptr.com^
 @@||slurl.keatsmedia.ca^
+@@||sly.be^
 @@||slynk.in^
 @@||sm-s.in^
 @@||sm4ll.in^
@@ -8252,6 +8260,7 @@
 @@||tny.so^
 @@||tny.ws^
 @@||tny.xyz^
+@@||tnyr.me^
 @@||tnyurl.one^
 @@||tnyurl.pro^
 @@||to.lk^
@@ -8284,6 +8293,7 @@
 @@||topt.al^
 @@||topurl.cc^
 @@||topurl.link^
+@@||tos-test.com^
 @@||toskys.cn^
 @@||toss.is^
 @@||tot.hoyoverse.com^
@@ -8456,6 +8466,7 @@
 @@||tt.vg^
 @@||ttad.me^
 @@||ttbad.com^
+@@||ttdt.info^
 @@||tto.jp^
 @@||ttoo.top^
 @@||ttrewards.com^
@@ -8524,6 +8535,7 @@
 @@||tyny.me^
 @@||typit.in^
 @@||tyrano-shortener.in^
+@@||tzu.to^
 @@||u-rl.li^
 @@||u.10010.cn^
 @@||u.163.com^
@@ -8957,6 +8969,7 @@
 @@||vipb.io^
 @@||vipcair.click^
 @@||vipjus.click^
+@@||viplink.us^
 @@||viprupiah138.net^
 @@||vipshortener.com^
 @@||vipslot4d.site^
@@ -9459,6 +9472,7 @@
 @@||xurl.pk^
 @@||xurl302.top^
 @@||xurls.net^
+@@||xvirt.it^
 @@||xx.co.nz^
 @@||xxxdwz.cc^
 @@||xxxdwz.co^
@@ -9574,6 +9588,7 @@
 @@||zaya.io^
 @@||zbitly.com^
 @@||zc.vg^
+@@||zcays.com^
 @@||zctz.me^
 @@||zcu.io^
 @@||zd.net^
@@ -9623,6 +9638,7 @@
 @@||zkr.cz^
 @@||zkr.pw^
 @@||zkrat.me^
+@@||zkrt.cz^
 @@||zlink.fun^
 @@||zln.do^
 @@||zlnk.com^

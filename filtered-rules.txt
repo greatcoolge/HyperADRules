@@ -7244,6 +7244,8 @@ gl.am
 gl.gravatar.com
 gl.statcounter.com
 glass.twitch.tv
+glatt.io
+glattly.com
 glb.paypal.com
 glb.pw
 glblctzn.co
@@ -10220,6 +10222,7 @@ lnkit.de
 lnkiy.com
 lnkiy.in
 lnkm.ee
+lnkr1.com
 lnks.ai
 lnks.es
 lnks.fr
@@ -13480,6 +13483,7 @@ panduoduo.net
 panel.seedbox.io
 panels-images.twitch.tv
 pangolin-sdk-toutiao.com
+panitech.us
 pantheon.io
 pantheonsite.io
 papago.naver.com
@@ -13611,6 +13615,7 @@ peekstory.com
 peen.ca
 peercertification.wildalwhite.com
 peerwith.me
+pegasurl.com
 pekcamke.link
 pendo.io
 pens.pe
@@ -14371,6 +14376,7 @@ qrisni.me
 qrkiss.com
 qrlinker.net
 qrlit.com
+qrly.io
 qrme.be
 qrnesign.com
 qrouton.jp
@@ -14699,6 +14705,7 @@ redu.it
 redvt.cc
 reebok.com
 reel.io
+ref.gs
 ref.in
 ref.so
 ref.to
@@ -16211,6 +16218,7 @@ sls.update.microsoft.com.akadns.net
 slscr.update.microsoft.com
 slurl.keatsmedia.ca
 slushpool.com
+sly.be
 slycooper.playstation.com
 slynk.in
 sm-s.in
@@ -17899,6 +17907,7 @@ tny.sh
 tny.so
 tny.ws
 tny.xyz
+tnyr.me
 tnyurl.one
 tnyurl.pro
 to.lk
@@ -17964,6 +17973,7 @@ torproject.org
 torren.eu
 torrentfreak.com
 torrentgalaxy.to
+tos-test.com
 toskys.cn
 toss.is
 tot.hoyoverse.com
@@ -18217,6 +18227,7 @@ tsz4.me
 tt.vg
 ttad.me
 ttbad.com
+ttdt.info
 tto.jp
 ttoo.top
 ttrewards.com
@@ -18341,6 +18352,7 @@ typekit.net
 typepad.com
 typit.in
 tyrano-shortener.in
+tzu.to
 u-rl.li
 u.10010.cn
 u.163.com
@@ -19136,6 +19148,7 @@ vipcair.click
 viper.click
 vipergirls.to
 vipjus.click
+viplink.us
 viprupiah138.net
 vipshortener.com
 vipslot4d.site
@@ -21461,6 +21474,7 @@ xurl302.top
 xurls.net
 xvideos-cdn.com
 xvideos.com
+xvirt.it
 xx.co.nz
 xx.snap.com
 xxx-image.com
@@ -21644,6 +21658,7 @@ zazhipu.com
 zb.mi.com
 zbitly.com
 zc.vg
+zcays.com
 zcbprod.alipay.com
 zcmglobal.v.bsgslb.cn
 zconfig.alibabausercontent.com
@@ -21728,6 +21743,7 @@ zizi.ly
 zkr.cz
 zkr.pw
 zkrat.me
+zkrt.cz
 zlink.fun
 zln.do
 zlnk.com
