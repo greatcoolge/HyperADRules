@@ -379,6 +379,7 @@
 @@||4insurancejobs.com^
 @@||4ja.ai^
 @@||4l.shop^
+@@||4md.ir^
 @@||4or.de^
 @@||4pda.ru^
 @@||4pda.to^
@@ -2647,6 +2648,7 @@
 @@||atmilb.com^
 @@||atmlb.com^
 @@||ato.gov.au^
+@@||atoor.net^
 @@||atpz.ir^
 @@||atqiv.org^
 @@||atres.red^
@@ -5119,6 +5121,7 @@
 @@||dafa01.net^
 @@||dafa07.net^
 @@||daffodilvarsity.edu.bd^
+@@||daftar.mx^
 @@||daftar.to^
 @@||daftar.tokyo^
 @@||daftarhoki.live^
@@ -7426,6 +7429,7 @@
 @@||gogalaxy.gog-statics.com^
 @@||gogoanime.io^
 @@||gogoto.me^
+@@||goitb.id^
 @@||gokano.com^
 @@||gol.to^
 @@||gold.xhamsterpremium.com^
@@ -9962,6 +9966,7 @@
 @@||linkila.com^
 @@||linkim.cc^
 @@||linkin.icu^
+@@||linkinbio.pro^
 @@||linking.is^
 @@||linkinghub.elsevier.com^
 @@||linkins.live^
@@ -15879,6 +15884,7 @@
 @@||shortened.website^
 @@||shortenedlinks.com^
 @@||shortenedurl.me^
+@@||shortener.amplittlegiant.com^
 @@||shortener.live^
 @@||shortener.net^
 @@||shortener.winplaybox.in^
@@ -16539,6 +16545,7 @@
 @@||sr.gravatar.com^
 @@||sr23.ru^
 @@||sresc.io^
+@@||sribu.in^
 @@||srnk.us^
 @@||srtl.io^
 @@||srturl.xyz^
@@ -19167,6 +19174,7 @@
 @@||virustotal.com^
 @@||virustotalcloud.appspot.com^
 @@||vision.appreciatehub.com^
+@@||visit.my^
 @@||visma.com^
 @@||visual.merriam-webster.com^
 @@||visualdictionarynetwork.com^
@@ -19403,6 +19411,7 @@
 @@||wave.sndcdn.com^
 @@||waveurl.net^
 @@||way.to^
+@@||way3.in^
 @@||waysto.be^
 @@||waze.link^
 @@||wb.md^
@@ -19525,6 +19534,7 @@
 @@||weeklyad.target.com^
 @@||weelink.io^
 @@||weeste.llc^
+@@||weeurl.in^
 @@||wef.ch^
 @@||weheartit.com^
 @@||weibo.com^
@@ -21778,6 +21788,7 @@
 @@||zopen.to^
 @@||zopim.com^
 @@||zort.me^
+@@||zort.my^
 @@||zorts.me^
 @@||zoso.ro^
 @@||zotter.click^

@@ -211,6 +211,7 @@
 @@||4insurancejobs.com^
 @@||4ja.ai^
 @@||4l.shop^
+@@||4md.ir^
 @@||4or.de^
 @@||4qt.in^
 @@||4se.sa^
@@ -957,6 +958,7 @@
 @@||atm.tk^
 @@||atmilb.com^
 @@||atmlb.com^
+@@||atoor.net^
 @@||atpz.ir^
 @@||atqiv.org^
 @@||atres.red^
@@ -1960,6 +1962,7 @@
 @@||daduslot88.life^
 @@||dafa01.net^
 @@||dafa07.net^
+@@||daftar.mx^
 @@||daftar.to^
 @@||daftar.tokyo^
 @@||daftarhoki.live^
@@ -2868,6 +2871,7 @@
 @@||godrk.de^
 @@||gofund.me^
 @@||gogoto.me^
+@@||goitb.id^
 @@||gol.to^
 @@||goldn.cc^
 @@||golink.one^
@@ -3993,6 +3997,7 @@
 @@||linkila.com^
 @@||linkim.cc^
 @@||linkin.icu^
+@@||linkinbio.pro^
 @@||linking.is^
 @@||linkins.live^
 @@||linkinto.net^
@@ -7171,6 +7176,7 @@
 @@||shortened.website^
 @@||shortenedlinks.com^
 @@||shortenedurl.me^
+@@||shortener.amplittlegiant.com^
 @@||shortener.live^
 @@||shortener.net^
 @@||shortener.winplaybox.in^
@@ -7584,6 +7590,7 @@
 @@||sqzr.cz^
 @@||sr23.ru^
 @@||sresc.io^
+@@||sribu.in^
 @@||srnk.us^
 @@||srtl.io^
 @@||srturl.xyz^
@@ -8977,6 +8984,7 @@
 @@||viraatlabs.com^
 @@||viraln.co^
 @@||virl.com^
+@@||visit.my^
 @@||vivir.pro^
 @@||vivo.tl^
 @@||vivoldi.com^
@@ -9081,6 +9089,7 @@
 @@||wats.ir^
 @@||waveurl.net^
 @@||way.to^
+@@||way3.in^
 @@||waysto.be^
 @@||waze.link^
 @@||wb.md^
@@ -9133,6 +9142,7 @@
 @@||wee.wtf^
 @@||weelink.io^
 @@||weeste.llc^
+@@||weeurl.in^
 @@||wef.ch^
 @@||weibo.com^
 @@||weiming.info^
@@ -9661,6 +9671,7 @@
 @@||zop.gr^
 @@||zopen.to^
 @@||zort.me^
+@@||zort.my^
 @@||zorts.me^
 @@||zotter.click^
 @@||zotter.link^
