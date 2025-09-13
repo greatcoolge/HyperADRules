@@ -649,6 +649,7 @@
 @@||airshort.de^
 @@||aisubtitle.hdslb.com^
 @@||aitwwl.co^
+@@||aiurl.app^
 @@||ajax.googleapis.com^
 @@||aje.io^
 @@||ajher.com^
@@ -2222,6 +2223,7 @@
 @@||dy-pic0.iqiyipic.com^
 @@||dy.fi^
 @@||dy.si^
+@@||dya.us^
 @@||dyo.gs^
 @@||dyok.net^
 @@||dyx.is^
@@ -2741,6 +2743,7 @@
 @@||girlte.ch^
 @@||gist.github.com^
 @@||git-scm.com^
+@@||git.ad^
 @@||git.io^
 @@||git.new^
 @@||gitcode.com^
@@ -2881,6 +2884,7 @@
 @@||golnk.eu^
 @@||goly.me^
 @@||gomomento.co^
+@@||gomyly.com^
 @@||goninja.live^
 @@||goo-gl.me^
 @@||goo-id.com^
@@ -3644,6 +3648,7 @@
 @@||klik.best^
 @@||klik.gg^
 @@||klik.top^
+@@||kliks.info^
 @@||kliks.online^
 @@||kliksaja.me^
 @@||kliksaya.co^
@@ -4170,6 +4175,7 @@
 @@||lnk.sk^
 @@||lnk.to^
 @@||lnk.vn^
+@@||lnkbits.com^
 @@||lnkd.in^
 @@||lnkit.de^
 @@||lnkiy.com^
@@ -4421,6 +4427,7 @@
 @@||matten1.life^
 @@||mattes.live^
 @@||matwo.fr^
+@@||mavlinks.com^
 @@||mawar500.cc^
 @@||maxiurl.com^
 @@||maxlink.ly^
@@ -4549,6 +4556,7 @@
 @@||miniurl.be^
 @@||miniurl.com^
 @@||miniurl.ir^
+@@||miniurl.org.in^
 @@||miniurl.top^
 @@||minl.in^
 @@||minny.link^
@@ -5837,6 +5845,7 @@
 @@||okeegas.win^
 @@||okniu.com^
 @@||okt.to^
+@@||okurl.me^
 @@||oky.li^
 @@||oldmutualsa.com^
 @@||oli.vi^
@@ -6631,6 +6640,7 @@
 @@||relink.asia^
 @@||relink.fr^
 @@||relink.host^
+@@||relink.pt^
 @@||rem.ax^
 @@||renew.ge^
 @@||repackert.com^
@@ -7749,6 +7759,7 @@
 @@||suite43.emarsys.net^
 @@||suite44.emarsys.net^
 @@||suite45.emarsys.net^
+@@||suite46.emarsys.net^
 @@||suite47-cf.emarsys.net^
 @@||suite49-cf.emarsys.net^
 @@||suite5.emarsys.net^
@@ -8782,6 +8793,7 @@
 @@||urlroot.com^
 @@||urlroxx.com^
 @@||urlrw.com^
+@@||urls-short.de^
 @@||urls-shortener.eu^
 @@||urls.by^
 @@||urls.imcompanion.co^
@@ -8805,6 +8817,7 @@
 @@||urlshortener.co.uk^
 @@||urlshortener.site^
 @@||urlshortenerapi.com^
+@@||urlshortenerking.com^
 @@||urlshortenerr.live^
 @@||urlshortenertool.com^
 @@||urlshortenervip.com^
@@ -8853,6 +8866,7 @@
 @@||urwebs.it^
 @@||us-go.kelkoogroup.net^
 @@||us-serve.nrich.ai^
+@@||us.sa^
 @@||usanet.tv^
 @@||usat.ly^
 @@||use.my^
@@ -9587,6 +9601,7 @@
 @@||z20.su^
 @@||z23.ru^
 @@||z2h.it^
+@@||z4sh.com^
 @@||z5h.cn^
 @@||z6c.de^
 @@||z9.fr^

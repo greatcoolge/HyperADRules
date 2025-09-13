@@ -1116,6 +1116,7 @@ airtable.com
 aiseet.atianqi.com
 aisubtitle.hdslb.com
 aitwwl.co
+aiurl.app
 aizhigu.com.cn
 ajax.aspnetcdn.com
 ajax.cloudflare.com
@@ -5792,6 +5793,7 @@ dxy.com
 dy-pic0.iqiyipic.com
 dy.fi
 dy.si
+dya.us
 dyn.ithome.com
 dynaimage.cdn.turner.com
 dynamic-cdn.spot.im
@@ -7207,6 +7209,7 @@ girlte.ch
 gist.github.com
 gist.githubusercontent.com
 git-scm.com
+git.ad
 git.io
 git.new
 git.teknik.io
@@ -7437,6 +7440,7 @@ golinkfy.io
 golnk.eu
 goly.me
 gomomento.co
+gomyly.com
 goninja.live
 goo-gl.me
 goo-id.com
@@ -9424,6 +9428,7 @@ klickhier.at
 klik.best
 klik.gg
 klik.top
+kliks.info
 kliks.online
 kliksaja.me
 kliksaya.co
@@ -10222,6 +10227,7 @@ lnk.news
 lnk.sk
 lnk.to
 lnk.vn
+lnkbits.com
 lnkd.in
 lnkit.de
 lnkiy.com
@@ -10887,6 +10893,7 @@ matmacakiem222.makeup
 matten1.life
 mattes.live
 matwo.fr
+mavlinks.com
 mavrev.com
 mawar500.cc
 maxcdn.bootstrapcdn.com
@@ -11187,6 +11194,7 @@ minitv.fun
 miniurl.be
 miniurl.com
 miniurl.ir
+miniurl.org.in
 miniurl.top
 minixperiment.twitch.tv
 minl.in
@@ -13105,6 +13113,7 @@ okebio.com
 okeegas.win
 okniu.com
 okt.to
+okurl.me
 oky.li
 oldmutualsa.com
 oli.vi
@@ -14748,6 +14757,7 @@ reline.cc
 relink.asia
 relink.fr
 relink.host
+relink.pt
 relocationapi.micloud.xiaomi.net
 relstage-api.typekit.com
 relstage.typekit.com
@@ -17054,6 +17064,7 @@ suite42.emarsys.net
 suite43.emarsys.net
 suite44.emarsys.net
 suite45.emarsys.net
+suite46.emarsys.net
 suite47-cf.emarsys.net
 suite49-cf.emarsys.net
 suite5.emarsys.net
@@ -18741,6 +18752,7 @@ urlro.com
 urlroot.com
 urlroxx.com
 urlrw.com
+urls-short.de
 urls-shortener.eu
 urls.by
 urls.imcompanion.co
@@ -18765,6 +18777,7 @@ urlshortener.bnpparibas
 urlshortener.co.uk
 urlshortener.site
 urlshortenerapi.com
+urlshortenerking.com
 urlshortenerr.live
 urlshortenertool.com
 urlshortenervip.com
@@ -18858,6 +18871,7 @@ us.phonecallapi.micloud.xiaomi.net
 us.pipe.aria.microsoft.com
 us.playstation.com
 us.pool.ntp.org
+us.sa
 us.sfsapi.micloud.xiaomi.net
 us.smsapi.micloud.xiaomi.net
 us.statusapi.micloud.xiaomi.net
@@ -21648,6 +21662,7 @@ z20.su
 z23.ru
 z2h.it
 z4a.net
+z4sh.com
 z5h.cn
 z6c.de
 z9.fr
