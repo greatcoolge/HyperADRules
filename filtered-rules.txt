@@ -240,7 +240,6 @@
 2ad.in
 2b1s.zacharyhurdle.com
 2big.at
-2bio.link
 2ch.net
 2cm.es
 2doc.net
@@ -610,7 +609,6 @@ ab.co
 ab1n.net
 abacaxii.com
 abar.in
-abbr.site
 abbreviations.com
 abbrr.com
 abc.com
@@ -673,6 +671,7 @@ accesstrade.net
 accntu.re
 accommodatingly.xyz
 acconpit.com
+accorcio.it
 account-assets.jimstatic.com
 account-us.huami.com
 account.adguard.com
@@ -1203,7 +1202,6 @@ all.spot.im
 allaboutcookies.org
 allamericanpatriots.com
 alldebrid.com
-alldomainwhois.xyz
 allegro.pl
 allekabels.nl
 alli.pub
