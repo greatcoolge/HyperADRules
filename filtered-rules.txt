@@ -5132,6 +5132,7 @@ daisy.ubuntu.com
 dajdam.rs
 dalinksavad.eu
 damengxiang.me
+damoro.ro
 danbooru.donmai.us
 dandy.dental
 dansguardian.org
@@ -6667,7 +6668,6 @@ fluub.de
 flx.to
 fly.yt
 fly2.ws
-fly4win.com
 flyra.link
 flys.pw
 flyurl.net
@@ -7019,7 +7019,6 @@ gamespot.com
 gamestore.ign.com
 gamevn.com
 gaming.engadget.com
-ganalytics.net
 gandi.link
 gap.com
 garena.com
@@ -9347,6 +9346,7 @@ kg.games
 kgayz.org
 kgs.link
 kgs.yt
+kgs88.co
 kh.de
 kh.google.com
 kham.tw
@@ -9812,6 +9812,7 @@ likes.fans
 lil.ee
 lil.ge
 lil.so
+lil.vc
 lillink.xyz
 lilllil.ru
 lilnk.to
@@ -12376,6 +12377,7 @@ mute-fill-mood.life
 mute.bradconte.com
 muth.io
 muzmo.ru
+mv88.lat
 mva.microsoft.com
 mvm.snapchat.com
 mvmtwatch.co
@@ -13280,6 +13282,7 @@ origin-na.ssl-images-amazon.com
 origin2.samsung.com
 origincache-atn.fbcdn.net
 originus.samsung.com
+oriurl.com
 orll.cc
 orlo.uk
 orp.io
@@ -16998,6 +17001,7 @@ stvkr.com
 style.sndcdn.com
 styles.redditmedia.com
 su.pr
+sua.me
 suakhoacamlam.com
 suarankri.me
 sub.direct
@@ -18164,6 +18168,7 @@ trick.ly
 trickbd.com
 trieuview.life
 trim-url.com
+trim.cx
 trim.one
 trimlink.ai
 trimlink.co.uk
@@ -19414,6 +19419,7 @@ waveurl.net
 way.to
 way3.in
 waysto.be
+wayurl.com
 waze.link
 wb.md
 wb1.eu
