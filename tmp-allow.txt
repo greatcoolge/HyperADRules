@@ -1935,7 +1935,6 @@
 @@||cybr.fr^
 @@||cybr.rocks^
 @@||cyonix.to^
-@@||cyte.in^
 @@||d-sh.io^
 @@||d.agkn.com^
 @@||d.bilibili.com^
@@ -2111,7 +2110,6 @@
 @@||docrdsfx76ssb.cloudfront.net^
 @@||docs.doudou.fun^
 @@||docs.idqqimg.com^
-@@||dogelexus.win^
 @@||dogelexusin.store^
 @@||doh.dns.apple.com^
 @@||doiop.com^
@@ -2239,7 +2237,6 @@
 @@||earn4link.in^
 @@||earnfly.net^
 @@||earthtoday.info^
-@@||easycut.io^
 @@||easyuri.com^
 @@||easyurl.net^
 @@||easyurl.site^
@@ -2355,7 +2352,6 @@
 @@||erd.wtf^
 @@||eresear.ch^
 @@||ericadams.link^
-@@||erthdaily.com^
 @@||eru2earn.com^
 @@||eru789.com^
 @@||erw.cz^
@@ -7041,7 +7037,6 @@
 @@||serverluar.net^
 @@||serverpa.rs^
 @@||serverstatus.apple.com^
-@@||service.digintalagency.com^
 @@||service.mkey.163.com^
 @@||setup.icloud.com^
 @@||seu.cleverreach.com^

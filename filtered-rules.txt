@@ -5054,7 +5054,6 @@ cydia.saurik.com
 cydia.saurik.com.cdngc.net
 cygwin.com
 cyonix.to
-cyte.in
 cz.playstation.com
 cz.wikipedia.com
 d-h.st
@@ -5574,7 +5573,6 @@ docs.vuukle.com
 doctor.ndtv.com
 doctorpk.mywibes.com
 dog.bin
-dogelexus.win
 dogelexusin.store
 doh.dns.apple.com
 doi.org
@@ -5850,7 +5848,6 @@ earthlink.net
 earthtoday.info
 easyanticheat.net
 easybytez.com
-easycut.io
 easylist-downloads.adblockplus.org
 easylist.club
 easylist.to
@@ -6156,7 +6153,6 @@ erky.de
 eroterest.net
 err.taobao.com
 error.facebook.com
-erthdaily.com
 eru2earn.com
 eru789.com
 erw.cz
@@ -15642,7 +15638,6 @@ serverluar.net
 serverpa.rs
 serverstatus.apple.com
 service.biv.sony.tv
-service.digintalagency.com
 service.marketing.adobe.com
 service.mkey.163.com
 service.oneplus.com
