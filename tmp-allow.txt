@@ -3408,7 +3408,6 @@
 @@||iterasi.net^
 @@||iti.bz^
 @@||itiny.in^
-@@||itiy.in^
 @@||itly.in^
 @@||itm.im^
 @@||itop.qq.com^
@@ -3648,7 +3647,6 @@
 @@||kliksaya.co^
 @@||klink.red^
 @@||klmf.ly^
-@@||klykn.me^
 @@||kmcpwe.online^
 @@||kmi.mobi^
 @@||kmr1.org^
@@ -3699,7 +3697,6 @@
 @@||kurv.gr^
 @@||kurz.jetzt^
 @@||kurzelinks.de^
-@@||kut.rs^
 @@||kutt.acorninsure.co.uk^
 @@||kutt.appinn.com^
 @@||kutt.chatforma.com^
@@ -3899,7 +3896,6 @@
 @@||lingkod.to^
 @@||link-cut.com^
 @@||link-me.vip^
-@@||link-zy.com^
 @@||link.betclic.com^
 @@||link.cc^
 @@||link.climatemessengers.ca^
@@ -4473,8 +4469,6 @@
 @@||media.9game.cn^
 @@||media01.eu^
 @@||medicalmarijuana.vip^
-@@||medusa88.online^
-@@||medusa88.store^
 @@||meetu.ps^
 @@||mega.nz^
 @@||megalink.pro^
@@ -5430,7 +5424,6 @@
 @@||mng.bz^
 @@||mnge.it^
 @@||mnot.es^
-@@||mntrmeme.com^
 @@||mo.ma^
 @@||mob.163.com^
 @@||moba.163.com^

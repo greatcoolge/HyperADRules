@@ -9005,7 +9005,6 @@
 @@||iteye.com^
 @@||iti.bz^
 @@||itiny.in^
-@@||itiy.in^
 @@||itknowledgeexchange.techtarget.com^
 @@||itly.com^
 @@||itly.in^
@@ -9434,7 +9433,6 @@
 @@||kliksaya.co^
 @@||klink.red^
 @@||klmf.ly^
-@@||klykn.me^
 @@||km.gravatar.com^
 @@||kmart.com.au^
 @@||kmart.com^
@@ -9520,7 +9518,6 @@
 @@||kurv.gr^
 @@||kurz.jetzt^
 @@||kurzelinks.de^
-@@||kut.rs^
 @@||kutt.acorninsure.co.uk^
 @@||kutt.appinn.com^
 @@||kutt.chatforma.com^
@@ -9855,7 +9852,6 @@
 @@||lingkod.to^
 @@||link-cut.com^
 @@||link-me.vip^
-@@||link-zy.com^
 @@||link.betclic.com^
 @@||link.cc^
 @@||link.climatemessengers.ca^
@@ -11023,8 +11019,6 @@
 @@||medicalmarijuana.vip^
 @@||medium.com^
 @@||medium.freecodecamp.org^
-@@||medusa88.online^
-@@||medusa88.store^
 @@||meet.snap.com^
 @@||meetingsandevents.qualcomm.com^
 @@||meetu.ps^
@@ -12128,7 +12122,6 @@
 @@||mnge.it^
 @@||mno.snetroam.mihome.xiaomi.net^
 @@||mnot.es^
-@@||mntrmeme.com^
 @@||mo.ma^
 @@||mo.res.wpscdn.cn^
 @@||moapi.wps.cn^
