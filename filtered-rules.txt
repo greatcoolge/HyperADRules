@@ -18162,7 +18162,6 @@ trim.one
 trimlink.ai
 trimlink.co.uk
 trimlink.net
-trimmer.to
 trims.me
 trimurl.co
 trimurls.com
@@ -18321,7 +18320,6 @@ twirl.otee.dev
 twitch.amazon.com
 twitch.tv
 twitchy.com
-twitspin.win
 twitter.com
 twitthis.com
 twiturl.de
@@ -18653,7 +18651,6 @@ url2.fr
 url2.in
 url2a.site
 url2s.com
-url2xx.com
 url302x.icu
 url302x.top
 url4.eu
@@ -19161,7 +19158,6 @@ viplink.us
 viprupiah138.net
 vipshortener.com
 vipslot4d.site
-viptango77.net
 viraatlabs.com
 viraln.co
 viralurl.com
@@ -19277,7 +19273,6 @@ vsevjednom.cz
 vshorturl.com
 vslinks.com
 vt802.us
-vtity.com
 vtns.io
 vtred.co
 vtred.net
@@ -19749,7 +19744,6 @@ wraply.io
 wrctr.co
 wrd.cm
 wrd.org
-wrdsdaily.com
 wreg.com
 wrem.it
 write.qq.com
@@ -21735,7 +21729,6 @@ zhx.su
 zi.ma
 zi.pe
 ziadi.co
-zieud.com
 zight.com
 zigilink.com
 zik.link
