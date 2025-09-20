@@ -4082,6 +4082,7 @@
 @@||linkshorteners.com^
 @@||linkshortify.com^
 @@||linkshortner.net^
+@@||linkshrink.net^
 @@||linkshrink.org^
 @@||linksimple.io^
 @@||linkslice.io^
