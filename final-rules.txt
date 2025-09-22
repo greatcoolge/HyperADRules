@@ -14699,6 +14699,7 @@
 @@||redirect.kaspersky.com^
 @@||redirect.prod.experiment.routing.cloudfront.aws.a2z.com^
 @@||redirect.public.beta.us-east-1.ses.aws.a2z.com^
+@@||redirect.stripe2.prod.experiment.routing.cloudfront.aws.a2z.com^
 @@||redirect.viglink.com^
 @@||redirect.wip4.adobe.com^
 @@||redirect447.tagcommander.com^
@@ -16146,6 +16147,7 @@
 @@||sites.hscoscdn-ap1.net^
 @@||sites.hscoscdn-eu1.net^
 @@||sites.hscoscdn-na2.net^
+@@||sites.hscoscdn-na3.net^
 @@||sites.hscoscdn00.net^
 @@||sites.hscoscdn10.net^
 @@||sites.hscoscdn20.net^
@@ -16685,6 +16687,7 @@
 @@||static-login.gog-statics.com^
 @@||static-lvlt.xhcdn.com^
 @@||static-media-prod-cdn.itsre-sumo.mozilla.net^
+@@||static-mobile.cleverpush.com^
 @@||static-mobilegame-1.biligame.net^
 @@||static-pepper.dealabs.com^
 @@||static-res.qq.com^

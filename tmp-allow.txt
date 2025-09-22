@@ -6602,6 +6602,7 @@
 @@||redirect.bio^
 @@||redirect.prod.experiment.routing.cloudfront.aws.a2z.com^
 @@||redirect.public.beta.us-east-1.ses.aws.a2z.com^
+@@||redirect.stripe2.prod.experiment.routing.cloudfront.aws.a2z.com^
 @@||redirect.viglink.com^
 @@||redirect447.tagcommander.com^
 @@||redirect476.tagcommander.com^
@@ -7400,6 +7401,7 @@
 @@||sites.hscoscdn-ap1.net^
 @@||sites.hscoscdn-eu1.net^
 @@||sites.hscoscdn-na2.net^
+@@||sites.hscoscdn-na3.net^
 @@||sites.hscoscdn00.net^
 @@||sites.hscoscdn10.net^
 @@||sites.hscoscdn20.net^
@@ -7633,6 +7635,7 @@
 @@||static-eu.cleverpush.com^
 @@||static-hw.xnxx-cdn.com^
 @@||static-l3.xnxx-cdn.com^
+@@||static-mobile.cleverpush.com^
 @@||static-mobilegame-1.biligame.net^
 @@||static-res.qq.com^
 @@||static-web.mimikko.cn^
