@@ -2488,6 +2488,7 @@ archive.biliimg.com
 archive.icann.org
 archive.org
 archives.gov
+archrival.co
 arclight.live
 arcor.de
 arcticapi.com
@@ -3378,7 +3379,6 @@ bp-gc.in
 bp.blogspot.com
 bp.cool
 bpapi.apple.com
-bprl.site
 br-go.kelkoogroup.net
 br.gravatar.com
 br.ign.com
@@ -3737,7 +3737,6 @@ castbox.shopping.naver.com
 casualient.com
 cat.nl.eu.criteo.com
 catalog.gamepass.com
-catbrood.com
 cathaybk.tw
 cathaysec.tw
 cayim.by
@@ -4450,7 +4449,6 @@ cloud.video.taobao.com
 cloudcache.tencent-cloud.cn
 cloudcampus.rnd.huawei.com
 clouddn.com
-cloudfare.icu
 cloudflare-dns.com
 cloudflare.com
 cloudflareinsights.com
@@ -4584,8 +4582,6 @@ coinclix.co
 coinmama.com
 coinmarketcap.com
 coinmine.pl
-coinpr.info
-coinreal-us.com
 coinurl.com
 coki.me
 coklat.vip
@@ -5006,7 +5002,6 @@ cutto.io
 cutts.in
 cutturl.xyz
 cutu.me
-cutur.link
 cuturl.com
 cuturl.net
 cutx.me
@@ -5865,7 +5860,6 @@ ebd.cda.pl
 ebgames.com.au
 ebill.sydneywater.com.au
 ebookstore.sony.com
-ebooktruyen.info
 eby.onl
 ec-encrypted-hls-media.sndcdn.com
 ec-hls-media.sndcdn.com
@@ -6325,7 +6319,6 @@ ez1.cc
 ezbio.me
 ezbz.me
 ezc.vc
-ezclick.me
 ezexzo.link
 ezlc.net
 ezlinkcloaker.com
@@ -8112,6 +8105,7 @@ hoo.be
 hoopshype.com
 hooturl.com
 hop2.page
+hopework.link
 hopla.to
 hopp.co
 hops.me
@@ -9003,7 +8997,6 @@ item.taobao.com
 iterasi.net
 iteye.com
 iti.bz
-itiny.in
 itknowledgeexchange.techtarget.com
 itly.com
 itly.in
@@ -9908,6 +9901,7 @@ linka.li
 linkable.to
 linkaff.com
 linkai.in
+linkaku.homes
 linkaku.pro
 linkallstar.com
 linkalp.com
@@ -10070,12 +10064,14 @@ linksy.io
 linksynergy.com
 linktexas.info
 linktgd.com
+linktgd.net
 linkthis.link
 linkti.mx
 linkto.eu
 linktop.site
 linktr.ee
 linkunshorten.com
+linkurltiny.com
 linkverified.net
 linkvp.com
 linkwi.se
@@ -10712,6 +10708,7 @@ maac.io
 mac.pcbeta.com
 mac.search.naver.com
 mac.xunlei.com
+macanplay.click
 macau123.link
 maccms.com
 mackeeper.com
@@ -11028,7 +11025,6 @@ mega.co.nz
 mega.io
 mega.nz
 megagames.com
-megalink.pro
 megalink.vip
 meipian7.cn
 meitubeauty.meitudata.com
@@ -12537,6 +12533,7 @@ nah.uy
 nahnoji.cz
 naifei.shop
 naik-terus.com
+nakama420.xyz
 nam02.safelinks.protection.outlook.com
 nam04.safelinks.protection.outlook.com
 name.com
@@ -15617,7 +15614,6 @@ sendinblue.hitbtc.com
 sendme.help
 sendspace.com
 sendurl.me
-senin.lol
 sentry.cloud.vimeo.com
 sentry.flipboard.com
 sentry.io
@@ -15964,7 +15960,6 @@ shortorigin.so
 shortpals.online
 shortpro.in
 shortq.link
-shortr.at
 shortracz.com
 shortrl.com
 shortsfly.me
@@ -17523,7 +17518,6 @@ tcc.io
 tcch.ch
 tcdn.qq.com
 tce.alicdn.com
-tckl.party
 tcp.pw
 tcrn.ch
 tdid.m.qq.com
@@ -17731,7 +17725,6 @@ tigerlink.me
 tigger-citadel.touchtype-fluency.com
 tighturl.com
 tik.la
-tik.lat
 tik.lol
 tik.so
 tiklagit.net
@@ -17812,7 +17805,6 @@ tinyurl.hu
 tinyurl.mobi
 tinyurl.ph
 tinyurl.rocks
-tinyurl.win
 tinyurls.io
 tinyurlshortener.com
 tinyurlwebsite.com
@@ -18328,9 +18320,7 @@ twitch.tv
 twitchy.com
 twitter.com
 twitthis.com
-twiturl.de
 twixar.com
-twlink.ir
 twm5g.co
 two.re
 twou.co
@@ -19516,7 +19506,6 @@ webstore.amazon.de
 websub-test-proxy.twitch.tv
 webto.salesforce.com
 webtor.io
-webuji4d.life
 webyank4d.live
 webz.cc
 wec.li
