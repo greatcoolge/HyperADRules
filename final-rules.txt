@@ -3096,6 +3096,7 @@
 @@||bing.se^
 @@||binged.it^
 @@||binglee.com.au^
+@@||bio.meuhub.com^
 @@||bio.rub3n.io^
 @@||biolinkexp.com^
 @@||biolook.net^
@@ -4992,6 +4993,7 @@
 @@||cutlinker.com^
 @@||cutlly.com^
 @@||cutly.me^
+@@||cutmy.link^
 @@||cutmyurl.com^
 @@||cutqr.com^
 @@||cutt.eu^
@@ -9354,6 +9356,7 @@
 @@||khan.co^
 @@||kharkov.ua^
 @@||khtm.ir^
+@@||khudd.am^
 @@||ki.gy^
 @@||kiboke-studio.hr^
 @@||kick.is^
@@ -9458,6 +9461,7 @@
 @@||koninfo.de^
 @@||konsoleh.your-server.de^
 @@||kont.ly^
+@@||kontentino.com^
 @@||koofr.eu^
 @@||kootah.me^
 @@||kopimi.com^
@@ -10427,6 +10431,7 @@
 @@||lynks.in^
 @@||lynkz.in^
 @@||lyt.me^
+@@||lyzo.io^
 @@||lz.com^
 @@||lzd.co^
 @@||lzd.page^
@@ -11788,6 +11793,7 @@
 @@||mkto-m0027.com^
 @@||mkto-m0106.com^
 @@||mkto-m0186.com^
+@@||mkto-mlm10010008.com^
 @@||mkto-n0168.com^
 @@||mkto-n0199.com^
 @@||mkto-n0243.com^
@@ -12428,6 +12434,7 @@
 @@||myaz.tech^
 @@||mybanktracker.com^
 @@||mybbc.files.bbci.co.uk^
+@@||mybiourl.com^
 @@||mybiz.cc^
 @@||mybiz.ws^
 @@||mybmw.tw^
@@ -12542,7 +12549,6 @@
 @@||nakama420.xyz^
 @@||nam02.safelinks.protection.outlook.com^
 @@||nam04.safelinks.protection.outlook.com^
-@@||name.com^
 @@||name.ly^
 @@||namebright.com^
 @@||namecheap.com^
@@ -14542,6 +14548,7 @@
 @@||ranking.rakuten.co.jp^
 @@||ransomwaretracker.abuse.ch^
 @@||rantenah.com^
+@@||ranvz.co^
 @@||raoteqdab.cc.rs6.net^
 @@||rapidgator.net^
 @@||rapidshare.com^
@@ -16038,6 +16045,7 @@
 @@||shrt.st^
 @@||shrt.vip^
 @@||shrtco.de^
+@@||shrtct.pro^
 @@||shrten.com^
 @@||shrten.us^
 @@||shrtfly.com^
