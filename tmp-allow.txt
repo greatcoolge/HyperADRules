@@ -6515,6 +6515,7 @@
 @@||ragv.im^
 @@||raic.hu^
 @@||rainonit.com^
+@@||raisin-cdn.exponea.com^
 @@||rajamahjong.site^
 @@||rajaolympus.pro^
 @@||rajasurga.link^
@@ -6607,6 +6608,7 @@
 @@||redirect.bio^
 @@||redirect.prod.experiment.routing.cloudfront.aws.a2z.com^
 @@||redirect.public.beta.us-east-1.ses.aws.a2z.com^
+@@||redirect.stripe1.prod.experiment.routing.cloudfront.aws.a2z.com^
 @@||redirect.stripe2.prod.experiment.routing.cloudfront.aws.a2z.com^
 @@||redirect.viglink.com^
 @@||redirect447.tagcommander.com^
