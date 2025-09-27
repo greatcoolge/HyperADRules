@@ -329,6 +329,7 @@
 @@||a360.co^
 @@||a368.co^
 @@||a38.fr^
+@@||a4k.co^
 @@||a4r.at^
 @@||a8s.app^
 @@||aa.online-metrix.net^
@@ -3470,6 +3471,7 @@
 @@||jcp.is^
 @@||jd.cn.hn^
 @@||jdem.cz^
+@@||jdev.uk^
 @@||jdoqocy.com^
 @@||jelink.id^
 @@||jellyurl.com^
@@ -4520,6 +4522,7 @@
 @@||michmed.org^
 @@||micpn.com^
 @@||microbakery.ca^
+@@||microlink.ro^
 @@||microlinkfy.io^
 @@||microlinks.io^
 @@||microsoft.com^

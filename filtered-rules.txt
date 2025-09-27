@@ -568,6 +568,7 @@ a368.co
 a38.fr
 a4.mzstatic.com
 a48823c7ec3cf4539564-60c534a1284a12ce74ef84032e9b4e46.ssl.cf1.rackcdn.com
+a4k.co
 a4r.at
 a5.behance.net
 a57.foxnews.com
@@ -9096,6 +9097,7 @@ jd.cn.hn
 jd.com
 jd.mi.com
 jdem.cz
+jdev.uk
 jdoqocy.com
 jdownloader.org
 jeeng.com
@@ -11130,6 +11132,7 @@ micpn.com
 microbakery.ca
 microbit.org
 microg.org
+microlink.ro
 microlinkfy.io
 microlinks.io
 microsoft.com
