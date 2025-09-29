@@ -188,6 +188,7 @@
 @@||1tian.kuaishou.com^
 @@||1tk.us^
 @@||1to3.link^
+@@||1ty.me^
 @@||1un.fr^
 @@||1und1.de^
 @@||1url.co.uk^
@@ -429,6 +430,7 @@
 @@||699pic.com^
 @@||69run.fun^
 @@||6b.cz^
+@@||6bit.in^
 @@||6ct.org^
 @@||6du.in^
 @@||6e.de^
@@ -1059,6 +1061,7 @@
 @@||advertising.com^
 @@||advertising.soundcloud.com^
 @@||advil.waze.com^
+@@||advisable.link^
 @@||advise.gallup.com^
 @@||adweek.com^
 @@||adweek.it^
@@ -1105,6 +1108,7 @@
 @@||aholink.com^
 @@||ahoo.it^
 @@||ahpit.cyou^
+@@||ahref.sh^
 @@||ai-cdn.duba.net^
 @@||ai.blendnow.com^
 @@||ai.ly^
@@ -1116,6 +1120,7 @@
 @@||aillis.line.me^
 @@||aim2.cc^
 @@||aimetath.com^
+@@||aintok.com^
 @@||air.1688.com^
 @@||airdownload.adobe.com^
 @@||airdownload2.adobe.com^
@@ -2437,6 +2442,7 @@
 @@||apple.com^
 @@||appleid.apple.com^
 @@||appleid.cdn-apple.com^
+@@||applnx.com^
 @@||apply-here.live^
 @@||apply.lg.com^
 @@||apply.techcrunch.com^
@@ -3108,7 +3114,9 @@
 @@||binglee.com.au^
 @@||bio.meuhub.com^
 @@||bio.rub3n.io^
+@@||biobee.io^
 @@||biolinkexp.com^
+@@||biolinkgo.com^
 @@||biolook.net^
 @@||bioqr.me^
 @@||bioreling.com^
@@ -3172,6 +3180,7 @@
 @@||biturl.top^
 @@||bitw.in^
 @@||bitx.bio^
+@@||bity.la^
 @@||bity.onl^
 @@||bityl.co^
 @@||bityvirt.com^
@@ -4223,6 +4232,7 @@
 @@||chicago.cbslocal.com^
 @@||chicagotribune.com^
 @@||chickenkiller.com^
+@@||chilink.io^
 @@||chill.ly^
 @@||chilp.it^
 @@||chimney-doctors.com^
@@ -5007,6 +5017,7 @@
 @@||cutfy.co^
 @@||cutit.bid^
 @@||cutle.co^
+@@||cutli.to^
 @@||cutlink.now^
 @@||cutlinker.com^
 @@||cutlly.com^
@@ -5031,6 +5042,7 @@
 @@||cuturl.com^
 @@||cuturl.net^
 @@||cutx.me^
+@@||cutxly.com^
 @@||cuty.io^
 @@||cutyurl.com^
 @@||cv-h.phncdn.com^
@@ -5291,6 +5303,7 @@
 @@||delivery.rakuten.co.jp^
 @@||delivery.vidible.tv ^
 @@||delivery.vidible.tv^
+@@||delivr.com^
 @@||dell.com^
 @@||dell.to^
 @@||deloi.tt^
@@ -6221,6 +6234,7 @@
 @@||eu-v20.events.data.microsoft.com^
 @@||eu.cdn.survey.medallia.com^
 @@||eu.community.samsung.com^
+@@||eu.pe^
 @@||eu.pipe.aria.microsoft.com^
 @@||eu.playstation.com^
 @@||eu.static.mega.co.nz^
@@ -6869,6 +6883,7 @@
 @@||freenom.link^
 @@||freeones.com^
 @@||freeshorturl.com^
+@@||freeshorturls.com^
 @@||freewebs.com^
 @@||freight.aliexpress.com^
 @@||freshdirect.com^
@@ -7254,6 +7269,7 @@
 @@||gj.mmstat.com^
 @@||gjk.id^
 @@||gjusp.alicdn.com^
+@@||gjw.cx^
 @@||gjxz2.ucweb.com^
 @@||gkeconnect.googleapis.com ^
 @@||gkehub.googleapis.com ^
@@ -7960,8 +7976,6 @@
 @@||health.nsw.gov.au^
 @@||healthiermemphis.org^
 @@||healthnutnews.com^
-@@||heap-bitcoin.online^
-@@||heap-stocks.biz^
 @@||heapanalytics.com^
 @@||heartbeat.dm.origin.com^
 @@||heartofthenorthtours.link^
@@ -8373,6 +8387,7 @@
 @@||ib3.hulu.com^
 @@||ibb.co^
 @@||ibd.ink^
+@@||ibelocal.com^
 @@||ibest.in^
 @@||ibf.tw^
 @@||ibis.li^
@@ -9344,6 +9359,7 @@
 @@||kb.adguard.com^
 @@||kbank.co^
 @@||kbit.co^
+@@||kbitly.com^
 @@||kck.st^
 @@||kcsoftwares.com^
 @@||ke.me^
@@ -9606,6 +9622,7 @@
 @@||l24.im^
 @@||l2f.ca^
 @@||l2g.hu^
+@@||l2l.li^
 @@||l2o.ir^
 @@||l338.co^
 @@||l36-danmu.hi.163.com^
@@ -10040,6 +10057,7 @@
 @@||linknya.me^
 @@||linko.me^
 @@||linko.page^
+@@||linkodart.com^
 @@||linkol.xyz^
 @@||linkoo.ru^
 @@||linkoon.com^
@@ -11206,6 +11224,7 @@
 @@||mime.baidu.com^
 @@||mimecast.com^
 @@||mimobile.esim.mihome.xiaomi.net^
+@@||min-url.com^
 @@||min.bz^
 @@||minapp.com^
 @@||mine.nu^
@@ -11244,6 +11263,7 @@
 @@||miniurl.top^
 @@||minixperiment.twitch.tv^
 @@||minl.in^
+@@||minlink.io^
 @@||minnesota.cbslocal.com^
 @@||minny.link^
 @@||minorshort.weixin.qq.com^
@@ -12911,6 +12931,7 @@
 @@||notify.xboxlive.com ^
 @@||notify.xboxlive.com^
 @@||notion-static.com^
+@@||notion-url-shortener.vercel.app^
 @@||notlong.com^
 @@||nov.io^
 @@||nov.link^
@@ -14430,6 +14451,7 @@
 @@||qr1.jp^
 @@||qr123reg.click^
 @@||qr2.bz^
+@@||qr4pro.com^
 @@||qra.se^
 @@||qraus.com^
 @@||qrbee.net^
@@ -15501,6 +15523,7 @@
 @@||sctapi.ftqq.com^
 @@||scts.in^
 @@||scuf.co^
+@@||scurt.eu^
 @@||sd-ccdc.huawei.com^
 @@||sd.360.cn^
 @@||sdfq3cf.site^
@@ -15972,11 +15995,13 @@
 @@||shortenme.io^
 @@||shortenme.link^
 @@||shortenme.me^
+@@||shortenpro.com^
 @@||shortenurl.app^
 @@||shortenurl.org^
 @@||shortenurls.eu^
 @@||shortenwe.com^
 @@||shortenworld.com^
+@@||shortenx.eu^
 @@||shorter.gg^
 @@||shorterall.com^
 @@||shorterflix.com^
@@ -16009,6 +16034,7 @@
 @@||shortlinks.co.uk^
 @@||shortlinks.com.tr^
 @@||shortll.com^
+@@||shortly-go.vercel.app^
 @@||shortly.cc^
 @@||shortly.click^
 @@||shortly.cyou^
@@ -16028,6 +16054,7 @@
 @@||shortner.us^
 @@||shortnermaxi.com^
 @@||shortnerurl.org^
+@@||shortolink.com^
 @@||shortonly.com^
 @@||shortorigin.so^
 @@||shortpals.online^
@@ -16088,6 +16115,7 @@
 @@||shr.li^
 @@||shrd.fncstatic.com^
 @@||shrink-your-link.org^
+@@||shrink.gg^
 @@||shrink.pe^
 @@||shrinkdomain.com^
 @@||shrinkearn.com^
@@ -16139,6 +16167,7 @@
 @@||shtu.be^
 @@||shuc-android.ksord.com^
 @@||shuju.mi.com^
+@@||shukurbi.com^
 @@||shurl.fr^
 @@||shurl.in^
 @@||shurl.jp^
@@ -16228,6 +16257,7 @@
 @@||sites.kr^
 @@||sites.paradox.ai^
 @@||sites.techcrunch.com^
+@@||siteu.net^
 @@||siteurl.ink^
 @@||situs.bio^
 @@||siwazywcdn2.com^
@@ -16302,6 +16332,7 @@
 @@||sls.update.microsoft.com.akadns.net^
 @@||sls.update.microsoft.com^
 @@||slscr.update.microsoft.com^
+@@||slug-link-shorten.vercel.app^
 @@||slurl.keatsmedia.ca^
 @@||slushpool.com^
 @@||sly.be^
@@ -16332,6 +16363,7 @@
 @@||smartscreen-prod.microsoft.com^
 @@||smartscreen.microsoft.com^
 @@||smartsheet.com^
+@@||smartshortlinks.com^
 @@||smartstore.naver.com^
 @@||smartsuppchat.com^
 @@||smarturl.co.uk^
@@ -17627,6 +17659,7 @@
 @@||techcommunity.microsoft.com^
 @@||techcrunch.com^
 @@||techguy.org^
+@@||techigro.com^
 @@||techmeme.com^
 @@||technobezz.com^
 @@||technologyreview.com^
@@ -18741,6 +18774,7 @@
 @@||url.xcode.no^
 @@||url2.fr^
 @@||url2.in^
+@@||url27x.com^
 @@||url2a.site^
 @@||url2s.com^
 @@||url302x.icu^
@@ -18750,6 +18784,7 @@
 @@||url4.uk^
 @@||url5.eu^
 @@||url5.org^
+@@||url5xx.com^
 @@||url724.link^
 @@||url7x.com^
 @@||url84.com^
@@ -18760,6 +18795,7 @@
 @@||urladda.com^
 @@||urlah.com^
 @@||urlao.com^
+@@||urlb.io^
 @@||urlb.link^
 @@||urlbae.com^
 @@||urlbd.com^
@@ -19155,6 +19191,7 @@
 @@||vi.sa^
 @@||vi.tc^
 @@||vi.wikipedia.com^
+@@||vi2.eu^
 @@||via.batch.com^
 @@||via.placeholder.com^
 @@||viaalto.me^
@@ -19367,6 +19404,7 @@
 @@||vscode.download.prss.microsoft.com^
 @@||vsevjednom.cz^
 @@||vshorturl.com^
+@@||vsl.im^
 @@||vslinks.com^
 @@||vt802.us^
 @@||vtns.io^
@@ -19537,6 +19575,7 @@
 @@||web-client.prod.us-west2.twitch.tv^
 @@||web-development-blog.com^
 @@||web-service.halo.xbox.com^
+@@||web.a.app^
 @@||web.app^
 @@||web.archive.org^
 @@||web.beta.facebook.com^
@@ -19819,6 +19858,7 @@
 @@||worldometers.info^
 @@||woshipm.com^
 @@||wow.doctor^
+@@||wowly.co.in^
 @@||wownero.herominers.com^
 @@||wowurl.com^
 @@||wozencraft.boats^
@@ -21661,6 +21701,7 @@
 @@||yo.ma^
 @@||yoalizer.com^
 @@||yogh.me^
+@@||yohn.io^
 @@||yolla.link^
 @@||yon.ir^
 @@||yoox.ly^
