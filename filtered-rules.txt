@@ -257,7 +257,6 @@
 2kgam.es
 2l.me
 2la.eu
-2la.fr
 2link.cc
 2link.in
 2ly.link
@@ -281,7 +280,6 @@
 2vu.me
 2wo.ir
 2wsb.tv
-2ww.me
 2x0.net
 2x1.io
 2xo.net
@@ -491,7 +489,6 @@
 93.link
 98.to
 985.so
-98pro.cc
 999.sh
 99forward.com
 99fw.in
@@ -2647,7 +2644,6 @@ at.ms
 at.vibe.com
 at0m.de
 ata.ink
-ateng.me
 atglinks.com
 atharori.net
 athe.re
@@ -5791,7 +5787,6 @@ duakale.me
 dualstack.brightcove.map.fastly.net
 dub.co
 dub.link
-dub.sh
 dubaji-api.zhhainiao.com
 dubaji-m.zhhainiao.com
 dubaji-vip.zhhainiao.com
@@ -9256,7 +9251,6 @@ joint.reg2t.sandai.net
 jomblo.org
 jonty.link
 joomla.org
-jos.bio
 joshbut.llc
 jotform.com
 joturl.com
@@ -11285,7 +11279,6 @@ mini.engadget.com
 mini2015.qq.com
 miniapp.bilibili.com
 miniapp.gtimg.cn
-minifi.ca
 minify.link
 minifyme.co
 minifyn.com
@@ -12390,7 +12383,6 @@ mps.nbcuni.com
 mpsapi.amap.com
 mpsnare.iesnare.com
 mpv.io
-mq.gy
 mq3.net
 mql5.com
 mqtt-mini.facebook.com
@@ -14971,7 +14963,6 @@ rethinktw.cc
 retont.link
 retro-bit.com
 returnpath.com
-reurl.cc
 reut.rs
 reuters.com
 rev.cm
@@ -16036,7 +16027,6 @@ shorte.pro
 shorte.st
 shorten-url.com
 shorten.asia
-shorten.ee
 shorten.gg
 shorten.rest
 shorten.so
@@ -16222,7 +16212,6 @@ shrtn.ee
 shrtnly.pro
 shrtq.link
 shrtr.cc
-shrtru.com
 shrturl.com
 shrturl.io
 shrturl.site
@@ -16417,7 +16406,6 @@ sm-s.in
 sm.ign.com
 sm4ll.eu
 sm4ll.in
-smaintenance.com
 smal.lu
 small.cat
 smallbusiness.chron.com
@@ -17428,6 +17416,7 @@ sy.to
 syandus.com
 syb.la
 syd1.speedtest.telstra.net
+sydflames.com
 sydkings.com
 sydney-1.hide.me
 sydneywater.com.au
@@ -18927,7 +18916,6 @@ urlifys.com
 urlin.it
 urlinkz.me
 urlino.net
-urlis.net
 urlist.net
 urlkai.com
 urlki.com
@@ -21865,7 +21853,6 @@ yunjiasu-cdn.net
 yuque.com
 yurl.in
 yweb.com
-yww.uy
 yx.si
 yxe3d.paulchavady.com
 yximgs.com

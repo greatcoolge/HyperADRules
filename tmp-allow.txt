@@ -133,7 +133,6 @@
 @@||2it.info^
 @@||2kgam.es^
 @@||2la.eu^
-@@||2la.fr^
 @@||2link.cc^
 @@||2link.in^
 @@||2ly.link^
@@ -154,7 +153,6 @@
 @@||2vu.me^
 @@||2wo.ir^
 @@||2wsb.tv^
-@@||2ww.me^
 @@||2x0.net^
 @@||2x1.io^
 @@||2xo.net^
@@ -308,7 +306,6 @@
 @@||93.link^
 @@||98.to^
 @@||985.so^
-@@||98pro.cc^
 @@||999.sh^
 @@||99forward.com^
 @@||99fw.in^
@@ -966,7 +963,6 @@
 @@||at.vibe.com^
 @@||at0m.de^
 @@||ata.ink^
-@@||ateng.me^
 @@||atglinks.com^
 @@||atharori.net^
 @@||athe.re^
@@ -2235,7 +2231,6 @@
 @@||duakale.me^
 @@||dub.co^
 @@||dub.link^
-@@||dub.sh^
 @@||dubaji-api.zhhainiao.com^
 @@||dubaji-m.zhhainiao.com^
 @@||dubaji-vip.zhhainiao.com^
@@ -2725,7 +2720,6 @@
 @@||gdmf.apple.com^
 @@||gdown.baidu.com^
 @@||gdurl.com^
-@@||ge.tt^
 @@||geefi.me^
 @@||geetlink.com^
 @@||gef.me^
@@ -3595,7 +3589,6 @@
 @@||joiner.co^
 @@||jomblo.org^
 @@||jonty.link^
-@@||jos.bio^
 @@||joshbut.llc^
 @@||joturl.com^
 @@||joy8.bond^
@@ -4650,7 +4643,6 @@
 @@||minggu.cfd^
 @@||mini-url.in^
 @@||miniapp.gtimg.cn^
-@@||minifi.ca^
 @@||minify.link^
 @@||minifyme.co^
 @@||minifyn.com^
@@ -5613,7 +5605,6 @@
 @@||mpl.pm^
 @@||mpo-link.com^
 @@||mpsapi.amap.com^
-@@||mq.gy^
 @@||mq3.net^
 @@||mrjj.uk^
 @@||mrkt.link^
@@ -6811,7 +6802,6 @@
 @@||resvoice.com^
 @@||rethinktw.cc^
 @@||retont.link^
-@@||reurl.cc^
 @@||reut.rs^
 @@||rev.cm^
 @@||revisit.work^
@@ -7335,7 +7325,6 @@
 @@||shorte.st^
 @@||shorten-url.com^
 @@||shorten.asia^
-@@||shorten.ee^
 @@||shorten.gg^
 @@||shorten.rest^
 @@||shorten.so^
@@ -7517,7 +7506,6 @@
 @@||shrtnly.pro^
 @@||shrtq.link^
 @@||shrtr.cc^
-@@||shrtru.com^
 @@||shrturl.com^
 @@||shrturl.io^
 @@||shrturl.site^
@@ -7643,7 +7631,6 @@
 @@||sm-s.in^
 @@||sm4ll.eu^
 @@||sm4ll.in^
-@@||smaintenance.com^
 @@||smal.lu^
 @@||small.cat^
 @@||smallit.cc^
@@ -8031,6 +8018,7 @@
 @@||sy.pe^
 @@||sy.to^
 @@||syb.la^
+@@||sydflames.com^
 @@||sydkings.com^
 @@||sylvan.apple.com^
 @@||sync-tm.everesttech.net^
@@ -8969,7 +8957,6 @@
 @@||urlin.it^
 @@||urlinkz.me^
 @@||urlino.net^
-@@||urlis.net^
 @@||urlist.net^
 @@||urlkai.com^
 @@||urlki.com^
@@ -9812,7 +9799,6 @@
 @@||yun.duiba.com.cn^
 @@||yun.ir^
 @@||yweb.com^
-@@||yww.uy^
 @@||yx.si^
 @@||yxe3d.paulchavady.com^
 @@||yys.163.com^
