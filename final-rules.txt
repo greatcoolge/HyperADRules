@@ -3159,7 +3159,6 @@
 @@||bitesli.com^
 @@||bitfinex.com^
 @@||bitfury.com^
-@@||bitfy.cc^
 @@||bitgg.co^
 @@||bithumb.com^
 @@||bitigee.com^
@@ -3524,7 +3523,6 @@
 @@||btstatic.com^
 @@||btty.in^
 @@||btwrdn.com^
-@@||btyl.org^
 @@||bu66.com^
 @@||bubbleurl.com^
 @@||buckster.soundcloud.com^
@@ -4372,6 +4370,7 @@
 @@||clica.ai^
 @@||clicai.xyz^
 @@||click-goo.com^
+@@||click-myl.ink^
 @@||click-tracking.klarna.net^
 @@||click-trk.com^
 @@||click.adrecord.com^
@@ -4538,7 +4537,6 @@
 @@||cloudradar.net^
 @@||cloudresourcemanager.googleapis.com^
 @@||cloudservices.roku.com^
-@@||cloudshrinker.com^
 @@||cloudtechlinks.com^
 @@||cloudtrace.googleapis.com^
 @@||clourls.com^
@@ -11902,6 +11900,7 @@
 @@||mkto-ab650161.com^
 @@||mkto-ab660121.com^
 @@||mkto-ab660168.com^
+@@||mkto-ab680016.com^
 @@||mkto-ab690006.com^
 @@||mkto-ab690011.com^
 @@||mkto-ab690018.com^
@@ -14764,6 +14763,7 @@
 @@||r5siqu4ab.cc.rs6.net^
 @@||r5v8prcab.cc.rs6.net^
 @@||r5waxhbbb.cc.rs6.net^
+@@||r66iayoab.cc.rs6.net^
 @@||r6hquldab.cc.rs6.net^
 @@||r6lccqnab.cc.rs6.net^
 @@||r6mm9llab.cc.rs6.net^
@@ -15129,6 +15129,7 @@
 @@||rfgvnv6ab.cc.rs6.net^
 @@||rfj.tips^
 @@||rflrlptab.cc.rs6.net^
+@@||rfn9k5jab.cc.rs6.net^
 @@||rfnptk8ab.cc.rs6.net^
 @@||rfr.bz^
 @@||rftyzi5ab.cc.rs6.net^
