@@ -1456,7 +1456,6 @@
 @@||can.al^
 @@||candicegilmerauthor.com^
 @@||canon.us^
-@@||canva.com^
 @@||canyonstudent.net^
 @@||capdisk.com^
 @@||capital.one^
@@ -2575,7 +2574,6 @@
 @@||fgurl.net^
 @@||fhurl.com^
 @@||fi-go.kelkoogroup.net^
-@@||fi.ro^
 @@||fiatconnect.app^
 @@||fibr.ai^
 @@||ficken.ws^
@@ -2627,7 +2625,6 @@
 @@||fly2.ws^
 @@||flyra.link^
 @@||flys.pw^
-@@||flyurl.net^
 @@||flyurls.com^
 @@||fmurl.cc^
 @@||fn.gg^
@@ -2894,7 +2891,6 @@
 @@||go.e2language.com^
 @@||go.edh.tw^
 @@||go.egi.eu^
-@@||go.flx1.com^
 @@||go.ford^
 @@||go.gcash.com^
 @@||go.goodmotion.de^
@@ -3099,7 +3095,6 @@
 @@||hab.cx^
 @@||hadsucma.com^
 @@||hala.li^
-@@||hammerthoritaly.com^
 @@||hanaco.jp^
 @@||hanada.info^
 @@||hangeulplay.com^
@@ -3171,7 +3166,6 @@
 @@||himg.bdimg.com^
 @@||hiroqr.com^
 @@||histori.ca^
-@@||hitlap.com^
 @@||hitomi.la^
 @@||hive.arf.dev^
 @@||hivy.net^
@@ -3212,7 +3206,6 @@
 @@||hooturl.com^
 @@||hop2.page^
 @@||hopework.link^
-@@||hopla.to^
 @@||hopp.co^
 @@||hops.me^
 @@||hopth.ru^
@@ -3228,7 +3221,6 @@
 @@||hp.care^
 @@||hpe.to^
 @@||hpvk.com^
-@@||hqstreams7.info^
 @@||hqxxx.bar^
 @@||hr.163.com^
 @@||hrbl.me^
@@ -4490,6 +4482,7 @@
 @@||m-k.ca^
 @@||m-rx.bz^
 @@||m-swjb2.custobar.com^
+@@||m-tmsif.custobar.com^
 @@||m.163.com^
 @@||m.17173.com^
 @@||m.360.cn^

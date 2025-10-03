@@ -6618,7 +6618,6 @@
 @@||fi-go.kelkoogroup.net^
 @@||fi.gravatar.com^
 @@||fi.m.wikipedia.com^
-@@||fi.ro^
 @@||fi.statcounter.com^
 @@||fi.wikipedia.com^
 @@||fiatconnect.app^
@@ -6758,7 +6757,6 @@
 @@||fly2.ws^
 @@||flyra.link^
 @@||flys.pw^
-@@||flyurl.net^
 @@||flyurls.com^
 @@||fm.tuba.pl^
 @@||fmovies.to^
@@ -7429,7 +7427,6 @@
 @@||go.edh.tw^
 @@||go.egi.eu^
 @@||go.energized.pro^
-@@||go.flx1.com^
 @@||go.ford^
 @@||go.gcash.com^
 @@||go.goodmotion.de^
@@ -7988,7 +7985,6 @@
 @@||halifax.maelstrom.gameservices.xboxlive.com^
 @@||halo.part.xbox.com^
 @@||halo.xbox.com^
-@@||hammerthoritaly.com^
 @@||hanaco.jp^
 @@||hanada.info^
 @@||handhelds.engadget.com^
@@ -8158,7 +8154,6 @@
 @@||hitf.to^
 @@||hitfile.net^
 @@||hitfilm.com^
-@@||hitlap.com^
 @@||hitnews.com^
 @@||hitomi.la^
 @@||hive.arf.dev^
@@ -8233,7 +8228,6 @@
 @@||hooturl.com^
 @@||hop2.page^
 @@||hopework.link^
-@@||hopla.to^
 @@||hopp.co^
 @@||hops.me^
 @@||hopth.ru^
@@ -8284,7 +8278,6 @@
 @@||hpvk.com^
 @@||hqq.tv^
 @@||hqq.watch^
-@@||hqstreams7.info^
 @@||hqxxx.bar^
 @@||hr.163.com^
 @@||hr.mi.com^
@@ -10645,6 +10638,7 @@
 @@||m-k.ca^
 @@||m-rx.bz^
 @@||m-swjb2.custobar.com^
+@@||m-tmsif.custobar.com^
 @@||m.104.com.tw^
 @@||m.1234567.com.cn^
 @@||m.123movies.to^
