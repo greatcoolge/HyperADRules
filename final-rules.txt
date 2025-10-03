@@ -464,6 +464,7 @@
 @@||7kts.com^
 @@||7li.in^
 @@||7link.info^
+@@||7link.pro^
 @@||7links.co^
 @@||7mb.io^
 @@||7mbl.co^
@@ -1155,6 +1156,7 @@
 @@||aka.gr^
 @@||aka.ms^
 @@||aka.my^
+@@||aka.ovh^
 @@||aka.re^
 @@||aka.sainnhe.dev^
 @@||aka.tf^
@@ -4903,6 +4905,7 @@
 @@||crateandbarrel.com^
 @@||crbcdn.jsfiddle.net^
 @@||crdrv.co^
+@@||cre.pr^
 @@||create.snapchat.com^
 @@||createjs.com^
 @@||createsend.com^
@@ -5037,7 +5040,6 @@
 @@||custody.coinbase.com^
 @@||custom.bnc.lt^
 @@||customerevents.netflix.com^
-@@||customers.my^
 @@||customlinks.appsflyer.com^
 @@||customtraffic.impactradius.com^
 @@||cut-ly.com^
@@ -5050,7 +5052,6 @@
 @@||cut.sk^
 @@||cut2.ir^
 @@||cutcaptcha.com^
-@@||cutcut.uk^
 @@||cutdown.link^
 @@||cute.link^
 @@||cuterurlha.xyz^
@@ -5070,14 +5071,13 @@
 @@||cutmy.link^
 @@||cutmyurl.com^
 @@||cutqr.com^
-@@||cutt.eu^
 @@||cutt.lol^
 @@||cutt.ly^
 @@||cutt.us^
 @@||cutt4.me^
 @@||cuttgoo.com^
 @@||cutth.com^
-@@||cuttly.art^
+@@||cutthis.link^
 @@||cuttly.io^
 @@||cuttly.pro^
 @@||cutto.io^
@@ -5181,7 +5181,6 @@
 @@||da.xboxservices.com^
 @@||daa.pl^
 @@||dad.do^
-@@||daduslot88.life^
 @@||dafa01.net^
 @@||dafa07.net^
 @@||daffodilvarsity.edu.bd^
@@ -5675,6 +5674,7 @@
 @@||domraider.io^
 @@||donorschoose.org^
 @@||doods.sbs^
+@@||doodsty.fun^
 @@||dopice.sk^
 @@||doris.yidianzixun.com^
 @@||dot.gov^
@@ -5930,6 +5930,7 @@
 @@||earthtoday.info^
 @@||easyanticheat.net^
 @@||easybytez.com^
+@@||easylinkref.com^
 @@||easylist-downloads.adblockplus.org^
 @@||easylist.club^
 @@||easylist.to^
@@ -6460,7 +6461,6 @@
 @@||f5i.org^
 @@||f5url.com^
 @@||f5yo.com^
-@@||f6x.cn^
 @@||f7.163.com^
 @@||f8.market.xiaomi.com^
 @@||fa-st.co^
@@ -6505,6 +6505,7 @@
 @@||fastdrama.co^
 @@||fastdrama.se^
 @@||fasthouse.me^
+@@||fastlinks.com.tr^
 @@||fastly-chat.ign.com^
 @@||fastly.net^
 @@||fastmail.fm^
@@ -8148,6 +8149,7 @@
 @@||hinet.net^
 @@||hink.de^
 @@||hips.hearstapps.com^
+@@||hiroqr.com^
 @@||histori.ca^
 @@||history.com^
 @@||history.paypal.com^
@@ -9590,6 +9592,7 @@
 @@||ko.gl^
 @@||ko.gravatar.com^
 @@||ko.wikipedia.com^
+@@||koabite.com^
 @@||kohls.com^
 @@||koi800.cc^
 @@||koinko.in^
@@ -9801,6 +9804,8 @@
 @@||lc-cn-n1-shared.com^
 @@||lc-s.co^
 @@||lc.cx^
+@@||lc.net.br^
+@@||lccs.ovh^
 @@||lcdn-locator-usnkq.apple.com.akadns.net^
 @@||lcdn-locator.apple.com.akadns.net^
 @@||lcdn-locator.apple.com^
@@ -9844,6 +9849,7 @@
 @@||less.al^
 @@||lessnmore.net^
 @@||letribunaldunet.fr^
+@@||letsconnect.fun^
 @@||letsencrypt.org^
 @@||letsharu.cc^
 @@||letsupload.co^
@@ -10161,6 +10167,7 @@
 @@||linkku.me^
 @@||linklada.com^
 @@||linklift.in^
+@@||linkloom.link^
 @@||linklyhq.com^
 @@||linkme.lol^
 @@||linkmngr.com^
@@ -10193,6 +10200,7 @@
 @@||linkrif.co^
 @@||linkrjb.me^
 @@||links-anz.afterpay.com^
+@@||links-bio.com^
 @@||links-na.afterpay.com^
 @@||links.2ns.fi^
 @@||links.afterpay.com^
@@ -10708,6 +10716,7 @@
 @@||m.dq.com^
 @@||m.ds.163.com^
 @@||m.dxy.com^
+@@||m.dzule.com^
 @@||m.ebay.co.uk^
 @@||m.ebay.com^
 @@||m.ebay.fr^
@@ -11302,6 +11311,7 @@
 @@||meumessage.com^
 @@||mewkid.net^
 @@||mex.su^
+@@||mez.bio^
 @@||mfacproject.com^
 @@||mg.mail.notion.so^
 @@||mgbsdk.matrix.netease.com^
@@ -13262,6 +13272,7 @@
 @@||oauth.vk.com^
 @@||oaxyteek.net^
 @@||obank.tw^
+@@||obdr.it^
 @@||oboom.com^
 @@||obs.line-scdn.net^
 @@||observer.com^
@@ -14683,6 +14694,7 @@
 @@||query2.finance.yahoo.com^
 @@||quick.lt^
 @@||quicklinkpro.io^
+@@||quickshortlink.com^
 @@||quickshrink.ovh^
 @@||quicurl.com^
 @@||quik.im^
@@ -15421,10 +15433,12 @@
 @@||s.to^
 @@||s.tobi.re^
 @@||s.tradingview.com^
+@@||s.tunpok.com^
 @@||s.ub.ac.id^
 @@||s.ubyt.es^
 @@||s.ul.com^
 @@||s.uniqlo.com^
+@@||s.vazo.vn^
 @@||s.w-x.co^
 @@||s.w.org^
 @@||s.wikicharlie.cl^
@@ -15570,6 +15584,7 @@
 @@||sah.ooo^
 @@||sail.to^
 @@||sailthru.com^
+@@||sakari.io^
 @@||sakura.ne.jp^
 @@||salemove.com^
 @@||salesadvisor.nazriproton.com.my^
@@ -16206,6 +16221,7 @@
 @@||shortenme.io^
 @@||shortenme.link^
 @@||shortenme.me^
+@@||shortenn.site^
 @@||shortenpro.com^
 @@||shortenurl.app^
 @@||shortenurl.org^
@@ -17953,6 +17969,7 @@
 @@||ter.li^
 @@||terabox.in^
 @@||terabox.pw^
+@@||teraboxl.cloud^
 @@||terakki.link^
 @@||terasherelinks.site^
 @@||terashort.com^
@@ -18322,6 +18339,7 @@
 @@||toliveal.ie^
 @@||tom.163.com^
 @@||tomasz.top^
+@@||tomly.io^
 @@||tomshardware.com^
 @@||ton.twimg.com^
 @@||tonancos.com^
@@ -19048,6 +19066,7 @@
 @@||url.vet^
 @@||url.vhearts.net^
 @@||url.virtualstr8pnp.com^
+@@||url.vma.cl^
 @@||url.webifo.com^
 @@||url.webof.xyz^
 @@||url.xcode.no^
@@ -19135,6 +19154,7 @@
 @@||urllink.link^
 @@||urllinker.com^
 @@||urllix.com^
+@@||urlllll.com^
 @@||urllover.com^
 @@||urlm.net^
 @@||urlme.cc^
@@ -19221,6 +19241,7 @@
 @@||urly.fi^
 @@||urlys.one^
 @@||urlys.pro^
+@@||urlyshort.pro^
 @@||urlyte.com^
 @@||urlz.at^
 @@||urlz.com^
@@ -19563,6 +19584,7 @@
 @@||videos.vidible.tv ^
 @@||videos.vidible.tv^
 @@||videotxxx.com^
+@@||videyx.fun^
 @@||vidible.tv^
 @@||vidoza.net^
 @@||vidtech.cbsinteractive.com^
@@ -21974,6 +21996,7 @@
 @@||yamantap.me^
 @@||yamechanic.com^
 @@||yammer.com^
+@@||yamu.pro^
 @@||yan.ua^
 @@||yande.re^
 @@||yandex.ocsp-responder.com^
@@ -22199,6 +22222,7 @@
 @@||zipmyurl.com^
 @@||zippyshare.com^
 @@||ziprecruiter.com^
+@@||zipth.at^
 @@||zipurl.fr^
 @@||zipurl.link^
 @@||zipzy.in^
