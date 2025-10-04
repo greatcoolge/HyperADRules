@@ -1262,6 +1262,7 @@ amap.com
 amarurl.com
 amauthprd.samsungcloudsolution.com
 amays.im
+amaz.link
 amazon.ac
 amazon.academy
 amazon.accountant
@@ -3128,6 +3129,7 @@ bio.rub3n.io
 bioandlink.com
 biobee.io
 biofy.bio
+biolink.sh
 biolinkexp.com
 biolinkgo.com
 biolook.net
@@ -5062,6 +5064,7 @@ cutlly.com
 cutlnk.io
 cutlnk.top
 cutly.me
+cutlyx.com
 cutmy.link
 cutmyurl.com
 cutqr.com
@@ -5923,6 +5926,7 @@ earth.google.com
 earthlink.net
 earthtoday.info
 easyanticheat.net
+easybio.info
 easybytez.com
 easylinkref.com
 easylist-downloads.adblockplus.org
@@ -8577,6 +8581,7 @@ iii.im
 iiiii.in
 iiil.io
 iitly.com
+iiuo.org
 ijg.cc
 ijn.tl
 ijr.com
@@ -9162,7 +9167,6 @@ iyc.life
 iyd.com
 izi.su
 izy.be
-izyurl.com
 izz.cc
 j-it.su
 j.gamersky.com
@@ -9454,7 +9458,6 @@ kemono.party
 kepler.jd.com
 kerang.life
 keraskale.me
-kereta-vip.com
 kes.re
 key.us
 keybase.io
@@ -9471,7 +9474,6 @@ kfd.pl
 kfrc.co
 kfurl.cn
 kg.games
-kgayz.org
 kgs.link
 kgs.yt
 kgs88.co
@@ -9568,7 +9570,6 @@ kmr1.org
 kn-t.net
 kn.gravatar.com
 knet.cn
-knf.md
 knicks.jd.com
 knnt.me
 knowyourmeme.com
@@ -9605,7 +9606,6 @@ kotl.in
 koyu.space
 kp.org
 kpmg.ch
-kppgay.com
 kpstaticbj.wx.ckjr001.com
 kqzyfj.com
 kr.blog.twitch.tv
@@ -9965,7 +9965,6 @@ lillink.xyz
 lilllil.ru
 lilnk.to
 lilo.org
-liltext.com
 lilyfreeonlyfans.live
 limestart.cn
 limetorrents.info
@@ -10064,7 +10063,6 @@ linkable.to
 linkaff.com
 linkai.in
 linkaku.homes
-linkaku.pro
 linkallstar.com
 linkalp.com
 linkapp.click
@@ -10213,7 +10211,6 @@ links.rbsoft.org
 links.sl
 links.uv.es
 links2.me
-links4money.com
 linksable.to
 linksdr.com
 linksehat.net
@@ -10904,7 +10901,6 @@ mac.pcbeta.com
 mac.search.naver.com
 mac.xunlei.com
 macanplay.click
-macau123.link
 maccms.com
 mackeeper.com
 macmillandictionary.com
@@ -10962,7 +10958,6 @@ maimai.cn
 main.iam.ad.ext.azure.com
 main.m.taobao.com
 mainaku.life
-mainterus.fun
 mairuan.cn
 mairuan.com
 mairuan.com.cn
@@ -12431,7 +12426,6 @@ monitor.returnpath.net
 monitoring-team.sonymobile.com
 monitoring.googleapis.com
 monly.id
-mono-gog-o.life
 monopolycollectdice.xyz
 monopolygodices.xyz
 monster.cat
@@ -14560,6 +14554,7 @@ qa.global.fncstatic.com
 qa.sockets.stackexchange.com
 qain.si
 qb.dk
+qb9.in
 qbn.ru
 qbox.me
 qca.qualcomm.com
@@ -16357,6 +16352,7 @@ shrinkme.ink
 shrinkme.io
 shrinkster.com
 shrinkurl.us
+shrinky.pro
 shrnk.co.uk
 shrnkz.com
 shrt-l.ink
@@ -19098,6 +19094,7 @@ urlcort.com
 urlcover.com
 urlcrop.com
 urlcut.at
+urlcut.ch
 urlcut.com
 urlcut.in
 urlday.com
@@ -19205,6 +19202,7 @@ urlsmall.com
 urlsmall.link
 urlsmush.com
 urlsnap.com
+urlsnapy.com
 urlsnipper.com
 urlstox.com
 urltamil.in
@@ -19479,6 +19477,7 @@ vendorlist.consensu.org
 venkateswaragases.com
 vercel.link
 verd.in
+verdylion.com
 verified.bio
 verify.authorize.net
 verify.snssdk.com

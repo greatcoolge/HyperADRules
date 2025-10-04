@@ -1268,6 +1268,7 @@
 @@||amarurl.com^
 @@||amauthprd.samsungcloudsolution.com^
 @@||amays.im^
+@@||amaz.link^
 @@||amazon.ac^
 @@||amazon.academy^
 @@||amazon.accountant^
@@ -3134,6 +3135,7 @@
 @@||bioandlink.com^
 @@||biobee.io^
 @@||biofy.bio^
+@@||biolink.sh^
 @@||biolinkexp.com^
 @@||biolinkgo.com^
 @@||biolook.net^
@@ -5068,6 +5070,7 @@
 @@||cutlnk.io^
 @@||cutlnk.top^
 @@||cutly.me^
+@@||cutlyx.com^
 @@||cutmy.link^
 @@||cutmyurl.com^
 @@||cutqr.com^
@@ -5929,6 +5932,7 @@
 @@||earthlink.net^
 @@||earthtoday.info^
 @@||easyanticheat.net^
+@@||easybio.info^
 @@||easybytez.com^
 @@||easylinkref.com^
 @@||easylist-downloads.adblockplus.org^
@@ -8583,6 +8587,7 @@
 @@||iiiii.in^
 @@||iiil.io^
 @@||iitly.com^
+@@||iiuo.org^
 @@||ijg.cc^
 @@||ijn.tl^
 @@||ijr.com^
@@ -9168,7 +9173,6 @@
 @@||iyd.com^
 @@||izi.su^
 @@||izy.be^
-@@||izyurl.com^
 @@||izz.cc^
 @@||j-it.su^
 @@||j.gamersky.com^
@@ -9460,7 +9464,6 @@
 @@||kepler.jd.com^
 @@||kerang.life^
 @@||keraskale.me^
-@@||kereta-vip.com^
 @@||kes.re^
 @@||key.us^
 @@||keybase.io^
@@ -9477,7 +9480,6 @@
 @@||kfrc.co^
 @@||kfurl.cn^
 @@||kg.games^
-@@||kgayz.org^
 @@||kgs.link^
 @@||kgs.yt^
 @@||kgs88.co^
@@ -9574,7 +9576,6 @@
 @@||kn-t.net^
 @@||kn.gravatar.com^
 @@||knet.cn^
-@@||knf.md^
 @@||knicks.jd.com^
 @@||knnt.me^
 @@||knowyourmeme.com^
@@ -9611,7 +9612,6 @@
 @@||koyu.space^
 @@||kp.org^
 @@||kpmg.ch^
-@@||kppgay.com^
 @@||kpstaticbj.wx.ckjr001.com^
 @@||kqzyfj.com^
 @@||kr.blog.twitch.tv^
@@ -9971,7 +9971,6 @@
 @@||lilllil.ru^
 @@||lilnk.to^
 @@||lilo.org^
-@@||liltext.com^
 @@||lilyfreeonlyfans.live^
 @@||limestart.cn^
 @@||limetorrents.info^
@@ -10070,7 +10069,6 @@
 @@||linkaff.com^
 @@||linkai.in^
 @@||linkaku.homes^
-@@||linkaku.pro^
 @@||linkallstar.com^
 @@||linkalp.com^
 @@||linkapp.click^
@@ -10219,7 +10217,6 @@
 @@||links.sl^
 @@||links.uv.es^
 @@||links2.me^
-@@||links4money.com^
 @@||linksable.to^
 @@||linksdr.com^
 @@||linksehat.net^
@@ -10910,7 +10907,6 @@
 @@||mac.search.naver.com^
 @@||mac.xunlei.com^
 @@||macanplay.click^
-@@||macau123.link^
 @@||maccms.com^
 @@||mackeeper.com^
 @@||macmillandictionary.com^
@@ -10968,7 +10964,6 @@
 @@||main.iam.ad.ext.azure.com^
 @@||main.m.taobao.com^
 @@||mainaku.life^
-@@||mainterus.fun^
 @@||mairuan.cn^
 @@||mairuan.com.cn^
 @@||mairuan.com^
@@ -12437,7 +12432,6 @@
 @@||monitoring-team.sonymobile.com^
 @@||monitoring.googleapis.com^
 @@||monly.id^
-@@||mono-gog-o.life^
 @@||monopolycollectdice.xyz^
 @@||monopolygodices.xyz^
 @@||monster.cat^
@@ -14566,6 +14560,7 @@
 @@||qa.sockets.stackexchange.com^
 @@||qain.si^
 @@||qb.dk^
+@@||qb9.in^
 @@||qbn.ru^
 @@||qbox.me^
 @@||qca.qualcomm.com^
@@ -16363,6 +16358,7 @@
 @@||shrinkme.io^
 @@||shrinkster.com^
 @@||shrinkurl.us^
+@@||shrinky.pro^
 @@||shrnk.co.uk^
 @@||shrnkz.com^
 @@||shrt-l.ink^
@@ -19104,6 +19100,7 @@
 @@||urlcover.com^
 @@||urlcrop.com^
 @@||urlcut.at^
+@@||urlcut.ch^
 @@||urlcut.com^
 @@||urlcut.in^
 @@||urlday.com^
@@ -19211,6 +19208,7 @@
 @@||urlsmall.link^
 @@||urlsmush.com^
 @@||urlsnap.com^
+@@||urlsnapy.com^
 @@||urlsnipper.com^
 @@||urlstox.com^
 @@||urltamil.in^
@@ -19485,6 +19483,7 @@
 @@||venkateswaragases.com^
 @@||vercel.link^
 @@||verd.in^
+@@||verdylion.com^
 @@||verified.bio^
 @@||verify.authorize.net^
 @@||verify.snssdk.com^
