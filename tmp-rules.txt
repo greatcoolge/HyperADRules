@@ -3236,6 +3236,7 @@
 @@||d31qbv1cthcecs.cloudfront.net^
 @@||d35u1vg1q28b3w.cloudfront.net^
 @@||d3aqoihi2n8ty8.cloudfront.net^
+@@||d3g.qq.com^
 @@||d3rt1990lpmkn.cloudfront.net^
 @@||d3tglifpd8whs6.cloudfront.net^
 @@||d3tsytm1wtjqo2.cloudfront.net^
@@ -8463,6 +8464,7 @@
 @@||rover.ebay.it^
 @@||rpetri.ch^
 @@||rpg.twitch.tv^
+@@||rpt.gdt.qq.com^
 @@||rptrcks.walmart.com^
 @@||rs.playstation.com^
 @@||rs6.net^
@@ -10388,6 +10390,7 @@
 @@||uurl.us^
 @@||v.daum.net^
 @@||v.firebog.net^
+@@||v.gdt.qq.com^
 @@||v.pinimg.com^
 @@||v.shopify.com^
 @@||v.smtcdns.net^
