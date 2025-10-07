@@ -5042,6 +5042,7 @@
 @@||ct.sendgrid.net^
 @@||ct.techrepublic.com^
 @@||ctagm.tchibo.de^
+@@||ctahire.com^
 @@||ctbc.tw^
 @@||ctc.fe01.c3.xiaomi.com^
 @@||ctc.fe02.c3.xiaomi.com^
@@ -5413,6 +5414,7 @@
 @@||denis-ovs.narod.ru^
 @@||depot.xda-developers.com^
 @@||des.gbtcdn.com^
+@@||deshtvbd.com^
 @@||design.www.huffingtonpost.com^
 @@||desin.me^
 @@||desktop-data.sonymobile.com^
@@ -7319,6 +7321,7 @@
 @@||getshorter.com^
 @@||getsmallurl.com^
 @@||getthot.com^
+@@||gettolink.net^
 @@||gettr.im^
 @@||getus.at^
 @@||gf.to^
@@ -7951,6 +7954,7 @@
 @@||gs.wixapps.net^
 @@||gs2.ww.prod.dl.playstation.net^
 @@||gsa.apple.com^
+@@||gscc.pro^
 @@||gskvn.live^
 @@||gsmarena.com^
 @@||gsms.jp^
@@ -10632,6 +10636,7 @@
 @@||loopia.com^
 @@||loopia.se^
 @@||loopt.us^
+@@||lorem.is^
 @@||losangeles.cbslocal.com^
 @@||lotustalk.com^
 @@||lou.ly^
