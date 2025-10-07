@@ -100,6 +100,7 @@
 @@||1stgop.co^
 @@||1sturl.com^
 @@||1tian.kuaishou.com^
+@@||1tk.us^
 @@||1to3.link^
 @@||1ty.me^
 @@||1un.fr^
@@ -158,6 +159,7 @@
 @@||2u.lc^
 @@||2u.xf.cz^
 @@||2vu.me^
+@@||2wo.ir^
 @@||2wsb.tv^
 @@||2x0.net^
 @@||2x1.io^
@@ -278,6 +280,7 @@
 @@||7a.ink^
 @@||7c34.com^
 @@||7eer.net^
+@@||7fth.cc^
 @@||7g7.ir^
 @@||7i.nu^
 @@||7i.se^
@@ -297,6 +300,7 @@
 @@||8.ly^
 @@||8591.tw^
 @@||888df.com^
+@@||88link.me^
 @@||88nb.cc^
 @@||88win.link^
 @@||89bet69.cc^
@@ -2155,6 +2159,7 @@
 @@||dft.ba^
 @@||dfthethao.com^
 @@||dfy.is^
+@@||dgl-cdn.exponea.com^
 @@||dgms.es^
 @@||dgo.to^
 @@||dgt.fm^
@@ -8267,6 +8272,7 @@
 @@||suite17.emarsys.net^
 @@||suite18.emarsys.net^
 @@||suite2.emarsys.net^
+@@||suite20.emarsys.net^
 @@||suite22.emarsys.net^
 @@||suite24.emarsys.net^
 @@||suite25.emarsys.net^
