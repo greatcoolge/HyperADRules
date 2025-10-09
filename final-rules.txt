@@ -9461,6 +9461,7 @@
 @@||jetzt.work^
 @@||jevilink.com^
 @@||jf.360.cn^
+@@||jf365.boc.cn^
 @@||jfe-cdn.qualtrics.com^
 @@||jh7.uk^
 @@||jhk-cdn-mampic.hismarttv.com^
@@ -10143,6 +10144,7 @@
 @@||licensing.tableausoftware.com^
 @@||licensing.xboxlive.com ^
 @@||licensing.xboxlive.com^
+@@||lick.my^
 @@||lids.com^
 @@||liebg.at^
 @@||lien.babel.coop^
@@ -10162,6 +10164,7 @@
 @@||liffsdk.line-scdn.net^
 @@||liftoff.io^
 @@||liga.win^
+@@||ligacash88.live^
 @@||light.ifmo.ru^
 @@||lightbee.io^
 @@||lighthouse-scholarship.com^
@@ -10310,6 +10313,7 @@
 @@||linkaff.com^
 @@||linkai.in^
 @@||linkaku.homes^
+@@||linkaku.pro^
 @@||linkallstar.com^
 @@||linkalp.com^
 @@||linkapp.click^
@@ -10361,8 +10365,10 @@
 @@||linkfuly.com^
 @@||linkfusion.in^
 @@||linkgacor33.info^
+@@||linkgacortexas.org^
 @@||linkgizmo.com^
 @@||linkgol88.com^
+@@||linkgqq.org^
 @@||linkhebat.com^
 @@||linki.run^
 @@||linkia.co^
@@ -10485,6 +10491,7 @@
 @@||linkshorteners.com^
 @@||linkshortify.com^
 @@||linkshortner.net^
+@@||linkshortner.online^
 @@||linkshrink.net^
 @@||linkshrink.org^
 @@||linksimple.io^
@@ -10520,6 +10527,7 @@
 @@||linkvp.com^
 @@||linkwi.se^
 @@||linkwizz.com^
+@@||linky.cc^
 @@||linky.is^
 @@||linky31.com^
 @@||linkye.net^
@@ -10527,6 +10535,7 @@
 @@||linkzap.in^
 @@||linkzone.live^
 @@||linode.com^
+@@||linp.ir^
 @@||linqup.in^
 @@||lintlink.com^
 @@||linux.mom^
@@ -12598,6 +12607,7 @@
 @@||ml.my^
 @@||ml.wikipedia.com^
 @@||mlb.com^
+@@||mlife.jf365.boc.cn^
 @@||mlife.lg.com^
 @@||mljt.tech^
 @@||mll.me^
@@ -13027,6 +13037,7 @@
 @@||n2s.us^
 @@||n6.net^
 @@||n66d.com^
+@@||n7i.cn^
 @@||n9.cl^
 @@||n9x.co^
 @@||na1.documents.adobe.com^
@@ -13171,6 +13182,7 @@
 @@||neweden.live^
 @@||newegg.com^
 @@||newgame.17173.com^
+@@||newhotlink.com^
 @@||newindianexpress.com^
 @@||newjobs.com^
 @@||newloc.map.n.shifen.com^
@@ -13887,6 +13899,7 @@
 @@||outschooler.me^
 @@||ouuo.link^
 @@||ouvaton.link^
+@@||ov9.cn^
 @@||ovc2-ustokyyneikyfasnm.stackpathdns.com^
 @@||over.com^
 @@||overloaded.crunchyroll.com^
@@ -14035,6 +14048,7 @@
 @@||pagseguro.uol.com.br^
 @@||painthegame.playstation.com^
 @@||pairedinparadise.live^
+@@||paisakamalo.in^
 @@||paksa.click^
 @@||pamethelabel.info^
 @@||pan-cdn.exponea.com^
@@ -16763,9 +16777,21 @@
 @@||shrinkify.com^
 @@||shrinkin.xyz^
 @@||shrinkly.co^
+@@||shrinkme.app^
+@@||shrinkme.cc^
+@@||shrinkme.click^
+@@||shrinkme.dev^
 @@||shrinkme.in^
+@@||shrinkme.info^
 @@||shrinkme.ink^
 @@||shrinkme.io^
+@@||shrinkme.link^
+@@||shrinkme.org^
+@@||shrinkme.pro^
+@@||shrinkme.site^
+@@||shrinkme.space^
+@@||shrinkme.us^
+@@||shrinkme.vip^
 @@||shrinkr.io^
 @@||shrinkster.com^
 @@||shrinkurl.us^

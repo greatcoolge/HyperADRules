@@ -5813,6 +5813,7 @@
 @@||jenkins.playstation.com^
 @@||jenkins.xda-developers.com^
 @@||jf.360.cn^
+@@||jf365.boc.cn^
 @@||jfe-cdn.qualtrics.com^
 @@||jiagu.360.cn^
 @@||jiamitu.mi.com^
@@ -6886,6 +6887,7 @@
 @@||mktplassets.xbox.com^
 @@||ml.wikipedia.com^
 @@||mlb.com^
+@@||mlife.jf365.boc.cn^
 @@||mlife.lg.com^
 @@||mljt.tech^
 @@||mll.me^
