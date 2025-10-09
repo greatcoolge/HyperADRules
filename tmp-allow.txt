@@ -3534,6 +3534,7 @@
 @@||id.163.com^
 @@||idek.net^
 @@||identity.apple.com^
+@@||idfk.lol^
 @@||idm.in^
 @@||idmail.me^
 @@||idmsa.apple.com^
@@ -3736,11 +3737,13 @@
 @@||isols.co^
 @@||istel.co^
 @@||isterratrk.com^
+@@||istubby.com^
 @@||isurl.cc^
 @@||isw.pub^
 @@||iszify.com^
 @@||it-go.kelkoogroup.net^
 @@||itdad.info^
+@@||itdmusic.top^
 @@||item.taobao.com^
 @@||iterasi.net^
 @@||iti.bz^
