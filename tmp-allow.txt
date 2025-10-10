@@ -1226,7 +1226,6 @@
 @@||bfpne.ws^
 @@||bfy.tw^
 @@||bg4.me^
-@@||bgtbl.blue^
 @@||bhpho.to^
 @@||bhrt.io^
 @@||bhx.one^
@@ -1444,7 +1443,6 @@
 @@||brndly.net^
 @@||brochure.wp.exo.com.ar^
 @@||brook.gs^
-@@||broquests.com^
 @@||browsen.de^
 @@||browser.360.cn^
 @@||browser.to^
@@ -1497,7 +1495,6 @@
 @@||burl.me^
 @@||burnurl.com^
 @@||business.apple.com^
-@@||buy.adhitan.com^
 @@||buybitcoinsworldwide.com^
 @@||bw.care^
 @@||bwlf.us^
@@ -1943,7 +1940,6 @@
 @@||cnn.it^
 @@||cnnmon.ie^
 @@||cnvrge.co^
-@@||coachstudio.org^
 @@||cockroa.ch^
 @@||cocn.in^
 @@||code.piano.io^
@@ -3906,7 +3902,6 @@
 @@||jitupro.org^
 @@||jjlco.net^
 @@||jjtaylor.link^
-@@||jjtaylor.linkmakeashorterlink.com^
 @@||jkf.lv^
 @@||jktc.pro^
 @@||jmal.top^
@@ -5618,6 +5613,7 @@
 @@||mkto-abc0189.com^
 @@||mkto-abc0196.com^
 @@||mkto-abc0203.com^
+@@||mkto-abc0241.com^
 @@||mkto-abd0206.com^
 @@||mkto-abd0218.com^
 @@||mkto-abj0022.com^
@@ -8981,6 +8977,7 @@
 @@||t8.baidu.com^
 @@||t9.baidu.com^
 @@||ta.co^
+@@||ta.gd^
 @@||taap.it^
 @@||tabsoft.co^
 @@||tabzi.com^
@@ -9056,8 +9053,8 @@
 @@||teeny.in^
 @@||teenyfy.com^
 @@||teeplantage.de^
+@@||teil.cc^
 @@||tek.io^
-@@||tekan.live^
 @@||teknut.com^
 @@||tel-u.ac.id^
 @@||telega.io^
@@ -9116,6 +9113,7 @@
 @@||theorist.media^
 @@||theporndude.com^
 @@||theposhed.com^
+@@||thesa.us^
 @@||theshortener.com^
 @@||thesne.ws^
 @@||thesocial.vip^
@@ -9152,6 +9150,7 @@
 @@||tidyur.link^
 @@||tidyurl.link^
 @@||tidyurl.vercel.app^
+@@||tiger388.life^
 @@||tiger77.monster^
 @@||tigerlink.me^
 @@||tighturl.com^
@@ -9234,6 +9233,7 @@
 @@||tinyurl.rocks^
 @@||tinyurl.se^
 @@||tinyurl.smart-home.com.co^
+@@||tinyurl.win^
 @@||tinyurls.io^
 @@||tinyurlshortener.com^
 @@||tinyurlwebsite.com^
@@ -9458,6 +9458,7 @@
 @@||trib.al^
 @@||trib.in^
 @@||tribn.ir^
+@@||trick.ly^
 @@||trieuview.life^
 @@||trim-url.com^
 @@||trim.cx^
@@ -9529,6 +9530,7 @@
 @@||tsz4.me^
 @@||tt.gt^
 @@||tt.vg^
+@@||tt5k.site^
 @@||ttad.me^
 @@||ttbad.com^
 @@||ttc.is^
@@ -9834,6 +9836,7 @@
 @@||urlcentre.com^
 @@||urlcort.com^
 @@||urlcover.com^
+@@||urlcrop.com^
 @@||urlcut.at^
 @@||urlcut.ch^
 @@||urlcut.com^
@@ -10124,6 +10127,7 @@
 @@||video.zhihu.com^
 @@||video1p.dxycdn.com^
 @@||video2.pddpic.com^
+@@||videopro.live^
 @@||videos.pbi.tools^
 @@||videos.porsche.cn^
 @@||videos.porsche.com^
@@ -10223,6 +10227,7 @@
 @@||vvt.am^
 @@||vxn.link^
 @@||vxxx.com^
+@@||vypij.bar^
 @@||vz.to^
 @@||w.big-appli.fr^
 @@||w.idg.de^

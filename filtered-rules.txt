@@ -3129,7 +3129,6 @@ bg5.v4.a.dl.ws.microsoft.com
 bg5.v4.emdl.ws.microsoft.com
 bgp.fe01.c3.xiaomi.com
 bgr.com
-bgtbl.blue
 bharattimes.com
 bhpho.to
 bhphotovideo.com
@@ -3572,7 +3571,6 @@ broker-live.mozillamessaging.com
 bromite.org
 brook.gs
 brooksbrothers.com
-broquests.com
 brothersoft.com
 brownfarm.game.line.me
 browsen.de
@@ -3675,7 +3673,6 @@ businesssupport.snap.com
 businessweek.com
 businesswire.com
 button.like.co
-buy.adhitan.com
 buy.coinbase.com
 buy.com
 buy.ele.me
@@ -4749,7 +4746,6 @@ cnvrge.co
 cnzz.com
 co.in
 co2saver.snap.com
-coachstudio.org
 coasttocoastam.com
 cockroa.ch
 cocn.in
@@ -9555,7 +9551,6 @@ jitupro.com
 jitupro.org
 jjlco.net
 jjtaylor.link
-jjtaylor.linkmakeashorterlink.com
 jkf.lv
 jktc.pro
 jmal.top
@@ -12295,6 +12290,7 @@ mkto-abc0038.com
 mkto-abc0189.com
 mkto-abc0196.com
 mkto-abc0203.com
+mkto-abc0241.com
 mkto-abd0206.com
 mkto-abd0218.com
 mkto-abj0022.com
@@ -18430,6 +18426,7 @@ t77reg.click
 t8.baidu.com
 t9.baidu.com
 ta.co
+ta.gd
 ta.pinduoduo.com
 ta.wikipedia.com
 taap.it
@@ -18566,8 +18563,8 @@ teeny.in
 teenyfy.com
 teeplantage.de
 teespring.com
+teil.cc
 tek.io
-tekan.live
 teknut.com
 tel-u.ac.id
 tel.fe01.hh.xiaomi.com
@@ -18689,6 +18686,7 @@ thepiratebay.se
 theporndude.com
 theposhed.com
 theregister.co.uk
+thesa.us
 theshortener.com
 thesne.ws
 thesocial.vip
@@ -18748,6 +18746,7 @@ tidyur.link
 tidyurl.link
 tidyurl.vercel.app
 tier2.ios.skypeassets.com
+tiger388.life
 tiger77.monster
 tigerlink.me
 tigger-citadel.touchtype-fluency.com
@@ -18844,6 +18843,7 @@ tinyurl.ph
 tinyurl.rocks
 tinyurl.se
 tinyurl.smart-home.com.co
+tinyurl.win
 tinyurls.io
 tinyurlshortener.com
 tinyurlwebsite.com
@@ -19206,6 +19206,7 @@ trib.in
 tribdss.com
 tribn.ir
 tribpub.com
+trick.ly
 trickbd.com
 trieuview.life
 trim-url.com
@@ -19295,6 +19296,7 @@ tsta.rs
 tsz4.me
 tt.gt
 tt.vg
+tt5k.site
 ttad.me
 ttbad.com
 ttc.is
@@ -19795,6 +19797,7 @@ urlc.net
 urlcentre.com
 urlcort.com
 urlcover.com
+urlcrop.com
 urlcut.at
 urlcut.ch
 urlcut.com
@@ -20289,6 +20292,7 @@ videolan.org
 videolog.blog.naver.com
 videomate.mobi
 videopress.com
+videopro.live
 videos.files.wordpress.com
 videos.pbi.tools
 videos.porsche.cn
@@ -20490,6 +20494,7 @@ vwp.jpto.sonymobile.com
 vxn.link
 vxxx.com
 vy.me
+vypij.bar
 vz.to
 vzaar.com
 w.big-appli.fr
