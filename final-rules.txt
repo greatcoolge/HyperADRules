@@ -1236,6 +1236,7 @@
 @@||ali2.a.yximgs.com^
 @@||alibaba.com^
 @@||alicdn.com^
+@@||alicedeals.com^
 @@||alie.kr^
 @@||alien-traffic.com^
 @@||alientraffic.com^
@@ -8799,6 +8800,7 @@
 @@||idmail.me^
 @@||idmsa.apple.com^
 @@||idownloadblog.com^
+@@||idr108.link^
 @@||idroid.taobao.com^
 @@||ids.indevice.sonymobile.com^
 @@||idv-prod1.apple.com^

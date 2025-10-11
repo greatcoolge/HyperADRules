@@ -734,6 +734,7 @@
 @@||ali.static.yximgs.com^
 @@||ali2.a.kwimgs.com^
 @@||ali2.a.yximgs.com^
+@@||alicedeals.com^
 @@||alie.kr^
 @@||alien-traffic.com^
 @@||alientraffic.com^
@@ -3598,6 +3599,7 @@
 @@||idm.in^
 @@||idmail.me^
 @@||idmsa.apple.com^
+@@||idr108.link^
 @@||idv-prod1.apple.com^
 @@||idv.cdn-apple.com^
 @@||idvip.us^
