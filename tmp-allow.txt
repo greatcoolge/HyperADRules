@@ -360,6 +360,7 @@
 @@||a360.co^
 @@||a368.co^
 @@||a38.fr^
+@@||a3st.in^
 @@||a4k.co^
 @@||a4r.at^
 @@||a8s.app^
@@ -398,6 +399,7 @@
 @@||ab1n.net^
 @@||abar.in^
 @@||abbreurl.com^
+@@||abbriv.info^
 @@||abbrr.com^
 @@||abc.li^
 @@||abc11.tv^
@@ -715,6 +717,7 @@
 @@||akslot.io^
 @@||aktfclick.com^
 @@||akun.gg^
+@@||akunfix.com^
 @@||akunjpvip.xyz^
 @@||akunklik.com^
 @@||akunnp.com^
@@ -2484,6 +2487,7 @@
 @@||dy.fi^
 @@||dy.si^
 @@||dya.us^
+@@||dyler.co^
 @@||dylink.me^
 @@||dyo.gs^
 @@||dyok.net^
@@ -3589,6 +3593,7 @@
 @@||icloud.apple.com^
 @@||icloud.com^
 @@||icons.axm-usercontent-apple.com^
+@@||icshort.com^
 @@||ictv.me^
 @@||icutlink.com^
 @@||icux.xyz^
@@ -3896,6 +3901,7 @@
 @@||jihulab.com^
 @@||jijr.com^
 @@||jikipedia.com^
+@@||jilitrick.live^
 @@||jio.sh^
 @@||jio.to^
 @@||jiourl.com^
@@ -4125,6 +4131,7 @@
 @@||kuik.li^
 @@||kuku.lu^
 @@||kulink.me^
+@@||kuoqnt.com^
 @@||kurly.it^
 @@||kurv.gr^
 @@||kurz.jetzt^
@@ -6208,6 +6215,7 @@
 @@||myppt.cc^
 @@||myprivateproxies.org^
 @@||myqrcode.mobi^
+@@||myrxbmember.info^
 @@||mysexychat.live^
 @@||myshortlink.info^
 @@||myshorturl.link^
@@ -6861,6 +6869,7 @@
 @@||pl.taptap.cn^
 @@||placesunknown.art^
 @@||pladollmo.com^
+@@||plahxt.com^
 @@||plannery.app^
 @@||platform.deepseek.com^
 @@||platformtech.live^
@@ -7256,6 +7265,7 @@
 @@||rajaolympus.pro^
 @@||rajasurga.link^
 @@||rak7fucab.cc.rs6.net^
+@@||rallytxt.com^
 @@||rantenah.com^
 @@||ranvz.co^
 @@||raoteqdab.cc.rs6.net^
@@ -7270,6 +7280,7 @@
 @@||rb.gy^
 @@||rb6.me^
 @@||rb6paw8ab.cc.rs6.net^
+@@||rbit.vision^
 @@||rbl.ms^
 @@||rblx.co^
 @@||rblz6kyab.cc.rs6.net^
@@ -7283,6 +7294,7 @@
 @@||rcld.io^
 @@||rcsurvey.live^
 @@||rcx.my.id^
+@@||rd-client.com^
 @@||rd.gt^
 @@||rd6m7jbbb.cc.rs6.net^
 @@||rdar.li^
@@ -8234,6 +8246,7 @@
 @@||shrten.io^
 @@||shrten.us^
 @@||shrtfly.com^
+@@||shrtlink.ai^
 @@||shrtlnk.com^
 @@||shrtlr-two.vercel.app^
 @@||shrtly.net^
@@ -8419,6 +8432,7 @@
 @@||smr.to^
 @@||sms-my.com^
 @@||sms.club^
+@@||sms.katapult.com^
 @@||smsb.co^
 @@||smslinkly.com^
 @@||smsng.news^
@@ -8767,6 +8781,7 @@
 @@||superboltz.com^
 @@||supercool.marketing^
 @@||supi.tools^
+@@||support.precisioncontent.com^
 @@||support.weixin.qq.com^
 @@||supportsae.com^
 @@||supr.cl^
@@ -9050,6 +9065,7 @@
 @@||techcaresolution.org.in^
 @@||techigro.com^
 @@||techind.co^
+@@||techshort.co^
 @@||techuntangler.tools^
 @@||techwizards.tech^
 @@||tecn.in^
@@ -9122,6 +9138,7 @@
 @@||thesocial.vip^
 @@||thetim.es^
 @@||thetinyurls.com^
+@@||theupconsult.com^
 @@||theurl.to^
 @@||thght.works^
 @@||thinfi.com^
@@ -9323,9 +9340,11 @@
 @@||toliveal.ie^
 @@||tom.163.com^
 @@||tomasz.top^
+@@||tomi-app.com^
 @@||tomly.io^
 @@||tonancos.com^
 @@||tonyr.co^
+@@||toolboxdaily.com^
 @@||toolkingo.com^
 @@||toolsbyvasdijay.vercel.app^
 @@||toolsfox.com^
@@ -10231,6 +10250,7 @@
 @@||vxn.link^
 @@||vxxx.com^
 @@||vypij.bar^
+@@||vytext.com^
 @@||vz.to^
 @@||w.big-appli.fr^
 @@||w.idg.de^

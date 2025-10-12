@@ -603,6 +603,7 @@
 @@||a360.co^
 @@||a368.co^
 @@||a38.fr^
+@@||a3st.in^
 @@||a4.mzstatic.com^
 @@||a48823c7ec3cf4539564-60c534a1284a12ce74ef84032e9b4e46.ssl.cf1.rackcdn.com^
 @@||a4k.co^
@@ -649,6 +650,7 @@
 @@||abar.in^
 @@||abbreurl.com^
 @@||abbreviations.com^
+@@||abbriv.info^
 @@||abbrr.com^
 @@||abc.com^
 @@||abc.li^
@@ -1206,6 +1208,7 @@
 @@||akslot.io^
 @@||aktfclick.com^
 @@||akun.gg^
+@@||akunfix.com^
 @@||akunjpvip.xyz^
 @@||akunklik.com^
 @@||akunnp.com^
@@ -6061,6 +6064,7 @@
 @@||dy.fi^
 @@||dy.si^
 @@||dya.us^
+@@||dyler.co^
 @@||dylink.me^
 @@||dyn.ithome.com^
 @@||dynaimage.cdn.turner.com^
@@ -8765,6 +8769,7 @@
 @@||icptrack.com^
 @@||icq.com^
 @@||icq.im^
+@@||icshort.com^
 @@||ictv.me^
 @@||icute.com^
 @@||icutlink.com^
@@ -9543,6 +9548,7 @@
 @@||jihulab.com^
 @@||jijr.com^
 @@||jikipedia.com^
+@@||jilitrick.live^
 @@||jimdo.com^
 @@||jio.sh^
 @@||jio.to^
@@ -9949,6 +9955,7 @@
 @@||kuku.lu^
 @@||kuleuven.eu.qualtrics.com^
 @@||kulink.me^
+@@||kuoqnt.com^
 @@||kurly.it^
 @@||kurv.gr^
 @@||kurz.jetzt^
@@ -13090,6 +13097,7 @@
 @@||myprivateproxies.org^
 @@||myqcloud.com^
 @@||myqrcode.mobi^
+@@||myrxbmember.info^
 @@||myservice.xbox.com^
 @@||mysexychat.live^
 @@||myshopify.com^
@@ -14502,6 +14510,7 @@
 @@||places-manager-api.snapchat.com^
 @@||placesunknown.art^
 @@||pladollmo.com^
+@@||plahxt.com^
 @@||plannery.app^
 @@||platform-lookaside.fbsbx.com^
 @@||platform.bing.com^
@@ -15283,6 +15292,7 @@
 @@||rajasurga.link^
 @@||rak7fucab.cc.rs6.net^
 @@||rakuten.co.jp^
+@@||rallytxt.com^
 @@||rambler.ru^
 @@||ramp.purch.com^
 @@||rank.spot.im^
@@ -15334,6 +15344,7 @@
 @@||rb.gy^
 @@||rb6.me^
 @@||rb6paw8ab.cc.rs6.net^
+@@||rbit.vision^
 @@||rbl.ms^
 @@||rblx.co^
 @@||rblz6kyab.cc.rs6.net^
@@ -15347,6 +15358,7 @@
 @@||rcld.io^
 @@||rcsurvey.live^
 @@||rcx.my.id^
+@@||rd-client.com^
 @@||rd.gt^
 @@||rd.playstation.com^
 @@||rd.samsungadhub.com^
@@ -16951,6 +16963,7 @@
 @@||shrten.io^
 @@||shrten.us^
 @@||shrtfly.com^
+@@||shrtlink.ai^
 @@||shrtlnk.com^
 @@||shrtlr-two.vercel.app^
 @@||shrtly.net^
@@ -17226,6 +17239,7 @@
 @@||sms-receive.net^
 @@||sms.ads.heytapmobi.com^
 @@||sms.club^
+@@||sms.katapult.com^
 @@||sms.playstation.com^
 @@||smsapi.micloud.xiaomi.net^
 @@||smsb.co^
@@ -18131,6 +18145,7 @@
 @@||support.mozilla.org^
 @@||support.oneplus.com^
 @@||support.pinterest.com^
+@@||support.precisioncontent.com^
 @@||support.pro.coinbase.com^
 @@||support.rebrandly.com^
 @@||support.rtm.vint.xbox.com^
@@ -18560,6 +18575,7 @@
 @@||technoratimedia.com^
 @@||techradar.com^
 @@||techrepublic.com^
+@@||techshort.co^
 @@||techsmith.com^
 @@||techtarget.com^
 @@||techtunes.com.bd^
@@ -18703,6 +18719,7 @@
 @@||thetimes.co.uk^
 @@||thetinyurls.com^
 @@||thetvdb.com^
+@@||theupconsult.com^
 @@||theurl.to^
 @@||theverge.com^
 @@||thewindowsclub.com^
@@ -18990,6 +19007,7 @@
 @@||toliveal.ie^
 @@||tom.163.com^
 @@||tomasz.top^
+@@||tomi-app.com^
 @@||tomly.io^
 @@||tomshardware.com^
 @@||ton.twimg.com^
@@ -18997,6 +19015,7 @@
 @@||tongji.baidu.com^
 @@||tonyr.co^
 @@||toolbar.naver.com^
+@@||toolboxdaily.com^
 @@||toolkingo.com^
 @@||tools.gotinder.com^
 @@||tools.l.google.com^
@@ -20504,6 +20523,7 @@
 @@||vxxx.com^
 @@||vy.me^
 @@||vypij.bar^
+@@||vytext.com^
 @@||vz.to^
 @@||vzaar.com^
 @@||w.big-appli.fr^
