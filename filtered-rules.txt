@@ -5478,6 +5478,7 @@ de.pool.ntp.org
 de.returnpath.com
 de.statcounter.com
 de.wikipedia.com
+dealabs.digidip.net
 dealc.me
 deals.breitbart.com
 dealsfindersgroup.com
