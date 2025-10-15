@@ -514,7 +514,6 @@
 999.sh
 99forward.com
 99fw.in
-99vpn.pro
 9Anime.to
 9g9.org
 9gag.com
@@ -1096,7 +1095,6 @@ adweek.com
 adweek.it
 adwords.google.com
 adx.kr
-adxps.team
 ady.to
 adzerk.com
 adzerk.net
@@ -1158,7 +1156,6 @@ airdownload.adobe.com
 airdownload2.adobe.com
 airfind.com
 airinstall.adobe.com
-airshort.de
 airtable.com
 aiseet.atianqi.com
 aisubtitle.hdslb.com
@@ -2548,7 +2545,6 @@ apzones.com
 aquacard.co.uk
 aqva.pl
 ar-ar.about.flipboard.com
-ar-technology.live
 ar.gravatar.com
 ar.wikipedia.com
 ara.solutions
@@ -20908,6 +20904,7 @@ wl.co
 wl.gl
 wl.jd.com
 wl.spotify.com
+wlicc.online
 wlink.us
 wlo.ospserver.net
 wm-in-f26.1e100.net
