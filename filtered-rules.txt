@@ -19084,6 +19084,7 @@ tr-tr.about.flipboard.com
 tr.apsis.one
 tr.ee
 tr.gravatar.com
+tr.iadsdk.apple.com
 tr.ign.com
 tr.im
 tr.line.me

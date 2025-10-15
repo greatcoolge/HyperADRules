@@ -10006,6 +10006,7 @@
 @@||tplinkwifi.net^
 @@||tr-tr.about.flipboard.com^
 @@||tr.gravatar.com^
+@@||tr.iadsdk.apple.com^
 @@||tr.ign.com^
 @@||tr.net^
 @@||tr.snapchat.com^
