@@ -11288,7 +11288,6 @@ maga.lu
 magaus.co
 magaus.net
 magaus.org
-magaus.xyz
 magazine.rakuten.co.jp
 magazines.flipboard.com
 magic.cloud.vimeo.com
@@ -11878,6 +11877,7 @@ mkto-ab310115.com
 mkto-ab330197.com
 mkto-ab340022.com
 mkto-ab420081.com
+mkto-ab440098.com
 mkto-ab470148.com
 mkto-ab480059.com
 mkto-ab520004.com
@@ -11914,6 +11914,8 @@ mkto-sj140007.com
 mkto-sj180011.com
 mkto-sj190104.com
 mkto-sj190237.com
+mkto-sj200192.com
+mkto-sj210107.com
 mkto-sj230006.com
 mkto-sj240021.com
 mkto-sj270080.com
@@ -11921,6 +11923,7 @@ mkto-sj310061.com
 mkto-sj310186.com
 mkto-sj320047.com
 mkto-sj330006.com
+mkto-sj340004.com
 mkto-sj360076.com
 mkto-sj360142.com
 mkto-test.com
@@ -12414,7 +12417,6 @@ nanopool.org
 nanorep.com
 nanourl.in
 nanourl.org
-nanuba.com
 naomy.cdntrex.com
 naping.igamecj.com
 napisy24.pl
@@ -14831,6 +14833,7 @@ rewardtk.com
 rexdl.com
 rfgvnv6ab.cc.rs6.net
 rfj.tips
+rfn9k5jab.cc.rs6.net
 rfnptk8ab.cc.rs6.net
 rfr.bz
 rfx.today
@@ -17159,12 +17162,14 @@ suite11.emarsys.net
 suite16.emarsys.net
 suite17.emarsys.net
 suite22.emarsys.net
+suite24.emarsys.net
 suite27.emarsys.net
 suite29.emarsys.net
 suite30.emarsys.net
 suite32.emarsys.net
 suite33.emarsys.net
 suite38.emarsys.net
+suite40-cf.emarsys.net
 suite40.emarsys.net
 suite45.emarsys.net
 suite46.emarsys.net
@@ -18906,7 +18911,6 @@ url88.online
 url8x.com
 url9xx.com
 urla.ru
-urladda.com
 urlah.com
 urlao.com
 urlb.io
@@ -18936,7 +18940,6 @@ urlenco.de
 urlers.com
 urless.com
 urlexpander.org
-urlf.cc
 urlfile.xyz
 urlfirm.com
 urlflea.com
@@ -19040,7 +19043,6 @@ urlshortner.org
 urlshortnerpassive.com
 urlshortx.com
 urlshorty.metaapps.com
-urlshrt.link
 urlshtr.com
 urlsmall.com
 urlsmall.link
@@ -19508,7 +19510,6 @@ vk.cc
 vk.com
 vk.sv
 vkontakte.ru
-vl.am
 vl.api.np.km.playstation.net
 vla.lu
 vlab.pp.ru
@@ -20047,7 +20048,6 @@ wmv.walmart.com
 wn-in-f14.1e100.net
 wn.nr
 wnba.com
-wndrfl.co
 wndt.nl
 wns-academy.live
 wo.ws
