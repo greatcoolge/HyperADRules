@@ -144,6 +144,7 @@
 1bestlinks.net
 1bitspace.com
 1bob.de
+1cl.me
 1clix.in
 1dietplans.com
 1do.me
@@ -156,6 +157,7 @@
 1fashionable.xyz
 1fgqfml.oloadcdn.net
 1fichier.com
+1fy.ir
 1gr.cz
 1hosts.cf
 1i1.in
@@ -782,6 +784,7 @@ acg.kr
 acg02.cc
 acompli.helpshift.com
 acompli.net
+acorta.click
 acortar.link
 acp.jiobuzz.com
 acquirethisname.com
@@ -2294,6 +2297,7 @@ apkmb.com
 apkmirror.com
 apkpure.com
 apll.es
+aply.me
 apm.wetest.qq.com
 apm3.music.163.com
 apmebf.com
@@ -3192,6 +3196,7 @@ bitily.com.br
 bitit.io
 bitl.to
 bitlee.site
+bitlnx.com
 bitly.com
 bitly.cx
 bitly.im
@@ -4717,6 +4722,7 @@ coasttocoastam.com
 coba.la
 cockroa.ch
 cocn.in
+codango.run
 code.binance.com
 code.cdn.mozilla.net
 code.createjs.com
@@ -4975,6 +4981,7 @@ cpanel.com
 cpanel.net
 cpe.dotomi.com
 cph.bz
+cpklik.com
 cplay.top
 cplink.co
 cplink.me
@@ -5595,6 +5602,7 @@ dftp.flowplayer.com
 dfy.is
 dg.k.jd.com
 dgit.com
+dglnk.me
 dgms.es
 dgo.to
 dgt.fm
@@ -6036,6 +6044,7 @@ dwz.tax
 dwz3.cn
 dwz88.com
 dwzhila.com
+dwzz.eu.org
 dx1.cz
 dxc.to
 dxirl.com
@@ -6213,6 +6222,7 @@ edu.nl
 education.ti.com
 ee.ci
 ee9.ir
+eeb.me
 eek.us
 eepurl.com
 eeurl.com
@@ -6330,6 +6340,7 @@ emixon.pro
 emjcd.com
 emoji.bj.bcebos.com
 emojied.net
+emonovo.com
 emote.vuukle.com
 emp.bbci.co.uk
 emp.onl
@@ -6900,6 +6911,7 @@ find-url.co
 find.api.micloud.xiaomi.net
 findapi.micloud.xiaomi.net
 findmymobile.samsung.com
+finy.me
 fiplabcdn.com
 fir.im
 fire.to
@@ -7744,6 +7756,7 @@ go.uv.es
 go.vendoroo.ai
 go.vhost.vn
 go.vic.gov.au
+go.vimar.ie
 go.vonix.id
 go.wechat.com
 go.weesify.com
@@ -9400,6 +9413,7 @@ irc.twitch.tv
 irishtimes.com
 irl.com
 irng.ca
+irohi.com
 irs.gov
 is.am
 is.gd
@@ -10060,6 +10074,7 @@ l.neqty.net
 l.nniq.co
 l.prageru.com
 l.qq.com
+l.tl
 l.tok.tv
 l.webopt.eu
 l.yimg.com
@@ -10967,6 +10982,7 @@ loomvo.net
 loopia.com
 loopia.se
 loopt.us
+loot-link.com
 lorem.is
 losangeles.cbslocal.com
 lotustalk.com
@@ -11763,6 +11779,7 @@ mgnet.me
 mgomo.com
 mgr.consensu.org
 mgstn.ly
+mgyb.co
 mhaproducts.com
 mhi5.us
 mhkl.me
@@ -12352,6 +12369,7 @@ myaz.tech
 mybanktracker.com
 mybbc.files.bbci.co.uk
 mybio.bio
+mybiotree.com
 mybiourl.com
 mybiz.cc
 mybiz.ws
@@ -12825,6 +12843,7 @@ now.sh
 nowlinks.net
 nowtheendbegins.com
 nowtrade.live
+noxogo.com
 nphone.daum.net
 npm.cdn-go.cn
 npm.elemecdn.com
@@ -13800,6 +13819,7 @@ pipe.skype.com
 pipeaota.com
 pipr.es
 pitchfork.com
+piti.nc
 pitlink.com
 pitt.health
 pittsburgh.cbslocal.com
@@ -15427,6 +15447,7 @@ sc-apps.sonymobile.com
 sc.l.soundcloud.com
 sc.mp
 sc.org
+sc.ts460.com
 sc02.alicdn.com
 sc115.com
 sc1o.com
@@ -15826,6 +15847,7 @@ share.cdn.integration.viber.com
 share.cdn.viber.com
 share.dmca.gripe
 share.flipboard.com
+share.goingsocial.gr
 share.naver.com
 share.uplifted.ai
 share.viber.com
@@ -16392,6 +16414,7 @@ skyrock.com
 skysss.uk
 skyurl.cc
 sl.gravatar.com
+sl0.us
 sl4.me
 sla.link
 slack-redir.net
@@ -16713,6 +16736,7 @@ spiderbytes.vimeo.com
 spidz.xyz
 spiegel.de
 spieletipps.de
+spify.co
 spigen.co
 spkm.co
 splashurl.com
@@ -16759,6 +16783,7 @@ sproutsocial.com
 sprtsnt.ca
 spti.fi
 spx.re
+spynger.net
 spyw.com
 sq-device.apple.com
 sq.com
@@ -18069,6 +18094,7 @@ tinyl.co
 tinyl.ink
 tinyl.io
 tinylink.ca
+tinylink.fr
 tinylink.in
 tinylink.info
 tinylink.link
@@ -18207,6 +18233,7 @@ tny.sh
 tny.so
 tny.ws
 tny.xyz
+tnyer.com
 tnyr.me
 tnyurl.one
 tnyurl.pro
@@ -18452,6 +18479,7 @@ travelocity.com
 travl.rs
 trbas.com
 trbs.link
+trck.biz
 trck.gg
 trck.me
 trck.wargaming.net
@@ -18513,6 +18541,7 @@ trks.ca
 trl.ca
 trnqify.com
 troasters.com
+troms.me
 trophy01.np.community.playstation.net
 trowel.twitch.tv
 troy.hn
@@ -18973,6 +19002,7 @@ urcode.org
 urhb.in
 uri.im
 uri.to
+url-l.com
 url-qr.tk
 url-s.xyz
 url-server-75g5.onrender.com
@@ -19048,6 +19078,7 @@ url.xcode.no
 url.zaptian.com
 url2.fr
 url2.in
+url24.ir
 url24.link
 url27x.com
 url2a.site
@@ -19219,6 +19250,7 @@ urltiger.li
 urltin.com
 urltiny.one
 urltools.com
+urltrax.com
 urltta.top
 urlttb.top
 urlty.co
@@ -20133,6 +20165,7 @@ wikihow.com
 wikimedia.org
 wikipedia.com
 wikipedia.org
+wildc.at
 wildflowerlinks.org
 wiley.com
 win.gs
@@ -21999,6 +22032,7 @@ xsp.fi
 xsts.auth.xboxlive.com
 xsts.auth.xboxlive.com 
 xsurl.eu
+xsurl.in
 xt3.me
 xtgem.com
 xtre.me
@@ -22115,6 +22149,7 @@ yorkpa.homes
 yorl.io
 yorl.to
 yotpoclicks.com
+yottatrend.com
 youbora.com
 youboranqs01.com
 youdao.com
