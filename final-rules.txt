@@ -14877,6 +14877,7 @@
 @@||redirect.dealabs.com^
 @@||redirect.kaspersky.com^
 @@||redirect.prod.experiment.routing.cloudfront.aws.a2z.com^
+@@||redirect.stripe1.prod.experiment.routing.cloudfront.aws.a2z.com^
 @@||redirect.viglink.com^
 @@||redirect.wip4.adobe.com^
 @@||redirect476.tagcommander.com^
@@ -18957,7 +18958,6 @@
 @@||umn.edu^
 @@||umper.co^
 @@||umuly.com^
-@@||un.ir^
 @@||un.org^
 @@||unand.net^
 @@||unbouncepages.com^
