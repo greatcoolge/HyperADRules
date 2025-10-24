@@ -146,6 +146,7 @@
 1bob.de
 1cl.me
 1clix.in
+1da.ir
 1dietplans.com
 1do.me
 1dot0dot0dot1.cloudflare-dns.com
@@ -245,6 +246,7 @@
 2.ubuntu.pool.ntp.org
 2.us.pool.ntp.org
 20.dk
+20l.ir
 210.coach
 21stcenturywire.com
 222.at
@@ -259,6 +261,7 @@
 27g.ru
 2a.me
 2ad.in
+2ad.ir
 2b1s.zacharyhurdle.com
 2big.at
 2ch.net
@@ -328,6 +331,7 @@
 301.link
 301.nz
 301.tv
+301l.ir
 30na.ma
 316.coolapk1s.com
 31productions.de
@@ -362,6 +366,7 @@
 3ind.com
 3le.ru
 3lo.gy
+3ly.com
 3mm.li
 3name.com
 3p.ampproject.net
@@ -427,6 +432,7 @@
 58.com
 58pic.com
 5du.pl
+5ia.ir
 5il.co
 5k.lol
 5m.io
@@ -4539,6 +4545,7 @@ clicklink.dev
 clickmeter.com
 clicknupload.link
 clicknupload.org
+clickout.me
 clicks.aweber.com
 clicks.pipaffiliates.com
 clicks.trx-hub.com
@@ -4583,6 +4590,7 @@ clientstream.intuit.launchdarkly.com
 clientstream.launchdarkly.com
 clikk.in
 clikly.link
+clikr.ir
 clikx.net
 cliow.com
 clip-url.vercel.app
@@ -4601,6 +4609,7 @@ cliquebit.com
 cliqueclt.com
 cliqz.com
 clix.kr
+clixsor.com
 clk.asia
 clk.boulanger.com
 clk.bz
@@ -5102,6 +5111,7 @@ csdnimg.cn
 cse.google.com
 cse3.chausport.com
 cshd.kz
+cshort.org
 csi.gstatic.com
 csj.lol
 csmo.us
@@ -6112,6 +6122,7 @@ e7.al
 e78installers.com
 e8.org
 e8318.dsca.akamaiedge.net
+e9e.ir
 ea.co
 ea.com
 ea1-urlp.secure.skypeassets.com
@@ -6255,6 +6266,7 @@ ehtracker.org
 ehuoma.com
 ei.phncdn.com
 eightforums.com
+eimenu.com
 ein.funimation.com
 eio-feed.exchange.coinbase.com
 eip-ntt.pinimg.com.akapinimg.net
@@ -6262,6 +6274,7 @@ eit.tw
 eiwebs.com
 ejo.bz
 ek8.voyage-prive.com
+ekg.com.np
 ekotex.link
 el.gravatar.com
 el.lk
@@ -6716,6 +6729,7 @@ fandom.com
 fandom.link
 fandw.me
 fanqienovel.com
+fansurl.com
 fantasy.premierleague.com
 faq.it.playstation.com
 faras.link
@@ -6850,6 +6864,7 @@ fi.gravatar.com
 fi.m.wikipedia.com
 fi.statcounter.com
 fi.wikipedia.com
+fi9.ir
 fiatconnect.app
 fibr.ai
 ficken.ws
@@ -7132,6 +7147,7 @@ fpis.live
 fpn.flipboard.com
 fpt.microsoft.com
 fpt.xbox.com
+fptlink.com
 fr-ca.gravatar.com
 fr-fr.about.flipboard.com
 fr-go.kelkoogroup.net
@@ -7781,6 +7797,7 @@ go2.do
 go2.me
 go2ct.pro
 go2jump.org
+go2l.ir
 go2ln.com
 go2sm.com
 go2that.com
@@ -9430,6 +9447,7 @@ irl.com
 irng.ca
 irohi.com
 irs.gov
+is-gd.link
 is.am
 is.gd
 is.hide.me
@@ -9918,6 +9936,7 @@ kjimg10.360buyimg.com
 kkday.me
 kkne.ws
 kko.to
+kkon.ir
 kkstre.am
 kku.world
 kl.am
@@ -10038,6 +10057,7 @@ kurv.gr
 kurz.jetzt
 kurzelinks.de
 kut.sh
+kuta.ir
 kutlink.com
 kutt.acorninsure.co.uk
 kutt.appinn.com
@@ -10285,6 +10305,7 @@ li.gs
 li.nuabee.fr
 li.techrepublic.com
 li2.ai
+li2li.ir
 lia.nz
 lialink.net
 liangcang-material.alicdn.com
@@ -10356,6 +10377,7 @@ lihipro.com
 lihivip.com
 liii.ink
 liik.cc
+liink.ir
 liinkee.com
 liip.to
 like.daum.net
@@ -10596,6 +10618,7 @@ linklada.com
 linklift.in
 linkloom.link
 linkly-shorten-and-manage-links.vercel.app
+linkly.co
 linklyhq.com
 linkme.lol
 linkmeow.com
@@ -10620,6 +10643,7 @@ linkopener.co
 linkopeners.com
 linkoqr.com
 linkotw.live
+linkp.ir
 linkpara.bio
 linkpays.in
 linkpool.us
@@ -11961,6 +11985,7 @@ mj.am
 mjg.li
 mjp88.online
 mjt.lu
+mk.mutuum.com
 mk0ghacksnety2pjrgh8.kinstacdn.com
 mkecc.com
 mkfreedl.b-cdn.net
@@ -12507,6 +12532,7 @@ n0va.mihoyo.com
 n28.it
 n2l.me
 n2s.us
+n3y.ir
 n6.net
 n66d.com
 n7i.cn
@@ -12972,6 +12998,7 @@ nuget.org
 nulled.to
 nulledfree.pw
 nullib.com
+nullx.net
 nurl.net
 nus.edu
 nus1-urlp.secure.skypeassets.com
@@ -13296,6 +13323,7 @@ opera.software
 opf.sh
 opinion.latimes.com
 opinionlab.com
+opizo.com
 opkale.me
 oplink.club
 oppo.com
@@ -14233,6 +14261,7 @@ profitshare.bg
 profitshare.emag.ro
 profitshare.ro
 proflowers.com
+profyo.com
 project-osus.vercel.app
 project418.org
 projects.huffingtonpost.com.au
@@ -14454,6 +14483,7 @@ qcz.gallery.vsassets.io
 qd.rs
 qdfepccdn.qidian.com
 qdl.pw
+qeichy.ir
 qevime.com
 qflm.net
 qhres2.com
@@ -15578,6 +15608,7 @@ scuf.co
 scurt.eu
 sd-ccdc.huawei.com
 sd.360.cn
+sd7.in
 sdfq3cf.site
 sdk-os.mpsdk.easebar.com
 sdk.accountkit.com
@@ -17745,6 +17776,7 @@ ta.co
 ta.gd
 ta.pinduoduo.com
 ta.wikipedia.com
+taam.io
 taap.it
 taboola.com
 tabsoft.co
@@ -18157,6 +18189,7 @@ tinylink.ca
 tinylink.fr
 tinylink.in
 tinylink.info
+tinylink.ir
 tinylink.link
 tinylink.me
 tinylink.net
@@ -18284,6 +18317,7 @@ tnne.ws
 tnot.es
 tns.agency
 tnsne.ws
+tnu.ir
 tnurl.net
 tnvge.co
 tnw.to
@@ -18609,6 +18643,7 @@ trowel.twitch.tv
 troy.hn
 trpd.xyz
 trq.video
+trs.ovh
 trsm.es
 trt.sh
 trucri.me
@@ -18663,6 +18698,7 @@ ttdt.info
 ttis.us
 tto.jp
 ttoo.top
+ttr.ir
 ttrewards.com
 tts.sh
 tts.sh.ph
@@ -18915,6 +18951,7 @@ umlib.us
 umn.edu
 umper.co
 umuly.com
+un.ir
 un.org
 unand.net
 unbouncepages.com
@@ -19301,9 +19338,11 @@ urlshortnerpassive.com
 urlshortx.com
 urlshortx.io
 urlshorty.metaapps.com
+urlshot.pro
 urlshtr.com
 urlsmall.com
 urlsmall.link
+urlsminify.com
 urlsmush.com
 urlsnap.com
 urlsnapy.com
@@ -19374,6 +19413,7 @@ us.account.samsung.com.gslb.cdnetworks.net
 us.api.io.mi.com
 us.api.micloud.xiaomi.net
 us.battle.net
+us.bestbrains.com
 us.browserapi.micloud.xiaomi.net
 us.cdn.survey.medallia.com
 us.community.samsung.com
@@ -22056,8 +22096,10 @@ xmr.to
 xn--0ca.co
 xn--57h.ws
 xn--9p4bqa88cp2m.t2m.top
+xn--9y2bx5mhpm.kr
 xn--a-4ka.eu
 xn--allestrungen-9ib.de
+xn--bj0bm0rf3a.xn--bm4b52j.com
 xn--cp3a08l.com
 xn--k28h.tk
 xn--ka-uja.fr
@@ -22069,6 +22111,7 @@ xn--s7y86k.jp
 xn--ugt.cc
 xn--ul-ksa.eu
 xo.sd
+xo0.ir
 xoe.cz
 xor.tw
 xortly.com
