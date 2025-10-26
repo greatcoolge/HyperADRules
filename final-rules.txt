@@ -163,6 +163,7 @@
 @@||1ea.ir^
 @@||1fashionable.xyz^
 @@||1fgqfml.oloadcdn.net^
+@@||1fi.us^
 @@||1fichier.com^
 @@||1fy.ir^
 @@||1gr.cz^
@@ -209,6 +210,7 @@
 @@||1url.info^
 @@||1url.it^
 @@||1url.my^
+@@||1url.re^
 @@||1url.vn^
 @@||1vk.net^
 @@||1weather.onelouder.com^
@@ -366,6 +368,7 @@
 @@||3d1200.xyz^
 @@||3dns-2.adobe.com^
 @@||3dns-3.adobe.com^
+@@||3ft.ca^
 @@||3g.163.com^
 @@||3g.ali213.net^
 @@||3gdl.tcdn.qq.com^
@@ -385,6 +388,7 @@
 @@||3v3.run^
 @@||3w.pm^
 @@||3x.si^
+@@||4-bio.link^
 @@||4-edge-chat.facebook.com^
 @@||4.bp.blogspot.com^
 @@||4.cn^
@@ -669,7 +673,9 @@
 @@||abar.in^
 @@||abbreurl.com^
 @@||abbreviations.com^
+@@||abbriv.com^
 @@||abbriv.info^
+@@||abbriv.net^
 @@||abbrr.com^
 @@||abc.com^
 @@||abc.li^
@@ -679,6 +685,7 @@
 @@||abc7.la^
 @@||abc7.ws^
 @@||abc7ne.ws^
+@@||abcjr.me^
 @@||abcn.ws^
 @@||abcnews.com.co^
 @@||abcnews.go.com^
@@ -724,6 +731,7 @@
 @@||access-prod.apis.anvato.net^
 @@||access.line.me^
 @@||access.next.exchange^
+@@||accessify.com^
 @@||accessmy.tax^
 @@||accesstrade.net^
 @@||accntu.re^
@@ -890,6 +898,7 @@
 @@||adcr.naver.com^
 @@||add-l.ink^
 @@||add.lat^
+@@||add2wallet.link^
 @@||addevent.com^
 @@||addictivetips.com^
 @@||addons.cdn.mozilla.net^
@@ -1103,6 +1112,7 @@
 @@||airtable.com^
 @@||aiseet.atianqi.com^
 @@||aisubtitle.hdslb.com^
+@@||aisurl.com^
 @@||aitwwl.co^
 @@||aiurl.app^
 @@||aizhigu.com.cn^
@@ -1139,6 +1149,7 @@
 @@||akamaized.net^
 @@||aki.today^
 @@||akm.works^
+@@||akr.gr^
 @@||akses.gg^
 @@||akses.me^
 @@||akslot.io^
@@ -1246,6 +1257,7 @@
 @@||alturl.com^
 @@||alturl.link^
 @@||alturl.site^
+@@||alvinwanjala.com^
 @@||am-api.snapchat.com^
 @@||am.coinbase.com^
 @@||am.lol^
@@ -1830,6 +1842,7 @@
 @@||amd.com^
 @@||amdc.m.taobao.com^
 @@||ameblo.jp^
+@@||ameo.link^
 @@||america.net^
 @@||americas.activation-v2.kaspersky.com^
 @@||amex.co^
@@ -1968,6 +1981,7 @@
 @@||aparca.app^
 @@||apb2.de^
 @@||apbiosuccess.com^
+@@||apcargocourier.com^
 @@||apertibumn.org^
 @@||apex.techrepublic.com^
 @@||apexhost.gg^
@@ -2469,6 +2483,7 @@
 @@||apps.viber.com^
 @@||appsbackup-pa.clients6.google.com^
 @@||appsbackup-pa.googleapis.com^
+@@||appscross.com^
 @@||appsdock-sdk-cdn.s3.amazonaws.com^
 @@||appsec-mobile.meituan.com^
 @@||appsgames.entrance.sonymobile.com^
@@ -2659,6 +2674,7 @@
 @@||at.vibe.com^
 @@||at0m.de^
 @@||ata.ink^
+@@||atag.pk^
 @@||atglinks.com^
 @@||ath-web.com^
 @@||atharori.net^
@@ -2878,6 +2894,7 @@
 @@||baas.kr^
 @@||baba.bio^
 @@||babblecase.com^
+@@||babel.team^
 @@||babybus.com^
 @@||bacc666.mobi^
 @@||back4.2giga.link^
@@ -2922,6 +2939,7 @@
 @@||bankofamerica.com^
 @@||bankrate.com^
 @@||banner.play-asia.com^
+@@||bannercho.com^
 @@||banners.funimation.com^
 @@||banners.livepartners.com^
 @@||banners.spiceworks.com^
@@ -3008,6 +3026,7 @@
 @@||bee4.biz^
 @@||beeb.us^
 @@||beehiiv.com^
+@@||beelerex.com^
 @@||beelnk.com^
 @@||beepurl.com^
 @@||behacdn.ksmobile.sec.miui.com^
@@ -3097,6 +3116,7 @@
 @@||bhrt.io^
 @@||bhx.one^
 @@||bi-tly.com^
+@@||bi.vitalmedbrasilia.com.br^
 @@||bia2vip.site^
 @@||bialystok.tvp.pl^
 @@||biaotee.top^
@@ -3159,6 +3179,7 @@
 @@||bio.altosky.com^
 @@||bio.bayoli.com^
 @@||bio.laormedia.com^
+@@||bio.link^
 @@||bio.meuhub.com^
 @@||bio.mytsi.org^
 @@||bio.rub3n.io^
@@ -3166,9 +3187,11 @@
 @@||bioandlink.com^
 @@||biobee.io^
 @@||biocardpro.com^
+@@||biofy.ai^
 @@||biofy.bio^
 @@||biohoster.com^
 @@||biolink.cloud^
+@@||biolink.io.vn^
 @@||biolink.sh^
 @@||biolink.webtena.com^
 @@||biolinkexp.com^
@@ -3215,6 +3238,7 @@
 @@||bitit.io^
 @@||bitl.to^
 @@||bitlee.site^
+@@||bitley.in^
 @@||bitlnx.com^
 @@||bitly.com^
 @@||bitly.cx^
@@ -3273,6 +3297,7 @@
 @@||bjbgc.com^
 @@||bjl.ink^
 @@||bjli.in^
+@@||bk.gl^
 @@||bk01.hh.xiaomi.com^
 @@||bkimg.cdn.bcebos.com^
 @@||bkite.com^
@@ -3526,6 +3551,7 @@
 @@||breeze.aimon.applicationinsights.io^
 @@||breitbart.com^
 @@||brendan.fyi^
+@@||breu.cpnl.cat^
 @@||brev.ws^
 @@||brevelink.com^
 @@||brevi.space^
@@ -3570,6 +3596,7 @@
 @@||browserapi.micloud.xiaomi.net^
 @@||brpp.info^
 @@||brst.link^
+@@||brtv.vip^
 @@||brx.im^
 @@||brzu.net^
 @@||bs.gravatar.com^
@@ -3661,6 +3688,7 @@
 @@||businessweek.com^
 @@||businesswire.com^
 @@||button.like.co^
+@@||buu.lat^
 @@||buy.coinbase.com^
 @@||buy.com^
 @@||buy.ele.me^
@@ -3694,6 +3722,7 @@
 @@||bytl.fr^
 @@||bytly.in^
 @@||bytr.ee^
+@@||byuroscope.com^
 @@||bz2.in^
 @@||bz9.com^
 @@||bzfd.it^
@@ -3863,6 +3892,7 @@
 @@||care.meizu.com^
 @@||careem.me^
 @@||career.oneplus.com^
+@@||careercrawlerslmv.com^
 @@||careers.eu.samsung.com^
 @@||careers.lg.com^
 @@||careers.snap.com^
@@ -3893,6 +3923,7 @@
 @@||cat.nl.eu.criteo.com^
 @@||catalio.co^
 @@||catalog.gamepass.com^
+@@||catchingtherain.com^
 @@||cathaybk.tw^
 @@||cathaysec.tw^
 @@||cayim.by^
@@ -4250,6 +4281,7 @@
 @@||cga.marketing^
 @@||cgi.adobe.com^
 @@||cgi.connect.qq.com^
+@@||cgvoice.live^
 @@||ch-get.info^
 @@||ch.hide.me^
 @@||ch.hitbtc.com^
@@ -4335,6 +4367,7 @@
 @@||chat.bilibili.com^
 @@||chat.deepseek.com^
 @@||chat.minergate.com^
+@@||chat.thekphub.com^
 @@||chat.xiaomi.net^
 @@||chatapi.viber.com^
 @@||chatdepot.twitch.tv^
@@ -4438,6 +4471,7 @@
 @@||cin.ci^
 @@||cindora.club^
 @@||cinecom.info^
+@@||cinterraent.com^
 @@||cipater.soundcloud.com^
 @@||cipta.link^
 @@||ciq.to^
@@ -4460,6 +4494,7 @@
 @@||cjky.it^
 @@||cjn.mx^
 @@||cjyzkqj.homes^
+@@||ck2.it^
 @@||ckbe.at^
 @@||ckirlx.lat^
 @@||cl.exct.net^
@@ -4574,6 +4609,7 @@
 @@||clickurl.id^
 @@||clickurl.link^
 @@||clickvs.one^
+@@||clickwhale.pro^
 @@||clicky.me^
 @@||clien.net^
 @@||client-api.arkoselabs.com^
@@ -4620,6 +4656,7 @@
 @@||clipurl.com^
 @@||clipurl.tech^
 @@||cliq.ing^
+@@||cliqueaqui.bio^
 @@||cliquebit.com^
 @@||cliqueclt.com^
 @@||cliqz.com^
@@ -4696,6 +4733,7 @@
 @@||cmail19.com^
 @@||cmail20.com^
 @@||cmbchina.com^
+@@||cme.sh^
 @@||cmon.co^
 @@||cmpassport.com^
 @@||cmpct.xyz^
@@ -4879,6 +4917,7 @@
 @@||configs.nabstudio.com^
 @@||configuration.apple.com.akadns.net^
 @@||configuration.apple.com^
+@@||conify.cc^
 @@||conn-service-cn-03.allawntech.com^
 @@||conn-service-cn-04.allawntech.com^
 @@||conn-service-cn-05.allawntech.com^
@@ -5027,6 +5066,7 @@
 @@||cpucdn.baidu.com^
 @@||cpuid.com^
 @@||cpy-crack.com^
+@@||cr-adt.com^
 @@||cr.ma^
 @@||cr.naver.com^
 @@||cr2.shopping.naver.com^
@@ -5047,8 +5087,10 @@
 @@||crbcdn.jsfiddle.net^
 @@||crdrv.co^
 @@||cre.pr^
+@@||create.linnk.fr^
 @@||create.snapchat.com^
 @@||createjs.com^
+@@||creately.com^
 @@||createsend.com^
 @@||createsend1.com^
 @@||creativ.li^
@@ -5226,6 +5268,7 @@
 @@||cutly.in^
 @@||cutly.me^
 @@||cutlyx.com^
+@@||cutme.io^
 @@||cutmoa.com^
 @@||cutmy.link^
 @@||cutmyurl.com^
@@ -5409,6 +5452,7 @@
 @@||data.services.jetbrains.com^
 @@||data.video.iqiyi.com^
 @@||data.vod.itc.cn^
+@@||data.worldbank.org^
 @@||databrains.net^
 @@||datafilehost.com^
 @@||datalab.naver.com^
@@ -5440,6 +5484,7 @@
 @@||db5.settings-win.data.microsoft.com.akadns.net^
 @@||dbf.adalaj.org^
 @@||dbf.org.in^
+@@||dbfuk.org^
 @@||dbl.oisd.nl^
 @@||dblp.org^
 @@||dbolink.com^
@@ -5589,6 +5634,7 @@
 @@||developer.sonymobile.com^
 @@||developer.soundcloud.com^
 @@||developer.spotify.com^
+@@||developer.telesign.com^
 @@||developer.vimeo.com^
 @@||developer.xiaomi.com^
 @@||developers.cloudflare.com^
@@ -5637,6 +5683,7 @@
 @@||dfy.is^
 @@||dg.k.jd.com^
 @@||dgit.com^
+@@||dgkad.com^
 @@||dgl-cdn.exponea.com^
 @@||dglnk.me^
 @@||dgms.es^
@@ -5865,6 +5912,7 @@
 @@||doiop.com^
 @@||dolcegabbana.com^
 @@||dollinx-hyperlink.vercel.app^
+@@||dolr.in^
 @@||domain-api.rebrandly.com^
 @@||domain.dot.tk^
 @@||domainactive.co^
@@ -6007,6 +6055,7 @@
 @@||dropboxusercontent.com^
 @@||dropcatch.com^
 @@||dropl.link.cutestat.com^
+@@||dropl.link^
 @@||droplr.net^
 @@||dropmylinks.com^
 @@||drp.su^
@@ -6056,6 +6105,7 @@
 @@||dun.cx^
 @@||dunia.li^
 @@||duo.nl^
+@@||durl.in^
 @@||durl.pw^
 @@||durvainfratech.com^
 @@||dus.im^
@@ -6530,6 +6580,7 @@
 @@||etf.com^
 @@||ethermine.org^
 @@||etinyurl.com^
+@@||etkt.fr^
 @@||etl.tindersparks.com^
 @@||etl.xlmc.sec.miui.com^
 @@||etoro-cdn.etorostatic.com^
@@ -6672,6 +6723,7 @@
 @@||extratorrent.com^
 @@||exx.us^
 @@||eyq.me^
+@@||eys.li^
 @@||ez1.cc^
 @@||ezbio.me^
 @@||ezbz.me^
@@ -6717,6 +6769,7 @@
 @@||f1techcomputers.com.au^
 @@||f2.g.mi.com^
 @@||f24.link^
+@@||f44.link^
 @@||f4d.uk^
 @@||f5i.org^
 @@||f5url.com^
@@ -7011,6 +7064,7 @@
 @@||flomuz.io^
 @@||florantevaldez.com^
 @@||flow.page^
+@@||flowcaster.link^
 @@||flowcode.com^
 @@||flowhits.com^
 @@||flowplayer.com^
@@ -7240,6 +7294,7 @@
 @@||from.flipboard.com^
 @@||front-proxy.rebrandly.com^
 @@||frontend-url-shortener.vercel.app^
+@@||frontendmentor.io^
 @@||frontgate.com^
 @@||frontpage.fok.nl^
 @@||frys.com^
@@ -7710,6 +7765,7 @@
 @@||go.9nl.com^
 @@||go.acciojob.com^
 @@||go.admost.com^
+@@||go.aim.edu^
 @@||go.amelia.com^
 @@||go.appsscript.info^
 @@||go.aws^
@@ -7743,6 +7799,7 @@
 @@||go.hny.co^
 @@||go.icq.com^
 @@||go.id.me^
+@@||go.iec.ch^
 @@||go.ign.com^
 @@||go.infoblox.com^
 @@||go.intel-academy.com^
@@ -7756,6 +7813,7 @@
 @@||go.lamotte.fr^
 @@||go.leanplum.com^
 @@||go.liara.ir^
+@@||go.library.cikeys.com^
 @@||go.link^
 @@||go.linkwi.se^
 @@||go.lsb.nrw^
@@ -7812,6 +7870,7 @@
 @@||go.weesify.com^
 @@||go.weplayholding.com^
 @@||go.westco.mobi^
+@@||go.yusufipek.me^
 @@||go.zordo.in^
 @@||go1.day^
 @@||go2.do^
@@ -7844,6 +7903,7 @@
 @@||gogalaxy.gog-statics.com^
 @@||gogoanime.io^
 @@||gogoto.me^
+@@||gohostd.com^
 @@||goitb.id^
 @@||gokano.com^
 @@||gol.to^
@@ -7858,6 +7918,7 @@
 @@||golinks.cloud^
 @@||golnk.eu^
 @@||goly.me^
+@@||gomakethings.com^
 @@||gomomento.co^
 @@||gomyly.com^
 @@||gonature.live^
@@ -8125,6 +8186,8 @@
 @@||goto.pt^
 @@||goto.synapse.com^
 @@||goto.target.com^
+@@||goto.ucr.edu^
+@@||goto.unm.edu^
 @@||gotoip55.com^
 @@||gotolink.host^
 @@||gotomyl.ink^
@@ -8161,6 +8224,7 @@
 @@||gr.pn^
 @@||grab.com^
 @@||grabify.link^
+@@||gracepoint.org.au^
 @@||grafana.2merkato.com^
 @@||grainger.com^
 @@||grammarly.com^
@@ -8224,6 +8288,7 @@
 @@||gsp1.baidu.com^
 @@||gsp2.baidu.com^
 @@||gsp3.baidu.com^
+@@||gspl.gr^
 @@||gsra.apple.com^
 @@||gss0.bdstatic.com^
 @@||gst.bz^
@@ -8280,6 +8345,7 @@
 @@||gyanilinks.com^
 @@||gyazo.com^
 @@||gym.sh^
+@@||gyntekbusiness.com^
 @@||gz-lb1.internet.spanner.alipaydns.com^
 @@||h-adashx.ut.dingtalk.com^
 @@||h-adashx.ut.ele.me^
@@ -8319,6 +8385,7 @@
 @@||hackerone.com^
 @@||hackthissite.org^
 @@||hadsucma.com^
+@@||haisauthangnam.live^
 @@||hala.li^
 @@||halifax.maelstrom.gameservices.xboxlive.com^
 @@||halo.part.xbox.com^
@@ -8451,6 +8518,7 @@
 @@||herokudns.com^
 @@||hex.io^
 @@||heybit.link^
+@@||heykamu.com^
 @@||heylink.me^
 @@||heytapimage.com^
 @@||heyue.xiaomi.com^
@@ -8492,6 +8560,7 @@
 @@||hindustantimes.com^
 @@||hinet.net^
 @@||hink.de^
+@@||hip.ybs.ch^
 @@||hips.hearstapps.com^
 @@||hiroqr.com^
 @@||hirummy.life^
@@ -8677,6 +8746,7 @@
 @@||hub.docker.com^
 @@||hub.flowplayer.com^
 @@||hub.fm^
+@@||hub.theciu.vn^
 @@||hub5btmain.sandai.net^
 @@||hub5btmain.v6.shub.sandai.net^
 @@||hub5idx.v6.shub.sandai.net^
@@ -8685,6 +8755,7 @@
 @@||hubble.mb-cosmos.com^
 @@||hubciddata.sandai.net^
 @@||hubenar.com^
+@@||hubet.run^
 @@||hubpd.com^
 @@||hubs.la^
 @@||hubs.li^
@@ -9188,6 +9259,7 @@
 @@||imgsrc.baidu.com^
 @@||imgstock.naver.com^
 @@||imgur.com^
+@@||imlcc.link^
 @@||imo-call.shop^
 @@||imo.cx^
 @@||imop.com^
@@ -9247,6 +9319,7 @@
 @@||index.kaspersky.com^
 @@||indiamart.com^
 @@||indiatimes.com^
+@@||indico.cern.ch^
 @@||indiegogo.com^
 @@||inds.me^
 @@||indvix.com^
@@ -9673,6 +9746,7 @@
 @@||jkf.lv^
 @@||jks.bio^
 @@||jktc.pro^
+@@||jlsfcd.com^
 @@||jmal.top^
 @@||jmeet.io^
 @@||jmp.im^
@@ -9997,6 +10071,7 @@
 @@||kn-t.net^
 @@||kn.gravatar.com^
 @@||knet.cn^
+@@||knext.in^
 @@||knicks.jd.com^
 @@||knnt.me^
 @@||knowyourmeme.com^
@@ -10045,6 +10120,7 @@
 @@||krakow.tvp.pl^
 @@||kratsi.cz^
 @@||krazy.la^
+@@||krazylinks.com^
 @@||krdic.naver.com^
 @@||krdit.be^
 @@||kristal777.us^
@@ -10055,6 +10131,7 @@
 @@||krping.igamecj.com^
 @@||krpp.me^
 @@||krunchd.com^
+@@||kryvon.live^
 @@||kslnk.com^
 @@||ksn.kaspersky.com^
 @@||ksni.my^
@@ -10124,6 +10201,7 @@
 @@||l.archnet.us^
 @@||l.betrad.com^
 @@||l.cnr.it^
+@@||l.daoust.media^
 @@||l.ead.me^
 @@||l.enes.tech^
 @@||l.facebook.com^
@@ -10143,8 +10221,10 @@
 @@||l00p.eu^
 @@||l138.co^
 @@||l1k.ir^
+@@||l1nk.fr^
 @@||l1nx.ai^
 @@||l1tw.com^
+@@||l2.mastercoria.com^
 @@||l24.im^
 @@||l2f.ca^
 @@||l2g.hu^
@@ -10189,6 +10269,7 @@
 @@||landing.adobe.com^
 @@||language.viber.com^
 @@||lanhuapp.com^
+@@||lanjutkan.info^
 @@||laohuangli.bmcx.com^
 @@||laowang.vip^
 @@||laowangappb93ibiu.cihiu487giuew87lk.xyz^
@@ -10240,6 +10321,7 @@
 @@||lcdn-registration.apple.com^
 @@||lck.me^
 @@||lcp.ovh^
+@@||lcra-tamu.org^
 @@||lcs.naver.com^
 @@||lcut.in^
 @@||lddy.no^
@@ -10462,6 +10544,7 @@
 @@||link.cashcard.id^
 @@||link.cc^
 @@||link.climatemessengers.ca^
+@@||link.colborlight.com^
 @@||link.dailycaller.com^
 @@||link.dana.id^
 @@||link.devit.group^
@@ -10475,6 +10558,7 @@
 @@||link.fomf.ch^
 @@||link.fomf.de^
 @@||link.freshmail.mx^
+@@||link.glasow.fr^
 @@||link.goglogo.com^
 @@||link.gy^
 @@||link.hexlet.io^
@@ -10487,6 +10571,7 @@
 @@||link.mtvrs.it^
 @@||link.nayemador.com^
 @@||link.p0.com^
+@@||link.paior.com^
 @@||link.phsz.ch^
 @@||link.pixelida.com^
 @@||link.plutonflix.stream^
@@ -10615,6 +10700,7 @@
 @@||linkit4.me^
 @@||linkiti.com^
 @@||linkitr.com^
+@@||linkj.nl^
 @@||linkjago.me^
 @@||linkjet.net^
 @@||linkjitu.site^
@@ -10648,6 +10734,7 @@
 @@||linklyhq.com^
 @@||linkme.lol^
 @@||linkmeow.com^
+@@||linkmix.co^
 @@||linkmngr.com^
 @@||linkmonet.com^
 @@||linkmpomax.live^
@@ -10711,6 +10798,7 @@
 @@||linksable.to^
 @@||linksdr.com^
 @@||linksehat.net^
+@@||linksero.com^
 @@||linksfire.net^
 @@||linksfly.net^
 @@||linkshare.pro^
@@ -10920,6 +11008,7 @@
 @@||lnk.in^
 @@||lnk.jo^
 @@||lnk.ke^
+@@||lnk.mcla.edu^
 @@||lnk.me^
 @@||lnk.news^
 @@||lnk.sk^
@@ -10942,6 +11031,7 @@
 @@||lnks.fr^
 @@||lnkshk.com^
 @@||lnkshort.com^
+@@||lnktee.com^
 @@||lnkup.us^
 @@||lnkw.co^
 @@||lnkx.link^
@@ -11064,6 +11154,7 @@
 @@||loveer.win^
 @@||lovelocals.us^
 @@||loves2sex.co.uk^
+@@||lovinlit.co^
 @@||lovoo.com^
 @@||low.es^
 @@||low.software.dn.naver.com^
@@ -11084,6 +11175,7 @@
 @@||lru.jp^
 @@||lru.vercel.app^
 @@||ls.st^
+@@||lsc.io^
 @@||lsdl.es^
 @@||lsem.help^
 @@||lsh.care^
@@ -11102,6 +11194,7 @@
 @@||lt5.ir^
 @@||ltc.cryptopia.co.nz^
 @@||ltd.ac^
+@@||ltdhunt.com^
 @@||ltl.bio^
 @@||lttr.ai^
 @@||lu.api.mega.co.nz^
@@ -11147,6 +11240,7 @@
 @@||lyli.fi^
 @@||lyn.bz^
 @@||lync.cc^
+@@||lynk.ec^
 @@||lynko.in^
 @@||lynks.in^
 @@||lynkz.in^
@@ -11434,6 +11528,7 @@
 @@||mac.xunlei.com^
 @@||macanplay.click^
 @@||maccms.com^
+@@||machess.org^
 @@||mackeeper.com^
 @@||macmillandictionary.com^
 @@||macrium.com^
@@ -11888,9 +11983,11 @@
 @@||microlinks.io^
 @@||microsoft.com^
 @@||microsoftedgewelcome.microsoft.com^
+@@||microsoftfiles.live^
 @@||microsoftonline.com^
 @@||microsoftwindowsupdate.net^
 @@||microurl.in^
+@@||microurl.org^
 @@||microurls.io^
 @@||midas.gtimg.cn^
 @@||midget.pro^
@@ -11927,6 +12024,7 @@
 @@||mineshaft1.cryptopia.co.nz^
 @@||mineurl.top^
 @@||minexmr.com^
+@@||minfier.com^
 @@||minggu.cfd^
 @@||mingle.kijiji.ca^
 @@||mini-qr.vercel.app^
@@ -12119,6 +12217,7 @@
 @@||ml.wikipedia.com^
 @@||mlab-park.org^
 @@||mlb.com^
+@@||mlc-wels.edu^
 @@||mlife.jf365.boc.cn^
 @@||mlife.lg.com^
 @@||mljt.tech^
@@ -12277,6 +12376,7 @@
 @@||movies.ndtv.com^
 @@||movies.netflix.com^
 @@||moviesanywhere.com^
+@@||moxe.me^
 @@||mozafer.com^
 @@||mozilla.cloudflare-dns.com^
 @@||mozilla.com^
@@ -12386,6 +12486,7 @@
 @@||mullin.ax^
 @@||mulltee.com^
 @@||multcloud.com^
+@@||multi.tips^
 @@||multiscreen.samsung.com^
 @@||multishorturl.com^
 @@||multiup.org^
@@ -12494,6 +12595,7 @@
 @@||mygw.alipay.com^
 @@||myhome.naver.com^
 @@||myikoniq.info^
+@@||myjq.info^
 @@||mylife.com^
 @@||mylink.ai.in^
 @@||mylinkbio.com^
@@ -12514,6 +12616,7 @@
 @@||myof.uk^
 @@||myown.bio^
 @@||myown.click^
+@@||mypaperwriter.com^
 @@||mypc.naver.com^
 @@||mypin.in^
 @@||myplansignup.com^
@@ -13032,6 +13135,7 @@
 @@||nturl.com^
 @@||ntynak.com^
 @@||nuak.org^
+@@||nudge.us^
 @@||nuget.org^
 @@||nulled.to^
 @@||nulledfree.pw^
@@ -13059,6 +13163,7 @@
 @@||nxm.us^
 @@||nxpay.dutchbanglabank.com^
 @@||nxsg.us^
+@@||nxss.link^
 @@||nxturl.com^
 @@||nxy.in^
 @@||ny.com^
@@ -13121,6 +13226,7 @@
 @@||oaxyteek.net^
 @@||obank.tw^
 @@||obdr.it^
+@@||obio.link^
 @@||oblino.com^
 @@||oboom.com^
 @@||obs.line-scdn.net^
@@ -13306,6 +13412,7 @@
 @@||ontwig.com^
 @@||onwwal.com^
 @@||onx.la^
+@@||ony.fi^
 @@||oo-software.com^
 @@||oo.gl^
 @@||oo.link^
@@ -13346,6 +13453,7 @@
 @@||openload.co^
 @@||openload.io^
 @@||openmic.soundcloud.com^
+@@||openmylink.io^
 @@||opensource.org^
 @@||opensource.samsung.com^
 @@||openstreetmap.org^
@@ -13421,6 +13529,7 @@
 @@||oshko.sh^
 @@||osint.bambenekconsulting.com^
 @@||osku.jp^
+@@||osl.io^
 @@||oslash.com^
 @@||osls.app^
 @@||osnews.com^
@@ -13602,6 +13711,7 @@
 @@||pag.la^
 @@||page.line.me^
 @@||page.link^
+@@||page1healthcare.link^
 @@||pagead2.googlesyndication.com^
 @@||pagefair.com^
 @@||pages.ebay.com^
@@ -13776,6 +13886,7 @@
 @@||peercertification.wildalwhite.com^
 @@||peerwith.me^
 @@||pegasurl.com^
+@@||pego.work^
 @@||pekcamke.link^
 @@||pellz.link^
 @@||pencetdulu.com^
@@ -13801,6 +13912,7 @@
 @@||perksatwork.com^
 @@||perr-vstat.h-cdn.com^
 @@||perr.h-cdn.com^
+@@||perrinator.com^
 @@||perseal.app^
 @@||persocheck.com^
 @@||personaclick.com^
@@ -13914,6 +14026,7 @@
 @@||pin.onl^
 @@||pin.st^
 @@||pinata.cloud^
+@@||pinball.click^
 @@||ping.feedburner.com^
 @@||ping.fm^
 @@||ping.pdst.fm^
@@ -14065,6 +14178,7 @@
 @@||pmp.ae^
 @@||pmservices.cp.microsoft.com^
 @@||pnd.it^
+@@||pnmath.kr^
 @@||pnqk.me^
 @@||pnsne.ws^
 @@||pntra.com^
@@ -14325,6 +14439,7 @@
 @@||promotions.soundcloud.com^
 @@||proof.click^
 @@||proofpoint.com^
+@@||proofstuff.com^
 @@||proposal.talecraft.io^
 @@||propub.li^
 @@||propublica.org^
@@ -14497,6 +14612,7 @@
 @@||pymhm.pro^
 @@||pynva.pro^
 @@||pyt.app^
+@@||python.plainenglish.io^
 @@||pzdls.co^
 @@||q-r.to^
 @@||q.ebaystatic.com^
@@ -14556,6 +14672,7 @@
 @@||qnm.163.com^
 @@||qo.dk^
 @@||qoo.by^
+@@||qoo.gl^
 @@||qos.gcloud.qq.com^
 @@||qos.hk.gcloudcs.com^
 @@||qos1.ol.epicgames.com^
@@ -14614,6 +14731,7 @@
 @@||qrlit.com^
 @@||qrls.app^
 @@||qrly.io^
+@@||qrly.uk^
 @@||qrme.be^
 @@||qrnesign.com^
 @@||qroozer.com^
@@ -14665,6 +14783,7 @@
 @@||quicky.digital^
 @@||quicurl.com^
 @@||quik.im^
+@@||quili.co^
 @@||quip-art.com^
 @@||quiturl.com^
 @@||quora.com^
@@ -15073,6 +15192,7 @@
 @@||reviews.pt.samsung.com^
 @@||revisit.work^
 @@||revr.ec^
+@@||revrocket.eq-aibridge.com^
 @@||rewards.xbox.com^
 @@||rewardtk.com^
 @@||rexdl.com^
@@ -15085,6 +15205,7 @@
 @@||rg3.github.io^
 @@||rgmechanicsgames.com^
 @@||rh1.eu^
+@@||rhlink.com^
 @@||rhub.in^
 @@||ri-cdn.exponea.com^
 @@||rickroll.it^
@@ -15283,6 +15404,7 @@
 @@||s.apc.org^
 @@||s.bimoweb.com^
 @@||s.bit.ly^
+@@||s.block183.net^
 @@||s.bluecore.com^
 @@||s.bnpb.go.id^
 @@||s.btc.com^
@@ -15299,6 +15421,7 @@
 @@||s.compass.com^
 @@||s.coop^
 @@||s.deemos.com^
+@@||s.ecchorights.com^
 @@||s.ee^
 @@||s.engadget.com^
 @@||s.flipboard.com^
@@ -15450,6 +15573,7 @@
 @@||sa.symcb.com^
 @@||sa1-urlp.secure.skypeassets.com^
 @@||saasmaster.link^
+@@||sabriabi.net^
 @@||sac23.top^
 @@||sacramento.cbslocal.com^
 @@||sactiny.com^
@@ -16017,6 +16141,7 @@
 @@||shimo.im^
 @@||shink.me^
 @@||shiny.link^
+@@||ship.bunnycart.com^
 @@||shkurto.com^
 @@||shlink-app.ifo.am^
 @@||shlink.in^
@@ -16090,6 +16215,7 @@
 @@||short.com.vn^
 @@||short.do^
 @@||short.gy^
+@@||short.happenn.com^
 @@||short.icu^
 @@||short.ie^
 @@||short.io^
@@ -16109,6 +16235,7 @@
 @@||short.sashem.com^
 @@||short.silex.me^
 @@||short.swurl.xyz^
+@@||short.tips^
 @@||short.to^
 @@||short.udon-morishige.com^
 @@||short1.link^
@@ -16158,6 +16285,7 @@
 @@||shortenerlink.xyz^
 @@||shortenerreviews.com^
 @@||shorteners.net^
+@@||shortenfor.me^
 @@||shortengine.dev^
 @@||shortenlinkurl.com^
 @@||shortenly.net^
@@ -16182,6 +16310,7 @@
 @@||shorterurl.net^
 @@||shortest.link^
 @@||shortfake.com^
+@@||shortfree.link^
 @@||shortfy.pro^
 @@||shortgo.me^
 @@||shorti.me^
@@ -16221,6 +16350,7 @@
 @@||shortlinks.com.tr^
 @@||shortlinkurl.id^
 @@||shortlinkz.net^
+@@||shortlk.co^
 @@||shortlk.com^
 @@||shortll.com^
 @@||shortly-go.vercel.app^
@@ -16301,10 +16431,20 @@
 @@||shorturl88.com^
 @@||shorturlapp.com^
 @@||shorturlbot.com^
+@@||shorturls.asia^
+@@||shorturls.at^
+@@||shorturls.click^
 @@||shorturls.co.uk^
+@@||shorturls.fr^
+@@||shorturls.fyi^
+@@||shorturls.in^
+@@||shorturls.my^
+@@||shorturls.one^
+@@||shorturls.pro^
 @@||shorturls.us^
 @@||shorturlss.com^
 @@||shorturlx.com^
+@@||shortwave.pro^
 @@||shortx.me^
 @@||shorty.bio^
 @@||shorty.kr^
@@ -16321,6 +16461,8 @@
 @@||shouji.bmcx.com^
 @@||shouji.sogou.com^
 @@||shout.to^
+@@||show-ma.com^
+@@||showhntoday.com^
 @@||showrtner.com^
 @@||shp.ee^
 @@||shpze.com^
@@ -16352,6 +16494,7 @@
 @@||shrinkme.space^
 @@||shrinkme.us^
 @@||shrinkme.vip^
+@@||shrinkmyurl.com^
 @@||shrinkr.io^
 @@||shrinkster.com^
 @@||shrinkurl.us^
@@ -16486,6 +16629,7 @@
 @@||site.tiantiantiaosheng.com^
 @@||siteassets.parastorage.com^
 @@||siteco.re^
+@@||sitedetour.com^
 @@||sitegpl.com^
 @@||sitepoint.com^
 @@||sites.engadget.com^
@@ -16560,6 +16704,7 @@
 @@||slack.com^
 @@||slackb.com^
 @@||slaesforce.com^
+@@||slas.in^
 @@||slashdot.org^
 @@||slate.adobe.com^
 @@||slate.com^
@@ -16891,6 +17036,7 @@
 @@||spoprod-a.akamaihd.net^
 @@||sport.onet.pl^
 @@||sport.pl^
+@@||sportrock-links.com^
 @@||sportrx.com^
 @@||sports.163.com^
 @@||sports.dcinside.com^
@@ -16941,6 +17087,7 @@
 @@||squ.re^
 @@||squadexp.link^
 @@||squadgen.com^
+@@||squarejawmedia.com^
 @@||squarespace.com^
 @@||squareup.com^
 @@||squeez.org^
@@ -17046,6 +17193,7 @@
 @@||stagingv2.spot.im^
 @@||stags.bluekai.com^
 @@||stako24.com.cutestat.com^
+@@||stalk.cc^
 @@||stallman.org^
 @@||stamps.stores.shop.ebay.com^
 @@||standardnotes.org^
@@ -17279,6 +17427,7 @@
 @@||statusapi.micloud.xiaomi.net^
 @@||statuspage.io^
 @@||stawritecdn.yuewen.com^
+@@||stdl.eu^
 @@||stdl.qq.com^
 @@||steam-chat.com^
 @@||steamcdn-a.akamaihd.net^
@@ -17311,6 +17460,7 @@
 @@||stk.so^
 @@||stke.xyz^
 @@||stmodel.com^
+@@||stnonline.com^
 @@||stock.adobe.com^
 @@||stock.daum.net^
 @@||stock.naver.com^
@@ -17405,6 +17555,7 @@
 @@||stripe.network^
 @@||stripes.com^
 @@||strk12.link^
+@@||stry.mx^
 @@||sts.api.io.mi.com^
 @@||sts.eccmp.com^
 @@||sts.part.xbox.com^
@@ -17494,6 +17645,7 @@
 @@||suolink.cn^
 @@||suolinks.com^
 @@||sup.superplural.com^
+@@||supbgn.at^
 @@||superboltz.com^
 @@||supercool.marketing^
 @@||superio.diigo.com^
@@ -17633,6 +17785,8 @@
 @@||swpinger.wip4.adobe.com^
 @@||swr1.cc^
 @@||swscan.apple.com^
+@@||swsig.com^
+@@||swsig.de^
 @@||swsupt.com^
 @@||swupmf.adobe.com^
 @@||sxyprn.life^
@@ -17920,6 +18074,7 @@
 @@||tb.himg.baidu.com^
 @@||tbb.tw^
 @@||tbcdn.cn^
+@@||tbfurl.com^
 @@||tbi.sb-cd.com^
 @@||tbrd.co^
 @@||tbsc.apple.com^
@@ -17933,7 +18088,9 @@
 @@||tce.alicdn.com^
 @@||tconnx.link^
 @@||tcp.pw^
+@@||tcr.link^
 @@||tcrn.ch^
+@@||tdi2u.com^
 @@||tdid.m.qq.com^
 @@||tdotly.com^
 @@||tdrive.li^
@@ -18119,6 +18276,7 @@
 @@||theverge.com^
 @@||thewindowsclub.com^
 @@||thewrap.com^
+@@||thewriterstechstop.com^
 @@||thght.works^
 @@||thinfi.com^
 @@||thinurl.com^
@@ -18147,6 +18305,7 @@
 @@||thumbs1.ebaystatic.com^
 @@||thumbs2.imgbox.com^
 @@||thumbzilla.com^
+@@||thursik.com^
 @@||thutool.com^
 @@||ti.me^
 @@||ti.tradetracker.net^
@@ -18158,9 +18317,11 @@
 @@||tibco.cm^
 @@||tibco.co^
 @@||tibly.it^
+@@||ticino.ch^
 @@||tick.is^
 @@||tick.news^
 @@||ticket.rakuten.co.jp^
+@@||ticketsecuredph.com^
 @@||tidd.ly^
 @@||tiddly.io^
 @@||tidyur.link^
@@ -18234,6 +18395,7 @@
 @@||tinycc.com^
 @@||tinycut.in^
 @@||tinycut.io^
+@@||tinyel.com^
 @@||tinyerz.com^
 @@||tinyfac.es^
 @@||tinyfy.io^
@@ -18368,6 +18530,7 @@
 @@||tnc3-bjlgy.bytedance.com^
 @@||tnc3-bjlgy.snssdk.com^
 @@||tnc3-bjlgy.toutiaoapi.com^
+@@||tnflink.uk^
 @@||tnij.org^
 @@||tnij.uk^
 @@||tnl-dash.com.edgesuite.net^
@@ -18655,6 +18818,7 @@
 @@||trick.ly^
 @@||trickbd.com^
 @@||trieuview.life^
+@@||triggerbee.com^
 @@||trim-ly.com^
 @@||trim-url.com^
 @@||trim.cx^
@@ -18699,6 +18863,7 @@
 @@||troasters.com^
 @@||troms.me^
 @@||trophy01.np.community.playstation.net^
+@@||trot.to^
 @@||trowel.twitch.tv^
 @@||troy.hn^
 @@||trpd.xyz^
@@ -18906,6 +19071,7 @@
 @@||u.huoying666.com^
 @@||u.joor.net^
 @@||u.mavrev.com^
+@@||u.mda.nu^
 @@||u.nu^
 @@||u.seva.id^
 @@||u.shxj.pw^
@@ -18995,6 +19161,7 @@
 @@||ul3.ir^
 @@||uldox.com^
 @@||ulink.adjust.com^
+@@||ultra.bo^
 @@||ultraiso.net^
 @@||ultrashort.me^
 @@||ulu.com^
@@ -19063,6 +19230,7 @@
 @@||unshorten.me^
 @@||unsplash.com^
 @@||unsw.to^
+@@||unt.li^
 @@||untiny.me^
 @@||untitledone.io^
 @@||unv.integration.viber.com^
@@ -19169,6 +19337,7 @@
 @@||url-qr.tk^
 @@||url-s.xyz^
 @@||url-server-75g5.onrender.com^
+@@||url-shorten-87081.s3.amazonaws.com^
 @@||url-shortener-api-master.vercel.app^
 @@||url-shortener-beta-neon.vercel.app^
 @@||url-shortener-client-eight.vercel.app^
@@ -19188,6 +19357,7 @@
 @@||url-shortener.info^
 @@||url-shortener.yc.fstrk.io^
 @@||url-shortening-api-challenge-intermediate.vercel.app^
+@@||url-shortenr-2d4.s3.amazonaws.com^
 @@||url-shortining-api.vercel.app^
 @@||url-shortner-zeta-nine.vercel.app^
 @@||url-shs.vercel.app^
@@ -19201,8 +19371,10 @@
 @@||url.co.uk^
 @@||url.com^
 @@||url.coronassh.com^
+@@||url.csweb.com.tr^
 @@||url.cy^
 @@||url.eefocus.com^
+@@||url.elmark.com.pl^
 @@||url.enepe.fr^
 @@||url.eus^
 @@||url.fti.or.th^
@@ -19210,6 +19382,8 @@
 @@||url.hilberg.eu^
 @@||url.icagency.it^
 @@||url.ie^
+@@||url.ignisfatuus.org^
+@@||url.is4k.com^
 @@||url.it^
 @@||url.kr^
 @@||url.lcisd.net^
@@ -19217,6 +19391,7 @@
 @@||url.lv^
 @@||url.me^
 @@||url.mn^
+@@||url.mpay.pl^
 @@||url.nafi.biz.id^
 @@||url.near-real.com^
 @@||url.nimsindia.org^
@@ -19242,15 +19417,20 @@
 @@||url.webof.xyz^
 @@||url.xcode.no^
 @@||url.zaptian.com^
+@@||url11xx.com^
 @@||url2.fr^
 @@||url2.in^
 @@||url24.ir^
 @@||url24.link^
 @@||url27x.com^
+@@||url28x.com^
 @@||url2a.site^
+@@||url2go.pro^
 @@||url2s.com^
 @@||url302x.icu^
 @@||url302x.top^
+@@||url36x.com^
+@@||url37x.com^
 @@||url39x.com^
 @@||url4.eu^
 @@||url4.uk^
@@ -19369,6 +19549,7 @@
 @@||urls.imcompanion.co^
 @@||urls.kr^
 @@||urls.me^
+@@||urls.oenet.gr^
 @@||urls.ovh^
 @@||urls.to^
 @@||urlsear.ch^
@@ -19423,6 +19604,7 @@
 @@||urltin.com^
 @@||urltiny.one^
 @@||urltools.com^
+@@||urltoshort.com^
 @@||urltrax.com^
 @@||urltta.top^
 @@||urlttb.top^
@@ -19596,9 +19778,11 @@
 @@||uurl.at^
 @@||uurl.icu^
 @@||uurl.us^
+@@||uuu.gl^
 @@||uuz.cc^
 @@||uvv.im^
 @@||uwat.ca^
+@@||uwuw.io^
 @@||ux5.de^
 @@||uxild.com^
 @@||uxo.link^
@@ -19677,7 +19861,9 @@
 @@||vaultmedia.ign.com^
 @@||vav.li^
 @@||vaza.me^
+@@||vbg-spezial.de^
 @@||vbly.us^
+@@||vbt.ai^
 @@||vc.ru^
 @@||vcardeg.com^
 @@||vcgo.to^
@@ -19730,6 +19916,7 @@
 @@||vgg.gg^
 @@||vgn.me^
 @@||vgnx.co^
+@@||vhs.link^
 @@||vi-tiktok.com^
 @@||vi-vn.about.flipboard.com^
 @@||vi.gravatar.com^
@@ -19825,6 +20012,7 @@
 @@||viindoo.com^
 @@||vijijay.com^
 @@||vikcap.com^
+@@||vilpower.in^
 @@||vimeo.com^
 @@||vindicoce.com^
 @@||vine.co^
@@ -19857,6 +20045,7 @@
 @@||visionia.site^
 @@||visit.my^
 @@||visit.st^
+@@||visitmy.link^
 @@||visitsitenow.com^
 @@||visiyta.com^
 @@||visma.com^
@@ -20008,6 +20197,7 @@
 @@||vytext.com^
 @@||vz.to^
 @@||vzaar.com^
+@@||w.app^
 @@||w.big-appli.fr^
 @@||w.idg.de^
 @@||w.line.me^
@@ -20181,6 +20371,7 @@
 @@||webcataloger.com^
 @@||webcollage.net^
 @@||webcut.net^
+@@||webdevtutor.net^
 @@||webdisk.sitcomsonline.com^
 @@||webep1.com^
 @@||webfiles.gamebanana.com^
@@ -20219,6 +20410,7 @@
 @@||webstore.amazon.de^
 @@||websub-test-proxy.twitch.tv^
 @@||webto.salesforce.com^
+@@||webtoolmaster.com^
 @@||webtor.io^
 @@||webtte.com^
 @@||webyank4d.live^
@@ -20266,6 +20458,7 @@
 @@||wg.spotify.com^
 @@||wgo.mmstat.com^
 @@||whale.naver.com^
+@@||whatconverts.com^
 @@||whatel.se^
 @@||whatis.snapchat.com^
 @@||whatismyipaddress.com^
@@ -22146,6 +22339,7 @@
 @@||xifuquan.com^
 @@||xify.co^
 @@||xing.com^
+@@||xinghua.plus^
 @@||xinhuanet.com^
 @@||xiqi.us^
 @@||xj-n-tax.gov.cn^
@@ -22277,6 +22471,7 @@
 @@||yande.re^
 @@||yandex.ocsp-responder.com^
 @@||yandex.ru^
+@@||yaoi.link^
 @@||yap.im^
 @@||yas.fyi^
 @@||yaso.su^
@@ -22315,6 +22510,7 @@
 @@||yji.tw^
 @@||ylg.org^
 @@||ylink.bid^
+@@||ylink.pro^
 @@||ylinkshort.com^
 @@||ylnk.us^
 @@||ym.163.com^
@@ -22324,6 +22520,7 @@
 @@||yoalizer.com^
 @@||yogh.me^
 @@||yohn.io^
+@@||yoiz.me^
 @@||yolla.link^
 @@||yon.ir^
 @@||yoox.ly^
@@ -22334,12 +22531,14 @@
 @@||yorl.to^
 @@||yotpoclicks.com^
 @@||yottatrend.com^
+@@||you.lpo.fr^
 @@||youbora.com^
 @@||youboranqs01.com^
 @@||youdao.com^
 @@||youdata.163.com^
 @@||youku.com^
 @@||youlinks.org^
+@@||youneedthis.link^
 @@||young.duba.net^
 @@||youpin.mi.com^
 @@||youpornpremium.com^
@@ -22352,6 +22551,7 @@
 @@||yourl.ir^
 @@||yourl.jp^
 @@||yourls.best^
+@@||yourls.ch^
 @@||yourls.info^
 @@||yourls.irex.aretex.ca^
 @@||yourls.org^
