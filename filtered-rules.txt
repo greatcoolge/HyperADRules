@@ -996,6 +996,7 @@ adservice.google.com.np
 adservice.google.com.pe
 adservice.google.com.ph
 adservice.google.com.pk
+adservice.google.com.pr
 adservice.google.com.tr
 adservice.google.com.tw
 adservice.google.com.ua
@@ -1004,6 +1005,7 @@ adservice.google.de
 adservice.google.dk
 adservice.google.es
 adservice.google.fr
+adservice.google.ga
 adservice.google.gr
 adservice.google.hr
 adservice.google.ie
@@ -1012,6 +1014,7 @@ adservice.google.lt
 adservice.google.nl
 adservice.google.no
 adservice.google.pl
+adservice.google.ps
 adservice.google.ro
 adservice.google.ru
 adservice.google.se
@@ -12139,6 +12142,7 @@ mkto-ab280067.com
 mkto-ab280126.com
 mkto-ab300154.com
 mkto-ab310115.com
+mkto-ab330062.com
 mkto-ab330197.com
 mkto-ab340022.com
 mkto-ab420081.com
@@ -12171,6 +12175,7 @@ mkto-g0180.com
 mkto-j0126.com
 mkto-lon030291.com
 mkto-lon040152.com
+mkto-lon080006.com
 mkto-lon090082.com
 mkto-lon100059.com
 mkto-mlm10010008.com
@@ -15199,6 +15204,7 @@ rfx.today
 rg3.github.io
 rgmechanicsgames.com
 rh1.eu
+rh5utc9ab.cc.rs6.net
 rhlink.com
 rhub.in
 ri-cdn.exponea.com
@@ -15549,6 +15555,7 @@ s4.exacttarget.com
 s4.is
 s4.symcb.com
 s4w.in
+s5.exacttarget.com
 s5.symcb.com
 s50.exacttarget.com
 s51.exacttarget.com
@@ -17610,6 +17617,7 @@ suite36.emarsys.net
 suite38.emarsys.net
 suite40-cf.emarsys.net
 suite40.emarsys.net
+suite41.emarsys.net
 suite45.emarsys.net
 suite46.emarsys.net
 suite52.emarsys.net
