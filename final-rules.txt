@@ -10094,6 +10094,7 @@
 @@||klaviyo.com^
 @@||klck.me^
 @@||klclick.com^
+@@||klclick.dollarshaveclub.com^
 @@||klclick1.com^
 @@||klclick2.com^
 @@||klclick3.com^
@@ -15030,7 +15031,6 @@
 @@||rcknr.io^
 @@||rcld.io^
 @@||rcx.my.id^
-@@||rd-aa.today^
 @@||rd-client.com^
 @@||rd.gt^
 @@||rd.playstation.com^
@@ -16339,6 +16339,7 @@
 @@||short.tips^
 @@||short.to^
 @@||short.udon-morishige.com^
+@@||short.zeeraa.net^
 @@||short1.link^
 @@||short24.pw^
 @@||short2cut.com^
