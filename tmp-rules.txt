@@ -7943,6 +7943,7 @@
 @@||polling.finance.naver.com^
 @@||poloniex.com^
 @@||polyfill.io^
+@@||pomf.se^
 @@||pool-de.supportxmr.com^
 @@||pool.btc.com^
 @@||pool.next.exchange^
