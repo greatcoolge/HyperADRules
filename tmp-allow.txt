@@ -7521,6 +7521,7 @@
 @@||scrb.ly^
 @@||screeee.com^
 @@||sctapi.ftqq.com^
+@@||sctrack.sendcloud.net^
 @@||scts.in^
 @@||scuf.co^
 @@||scurt.eu^
@@ -9243,6 +9244,7 @@
 @@||track.glovoapp.com^
 @@||track.grove.co^
 @@||track.gumroad.com^
+@@||track.m2.sendlayer.net^
 @@||track.mdrctr.com^
 @@||track.mydirectpromonews-ah.com^
 @@||track.omguk.com^
@@ -9260,6 +9262,7 @@
 @@||track.tnm.de^
 @@||track.trafficguard.ai^
 @@||track01.engagelab.email^
+@@||track2.sendcloud.net^
 @@||track3.bsplegalmarketing.com^
 @@||track3.davydovlaw.com^
 @@||track34102166105.effiliation.com^
@@ -9340,6 +9343,7 @@
 @@||trimurls.com^
 @@||trisula88short.xyz^
 @@||trizlink.com^
+@@||trk-eu.customer.io^
 @@||trk.affattr.com^
 @@||trk.ecomm.lenovo.com^
 @@||trk.esn.com^

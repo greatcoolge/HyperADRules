@@ -15983,6 +15983,7 @@
 @@||scs.huawei.com^
 @@||scs.naver.com^
 @@||sctapi.ftqq.com^
+@@||sctrack.sendcloud.net^
 @@||scts.in^
 @@||scuf.co^
 @@||scurt.eu^
@@ -18954,6 +18955,7 @@
 @@||track.glovoapp.com^
 @@||track.grove.co^
 @@||track.gumroad.com^
+@@||track.m2.sendlayer.net^
 @@||track.mdrctr.com^
 @@||track.mydirectpromonews-ah.com^
 @@||track.nzz.ch^
@@ -18974,6 +18976,7 @@
 @@||track.trafficguard.ai^
 @@||track.ucas.com^
 @@||track01.engagelab.email^
+@@||track2.sendcloud.net^
 @@||track3.bsplegalmarketing.com^
 @@||track3.davydovlaw.com^
 @@||track34102166105.effiliation.com^
@@ -19099,6 +19102,7 @@
 @@||tripod.com^
 @@||trisula88short.xyz^
 @@||trizlink.com^
+@@||trk-eu.customer.io^
 @@||trk.affattr.com^
 @@||trk.cp20.com^
 @@||trk.ecomm.lenovo.com^
