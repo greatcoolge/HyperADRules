@@ -821,7 +821,6 @@ acer.com
 acer.link
 aces.mp
 aces.so
-acessa.app
 acessaurl.com
 acg.kr
 acg02.cc
@@ -901,7 +900,6 @@ ad.mcloud.139.com
 ad.samsungadhub.com
 ad.vu
 ad5.eu
-ad7.biz
 ada.support
 ada2.in
 adabook.cloud
@@ -935,7 +933,6 @@ adedownload.adobe.com
 adesp.link
 adesta.cc
 adf.ly
-adfa.st
 adfinis-sygroup.ch
 adfly.be
 adflydsp.com
@@ -948,7 +945,6 @@ adguard.com
 adguardteam.github.io
 adialerts.com
 adidas.com
-adil.win
 adition.com
 adiu.amap.com
 adj.st
@@ -1101,7 +1097,6 @@ aet.na
 aetna.com
 aeu.alicdn.com
 af.mopo.jp
-afb88.life
 afdian.com
 aff44.com
 affectit.cloud
@@ -2001,7 +1996,6 @@ anonymouse.org
 anp.su
 anquan.org
 anrdoezrs.net
-ansg.media
 answ.xyz
 answers.com
 answers.microsoft.com
@@ -3321,7 +3315,6 @@ bitbucket.io
 bitbucket.org
 bitcoin.com
 bitcoin.de
-bitcoinshortener.top
 bitdefender.net
 bitesli.com
 bitfinex.com
@@ -3618,7 +3611,6 @@ botelink.com
 botemoda.com
 botman.ninja
 boudie.link
-boudoirads.cc
 bowercdn.net
 box.com
 box.kaspersky.com
@@ -4986,7 +4978,6 @@ coinmama.com
 coinmarketcap.com
 coinmine.pl
 coinurl.com
-coki.me
 coklat.vip
 coles.com.au
 collateral.medium.com
@@ -20863,7 +20854,6 @@ vytext.com
 vz.to
 vzaar.com
 w.app
-w.big-appli.fr
 w.idg.de
 w.line.me
 w.org

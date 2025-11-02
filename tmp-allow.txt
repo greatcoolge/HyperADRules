@@ -503,7 +503,6 @@
 @@||acer.link^
 @@||aces.mp^
 @@||aces.so^
-@@||acessa.app^
 @@||acessaurl.com^
 @@||acg.kr^
 @@||acg02.cc^
@@ -535,7 +534,6 @@
 @@||ad.jp^
 @@||ad.lifesight.io^
 @@||ad5.eu^
-@@||ad7.biz^
 @@||ada2.in^
 @@||adabook.cloud^
 @@||adaxxcloud.com^
@@ -548,7 +546,6 @@
 @@||adesp.link^
 @@||adesta.cc^
 @@||adf.ly^
-@@||adfa.st^
 @@||adfly.be^
 @@||adflydsp.com^
 @@||adflyfly.com^
@@ -556,7 +553,6 @@
 @@||adform.com^
 @@||adfw2025.com^
 @@||adialerts.com^
-@@||adil.win^
 @@||adition.com^
 @@||adj.st^
 @@||adjh.pt^
@@ -654,7 +650,6 @@
 @@||aegyo.me^
 @@||aet.na^
 @@||af.mopo.jp^
-@@||afb88.life^
 @@||afdian.com^
 @@||aff44.com^
 @@||affectit.cloud^
@@ -850,7 +845,6 @@
 @@||anp.su^
 @@||anquan.org^
 @@||anrdoezrs.net^
-@@||ansg.media^
 @@||answ.xyz^
 @@||antinawala.team^
 @@||anx.io^
@@ -1371,7 +1365,6 @@
 @@||bit.do^
 @@||bit.ly^
 @@||bit24.live^
-@@||bitcoinshortener.top^
 @@||bitesli.com^
 @@||bitgg.co^
 @@||bitigee.com^
@@ -1525,7 +1518,6 @@
 @@||botemoda.com^
 @@||botman.ninja^
 @@||boudie.link^
-@@||boudoirads.cc^
 @@||bp-gc.in^
 @@||bp.cool^
 @@||bpapi.apple.com^
@@ -2155,7 +2147,6 @@
 @@||coinbarlink.net^
 @@||coinbot.kr^
 @@||coinclix.co^
-@@||coki.me^
 @@||coklat.vip^
 @@||collector-axa.cloud.ca.com^
 @@||comca.st^
@@ -10594,7 +10585,6 @@
 @@||vytext.com^
 @@||vz.to^
 @@||w.app^
-@@||w.big-appli.fr^
 @@||w.idg.de^
 @@||w.webicon.co.za^
 @@||w.wiki^
