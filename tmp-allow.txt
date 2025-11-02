@@ -196,7 +196,6 @@
 @@||3.cn^
 @@||3.ly^
 @@||301.link^
-@@||301.nz^
 @@||301.tv^
 @@||301l.ir^
 @@||30na.ma^
@@ -308,7 +307,6 @@
 @@||69run.fun^
 @@||6b.cz^
 @@||6bit.in^
-@@||6ct.org^
 @@||6du.in^
 @@||6g6.eu^
 @@||6mm.in^
@@ -10159,6 +10157,7 @@
 @@||urlcut.cv^
 @@||urlcut.in^
 @@||urlday.com^
+@@||urldirect21-1.org^
 @@||urldn.com^
 @@||urle.me^
 @@||urlenco.de^
@@ -10248,6 +10247,7 @@
 @@||urlshort.rest^
 @@||urlshort.xyz^
 @@||urlshort3x.com^
+@@||urlshort4.com^
 @@||urlshorten.link^
 @@||urlshortener-client.vercel.app^
 @@||urlshortener-cyan-five.vercel.app^
