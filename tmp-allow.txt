@@ -2439,7 +2439,6 @@
 @@||datalotrk.com^
 @@||dataurbia.com^
 @@||datayi.cn^
-@@||datenami.tw^
 @@||dausel.co^
 @@||davidbombal.wiki^
 @@||davidheardmemorialhardheadyderby.com^
@@ -2478,7 +2477,6 @@
 @@||dee.pl^
 @@||deepcore.in^
 @@||deeplink.page^
-@@||defigodirect.com^
 @@||dehe.ir^
 @@||deheh.ir^
 @@||deli.bz^
@@ -2559,7 +2557,6 @@
 @@||directpay.dev^
 @@||dis.gd^
 @@||dis.tl^
-@@||disanspam.life^
 @@||discount-forex.biz^
 @@||discover.com^
 @@||discover.tt.omtrdc.net^
@@ -7809,6 +7806,7 @@
 @@||sctrack.sendcloud.net^
 @@||scts.in^
 @@||scuf.co^
+@@||scur.cat^
 @@||scurt.eu^
 @@||sd.360.cn^
 @@||sd7.in^

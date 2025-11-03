@@ -5643,7 +5643,6 @@
 @@||dataurbia.com^
 @@||datayi.cn^
 @@||datei.to^
-@@||datenami.tw^
 @@||daum.net^
 @@||daumcdn.net^
 @@||dausel.co^
@@ -5732,7 +5731,6 @@
 @@||deeplink.page^
 @@||def-vef.xboxlive.com ^
 @@||def-vef.xboxlive.com^
-@@||defigodirect.com^
 @@||definitions.net^
 @@||dege.freeweb.hu^
 @@||dehe.ir^
@@ -5938,7 +5936,6 @@
 @@||dirtywarez.com^
 @@||dis.gd^
 @@||dis.tl^
-@@||disanspam.life^
 @@||disclose.tv^
 @@||discord.com^
 @@||discord.gg^
@@ -16271,6 +16268,7 @@
 @@||sctrack.sendcloud.net^
 @@||scts.in^
 @@||scuf.co^
+@@||scur.cat^
 @@||scurt.eu^
 @@||sd-ccdc.huawei.com^
 @@||sd.360.cn^
