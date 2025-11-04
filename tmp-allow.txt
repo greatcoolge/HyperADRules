@@ -1208,6 +1208,7 @@
 @@||bamerus.top^
 @@||banaccroblox.com^
 @@||bankcomm.com^
+@@||bankua.xyz^
 @@||bannercho.com^
 @@||banners.livepartners.com^
 @@||baoyung.com^
@@ -2483,7 +2484,6 @@
 @@||dct.klaviyodns.com^
 @@||dd.ma^
 @@||dd.myapp.com^
-@@||ddls.to^
 @@||ddot.to^
 @@||ddw.nu^
 @@||ddyunbo.com^
@@ -4687,7 +4687,6 @@
 @@||kutt.it^
 @@||kutt.itarian.com^
 @@||kutt.mariodian.com^
-@@||kutt.schantli.cloud^
 @@||kutt.this.team^
 @@||kutt.ural-agro.com^
 @@||kuttify.com^
@@ -6567,7 +6566,6 @@
 @@||onion.com^
 @@||online.adservicemedia.dk^
 @@||online.digital-advisor.com^
-@@||only-fans.click^
 @@||only.li^
 @@||onlyads.space^
 @@||onlyfansclub.live^
@@ -6938,7 +6936,6 @@
 @@||pkg.biligame.com^
 @@||pkg.pw^
 @@||pkv.li^
-@@||pkvg.link^
 @@||pl.taptap.cn^
 @@||pla.daisycon.io^
 @@||plabtainment.com^
@@ -7915,7 +7912,6 @@
 @@||se*.360simg.com^
 @@||se1.me^
 @@||seagate.media^
-@@||sealed.in^
 @@||seamlessqrcode.com^
 @@||search.google.com^
 @@||search.sogoucdn.com^

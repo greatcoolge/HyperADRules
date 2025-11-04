@@ -3020,6 +3020,7 @@ bankcomm.com
 banki.onet.pl
 bankofamerica.com
 bankrate.com
+bankua.xyz
 banner.play-asia.com
 bannercho.com
 banners.funimation.com
@@ -5699,7 +5700,6 @@ dct.klaviyodns.com
 dctrawler.dailycaller.com
 dd.ma
 dd.myapp.com
-ddls.to
 ddns.net
 ddos-guard.net
 ddot.to
@@ -10503,7 +10503,6 @@ kutt.isesaki.in
 kutt.it
 kutt.itarian.com
 kutt.mariodian.com
-kutt.schantli.cloud
 kutt.this.team
 kutt.ural-agro.com
 kuttify.com
@@ -13867,7 +13866,6 @@ online-metrix.net
 online.adservicemedia.dk
 online.digital-advisor.com
 onlinevideoconverter.com
-only-fans.click
 only.li
 onlyads.space
 onlyfansclub.live
@@ -14562,7 +14560,6 @@ pki.qualcomm.com
 pkobp.pl
 pkoplink.com
 pkv.li
-pkvg.link
 pl.gravatar.com
 pl.hide.me
 pl.ign.com
@@ -16391,7 +16388,6 @@ seal.ranking.com
 seal.validatedsite.com
 seal.verisign.com
 seal.websecurity.norton.com
-sealed.in
 seamlessqrcode.com
 seap.samsung.com
 search.breitbart.com
