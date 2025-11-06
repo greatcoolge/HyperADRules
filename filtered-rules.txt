@@ -219,6 +219,7 @@
 1vk.net
 1weather.onelouder.com
 1west.io
+1wn.bz
 1wrd.org
 1xbet.com
 1xfn.tech
@@ -355,6 +356,7 @@
 30tools.com
 316.coolapk1s.com
 31productions.de
+321url.com
 350.my
 360.cn
 360link.id
@@ -1169,6 +1171,7 @@ airfind.com
 airinstall.adobe.com
 airtable.com
 aiseet.atianqi.com
+aishorterlink.com
 aisubtitle.hdslb.com
 aisurl.com
 aitwwl.co
@@ -1299,6 +1302,7 @@ alongno1.live
 alpha-t.net
 alpha.camp
 alphab.gr
+alpinehr.ca
 als.baidu.com
 alsa.me
 alstr.in
@@ -2676,6 +2680,7 @@ asm.np.community.playstation.net
 asmhentai.com
 asmoah.com
 aspen.li
+aspireinstallations.live
 aspmx.l.google.com
 aspmx2.googlemail.com
 aspmx3.googlemail.com
@@ -2746,6 +2751,7 @@ astrazeneca.com
 asus.click
 asusrog.de
 at-blog.line.me
+at-home-show.me
 at.alicdn.com
 at.alicdn.com.danuoyi.alicdn.com
 at.ly
@@ -6489,6 +6495,7 @@ ebe.cool
 ebgames.com.au
 ebill.sydneywater.com.au
 ebookstore.sony.com
+ebvv.com
 eby.onl
 ec-encrypted-hls-media.sndcdn.com
 ec-hls-media.sndcdn.com
@@ -7304,6 +7311,7 @@ firstpost.com
 firstspot.com
 firsturl.de
 firsturl.net
+fis-royalcopenhagen-cdn.exponea.com
 fitgirl-repacks.site
 fitnur.com
 fits.marketing
@@ -8250,6 +8258,7 @@ gold.xhamsterpremium.com
 goldmoney.com
 goldn.cc
 golfgalaxy.com
+golink.bio
 golink.one
 golink.us
 golinker.in
@@ -8506,6 +8515,7 @@ goqr.me
 goqrgen.com
 gora.golf.rakuten.co.jp
 gorio.page
+goshopurl.com
 goshort.pro
 goshrink.com
 gosible6.click
@@ -11020,6 +11030,7 @@ link.io.hubs.vn
 link.iris.novabenefits.com
 link.josephjacobs.org
 link.medium.com
+link.miu2.fr
 link.mobupps.com
 link.mtvrs.it
 link.nayemador.com
@@ -11081,6 +11092,7 @@ linkai.in
 linkaku.homes
 linkaku.pro
 linkallstar.com
+linkaloo.it
 linkalp.com
 linkapp.click
 linkasli.pro
@@ -11162,6 +11174,7 @@ linking.is
 linkinghub.elsevier.com
 linkins.live
 linkinto.net
+linkio.it
 linkiq.co
 linkis.co
 linkis.com
@@ -11316,6 +11329,7 @@ linksto.bio
 linkstracer.com
 linksubmit.net
 linksumo.com
+linksvid.com
 linksvip.one
 linksy.io
 linksynergy.com
@@ -11334,6 +11348,7 @@ linktrap.co
 linktrimmer.com
 linktw.in
 linkunshorten.com
+linkur.co
 linkurltiny.com
 linkutama.app
 linkverified.net
@@ -11715,6 +11730,7 @@ ltc.cryptopia.co.nz
 ltd.ac
 ltdhunt.com
 ltl.bio
+ltnurl.com
 lttr.ai
 lu.api.mega.co.nz
 lua.sh
@@ -11762,6 +11778,7 @@ lyli.fi
 lyn.bz
 lync.cc
 lynk.ec
+lynkat.net
 lynkflow.me
 lynko.in
 lynks.in
@@ -12679,6 +12696,7 @@ mkto-ab010088.com
 mkto-ab020242.com
 mkto-ab040115.com
 mkto-ab060134.com
+mkto-ab060144.com
 mkto-ab060210.com
 mkto-ab070017.com
 mkto-ab090057.com
@@ -12710,6 +12728,7 @@ mkto-ab430114.com
 mkto-ab430187.com
 mkto-ab440025.com
 mkto-ab440098.com
+mkto-ab450015.com
 mkto-ab470148.com
 mkto-ab480059.com
 mkto-ab500174.com
@@ -12759,6 +12778,7 @@ mkto-sj100138.com
 mkto-sj130243.com
 mkto-sj140007.com
 mkto-sj140163.com
+mkto-sj170094.com
 mkto-sj180011.com
 mkto-sj190104.com
 mkto-sj190237.com
@@ -13004,6 +13024,7 @@ mrx.cl
 ms.bdstatic.com
 ms.gravatar.com
 ms0.org
+msai.news
 msatt.uk
 mscut.eu
 msdk.qq.com
@@ -13910,6 +13931,7 @@ ogwa.me
 oh.pn
 ohmy.link
 ohstitans.org
+ohuowd.com
 oidc.techcrunch.com
 oii.io
 oikit.link
@@ -13996,6 +14018,7 @@ onedrive.com
 onedrive.live.com
 onegov.nsw.gov.au
 oneid.mmstat.com
+onelink.com.do
 onelink.lt
 onelink.me
 onelink.to
@@ -14929,6 +14952,7 @@ pp.myapp.com
 pp.ru
 pp.ua
 pp.userapi.com
+ppa.as
 ppa.launchpad.net
 ppcprotect.com
 ppcsecure.com
@@ -15389,6 +15413,7 @@ qrcaard.com
 qrcc.me
 qrco.de
 qrcode.ai
+qrcode.im
 qrcode.pl
 qrcode.primetecnologia.net.br
 qrcood.com
@@ -15417,6 +15442,7 @@ qroozer.com
 qrouton.jp
 qrpathway.com
 qrpol.com
+qrpro.net
 qrs.ly
 qrtag.fr
 qrtli.com
@@ -15957,6 +15983,7 @@ rlx.org
 rlxp.com
 rly.pt
 rm.flowplayer.com
+rmmlink.com
 rmsc.io
 rmuti.me
 rndrlink.com
@@ -16969,6 +16996,7 @@ shopnearme.us
 shopping.line.me
 shopping.naver.com
 shoppy.gg
+shoptapkich.site
 shor.td
 shorix.ru
 shorkit.com
@@ -17090,6 +17118,7 @@ shortenurl.app
 shortenurl.org
 shortenurls.eu
 shortenworld.com
+shortenx.com
 shortenx.eu
 shorter.gg
 shorterall.com
@@ -17505,6 +17534,7 @@ skypeassets.com
 skyrock.com
 skysss.uk
 skyurl.cc
+sl.duyluandethuong.id.vn
 sl.gravatar.com
 sl0.us
 sl4.me
@@ -17840,6 +17870,7 @@ spedr.com
 speed4up.com
 speedbit.com
 speedtest.net
+speedyshort.com
 spencersonline.com
 spgo.io
 spgrp.sg
@@ -17981,6 +18012,7 @@ ssl.reddit.com
 ssl0.ovh.net
 sslbl.abuse.ch
 sslshare.gshifen.com
+ssly.us
 ssm.pd.biv.sony.tv
 ssm1.internet.sony.tv
 sso.spot.im
@@ -18449,6 +18481,7 @@ suggestqueries.google.com
 sugs.m.sm.cn
 suite-dashboard.gservice.emarsys.net
 suite.emarsys.net
+suite1.emarsys.net
 suite10.emarsys.net
 suite11.emarsys.net
 suite12.emarsys.net
@@ -19058,6 +19091,7 @@ testingcf.jsdelivr.net.cdn.cloudflare.net
 testit.miui.com
 testkitchen.huffingtonpost.com
 tetherlink.us
+texas-lands.org
 texas.gov
 texas88register.com
 texas88vvip.org
@@ -19395,6 +19429,7 @@ tmidao.com
 tmidaos.com
 tmisc.home.news.cn
 tmlabs.in
+tmm.mx
 tmsnrt.rs
 tmt.pw
 tmz.com
@@ -19908,6 +19943,7 @@ turbobit.net
 turlt.com
 turlw.com
 turner.com
+turnonthesubtitles.org
 turo.us
 turtl.ink
 turtlink.com
@@ -20528,6 +20564,7 @@ urls.oenet.gr
 urls.ovh
 urls.to
 urls.visionrocket.com
+urls1xx.com
 urlsear.ch
 urlsh.us
 urlshor.com
@@ -23278,6 +23315,7 @@ x.gd
 x.kinja-static.com
 x.nu
 x0.ifengimg.com
+x0xdesign.com
 x10.mx
 x10hosting.com
 x11.pw
