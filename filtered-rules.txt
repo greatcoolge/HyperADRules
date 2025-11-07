@@ -2471,6 +2471,7 @@ app.mi.com
 app.migc.xiaomi.com
 app.miui.com
 app.moviequik.com
+app.myotherapy.edu
 app.myvcrd.com
 app.next.exchange
 app.onesignal.com
@@ -2535,6 +2536,7 @@ apple.co
 apple.com
 appleid.apple.com
 appleid.cdn-apple.com
+appliansys.com
 applnx.com
 apply-here.live
 apply.lg.com
@@ -2991,6 +2993,7 @@ b23.ru
 b23.tv
 b2g.tech
 b2n.ir
+b2s.io
 b2u.io
 b33.fr
 b54.in
@@ -3373,6 +3376,7 @@ bitl.to
 bitlee.site
 bitley.in
 bitli.li
+bitlink.one
 bitlnx.com
 bitly.com
 bitly.cx
@@ -5432,6 +5436,7 @@ ctfl.io
 ctfn.cc
 ctldl.windowsupdate.com
 ctldl.windowsupdate.com 
+ctos.xyz
 ctr.sh
 ctrip.com
 ctrllinks.com
@@ -6527,6 +6532,7 @@ ecomm.stg.mpay.samsung.com
 econ.st
 economist.com
 ecra.se
+ect.to
 ed.gov
 ed.gr
 ed.rdtcdn.com
@@ -8131,6 +8137,7 @@ go.id.me
 go.iec.ch
 go.ign.com
 go.infoblox.com
+go.integritymatters.life
 go.intel-academy.com
 go.intensibio.com
 go.intigriti.com
@@ -8641,6 +8648,7 @@ gsght.com
 gskvn.live
 gsmarena.com
 gsms.jp
+gsor.net
 gsp0.baidu.com
 gsp1.apple.com
 gsp1.baidu.com
@@ -8702,6 +8710,7 @@ gvt1.com
 gvt2.com
 gw.alicdn.com
 gw.alipayobjects.com
+gw.ie
 gx-target-experiments-frontend-api.gx.nvidia.com
 gyan.dev
 gyanilinks.com
@@ -9851,6 +9860,7 @@ investorplace.com
 investorwords.com
 invisioncic.com
 invisioncode.com
+invitationlinks.com
 invite.integration.viber.com
 invite.twitch.tv
 invite.viber.com
@@ -11023,6 +11033,7 @@ link.gy
 link.hexlet.io
 link.hritbot.com
 link.hxfb.org.au
+link.id.vn
 link.inexxus.com.br
 link.infini.fr
 link.intract.io
@@ -11244,6 +11255,7 @@ linkoqr.com
 linkotomy.com
 linkp.ir
 linkp.online
+linkpage.it
 linkpara.bio
 linkpatel.com
 linkpays.in
@@ -11273,6 +11285,7 @@ links.ec
 links.em.ign.com
 links.email.crunchbase.com
 links.geneasens.com
+links.iona.ai
 links.iterable.com
 links.luckreceptivo.com.br
 links.minipcr.com
@@ -11323,6 +11336,7 @@ linksqr.co
 linksqueeze.io
 linksredirect.com
 linksshift.com
+linksshortcut.com
 linksshortner.com
 linkstack.co
 linksto.bio
@@ -12636,6 +12650,7 @@ minutemediacdn.com
 minzap.com
 miol4.me
 mip.xiachufang.com
+mipha.app
 mipon.xyz
 mir-s3-cdn-cf.behance.net
 mirror.cedia.org.ec
@@ -14151,6 +14166,7 @@ order.mi.com
 orders.coinmarketcap.com
 orders.costco.com
 ore.do
+orek.app
 org-ap.samsung.com
 org-fota-dn.ospserver.net
 org.downloadcenter.samsung.com
@@ -15437,6 +15453,7 @@ qrls.app
 qrly.io
 qrly.uk
 qrme.be
+qrnamic.com
 qrnesign.com
 qroozer.com
 qrouton.jp
@@ -15909,6 +15926,7 @@ rethinktw.cc
 retont.link
 retro-bit.com
 returnpath.com
+reurl.in
 reut.rs
 reuters.com
 rev.cm
@@ -16000,6 +16018,7 @@ ro.wikipedia.com
 road.adblock.ro
 roadandtrack.com
 roar.media
+roblox.com.nf
 robul.saas.workertm.com
 rochester.edu
 rockbridge.info
@@ -16023,6 +16042,7 @@ roosterteeth.com
 rooutt.io
 roq.to
 rosibee.com
+ross.education
 rouletteonline.live
 rounash.com
 routecontent.com
@@ -16118,6 +16138,7 @@ rutgonurl.com
 rutube.ru
 ruvi.me
 rv2.com
+rvrsd.org
 rvtv.io
 rvv.rocks
 rvwd.co
@@ -16177,6 +16198,7 @@ s.coinmarketcap.com
 s.compass.com
 s.coop
 s.deemos.com
+s.deinventive.com
 s.ea-bank.com
 s.ecchorights.com
 s.ee
@@ -16937,6 +16959,7 @@ shell-cdn.marketing.adobe.com
 shellfix.nirsoft.net
 shenfenzheng.bmcx.com
 shenghuo.xiaomi.com
+shentharindu.com
 shero.link
 shervas.com
 sheve.me
@@ -17163,6 +17186,7 @@ shortlink.ibc.dk
 shortlink.one
 shortlink.sbs
 shortlink.uk
+shortlink1.com
 shortlink88.xyz
 shortlinkgenerator.com
 shortlinkpanel.com
@@ -17635,6 +17659,7 @@ smlfy.com
 smlk.es
 smll.cc
 smlnk.us
+smlr.nu
 smokingwheels.github.io
 smol.re
 smoner.com
@@ -19868,6 +19893,7 @@ trustguss.io
 trustlist.adobe.com
 trustmeb.ro
 trustpilot.com
+trv.is
 try.a-pay.one
 try.mk
 try2link.com
@@ -20603,6 +20629,7 @@ urlshortx.com
 urlshortx.io
 urlshorty.metaapps.com
 urlshot.pro
+urlshoter.com
 urlshtr.com
 urlsmall.com
 urlsmall.link
@@ -21064,6 +21091,7 @@ vipp.link
 viprupiah138.net
 vipslot4d.site
 viraatlabs.com
+viralme.me
 viraln.co
 viralpep.com
 viralurl.com
@@ -23489,6 +23517,7 @@ xxxdwz.co
 xxxdwz.com
 xxxdwz.pro
 xxxl.ink
+xy.ar
 xycdn.com.gslb.kuiniuca.com
 xyq.163.com
 xywy.com
