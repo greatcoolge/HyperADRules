@@ -706,6 +706,7 @@
 @@||ab.co^
 @@||ab1n.net^
 @@||abar.in^
+@@||abbr.site^
 @@||abbreurl.com^
 @@||abbreviations.com^
 @@||abbriv.com^
@@ -919,6 +920,7 @@
 @@||ad.samsungadhub.com^
 @@||ad.vu^
 @@||ad5.eu^
+@@||ad7.biz^
 @@||ada.support^
 @@||ada2.in^
 @@||adabook.cloud^
@@ -2016,6 +2018,7 @@
 @@||animeseason.com^
 @@||anizam.ru^
 @@||anlink.eu^
+@@||anmeld.biz^
 @@||annabelparr.com^
 @@||annah.ar^
 @@||annas-archive.org^
@@ -2662,6 +2665,7 @@
 @@||as.com^
 @@||as.flipboard.com^
 @@||as.mgtv.com^
+@@||as1ansl0t88.site^
 @@||asahi.com^
 @@||asap.to^
 @@||asc.cool^
@@ -3380,6 +3384,7 @@
 @@||bitigee.com^
 @@||bitily.com.br^
 @@||bitit.io^
+@@||bitl.app^
 @@||bitl.to^
 @@||bitlee.site^
 @@||bitley.in^
@@ -3590,6 +3595,7 @@
 @@||bmr.li^
 @@||bmtrck.com^
 @@||bn.gravatar.com^
+@@||bn8.us^
 @@||bnc.lt^
 @@||bnds.in^
 @@||bndspn.com^
@@ -3669,6 +3675,7 @@
 @@||botemoda.com^
 @@||botman.ninja^
 @@||boudie.link^
+@@||boudoirads.cc^
 @@||bowercdn.net^
 @@||box.com^
 @@||box.kaspersky.com^
@@ -3790,6 +3797,7 @@
 @@||bti.ninja^
 @@||btiliy.com^
 @@||btly.cc^
+@@||btly.me^
 @@||btm.li^
 @@||btstatic.com^
 @@||btty.in^
@@ -4926,6 +4934,7 @@
 @@||cloudopenlabs.huawei.com^
 @@||cloudresourcemanager.googleapis.com^
 @@||cloudservices.roku.com^
+@@||cloudshrinker.com^
 @@||cloudtechlinks.com^
 @@||cloudtrace.googleapis.com^
 @@||clourls.com^

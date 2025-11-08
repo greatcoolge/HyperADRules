@@ -456,6 +456,7 @@
 @@||ab.co^
 @@||ab1n.net^
 @@||abar.in^
+@@||abbr.site^
 @@||abbreurl.com^
 @@||abbriv.com^
 @@||abbriv.info^
@@ -547,6 +548,7 @@
 @@||ad.jp^
 @@||ad.lifesight.io^
 @@||ad5.eu^
+@@||ad7.biz^
 @@||ada2.in^
 @@||adabook.cloud^
 @@||adaxxcloud.com^
@@ -863,6 +865,7 @@
 @@||animerep.com^
 @@||anizam.ru^
 @@||anlink.eu^
+@@||anmeld.biz^
 @@||annabelparr.com^
 @@||annah.ar^
 @@||annas-archive.org^
@@ -1052,6 +1055,7 @@
 @@||arttrk.com^
 @@||arurl.us^
 @@||arus.cc^
+@@||as1ansl0t88.site^
 @@||asap.to^
 @@||asc.cool^
 @@||ase.ink^
@@ -1420,6 +1424,7 @@
 @@||bitgg.co^
 @@||bitigee.com^
 @@||bitily.com.br^
+@@||bitl.app^
 @@||bitl.to^
 @@||bitlee.site^
 @@||bitley.in^
@@ -1518,6 +1523,7 @@
 @@||bmai.cc^
 @@||bmr.li^
 @@||bmtrck.com^
+@@||bn8.us^
 @@||bnc.lt^
 @@||bnds.in^
 @@||bndspn.com^
@@ -1571,6 +1577,7 @@
 @@||botemoda.com^
 @@||botman.ninja^
 @@||boudie.link^
+@@||boudoirads.cc^
 @@||bp-gc.in^
 @@||bp.cool^
 @@||bpapi.apple.com^
@@ -1640,6 +1647,7 @@
 @@||bti.ninja^
 @@||btiliy.com^
 @@||btly.cc^
+@@||btly.me^
 @@||btm.li^
 @@||btty.in^
 @@||btwrdn.com^
@@ -2162,6 +2170,7 @@
 @@||cloudmail18.netcore.co.in^
 @@||cloudmail19.netcore.co.in^
 @@||cloudmail20.netcore.co.in^
+@@||cloudshrinker.com^
 @@||cloudtechlinks.com^
 @@||clourls.com^
 @@||clpr.tn^

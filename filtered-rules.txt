@@ -700,6 +700,7 @@ aax-us-iad.amazon.com
 ab.co
 ab1n.net
 abar.in
+abbr.site
 abbreurl.com
 abbreviations.com
 abbriv.com
@@ -913,6 +914,7 @@ ad.mcloud.139.com
 ad.samsungadhub.com
 ad.vu
 ad5.eu
+ad7.biz
 ada.support
 ada2.in
 adabook.cloud
@@ -2010,6 +2012,7 @@ animerep.com
 animeseason.com
 anizam.ru
 anlink.eu
+anmeld.biz
 annabelparr.com
 annah.ar
 annas-archive.org
@@ -2656,6 +2659,7 @@ arv.us
 as.com
 as.flipboard.com
 as.mgtv.com
+as1ansl0t88.site
 asahi.com
 asap.to
 asc.cool
@@ -3374,6 +3378,7 @@ bithumb.com
 bitigee.com
 bitily.com.br
 bitit.io
+bitl.app
 bitl.to
 bitlee.site
 bitley.in
@@ -3584,6 +3589,7 @@ bmj.com
 bmr.li
 bmtrck.com
 bn.gravatar.com
+bn8.us
 bnc.lt
 bnds.in
 bndspn.com
@@ -3663,6 +3669,7 @@ botelink.com
 botemoda.com
 botman.ninja
 boudie.link
+boudoirads.cc
 bowercdn.net
 box.com
 box.kaspersky.com
@@ -3784,6 +3791,7 @@ btf.st
 bti.ninja
 btiliy.com
 btly.cc
+btly.me
 btm.li
 btstatic.com
 btty.in
@@ -4920,6 +4928,7 @@ cloudmail20.netcore.co.in
 cloudopenlabs.huawei.com
 cloudresourcemanager.googleapis.com
 cloudservices.roku.com
+cloudshrinker.com
 cloudtechlinks.com
 cloudtrace.googleapis.com
 clourls.com
