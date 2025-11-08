@@ -5492,6 +5492,7 @@
 @@||custody.coinbase.com^
 @@||custom.bnc.lt^
 @@||customerevents.netflix.com^
+@@||customers.my^
 @@||customlinks.appsflyer.com^
 @@||customtraffic.impactradius.com^
 @@||customurlshortener.com^
@@ -5547,6 +5548,7 @@
 @@||cutts.in^
 @@||cutturl.xyz^
 @@||cutu.me^
+@@||cutur.link^
 @@||cuturl.cloud^
 @@||cuturl.com^
 @@||cuturl.net^
@@ -5750,6 +5752,7 @@
 @@||dbl.oisd.nl^
 @@||dblp.org^
 @@||dbolink.com^
+@@||dbox.lol^
 @@||dbregistration.cuteftp.com^
 @@||dbricks.co^
 @@||dc-e70d1ce32117.chia-anime.tv^
@@ -5772,6 +5775,7 @@
 @@||dctrawler.dailycaller.com^
 @@||dd.ma^
 @@||dd.myapp.com^
+@@||ddls.to^
 @@||ddns.net^
 @@||ddos-guard.net^
 @@||ddot.to^
@@ -6177,6 +6181,7 @@
 @@||doctor.ndtv.com^
 @@||doctorpk.mywibes.com^
 @@||dog.bin^
+@@||dogelexus.win^
 @@||dogelexusin.store^
 @@||doh.dns.apple.com^
 @@||doi.org^
@@ -6286,6 +6291,7 @@
 @@||dp.blog.naver.com^
 @@||dp8hsntg6do36.cloudfront.net^
 @@||dpb.fm^
+@@||dpb.link^
 @@||dpba2404.com^
 @@||dpbolvw.net^
 @@||dpessm.com^
@@ -6485,6 +6491,7 @@
 @@||easyanticheat.net^
 @@||easybio.info^
 @@||easybytez.com^
+@@||easycut.io^
 @@||easylinkref.com^
 @@||easylinks.vercel.app^
 @@||easylist-downloads.adblockplus.org^
@@ -6648,6 +6655,7 @@
 @@||elegantthemes.com^
 @@||elephantjournal.com^
 @@||elev.eu^
+@@||elfdirect.com^
 @@||eliasbrickner.com^
 @@||elink.ly^
 @@||elita.fr^
@@ -6810,6 +6818,7 @@
 @@||epix.xbox.com^
 @@||epizy.com^
 @@||epl.paypal-communication.com^
+@@||eplt.net^
 @@||epmlnk.io^
 @@||epochtim.es^
 @@||epochtimes.com^
@@ -7400,6 +7409,7 @@
 @@||flx.to^
 @@||fly.yt^
 @@||fly2.ws^
+@@||fly4win.com^
 @@||flyra.link^
 @@||flys.pw^
 @@||flyurls.com^
@@ -7628,6 +7638,7 @@
 @@||fst.ink^
 @@||fstgo.to^
 @@||fstrk.cc^
+@@||fsu.ro^
 @@||fsv.tf^
 @@||ft.com^
 @@||ft.tt^
@@ -7811,6 +7822,7 @@
 @@||gc.apple.com^
 @@||gc.fe.apple-dns.net^
 @@||gc.zgo.at^
+@@||gclnk.com^
 @@||gcloudcs.com^
 @@||gcp.api.snapchat.com^
 @@||gcs.sc-cdn.net^
@@ -9008,6 +9020,7 @@
 @@||hn.algolia.com^
 @@||hncinnamon.com^
 @@||hnd.bio^
+@@||hnpa.top^
 @@||hnsl.mn^
 @@||hnz.li^
 @@||ho.io^
@@ -9119,6 +9132,7 @@
 @@||hrbrg.co^
 @@||hrcs.huawei.com^
 @@||href.ar^
+@@||href.in^
 @@||href.li^
 @@||href.pw^
 @@||hrshort.com^
@@ -9200,6 +9214,7 @@
 @@||hurirk.net^
 @@||hurl.com^
 @@||hurl.it^
+@@||hurl.me^
 @@||hurl.ws^
 @@||husband92.com^
 @@||hut.bz^
@@ -12753,6 +12768,7 @@
 @@||mkto-ab330062.com^
 @@||mkto-ab330197.com^
 @@||mkto-ab340022.com^
+@@||mkto-ab350042.com^
 @@||mkto-ab390087.com^
 @@||mkto-ab400124.com^
 @@||mkto-ab420081.com^
@@ -12774,6 +12790,7 @@
 @@||mkto-ab560119.com^
 @@||mkto-ab570110.com^
 @@||mkto-ab580004.com^
+@@||mkto-ab600004.com^
 @@||mkto-ab620045.com^
 @@||mkto-ab630144.com^
 @@||mkto-ab640193.com^
@@ -12791,6 +12808,7 @@
 @@||mkto-j0126.com^
 @@||mkto-lon030291.com^
 @@||mkto-lon040152.com^
+@@||mkto-lon060131.com^
 @@||mkto-lon080006.com^
 @@||mkto-lon090082.com^
 @@||mkto-lon100059.com^
