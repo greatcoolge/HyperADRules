@@ -6105,6 +6105,7 @@
 @@||dl.update.micloud.xiaomi.net^
 @@||dl.xda-developers.com^
 @@||dl.xposed.info^
+@@||dl.zuimeitianqi.com^
 @@||dl100.cc^
 @@||dl2.files.xiaomi.net^
 @@||dl2.soft98.ir^
@@ -10103,6 +10104,7 @@
 @@||ja-jp.about.flipboard.com^
 @@||ja.cat^
 @@||ja.gravatar.com^
+@@||ja.ma^
 @@||ja.wikipedia.com^
 @@||jabcreations.com^
 @@||jacepayment.airasia.com^
@@ -10372,6 +10374,7 @@
 @@||kaas.gg^
 @@||kabuzzle.com^
 @@||kagca.link^
+@@||kagk.top^
 @@||kaipuyun.cn^
 @@||kaitect.com^
 @@||kakaotv.daum.net^
@@ -10400,6 +10403,7 @@
 @@||kb.adguard.com^
 @@||kbank.co^
 @@||kbit.co^
+@@||kbitly.com^
 @@||kccim.ir^
 @@||kck.st^
 @@||kcsoftwares.com^
@@ -10731,6 +10735,7 @@
 @@||lab.vcc-ie.huawei.com^
 @@||laban.vn^
 @@||labarchitects.com^
+@@||labb.in^
 @@||labs-cdn.revcontent.com^
 @@||labs-dl.xda-cdn.com^
 @@||labs-lb.xda-developers.com^
@@ -11138,6 +11143,7 @@
 @@||linkaloo.it^
 @@||linkalp.com^
 @@||linkapp.click^
+@@||linkasd.com^
 @@||linkasli.pro^
 @@||linkatra.com^
 @@||linkb.ee^
@@ -11221,6 +11227,7 @@
 @@||linkiq.co^
 @@||linkis.co^
 @@||linkis.com^
+@@||linkis.xyz^
 @@||linkit.net^
 @@||linkit4.me^
 @@||linkiti.com^
@@ -11260,12 +11267,14 @@
 @@||linkly.info^
 @@||linkly.qa^
 @@||linklyhq.com^
+@@||linklytics.com^
 @@||linkme.lol^
 @@||linkme.page^
 @@||linkmeow.com^
 @@||linkmix.co^
 @@||linkmngr.com^
 @@||linkmonet.com^
+@@||linkmpomax.live^
 @@||linkmu.cyou^
 @@||linkmybrand.com^
 @@||linkmyurl.com^
@@ -11285,6 +11294,7 @@
 @@||linkopeners.com^
 @@||linkoqr.com^
 @@||linkotomy.com^
+@@||linkotw.live^
 @@||linkp.ir^
 @@||linkp.online^
 @@||linkpage.it^
@@ -11414,6 +11424,7 @@
 @@||linkze.me^
 @@||linkzone.live^
 @@||linode.com^
+@@||linq.ist^
 @@||linqer.me^
 @@||linqr.cc^
 @@||linqup.in^
@@ -12117,6 +12128,7 @@
 @@||mac.search.naver.com^
 @@||mac.xunlei.com^
 @@||macanplay.click^
+@@||macau123.link^
 @@||maccms.com^
 @@||machess.org^
 @@||mackeeper.com^
@@ -12470,6 +12482,7 @@
 @@||mega.io^
 @@||mega.nz^
 @@||megagames.com^
+@@||megalink.pro^
 @@||megalink.vip^
 @@||megapay.online^
 @@||megasite.link^
@@ -13311,6 +13324,7 @@
 @@||myunidays.com^
 @@||myup.work^
 @@||myurl.id^
+@@||myurl.in^
 @@||myurl.ly^
 @@||myurls.ca^
 @@||mywot.com^
@@ -13367,6 +13381,7 @@
 @@||naik-terus.com^
 @@||nakama420.xyz^
 @@||nakdetail.com^
+@@||nalo.life^
 @@||nam02.safelinks.protection.outlook.com^
 @@||nam04.safelinks.protection.outlook.com^
 @@||name.ly^
@@ -13381,6 +13396,7 @@
 @@||nanorep.com^
 @@||nanourl.in^
 @@||nanourl.org^
+@@||nanuba.com^
 @@||naomy.cdntrex.com^
 @@||naping.igamecj.com^
 @@||napisy24.pl^
@@ -13640,6 +13656,7 @@
 @@||nk.pl^
 @@||nkbp.jp^
 @@||nkf.re^
+@@||nkisa.link^
 @@||nks.li^
 @@||nkxe.com^
 @@||nl-1.hide.me^
@@ -14725,6 +14742,7 @@
 @@||pic8.58cdn.com.cn^
 @@||picasso-static.xiaohongshu.com^
 @@||pich.in^
+@@||picklink.me^
 @@||pics.ebaystatic.com^
 @@||pics.hentai.name^
 @@||picsee.co^
@@ -14798,6 +14816,7 @@
 @@||pkobp.pl^
 @@||pkoplink.com^
 @@||pkv.li^
+@@||pkvg.link^
 @@||pl.gravatar.com^
 @@||pl.hide.me^
 @@||pl.ign.com^
@@ -19879,6 +19898,7 @@
 @@||trk.flexitrck.com^
 @@||trk.genieshopping.com^
 @@||trk.grdhub.com^
+@@||trk.grmcart.com^
 @@||trk.innodsk.com^
 @@||trk.jetstrms.com^
 @@||trk.klclick.com^

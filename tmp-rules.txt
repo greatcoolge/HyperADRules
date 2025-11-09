@@ -3523,6 +3523,7 @@
 @@||dl.update.micloud.xiaomi.net^
 @@||dl.xda-developers.com^
 @@||dl.xposed.info^
+@@||dl.zuimeitianqi.com^
 @@||dl2.files.xiaomi.net^
 @@||dl2.soft98.ir^
 @@||dlassets-ssl.xboxlive.com^
