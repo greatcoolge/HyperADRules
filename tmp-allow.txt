@@ -11067,6 +11067,7 @@
 @@||viplink.us^
 @@||vipp.link^
 @@||viprupiah138.net^
+@@||vipshortener.com^
 @@||vipslot4d.site^
 @@||viraatlabs.com^
 @@||viralme.me^
@@ -11137,10 +11138,12 @@
 @@||vsl.im^
 @@||vslinks.com^
 @@||vt802.us^
+@@||vtity.com^
 @@||vtns.io^
 @@||vtred.co^
 @@||vtred.net^
 @@||vtru.xyz^
+@@||vttje.top^
 @@||vtu.cc^
 @@||vturl.net^
 @@||vu.fr^
@@ -11344,6 +11347,7 @@
 @@||wmg.click^
 @@||wmojo.com^
 @@||wn.nr^
+@@||wndhj.top^
 @@||wndt.nl^
 @@||wns-academy.live^
 @@||wo.ws^
@@ -11390,6 +11394,7 @@
 @@||wsdl.360safe.com^
 @@||wslat.net^
 @@||wso.li^
+@@||wssurl.com^
 @@||wsurl.link^
 @@||wtc.la^
 @@||wtfurl.com^
@@ -11404,6 +11409,7 @@
 @@||wuxia.163.com^
 @@||ww7.fr^
 @@||wwat.ch^
+@@||wwdurl.com^
 @@||wwf.to^
 @@||wwp.news^
 @@||wwtt.to^
