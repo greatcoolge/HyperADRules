@@ -2263,6 +2263,7 @@
 @@||configuration.apple.com^
 @@||congress.international^
 @@||conify.cc^
+@@||connect.intel.com^
 @@||connect.rom.miui.com^
 @@||conns.life^
 @@||consiseurl.com^
@@ -8537,6 +8538,7 @@
 @@||shortenerlink.xyz^
 @@||shortenerreviews.com^
 @@||shorteners.net^
+@@||shortenerurl.site^
 @@||shortenfor.me^
 @@||shortengine.dev^
 @@||shortenlab.com^

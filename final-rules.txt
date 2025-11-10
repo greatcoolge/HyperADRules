@@ -5187,6 +5187,7 @@
 @@||connect.ebay.com^
 @@||connect.facebook.net^
 @@||connect.googleforwork.com^
+@@||connect.intel.com^
 @@||connect.ok.ru^
 @@||connect.rom.miui.com^
 @@||connect.sonymobile.com^
@@ -17249,6 +17250,7 @@
 @@||shortenerlink.xyz^
 @@||shortenerreviews.com^
 @@||shorteners.net^
+@@||shortenerurl.site^
 @@||shortenfor.me^
 @@||shortengine.dev^
 @@||shortenlab.com^
