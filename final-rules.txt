@@ -974,7 +974,6 @@
 @@||adguardteam.github.io^
 @@||adialerts.com^
 @@||adidas.com^
-@@||adition.com^
 @@||adiu.amap.com^
 @@||adj.st^
 @@||adjh.pt^
