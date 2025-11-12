@@ -661,6 +661,7 @@
 @@||adurly.cc^
 @@||adv.li^
 @@||adv.pe^
+@@||advartiso.com^
 @@||advisable.link^
 @@||advise.gallup.com^
 @@||advmyc.com^
@@ -780,6 +781,7 @@
 @@||alitems.site^
 @@||all-link.me^
 @@||allamericanpatriots.com^
+@@||allbio.link^
 @@||alldomainwhois.xyz^
 @@||alli.pub^
 @@||allinonetab.com^
@@ -1432,6 +1434,7 @@
 @@||bit.ly^
 @@||bit24.live^
 @@||bitesli.com^
+@@||bitfy.cc^
 @@||bitgg.co^
 @@||bitigee.com^
 @@||bitily.com.br^
@@ -1474,6 +1477,7 @@
 @@||bitx.bio^
 @@||bity.la^
 @@||bity.onl^
+@@||bityl.co^
 @@||bityvirt.com^
 @@||bityvnd.com^
 @@||bityvnn.com^
@@ -2137,6 +2141,7 @@
 @@||client-api.arkoselabs.com^
 @@||clientlinks.net^
 @@||clients4.google.com^
+@@||clik.now^
 @@||clikk.in^
 @@||clikly.link^
 @@||clikr.ir^
@@ -2309,6 +2314,7 @@
 @@||coz.de^
 @@||cp4.cloudflare.com^
 @@||cpamarketing.ro^
+@@||cpbr.link^
 @@||cpdnet.org^
 @@||cpe.dotomi.com^
 @@||cph.bz^
@@ -2747,6 +2753,7 @@
 @@||doiop.com^
 @@||dojobe.link^
 @@||dollinx-hyperlink.vercel.app^
+@@||dolr.in^
 @@||domains-ws.revved.com^
 @@||domi.link^
 @@||dominos.sng.link^
@@ -4444,6 +4451,7 @@
 @@||iplis.ru^
 @@||iplog.co^
 @@||iplog.link^
+@@||iplogger.cn^
 @@||iplogger.co^
 @@||iplogger.info^
 @@||iplogger.org^
@@ -5850,6 +5858,7 @@
 @@||magaus.co^
 @@||magaus.net^
 @@||magaus.org^
+@@||magaus.xyz^
 @@||mah.to^
 @@||maha77.site^
 @@||mai.91kami.com^
@@ -6103,6 +6112,7 @@
 @@||minilink.io^
 @@||minilink.pro^
 @@||minilinked.com^
+@@||minily.org^
 @@||minitv.fun^
 @@||miniurl.be^
 @@||miniurl.com^
@@ -8726,6 +8736,7 @@
 @@||shorturl.re^
 @@||shorturl.ru^
 @@||shorturl.vtcode.vn^
+@@||shorturl.win^
 @@||shorturl.ws^
 @@||shorturl88.com^
 @@||shorturlapp.com^
@@ -8793,6 +8804,7 @@
 @@||shrinkme.pro^
 @@||shrinkme.site^
 @@||shrinkme.space^
+@@||shrinkme.top^
 @@||shrinkme.us^
 @@||shrinkme.vip^
 @@||shrinkmyurl.com^
@@ -11841,6 +11853,7 @@
 @@||ytube.io^
 @@||ytubl.ink^
 @@||ytxt.mobi^
+@@||yu3.io^
 @@||yubi.co^
 @@||yui.co^
 @@||yuk.nu^

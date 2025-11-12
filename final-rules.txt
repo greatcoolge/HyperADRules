@@ -1101,6 +1101,7 @@
 @@||adv.pe^
 @@||adv.sec.miui.com^
 @@||advanceautoparts.com^
+@@||advartiso.com^
 @@||advertising.com^
 @@||advertising.soundcloud.com^
 @@||advil.waze.com^
@@ -1293,6 +1294,7 @@
 @@||all.spot.im^
 @@||allaboutcookies.org^
 @@||allamericanpatriots.com^
+@@||allbio.link^
 @@||alldebrid.com^
 @@||alldomainwhois.xyz^
 @@||allegro.pl^
@@ -3390,6 +3392,7 @@
 @@||bitesli.com^
 @@||bitfinex.com^
 @@||bitfury.com^
+@@||bitfy.cc^
 @@||bitgg.co^
 @@||bithumb.com^
 @@||bitigee.com^
@@ -3439,6 +3442,7 @@
 @@||bitx.bio^
 @@||bity.la^
 @@||bity.onl^
+@@||bityl.co^
 @@||bityvirt.com^
 @@||bityvnd.com^
 @@||bityvnn.com^
@@ -4878,6 +4882,7 @@
 @@||clientsc.alipay.com^
 @@||clientstream.intuit.launchdarkly.com^
 @@||clientstream.launchdarkly.com^
+@@||clik.now^
 @@||clikk.in^
 @@||clikly.link^
 @@||clikr.ir^
@@ -5315,6 +5320,7 @@
 @@||cpamarketing.ro^
 @@||cpanel.com^
 @@||cpanel.net^
+@@||cpbr.link^
 @@||cpdnet.org^
 @@||cpe.dotomi.com^
 @@||cph.bz^
@@ -6217,6 +6223,7 @@
 @@||dojobe.link^
 @@||dolcegabbana.com^
 @@||dollinx-hyperlink.vercel.app^
+@@||dolr.in^
 @@||domain-api.rebrandly.com^
 @@||domain.dot.tk^
 @@||domainactive.co^
@@ -9999,6 +10006,7 @@
 @@||iplists.firehol.org^
 @@||iplog.co^
 @@||iplog.link^
+@@||iplogger.cn^
 @@||iplogger.co^
 @@||iplogger.info^
 @@||iplogger.org^
@@ -12218,6 +12226,7 @@
 @@||magaus.co^
 @@||magaus.net^
 @@||magaus.org^
+@@||magaus.xyz^
 @@||magazine.rakuten.co.jp^
 @@||magazines.flipboard.com^
 @@||magic.cloud.vimeo.com^
@@ -12746,6 +12755,7 @@
 @@||minilink.io^
 @@||minilink.pro^
 @@||minilinked.com^
+@@||minily.org^
 @@||miningpoolhub.com^
 @@||minion.typekit.com^
 @@||minitv.fun^
@@ -17438,6 +17448,7 @@
 @@||shorturl.re^
 @@||shorturl.ru^
 @@||shorturl.vtcode.vn^
+@@||shorturl.win^
 @@||shorturl.ws^
 @@||shorturl88.com^
 @@||shorturlapp.com^
@@ -17509,6 +17520,7 @@
 @@||shrinkme.pro^
 @@||shrinkme.site^
 @@||shrinkme.space^
+@@||shrinkme.top^
 @@||shrinkme.us^
 @@||shrinkme.vip^
 @@||shrinkmyurl.com^
@@ -23900,6 +23912,7 @@
 @@||ytube.io^
 @@||ytubl.ink^
 @@||ytxt.mobi^
+@@||yu3.io^
 @@||yubi.co^
 @@||yui.co^
 @@||yui.yahooapis.com^
