@@ -2423,6 +2423,7 @@
 @@||cdn.betrad.com^
 @@||cdn.bluebillywig.com^
 @@||cdn.bootcdn.net^
+@@||cdn.branch.io^
 @@||cdn.breitbart.com^
 @@||cdn.cdnfiles.site^
 @@||cdn.changelog.com^
