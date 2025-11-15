@@ -1963,6 +1963,7 @@
 @@||ampr.gs^
 @@||amrep.org^
 @@||amtb.de^
+@@||amway-cdn.exponea.com^
 @@||amz.icu^
 @@||amz.run^
 @@||amz.tf^
@@ -2013,7 +2014,6 @@
 @@||androidfilehost.com^
 @@||androidforums.com^
 @@||androidtv.app.hulu.com^
-@@||ane.ong^
 @@||aneed.net^
 @@||angelfire.com^
 @@||angl.at^
@@ -2029,7 +2029,6 @@
 @@||animeheaven.eu^
 @@||animerep.com^
 @@||animeseason.com^
-@@||anizam.ru^
 @@||anlink.eu^
 @@||anmeld.biz^
 @@||annabelparr.com^
@@ -2928,7 +2927,6 @@
 @@||avsforum.com^
 @@||avt.mkklcdnv6.com^
 @@||avtk.io^
-@@||avtub.pw^
 @@||avty.xboxlive.com^
 @@||avyc.io^
 @@||avydn.co^
@@ -2952,7 +2950,6 @@
 @@||ax.init.itunes.apple.com^
 @@||ax.itunes.apple.com^
 @@||ax.phobos.apple.com.edgesuite.net^
-@@||axcme.com^
 @@||axees.ir^
 @@||axiom.link^
 @@||axios.link^
@@ -3067,7 +3064,6 @@
 @@||balls.no^
 @@||baltimore.cbslocal.com^
 @@||bam.nr-data.net^
-@@||bamaccoin.com^
 @@||bamerus.top^
 @@||bamgrid.com^
 @@||banaccroblox.com^
@@ -3430,7 +3426,6 @@
 @@||bitlyshort.com^
 @@||bitlyvi.com^
 @@||bitlz.cc^
-@@||bitnew.us^
 @@||bitpay.com^
 @@||bitq.link^
 @@||bitradex.net^
@@ -3858,7 +3853,6 @@
 @@||bujo.li^
 @@||buk.me^
 @@||buka.coffee^
-@@||buka.red^
 @@||bul.lu^
 @@||bulangiul.net^
 @@||bulink.co^
@@ -11525,6 +11519,7 @@
 @@||linkxl.de^
 @@||linky.cc^
 @@||linky.is^
+@@||linky.ph^
 @@||linky31.com^
 @@||linkye.net^
 @@||linkyvicky.com^
@@ -12912,6 +12907,7 @@
 @@||mkto-ab530057.com^
 @@||mkto-ab540059.com^
 @@||mkto-ab540186.com^
+@@||mkto-ab550041.com^
 @@||mkto-ab550140.com^
 @@||mkto-ab560009.com^
 @@||mkto-ab560068.com^
@@ -12980,6 +12976,7 @@
 @@||mkto-sj360076.com^
 @@||mkto-sj360142.com^
 @@||mkto-sj390015.com^
+@@||mkto-sjg0056.com^
 @@||mkto-test.com^
 @@||mkto-trk.cisco.com^
 @@||mktoweb.com^
@@ -16506,6 +16503,7 @@
 @@||s1.wp.com^
 @@||s1.zhuanstatic.com^
 @@||s10.exacttarget.com^
+@@||s10.login.exacttarget.com^
 @@||s100.exacttarget.com^
 @@||s101.dev2.exacttarget.com^
 @@||s11.cn^
@@ -17058,7 +17056,6 @@
 @@||seu2.cleverreach.com^
 @@||sev.ag^
 @@||sevenforums.com^
-@@||sex4fun.co.uk^
 @@||sexy.jill.survive.from.the.monster^
 @@||seznam.cz^
 @@||sf.163.com^

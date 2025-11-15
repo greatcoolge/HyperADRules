@@ -839,6 +839,7 @@
 @@||ampr.gs^
 @@||amrep.org^
 @@||amtb.de^
+@@||amway-cdn.exponea.com^
 @@||amz.icu^
 @@||amz.run^
 @@||amz.tf^
@@ -871,12 +872,10 @@
 @@||android-apps.pp.cn^
 @@||android-artworks.25pp.com^
 @@||android.bugly.qq.com^
-@@||ane.ong^
 @@||aneed.net^
 @@||angl.at^
 @@||anh.to^
 @@||animerep.com^
-@@||anizam.ru^
 @@||anlink.eu^
 @@||anmeld.biz^
 @@||annabelparr.com^
@@ -1170,7 +1169,6 @@
 @@||avlne.ws^
 @@||avlr.co^
 @@||avtk.io^
-@@||avtub.pw^
 @@||avyc.io^
 @@||avydn.co^
 @@||awactools.com^
@@ -1186,7 +1184,6 @@
 @@||aww.al^
 @@||awwurl.com^
 @@||awy.to^
-@@||axcme.com^
 @@||axees.ir^
 @@||axiom.link^
 @@||axios.link^
@@ -1257,7 +1254,6 @@
 @@||baixeapk.com^
 @@||baktifranchise.live^
 @@||balls.no^
-@@||bamaccoin.com^
 @@||bamerus.top^
 @@||banaccroblox.com^
 @@||bankcomm.com^
@@ -1470,7 +1466,6 @@
 @@||bitlyshort.com^
 @@||bitlyvi.com^
 @@||bitlz.cc^
-@@||bitnew.us^
 @@||bitq.link^
 @@||bitradex.net^
 @@||bitri.link^
@@ -1696,7 +1691,6 @@
 @@||bujo.li^
 @@||buk.me^
 @@||buka.coffee^
-@@||buka.red^
 @@||bul.lu^
 @@||bulangiul.net^
 @@||bulink.co^
@@ -5544,6 +5538,7 @@
 @@||linkxl.de^
 @@||linky.cc^
 @@||linky.is^
+@@||linky.ph^
 @@||linky31.com^
 @@||linkye.net^
 @@||linkyvicky.com^
@@ -6231,6 +6226,7 @@
 @@||mkto-ab530057.com^
 @@||mkto-ab540059.com^
 @@||mkto-ab540186.com^
+@@||mkto-ab550041.com^
 @@||mkto-ab550140.com^
 @@||mkto-ab560009.com^
 @@||mkto-ab560068.com^
@@ -6299,6 +6295,7 @@
 @@||mkto-sj360076.com^
 @@||mkto-sj360142.com^
 @@||mkto-sj390015.com^
+@@||mkto-sjg0056.com^
 @@||mkto-test.com^
 @@||mkto-trk.cisco.com^
 @@||mktoweb.com^
@@ -8189,6 +8186,7 @@
 @@||s1.voicecloud.cn^
 @@||s1.zhuanstatic.com^
 @@||s10.exacttarget.com^
+@@||s10.login.exacttarget.com^
 @@||s100.exacttarget.com^
 @@||s101.dev2.exacttarget.com^
 @@||s11.exacttarget.com^
@@ -8428,7 +8426,6 @@
 @@||seu1.cleverreach.com^
 @@||seu2.cleverreach.com^
 @@||sev.ag^
-@@||sex4fun.co.uk^
 @@||sexy.jill.survive.from.the.monster^
 @@||sf.163.com^
 @@||sf0.market.xiaomi.com^
