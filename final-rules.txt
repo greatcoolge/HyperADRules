@@ -9094,13 +9094,11 @@
 @@||hoeg.it^
 @@||hoholah.xyz^
 @@||hoken.rakuten.co.jp^
-@@||hoki108.shop^
 @@||hoki1dana.site^
 @@||hoki22crot.com^
 @@||hokidana.vip^
 @@||hokie.co^
 @@||hola.org^
-@@||hola2.me^
 @@||hollywood.com^
 @@||hollywoodlife.com^
 @@||hollywoodreporter.com^
@@ -10198,7 +10196,6 @@
 @@||japha.co^
 @@||jar.ro^
 @@||jarvis-dev.sonymobile.com^
-@@||jasafoll.com^
 @@||jasj.us^
 @@||jasn.ca^
 @@||jav321.com^
@@ -10340,7 +10337,6 @@
 @@||jp22.net^
 @@||jpdic.naver.com^
 @@||jpeg.ly^
-@@||jpjp.io^
 @@||jpmigtm1.sonymobile.com^
 @@||jpmigtm2.sonymobile.com^
 @@||jpost.com^
@@ -10379,7 +10375,6 @@
 @@||jsak.mmtcdn.com^
 @@||jsdelivr.net^
 @@||jsfiddle.net^
-@@||jshr.it^
 @@||jsinfo.net^
 @@||jsl1.in^
 @@||json.cn^
@@ -10409,7 +10404,6 @@
 @@||justcut.io^
 @@||justreleased.site^
 @@||justshortit.com^
-@@||justshrink.it^
 @@||jut.li^
 @@||jv.mp^
 @@||jvc.gg^
@@ -10731,7 +10725,6 @@
 @@||kutt.druidry.org^
 @@||kutt.ecoat.us^
 @@||kutt.gongchatea.com.au^
-@@||kutt.h4it.eu^
 @@||kutt.houseeazy.com^
 @@||kutt.in^
 @@||kutt.inarix.com^
@@ -16341,6 +16334,7 @@
 @@||rutube.ru^
 @@||ruvi.me^
 @@||rv2.com^
+@@||rvalb7cab.cc.rs6.net^
 @@||rvrsd.org^
 @@||rvtv.io^
 @@||rvv.rocks^
@@ -19920,6 +19914,8 @@
 @@||track.pstmrk.it^
 @@||track.rediff.com^
 @@||track.seadform.net^
+@@||track.sendlane.com^
+@@||track.sendlanedelivery.com^
 @@||track.shoparize.com^
 @@||track.sishodia.com^
 @@||track.smtp2go.net^
