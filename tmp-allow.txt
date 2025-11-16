@@ -1254,6 +1254,7 @@
 @@||baixeapk.com^
 @@||baktifranchise.live^
 @@||balls.no^
+@@||bamaccoin.com^
 @@||bamerus.top^
 @@||banaccroblox.com^
 @@||bankcomm.com^
@@ -2442,7 +2443,6 @@
 @@||cut.ovh^
 @@||cut.pe^
 @@||cut.sk^
-@@||cut2.ir^
 @@||cutdown.link^
 @@||cute.link^
 @@||cutearns.com^
@@ -2711,7 +2711,6 @@
 @@||djo924.com^
 @@||djp.li^
 @@||djurl.com^
-@@||dkly.me^
 @@||dkng.co^
 @@||dky.bz^
 @@||dl-protect.info^
@@ -2814,7 +2813,6 @@
 @@||dre.li^
 @@||dreamshigh.life^
 @@||drect.net^
-@@||drifturl.com^
 @@||drinks.me^
 @@||dripurl.com^
 @@||drive-h.quark.cn^
@@ -3009,7 +3007,6 @@
 @@||ellemag.co^
 @@||elokapina.link^
 @@||elrsx.com^
-@@||elsextosol.org^
 @@||elu.gr^
 @@||elx.site^
 @@||ely.re^
@@ -3257,7 +3254,6 @@
 @@||fga0.market.xiaomi.com^
 @@||fgurl.net^
 @@||fhurl.com^
-@@||fi9.ir^
 @@||fiatconnect.app^
 @@||fibr.ai^
 @@||ficken.ws^
@@ -3289,7 +3285,6 @@
 @@||fitz.ms^
 @@||fiy.no^
 @@||fl-y.com^
-@@||flaait.team^
 @@||flameurl.com^
 @@||flashwombat.com^
 @@||flashylink.com^

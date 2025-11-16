@@ -3064,6 +3064,7 @@
 @@||balls.no^
 @@||baltimore.cbslocal.com^
 @@||bam.nr-data.net^
+@@||bamaccoin.com^
 @@||bamerus.top^
 @@||bamgrid.com^
 @@||banaccroblox.com^
@@ -5542,7 +5543,6 @@
 @@||cut.ovh^
 @@||cut.pe^
 @@||cut.sk^
-@@||cut2.ir^
 @@||cutcaptcha.com^
 @@||cutdown.link^
 @@||cute.link^
@@ -6105,7 +6105,6 @@
 @@||djo924.com^
 @@||djp.li^
 @@||djurl.com^
-@@||dkly.me^
 @@||dkng.co^
 @@||dky.bz^
 @@||dl-1.va.us.xda-developers.com^
@@ -6358,7 +6357,6 @@
 @@||dribbble.com^
 @@||drift.com^
 @@||driftt.com^
-@@||drifturl.com^
 @@||drinks.me^
 @@||dripurl.com^
 @@||drive-h.quark.cn^
@@ -6717,7 +6715,6 @@
 @@||elpais.com^
 @@||elrsx.com^
 @@||elsevier.com^
-@@||elsextosol.org^
 @@||elu.gr^
 @@||elurl.com^
 @@||elx.site^
@@ -7302,7 +7299,6 @@
 @@||fi.m.wikipedia.com^
 @@||fi.statcounter.com^
 @@||fi.wikipedia.com^
-@@||fi9.ir^
 @@||fiatconnect.app^
 @@||fibr.ai^
 @@||ficken.ws^
@@ -7402,7 +7398,6 @@
 @@||fkp.samsungcloudsolution.net^
 @@||fl-y.com^
 @@||fl8.me^
-@@||flaait.team^
 @@||flameurl.com^
 @@||flapi.flipboard.com^
 @@||flash.sec.intl.miui.com^
