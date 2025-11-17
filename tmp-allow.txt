@@ -644,6 +644,7 @@
 @@||adservice.google.ie^
 @@||adservice.google.it^
 @@||adservice.google.lt^
+@@||adservice.google.md^
 @@||adservice.google.nl^
 @@||adservice.google.no^
 @@||adservice.google.pl^
@@ -1254,7 +1255,6 @@
 @@||baixeapk.com^
 @@||baktifranchise.live^
 @@||balls.no^
-@@||bamaccoin.com^
 @@||bamerus.top^
 @@||banaccroblox.com^
 @@||bankcomm.com^
@@ -7542,7 +7542,6 @@
 @@||pxl.to^
 @@||pxlcrv.co^
 @@||pxlfy.me^
-@@||pxs.cl^
 @@||pxu.co^
 @@||pxxbet.promo^
 @@||py.md^
@@ -7708,7 +7707,6 @@
 @@||qutt.us^
 @@||quurls.com^
 @@||qvc.co^
-@@||qwli.pro^
 @@||qxa.me^
 @@||qxp.cz^
 @@||qxp.sk^
@@ -8374,7 +8372,6 @@
 @@||segueae.link^
 @@||seiu.co^
 @@||sejr.nl^
-@@||seka.li^
 @@||sekb.net^
 @@||selalu.me^
 @@||selfhostedsecurity.com^
@@ -8615,7 +8612,6 @@
 @@||shortenerlink.xyz^
 @@||shortenerreviews.com^
 @@||shorteners.net^
-@@||shortenerurl.site^
 @@||shortenfor.me^
 @@||shortengine.dev^
 @@||shortenlab.com^
@@ -8637,7 +8633,6 @@
 @@||shortenx.eu^
 @@||shorter.gg^
 @@||shorter.io.vn^
-@@||shorterall.com^
 @@||shorterflix.com^
 @@||shorterin.com^
 @@||shorterit.com^
@@ -8774,17 +8769,9 @@
 @@||shorturlbot.com^
 @@||shorturlhub.com^
 @@||shorturlmagic.link^
-@@||shorturls.asia^
-@@||shorturls.at^
-@@||shorturls.click^
 @@||shorturls.co.uk^
-@@||shorturls.fr^
-@@||shorturls.fyi^
-@@||shorturls.in^
-@@||shorturls.my^
 @@||shorturls.one^
 @@||shorturls.pro^
-@@||shorturls.us^
 @@||shorturlss.com^
 @@||shorturlx.com^
 @@||shortwave.pro^
@@ -8797,7 +8784,6 @@
 @@||shortyearn.com^
 @@||shortylink.org^
 @@||shortyzone.com^
-@@||shotcut.in^
 @@||shoturl.org^
 @@||shoturl.us^
 @@||shotxy.com^
@@ -9103,7 +9089,6 @@
 @@||snapiturl.com^
 @@||snaplink-xegc.vercel.app^
 @@||snappyshort.com^
-@@||snappyurl.com^
 @@||snapt.io^
 @@||snapurl.org^
 @@||snapurl.xyz^
@@ -9448,7 +9433,6 @@
 @@||suite7.emarsys.net^
 @@||suite8.emarsys.net^
 @@||suite9.emarsys.net^
-@@||sujo.io^
 @@||sukatobrut.xyz^
 @@||sukebei.nyaa.si^
 @@||sulejalan.online^
@@ -9488,7 +9472,6 @@
 @@||surl.ro^
 @@||surl.scrapc.com^
 @@||surlgo.com^
-@@||surlz.com^
 @@||surrit.com^
 @@||surveyscst.com^
 @@||susurl.com^
@@ -10091,7 +10074,6 @@
 @@||to.nconnect.asia^
 @@||to.pbs.org^
 @@||to.servers.com^
-@@||to8.cc^
 @@||toclick.link^
 @@||tog.li^
 @@||togel123amp.xyz^
@@ -10285,7 +10267,6 @@
 @@||trck.wargaming.net^
 @@||treelinked.com^
 @@||trenddynamo.com^
-@@||trendingvideo.live^
 @@||tres.at^
 @@||treszki.com^
 @@||trezurl.ir^
@@ -10320,6 +10301,8 @@
 @@||trk-eu.customer.io^
 @@||trk.affapp.io^
 @@||trk.affattr.com^
+@@||trk.bc.footlocker.com^
+@@||trk.bc.footlocker.de^
 @@||trk.clptrk.com^
 @@||trk.concthub.com^
 @@||trk.ecomm.lenovo.com^
@@ -10767,7 +10750,6 @@
 @@||url724.link^
 @@||url7x.com^
 @@||url84.com^
-@@||url88.online^
 @@||url8x.com^
 @@||url9xx.com^
 @@||urla.ru^
@@ -10957,7 +10939,6 @@
 @@||urlxray.com^
 @@||urly.co^
 @@||urly.fi^
-@@||urlys.pro^
 @@||urlyshort.pro^
 @@||urlyte.com^
 @@||urlz.at^
@@ -10971,7 +10952,6 @@
 @@||urlzo.org^
 @@||urlzones.com^
 @@||urlzs.com^
-@@||urlzs.in^
 @@||urstoron.com^
 @@||urswebzj.nosdn.127.net^
 @@||urt.io^
@@ -11115,7 +11095,6 @@
 @@||vgn.me^
 @@||vgnx.co^
 @@||vhs.link^
-@@||vi-tiktok.com^
 @@||vi.sa^
 @@||vi.tc^
 @@||vi2.eu^
