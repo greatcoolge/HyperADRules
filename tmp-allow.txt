@@ -6335,7 +6335,6 @@
 @@||modurl.com^
 @@||modyolo.com^
 @@||moj.jo^
-@@||mojidul24.info^
 @@||molok.link^
 @@||momo.dm^
 @@||mondoagram.com^
@@ -6795,7 +6794,6 @@
 @@||nxm.us^
 @@||nxsg.us^
 @@||nxss.link^
-@@||nxturl.com^
 @@||nxy.in^
 @@||nycu.to^
 @@||nydn.us^
