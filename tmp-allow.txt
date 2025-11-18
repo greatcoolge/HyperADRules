@@ -1255,6 +1255,7 @@
 @@||baixeapk.com^
 @@||baktifranchise.live^
 @@||balls.no^
+@@||bamaccoin.com^
 @@||bamerus.top^
 @@||banaccroblox.com^
 @@||bankcomm.com^
@@ -11679,7 +11680,6 @@
 @@||xfin.tv^
 @@||xfl.ag^
 @@||xfru.it^
-@@||xfwht.lol^
 @@||xg4ken.com^
 @@||xgam.es^
 @@||xgd.in^
@@ -11854,7 +11854,6 @@
 @@||yourl.ir^
 @@||yourl.jp^
 @@||yourl.pro^
-@@||yourls.best^
 @@||yourls.ch^
 @@||yourls.i2m.solutions^
 @@||yourls.info^
