@@ -12976,6 +12976,7 @@ mkto-sj360076.com
 mkto-sj360142.com
 mkto-sj390015.com
 mkto-sjg0056.com
+mkto-sjp0267.com
 mkto-test.com
 mkto-trk.cisco.com
 mktoweb.com
@@ -18760,6 +18761,7 @@ suite40.emarsys.net
 suite41.emarsys.net
 suite45.emarsys.net
 suite46.emarsys.net
+suite47-cf.emarsys.net
 suite5.emarsys.net
 suite52.emarsys.net
 suite54.emarsys.net
