@@ -4788,6 +4788,7 @@ click.email.jcpenney.com
 click.email.sonos.com
 click.emcom.bankofamerica.com
 click.fidelityinvestments.com
+click.figma.com
 click.holidayinnclubemail.com
 click.icptrack.com
 click.idprotect.experian.com
@@ -8605,6 +8606,7 @@ googlevideo.com
 googleweblight.com
 goolink.cc
 goolnk.com
+gooo.onl
 gooo.to
 goorm.io
 goose.re
@@ -9549,6 +9551,7 @@ ilnk.io
 ilog.io
 ilsl.de
 iltalehti.fi
+ilyadin.com
 im.alimebot.taobao.com
 im.rediff.com
 im.twitch.tv
@@ -9770,6 +9773,7 @@ imo-call.shop
 imo.cx
 imop.com
 impala-external-lb-1441126057.us-east-1.elb.amazonaws.com
+impl.us
 import.spot.im
 improving.duckduckgo.com
 impulseonline.shop
@@ -10947,6 +10951,7 @@ letsharu.cc
 letsmeetup.world
 letsupload.co
 letsupload.io
+letx.be
 leuralla.com
 level-plus.net
 lewrockwell.com
@@ -11696,6 +11701,8 @@ lnk.sk
 lnk.to
 lnk.tu-bs.de
 lnk.vn
+lnk2.im
+lnk2.ink
 lnkbits.com
 lnkd.in
 lnkdin.link
@@ -14065,6 +14072,7 @@ observer.com
 oc.sparkasse.de
 oca-api.netflix.com
 occ.li
+ocdlink.com
 oceania.pool.ntp.org
 oceanofgames.com
 ock.cn
@@ -15766,6 +15774,7 @@ r2---sn-2x3elnel.gvt1-cn.com
 r2.bithumb.com
 r20.rs6.net
 r2c.one
+r2c.ovh
 r3---sn-2x3elnel.gvt1-cn.com
 r3---sn-2x3elnes.gvt1-cn.com
 r3---sn-npoe7nsl.gvt1.com
@@ -19211,6 +19220,7 @@ tapm.ee
 tapme.ink
 tapmy.app
 tapper.ai
+taps.to
 tapthelink.cfd
 tapto.bio
 tapurl.net
@@ -19563,6 +19573,7 @@ tiny.do
 tiny.ee
 tiny.lt
 tiny.ms
+tiny.nextsense.org.au
 tiny.oldsouth.org
 tiny.one
 tiny.outlier.ai
@@ -19752,6 +19763,7 @@ tnyer.com
 tnyr.me
 tnyurl.one
 tnyurl.pro
+tnyz.at
 to-text.net
 to.lk
 to.ly

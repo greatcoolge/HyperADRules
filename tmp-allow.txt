@@ -2087,6 +2087,7 @@
 @@||click.email.sonos.com^
 @@||click.emcom.bankofamerica.com^
 @@||click.fidelityinvestments.com^
+@@||click.figma.com^
 @@||click.holidayinnclubemail.com^
 @@||click.icptrack.com^
 @@||click.idprotect.experian.com^
@@ -3834,6 +3835,7 @@
 @@||googleapis.com^
 @@||goolink.cc^
 @@||goolnk.com^
+@@||gooo.onl^
 @@||gooo.to^
 @@||goose.re^
 @@||gopjn.com^
@@ -4332,6 +4334,7 @@
 @@||ilnk.io^
 @@||ilog.io^
 @@||ilsl.de^
+@@||ilyadin.com^
 @@||im.alimebot.taobao.com^
 @@||image.9game.cn^
 @@||image.quark.cn^
@@ -4385,6 +4388,7 @@
 @@||imlcc.link^
 @@||imo-call.shop^
 @@||imo.cx^
+@@||impl.us^
 @@||impulseonline.shop^
 @@||in.gl^
 @@||in.mt^
@@ -5054,6 +5058,7 @@
 @@||letsconnect.fun^
 @@||letsharu.cc^
 @@||letsmeetup.world^
+@@||letx.be^
 @@||leuralla.com^
 @@||level-plus.net^
 @@||lexus.tw^
@@ -5643,6 +5648,8 @@
 @@||lnk.to^
 @@||lnk.tu-bs.de^
 @@||lnk.vn^
+@@||lnk2.im^
+@@||lnk2.ink^
 @@||lnkbits.com^
 @@||lnkd.in^
 @@||lnkdin.link^
@@ -6838,6 +6845,7 @@
 @@||oblino.com^
 @@||oc.sparkasse.de^
 @@||occ.li^
+@@||ocdlink.com^
 @@||ock.cn^
 @@||ocsp.apple.com^
 @@||ocsp.digicert.com^
@@ -7760,6 +7768,7 @@
 @@||r2---sn-2x3elnel.gvt1-cn.com^
 @@||r20.rs6.net^
 @@||r2c.one^
+@@||r2c.ovh^
 @@||r3---sn-2x3elnel.gvt1-cn.com^
 @@||r3---sn-2x3elnes.gvt1-cn.com^
 @@||r3---sn-npoe7nsl.gvt1.com^
@@ -9736,6 +9745,7 @@
 @@||tapme.ink^
 @@||tapmy.app^
 @@||tapper.ai^
+@@||taps.to^
 @@||tapthelink.cfd^
 @@||tapto.bio^
 @@||tapurl.net^
@@ -9956,6 +9966,7 @@
 @@||tiny.ee^
 @@||tiny.lt^
 @@||tiny.ms^
+@@||tiny.nextsense.org.au^
 @@||tiny.oldsouth.org^
 @@||tiny.one^
 @@||tiny.outlier.ai^
@@ -10101,6 +10112,7 @@
 @@||tnyr.me^
 @@||tnyurl.one^
 @@||tnyurl.pro^
+@@||tnyz.at^
 @@||to-text.net^
 @@||to.lk^
 @@||to.ly^
