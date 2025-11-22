@@ -2127,6 +2127,7 @@ api-rangers.line.me
 api-secure.solvemedia.com
 api-shoulei-ssl.xunlei.com
 api-ssl.bit.ly
+api-stage.cleverpush.com
 api-staging-embedded.soundcloud.com
 api-stream.twitter.com
 api-tv.spotify.com
@@ -12933,6 +12934,7 @@ mkto-ab660121.com
 mkto-ab690011.com
 mkto-ab690019.com
 mkto-ab690062.com
+mkto-abd0206.com
 mkto-abj0022.com
 mkto-abm0229.com
 mkto-cs0007.com

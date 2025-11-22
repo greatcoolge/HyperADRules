@@ -921,6 +921,7 @@
 @@||api-na1.hubapi.com^
 @@||api-na2.hubapi.com^
 @@||api-na3.hubapi.com^
+@@||api-stage.cleverpush.com^
 @@||api.account.xiaomi.com^
 @@||api.apple-cloudkit.com^
 @@||api.bam-x.com^
@@ -6258,6 +6259,7 @@
 @@||mkto-ab690011.com^
 @@||mkto-ab690019.com^
 @@||mkto-ab690062.com^
+@@||mkto-abd0206.com^
 @@||mkto-abj0022.com^
 @@||mkto-abm0229.com^
 @@||mkto-cs0007.com^
