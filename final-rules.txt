@@ -329,7 +329,6 @@
 @@||2u.lc^
 @@||2u.xf.cz^
 @@||2vu.me^
-@@||2wo.ir^
 @@||2wsb.tv^
 @@||2x0.net^
 @@||2x1.io^
@@ -553,7 +552,6 @@
 @@||8.ly^
 @@||8591.tw^
 @@||888df.com^
-@@||88link.me^
 @@||88nb.cc^
 @@||88win.link^
 @@||89bet69.cc^
@@ -1078,6 +1076,7 @@
 @@||adservice.google.ie^
 @@||adservice.google.it^
 @@||adservice.google.lt^
+@@||adservice.google.lv^
 @@||adservice.google.md^
 @@||adservice.google.nl^
 @@||adservice.google.no^
@@ -1301,7 +1300,6 @@
 @@||allamericanpatriots.com^
 @@||allbio.link^
 @@||alldebrid.com^
-@@||alldomainwhois.xyz^
 @@||allegro.pl^
 @@||allekabels.nl^
 @@||alli.pub^
@@ -3829,7 +3827,6 @@
 @@||bti.ninja^
 @@||btiliy.com^
 @@||btly.cc^
-@@||btly.me^
 @@||btm.li^
 @@||btstatic.com^
 @@||btty.in^
@@ -5803,7 +5800,6 @@
 @@||dblp.org^
 @@||dbolc.com^
 @@||dbolink.com^
-@@||dbox.lol^
 @@||dbregistration.cuteftp.com^
 @@||dbricks.co^
 @@||dc-e70d1ce32117.chia-anime.tv^
@@ -6199,7 +6195,6 @@
 @@||dns1.funimation.com^
 @@||dns2.funimation.com^
 @@||dnt.st^
-@@||dntl.me^
 @@||do.co^
 @@||do.my^
 @@||doaistri.com^
@@ -17503,7 +17498,6 @@
 @@||shorturl.biz^
 @@||shorturl.bond^
 @@||shorturl.click^
-@@||shorturl.club^
 @@||shorturl.com^
 @@||shorturl.dev^
 @@||shorturl.fm^
@@ -17976,7 +17970,6 @@
 @@||snip.ng^
 @@||snipify.net^
 @@||snipio.co^
-@@||snipit.in^
 @@||snipitx.com^
 @@||sniplify.me^
 @@||sniplnk.co^
@@ -19281,7 +19274,6 @@
 @@||tdrive.li^
 @@||tds.pdl-profit.com^
 @@||tdv-adm.live^
-@@||tdy.lol^
 @@||tdy.sg^
 @@||te.deviantart.com^
 @@||te.me^
@@ -21648,7 +21640,6 @@
 @@||warez-bb.org^
 @@||warp.plus^
 @@||wartsi.ly^
-@@||warung.vip^
 @@||wasap.is^
 @@||washington.cbslocal.com^
 @@||washington.edu^
@@ -24014,7 +24005,6 @@
 @@||yys.163.com^
 @@||yyv.co^
 @@||yz2.xmss.micloud.mi.com^
-@@||z-der.xyz^
 @@||z-m.c10r.facebook.com^
 @@||z-m.facebook.com^
 @@||z-p4-graph.facebook.com^
