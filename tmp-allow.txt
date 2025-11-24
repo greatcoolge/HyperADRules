@@ -8980,6 +8980,7 @@
 @@||sitedetour.com^
 @@||sitegpl.com^
 @@||siteonizleme.com.tr^
+@@||sites.hscoscdn-ap1.net^
 @@||sites.hscoscdn-eu1.net^
 @@||sites.hscoscdn-na2.net^
 @@||sites.hscoscdn00.net^
@@ -10278,6 +10279,7 @@
 @@||tracking.truthfinder.com^
 @@||tracking.wordvineswz.com^
 @@||trackingsafeads.com^
+@@||trackingservice.monday.com^
 @@||trackpw.xyz^
 @@||trackthis.io^
 @@||trackurl.link^
