@@ -682,7 +682,6 @@
 @@||aff44.com^
 @@||affectit.cloud^
 @@||affiliate.api.rakuten.com.tw^
-@@||affiliate.logitravel.com^
 @@||affiliate44.com^
 @@||affiliatefuture.com^
 @@||affilired.com^
