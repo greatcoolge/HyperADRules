@@ -65,7 +65,6 @@
 @@||0p.de^
 @@||0penclick.org^
 @@||0rl.cc^
-@@||0rz.tw^
 @@||0s0.com^
 @@||0se.co^
 @@||0t.cn^
@@ -218,7 +217,6 @@
 @@||1url.co.uk^
 @@||1url.com^
 @@||1url.cz^
-@@||1url.info^
 @@||1url.it^
 @@||1url.my^
 @@||1url.re^
@@ -227,7 +225,6 @@
 @@||1weather.onelouder.com^
 @@||1west.io^
 @@||1wn.bz^
-@@||1wrd.org^
 @@||1xbet.com^
 @@||1xfn.tech^
 @@||1xregister.vip^
@@ -4315,6 +4312,7 @@
 @@||cdn.loginhood.io^
 @@||cdn.mbl.is^
 @@||cdn.medium.com^
+@@||cdn.mie.exponea.com^
 @@||cdn.mountainduck.io^
 @@||cdn.mozilla.net^
 @@||cdn.mplxtms.com^
