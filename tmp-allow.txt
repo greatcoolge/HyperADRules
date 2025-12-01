@@ -930,6 +930,7 @@
 @@||api.edu.apple.com^
 @@||api.elasticemail.com^
 @@||api.ent.apple.com^
+@@||api.heylink.com^
 @@||api.huangye.miui.com^
 @@||api.hubapi.com^
 @@||api.lab.amplitude.com^

@@ -2235,6 +2235,7 @@
 @@||api.groupon.com^
 @@||api.gumroad.com^
 @@||api.happybean.naver.com^
+@@||api.heylink.com^
 @@||api.hh.ru^
 @@||api.hide.me^
 @@||api.hitbtc.com^
