@@ -189,7 +189,6 @@
 @@||2tea.ch^
 @@||2tf.net^
 @@||2tiny.in^
-@@||2to.info^
 @@||2u.lc^
 @@||2u.xf.cz^
 @@||2vu.me^
@@ -554,7 +553,6 @@
 @@||ad5.eu^
 @@||ad7.biz^
 @@||ada2.in^
-@@||adabook.cloud^
 @@||adaxxcloud.com^
 @@||adaymag.co^
 @@||adbaw.com^

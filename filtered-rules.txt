@@ -316,7 +316,6 @@
 2tea.ch
 2tf.net
 2tiny.in
-2to.info
 2u.lc
 2u.xf.cz
 2vu.me
@@ -921,7 +920,6 @@ ad5.eu
 ad7.biz
 ada.support
 ada2.in
-adabook.cloud
 adage.com
 adameve.com
 adashx.m.taobao.com
