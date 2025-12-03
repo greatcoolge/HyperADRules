@@ -3485,7 +3485,6 @@
 @@||gdown.baidu.com^
 @@||gdurl.com^
 @@||geefi.me^
-@@||geetlink.com^
 @@||gef.me^
 @@||geg.li^
 @@||gejje.in^
@@ -3628,7 +3627,6 @@
 @@||gnam.me^
 @@||gnm.li^
 @@||go-admin.momen.app^
-@@||go-link.co^
 @@||go-link.ru^
 @@||go-links.net^
 @@||go-to.us^
@@ -3832,7 +3830,6 @@
 @@||got.cr^
 @@||got.to^
 @@||gotds.ru^
-@@||gotlink.me^
 @@||goto.cream.org^
 @@||goto.jet.com^
 @@||goto.my^
@@ -3857,7 +3854,6 @@
 @@||gowes.in^
 @@||goworldwide.co^
 @@||gozepher.com^
-@@||gpaylink.com^
 @@||gph.to^
 @@||gplbaba.com^
 @@||gplsouq.com^
@@ -4299,7 +4295,6 @@
 @@||ikwer.com^
 @@||iky.fr^
 @@||ild.info^
-@@||iligstein.com^
 @@||ilink-to.net^
 @@||ilinky.info^
 @@||ilix.in^
@@ -4778,7 +4773,6 @@
 @@||kissa.be^
 @@||kit.do^
 @@||kiteww.com^
-@@||kjd.us^
 @@||kjimg10.360buyimg.com^
 @@||kk.rs^
 @@||kkday.me^
@@ -5005,7 +4999,6 @@
 @@||lcdn-registration.apple.com^
 @@||lcp.ovh^
 @@||lcra-tamu.org^
-@@||lcut.in^
 @@||lddy.no^
 @@||leadfoxcloud.com^
 @@||leakslinks.com^
@@ -5057,7 +5050,6 @@
 @@||lf6-cdn-tos.bytegoofy.com^
 @@||lf6-cdn2-tos.bytegoofy.com^
 @@||lf8.info^
-@@||lfeinst.com^
 @@||lft.to^
 @@||lhg.app^
 @@||li-nk.eu^
@@ -5327,7 +5319,6 @@
 @@||linkin.icu^
 @@||linkinbio.pro^
 @@||linkinbio.to^
-@@||linkinc.live^
 @@||linking.is^
 @@||linkins.live^
 @@||linkinto.net^
@@ -5457,7 +5448,6 @@
 @@||linksflow.bio^
 @@||linksfly.net^
 @@||linkshaft.com^
-@@||linkshare.pro^
 @@||linkshort.co^
 @@||linkshort.eu^
 @@||linkshort.uk^
