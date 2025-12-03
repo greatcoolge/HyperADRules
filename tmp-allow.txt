@@ -2504,7 +2504,6 @@
 @@||cyberrl.com^
 @@||cybr.fr^
 @@||cybr.rocks^
-@@||cyonix.to^
 @@||cyrmp.com^
 @@||cyte.in^
 @@||cyver.se^
@@ -2581,7 +2580,6 @@
 @@||dbolink.com^
 @@||dbricks.co^
 @@||dcbspage.org^
-@@||dcc.ng^
 @@||dcloud.net.cn^
 @@||dcps.co^
 @@||dcri.io^
@@ -2646,7 +2644,6 @@
 @@||dft.ba^
 @@||dfthethao.com^
 @@||dfy.is^
-@@||dgkad.com^
 @@||dgl-cdn.exponea.com^
 @@||dglnk.me^
 @@||dgms.es^
@@ -2819,7 +2816,6 @@
 @@||dronescapes.video^
 @@||drop.tf^
 @@||dropl.link.cutestat.com^
-@@||dropl.link^
 @@||droplr.net^
 @@||dropmylinks.com^
 @@||drte.co^
@@ -2916,7 +2912,6 @@
 @@||easylinkref.com^
 @@||easylinks.vercel.app^
 @@||easyuri.com^
-@@||easyurl.me^
 @@||easyurl.net^
 @@||easyurl.site^
 @@||easyurlshortener.com^
@@ -3158,7 +3153,6 @@
 @@||f*.market.mi-img.com^
 @@||f*.market.xiaomi.com^
 @@||f-ast.me^
-@@||f-internal.info^
 @@||f-n.link^
 @@||f.bmcx.com^
 @@||f.video.weibocdn.com^
@@ -3347,7 +3341,6 @@
 @@||for.edu.sg^
 @@||for.sg^
 @@||ford.to^
-@@||forksy.cloud^
 @@||forms.gle^
 @@||forr.com^
 @@||forsakenx.live^
@@ -8139,7 +8132,6 @@
 @@||s.compass.com^
 @@||s.coop^
 @@||s.deemos.com^
-@@||s.deinventive.com^
 @@||s.ea-bank.com^
 @@||s.ecchorights.com^
 @@||s.ee^
@@ -11854,7 +11846,6 @@
 @@||yidbio.com^
 @@||yigza.com^
 @@||yiii.de^
-@@||yir.io^
 @@||yji.tw^
 @@||ylg.org^
 @@||ylink.bid^

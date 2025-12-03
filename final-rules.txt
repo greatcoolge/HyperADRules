@@ -5626,7 +5626,6 @@
 @@||cydia.saurik.com.cdngc.net^
 @@||cydia.saurik.com^
 @@||cygwin.com^
-@@||cyonix.to^
 @@||cyrmp.com^
 @@||cyte.in^
 @@||cyver.se^
@@ -5795,7 +5794,6 @@
 @@||dc.services.visualstudio.com^
 @@||dcape-na.amazon.com^
 @@||dcbspage.org^
-@@||dcc.ng^
 @@||dcclothesline.com^
 @@||dccss.banggood.com^
 @@||dci.sophosupd.net^
@@ -5988,7 +5986,6 @@
 @@||dfy.is^
 @@||dg.k.jd.com^
 @@||dgit.com^
-@@||dgkad.com^
 @@||dgl-cdn.exponea.com^
 @@||dglnk.me^
 @@||dgms.es^
@@ -6370,7 +6367,6 @@
 @@||dropboxusercontent.com^
 @@||dropcatch.com^
 @@||dropl.link.cutestat.com^
-@@||dropl.link^
 @@||droplr.net^
 @@||dropmylinks.com^
 @@||drp.su^
@@ -6535,7 +6531,6 @@
 @@||easylist.club^
 @@||easylist.to^
 @@||easyuri.com^
-@@||easyurl.me^
 @@||easyurl.net^
 @@||easyurl.site^
 @@||easyurlshortener.com^
@@ -7095,7 +7090,6 @@
 @@||f*.market.xiaomi.com^
 @@||f-ast.me^
 @@||f-droid.org^
-@@||f-internal.info^
 @@||f-n.link^
 @@||f-secure.com^
 @@||f.bmcx.com^
@@ -7498,7 +7492,6 @@
 @@||forecast.ucweb.com^
 @@||foresee.com^
 @@||foreseeresults.com^
-@@||forksy.cloud^
 @@||form.jotform.com^
 @@||form.office.naver.com^
 @@||form.typeform.com^
@@ -16417,7 +16410,6 @@
 @@||s.compass.com^
 @@||s.coop^
 @@||s.deemos.com^
-@@||s.deinventive.com^
 @@||s.ea-bank.com^
 @@||s.ecchorights.com^
 @@||s.ee^
@@ -23887,7 +23879,6 @@
 @@||yiii.de^
 @@||yimg.com^
 @@||yinxiang.com^
-@@||yir.io^
 @@||yji.tw^
 @@||ylg.org^
 @@||ylink.bid^
