@@ -13129,7 +13129,6 @@ movies.ndtv.com
 movies.netflix.com
 moviesanywhere.com
 moxe.me
-mozafer.com
 mozilla.cloudflare-dns.com
 mozilla.com
 mozilla.net
@@ -13692,7 +13691,6 @@ nflximg.net
 nfsurl.com
 nftchampions.info
 nfw.cz
-ng.je
 nghub.net
 nginx.org
 nglink.id
@@ -14104,7 +14102,6 @@ ogcrawler.blog.naver.com
 oge.la
 ogori.one
 ogs.google.com
-ogwa.me
 oh.pn
 ohmy.link
 ohstitans.org
@@ -19868,7 +19865,6 @@ tr.twitch.tv
 tr.wikipedia.com
 tr1.pw
 tr5.in
-trace.marketingviadigital.com
 traceurl.com
 track-eu.customer.io
 track-sdk-eu.customer.io

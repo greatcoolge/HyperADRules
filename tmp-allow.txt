@@ -6367,7 +6367,6 @@
 @@||mou.sr^
 @@||moveurls.com^
 @@||moxe.me^
-@@||mozafer.com^
 @@||mp.163.com^
 @@||mp.yidianzixun.com^
 @@||mpa.li^
@@ -6667,7 +6666,6 @@
 @@||nfsurl.com^
 @@||nftchampions.info^
 @@||nfw.cz^
-@@||ng.je^
 @@||nghub.net^
 @@||nglink.id^
 @@||ngnbrand.com^
@@ -6837,7 +6835,6 @@
 @@||oft.ovh^
 @@||ofx.ph^
 @@||ogori.one^
-@@||ogwa.me^
 @@||oh.pn^
 @@||ohmy.link^
 @@||ohstitans.org^
@@ -10166,7 +10163,6 @@
 @@||tr.threeate.jp^
 @@||tr1.pw^
 @@||tr5.in^
-@@||trace.marketingviadigital.com^
 @@||traceurl.com^
 @@||track-eu.customer.io^
 @@||track-sdk-eu.customer.io^
