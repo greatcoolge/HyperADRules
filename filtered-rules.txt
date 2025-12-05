@@ -17893,7 +17893,6 @@ sn.im
 sn.io
 sn.rs
 snahp.it
-snap-url.pro
 snap.com
 snapbtg.com
 snapchat-payments-gateway.snapchat.com
@@ -19469,7 +19468,6 @@ tibco.cm
 tibco.co
 tibly.it
 ticino.ch
-tick.is
 tick.news
 ticket.rakuten.co.jp
 ticketsecuredph.com
@@ -19530,7 +19528,6 @@ tiny-links.net
 tiny-url.me
 tiny.ae
 tiny.cc
-tiny.do
 tiny.ee
 tiny.lt
 tiny.ms
@@ -19856,7 +19853,6 @@ tr.threeate.jp
 tr.twitch.tv
 tr.wikipedia.com
 tr1.pw
-tr5.in
 traceurl.com
 track-eu.customer.io
 track-sdk-eu.customer.io
@@ -20260,7 +20256,6 @@ twilink.me
 twimg.com
 twimg.sinatw.com
 twimg0-a.akamaihd.net
-twirl.at
 twirl.otee.dev
 twishx.com
 twishx.io
@@ -20620,7 +20615,6 @@ url-shortener-theta-silk.vercel.app
 url-shortener-two-ashen.vercel.app
 url-shortener.freebusinessapps.net
 url-shortener.in
-url-shortener.info
 url-shortener.yc.fstrk.io
 url-shortening-api-challenge-intermediate.vercel.app
 url-shortenr-2d4.s3.amazonaws.com
@@ -20694,7 +20688,6 @@ url.zaptian.com
 url11xx.com
 url2.fr
 url2.in
-url24.ir
 url24.link
 url27x.com
 url28x.com
@@ -20743,7 +20736,6 @@ urlcort.com
 urlcover.com
 urlcrop.com
 urlcut.at
-urlcut.ch
 urlcut.com
 urlcut.cv
 urlcut.in
@@ -20760,7 +20752,6 @@ urlers.com
 urless.com
 urlexpander.org
 urlfile.xyz
-urlfirm.com
 urlflea.com
 urlforyou.com
 urlfy.pro
@@ -20932,7 +20923,6 @@ urs.techrepublic.com
 urstoron.com
 urswebzj.nosdn.127.net
 urt.io
-urto.us
 urweb.net
 urwebs.it
 us-1.hide.me
@@ -21623,7 +21613,6 @@ watva.org
 wave.sndcdn.com
 waveurl.net
 way.to
-way3.in
 waysto.be
 wayurl.com
 waze.link
@@ -21715,7 +21704,6 @@ webmail.orange.fr
 webmail.vtr.net
 webmd.com
 webmienphi.net
-webn.in
 weboffice-static.docs.dingtalk.com
 webopedia.com
 webpower.eu
@@ -21948,8 +21936,6 @@ wndt.nl
 wns-academy.live
 wo.ws
 woah.top
-woflpackciye.com
-wojiech.com
 woki.me
 wolftravels.live
 wololo.net
@@ -23618,7 +23604,6 @@ x5n.cn
 x6img.com
 x7.lv
 xaddr.com
-xaheed.buzz
 xailr.com
 xb5.com
 xbext.com
