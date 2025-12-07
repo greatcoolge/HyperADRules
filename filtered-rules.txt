@@ -316,9 +316,11 @@
 2tea.ch
 2tf.net
 2tiny.in
+2ty.in
 2u.lc
 2u.xf.cz
 2vu.me
+2wo.ir
 2wsb.tv
 2x0.net
 2x1.io
@@ -700,6 +702,7 @@ aax-us-east-retail-direct.amazon.com
 aax-us-iad.amazon.com
 ab.co
 ab1n.net
+abacaxii.com
 abar.in
 abbr.site
 abbreurl.com
@@ -12893,6 +12896,7 @@ mkto-ab570128.com
 mkto-ab580004.com
 mkto-ab600004.com
 mkto-ab620045.com
+mkto-ab620126.com
 mkto-ab620130.com
 mkto-ab630144.com
 mkto-ab640193.com
