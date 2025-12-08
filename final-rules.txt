@@ -1175,6 +1175,7 @@
 @@||aicdn.com^
 @@||aider-res.meizu.com^
 @@||aiecj2.com^
+@@||aighy.com^
 @@||aillis.line.me^
 @@||aim2.cc^
 @@||aimetath.com^
@@ -1186,6 +1187,7 @@
 @@||airdownload2.adobe.com^
 @@||airfind.com^
 @@||airinstall.adobe.com^
+@@||airshort.de^
 @@||airtable.com^
 @@||aiseet.atianqi.com^
 @@||aishorterlink.com^
@@ -2926,6 +2928,7 @@
 @@||avsforum.com^
 @@||avt.mkklcdnv6.com^
 @@||avtk.io^
+@@||avtub.pw^
 @@||avty.xboxlive.com^
 @@||avyc.io^
 @@||avydn.co^
@@ -2984,6 +2987,7 @@
 @@||azshrtr.com^
 @@||azure.com^
 @@||azureedge.net^
+@@||azx.az^
 @@||b-api.facebook.com^
 @@||b-cdn.net^
 @@||b-gat.es^

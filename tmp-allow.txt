@@ -710,11 +710,13 @@
 @@||ai18.link^
 @@||ai6.net^
 @@||aiecj2.com^
+@@||aighy.com^
 @@||aim2.cc^
 @@||aimetath.com^
 @@||aintok.com^
 @@||ainurl.pro^
 @@||aiproxies.com^
+@@||airshort.de^
 @@||aishorterlink.com^
 @@||aisubtitle.hdslb.com^
 @@||aisurl.com^
@@ -1168,6 +1170,7 @@
 @@||avlne.ws^
 @@||avlr.co^
 @@||avtk.io^
+@@||avtub.pw^
 @@||avyc.io^
 @@||avydn.co^
 @@||awactools.com^
@@ -1210,6 +1213,7 @@
 @@||azlink.me^
 @@||azshrtr.com^
 @@||azure.com^
+@@||azx.az^
 @@||b-gat.es^
 @@||b-url.it^
 @@||b.163.com^
