@@ -1439,6 +1439,7 @@
 @@||bit.ignifi.eu^
 @@||bit.ly^
 @@||bit24.live^
+@@||bitded.com^
 @@||bitesli.com^
 @@||bitfy.cc^
 @@||bitgg.co^
@@ -1451,6 +1452,7 @@
 @@||bitli.li^
 @@||bitlink.one^
 @@||bitlnx.com^
+@@||bitly.best^
 @@||bitly.com^
 @@||bitly.cx^
 @@||bitly.im^
@@ -1477,6 +1479,7 @@
 @@||bittylink.com^
 @@||bittyurl.co^
 @@||biturl.in^
+@@||biturl.site^
 @@||biturl.top^
 @@||bitw.in^
 @@||bitx.bio^
@@ -1772,6 +1775,7 @@
 @@||c6.rip^
 @@||c80.us^
 @@||c87.to^
+@@||cabletv.live^
 @@||cache.ip138.com^
 @@||cactusskyonline.com^
 @@||cadill.ac^
@@ -2184,6 +2188,7 @@
 @@||clk.omgt3.com^
 @@||clk.sh^
 @@||clk.simulation-technology.com^
+@@||clk.vc^
 @@||clk.wargaming.net^
 @@||clkd.io^
 @@||clkdms.com^
@@ -2610,6 +2615,7 @@
 @@||dee.pl^
 @@||deepcore.in^
 @@||deeplink.page^
+@@||defigodirect.com^
 @@||dehe.ir^
 @@||deheh.ir^
 @@||deli.bz^
@@ -2651,6 +2657,7 @@
 @@||dft.ba^
 @@||dfthethao.com^
 @@||dfy.is^
+@@||dgkad.com^
 @@||dgl-cdn.exponea.com^
 @@||dglnk.me^
 @@||dgms.es^
@@ -2752,6 +2759,7 @@
 @@||docs.doudou.fun^
 @@||docs.idqqimg.com^
 @@||docthem.link^
+@@||docusignredirectsharepoint.life^
 @@||dogelexus.win^
 @@||dogelexusin.store^
 @@||doh.dns.apple.com^
@@ -2760,6 +2768,7 @@
 @@||dollinx-hyperlink.vercel.app^
 @@||dolr.in^
 @@||domains-ws.revved.com^
+@@||domainul.com^
 @@||domi.link^
 @@||dominos.sng.link^
 @@||domixox.com^
@@ -2843,6 +2852,7 @@
 @@||dtdg.co^
 @@||dte.bz^
 @@||dti.io^
+@@||dtl.la^
 @@||dtsx.io^
 @@||duakale.me^
 @@||dub.co^
@@ -2862,6 +2872,7 @@
 @@||durvainfratech.com^
 @@||dus.im^
 @@||dv.gd^
+@@||dviel.com^
 @@||dvlr.it^
 @@||dvo.tips^
 @@||dvrv.ai^
@@ -3250,6 +3261,7 @@
 @@||fga0.market.xiaomi.com^
 @@||fgurl.net^
 @@||fhurl.com^
+@@||fi9.ir^
 @@||fiatconnect.app^
 @@||fibr.ai^
 @@||ficken.ws^
@@ -3559,6 +3571,7 @@
 @@||gfree.fr^
 @@||gfuel.ly^
 @@||gg.apple.com^
+@@||gg.gg^
 @@||ggd.bz^
 @@||ggilfz.link^
 @@||ggl.link^
@@ -3837,6 +3850,7 @@
 @@||got.cr^
 @@||got.to^
 @@||gotds.ru^
+@@||gotlink.me^
 @@||goto.cream.org^
 @@||goto.jet.com^
 @@||goto.my^
@@ -3861,6 +3875,7 @@
 @@||gowes.in^
 @@||goworldwide.co^
 @@||gozepher.com^
+@@||gpaylink.com^
 @@||gph.to^
 @@||gplbaba.com^
 @@||gplsouq.com^
@@ -4459,6 +4474,7 @@
 @@||iplogger.ru^
 @@||iplwin.us^
 @@||ipm.mo^
+@@||ipoy.me^
 @@||iprofiles.apple.com^
 @@||iptn.m3pd.com^
 @@||ipw.cn^
@@ -5007,6 +5023,7 @@
 @@||lcp.ovh^
 @@||lcra-tamu.org^
 @@||lddy.no^
+@@||ldgr.info^
 @@||leadfoxcloud.com^
 @@||leakslinks.com^
 @@||learn.to^
@@ -5446,6 +5463,7 @@
 @@||links.uv.es^
 @@||links.wpmhs.com^
 @@||links2.me^
+@@||links4money.com^
 @@||linksa.me^
 @@||linksable.to^
 @@||linksdr.com^
@@ -9443,6 +9461,7 @@
 @@||suite57.emarsys.net^
 @@||suite58.emarsys.net^
 @@||suite59.emarsys.net^
+@@||suite6.emarsys.net^
 @@||suite60.emarsys.net^
 @@||suite63.emarsys.net^
 @@||suite67-cf.emarsys.net^
@@ -10239,6 +10258,7 @@
 @@||tracking.cashkaro.com^
 @@||tracking.delupe.net^
 @@||tracking.ftmo.com^
+@@||tracking.inflection.io^
 @@||tracking.mailerswift.app^
 @@||tracking.minetracking.com^
 @@||tracking.nextotrack.com^

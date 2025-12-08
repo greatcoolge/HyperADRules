@@ -3394,6 +3394,7 @@
 @@||bitbucket.org^
 @@||bitcoin.com^
 @@||bitcoin.de^
+@@||bitded.com^
 @@||bitdefender.net^
 @@||bitesli.com^
 @@||bitfinex.com^
@@ -3411,6 +3412,7 @@
 @@||bitli.li^
 @@||bitlink.one^
 @@||bitlnx.com^
+@@||bitly.best^
 @@||bitly.com^
 @@||bitly.cx^
 @@||bitly.im^
@@ -3442,6 +3444,7 @@
 @@||bittylink.com^
 @@||bittyurl.co^
 @@||biturl.in^
+@@||biturl.site^
 @@||biturl.top^
 @@||bitw.in^
 @@||bitx.bio^
@@ -4013,6 +4016,7 @@
 @@||ca.pool.ntp.org^
 @@||ca.statcounter.com^
 @@||ca.wikipedia.com^
+@@||cabletv.live^
 @@||cacerts.digicert.com^
 @@||cache-api.ranker.com^
 @@||cache.ip138.com^
@@ -4930,6 +4934,7 @@
 @@||clk.omgt3.com^
 @@||clk.sh^
 @@||clk.simulation-technology.com^
+@@||clk.vc^
 @@||clk.wargaming.net^
 @@||clkd.io^
 @@||clkdms.com^
@@ -5863,6 +5868,7 @@
 @@||deeplink.page^
 @@||def-vef.xboxlive.com ^
 @@||def-vef.xboxlive.com^
+@@||defigodirect.com^
 @@||definitions.net^
 @@||dege.freeweb.hu^
 @@||dehe.ir^
@@ -5993,6 +5999,7 @@
 @@||dfy.is^
 @@||dg.k.jd.com^
 @@||dgit.com^
+@@||dgkad.com^
 @@||dgl-cdn.exponea.com^
 @@||dglnk.me^
 @@||dgms.es^
@@ -6219,6 +6226,7 @@
 @@||docthem.link^
 @@||doctor.ndtv.com^
 @@||doctorpk.mywibes.com^
+@@||docusignredirectsharepoint.life^
 @@||dog.bin^
 @@||dogelexus.win^
 @@||dogelexusin.store^
@@ -6236,6 +6244,7 @@
 @@||domainname.de^
 @@||domainnameshop.com^
 @@||domains-ws.revved.com^
+@@||domainul.com^
 @@||domainwhoisinfo.com^
 @@||domeneshop.no^
 @@||domi.link^
@@ -6401,6 +6410,7 @@
 @@||dtdg.co^
 @@||dte.bz^
 @@||dti.io^
+@@||dtl.la^
 @@||dts.podtrac.com^
 @@||dtsx.io^
 @@||du.163.com^
@@ -6432,6 +6442,7 @@
 @@||dv.gd^
 @@||dvb.pandora.xiaomi.com^
 @@||dvd.netflix.com^
+@@||dviel.com^
 @@||dvlr.it^
 @@||dvo.tips^
 @@||dvrv.ai^
@@ -7295,6 +7306,7 @@
 @@||fi.m.wikipedia.com^
 @@||fi.statcounter.com^
 @@||fi.wikipedia.com^
+@@||fi9.ir^
 @@||fiatconnect.app^
 @@||fibr.ai^
 @@||ficken.ws^
@@ -8013,6 +8025,7 @@
 @@||gfx.ms^
 @@||gfycat.com^
 @@||gg.apple.com^
+@@||gg.gg^
 @@||ggd.bz^
 @@||ggilfz.link^
 @@||ggl.link^
@@ -8619,6 +8632,7 @@
 @@||got.to^
 @@||gotds.ru^
 @@||gotinder.com^
+@@||gotlink.me^
 @@||goto.clickfunnels.com^
 @@||goto.cream.org^
 @@||goto.jet.com^
@@ -8652,6 +8666,7 @@
 @@||goworldwide.co^
 @@||gozepher.com^
 @@||gp.se^
+@@||gpaylink.com^
 @@||gph.to^
 @@||gplbaba.com^
 @@||gplsouq.com^
@@ -10017,6 +10032,7 @@
 @@||ipm.mo^
 @@||ipmcloud.kaspersky.com^
 @@||ipopimg.sina.com.tw^
+@@||ipoy.me^
 @@||ipr-external.huawei.com^
 @@||ipredator.se^
 @@||iprl.com^
@@ -10888,6 +10904,7 @@
 @@||lcra-tamu.org^
 @@||lcs.naver.com^
 @@||lddy.no^
+@@||ldgr.info^
 @@||ldmnq.com^
 @@||lds.org^
 @@||leadfoxcloud.com^
@@ -11424,6 +11441,7 @@
 @@||links.uv.es^
 @@||links.wpmhs.com^
 @@||links2.me^
+@@||links4money.com^
 @@||linksa.me^
 @@||linksable.to^
 @@||linksdr.com^
@@ -18758,6 +18776,7 @@
 @@||suite57.emarsys.net^
 @@||suite58.emarsys.net^
 @@||suite59.emarsys.net^
+@@||suite6.emarsys.net^
 @@||suite60.emarsys.net^
 @@||suite63.emarsys.net^
 @@||suite67-cf.emarsys.net^
@@ -19964,6 +19983,7 @@
 @@||tracking.ftmo.com^
 @@||tracking.groupon.com^
 @@||tracking.i2w.io^
+@@||tracking.inflection.io^
 @@||tracking.mailerswift.app^
 @@||tracking.minetracking.com^
 @@||tracking.nextotrack.com^
