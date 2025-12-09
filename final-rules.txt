@@ -15469,6 +15469,7 @@
 @@||puds.ucweb.com^
 @@||puext.in^
 @@||pugetsystems.com^
+@@||puhli.icu^
 @@||pull-m1.wxlivecdn.com^
 @@||pull.ticktick.com^
 @@||pulsar.ebay.com^
@@ -15519,6 +15520,7 @@
 @@||pxl.to^
 @@||pxlcrv.co^
 @@||pxlfy.me^
+@@||pxs.cl^
 @@||pxu.co^
 @@||pxxbet.promo^
 @@||py.md^
@@ -15703,6 +15705,7 @@
 @@||quanturl.xyz^
 @@||quark.sm.cn^
 @@||quee.link^
+@@||queer.li^
 @@||query.prod.cms.rt.microsoft.com^
 @@||query.yahoo.com^
 @@||query.yahooapis.com^
@@ -16054,6 +16057,7 @@
 @@||reimageplus.com^
 @@||reinachan.com^
 @@||reini.link^
+@@||reive.site^
 @@||rejoicing.com^
 @@||rejoindre.app^
 @@||rekale.me^
@@ -16602,6 +16606,7 @@
 @@||sa-in-f14.1e100.net^
 @@||sa-in-f26.1e100.net^
 @@||sa-in-f27.1e100.net^
+@@||sa-link.cc^
 @@||sa.api.intl.miui.com^
 @@||sa.nexon.game.naver.com^
 @@||sa.symcb.com^
@@ -17266,6 +17271,8 @@
 @@||short-link.co^
 @@||short-link.me^
 @@||short-ly.co^
+@@||short-me.me^
+@@||short-url.co^
 @@||short-url.dk^
 @@||short-url.link^
 @@||short-url.org^
@@ -17829,6 +17836,7 @@
 @@||slitcy.com^
 @@||slnig.link^
 @@||slnk.se^
+@@||slotamina.com^
 @@||slpre.com^
 @@||slptr.com^
 @@||sls.update.microsoft.com.akadns.net^
@@ -17900,6 +17908,7 @@
 @@||smll.cc^
 @@||smlnk.us^
 @@||smlr.nu^
+@@||smo.do^
 @@||smokingwheels.github.io^
 @@||smol.re^
 @@||smoner.com^
@@ -19166,6 +19175,7 @@
 @@||tabzi.com^
 @@||tac.blog.naver.com^
 @@||tachiyomi.org^
+@@||taedy.com^
 @@||tag.aticdn.net^
 @@||tag.blog.naver.com^
 @@||tag.getdrip.com^
@@ -19640,6 +19650,7 @@
 @@||tinyurl.smart-home.com.co^
 @@||tinyurl.win^
 @@||tinyurlforbusiness.com^
+@@||tinyurls.biz^
 @@||tinyurls.io^
 @@||tinyurlshortener.com^
 @@||tinyurlwebsite.com^
@@ -20610,6 +20621,7 @@
 @@||upltps.com^
 @@||upmchp.us^
 @@||uppit.com^
+@@||upriserz.link^
 @@||uprising.kip.pro^
 @@||upside.app.link^
 @@||upstriderlinks.com^
@@ -20761,6 +20773,7 @@
 @@||url8x.com^
 @@||url9xx.com^
 @@||urla.ru^
+@@||urladda.com^
 @@||urlah.com^
 @@||urlao.com^
 @@||urlb.io^
@@ -20777,6 +20790,7 @@
 @@||urlbutter.link^
 @@||urlc.net^
 @@||urlcentre.com^
+@@||urlchecker.info^
 @@||urlco.co^
 @@||urlcort.com^
 @@||urlcover.com^
@@ -20797,6 +20811,7 @@
 @@||urlers.com^
 @@||urless.com^
 @@||urlexpander.org^
+@@||urlf.cc^
 @@||urlfile.xyz^
 @@||urlflea.com^
 @@||urlforyou.com^
@@ -21420,6 +21435,7 @@
 @@||vk.sv^
 @@||vkei.eu^
 @@||vkontakte.ru^
+@@||vl.am^
 @@||vl.api.np.km.playstation.net^
 @@||vla.lu^
 @@||vlab.pp.ru^
@@ -21741,6 +21757,7 @@
 @@||webgrab.wechat.com^
 @@||webhostingtalk.com^
 @@||webi.li^
+@@||webinfos.info^
 @@||webinstallers.gog-statics.com^
 @@||webixcard.me^
 @@||weblb-wg.dual-gslb.spotify.com^
@@ -21814,6 +21831,7 @@
 @@||weu1-urlp.secure.skypeassets.com^
 @@||weworkers.io^
 @@||weworkremotely.com^
+@@||wez.info^
 @@||wf0.xin^
 @@||wfcdn.de^
 @@||wfly.co^
@@ -21948,6 +21966,7 @@
 @@||wix.com^
 @@||wixapps.net^
 @@||wixsite.com^
+@@||wjcf.co^
 @@||wk.idey.cn^
 @@||wkf.ms^
 @@||wkms-public.apple.com^
@@ -23643,6 +23662,7 @@
 @@||x1337x.ws^
 @@||x19.update.netease.com^
 @@||x1a.eu^
+@@||x2c.eu^
 @@||x2t.com^
 @@||x2y.me^
 @@||x3.cx^
@@ -23872,6 +23892,7 @@
 @@||yesb.app^
 @@||yex.tt^
 @@||yfrog.com^
+@@||yh6.us^
 @@||yh9.page^
 @@||yhd.com^
 @@||yhoo.it^

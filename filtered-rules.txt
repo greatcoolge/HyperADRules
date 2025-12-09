@@ -15463,6 +15463,7 @@ pubsub.plex.tv
 puds.ucweb.com
 puext.in
 pugetsystems.com
+puhli.icu
 pull-m1.wxlivecdn.com
 pull.ticktick.com
 pulsar.ebay.com
@@ -15513,6 +15514,7 @@ pxgo.net
 pxl.to
 pxlcrv.co
 pxlfy.me
+pxs.cl
 pxu.co
 pxxbet.promo
 py.md
@@ -15697,6 +15699,7 @@ quantummetric.com
 quanturl.xyz
 quark.sm.cn
 quee.link
+queer.li
 query.prod.cms.rt.microsoft.com
 query.yahoo.com
 query.yahooapis.com
@@ -16048,6 +16051,7 @@ rei.com
 reimageplus.com
 reinachan.com
 reini.link
+reive.site
 rejoicing.com
 rejoindre.app
 rekale.me
@@ -16596,6 +16600,7 @@ s99.tech
 sa-in-f14.1e100.net
 sa-in-f26.1e100.net
 sa-in-f27.1e100.net
+sa-link.cc
 sa.api.intl.miui.com
 sa.nexon.game.naver.com
 sa.symcb.com
@@ -17260,6 +17265,8 @@ short-it.cc
 short-link.co
 short-link.me
 short-ly.co
+short-me.me
+short-url.co
 short-url.dk
 short-url.link
 short-url.org
@@ -17823,6 +17830,7 @@ slinkurl.com
 slitcy.com
 slnig.link
 slnk.se
+slotamina.com
 slpre.com
 slptr.com
 sls.update.microsoft.com
@@ -17894,6 +17902,7 @@ smlk.es
 smll.cc
 smlnk.us
 smlr.nu
+smo.do
 smokingwheels.github.io
 smol.re
 smoner.com
@@ -19160,6 +19169,7 @@ tabsoft.co
 tabzi.com
 tac.blog.naver.com
 tachiyomi.org
+taedy.com
 tag.aticdn.net
 tag.blog.naver.com
 tag.getdrip.com
@@ -19634,6 +19644,7 @@ tinyurl.se
 tinyurl.smart-home.com.co
 tinyurl.win
 tinyurlforbusiness.com
+tinyurls.biz
 tinyurls.io
 tinyurlshortener.com
 tinyurlwebsite.com
@@ -20604,6 +20615,7 @@ uploadstatic.mihoyo.com
 upltps.com
 upmchp.us
 uppit.com
+upriserz.link
 uprising.kip.pro
 upside.app.link
 upstriderlinks.com
@@ -20755,6 +20767,7 @@ url84.com
 url8x.com
 url9xx.com
 urla.ru
+urladda.com
 urlah.com
 urlao.com
 urlb.io
@@ -20771,6 +20784,7 @@ urlbrief.com
 urlbutter.link
 urlc.net
 urlcentre.com
+urlchecker.info
 urlco.co
 urlcort.com
 urlcover.com
@@ -20791,6 +20805,7 @@ urlenco.de
 urlers.com
 urless.com
 urlexpander.org
+urlf.cc
 urlfile.xyz
 urlflea.com
 urlforyou.com
@@ -21414,6 +21429,7 @@ vk.com
 vk.sv
 vkei.eu
 vkontakte.ru
+vl.am
 vl.api.np.km.playstation.net
 vla.lu
 vlab.pp.ru
@@ -21735,6 +21751,7 @@ webflow.grsm.io
 webgrab.wechat.com
 webhostingtalk.com
 webi.li
+webinfos.info
 webinstallers.gog-statics.com
 webixcard.me
 weblb-wg.dual-gslb.spotify.com
@@ -21808,6 +21825,7 @@ wetter.de
 weu1-urlp.secure.skypeassets.com
 weworkers.io
 weworkremotely.com
+wez.info
 wf0.xin
 wfcdn.de
 wfly.co
@@ -21942,6 +21960,7 @@ wiwir.cc
 wix.com
 wixapps.net
 wixsite.com
+wjcf.co
 wk.idey.cn
 wkf.ms
 wkms-public.apple.com
@@ -23637,6 +23656,7 @@ x11.pw
 x1337x.ws
 x19.update.netease.com
 x1a.eu
+x2c.eu
 x2t.com
 x2y.me
 x3.cx
@@ -23866,6 +23886,7 @@ yes.link
 yesb.app
 yex.tt
 yfrog.com
+yh6.us
 yh9.page
 yhd.com
 yhoo.it
