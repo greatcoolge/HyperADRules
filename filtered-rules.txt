@@ -45,7 +45,6 @@
 0.us.pool.ntp.org
 0.wikipedia.com
 000714.xyz
-00m.in
 00oo.lol
 010.at
 02faq.com
@@ -1958,7 +1957,6 @@ amrep.org
 amtb.de
 amway-cdn.exponea.com
 amz.icu
-amz.run
 amz.tf
 amzn.com
 amzn.id
@@ -3850,7 +3848,6 @@ builder-assets.unbounce.com
 buildinhockinghills.com
 builthow.live
 builtwith.com
-bujo.li
 buk.me
 buka.coffee
 bul.lu
@@ -7374,6 +7371,7 @@ find-url.co
 find.api.micloud.xiaomi.net
 findapi.micloud.xiaomi.net
 findmini.app
+findmylink.org
 findmymobile.samsung.com
 findschools.ca
 finy.me
@@ -10012,7 +10010,6 @@ ipip.net
 ipkill.org
 ipla.tv
 ipleak.net
-iplis.ru
 iplists.firehol.org
 iplog.co
 iplog.link
@@ -10467,7 +10464,6 @@ kastatic.com
 katcr.to
 katespadesneakpeek.com
 katowice.tvp.pl
-katzr.net
 kave.to
 kaz.sk
 kb.adguard.com
@@ -12732,7 +12728,6 @@ midiavip.com
 miffy.me
 migc.g.mi.com
 mightyurl.mightyscripts.xyz
-migly.in
 migrate.driveapi.micloud.xiaomi.net
 migre.me
 mihanblog.com
@@ -16290,7 +16285,6 @@ rozhl.as
 rpetri.ch
 rpf.io
 rpg.twitch.tv
-rplg.co
 rpt.gdt.qq.com
 rptl.io
 rptrcks.walmart.com
@@ -17989,7 +17983,6 @@ sniplytics.com
 snipmojo.com
 snipp.dev
 snippets.cdn.mozilla.net
-snipqr.com
 snipr.com
 snipurl.com
 snipurl.dev
@@ -19780,7 +19773,6 @@ tnyurl.one
 tnyurl.pro
 tnyz.at
 to-text.net
-to.lk
 to.ly
 to.nconnect.asia
 to.pbs.org
@@ -20089,7 +20081,6 @@ triggerbee.com
 trim-ly.com
 trim-url.com
 trim.cx
-trim.one
 trimaurl.com
 trimify.xyz
 trimlink.ai
@@ -20484,7 +20475,6 @@ umblr.com
 umd.edu
 umdc.aliapp.org
 umdc.alipay.org
-ume.la
 umeeting.huawei.com
 umelink.net
 umeng.com

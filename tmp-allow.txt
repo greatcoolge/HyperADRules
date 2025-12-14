@@ -12,7 +12,6 @@
 @@||*.xn--ngstr-lra8j.com^
 @@||0.gp^
 @@||000714.xyz^
-@@||00m.in^
 @@||00oo.lol^
 @@||010.at^
 @@||02faq.com^
@@ -840,7 +839,6 @@
 @@||amtb.de^
 @@||amway-cdn.exponea.com^
 @@||amz.icu^
-@@||amz.run^
 @@||amz.tf^
 @@||amzn.com^
 @@||amzn.id^
@@ -1694,7 +1692,6 @@
 @@||bui.st^
 @@||buildinhockinghills.com^
 @@||builthow.live^
-@@||bujo.li^
 @@||buk.me^
 @@||buka.coffee^
 @@||bul.lu^
@@ -3281,6 +3278,7 @@
 @@||find-url.co^
 @@||find.api.micloud.xiaomi.net^
 @@||findmini.app^
+@@||findmylink.org^
 @@||findschools.ca^
 @@||finy.me^
 @@||fire.to^
@@ -4464,7 +4462,6 @@
 @@||ipgrabber.ru^
 @@||ipgraber.ru^
 @@||ipkill.org^
-@@||iplis.ru^
 @@||iplog.co^
 @@||iplog.link^
 @@||iplogger.cn^
@@ -4738,7 +4735,6 @@
 @@||kashly.net^
 @@||kask.us^
 @@||katespadesneakpeek.com^
-@@||katzr.net^
 @@||kave.to^
 @@||kaz.sk^
 @@||kbank.co^
@@ -6117,7 +6113,6 @@
 @@||midiavip.com^
 @@||miffy.me^
 @@||mightyurl.mightyscripts.xyz^
-@@||migly.in^
 @@||migre.me^
 @@||mii.pm^
 @@||mikale.me^
@@ -8073,7 +8068,6 @@
 @@||rows.com^
 @@||rozhl.as^
 @@||rpf.io^
-@@||rplg.co^
 @@||rptl.io^
 @@||rpurls.com^
 @@||rpxl.me^
@@ -9166,7 +9160,6 @@
 @@||sniplytics.com^
 @@||snipmojo.com^
 @@||snipp.dev^
-@@||snipqr.com^
 @@||snipr.com^
 @@||snipurl.com^
 @@||snipurl.dev^
@@ -10129,7 +10122,6 @@
 @@||tnyurl.pro^
 @@||tnyz.at^
 @@||to-text.net^
-@@||to.lk^
 @@||to.ly^
 @@||to.nconnect.asia^
 @@||to.pbs.org^
@@ -10340,7 +10332,6 @@
 @@||trim-ly.com^
 @@||trim-url.com^
 @@||trim.cx^
-@@||trim.one^
 @@||trimaurl.com^
 @@||trimify.xyz^
 @@||trimlink.ai^
@@ -10616,7 +10607,6 @@
 @@||ulvis.net^
 @@||umapa.pl^
 @@||umbe.io^
-@@||ume.la^
 @@||umelink.net^
 @@||uminify.com^
 @@||umlib.us^
