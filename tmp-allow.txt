@@ -323,7 +323,6 @@
 @@||6mm.in^
 @@||6nmd.us^
 @@||6url.com^
-@@||6urls.com^
 @@||7-aclk.net^
 @@||7.ly^
 @@||711.is^
@@ -335,10 +334,8 @@
 @@||777ch.livepartners.com^
 @@||777es.livepartners.com^
 @@||777nl.livepartners.com^
-@@||7894.xyz^
 @@||7a.ink^
 @@||7c34.com^
-@@||7clik.com^
 @@||7eer.net^
 @@||7fth.cc^
 @@||7g7.ir^
