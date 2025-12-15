@@ -1297,7 +1297,6 @@ allkpop.com
 alllinks.in
 alllinksinbio.com
 allmylinks.link
-allmylinksinoneplace.com
 alls.link
 alluremedia.com
 alluremedia.com.au
@@ -2599,7 +2598,6 @@ apt.izzysoft.de
 apt.sonarr.tv
 aptg.tw
 apticirl.com
-aptly.co.za
 aptsbyusu.com
 apurl.in
 apzones.com
@@ -3316,7 +3314,6 @@ bing.ru
 bing.se
 binged.it
 binglee.com.au
-bink.bg
 bio-links.ru
 bio.altosky.com
 bio.bayoli.com
@@ -3414,7 +3411,6 @@ bitly.pw
 bitly.to
 bitly.weballtools.com
 bitly.ws
-bitly1.ru
 bitlyli.com
 bitlylinks.com
 bitlyshort.com
@@ -3483,7 +3479,6 @@ bleenk.co
 bleepingcomputer.com
 blink.hirebiz.com
 blinkbreeze.com
-blinkmelink.com
 blinko.me
 blinkurl.in
 blinky.me
@@ -3779,7 +3774,6 @@ browser.mi-img.com
 browser.pipe.aria.microsoft.com
 browser.to
 browserapi.micloud.xiaomi.net
-brpp.info
 brq.link
 brst.link
 brtv.vip
@@ -6268,6 +6262,7 @@ down.local.sec.samsung.com
 down.local.sec.samsung.com.cdngc.net
 down.nbooks.naver.com
 down.sandai.net
+downbe.com
 download-alt.easyanticheat.net
 download-c.huawei.com
 download-c1.huawei.com
@@ -8331,6 +8326,7 @@ godaddy.com
 godev.trakaff.net
 godofwar.playstation.com
 godrk.de
+gods.ly
 gofile.io
 goft.ca
 gofund.me
@@ -17174,6 +17170,7 @@ shareus.io
 shatu.nl
 shavar.prod.mozaws.net
 shavar.services.mozilla.com
+shavel.ink
 shavelinks.com
 shayujizhang.com
 shct.io
@@ -17736,6 +17733,7 @@ sites.hscoscdn10.net
 sites.hscoscdn20.net
 sites.hscoscdn30.net
 sites.hscoscdn40.net
+sites.hscoscdnqa-eu1.net
 sites.kr
 sites.paradox.ai
 sites.techcrunch.com
@@ -18757,6 +18755,7 @@ suite15.emarsys.net
 suite16.emarsys.net
 suite17-cf.emarsys.net
 suite17.emarsys.net
+suite20.emarsys.net
 suite22.emarsys.net
 suite24.emarsys.net
 suite27.emarsys.net

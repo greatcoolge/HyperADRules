@@ -1303,7 +1303,6 @@
 @@||alllinks.in^
 @@||alllinksinbio.com^
 @@||allmylinks.link^
-@@||allmylinksinoneplace.com^
 @@||alls.link^
 @@||alluremedia.com.au ^
 @@||alluremedia.com.au^
@@ -2605,7 +2604,6 @@
 @@||apt.sonarr.tv^
 @@||aptg.tw^
 @@||apticirl.com^
-@@||aptly.co.za^
 @@||aptsbyusu.com^
 @@||apurl.in^
 @@||apzones.com^
@@ -3322,7 +3320,6 @@
 @@||bing.se^
 @@||binged.it^
 @@||binglee.com.au^
-@@||bink.bg^
 @@||bio-links.ru^
 @@||bio.altosky.com^
 @@||bio.bayoli.com^
@@ -3420,7 +3417,6 @@
 @@||bitly.to^
 @@||bitly.weballtools.com^
 @@||bitly.ws^
-@@||bitly1.ru^
 @@||bitlyli.com^
 @@||bitlylinks.com^
 @@||bitlyshort.com^
@@ -3489,7 +3485,6 @@
 @@||bleepingcomputer.com^
 @@||blink.hirebiz.com^
 @@||blinkbreeze.com^
-@@||blinkmelink.com^
 @@||blinko.me^
 @@||blinkurl.in^
 @@||blinky.me^
@@ -3785,7 +3780,6 @@
 @@||browser.pipe.aria.microsoft.com^
 @@||browser.to^
 @@||browserapi.micloud.xiaomi.net^
-@@||brpp.info^
 @@||brq.link^
 @@||brst.link^
 @@||brtv.vip^
@@ -6274,6 +6268,7 @@
 @@||down.local.sec.samsung.com^
 @@||down.nbooks.naver.com^
 @@||down.sandai.net^
+@@||downbe.com^
 @@||download-alt.easyanticheat.net^
 @@||download-c.huawei.com^
 @@||download-c1.huawei.com^
@@ -8337,6 +8332,7 @@
 @@||godev.trakaff.net^
 @@||godofwar.playstation.com^
 @@||godrk.de^
+@@||gods.ly^
 @@||gofile.io^
 @@||goft.ca^
 @@||gofund.me^
@@ -17180,6 +17176,7 @@
 @@||shatu.nl^
 @@||shavar.prod.mozaws.net^
 @@||shavar.services.mozilla.com^
+@@||shavel.ink^
 @@||shavelinks.com^
 @@||shayujizhang.com^
 @@||shct.io^
@@ -17742,6 +17739,7 @@
 @@||sites.hscoscdn20.net^
 @@||sites.hscoscdn30.net^
 @@||sites.hscoscdn40.net^
+@@||sites.hscoscdnqa-eu1.net^
 @@||sites.kr^
 @@||sites.paradox.ai^
 @@||sites.techcrunch.com^
@@ -18763,6 +18761,7 @@
 @@||suite16.emarsys.net^
 @@||suite17-cf.emarsys.net^
 @@||suite17.emarsys.net^
+@@||suite20.emarsys.net^
 @@||suite22.emarsys.net^
 @@||suite24.emarsys.net^
 @@||suite27.emarsys.net^
