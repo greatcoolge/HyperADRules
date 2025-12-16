@@ -7903,7 +7903,6 @@
 @@||gemy.link^
 @@||gen.cat^
 @@||generatemyqr.com^
-@@||generateurl.help^
 @@||generatortools-five.vercel.app^
 @@||genexcloud-sz.huawei.com^
 @@||geni.us^
@@ -7998,7 +7997,6 @@
 @@||getshort.in^
 @@||getshorter.com^
 @@||getsmallurl.com^
-@@||getthot.com^
 @@||gettolink.net^
 @@||gettr.im^
 @@||getus.at^
@@ -8596,7 +8594,6 @@
 @@||goolink.cc^
 @@||goolnk.com^
 @@||gooo.onl^
-@@||gooo.to^
 @@||goorm.io^
 @@||goose.re^
 @@||gopjn.com^
@@ -12967,6 +12964,7 @@
 @@||mkto-sj180011.com^
 @@||mkto-sj190104.com^
 @@||mkto-sj190237.com^
+@@||mkto-sj190248.com^
 @@||mkto-sj200192.com^
 @@||mkto-sj210107.com^
 @@||mkto-sj230006.com^
@@ -16193,6 +16191,7 @@
 @@||rip.to^
 @@||ripon4tab.cc.rs6.net^
 @@||ris.api.iris.microsoft.com^
+@@||rismehabb.cc.rs6.net^
 @@||ritea.id^
 @@||ritmarket.com^
 @@||rivablu.net^

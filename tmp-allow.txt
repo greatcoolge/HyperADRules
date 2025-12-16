@@ -3504,7 +3504,6 @@
 @@||gemy.link^
 @@||gen.cat^
 @@||generatemyqr.com^
-@@||generateurl.help^
 @@||generatortools-five.vercel.app^
 @@||geni.us^
 @@||genie.co.kr^
@@ -3548,7 +3547,6 @@
 @@||getshort.in^
 @@||getshorter.com^
 @@||getsmallurl.com^
-@@||getthot.com^
 @@||gettolink.net^
 @@||gettr.im^
 @@||getus.at^
@@ -3819,7 +3817,6 @@
 @@||goolink.cc^
 @@||goolnk.com^
 @@||gooo.onl^
-@@||gooo.to^
 @@||goose.re^
 @@||gopjn.com^
 @@||gopreply.com^
@@ -6286,6 +6283,7 @@
 @@||mkto-sj180011.com^
 @@||mkto-sj190104.com^
 @@||mkto-sj190237.com^
+@@||mkto-sj190248.com^
 @@||mkto-sj200192.com^
 @@||mkto-sj210107.com^
 @@||mkto-sj230006.com^
@@ -8003,6 +8001,7 @@
 @@||rip.city^
 @@||rip.to^
 @@||ripon4tab.cc.rs6.net^
+@@||rismehabb.cc.rs6.net^
 @@||ritea.id^
 @@||ritmarket.com^
 @@||rivablu.net^
