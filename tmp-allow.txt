@@ -676,6 +676,7 @@
 @@||aff44.com^
 @@||affectit.cloud^
 @@||affiliate.api.rakuten.com.tw^
+@@||affiliate.logitravel.com^
 @@||affiliate44.com^
 @@||affiliatefuture.com^
 @@||affilired.com^
@@ -2383,7 +2384,6 @@
 @@||csj.lol^
 @@||csmo.us^
 @@||csnode.com^
-@@||csoddr.one^
 @@||css.tv.itc.cn^
 @@||cssubmissions.apple.com^
 @@||cstaticdun-v6.126.net^
@@ -2929,7 +2929,6 @@
 @@||ebay.to^
 @@||ebbco.ir^
 @@||ebbkr.com^
-@@||ebe.cool^
 @@||ebvv.com^
 @@||eby.onl^
 @@||ecard.163.com^
@@ -3227,7 +3226,6 @@
 @@||fe-video-qc.xhscdn.com^
 @@||fe.games^
 @@||fe3cr.delivery.mp.microsoft.com^
-@@||fedbs.pro^
 @@||fee.vn^
 @@||feentry.zhuanzhuan.com^
 @@||feji.io^
@@ -4213,7 +4211,6 @@
 @@||i1.hdslb.com^
 @@||i2.chuimg.com^
 @@||i2.hdslb.com^
-@@||i37.eu^
 @@||i5o.io^
 @@||i72.lanzoug.com^
 @@||i7i.co^
@@ -6933,7 +6930,6 @@
 @@||oneany.shop^
 @@||onebio.app^
 @@||onecompile.com^
-@@||onelink.com.do^
 @@||onelink.lt^
 @@||onelink.me^
 @@||onelink.to^

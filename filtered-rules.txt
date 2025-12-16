@@ -1125,6 +1125,7 @@ affectit.cloud
 affiliate-program.amazon.com
 affiliate.api.rakuten.com.tw
 affiliate.hitbtc.com
+affiliate.logitravel.com
 affiliate.twitch.tv
 affiliate44.com
 affiliatefuture.com
@@ -5454,7 +5455,6 @@ csinc.bz
 csj.lol
 csmo.us
 csnode.com
-csoddr.one
 csp.medium.com
 csr.integration.viber.com
 css.gbtcdn.com
@@ -6553,7 +6553,6 @@ ebaystatic.com
 ebbco.ir
 ebbkr.com
 ebd.cda.pl
-ebe.cool
 ebgames.com.au
 ebill.sydneywater.com.au
 ebookstore.sony.com
@@ -7225,7 +7224,6 @@ fe3cr.delivery.mp.microsoft.com
 fe4.edge.pantheon.io
 featured-profiles.soundcloud.com
 features.engadget.com
-fedbs.pro
 fee.vn
 feed.feedburner.com
 feed.xda-developers.com
@@ -9352,7 +9350,6 @@ i2.sndcdn.com
 i2.wp.com
 i3.feedspot.com
 i3.sndcdn.com
-i37.eu
 i4.sndcdn.com
 i5o.io
 i6.weather.oppomobile.com
@@ -14223,7 +14220,6 @@ onedrive.com
 onedrive.live.com
 onegov.nsw.gov.au
 oneid.mmstat.com
-onelink.com.do
 onelink.lt
 onelink.me
 onelink.to
