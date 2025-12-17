@@ -5364,7 +5364,6 @@ crbcdn.jsfiddle.net
 crdrv.co
 cre.pr
 crealytics.com
-create.linnk.fr
 create.snapchat.com
 createjs.com
 creately.com
@@ -9948,7 +9947,6 @@ invite.twitch.tv
 invite.viber.com
 invpy.com
 invy.in
-inx.name
 iny.cc
 iny.com
 iny.me
@@ -10040,7 +10038,6 @@ irng.ca
 irohi.com
 irs.gov
 is-gd.link
-is.am
 is.gd
 is.hide.me
 is.snssdk.com
@@ -10687,7 +10684,6 @@ kubernetes.io
 kuc.cz
 kuhlinks.de
 kuic.io
-kuik.li
 kuiklink.com
 kuiniuca.com
 kuku.lu
@@ -10810,7 +10806,6 @@ lacumpa.biz
 lads.myspacecdn.com
 ladyfootlocker.com
 laerd.com
-lah.bio
 lailailah.com
 lam.bo
 lammariom.dev
@@ -11468,7 +11463,6 @@ linksubmit.net
 linksumo.com
 linksvid.com
 linksvip.one
-linksy.io
 linksynergy.com
 linkt.ink
 linktest.lse.ac.uk

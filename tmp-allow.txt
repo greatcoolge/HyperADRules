@@ -2346,7 +2346,6 @@
 @@||crdrv.co^
 @@||cre.pr^
 @@||crealytics.com^
-@@||create.linnk.fr^
 @@||creately.com^
 @@||createsend.com^
 @@||createsend1.com^
@@ -4435,7 +4434,6 @@
 @@||invitationlinks.com^
 @@||invpy.com^
 @@||invy.in^
-@@||inx.name^
 @@||iny.me^
 @@||io.clickguard.com^
 @@||io.kanopus.org^
@@ -4469,7 +4467,6 @@
 @@||irng.ca^
 @@||irohi.com^
 @@||is-gd.link^
-@@||is.am^
 @@||is.gd^
 @@||is3.co^
 @@||isang.click^
@@ -4873,7 +4870,6 @@
 @@||kuc.cz^
 @@||kuhlinks.de^
 @@||kuic.io^
-@@||kuik.li^
 @@||kuiklink.com^
 @@||kuku.lu^
 @@||kulink.me^
@@ -4973,7 +4969,6 @@
 @@||labb.in^
 @@||labs.to^
 @@||laco.st^
-@@||lah.bio^
 @@||lailailah.com^
 @@||lam.bo^
 @@||lammariom.dev^
@@ -5495,7 +5490,6 @@
 @@||linksumo.com^
 @@||linksvid.com^
 @@||linksvip.one^
-@@||linksy.io^
 @@||linkt.ink^
 @@||linktest.lse.ac.uk^
 @@||linktexas.info^
