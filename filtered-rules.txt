@@ -3325,7 +3325,6 @@ bio.meuhub.com
 bio.mytsi.org
 bio.recards.net
 bio.rocketapps.pro
-bio.rub3n.io
 bio.zoluu.co
 bioandlink.com
 biobee.io
@@ -7756,7 +7755,6 @@ g.live.com
 g.mi.com
 g.msn.com
 g.page
-g.scs71.com
 g.static.mega.co.nz
 g.udimg.com
 g.us.sinaimg.cn
@@ -13394,7 +13392,6 @@ mylnk.net
 mylnks.xyz
 mylt.tv
 mylx.io
-mymilf.tech
 myminiurl.net
 mymole.info
 mymst.co
@@ -13491,7 +13488,6 @@ na61-na62.wagbridge.alibaba.tanx.com
 naa.gg
 nabio.com.br
 nac.naver.com
-nagakuat.com
 nah.uy
 nahnoji.cz
 naifei.shop
@@ -13526,7 +13522,6 @@ naszdziennik.pl
 natfrp.cloud
 nationalgeographic.com
 native-vita.np.ac.playstation.net
-natsbee.link
 natura.com.vc
 nature.com
 nature.ly
@@ -14058,7 +14053,6 @@ observer.com
 oc.sparkasse.de
 oca-api.netflix.com
 occ.li
-ocdlink.com
 oceania.pool.ntp.org
 oceanofgames.com
 ock.cn
@@ -14708,7 +14702,6 @@ pci.spotify.com
 pck.tv
 pclosdebian.org
 pcmag.com
-pco.la
 pcof.fi
 pcphq.net
 pcsgt.com
@@ -14745,7 +14738,6 @@ peercertification.wildalwhite.com
 peerwith.me
 pegasurl.com
 pego.work
-peikko.group
 pekcamke.link
 pellz.link
 pencetdulu.com
@@ -15163,7 +15155,6 @@ ppq.apple.com
 ppscourse.com
 ppt.cc
 ppt.dpanda.in
-ppt.li
 ppurifier.game.xiaomi.com
 ppurl.io
 pql.ca
@@ -15506,7 +15497,6 @@ pym.se
 pymd.org
 pymhm.pro
 pymoinfo.com
-pynva.pro
 pyt.app
 python.plainenglish.io
 pzdls.co
@@ -15633,7 +15623,6 @@ qrgenerator.org
 qrisni.me
 qrkard.it
 qrkiss.com
-qrl.qa
 qrley.com
 qrlinker.net
 qrlinkgenerator.com
@@ -15709,7 +15698,6 @@ qutt.me
 qutt.us
 quurls.com
 qvc.co
-qxa.me
 qxp.cz
 qxp.sk
 qy.163.com
@@ -17191,7 +17179,6 @@ shlink.io
 shln.io
 shln.me
 shlom.in
-shly.ink
 shme.io
 shminorshort.weixin.qq.com
 shmz.me
@@ -17301,7 +17288,6 @@ shortaro.com
 shortbe.com
 shortbee.co
 shortbee.io
-shortbio.link
 shortclick.com
 shortclient.top
 shortcm.li
@@ -17391,7 +17377,6 @@ shortino.link
 shortinx.xyz
 shortiny.com
 shortio.cn
-shortio.net
 shortio.sk
 shortit.me
 shortkit.io
@@ -17405,7 +17390,6 @@ shortlink.gr
 shortlink.ibc.dk
 shortlink.is
 shortlink.one
-shortlink.sbs
 shortlink.uk
 shortlink1.com
 shortlink88.xyz
@@ -17473,7 +17457,6 @@ shortsy.pro
 shortthis.app
 shortturl.co
 shortu.in
-shortuel.asia
 shorturl-frontend-lac.vercel.app
 shorturl.ae
 shorturl.asia
@@ -17562,7 +17545,6 @@ shrinkmyurl.com
 shrinkr.io
 shrinkster.com
 shrinkuri.com
-shrinkurl.us
 shrinkurlnow.vercel.app
 shrinkurls.vercel.app
 shrinkway.com
@@ -17799,7 +17781,6 @@ slby.ir
 slecastle.com
 slice-url.vercel.app
 slice.partners
-slicethis.link
 slickdeals.net
 slides.diigo.com
 slidesha.re
@@ -17834,7 +17815,6 @@ sm.ign.com
 sm4ll.eu
 sm4ll.in
 sm4rtvoice.org
-sma.cx
 sma.ug
 smal.lu
 small.cat
