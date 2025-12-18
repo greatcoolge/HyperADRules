@@ -6249,6 +6249,7 @@
 @@||mkto-lon050200.com^
 @@||mkto-lon060131.com^
 @@||mkto-lon080006.com^
+@@||mkto-lon090045.com^
 @@||mkto-lon090082.com^
 @@||mkto-lon100059.com^
 @@||mkto-lon100168.com^
@@ -11650,7 +11651,6 @@
 @@||x.gd^
 @@||x.nu^
 @@||x0.ifengimg.com^
-@@||x0xdesign.com^
 @@||x10.mx^
 @@||x11.pw^
 @@||x19.update.netease.com^
@@ -11869,7 +11869,6 @@
 @@||yourmovie.co^
 @@||yourwish.es^
 @@||yous.ee^
-@@||youtubeopener.app^
 @@||youz.one^
 @@||yrkus.com^
 @@||ysear.ch^
@@ -11892,7 +11891,6 @@
 @@||yweb.com^
 @@||yx.si^
 @@||yxe3d.paulchavady.com^
-@@||yycdigitalworld.com^
 @@||yys.163.com^
 @@||yyv.co^
 @@||z-url.com^
