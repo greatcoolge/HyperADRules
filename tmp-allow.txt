@@ -9170,7 +9170,6 @@
 @@||sosi.al^
 @@||sosy.al^
 @@||sou.nu^
-@@||soumtrack.info^
 @@||sourl.cn^
 @@||south-plus.net^
 @@||sovrn.co^
@@ -9246,7 +9245,6 @@
 @@||srpd.ca^
 @@||srrink.com^
 @@||srtl.io^
-@@||srtl.one^
 @@||srtn.us^
 @@||srtnr.co^
 @@||srturl.xyz^
@@ -9783,7 +9781,6 @@
 @@||tel-u.ac.id^
 @@||telega.io^
 @@||telegramviral.com^
-@@||teleko.me^
 @@||tellurl.com^
 @@||tempfind.app^
 @@||tempurl.replit.app^
@@ -9893,7 +9890,6 @@
 @@||ticketsecuredph.com^
 @@||tidd.ly^
 @@||tiddly.io^
-@@||tidyur.link^
 @@||tidyurl.link^
 @@||tidyurl.vercel.app^
 @@||tiger388.life^
@@ -10040,7 +10036,6 @@
 @@||tlot.cc^
 @@||tlrd.pl^
 @@||tlrk.it^
-@@||tls.tc^
 @@||tls.yt^
 @@||tlsn.io^
 @@||tlsurl.com^
@@ -10141,7 +10136,6 @@
 @@||tousu.sina.cn^
 @@||tousu.sina.com.cn^
 @@||tov1.net^
-@@||tovgo.cc^
 @@||toweraws.cs.rackspace.com^
 @@||tox.cx^
 @@||toyota.tw^
@@ -10484,7 +10478,6 @@
 @@||txmov2.a.kwimgs.com^
 @@||txpl.us^
 @@||txtpass.com^
-@@||txtrf.pro^
 @@||txul.cn^
 @@||txwk.10010.com^
 @@||txxx.ahcdn.com^
@@ -10501,7 +10494,6 @@
 @@||tzbiolinks.com^
 @@||tzu.to^
 @@||tzv.my^
-@@||u-rl.li^
 @@||u.10010.cn^
 @@||u.163.com^
 @@||u.g0.to^
@@ -10583,7 +10575,6 @@
 @@||underswo.de^
 @@||undrarmr.co^
 @@||unelma.io^
-@@||unesa.xyz^
 @@||uni.cf^
 @@||uni.ms^
 @@||unicycle.to^
@@ -10698,7 +10689,6 @@
 @@||url.eefocus.com^
 @@||url.elmark.com.pl^
 @@||url.enepe.fr^
-@@||url.eus^
 @@||url.fti.or.th^
 @@||url.gratis^
 @@||url.hilberg.eu^
@@ -10858,7 +10848,6 @@
 @@||urlme.us^
 @@||urlmkr.net^
 @@||urlmy.link^
-@@||urlner.com^
 @@||urlno.com^
 @@||urlnova.com^
 @@||urlo.in^
@@ -10931,7 +10920,6 @@
 @@||urlsnapy.com^
 @@||urlsnipper.com^
 @@||urlsss.vercel.app^
-@@||urlstox.com^
 @@||urltamil.in^
 @@||urlth.me^
 @@||urltiger.com^
@@ -10966,7 +10954,6 @@
 @@||urlz.fr^
 @@||urlz.li^
 @@||urlz.my^
-@@||urlzam.com^
 @@||urlzen.com^
 @@||urlzip.io^
 @@||urlzo.org^
@@ -11291,7 +11278,6 @@
 @@||walk.sc^
 @@||walkjc.org^
 @@||wall.sh^
-@@||wallets.my^
 @@||wallpaperm.cmcm.com^
 @@||walmart-to.com^
 @@||wangzhanzhubo.com^
@@ -11361,12 +11347,10 @@
 @@||webtoolmaster.com^
 @@||webtor.io^
 @@||webtte.com^
-@@||webyank4d.live^
 @@||webz.cc^
 @@||wec.li^
 @@||wed.li^
 @@||wedew.link^
-@@||wee.bz^
 @@||wee.so^
 @@||wee.wtf^
 @@||weelink.io^

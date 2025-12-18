@@ -18052,7 +18052,6 @@
 @@||soso.com^
 @@||sosy.al^
 @@||sou.nu^
-@@||soumtrack.info^
 @@||soundcaptcha.naver.com^
 @@||soundcheck.soundcloud.com^
 @@||soundcloud.com^
@@ -18205,7 +18204,6 @@
 @@||srpd.ca^
 @@||srrink.com^
 @@||srtl.io^
-@@||srtl.one^
 @@||srtn.us^
 @@||srtnr.co^
 @@||srturl.xyz^
@@ -19303,7 +19301,6 @@
 @@||telegram.org^
 @@||telegramviral.com^
 @@||telegraph.co.uk^
-@@||teleko.me^
 @@||telemetry-incoming.r53-2.services.mozilla.com^
 @@||telemetry.malwarebytes.com^
 @@||telemetry.soundcloud.com^
@@ -19493,7 +19490,6 @@
 @@||ticketsecuredph.com^
 @@||tidd.ly^
 @@||tiddly.io^
-@@||tidyur.link^
 @@||tidyurl.link^
 @@||tidyurl.vercel.app^
 @@||tier2.ios.skypeassets.com^
@@ -19670,7 +19666,6 @@
 @@||tlot.cc^
 @@||tlrd.pl^
 @@||tlrk.it^
-@@||tls.tc^
 @@||tls.yt^
 @@||tlsn.io^
 @@||tlsurl.com^
@@ -19835,7 +19830,6 @@
 @@||tousu.sina.com.cn^
 @@||toutiao.com^
 @@||tov1.net^
-@@||tovgo.cc^
 @@||toweraws.cs.rackspace.com^
 @@||townnews.com^
 @@||tox.cx^
@@ -20308,7 +20302,6 @@
 @@||txpl.us^
 @@||txt.go.sohu.com^
 @@||txtpass.com^
-@@||txtrf.pro^
 @@||txul.cn^
 @@||txwk.10010.com^
 @@||txxx.ahcdn.com^
@@ -20329,7 +20322,6 @@
 @@||tzbiolinks.com^
 @@||tzu.to^
 @@||tzv.my^
-@@||u-rl.li^
 @@||u.10010.cn^
 @@||u.163.com^
 @@||u.alicdn.com^
@@ -20467,7 +20459,6 @@
 @@||undrarmr.co^
 @@||undraw.co^
 @@||unelma.io^
-@@||unesa.xyz^
 @@||unesco.org^
 @@||uni.cf^
 @@||uni.ms^
@@ -20661,7 +20652,6 @@
 @@||url.eefocus.com^
 @@||url.elmark.com.pl^
 @@||url.enepe.fr^
-@@||url.eus^
 @@||url.fti.or.th^
 @@||url.gratis^
 @@||url.hilberg.eu^
@@ -20828,7 +20818,6 @@
 @@||urlme.us^
 @@||urlmkr.net^
 @@||urlmy.link^
-@@||urlner.com^
 @@||urlno.com^
 @@||urlnova.com^
 @@||urlo.in^
@@ -20902,7 +20891,6 @@
 @@||urlsnapy.com^
 @@||urlsnipper.com^
 @@||urlsss.vercel.app^
-@@||urlstox.com^
 @@||urltamil.in^
 @@||urlth.me^
 @@||urltiger.com^
@@ -20937,7 +20925,6 @@
 @@||urlz.fr^
 @@||urlz.li^
 @@||urlz.my^
-@@||urlzam.com^
 @@||urlzen.com^
 @@||urlzip.io^
 @@||urlzo.org^
@@ -21586,7 +21573,6 @@
 @@||wallet.commerce.coinbase.com^
 @@||wallet.ecom.ubi.com^
 @@||wallet.viber.com^
-@@||wallets.my^
 @@||wallhaven.cc^
 @@||wallpaper.cdn.pandora.xiaomi.com^
 @@||wallpaper.pandora.xiaomi.com^
@@ -21754,14 +21740,12 @@
 @@||webtoolmaster.com^
 @@||webtor.io^
 @@||webtte.com^
-@@||webyank4d.live^
 @@||webz.cc^
 @@||wec.li^
 @@||wechat.com^
 @@||wed.li^
 @@||wedding.rakuten.co.jp^
 @@||wedew.link^
-@@||wee.bz^
 @@||wee.so^
 @@||wee.wtf^
 @@||weebly.com^
