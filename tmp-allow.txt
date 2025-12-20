@@ -5016,7 +5016,6 @@
 @@||leitup.com^
 @@||lekale.me^
 @@||lelink.in^
-@@||lemde.fr^
 @@||lemon-kutt.lemon.cchan.tv^
 @@||lenon.page^
 @@||lens.zhihu.com^
@@ -7333,6 +7332,7 @@
 @@||playgrounds-assets-cdn.apple.com^
 @@||playgrounds-cdn.apple.com^
 @@||playsolaire.com^
+@@||playtr.games^
 @@||plcr.ai^
 @@||pldthome.info^
 @@||plink.ir^
@@ -8041,6 +8041,7 @@
 @@||rows.com^
 @@||rozhl.as^
 @@||rpf.io^
+@@||rplg.co^
 @@||rptl.io^
 @@||rpurls.com^
 @@||rpxl.me^

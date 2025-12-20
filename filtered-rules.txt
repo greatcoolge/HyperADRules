@@ -15005,6 +15005,7 @@ playgrounds-cdn.apple.com
 playsolaire.com
 playstation.com
 playstation.net
+playtr.games
 plaza.rakuten.co.jp
 plblog.kaspersky.com
 plcr.ai
@@ -16258,6 +16259,7 @@ rozhl.as
 rpetri.ch
 rpf.io
 rpg.twitch.tv
+rplg.co
 rpt.gdt.qq.com
 rptl.io
 rptrcks.walmart.com
