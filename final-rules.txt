@@ -1067,6 +1067,7 @@
 @@||adservice.google.ga^
 @@||adservice.google.gr^
 @@||adservice.google.hr^
+@@||adservice.google.hu^
 @@||adservice.google.ie^
 @@||adservice.google.it^
 @@||adservice.google.lt^
@@ -15877,6 +15878,7 @@
 @@||rdevbseab.cc.rs6.net^
 @@||rdl.ink^
 @@||rdr.wargaming.net^
+@@||rdr9bzpab.cc.rs6.net^
 @@||rdrct.site^
 @@||rdre.me^
 @@||rdrt.cc^
