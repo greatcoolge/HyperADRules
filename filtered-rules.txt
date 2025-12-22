@@ -915,6 +915,7 @@ ad.lifesight.io
 ad.mcloud.139.com
 ad.samsungadhub.com
 ad.vu
+ad0.me
 ad5.eu
 ad7.biz
 ada.support
@@ -2507,6 +2508,7 @@ app.smler.in
 app.snapchat.com
 app.stumbleupon.com
 app.syndicaster.tv
+app.tagii.io
 app.tr.adjust.com
 app.twitch.tv
 app.univ-cotedazur.fr
@@ -3171,6 +3173,7 @@ beingtek.com
 belink.me
 belink.ph
 belink.vebto.com
+belinki.cloud
 belinksnip.com
 belinkurl.blog
 bely.pw
@@ -3331,6 +3334,7 @@ bio.zoluu.co
 bioandlink.com
 biobee.io
 biocardpro.com
+bioclick.net
 biofy.ai
 biofy.bio
 biohoster.com
@@ -4082,6 +4086,7 @@ captl1.co
 captur.in
 carbonads.net
 card.rakuten.co.jp
+cardinates.me
 cardiox-care.com
 cardprofile.de
 cardprofile.link
@@ -4890,6 +4895,7 @@ clip-url.vercel.app
 cliphunter.com
 clipitx.com
 cliplink.co
+cliplinkly.com
 clipme.me
 clipmy.link
 clipperlink.com
@@ -5467,6 +5473,7 @@ cstaticdun-v6.126.net
 cstaticdun.126.net
 cstu.io
 csvcllc.com
+csvip.me
 ct-m-fbx.fbsbx.com
 ct.paidmediatrk.com
 ct.rocks
@@ -5498,6 +5505,7 @@ cuanbio.com
 cube.meituan.com
 cube.meituan.net
 cubestat.com
+cuer.io
 cuk.one
 cukbaray.com
 cultm.ac
@@ -6521,6 +6529,7 @@ earnwithlink.com
 earth.google.com
 earthlink.net
 earthtoday.info
+easeado.com
 easy2links.com
 easyanticheat.net
 easybio.info
@@ -7123,6 +7132,7 @@ f7.163.com
 f8.market.xiaomi.com
 fa-st.co
 fa.by
+fa.gd
 fa.gravatar.com
 fa.wikipedia.com
 fabric.io
@@ -7906,6 +7916,7 @@ geniusqr.io
 genlink.me
 genshin.hoyoverse.com
 genuine.adobe.com
+genvalo.com
 genzurl.com
 geo-applefinance-cache.internal.query.g03.yahoodns.net
 geo-prod.do.dsp.mp.microsoft.com
@@ -7968,6 +7979,7 @@ getadsnow.org
 getalinkandshare.com
 getashorturl.com
 getbiolink.com
+getbiolink.me
 getbitly.pro
 getblue.me
 getcode.pw
@@ -8245,6 +8257,7 @@ go.popoway.cloud
 go.poweren.ir
 go.qb.by
 go.rakuten.com
+go.rapid-meta.com
 go.rebel.pl
 go.redirectingat.com
 go.sagesure.com
@@ -8605,6 +8618,7 @@ gosign.adobe.com
 gosite.org
 gosm.link
 gosmart.fit
+gosnip.app
 gosniply.com
 gossip.easyanticheat.net
 got.cr
@@ -10173,6 +10187,7 @@ jalurvip.co
 jame.sn
 jamesastaten.live
 jango.com
+jangup.kr
 janji.me
 janjihoki.fun
 janjikita.me
@@ -10611,6 +10626,7 @@ knicks.jd.com
 knnt.me
 knowyourmeme.com
 knw.one
+knz.app
 ko-kr.about.flipboard.com
 ko-kr.staging-about.flipboard.com
 ko.dict.naver.com
@@ -10622,6 +10638,7 @@ koddi.com
 kohls.com
 koi800.cc
 koinko.in
+kolaylink.com
 komputerswiat.pl
 konachan.com
 konachan.net
@@ -11089,6 +11106,7 @@ line3-h5-pc-api.biligame.com
 line3-statics-h5-mobile-api.biligame.net
 linea.link
 lineageoslog.com
+lined.cloud
 lineit.line.me
 linelive.life
 lingkod.to
@@ -11114,6 +11132,7 @@ link.dana.id
 link.devit.group
 link.digipull.in
 link.digitaladvisor.dk
+link.dith2.com
 link.dstrct.at
 link.dvlog.vn
 link.easwipe.com
@@ -11155,6 +11174,7 @@ link.plains.io
 link.plutonflix.stream
 link.polygongroup.com
 link.popthebox.my
+link.rccn.dev
 link.repithwin.com
 link.safelinkconverter.com
 link.sekitarkita.id
@@ -11180,6 +11200,7 @@ link.u-pov.ru
 link.ufpe.br
 link.untirta.ac.id
 link.us.paramountplus.com
+link.useblocks.io
 link.ver.us
 link.winlinetech.com
 link.xperialounge.sonymobile.com
@@ -13136,6 +13157,7 @@ more.sh
 morimo.info
 mork.ro
 mormon.org
+morphurl.com
 moscow.my.kaspersky.com
 mostrar.link
 motherboard.vice.com
@@ -13449,6 +13471,7 @@ myup.work
 myurl.id
 myurl.in
 myurl.ly
+myurl.ng
 myurls.ca
 mywot.com
 myxperia.sonymobile.com
@@ -13582,6 +13605,7 @@ nefeli.live
 neflixenomovies.com
 nej.md
 nejmqianyan.cn
+neo.am
 neonslug.com
 neontools.io
 neoplanet.snap.com
@@ -13739,6 +13763,7 @@ nig.gr
 nih.gov
 nii.ac
 nij.org
+nikaurl.com
 nike.com
 nil.naver.com
 nils.link
@@ -14157,6 +14182,7 @@ olboseo.com
 oldmutualsa.com
 oli.vi
 oline.me
+olinks.click
 oload.cloud
 oload.tv
 oloadcdn.net
@@ -14195,6 +14221,7 @@ on4t.net
 on5.net
 on9news.tv
 onboard.triptease.io
+onbpk.id
 once.to
 onceux.unicornmedia.com
 oncliq.co
@@ -14663,6 +14690,7 @@ patheos.com
 paths.to
 pathslab.com
 paulfredrick.com
+paut.to
 pavleka.com
 pawl.bio
 pay.bilibili.com
@@ -15622,6 +15650,7 @@ qrcode.ai
 qrcode.im
 qrcode.pl
 qrcode.primetecnologia.net.br
+qrcodeveloper.com
 qrcood.com
 qrcreator.link
 qrcs.io
@@ -16757,6 +16786,7 @@ scan.kaspersky.com
 scan.snapchat.com
 scanlah.com
 scanly.pro
+scanned.page
 scanqris.me
 scanquickly.com
 scanulator.com
@@ -16995,6 +17025,7 @@ seedr.cc
 seedsta.rs
 seeme.at
 seemless.link
+seemyshare.com
 seer.to
 seesaa.net
 seez.bio
@@ -17310,6 +17341,7 @@ short.php8developer.com
 short.pk
 short.profi.lv
 short.razinj.com
+short.relaxlikes.com
 short.ruksk.com
 short.sashem.com
 short.silex.me
@@ -17469,6 +17501,7 @@ shortmylink.co
 shortmyurl.app
 shortn.link
 shortna.me
+shortnd.com
 shortneer.com
 shortner.app
 shortner.cc
@@ -17979,6 +18012,7 @@ snipify.net
 snipio.co
 snipitx.com
 sniplify.me
+sniplink.co
 sniplnk.co
 sniplnk.me
 sniply.io
@@ -18784,6 +18818,7 @@ suite5.emarsys.net
 suite52.emarsys.net
 suite54-cf.emarsys.net
 suite54.emarsys.net
+suite56-cf.emarsys.net
 suite56.emarsys.net
 suite57.emarsys.net
 suite58.emarsys.net
@@ -18948,6 +18983,8 @@ swifturl-1bdc.vercel.app
 swipedright.gotinder.com
 swipez.in
 switchedonsailing.app
+switchlabs.dev
+switchlyapp.com
 switchy.io
 switchyio-advanced-url-shortener.en.softonic.com
 swiy.co
@@ -19240,6 +19277,7 @@ tapm.ee
 tapme.ink
 tapmy.app
 tapper.ai
+tappyurl.com
 taps.to
 tapthelink.cfd
 tapto.bio
@@ -19860,6 +19898,7 @@ torrentgalaxy.to
 tos-test.com
 toskys.cn
 tot.hoyoverse.com
+totheapp.com
 toto.pe
 totopecah.site
 touch.facebook.com
@@ -20636,6 +20675,7 @@ ur.wikipedia.com
 ur0.link
 ur1.ca
 ur3.us
+ur301.com
 ura.vn
 urb.tf
 urbandictionary.com
@@ -20651,6 +20691,7 @@ url-l.com
 url-qr.tk
 url-s.xyz
 url-server-75g5.onrender.com
+url-short.me
 url-shorten-87081.s3.amazonaws.com
 url-shortener-api-master.vercel.app
 url-shortener-beta-neon.vercel.app
@@ -20671,6 +20712,7 @@ url-shortener.freebusinessapps.net
 url-shortener.in
 url-shortener.yc.fstrk.io
 url-shortening-api-challenge-intermediate.vercel.app
+url-shortening.com
 url-shortenr-2d4.s3.amazonaws.com
 url-shortining-api.vercel.app
 url-shortner-zeta-nine.vercel.app
@@ -20777,6 +20819,7 @@ urlbae.com
 urlbd.com
 urlbind.com
 urlbit.co
+urlbit.io
 urlbit.online
 urlbit.pro
 urlbity.com
@@ -20917,6 +20960,7 @@ urlshortenervip.com
 urlshortenerx.com
 urlshortening.webalias.com
 urlshortly.com
+urlshortn.com
 urlshortner.org
 urlshortnerpassive.com
 urlshortx.com
@@ -21088,6 +21132,7 @@ usheethe.com
 usher.ttvnw.net
 usher.twitch.tv
 ushort.me
+ushort.my
 ushort.xyz
 ushuru.vzaar.com
 usis.bracu.ac.bd
@@ -21403,6 +21448,7 @@ visit.my
 visit.st
 visitame.app
 visitmy.link
+visitmylinks.com
 visitmypage.org
 visitsitenow.com
 visiyta.com
@@ -21644,6 +21690,7 @@ warez-bb.org
 warp.plus
 wartsi.ly
 wasap.is
+wasapbro.com
 washington.cbslocal.com
 washington.edu
 washingtonpost.com
@@ -21664,6 +21711,7 @@ wats.ir
 watti.me
 watva.org
 wave.sndcdn.com
+wavesnetwork.dev
 waveurl.net
 way.to
 waysto.be
@@ -21794,6 +21842,7 @@ weebly.com
 weeklyad.target.com
 weeklyad.target.com.edgesuite.net
 weelink.io
+weely.ai
 weeste.llc
 weeurl.eu
 weeurl.in
@@ -23914,6 +23963,7 @@ yoretube.net
 yorkpa.homes
 yorl.io
 yorl.to
+yors.io
 yotpoclicks.com
 yottatrend.com
 you.lpo.fr
@@ -24060,6 +24110,7 @@ zeep.ly
 zeit.co
 zencdn.net
 zendesk.com
+zenfilm.solutions
 zenless.hoyoverse.com
 zenlinkit.com
 zensus.io
@@ -24102,9 +24153,11 @@ zhx.su
 zi.ma
 zi.pe
 ziadi.co
+zight-shortner.replit.app
 zight.com
 zik.link
 zillow.com
+zim.ad
 zimuku.la
 zimy.pw
 zinlly.pro
