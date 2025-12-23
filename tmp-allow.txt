@@ -110,7 +110,6 @@
 @@||1r2.in^
 @@||1s.is^
 @@||1shop.io^
-@@||1short.io^
 @@||1shortlink.com^
 @@||1stall.com^
 @@||1stgop.co^
@@ -2321,7 +2320,6 @@
 @@||couldyouredirectmeplease.com^
 @@||count.shopping.t-online.de^
 @@||coupa.ng^
-@@||covgo.cc^
 @@||coz.de^
 @@||cp4.cloudflare.com^
 @@||cpamarketing.ro^
@@ -2489,7 +2487,6 @@
 @@||cutts.in^
 @@||cutturl.xyz^
 @@||cutu.me^
-@@||cutur.link^
 @@||cuturl.cloud^
 @@||cuturl.com^
 @@||cuturl.net^
@@ -2595,7 +2592,6 @@
 @@||dct.klaviyodns.com^
 @@||dd.ma^
 @@||dd.myapp.com^
-@@||ddls.to^
 @@||ddot.to^
 @@||ddw.nu^
 @@||ddyunbo.com^
@@ -4141,7 +4137,6 @@
 @@||hrbl.me^
 @@||hrbrg.co^
 @@||href.ar^
-@@||href.in^
 @@||href.li^
 @@||href.pw^
 @@||hrshort.com^
@@ -4499,7 +4494,6 @@
 @@||istel.co^
 @@||isterratrk.com^
 @@||istore.ar^
-@@||istubby.com^
 @@||isurl.cc^
 @@||isurt.com^
 @@||isw.pub^
@@ -5264,7 +5258,6 @@
 @@||linkaloo.it^
 @@||linkalp.com^
 @@||linkapp.click^
-@@||linkasd.com^
 @@||linkasli.pro^
 @@||linkatra.com^
 @@||linkaty.me^
@@ -7371,7 +7364,6 @@
 @@||playtr.games^
 @@||plcr.ai^
 @@||pldthome.info^
-@@||plink.ir^
 @@||plinkzy.com^
 @@||plmst.org^
 @@||plots.fr^
@@ -7459,7 +7451,6 @@
 @@||preferredds.com^
 @@||prel.ink^
 @@||premex.link^
-@@||premierbet.live^
 @@||preml.ge^
 @@||prendre-rendezvous.com^
 @@||prepostseo.tools^
@@ -7673,7 +7664,6 @@
 @@||qrcode.im^
 @@||qrcode.pl^
 @@||qrcode.primetecnologia.net.br^
-@@||qrcodeveloper.com^
 @@||qrcood.com^
 @@||qrcreator.link^
 @@||qrcs.io^
@@ -8292,7 +8282,6 @@
 @@||s8.exacttarget.com^
 @@||s91.exacttarget.com^
 @@||s99.tech^
-@@||sa-link.cc^
 @@||saasmaster.link^
 @@||sabriabi.net^
 @@||sac23.top^
@@ -8761,7 +8750,6 @@
 @@||shortlinkgenerator.com^
 @@||shortlinkpanel.com^
 @@||shortlinks.co.uk^
-@@||shortlinks.com.tr^
 @@||shortlinksakti.xyz^
 @@||shortlinkurl.id^
 @@||shortlinkz.net^
@@ -10913,7 +10901,6 @@
 @@||urlin.bio^
 @@||urlin.it^
 @@||urlink-short.vercel.app^
-@@||urlinko.com^
 @@||urlinkz.me^
 @@||urlino.net^
 @@||urlintel.com^
@@ -11511,7 +11498,6 @@
 @@||wit.to^
 @@||withtask.com^
 @@||wiwir.cc^
-@@||wjcf.co^
 @@||wk.idey.cn^
 @@||wkf.ms^
 @@||wkms-public.apple.com^

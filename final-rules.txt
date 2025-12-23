@@ -201,7 +201,6 @@
 @@||1s.is^
 @@||1sapp.com^
 @@||1shop.io^
-@@||1short.io^
 @@||1shortlink.com^
 @@||1stall.com^
 @@||1stgop.co^
@@ -5321,7 +5320,6 @@
 @@||couponbar.coupons.com^
 @@||coupondunia.go2cloud.org^
 @@||coupons.com^
-@@||covgo.cc^
 @@||cowtransfer.com^
 @@||coz.de^
 @@||cp.mi.com^
@@ -5591,7 +5589,6 @@
 @@||cutts.in^
 @@||cutturl.xyz^
 @@||cutu.me^
-@@||cutur.link^
 @@||cuturl.cloud^
 @@||cuturl.com^
 @@||cuturl.net^
@@ -5816,7 +5813,6 @@
 @@||dctrawler.dailycaller.com^
 @@||dd.ma^
 @@||dd.myapp.com^
-@@||ddls.to^
 @@||ddns.net^
 @@||ddos-guard.net^
 @@||ddot.to^
@@ -9199,7 +9195,6 @@
 @@||hrbrg.co^
 @@||hrcs.huawei.com^
 @@||href.ar^
-@@||href.in^
 @@||href.li^
 @@||href.pw^
 @@||hrshort.com^
@@ -10084,7 +10079,6 @@
 @@||isterratrk.com^
 @@||istockphoto.com^
 @@||istore.ar^
-@@||istubby.com^
 @@||isurl.cc^
 @@||isurt.com^
 @@||isw.pub^
@@ -11233,7 +11227,6 @@
 @@||linkaloo.it^
 @@||linkalp.com^
 @@||linkapp.click^
-@@||linkasd.com^
 @@||linkasli.pro^
 @@||linkatra.com^
 @@||linkaty.me^
@@ -15055,7 +15048,6 @@
 @@||plesk.com^
 @@||plex.r.worldssl.net^
 @@||plex.tv^
-@@||plink.ir^
 @@||plinkzy.com^
 @@||plmst.org^
 @@||plots.fr^
@@ -15221,7 +15213,6 @@
 @@||premaster-app-cdn.spot.im^
 @@||premaster-spoxy.spot.im^
 @@||premex.link^
-@@||premierbet.live^
 @@||premierleague.com^
 @@||premium.linkedin.com^
 @@||premium.soundcloud.com^
@@ -15656,7 +15647,6 @@
 @@||qrcode.im^
 @@||qrcode.pl^
 @@||qrcode.primetecnologia.net.br^
-@@||qrcodeveloper.com^
 @@||qrcood.com^
 @@||qrcreator.link^
 @@||qrcs.io^
@@ -16644,7 +16634,6 @@
 @@||sa-in-f14.1e100.net^
 @@||sa-in-f26.1e100.net^
 @@||sa-in-f27.1e100.net^
-@@||sa-link.cc^
 @@||sa.api.intl.miui.com^
 @@||sa.nexon.game.naver.com^
 @@||sa.symcb.com^
@@ -17474,7 +17463,6 @@
 @@||shortlinkgenerator.com^
 @@||shortlinkpanel.com^
 @@||shortlinks.co.uk^
-@@||shortlinks.com.tr^
 @@||shortlinksakti.xyz^
 @@||shortlinkurl.id^
 @@||shortlinkz.net^
@@ -20884,7 +20872,6 @@
 @@||urlin.bio^
 @@||urlin.it^
 @@||urlink-short.vercel.app^
-@@||urlinko.com^
 @@||urlinkz.me^
 @@||urlino.net^
 @@||urlintel.com^
@@ -22010,7 +21997,6 @@
 @@||wix.com^
 @@||wixapps.net^
 @@||wixsite.com^
-@@||wjcf.co^
 @@||wk.idey.cn^
 @@||wkf.ms^
 @@||wkms-public.apple.com^
