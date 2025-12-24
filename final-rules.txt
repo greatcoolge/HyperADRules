@@ -277,6 +277,7 @@
 @@||24sevensocial.com^
 @@||256.so^
 @@||260web.com^
+@@||263.vn^
 @@||27g.ru^
 @@||2a.me^
 @@||2ad.in^
@@ -1152,6 +1153,7 @@
 @@||agilean.in^
 @@||agileurbia.com^
 @@||agirz.com^
+@@||agll.ink^
 @@||agmd.win^
 @@||agoz.me^
 @@||agphosting.com^
@@ -1228,6 +1230,7 @@
 @@||akamaihd.net^
 @@||akamaitechnologies.com^
 @@||akamaized.net^
+@@||akhatry.com.np^
 @@||aki.today^
 @@||akm.works^
 @@||akr.gr^
@@ -3334,6 +3337,7 @@
 @@||bio.altosky.com^
 @@||bio.bayoli.com^
 @@||bio.hypexstudio.com^
+@@||bio.kodekami.com^
 @@||bio.laormedia.com^
 @@||bio.link^
 @@||bio.meuhub.com^
@@ -4467,6 +4471,7 @@
 @@||ceneo.pl^
 @@||census.gov^
 @@||centurylinke.com^
+@@||cepat.link^
 @@||cepet.in^
 @@||cert.halo.part.xbox.com^
 @@||cert.mgt.xboxlive.com ^
@@ -4909,6 +4914,7 @@
 @@||cliow.com^
 @@||clip-url.vercel.app^
 @@||cliphunter.com^
+@@||clipi.cc^
 @@||clipitx.com^
 @@||cliplink.co^
 @@||cliplinkly.com^
@@ -6207,6 +6213,7 @@
 @@||doc2link.vercel.app^
 @@||dockerstatic.com^
 @@||dockr.ly^
+@@||docmti.id^
 @@||docrdsfx76ssb.cloudfront.net^
 @@||docremedio.xyz^
 @@||docs.airship.com^
@@ -6265,6 +6272,7 @@
 @@||dorfmeyster.media^
 @@||doris.yidianzixun.com^
 @@||dos.me^
+@@||dostupevent.com^
 @@||dot.gov^
 @@||dot.tk^
 @@||dotalink.com^
@@ -7096,6 +7104,7 @@
 @@||ezc.vc^
 @@||ezcashlink.com^
 @@||ezexzo.link^
+@@||ezilinks.com^
 @@||ezlc.net^
 @@||ezlinkcloaker.com^
 @@||ezstat.ru^
@@ -7751,6 +7760,7 @@
 @@||fvrr.co^
 @@||fvs.io^
 @@||fw.ax^
+@@||fwd-2.com^
 @@||fwd4.me^
 @@||fwdme.info^
 @@||fwds.to^
@@ -7768,6 +7778,7 @@
 @@||fzuploads.com^
 @@||g-acs.m.goofish.com^
 @@||g-ecx.images-amazon.com^
+@@||g-linkly.com^
 @@||g-o.li^
 @@||g-url.cn^
 @@||g-web.in^
@@ -7990,6 +8001,7 @@
 @@||get.sogou.com^
 @@||get.sougou.com^
 @@||get.soundcloud.com^
+@@||get.timbbe.com^
 @@||get.vuukle.com^
 @@||get.xda-developers.com^
 @@||get3.adobe.com^
@@ -8696,6 +8708,7 @@
 @@||gr.pn^
 @@||grab.com^
 @@||grabify.link^
+@@||grabify.org^
 @@||gracepoint.org.au^
 @@||grafana.2merkato.com^
 @@||grainger.com^
@@ -8798,6 +8811,7 @@
 @@||guce.huffingtonpost.com.au^
 @@||guce.huffingtonpost.com^
 @@||guce.techcrunch.com^
+@@||gudang.me^
 @@||guenstiger.de^
 @@||guestbook.blog.naver.com^
 @@||guide-acs.m.taobao.com^
@@ -8925,6 +8939,7 @@
 @@||hclips.com^
 @@||hctn.nv7s.com^
 @@||hd.engadget.com^
+@@||hd.gd^
 @@||hd.mi.com^
 @@||hd.xiaomi.com^
 @@||hd02.lg.xiaomi.com^
@@ -10800,6 +10815,7 @@
 @@||l.nniq.co^
 @@||l.prageru.com^
 @@||l.qq.com^
+@@||l.swift.be^
 @@||l.tl^
 @@||l.tok.tv^
 @@||l.webopt.eu^
@@ -11327,6 +11343,7 @@
 @@||linkia.co^
 @@||linkify.page^
 @@||linkifyer.com^
+@@||linkifyx.eu^
 @@||linkila.com^
 @@||linkim.cc^
 @@||linkin.icu^
@@ -11527,6 +11544,7 @@
 @@||linktrimmer.com^
 @@||linktw.in^
 @@||linkunshorten.com^
+@@||linkup.at^
 @@||linkur.co^
 @@||linkurltiny.com^
 @@||linkutama.app^
@@ -11652,6 +11670,7 @@
 @@||liveinternet.ru^
 @@||livejournal.com^
 @@||livemu.sc^
+@@||liveparle.com^
 @@||livepassdl.conviva.com^
 @@||livephoto.us.sinaimg.cn^
 @@||livere.com^
@@ -11899,6 +11918,7 @@
 @@||lsdl.es^
 @@||lsem.help^
 @@||lsh.care^
+@@||lshrt.com^
 @@||lsn.to^
 @@||lsoft.cloud^
 @@||lstahl.link^
@@ -12587,6 +12607,7 @@
 @@||media.xda-developers.com^
 @@||media01.eu^
 @@||media4.steampowered.com^
+@@||media4uplus.com^
 @@||mediafile.dcinside.com^
 @@||mediafire.com^
 @@||mediaintelligence.de^
@@ -14252,6 +14273,7 @@
 @@||on4t.net^
 @@||on5.net^
 @@||on9news.tv^
+@@||onbit.pro^
 @@||onboard.triptease.io^
 @@||onbpk.id^
 @@||once.to^
@@ -14460,6 +14482,7 @@
 @@||otp.li^
 @@||ott.io.mi.com^
 @@||oturl.com^
+@@||otw-news.org^
 @@||ou.gd^
 @@||oua.be^
 @@||ouedkniss.com^
@@ -15661,9 +15684,11 @@
 @@||qr.ae^
 @@||qr.attps.fr^
 @@||qr.codes^
+@@||qr.democame.pe^
 @@||qr.digi.tips^
 @@||qr.io^
 @@||qr.itservicebd.com^
+@@||qr.motul.com^
 @@||qr.net^
 @@||qr.nikastic.com^
 @@||qr1.be^
@@ -17633,6 +17658,7 @@
 @@||shrinkforge.com^
 @@||shrinkify.com^
 @@||shrinkin.xyz^
+@@||shrinklinx.com^
 @@||shrinkly.co^
 @@||shrinkme.app^
 @@||shrinkme.cc^
@@ -17652,6 +17678,7 @@
 @@||shrinkme.vip^
 @@||shrinkmyurl.com^
 @@||shrinkr.io^
+@@||shrinkrl.com^
 @@||shrinkster.com^
 @@||shrinkuri.com^
 @@||shrinkurlnow.vercel.app^
@@ -17714,6 +17741,7 @@
 @@||shuc-android.ksord.com^
 @@||shuju.mi.com^
 @@||shukurbi.com^
+@@||shul.kr^
 @@||shurl.fr^
 @@||shurl.in^
 @@||shurl.jp^
@@ -17929,6 +17957,7 @@
 @@||sm4ll.in^
 @@||sm4rtvoice.org^
 @@||sma.ug^
+@@||smaba.sch.id^
 @@||smal.lu^
 @@||small.cat^
 @@||smallbusiness.chron.com^
@@ -18045,6 +18074,7 @@
 @@||sngkt.in^
 @@||sni.ps^
 @@||sni.star.xhcdn.com.fpbns.net^
+@@||snifferip.com^
 @@||snip.im^
 @@||snip.link^
 @@||snip.ly^
@@ -18799,6 +18829,7 @@
 @@||stuve.me^
 @@||stvkr.com^
 @@||stwrt.org^
+@@||sty88.site^
 @@||style.sndcdn.com^
 @@||styles.redditmedia.com^
 @@||su.mss.qc.ca^
@@ -20608,6 +20639,7 @@
 @@||university.rakuten.co.jp^
 @@||univiadhd.app^
 @@||unix.com^
+@@||unl.one^
 @@||unlink.fr^
 @@||unlockbootloader.sonymobile.com^
 @@||unlocker.emptyloop.com^
@@ -20781,11 +20813,13 @@
 @@||url.eefocus.com^
 @@||url.elmark.com.pl^
 @@||url.enepe.fr^
+@@||url.firstvds.ru^
 @@||url.fti.or.th^
 @@||url.gratis^
 @@||url.hilberg.eu^
 @@||url.hle.com.tw^
 @@||url.icagency.it^
+@@||url.id.vn^
 @@||url.ie^
 @@||url.ignisfatuus.org^
 @@||url.is4k.com^
@@ -20816,6 +20850,7 @@
 @@||url.techwarezen.com^
 @@||url.uog.edu^
 @@||url.usacomment.com^
+@@||url.uz^
 @@||url.veym.net^
 @@||url.vhearts.net^
 @@||url.virtualstr8pnp.com^
@@ -21030,6 +21065,7 @@
 @@||urltiny.cc^
 @@||urltiny.one^
 @@||urltiny.xyz^
+@@||urlto.me^
 @@||urltools.com^
 @@||urltoshort.com^
 @@||urltrax.com^
@@ -21054,6 +21090,7 @@
 @@||urlz.at^
 @@||urlz.com^
 @@||urlz.fr^
+@@||urlz.gr^
 @@||urlz.li^
 @@||urlz.my^
 @@||urlzen.com^
@@ -22221,6 +22258,7 @@
 @@||www-preview.xbox.com^
 @@||www-support-downloads.sonymobile.com^
 @@||www-tc.pbs.org^
+@@||www-tinyurl.com^
 @@||www-wp.viber.com^
 @@||www.10010.com^
 @@||www.123movies.to^
