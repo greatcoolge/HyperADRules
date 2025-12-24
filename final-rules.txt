@@ -1135,7 +1135,6 @@
 @@||affiliate-program.amazon.com^
 @@||affiliate.api.rakuten.com.tw^
 @@||affiliate.hitbtc.com^
-@@||affiliate.logitravel.com^
 @@||affiliate.twitch.tv^
 @@||affiliate44.com^
 @@||affiliatefuture.com^
