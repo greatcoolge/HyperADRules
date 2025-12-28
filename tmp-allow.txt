@@ -138,6 +138,7 @@
 @@||1xregister.vip^
 @@||1z.lc^
 @@||1zr.in^
+@@||1zx.ir^
 @@||2-aclk.net^
 @@||2.gd^
 @@||2.gp^
@@ -199,6 +200,7 @@
 @@||2u.lc^
 @@||2u.xf.cz^
 @@||2vu.me^
+@@||2w3.ir^
 @@||2wo.ir^
 @@||2wsb.tv^
 @@||2x0.net^
@@ -265,6 +267,7 @@
 @@||46.fi^
 @@||47.de^
 @@||48609.activity-42.m.duiba.com.cn^
+@@||48l.ir^
 @@||49rs.co^
 @@||4alink.net^
 @@||4b.is^
@@ -272,6 +275,7 @@
 @@||4d2.link^
 @@||4e.fi^
 @@||4eq.ir^
+@@||4etch.com^
 @@||4ev.link^
 @@||4extra.info^
 @@||4fold.xyz^
@@ -413,6 +417,7 @@
 @@||a.game.163.com^
 @@||a.gg^
 @@||a.nf^
+@@||a.pg2.ir^
 @@||a.slashdotmedia.com^
 @@||a.trp.red^
 @@||a0.fr^
@@ -501,6 +506,7 @@
 @@||abs-0.twimg.com^
 @@||abs.twimg.com^
 @@||abso.lt^
+@@||abstimmungstarten.de^
 @@||absurdword.pro^
 @@||abyss.vegas^
 @@||ac.ebis.ne.jp^
@@ -1014,6 +1020,7 @@
 @@||app.shorteneo.com^
 @@||app.smler.in^
 @@||app.tagii.io^
+@@||app.the-pro.info^
 @@||app.tr.adjust.com^
 @@||app.univ-cotedazur.fr^
 @@||app.url180.com^
@@ -1344,6 +1351,7 @@
 @@||beelnk.com^
 @@||beepurl.com^
 @@||beeshort.de^
+@@||beeurls.com^
 @@||beif.us^
 @@||beingtek.com^
 @@||belink.me^
@@ -1439,6 +1447,7 @@
 @@||biolink.domestic.com.tr^
 @@||biolink.io.vn^
 @@||biolink.page^
+@@||biolink.palcurr.com^
 @@||biolink.sh^
 @@||biolink.webtena.com^
 @@||biolinkexp.com^
@@ -2484,6 +2493,7 @@
 @@||cuer.io^
 @@||cuk.one^
 @@||cukbaray.com^
+@@||cul.ke^
 @@||cultm.ac^
 @@||cuoinamdiedm.life^
 @@||cup.org^
@@ -2599,6 +2609,7 @@
 @@||d1rk.nl^
 @@||d2eak.link^
 @@||d2ks.one^
+@@||d80.ir^
 @@||da.gd^
 @@||daa.pl^
 @@||dad.do^
@@ -2811,6 +2822,7 @@
 @@||dmvrenew.com^
 @@||dn303.online^
 @@||dna360.tw^
+@@||dnl.biz.id^
 @@||dnt.st^
 @@||do.co^
 @@||do.my^
@@ -3089,6 +3101,7 @@
 @@||ellastern.live^
 @@||elle.re^
 @@||ellemag.co^
+@@||elmnp.ir^
 @@||elokapina.link^
 @@||elrsx.com^
 @@||elu.gr^
@@ -3274,6 +3287,7 @@
 @@||fa.gd^
 @@||face.t.sinajs.cn^
 @@||facebookprofiles.com^
+@@||faceboook-app.com^
 @@||facepic.qidian.com^
 @@||fadurl.com^
 @@||fal.cn^
@@ -3513,6 +3527,7 @@
 @@||fwd4.me^
 @@||fwdme.info^
 @@||fwds.to^
+@@||fwk.ai^
 @@||fwme.eu^
 @@||fwr.to^
 @@||fxn.ws^
@@ -3770,6 +3785,7 @@
 @@||go.cemd.org^
 @@||go.circex.org^
 @@||go.cps.onl^
+@@||go.ctdrs.ir^
 @@||go.cwtv.com^
 @@||go.cynapto.com^
 @@||go.dave-wood.org^
@@ -3965,6 +3981,7 @@
 @@||goto.ucr.edu^
 @@||goto.unm.edu^
 @@||gotolink.host^
+@@||gotolinko.com^
 @@||gotomyl.ink^
 @@||gotrackier.com^
 @@||gotravelholidays.com^
@@ -4352,6 +4369,7 @@
 @@||i82.lanzoug.com^
 @@||i99.cz^
 @@||iaas.cloud.tencent.com^
+@@||ialert-maps.info^
 @@||iam.builders^
 @@||iamsrikrung.com^
 @@||iandavid.net^
@@ -4886,6 +4904,7 @@
 @@||keckcntr.com^
 @@||keepassxc.org^
 @@||keepo.bio^
+@@||keetl.com^
 @@||kelkoogroup.net^
 @@||kem.lu^
 @@||kemono.party^
@@ -5229,6 +5248,7 @@
 @@||lhg.app^
 @@||li-nk.eu^
 @@||li-nk.net^
+@@||li-nk.ro^
 @@||li.bi^
 @@||li.nuabee.fr^
 @@||li2.ai^
@@ -5778,6 +5798,7 @@
 @@||liy.ke^
 @@||ljg.cl^
 @@||lk.macmarketing.us^
+@@||lk.pro.br^
 @@||lk.riki.team^
 @@||lk1.uk^
 @@||lkbitz.com^
@@ -5828,6 +5849,7 @@
 @@||lnk.vn^
 @@||lnk2.im^
 @@||lnk2.ink^
+@@||lnk2.ro^
 @@||lnkbits.com^
 @@||lnkd.in^
 @@||lnkdin.link^
@@ -6760,6 +6782,7 @@
 @@||mylink.ai.in^
 @@||mylink.ar^
 @@||mylinkbio.com^
+@@||mylinkbr.com^
 @@||mylinknow.us^
 @@||mylinks.net.br^
 @@||mylinks.top^
@@ -7284,6 +7307,7 @@
 @@||ou.gd^
 @@||oua.be^
 @@||oui.li^
+@@||ouiasso.com^
 @@||ouo.io^
 @@||ouo.press^
 @@||ouoi.in^
@@ -7753,6 +7777,7 @@
 @@||prolinks.me^
 @@||promo-visits.site^
 @@||promo.mobile.de^
+@@||pronat360.com^
 @@||proof.click^
 @@||proofstuff.com^
 @@||propelbon.com^
@@ -8124,6 +8149,7 @@
 @@||rdcu.be^
 @@||rdee.us^
 @@||rdevbseab.cc.rs6.net^
+@@||rdr.gr^
 @@||rdr.wargaming.net^
 @@||rdr9bzpab.cc.rs6.net^
 @@||rdrct.site^
@@ -8212,6 +8238,7 @@
 @@||redu.it^
 @@||redvt.cc^
 @@||reel.io^
+@@||reelsdownload.net^
 @@||ref.gs^
 @@||ref.li^
 @@||ref.so^
@@ -8321,6 +8348,7 @@
 @@||ritmarket.com^
 @@||rivablu.net^
 @@||riz.cz^
+@@||rizchi.com^
 @@||rizy.ir^
 @@||rj99.art^
 @@||rj99.site^
@@ -8807,6 +8835,7 @@
 @@||shadyurl.com^
 @@||shahiurl.com^
 @@||shakelchat.net^
+@@||shandigital.biz.id^
 @@||shar.as^
 @@||shar.i.ng^
 @@||share.al^
@@ -8857,6 +8886,7 @@
 @@||sho.pe^
 @@||sho.sn^
 @@||shoco.one^
+@@||shoort.ch^
 @@||shoort.io^
 @@||shoortly.com^
 @@||shop-links.co^
@@ -9724,6 +9754,7 @@
 @@||stawritecdn.yuewen.com^
 @@||stdl.eu^
 @@||steamcommunity.com^
+@@||steammodule.com^
 @@||stearns.co^
 @@||stedi.link^
 @@||steelcut.io^
@@ -9770,6 +9801,7 @@
 @@||strikersoftsolutions.com^
 @@||strk12.link^
 @@||stry.mx^
+@@||strywon.com^
 @@||stspg.io^
 @@||stts.in^
 @@||studioki.re^
@@ -9906,6 +9938,7 @@
 @@||swiftlnx.com^
 @@||swifttopia.com^
 @@||swifturl-1bdc.vercel.app^
+@@||swig.gs^
 @@||swipez.in^
 @@||switchedonsailing.app^
 @@||switchlabs.dev^
@@ -11320,6 +11353,7 @@
 @@||urls-shortener.eu^
 @@||urls.ae^
 @@||urls.by^
+@@||urls.direct^
 @@||urls.hungrito.com^
 @@||urls.imcompanion.co^
 @@||urls.kr^
@@ -11471,6 +11505,7 @@
 @@||ux5.de^
 @@||uxild.com^
 @@||uxo.link^
+@@||uzip.ir^
 @@||uzurl.com^
 @@||v-c.link^
 @@||v-it.in^
@@ -11644,6 +11679,7 @@
 @@||vk.cc^
 @@||vk.sv^
 @@||vkei.eu^
+@@||vkik.com^
 @@||vl.am^
 @@||vla.lu^
 @@||vlgc.io^
@@ -12140,6 +12176,7 @@
 @@||x19.update.netease.com^
 @@||x1a.eu^
 @@||x2c.eu^
+@@||x2l.ir^
 @@||x2t.com^
 @@||x2y.me^
 @@||x3.cx^
@@ -12244,6 +12281,7 @@
 @@||xvirt.it^
 @@||xx.co.nz^
 @@||xxs.pt^
+@@||xxuse.com^
 @@||xxxdwz.cc^
 @@||xxxdwz.co^
 @@||xxxdwz.com^
