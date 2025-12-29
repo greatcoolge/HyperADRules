@@ -1093,6 +1093,7 @@ adservice.google.ps
 adservice.google.ro
 adservice.google.ru
 adservice.google.se
+adservice.google.sk
 adservice.google.vg
 adshort.co
 adsmeasurement.com
@@ -12172,6 +12173,7 @@ m-ini.me
 m-k.ca
 m-rx.bz
 m-s6iau.custobar.com
+m-so.custobar.com
 m-tfe.custobar.com
 m-tmsif.custobar.com
 m.104.com.tw
