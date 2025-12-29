@@ -629,7 +629,6 @@ a.94inet.com
 a.9game.cn
 a.aorganic.io
 a.apkpure.com
-a.co
 a.config.skype.com
 a.espncdn.com
 a.fsdn.com
@@ -7235,7 +7234,6 @@ face.t.sinajs.cn
 facebook.com
 facebook.net
 facebookprofiles.com
-faceboook-app.com
 facepic.qidian.com
 factorio.com
 factory.blog.naver.com

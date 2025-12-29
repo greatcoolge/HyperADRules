@@ -413,7 +413,6 @@
 @@||a.94inet.com^
 @@||a.9game.cn^
 @@||a.aorganic.io^
-@@||a.co^
 @@||a.game.163.com^
 @@||a.gg^
 @@||a.nf^
@@ -3287,7 +3286,6 @@
 @@||fa.gd^
 @@||face.t.sinajs.cn^
 @@||facebookprofiles.com^
-@@||faceboook-app.com^
 @@||facepic.qidian.com^
 @@||fadurl.com^
 @@||fal.cn^
