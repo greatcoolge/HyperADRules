@@ -56,7 +56,6 @@
 @@||0a0.uk^
 @@||0daydown.com^
 @@||0eaf.cardinalcommerce.com^
-@@||0i.is^
 @@||0ln.eu^
 @@||0ln.io^
 @@||0o.lv^
@@ -125,7 +124,6 @@
 @@||123link.co^
 @@||123lnk.xyz^
 @@||123movies.to^
-@@||126.am^
 @@||128.pl^
 @@||12ne.ws^
 @@||12p.eu^
