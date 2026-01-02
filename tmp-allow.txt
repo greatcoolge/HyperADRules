@@ -219,7 +219,6 @@
 @@||31productions.de^
 @@||321url.com^
 @@||350.my^
-@@||360link.id^
 @@||369.xn--6frz82g^
 @@||389sport.fun^
 @@||389sport.store^
@@ -393,8 +392,6 @@
 @@||999.sh^
 @@||99forward.com^
 @@||99fw.in^
-@@||99link.me^
-@@||9g9.org^
 @@||9h.dk^
 @@||9k.gg^
 @@||9link.to^

@@ -372,7 +372,6 @@
 @@||321url.com^
 @@||350.my^
 @@||360.cn^
-@@||360link.id^
 @@||369.xn--6frz82g^
 @@||36kr.com^
 @@||37signals.com^
@@ -582,9 +581,7 @@
 @@||999.sh^
 @@||99forward.com^
 @@||99fw.in^
-@@||99link.me^
 @@||9Anime.to^
-@@||9g9.org^
 @@||9gag.com^
 @@||9h.dk^
 @@||9k.gg^
