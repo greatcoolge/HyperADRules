@@ -5612,7 +5612,6 @@ cutli.to
 cutlink.now
 cutlinker.com
 cutlly.com
-cutlnk.io
 cutlnk.top
 cutly.in
 cutly.me
@@ -5633,7 +5632,6 @@ cutt.us
 cutt4.me
 cuttgoo.com
 cutth.com
-cutthis.link
 cuttly.io
 cuttly.pro
 cutto.io
@@ -5949,7 +5947,6 @@ demoxpress.xyz
 dems.me
 den.cdn.survey.medallia.com
 denis-ovs.narod.ru
-denki.bio
 dentalservices.biz
 depedzn.net
 depot.xda-developers.com
@@ -6047,7 +6044,6 @@ dft.ba
 dfthethao.com
 dftoutiao.com
 dftp.flowplayer.com
-dfy.is
 dg.k.jd.com
 dgit.com
 dgkad.com
@@ -6060,7 +6056,6 @@ dgt77.click
 dhe.one
 dhk.gg
 dho.li
-dhort.link
 dhrgl.ink
 dhu.li
 di.com.pl
@@ -6849,7 +6844,6 @@ emp.bbci.co.uk
 emp.onl
 empic.dfcfw.com
 emptyloop.com
-empukjeru.site
 ems-delivery.api.playstation.com
 emu.li
 emui.huawei.com
