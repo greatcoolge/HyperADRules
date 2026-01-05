@@ -9909,6 +9909,7 @@
 @@||suite32.emarsys.net^
 @@||suite33.emarsys.net^
 @@||suite34.emarsys.net^
+@@||suite36-cf.emarsys.net^
 @@||suite36.emarsys.net^
 @@||suite38.emarsys.net^
 @@||suite40-cf.emarsys.net^
@@ -11700,6 +11701,7 @@
 @@||vidzsb.com^
 @@||view.email.nzz.ch^
 @@||view.helpline-app.com^
+@@||view.page^
 @@||view.robothumb.com^
 @@||vig.fit^
 @@||vigilink.com^

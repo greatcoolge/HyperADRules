@@ -19220,6 +19220,7 @@ suite30.emarsys.net
 suite32.emarsys.net
 suite33.emarsys.net
 suite34.emarsys.net
+suite36-cf.emarsys.net
 suite36.emarsys.net
 suite38.emarsys.net
 suite40-cf.emarsys.net
@@ -21879,6 +21880,7 @@ view.em.funimation.com
 view.email.nzz.ch
 view.engage.xbox.com
 view.helpline-app.com
+view.page
 view.robothumb.com
 view.status.xbox.com
 view.vzaar.com
