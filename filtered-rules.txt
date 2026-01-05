@@ -22297,7 +22297,6 @@ webmienphi.net
 weboffice-static.docs.dingtalk.com
 webopedia.com
 webpower.eu
-webprotech.live
 webrc.net
 websearch.rakuten.co.jp
 websecurity.norton.com
@@ -22511,7 +22510,6 @@ wl.co
 wl.gl
 wl.jd.com
 wl.spotify.com
-wlicc.online
 wlink.us
 wlinky.com
 wlo.ospserver.net
@@ -22630,7 +22628,6 @@ wt.logmein.com
 wt.soundcloud.com
 wtc.la
 wtfismyip.com
-wtfurl.com
 wtkr.com
 wtradv.market.xiaomi.com
 wts2.smhi.se
@@ -24292,7 +24289,6 @@ xmr.to
 xn--0ca.co
 xn--57h.ws
 xn--9p4bqa88cp2m.t2m.top
-xn--9y2bx5mhpm.kr
 xn--a-4ka.eu
 xn--allestrungen-9ib.de
 xn--bj0bm0rf3a.xn--bm4b52j.com
@@ -24508,7 +24504,6 @@ yourls.i2m.solutions
 yourls.info
 yourls.irex.aretex.ca
 yourls.lu
-yourls.net
 yourls.newstargeted.com
 yourls.org
 yourls.ph-freiburg.de
@@ -24733,7 +24728,6 @@ zoho.to
 zom.ink
 zom.io
 zona.media
-zonearcad.xyz
 zoneurl.net
 zoodl.com
 zoominfo.com
@@ -24781,7 +24775,6 @@ zweep.co
 zweet.link
 zws.im
 zxc.im
-zxc.li
 zxq.net
 zyguer.com
 zynga.my

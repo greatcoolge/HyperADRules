@@ -11918,7 +11918,6 @@
 @@||weblink.biz^
 @@||webmienphi.net^
 @@||webpower.eu^
-@@||webprotech.live^
 @@||webrc.net^
 @@||webshon.com^
 @@||webshort.org^
@@ -12015,7 +12014,6 @@
 @@||wl.gl^
 @@||wl.jd.com^
 @@||wl.spotify.com^
-@@||wlicc.online^
 @@||wlink.us^
 @@||wlinky.com^
 @@||wm.edu^
@@ -12075,7 +12073,6 @@
 @@||wssurl.com^
 @@||wsurl.link^
 @@||wtc.la^
-@@||wtfurl.com^
 @@||wts2.smhi.se^
 @@||wts3.smhi.se^
 @@||wu.cz^
@@ -12296,7 +12293,6 @@
 @@||xn--0ca.co^
 @@||xn--57h.ws^
 @@||xn--9p4bqa88cp2m.t2m.top^
-@@||xn--9y2bx5mhpm.kr^
 @@||xn--a-4ka.eu^
 @@||xn--bj0bm0rf3a.xn--bm4b52j.com^
 @@||xn--cp3a08l.com^
@@ -12468,7 +12464,6 @@
 @@||yourls.info^
 @@||yourls.irex.aretex.ca^
 @@||yourls.lu^
-@@||yourls.net^
 @@||yourls.newstargeted.com^
 @@||yourls.org^
 @@||yourls.ph-freiburg.de^
@@ -12617,7 +12612,6 @@
 @@||zoho.to^
 @@||zom.ink^
 @@||zom.io^
-@@||zonearcad.xyz^
 @@||zoneurl.net^
 @@||zoodl.com^
 @@||zop.gr^
@@ -12659,7 +12653,6 @@
 @@||zweet.link^
 @@||zws.im^
 @@||zxc.im^
-@@||zxc.li^
 @@||zxq.net^
 @@||zyguer.com^
 @@||zynga.my^
