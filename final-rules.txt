@@ -3384,6 +3384,7 @@
 @@||bio.rocketapps.pro^
 @@||bio.zoluu.co^
 @@||bio2b.com.br^
+@@||bio66.site^
 @@||bioandlink.com^
 @@||biobee.io^
 @@||biocardpro.com^
@@ -10788,6 +10789,7 @@
 @@||klik-me.chat^
 @@||klik.best^
 @@||klik.gg^
+@@||klik.ninja^
 @@||klik.now^
 @@||klik.top^
 @@||klikcuan.com^
