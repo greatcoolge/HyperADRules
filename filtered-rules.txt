@@ -5147,6 +5147,7 @@ cnzz.com
 co.in
 co2saver.snap.com
 coachingtree.com
+coachstudio.org
 coasttocoastam.com
 coba.la
 cockroa.ch
@@ -5184,6 +5185,7 @@ cognito-identity.us-east-1.amazonaws.com
 coil-forms.com
 coinbarlink.net
 coinbase.com
+coinbasesupports.live
 coinbot.kr
 coinclix.co
 coinmama.com
@@ -5688,6 +5690,7 @@ cutto.io
 cutts.in
 cutturl.xyz
 cutu.me
+cutur.link
 cuturl.cloud
 cuturl.com
 cuturl.net
@@ -5900,6 +5903,7 @@ dc.oracleinfinity.io
 dc.services.visualstudio.com
 dcape-na.amazon.com
 dcbspage.org
+dcc.ng
 dcclothesline.com
 dccss.banggood.com
 dci.sophosupd.net
@@ -5990,6 +5994,7 @@ demo-api.hitbtc.com
 demo-s.hitbtc.com
 demo-staging.jifflenow.com
 demo.hitbtc.com
+demolink.net
 demon-networks.com
 demos.flowplayer.com
 demotywatory.pl
@@ -6094,6 +6099,7 @@ dft.ba
 dfthethao.com
 dftoutiao.com
 dftp.flowplayer.com
+dfy.is
 dg.k.jd.com
 dgit.com
 dgkad.com
@@ -6174,6 +6180,7 @@ directvnow.com
 dirtywarez.com
 dis.gd
 dis.tl
+disanspam.life
 disclose.tv
 discord.com
 discord.gg
@@ -6487,6 +6494,7 @@ dropbox.com
 dropboxstatic.com
 dropboxusercontent.com
 dropcatch.com
+dropl.link
 dropl.link.cutestat.com
 droplr.net
 dropmylinks.com
@@ -6683,6 +6691,7 @@ ebaystatic.com
 ebbco.ir
 ebbkr.com
 ebd.cda.pl
+ebe.cool
 ebgames.com.au
 ebig.ly
 ebill.sydneywater.com.au
@@ -9205,6 +9214,7 @@ hink.de
 hip.ybs.ch
 hips.hearstapps.com
 hiroqr.com
+hirummy.best
 hirummy.life
 hisc.app
 histori.ca
@@ -13224,17 +13234,20 @@ mkto-ab690011.com
 mkto-ab690019.com
 mkto-ab690062.com
 mkto-abc0038.com
+mkto-abc0203.com
 mkto-abc0241.com
 mkto-abd0206.com
 mkto-abj0022.com
 mkto-abm0229.com
 mkto-cs0007.com
 mkto-d0170.com
+mkto-e0231.com
 mkto-g0030.com
 mkto-g0180.com
 mkto-h0084.com
 mkto-i0028.com
 mkto-j0126.com
+mkto-lon020055.com
 mkto-lon030291.com
 mkto-lon040152.com
 mkto-lon050200.com
@@ -14561,6 +14574,7 @@ onedrive.com
 onedrive.live.com
 onegov.nsw.gov.au
 oneid.mmstat.com
+onelink.com.do
 onelink.lt
 onelink.me
 onelink.to
@@ -16778,6 +16792,7 @@ rwl.io
 rwnd.io
 rwps.in
 rwrd.net
+rwtrnhzab.cc.rs6.net
 rwx.es
 rwz.fr
 rx.link
@@ -16793,6 +16808,7 @@ ryte.com
 rz.se
 rz6dkreab.cc.rs6.net
 rzeszow.tvp.pl
+rzeyu9wab.cc.rs6.net
 rzr.to
 s*.ssl.qhimg.com
 s*.ssl.qhmsg.com
@@ -16831,6 +16847,7 @@ s.coinmarketcap.com
 s.compass.com
 s.coop
 s.deemos.com
+s.deinventive.com
 s.ea-bank.com
 s.ecchorights.com
 s.ee
@@ -20774,6 +20791,7 @@ turtl.ink
 turtlink.com
 tusfiles.net
 tuskqr.com
+tusviralesc.us
 tut.by
 tutti.ch
 tuwaga.vip
@@ -21997,6 +22015,7 @@ vloggi.com
 vloglo.com
 vlug.link
 vm.gtimg.cn
+vm88.com.co
 vmat.gtimg.com
 vmp-beta.boldchat.com
 vmp-eu.boldchat.com
