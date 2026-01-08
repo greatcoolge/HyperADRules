@@ -1223,6 +1223,7 @@
 @@||airrlink.com^
 @@||airshort.de^
 @@||airtable.com^
+@@||aisc.live^
 @@||aiseet.atianqi.com^
 @@||aishorterlink.com^
 @@||aisubtitle.hdslb.com^
@@ -1334,6 +1335,7 @@
 @@||allamericanpatriots.com^
 @@||allbio.link^
 @@||alldebrid.com^
+@@||alldomainwhois.xyz^
 @@||allegro.pl^
 @@||allekabels.nl^
 @@||alli.pub^
@@ -1343,6 +1345,7 @@
 @@||alllinks.in^
 @@||alllinksinbio.com^
 @@||allmylinks.link^
+@@||allmylinksinoneplace.com^
 @@||alls.link^
 @@||alluremedia.com.au ^
 @@||alluremedia.com.au^
@@ -2642,6 +2645,7 @@
 @@||appstore.pandora.xiaomi.com^
 @@||appsumo.com^
 @@||apptimize.com^
+@@||appusps.live^
 @@||appw.me^
 @@||appwhats.in^
 @@||appx.transient.amazon.com^
@@ -2896,6 +2900,7 @@
 @@||auditude.com^
 @@||audownload.windowsupdate.nsatc.net^
 @@||augustinus.digital^
+@@||aumtrack.com^
 @@||auni.telecome.cn^
 @@||aur.li^
 @@||aurelus.link^
@@ -3017,6 +3022,7 @@
 @@||ayokale.me^
 @@||ayt.fr^
 @@||ayuk.link^
+@@||ayzyu.com^
 @@||az.gravatar.com^
 @@||az667904.vo.msecnd.net^
 @@||az725175.vo.msecnd.net^
@@ -3204,6 +3210,7 @@
 @@||beacons.ai^
 @@||beats.is^
 @@||beauty.rakuten.co.jp^
+@@||beautyfitnesshealth.com^
 @@||bebe.com^
 @@||bebuiltllc.com^
 @@||bec.ltd^
@@ -3308,6 +3315,7 @@
 @@||bg4.me^
 @@||bg5.v4.a.dl.ws.microsoft.com^
 @@||bg5.v4.emdl.ws.microsoft.com^
+@@||bg9.us^
 @@||bgp.fe01.c3.xiaomi.com^
 @@||bgr.com^
 @@||bharattimes.com^
@@ -3750,6 +3758,7 @@
 @@||boskale.me^
 @@||boss.static.xiaomi.net^
 @@||bossaudioandcomic-1252317822.image.myqcloud.com^
+@@||bosslinks.ai^
 @@||boston-services.gabriels.net^
 @@||boston.cbslocal.com^
 @@||boston.com^
@@ -4766,6 +4775,7 @@
 @@||cindora.club^
 @@||cinecom.info^
 @@||cinterraent.com^
+@@||cintly.com^
 @@||cipater.soundcloud.com^
 @@||cipta.link^
 @@||ciptalink.com^
@@ -5033,6 +5043,7 @@
 @@||cloudcache.tencent-cloud.cn^
 @@||cloudcampus.rnd.huawei.com^
 @@||clouddn.com^
+@@||cloudfare.icu^
 @@||cloudflare-dns.com^
 @@||cloudflare.com^
 @@||cloudflareinsights.com^
@@ -5047,6 +5058,7 @@
 @@||cloudmail19.netcore.co.in^
 @@||cloudmail20.netcore.co.in^
 @@||cloudopenlabs.huawei.com^
+@@||cloudradar.net^
 @@||cloudresourcemanager.googleapis.com^
 @@||cloudservices.roku.com^
 @@||cloudshrinker.com^
@@ -21931,6 +21943,7 @@
 @@||viplink.us^
 @@||vipp.link^
 @@||viprupiah138.net^
+@@||vipshort.in^
 @@||vipshortener.com^
 @@||vipslot4d.site^
 @@||viraatlabs.com^
