@@ -1318,6 +1318,7 @@
 @@||baratun.de^
 @@||barkodi.com^
 @@||barsoocm.com^
+@@||barujago.xyz^
 @@||barz.it^
 @@||basedl.com^
 @@||bayarcuan.com^
@@ -4648,6 +4649,7 @@
 @@||invpy.com^
 @@||invy.in^
 @@||iny.me^
+@@||inyuy.com^
 @@||io.clickguard.com^
 @@||io.kanopus.org^
 @@||io.steelcutaudio.com^
@@ -4681,6 +4683,7 @@
 @@||irng.ca^
 @@||irohi.com^
 @@||is-gd.link^
+@@||is.am^
 @@||is.gd^
 @@||is3.co^
 @@||isabi.click^
@@ -4690,6 +4693,7 @@
 @@||iscool.net^
 @@||isee.weishi.qq.com^
 @@||iservice.10010.com^
+@@||ishort.in^
 @@||ishortie.com^
 @@||ishortn.ink^
 @@||ishorturl.com^
@@ -4755,6 +4759,7 @@
 @@||j-it.su^
 @@||j.gamersky.com^
 @@||j.gs^
+@@||j.mp^
 @@||j0n.de^
 @@||j1n.uk^
 @@||j2c.cc^
@@ -4810,6 +4815,7 @@
 @@||jh7.uk^
 @@||jhk-cdn-mampic.hismarttv.com^
 @@||jhu.li^
+@@||jhxpc.info^
 @@||jianghu.163.com^
 @@||jiazhang.gm.163.com^
 @@||jiazhang.qq.com^
@@ -5004,6 +5010,7 @@
 @@||kissa.be^
 @@||kit.do^
 @@||kiteww.com^
+@@||kjd.us^
 @@||kjimg10.360buyimg.com^
 @@||kk.rs^
 @@||kkday.me^
@@ -5104,6 +5111,7 @@
 @@||kuc.cz^
 @@||kuhlinks.de^
 @@||kuic.io^
+@@||kuik.li^
 @@||kuiklink.com^
 @@||kuku.lu^
 @@||kulink.me^
@@ -5318,6 +5326,7 @@
 @@||lien.babel.coop^
 @@||lien.li^
 @@||lien.paribal.fr^
+@@||lien.pl^
 @@||lienket.vn^
 @@||liens.ovh^
 @@||lifeandtime.charity^
@@ -5492,6 +5501,7 @@
 @@||link888.me^
 @@||linka.li^
 @@||linkable.id^
+@@||linkable.to^
 @@||linkaff.com^
 @@||linkai.in^
 @@||linkaku.homes^
@@ -5501,6 +5511,7 @@
 @@||linkalp.com^
 @@||linkamankita.com^
 @@||linkapp.click^
+@@||linkasd.com^
 @@||linkasli.pro^
 @@||linkatra.com^
 @@||linkaty.me^
@@ -5981,6 +5992,7 @@
 @@||loip.cc^
 @@||loki.at^
 @@||lolipoly.com^
+@@||lompat.xyz^
 @@||lonerwolf.co^
 @@||looktiny.com^
 @@||loom.ly^
@@ -6636,6 +6648,7 @@
 @@||mlab-park.org^
 @@||mlc-wels.edu^
 @@||mlink.tw^
+@@||mllej.com^
 @@||mlnk.vn^
 @@||mlog.news^
 @@||mlol-file.qpic.cn^
@@ -6800,6 +6813,7 @@
 @@||mupf.me^
 @@||murl.com^
 @@||murl.gg^
+@@||murls.xyz^
 @@||music.163.com^
 @@||music.yosa.org^
 @@||mut.lu^
@@ -6952,6 +6966,7 @@
 @@||narrowurl.com^
 @@||nas.xunlei.com^
 @@||nashcapernaum.org^
+@@||natsbee.link^
 @@||natura.com.vc^
 @@||nature.ly^
 @@||naturl.io^
@@ -6981,6 +6996,7 @@
 @@||nectarios.info^
 @@||neexulro.net^
 @@||nefeli.live^
+@@||nefix.de^
 @@||neflixenomovies.com^
 @@||nej.md^
 @@||neo.am^
@@ -7034,6 +7050,7 @@
 @@||nfsurl.com^
 @@||nftchampions.info^
 @@||nfw.cz^
+@@||ng.je^
 @@||nghub.net^
 @@||nglink.id^
 @@||ngnbrand.com^
@@ -7108,6 +7125,7 @@
 @@||nordlitt.fr^
 @@||north-plus.net^
 @@||noticiasactuales2026.com^
+@@||noticiasactualizadas24h.com^
 @@||notion-url-shortener.vercel.app^
 @@||notlong.com^
 @@||nov.io^
@@ -7140,6 +7158,7 @@
 @@||ntalij.com^
 @@||ntap.com^
 @@||ntbk.io^
+@@||ntbk.tr^
 @@||ntbx.ir^
 @@||ntck.co^
 @@||ntlink.co^
@@ -7166,6 +7185,7 @@
 @@||nxm.us^
 @@||nxsg.us^
 @@||nxss.link^
+@@||nxturl.com^
 @@||nxtz.cloud^
 @@||nxy.in^
 @@||nycu.to^
@@ -7186,6 +7206,7 @@
 @@||oal.lu^
 @@||oaxyteek.net^
 @@||obank.tw^
+@@||obblink.com^
 @@||obdr.it^
 @@||obio.link^
 @@||oblino.com^
@@ -7301,6 +7322,7 @@
 @@||onetimepass.org^
 @@||onetimeurl.com^
 @@||oneurl.co^
+@@||oneurl.live^
 @@||onforb.es^
 @@||onion.com^
 @@||online.adservicemedia.dk^
@@ -7347,6 +7369,7 @@
 @@||opticksprotection.com^
 @@||optimize.ly^
 @@||opusgrid.barberreels.com^
+@@||opzai.com^
 @@||oqp.ru^
 @@||oraclecloud.com^
 @@||oran.ge^
@@ -7565,6 +7588,7 @@
 @@||pchome.link^
 @@||pck.tv^
 @@||pclosdebian.org^
+@@||pco.la^
 @@||pcof.fi^
 @@||pcphq.net^
 @@||pcsgt.com^
@@ -7681,6 +7705,7 @@
 @@||piti.nc^
 @@||pitlink.com^
 @@||pitt.health^
+@@||piurl.com^
 @@||pixamz.com^
 @@||pixel.everesttech.net^
 @@||pixel.link^
@@ -8842,6 +8867,7 @@
 @@||seer.to^
 @@||seez.bio^
 @@||segueae.link^
+@@||seif.link^
 @@||seiu.co^
 @@||sejr.nl^
 @@||sekb.net^
@@ -10737,6 +10763,7 @@
 @@||tr.strumentimusicali.net^
 @@||tr.threeate.jp^
 @@||tr1.pw^
+@@||trace.marketingviadigital.com^
 @@||traceurl.com^
 @@||track-eu.customer.io^
 @@||track-sdk-eu.customer.io^

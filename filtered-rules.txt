@@ -3135,6 +3135,7 @@ barebones.com
 barkodi.com
 barnesandnoble.com
 barsoocm.com
+barujago.xyz
 barz.it
 basedl.com
 batch.com
@@ -10166,6 +10167,7 @@ iny.me
 iny123.com
 inyarro.ws
 inyurl.com
+inyuy.com
 io.clickguard.com
 io.kanopus.org
 io.mi.com
@@ -10252,6 +10254,7 @@ irng.ca
 irohi.com
 irs.gov
 is-gd.link
+is.am
 is.gd
 is.hide.me
 is.snssdk.com
@@ -10264,6 +10267,7 @@ iscool.net
 isee.weishi.qq.com
 iservice.10010.com
 iservice.fuzelfiles.com
+ishort.in
 ishortie.com
 ishortn.ink
 ishorturl.com
@@ -10446,6 +10450,7 @@ jfe-cdn.qualtrics.com
 jh7.uk
 jhk-cdn-mampic.hismarttv.com
 jhu.li
+jhxpc.info
 jiagu.360.cn
 jiamitu.mi.com
 jianghu.163.com
@@ -10785,6 +10790,7 @@ kit.snapchat.com
 kite.com
 kiteww.com
 kiwifarms.net
+kjd.us
 kjimg10.360buyimg.com
 kk.rs
 kkday.me
@@ -10919,6 +10925,7 @@ kubernetes.io
 kuc.cz
 kuhlinks.de
 kuic.io
+kuik.li
 kuiklink.com
 kuiniuca.com
 kuku.lu
@@ -11251,6 +11258,7 @@ liebg.at
 lien.babel.coop
 lien.li
 lien.paribal.fr
+lien.pl
 lienket.vn
 liens.ovh
 life.wechat.com
@@ -11456,6 +11464,7 @@ link4u.uk
 link888.me
 linka.li
 linkable.id
+linkable.to
 linkaff.com
 linkai.in
 linkaku.homes
@@ -11465,6 +11474,7 @@ linkaloo.it
 linkalp.com
 linkamankita.com
 linkapp.click
+linkasd.com
 linkasli.pro
 linkatra.com
 linkaty.me
@@ -12100,6 +12110,7 @@ lolcounter.com
 loli.io
 loli.net
 lolipoly.com
+lompat.xyz
 lonerwolf.co
 look.com
 lookaside.facebook.com
@@ -13321,6 +13332,7 @@ mlife.lg.com
 mlink.tw
 mljt.tech
 mll.me
+mllej.com
 mlnk.vn
 mlog.news
 mlog.search.xiaomi.net
@@ -13618,6 +13630,7 @@ mup.amp.mcafee.com
 mupf.me
 murl.com
 murl.gg
+murls.xyz
 music-jp-coupon.line.me
 music-mag.line.me
 music.163.com
@@ -13876,6 +13889,7 @@ naszdziennik.pl
 natfrp.cloud
 nationalgeographic.com
 native-vita.np.ac.playstation.net
+natsbee.link
 natura.com.vc
 nature.com
 nature.ly
@@ -13925,6 +13939,7 @@ nebula-collector.huawei.com
 nectarios.info
 neexulro.net
 nefeli.live
+nefix.de
 neflixenomovies.com
 nej.md
 nejmqianyan.cn
@@ -14061,6 +14076,7 @@ nflximg.net
 nfsurl.com
 nftchampions.info
 nfw.cz
+ng.je
 nghub.net
 nginx.org
 nglink.id
@@ -14204,6 +14220,7 @@ notice2.line.me
 noticecdn.samsungcloudsolution.com
 noticefile.samsungcloudsolution.com
 noticiasactuales2026.com
+noticiasactualizadas24h.com
 notification-prod.svc.gearsofwar.net
 notificationcontent.entrance.sonymobile.com
 notifications.google.com
@@ -14306,6 +14323,7 @@ ntalij.com
 ntalker.com
 ntap.com
 ntbk.io
+ntbk.tr
 ntbx.ir
 ntck.co
 ntlink.co
@@ -14348,6 +14366,7 @@ nxm.us
 nxpay.dutchbanglabank.com
 nxsg.us
 nxss.link
+nxturl.com
 nxtz.cloud
 nxy.in
 ny.com
@@ -14411,6 +14430,7 @@ oauth.reddit.com
 oauth.vk.com
 oaxyteek.net
 obank.tw
+obblink.com
 obdr.it
 obio.link
 oblino.com
@@ -14599,6 +14619,7 @@ onethingpcs.com
 onetimepass.org
 onetimeurl.com
 oneurl.co
+oneurl.live
 onforb.es
 onhax.me
 onhax.net
@@ -14701,6 +14722,7 @@ options.skype.com
 opus.l.soundcloud.com
 opus.soundcloud.com
 opusgrid.barberreels.com
+opzai.com
 oqp.ru
 or1gtm003.adobe.com
 ora.tv
@@ -15084,6 +15106,7 @@ pci.spotify.com
 pck.tv
 pclosdebian.org
 pcmag.com
+pco.la
 pcof.fi
 pcphq.net
 pcsgt.com
@@ -15291,6 +15314,7 @@ piti.nc
 pitlink.com
 pitt.health
 pittsburgh.cbslocal.com
+piurl.com
 piwik.org
 pix11.com
 pixamz.com
@@ -17425,6 +17449,7 @@ seez.bio
 segment.com
 segment.hotstar.com
 segueae.link
+seif.link
 seiu.co
 sejr.nl
 sekb.net
@@ -20441,6 +20466,7 @@ tr.threeate.jp
 tr.twitch.tv
 tr.wikipedia.com
 tr1.pw
+trace.marketingviadigital.com
 traceurl.com
 track-eu.customer.io
 track-sdk-eu.customer.io
