@@ -16731,7 +16731,6 @@ rozhl.as
 rpetri.ch
 rpf.io
 rpg.twitch.tv
-rplg.co
 rpt.gdt.qq.com
 rptl.io
 rptrcks.walmart.com
@@ -20348,6 +20347,7 @@ to.nconnect.asia
 to.pbs.org
 to.servers.com
 to24r.com
+to8.cc
 toclick.link
 today.com
 today.line.me
@@ -20397,6 +20397,7 @@ tools.y99.in
 toolsbyvasdijay.vercel.app
 toolsfox.com
 toolspivot.com
+toolssagar.com
 toonily.com
 toonily.me
 top-sub-cve-len.live
@@ -20534,6 +20535,7 @@ track3.bsplegalmarketing.com
 track3.davydovlaw.com
 track34102166105.effiliation.com
 track34102180193.effiliation.com
+track3410224983.effiliation.com
 track35190150.effiliation.com
 trackcmp.net
 trackdynamiclinks.com
@@ -20664,7 +20666,6 @@ trim-me.de
 trim-me.io
 trim-url.com
 trim.cx
-trim.one
 trimaurl.com
 trimify.xyz
 trimlink.ai
@@ -21015,6 +21016,7 @@ ufai.app
 ufasofilmebi.one
 ufcqc.link
 ufflink.com
+ufjqt.com
 ug.cz
 ugame.9game.cn
 ugc.api.playstation.com
@@ -21362,6 +21364,7 @@ url6xx.com
 url724.link
 url7x.com
 url84.com
+url88.online
 url8x.com
 url9xx.com
 urla.ru
@@ -21390,6 +21393,7 @@ urlcort.com
 urlcover.com
 urlcrop.com
 urlcut.at
+urlcut.ch
 urlcut.com
 urlcut.cv
 urlcut.in
@@ -21489,6 +21493,7 @@ urls.to
 urls.visionrocket.com
 urls1xx.com
 urlsear.ch
+urlsh.net
 urlsh.us
 urlshor.com
 urlshort.allcrom.com.br
@@ -21537,6 +21542,7 @@ urlsnap.com
 urlsnapy.com
 urlsnipper.com
 urlsss.vercel.app
+urlstox.com
 urltake.com
 urltamil.in
 urlth.me
@@ -21704,6 +21710,7 @@ usis.bracu.ac.bd
 usite.jp
 usnews.com
 usps-v2.com
+uspsexpress.org
 usreviewers.com
 usrlnx.com
 ustream.tv
@@ -21980,6 +21987,7 @@ viindoo.com
 vijijay.com
 vikcap.com
 vilpower.in
+vim.li
 vimeo.com
 vindicoce.com
 vine.co
@@ -22022,6 +22030,7 @@ visit2earn.com
 visitame.app
 visitmy.link
 visitmylinks.com
+visitmypage.org
 visitsitenow.com
 visiyta.com
 visma.com
@@ -22171,6 +22180,7 @@ vulture.com
 vupload2.facebook.com
 vur.me
 vurl.com
+vurlz.com
 vuukle.com
 vv.vg
 vv.video.qq.com
@@ -22415,6 +22425,7 @@ wechat.com
 wed.li
 wedding.rakuten.co.jp
 wedew.link
+wee.bz
 wee.so
 wee.wtf
 weebly.com
@@ -22577,6 +22588,7 @@ wis.sndcdn.com
 wisc.edu
 wisecleaner.com
 wisestamp.link
+wishct.live
 wishew.app
 wishly.in
 wisilinks.com
@@ -24723,6 +24735,7 @@ zenlinkit.com
 zensus.io
 zenurl.in
 zenz-solutions.de
+zephb.com
 zero.facebook.com
 zero.wikipedia.com
 zerohedge.com
@@ -24820,6 +24833,7 @@ zoho.to
 zom.ink
 zom.io
 zona.media
+zonearcad.xyz
 zoneurl.net
 zoodl.com
 zoominfo.com
