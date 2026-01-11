@@ -6096,6 +6096,7 @@
 @@||m-gzmk5.custobar.com^
 @@||m-ini.me^
 @@||m-k.ca^
+@@||m-nxt.custobar.com^
 @@||m-rx.bz^
 @@||m-s6iau.custobar.com^
 @@||m-so.custobar.com^
@@ -11080,6 +11081,7 @@
 @@||twg.urlklik.com^
 @@||twi.im^
 @@||twi.kz^
+@@||twil.io^
 @@||twilink.me^
 @@||twirl.otee.dev^
 @@||twishx.com^
