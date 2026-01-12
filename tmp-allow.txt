@@ -2482,6 +2482,7 @@
 @@||crwdstr.ke^
 @@||cry-pto.life^
 @@||crypsante.com^
+@@||cryptowidgets.site^
 @@||cs.co^
 @@||csd.dotomi.com^
 @@||cse3.chausport.com^
@@ -4706,6 +4707,7 @@
 @@||isols.co^
 @@||istel.co^
 @@||isterratrk.com^
+@@||istincy.com^
 @@||istore.ar^
 @@||isurl.cc^
 @@||isurt.com^
@@ -6509,6 +6511,7 @@
 @@||mkto-ab090057.com^
 @@||mkto-ab100157.com^
 @@||mkto-ab110171.com^
+@@||mkto-ab130037.com^
 @@||mkto-ab150224.com^
 @@||mkto-ab160143.com^
 @@||mkto-ab180008.com^
@@ -11185,6 +11188,7 @@
 @@||uintertool.com^
 @@||uitly.com^
 @@||ukaz.me^
+@@||uke.fan^
 @@||ukf.me^
 @@||ukoeln.de^
 @@||ul.rs^
@@ -12032,6 +12036,7 @@
 @@||webto.salesforce.com^
 @@||webtoolmaster.com^
 @@||webtor.io^
+@@||webtrafficxxl.com^
 @@||webtte.com^
 @@||webz.cc^
 @@||wec.li^
