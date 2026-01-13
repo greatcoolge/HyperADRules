@@ -5334,6 +5334,7 @@
 @@||contact-cc.line.me^
 @@||contact.line.me^
 @@||contactapi.micloud.xiaomi.net^
+@@||contactmonkey.com^
 @@||contacts.google.com^
 @@||contactus.netflix.com^
 @@||contactus.samsung.com^
@@ -9955,6 +9956,7 @@
 @@||imgix.net^
 @@||imgix.ranker.com^
 @@||imgnode.gtimg.cn^
+@@||imgo.cc^
 @@||imgs.signifyd.com^
 @@||imgs.xkcd.com^
 @@||imgservices-1252317822.image.myqcloud.com^
@@ -20454,6 +20456,7 @@
 @@||tousu.sina.com.cn^
 @@||toutiao.com^
 @@||tov1.net^
+@@||towa.no^
 @@||toweraws.cs.rackspace.com^
 @@||townnews.com^
 @@||tox.cx^

@@ -2389,6 +2389,7 @@
 @@||console.cloud.tencent.com^
 @@||construccionrl.com^
 @@||conta.cc^
+@@||contactmonkey.com^
 @@||contasuolfatura.com^
 @@||contentcenter-vali-drcn.dbankcdn.com^
 @@||conteudo.megasoft.com.br^
@@ -4569,6 +4570,7 @@
 @@||img3.tapimg.com^
 @@||img30.360buyimg.com^
 @@||img4.qy0.ru^
+@@||imgo.cc^
 @@||imgs.signifyd.com^
 @@||imgservices-1252317822.image.myqcloud.com^
 @@||imgsrc.baidu.com^
@@ -10759,6 +10761,7 @@
 @@||tousu.sina.cn^
 @@||tousu.sina.com.cn^
 @@||tov1.net^
+@@||towa.no^
 @@||toweraws.cs.rackspace.com^
 @@||tox.cx^
 @@||toyota.tw^
