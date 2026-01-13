@@ -11373,6 +11373,7 @@ link.cashcard.id
 link.cc
 link.chanrobotics.org
 link.climatemessengers.ca
+link.cnr.it
 link.colborlight.com
 link.dailycaller.com
 link.dana.id
@@ -11690,6 +11691,7 @@ links.iterable.com
 links.luckreceptivo.com.br
 links.minipcr.com
 links.mkt41.net
+links.mkt61.net
 links.nanoleaf.me
 links.nivbook.co.il
 links.notifications.soundcloud.com
@@ -13227,6 +13229,7 @@ mkto-ab440098.com
 mkto-ab450015.com
 mkto-ab470148.com
 mkto-ab480059.com
+mkto-ab500015.com
 mkto-ab500174.com
 mkto-ab520004.com
 mkto-ab530057.com
@@ -16204,6 +16207,7 @@ r4u.in
 r5.bithumb.com
 r595luabb.cc.rs6.net
 r5cnmhlab.cc.rs6.net
+r5pxcw4ab.cc.rs6.net
 r5siqu4ab.cc.rs6.net
 r5waxhbbb.cc.rs6.net
 r6hquldab.cc.rs6.net
@@ -16842,6 +16846,7 @@ ryanmaher.co
 rygu9kfbb.cc.rs6.net
 ryml.me
 ryp.im
+rypni4cbb.cc.rs6.net
 ryps.us
 ryte.com
 rz.se
