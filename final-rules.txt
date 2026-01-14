@@ -190,7 +190,6 @@
 @@||1ly.ru^
 @@||1mm.kr^
 @@||1nk.co^
-@@||1nom.org^
 @@||1o.pl^
 @@||1o2.ir^
 @@||1oe9.one^
@@ -233,7 +232,6 @@
 @@||1xregister.vip^
 @@||1z.lc^
 @@||1zr.in^
-@@||1zx.ir^
 @@||2-aclk.net^
 @@||2-edge-chat.facebook.com^
 @@||2-spyware.com^
@@ -18183,6 +18181,7 @@
 @@||sic.onl^
 @@||sicax.net^
 @@||sicepat.link^
+@@||sider.ai^
 @@||sidework-click.info^
 @@||sidji.link^
 @@||sie.ag^

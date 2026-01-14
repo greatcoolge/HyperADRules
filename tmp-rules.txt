@@ -8979,6 +8979,7 @@
 @@||si.playstation.com^
 @@||siasat.pk^
 @@||siatka.org^
+@@||sider.ai^
 @@||sign-in.soundcloud.com^
 @@||signals.qualcomm.com^
 @@||signin.ebay.com^
