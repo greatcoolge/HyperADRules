@@ -8104,6 +8104,7 @@
 @@||qrs.ly^
 @@||qrtag.fr^
 @@||qrtli.com^
+@@||qrto.org^
 @@||qrump.com^
 @@||qrurl.cc^
 @@||qrurl.co^

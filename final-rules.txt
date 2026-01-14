@@ -4670,6 +4670,7 @@
 @@||chat.minergate.com^
 @@||chat.thekphub.com^
 @@||chat.xiaomi.net^
+@@||chat.z.ai^
 @@||chatapi.viber.com^
 @@||chatdepot.twitch.tv^
 @@||chatenabled.mail.google.com^
@@ -16087,6 +16088,7 @@
 @@||qrs.ly^
 @@||qrtag.fr^
 @@||qrtli.com^
+@@||qrto.org^
 @@||qrump.com^
 @@||qrurl.cc^
 @@||qrurl.co^

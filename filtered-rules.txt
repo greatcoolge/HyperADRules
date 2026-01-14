@@ -4664,6 +4664,7 @@ chat.deepseek.com
 chat.minergate.com
 chat.thekphub.com
 chat.xiaomi.net
+chat.z.ai
 chatapi.viber.com
 chatdepot.twitch.tv
 chatenabled.mail.google.com
@@ -16081,6 +16082,7 @@ qrpro.net
 qrs.ly
 qrtag.fr
 qrtli.com
+qrto.org
 qrump.com
 qrurl.cc
 qrurl.co
