@@ -364,7 +364,6 @@
 @@||3.us.pool.ntp.org^
 @@||301.link^
 @@||301.tv^
-@@||301l.ir^
 @@||302.pl^
 @@||30na.ma^
 @@||30t.me^
@@ -435,7 +434,6 @@
 @@||46.fi^
 @@||47.de^
 @@||48609.activity-42.m.duiba.com.cn^
-@@||48l.ir^
 @@||49rs.co^
 @@||4a.lol^
 @@||4alink.net^
@@ -455,7 +453,6 @@
 @@||4insurancejobs.com^
 @@||4ja.ai^
 @@||4l.shop^
-@@||4md.ir^
 @@||4or.de^
 @@||4pda.ru^
 @@||4pda.to^
@@ -485,7 +482,6 @@
 @@||58.com^
 @@||58pic.com^
 @@||5du.pl^
-@@||5ia.ir^
 @@||5il.co^
 @@||5k.lol^
 @@||5m.io^
@@ -5498,6 +5494,7 @@
 @@||credit.jr.mi.com^
 @@||creditcards.com^
 @@||creeds.io^
+@@||creepylink.com^
 @@||cricbuzz.com^
 @@||crickcounty.com^
 @@||crisp.chat^
