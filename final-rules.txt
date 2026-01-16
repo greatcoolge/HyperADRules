@@ -5417,7 +5417,6 @@
 @@||cp4.cloudflare.com^
 @@||cp76677.edgefcs.net^
 @@||cp81.ott.cibntv.net^
-@@||cpamarketing.ro^
 @@||cpanel.com^
 @@||cpanel.net^
 @@||cpbr.link^
@@ -5609,7 +5608,6 @@
 @@||cuer.io^
 @@||cuk.one^
 @@||cukbaray.com^
-@@||cul.ke^
 @@||cultm.ac^
 @@||culy.top^
 @@||cuoinamdiedm.life^
@@ -5650,7 +5648,6 @@
 @@||cutdown.link^
 @@||cute.link^
 @@||cutearns.com^
-@@||cuterurlha.xyz^
 @@||cutestat.com^
 @@||cuteurl.co^
 @@||cuteurl.com^
@@ -5667,7 +5664,6 @@
 @@||cutly.me^
 @@||cutly.pro^
 @@||cutlyx.com^
-@@||cutme.io^
 @@||cutmeshort.com^
 @@||cutmoa.com^
 @@||cutmy.link^
@@ -5803,7 +5799,6 @@
 @@||daftar.to^
 @@||daftar.tokyo^
 @@||daftarhoki.live^
-@@||daftarmpomax.live^
 @@||daftsex.com^
 @@||dai.ly^
 @@||dailycaller.com^
@@ -6210,7 +6205,6 @@
 @@||diwi.io^
 @@||diypriceless.com^
 @@||djarum88.shop^
-@@||djbanshi.net^
 @@||dji.com^
 @@||djix.com^
 @@||djo924.com^
@@ -6520,7 +6514,6 @@
 @@||dsyixm.com^
 @@||dt51.net^
 @@||dtdg.co^
-@@||dte.bz^
 @@||dti.io^
 @@||dtl.la^
 @@||dts.podtrac.com^
@@ -6638,7 +6631,6 @@
 @@||e78installers.com^
 @@||e8.org^
 @@||e8318.dsca.akamaiedge.net^
-@@||e9e.ir^
 @@||ea.co^
 @@||ea.com^
 @@||ea1-urlp.secure.skypeassets.com^
@@ -7607,7 +7599,6 @@
 @@||fmovies.to^
 @@||fmurl.cc^
 @@||fn.gg^
-@@||fna.ir^
 @@||fnb.ink^
 @@||fnb.lc^
 @@||fncstatic.com^
@@ -7885,7 +7876,6 @@
 @@||fwd4.me^
 @@||fwdme.info^
 @@||fwds.to^
-@@||fwk.ai^
 @@||fwme.eu^
 @@||fwr.to^
 @@||fx.cc^
@@ -8133,7 +8123,6 @@
 @@||getadsnow.org^
 @@||getalinkandshare.com^
 @@||getashorturl.com^
-@@||getbiolink.com^
 @@||getbiolink.me^
 @@||getbitly.pro^
 @@||getblue.me^
