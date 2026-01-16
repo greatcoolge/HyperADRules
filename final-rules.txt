@@ -8380,7 +8380,6 @@
 @@||go.kout.ro^
 @@||go.lamotte.fr^
 @@||go.leanplum.com^
-@@||go.liara.ir^
 @@||go.library.cikeys.com^
 @@||go.link^
 @@||go.linkwi.se^
@@ -8465,7 +8464,6 @@
 @@||go2cloud.org^
 @@||go2ct.pro^
 @@||go2jump.org^
-@@||go2l.ir^
 @@||go2ln.com^
 @@||go2my.info^
 @@||go2sm.com^
@@ -8473,7 +8471,6 @@
 @@||go2u.cc^
 @@||go2www.link^
 @@||go777.net^
-@@||goads.id^
 @@||goaftrad.com^
 @@||goatcodes.com^
 @@||goatcounter.com^
@@ -8497,7 +8494,6 @@
 @@||gogoanime.io^
 @@||gogoclick.info^
 @@||gogoto.me^
-@@||gohostd.com^
 @@||goink.me^
 @@||goitb.id^
 @@||gokano.com^
@@ -9030,7 +9026,6 @@
 @@||hardware.support.eu.playstation.com^
 @@||hardwareluxx.de^
 @@||harisenin.link^
-@@||harmonyurl.ir^
 @@||harounbillets.com^
 @@||harpercollins.com^
 @@||harvard.edu^
@@ -9170,7 +9165,6 @@
 @@||hi.sat.cool^
 @@||hi.statcounter.com^
 @@||hi4.in^
-@@||hibastyle.com^
 @@||hibfox.com^
 @@||hibu.com^
 @@||hicider.com^
@@ -9456,7 +9450,6 @@
 @@||hurl.me^
 @@||hurl.ws^
 @@||husband92.com^
-@@||hut.bz^
 @@||hutmat.in^
 @@||hux.link^
 @@||huxley.social^
@@ -10131,7 +10124,6 @@
 @@||intx.ltd^
 @@||inu.me^
 @@||inui.in^
-@@||invata-acum.ro^
 @@||invent.ge^
 @@||inventory.dealersocket.com^
 @@||invest.ameritrade.com^
@@ -10231,7 +10223,6 @@
 @@||iqoption.com^
 @@||ir.ebaystatic.com^
 @@||ira.mx^
-@@||irbaz.ir^
 @@||irc-ws-darklaunch.chat.twitch.tv^
 @@||irc-ws.chat.twitch.tv^
 @@||irc.abjects.net^
@@ -10673,7 +10664,6 @@
 @@||kbank.co^
 @@||kbit.co^
 @@||kbitly.com^
-@@||kccim.ir^
 @@||kck.st^
 @@||kcsoftwares.com^
 @@||kdo.link^
@@ -10699,7 +10689,6 @@
 @@||keraskale.me^
 @@||keremozgit.org^
 @@||kes.re^
-@@||ketikmasuk.com^
 @@||ketli.net^
 @@||key.us^
 @@||keybase.io^
@@ -10786,7 +10775,6 @@
 @@||kkday.me^
 @@||kkne.ws^
 @@||kko.to^
-@@||kkon.ir^
 @@||kkstre.am^
 @@||kku.digital^
 @@||kku.world^
@@ -10833,7 +10821,6 @@
 @@||kn-t.net^
 @@||kn.gravatar.com^
 @@||knet.cn^
-@@||knext.in^
 @@||knicks.jd.com^
 @@||knnt.me^
 @@||knowyourmeme.com^
@@ -11289,7 +11276,6 @@
 @@||lihipro.com^
 @@||lihivip.com^
 @@||liii.ink^
-@@||liink.ir^
 @@||liinkee.com^
 @@||liip.to^
 @@||like.daum.net^
@@ -11479,7 +11465,6 @@
 @@||linkbio.co^
 @@||linkbio.space^
 @@||linkbirdy.com^
-@@||linkbiscuit.co^
 @@||linkbite.io^
 @@||linkbitty.com^
 @@||linkbloomer.com^
@@ -11493,7 +11478,6 @@
 @@||linkburst.online^
 @@||linkc.co^
 @@||linkcenter.derbysoftca.com^
-@@||linkcepat.my^
 @@||linkcheck.org^
 @@||linkchop.com^
 @@||linkciao.com^
@@ -11543,17 +11527,14 @@
 @@||linkhub.biz^
 @@||linkhub.to^
 @@||linki.run^
-@@||linkia.co^
 @@||linkify.page^
 @@||linkifyer.com^
 @@||linkila.com^
 @@||linkim.cc^
 @@||linkin.icu^
-@@||linkinbio.pro^
 @@||linkinbio.to^
 @@||linking.is^
 @@||linkinghub.elsevier.com^
-@@||linkins.live^
 @@||linkinto.net^
 @@||linkio.it^
 @@||linkiq.co^
@@ -11631,7 +11612,6 @@
 @@||linkoqr.com^
 @@||linkotomy.com^
 @@||linkotw.live^
-@@||linkp.ir^
 @@||linkp.online^
 @@||linkpad.pro^
 @@||linkpage.it^
@@ -11694,7 +11674,6 @@
 @@||linkscop.me^
 @@||linksdr.com^
 @@||linksehat.net^
-@@||linksero.com^
 @@||linksfire.net^
 @@||linksflow.bio^
 @@||linksfly.net^
@@ -11824,7 +11803,6 @@
 @@||lithium.facebook.com^
 @@||litl.cc^
 @@||litly.net^
-@@||litt.xyz^
 @@||little-link.co^
 @@||little.im^
 @@||littlelinkapp.com^
@@ -11986,7 +11964,6 @@
 @@||lnks.es^
 @@||lnks.fr^
 @@||lnkshk.com^
-@@||lnkshort.com^
 @@||lnktee.com^
 @@||lnkup.us^
 @@||lnkw.co^
@@ -12164,7 +12141,6 @@
 @@||lt.tl^
 @@||lt27.de^
 @@||lt45.net^
-@@||lt5.ir^
 @@||ltc.cryptopia.co.nz^
 @@||ltd.ac^
 @@||ltdhunt.com^
@@ -13232,6 +13208,7 @@
 @@||mkto-ab620045.com^
 @@||mkto-ab620126.com^
 @@||mkto-ab620130.com^
+@@||mkto-ab630019.com^
 @@||mkto-ab630144.com^
 @@||mkto-ab640193.com^
 @@||mkto-ab650006.com^
