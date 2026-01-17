@@ -2526,7 +2526,6 @@ app.mi.com
 app.migc.xiaomi.com
 app.miui.com
 app.moviequik.com
-app.myotherapy.edu
 app.myvcrd.com
 app.next.exchange
 app.onesignal.com
@@ -6844,6 +6843,7 @@ emagazine.rakuten.co.jp
 email-assets.getpocket.com
 email-assets.soundcloud.com
 email-connect.spot.im
+email-link.adtidy.info
 email-link.adtidy.net
 email-link.adtidy.org
 email-tracking.infobip.com
@@ -12189,7 +12189,6 @@ lynk.ec
 lynk.la
 lynkat.net
 lynkflow.me
-lynkme.bio
 lynko.in
 lynks.in
 lynky.live
@@ -12549,7 +12548,6 @@ mailing.cryptopia.co.nz
 mailtrack.io
 maimai.cn
 main.iam.ad.ext.azure.com
-main.lyucz.com
 main.m.taobao.com
 mainaku.life
 mairuan.cn
@@ -12671,7 +12669,6 @@ masterpoing.vip
 masuk-id.info
 masuk.cfd
 masuk.to
-masuksini.my
 masy.uk
 mat1.gtimg.com
 match-heaven.club
@@ -12881,7 +12878,6 @@ menang.win
 menangbola77.info
 menangjp.pro
 mene.com
-menj.info
 mensfitness.com
 menshealth.com
 mention-me.com
@@ -13587,7 +13583,6 @@ multiscreen.samsung.com
 multishorturl.com
 multiup.org
 multiupload.com
-mumara.co
 mumu.163.com
 mumy.me
 munbyn.biz
@@ -14109,7 +14104,6 @@ njih.net
 njit.gg
 njohko.com
 njqeooqq.fun
-njx.me
 nk.by
 nk.ms
 nk.pl
@@ -14156,7 +14150,6 @@ nodes2.cryptopia.co.nz
 nofnec.live
 nog.im
 nogfan.com
-noicindya.life
 nokia.ly
 nolp.dhl.de
 nom77.one
@@ -14306,7 +14299,6 @@ nuget.org
 nulled.to
 nulledfree.pw
 nullib.com
-nullx.net
 num.to
 nurl.net
 nus.edu
@@ -14791,7 +14783,6 @@ overture.com
 ovh.net
 ovh.to
 ovmro.uk
-ovo99sports.life
 ovp-loader.flowplayer.com
 ovp.flowplayer.com
 ow.ly
