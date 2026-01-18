@@ -8433,7 +8433,6 @@
 @@||rnm.me^
 @@||ro.blox.com^
 @@||roblox.com.nf^
-@@||robul.saas.workertm.com^
 @@||rockbridge.info^
 @@||rockcastitalia.com^
 @@||rocketlink.com.br^
@@ -10526,7 +10525,6 @@
 @@||tinyuri.com^
 @@||tinyurl.com^
 @@||tinyurl.dev^
-@@||tinyurl.direct^
 @@||tinyurl.ee^
 @@||tinyurl.hu^
 @@||tinyurl.ph^
@@ -10665,13 +10663,11 @@
 @@||toolssagar.com^
 @@||toonily.com^
 @@||toonily.me^
-@@||top-sub-cve-len.live^
 @@||top.17173.com^
 @@||topdogeducation.com^
 @@||topkale.me^
 @@||toplistt.com^
 @@||topsitus.com^
-@@||topsubcvelens.life^
 @@||topt.al^
 @@||topurl.cc^
 @@||topurl.link^
@@ -10840,7 +10836,6 @@
 @@||trenddynamo.com^
 @@||tres.at^
 @@||treszki.com^
-@@||trezurl.ir^
 @@||tri.ps^
 @@||trib.al^
 @@||trib.in^
@@ -11007,7 +11002,6 @@
 @@||tvax4.sinaimg.cn^
 @@||tvdg.io^
 @@||tvote.org^
-@@||tvoy-link.ru^
 @@||tvss.jp^
 @@||tvt.lat^
 @@||tvurl.cn^
@@ -11054,7 +11048,6 @@
 @@||ty.gy^
 @@||tyasd.com^
 @@||tyns.me^
-@@||tyny.me^
 @@||typit.in^
 @@||tyrano-shortener.in^
 @@||tyurl.ch^
@@ -11094,11 +11087,9 @@
 @@||ubr.to^
 @@||ubuy.link^
 @@||ucal.us^
-@@||ucbexed.org^
 @@||ucblib.link^
 @@||uchopx.com^
 @@||ucla.in^
-@@||uclck.me^
 @@||udight.com^
 @@||ue.flipboard.com^
 @@||uepx.com^
@@ -11188,7 +11179,6 @@
 @@||updateinfo.market.xiaomi.com^
 @@||updates-http.cdn-apple.com^
 @@||updates.cdn-apple.com^
-@@||upfull.fr^
 @@||upld.in^
 @@||uplifter.ai^
 @@||uplinks.co^
@@ -11349,7 +11339,6 @@
 @@||urla.ru^
 @@||urladda.com^
 @@||urlah.com^
-@@||urlao.com^
 @@||urlaz.com^
 @@||urlb.io^
 @@||urlb.link^
@@ -11373,7 +11362,6 @@
 @@||urlcut.at^
 @@||urlcut.ch^
 @@||urlcut.com^
-@@||urlcut.cv^
 @@||urlcut.in^
 @@||urlday.cc^
 @@||urlday.com^
@@ -11505,7 +11493,6 @@
 @@||urlshortx.com^
 @@||urlshortx.io^
 @@||urlshorty.metaapps.com^
-@@||urlshot.pro^
 @@||urlshoter.com^
 @@||urlshtr.com^
 @@||urlsmall.com^
@@ -11528,7 +11515,6 @@
 @@||urltiny.xyz^
 @@||urlto.me^
 @@||urltools.com^
-@@||urltoshort.com^
 @@||urltrax.com^
 @@||urltronic.com^
 @@||urltta.top^
@@ -11563,7 +11549,6 @@
 @@||urstoron.com^
 @@||urswebzj.nosdn.127.net^
 @@||urt.io^
-@@||urweb.net^
 @@||urwebs.it^
 @@||us-serve.nrich.ai^
 @@||us.bestbrains.com^
@@ -11756,7 +11741,6 @@
 @@||vip-gacha99.info^
 @@||vip.superpopdrop.com^
 @@||vip123.biz^
-@@||vipb.io^
 @@||vipcair.click^
 @@||vipjus.click^
 @@||viplink.us^
@@ -11791,7 +11775,6 @@
 @@||vk.cc^
 @@||vk.sv^
 @@||vkei.eu^
-@@||vkik.com^
 @@||vklinks.com^
 @@||vl.am^
 @@||vla.lu^
@@ -12284,7 +12267,6 @@
 @@||wyyw.de^
 @@||wz.my^
 @@||x-i.me^
-@@||x-shrtn.com^
 @@||x.bestcheck.de^
 @@||x.co^
 @@||x.gd^
@@ -12308,7 +12290,6 @@
 @@||xboys.online^
 @@||xbrch.com^
 @@||xbx.lv^
-@@||xcard.id^
 @@||xcrl.us^
 @@||xdu.me^
 @@||xdxd.org^
@@ -12391,12 +12372,10 @@
 @@||xth.me^
 @@||xtre.me^
 @@||xua.me^
-@@||xub.me^
 @@||xuc88.club^
 @@||xuo.us^
 @@||xurl.app^
 @@||xurl.at^
-@@||xurl.jp^
 @@||xurl.pk^
 @@||xurl302.top^
 @@||xurls.net^
@@ -12502,12 +12481,10 @@
 @@||yourcs.us^
 @@||youris.bio^
 @@||youris.pro^
-@@||yourl.ir^
 @@||yourl.jp^
 @@||yourl.pro^
 @@||yourls.ch^
 @@||yourls.i2m.solutions^
-@@||yourls.info^
 @@||yourls.irex.aretex.ca^
 @@||yourls.lu^
 @@||yourls.newstargeted.com^
@@ -12589,7 +12566,6 @@
 @@||zephb.com^
 @@||zeroshort.xyz^
 @@||zetir.com^
-@@||zeurl.net^
 @@||zeus4d.mom^
 @@||zeusurl.com^
 @@||zeusurl.net^

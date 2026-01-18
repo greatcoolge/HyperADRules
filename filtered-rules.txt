@@ -16636,7 +16636,6 @@ road.adblock.ro
 roadandtrack.com
 roar.media
 roblox.com.nf
-robul.saas.workertm.com
 rochester.edu
 rockbridge.info
 rockcastitalia.com
@@ -20138,7 +20137,6 @@ tinytome.io
 tinyuri.com
 tinyurl.com
 tinyurl.dev
-tinyurl.direct
 tinyurl.ee
 tinyurl.hu
 tinyurl.ph
@@ -20338,7 +20336,6 @@ toolspivot.com
 toolssagar.com
 toonily.com
 toonily.me
-top-sub-cve-len.live
 top.17173.com
 top.baidu.com
 top.cafe.daum.net
@@ -20350,7 +20347,6 @@ topkale.me
 toplistt.com
 topratedmilfs.com
 topsitus.com
-topsubcvelens.life
 topt.al
 toptenreviews.com
 topurl.cc
@@ -20585,7 +20581,6 @@ trenddynamo.com
 tres.at
 treszki.com
 trezor.io
-trezurl.ir
 tri.ps
 trial.alcohol-soft.com
 trial.api.huangye.miui.com
@@ -20807,7 +20802,6 @@ tvn24.pl
 tvnow.de
 tvnstyle.pl
 tvote.org
-tvoy-link.ru
 tvp.pl
 tvpot.daum.net
 tvseries.in
@@ -20875,7 +20869,6 @@ ty.163.com
 ty.gy
 tyasd.com
 tyns.me
-tyny.me
 typeform.com
 typekit.com
 typekit.net
@@ -20934,13 +20927,11 @@ uc.cn
 uc.pcbeta.com
 ucal.us
 ucan.25pp.com
-ucbexed.org
 ucblib.link
 uchicago.edu
 uchopx.com
 ucla.edu
 ucla.in
-uclck.me
 ucweb.com
 ud.me
 udight.com
@@ -21116,7 +21107,6 @@ updates.push.services.mozilla.com
 updatesec.sonymobile.com
 updatesnl.macrium.com
 upenn.edu
-upfull.fr
 upgr-mmxx-cl-ts.2d8cd.cdn.bitdefender.net
 upgrade.mishop.pandora.xiaomi.com
 upgrade.scdn.co
@@ -21312,7 +21302,6 @@ url9xx.com
 urla.ru
 urladda.com
 urlah.com
-urlao.com
 urlaz.com
 urlb.io
 urlb.link
@@ -21337,7 +21326,6 @@ urlcrop.com
 urlcut.at
 urlcut.ch
 urlcut.com
-urlcut.cv
 urlcut.in
 urlday.cc
 urlday.com
@@ -21473,7 +21461,6 @@ urlshortnerpassive.com
 urlshortx.com
 urlshortx.io
 urlshorty.metaapps.com
-urlshot.pro
 urlshoter.com
 urlshtr.com
 urlsmall.com
@@ -21496,7 +21483,6 @@ urltiny.one
 urltiny.xyz
 urlto.me
 urltools.com
-urltoshort.com
 urltrax.com
 urltronic.com
 urltta.top
@@ -21532,7 +21518,6 @@ urs.techrepublic.com
 urstoron.com
 urswebzj.nosdn.127.net
 urt.io
-urweb.net
 urwebs.it
 us-1.hide.me
 us-aebridge.aliexpress.com.gds.alibabadns.com
@@ -21942,7 +21927,6 @@ vip-gacha99.info
 vip.hulu.com
 vip.superpopdrop.com
 vip123.biz
-vipb.io
 vipcair.click
 viper.click
 vipergirls.to
@@ -21996,7 +21980,6 @@ vk.cc
 vk.com
 vk.sv
 vkei.eu
-vkik.com
 vklinks.com
 vkontakte.ru
 vl.am
@@ -24232,7 +24215,6 @@ wywy.com
 wyyw.de
 wz.my
 x-i.me
-x-shrtn.com
 x.bestcheck.de
 x.co
 x.gd
@@ -24273,7 +24255,6 @@ xboys.online
 xbrch.com
 xbx.lv
 xc9.com
-xcard.id
 xcl-preview.xbox.com
 xcl.xbox.com
 xcrl.us
@@ -24396,7 +24377,6 @@ xtglinks.com
 xth.me
 xtre.me
 xua.me
-xub.me
 xuc88.club
 xueqiu.com
 xueshu.baidu.com
@@ -24405,7 +24385,6 @@ xunlei.com
 xuo.us
 xurl.app
 xurl.at
-xurl.jp
 xurl.pk
 xurl302.top
 xurls.net
@@ -24543,12 +24522,10 @@ yourateus.net
 yourcs.us
 youris.bio
 youris.pro
-yourl.ir
 yourl.jp
 yourl.pro
 yourls.ch
 yourls.i2m.solutions
-yourls.info
 yourls.irex.aretex.ca
 yourls.lu
 yourls.newstargeted.com
@@ -24684,7 +24661,6 @@ zero.wikipedia.com
 zerohedge.com
 zeroshort.xyz
 zetir.com
-zeurl.net
 zeus4d.mom
 zeustracker.abuse.ch
 zeusurl.com
