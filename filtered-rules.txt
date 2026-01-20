@@ -1049,6 +1049,7 @@ ads.talkbusiness.net
 ads.twitter.com
 adscendmedia.com
 adsclick.me
+adservice.google.at
 adservice.google.ca
 adservice.google.ch
 adservice.google.co.id
@@ -12209,6 +12210,7 @@ m-k.ca
 m-nxt.custobar.com
 m-rx.bz
 m-s6iau.custobar.com
+m-sgd5h.custobar.com
 m-so.custobar.com
 m-tfe.custobar.com
 m-tmsif.custobar.com
@@ -18497,6 +18499,7 @@ socxo.io
 sofascore.com
 sofe.ebay.com
 sofire.baidu.com
+sofology-cdn.exponea.com
 soft98.ir
 softonic.com
 software-download.microsoft.com

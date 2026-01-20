@@ -621,6 +621,7 @@
 @@||ads.so^
 @@||adscendmedia.com^
 @@||adsclick.me^
+@@||adservice.google.at^
 @@||adservice.google.ca^
 @@||adservice.google.ch^
 @@||adservice.google.co.id^
@@ -6057,6 +6058,7 @@
 @@||m-nxt.custobar.com^
 @@||m-rx.bz^
 @@||m-s6iau.custobar.com^
+@@||m-sgd5h.custobar.com^
 @@||m-so.custobar.com^
 @@||m-tfe.custobar.com^
 @@||m-tmsif.custobar.com^
@@ -9653,6 +9655,7 @@
 @@||socilinkr.com^
 @@||socx.in^
 @@||socxo.io^
+@@||sofology-cdn.exponea.com^
 @@||softyfy.com^
 @@||sokrati.ru^
 @@||solink.in^
