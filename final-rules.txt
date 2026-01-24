@@ -327,13 +327,11 @@
 @@||2tf.net^
 @@||2tiny.in^
 @@||2tu.us^
-@@||2ty.in^
 @@||2u.gg^
 @@||2u.lc^
 @@||2u.xf.cz^
 @@||2vu.me^
 @@||2w3.ir^
-@@||2wo.ir^
 @@||2wsb.tv^
 @@||2x0.net^
 @@||2x1.io^
@@ -393,7 +391,6 @@
 @@||3c5.com^
 @@||3cinteractive.com^
 @@||3d-creator.sonymobile.com^
-@@||3d-ul.ir^
 @@||3d1200.xyz^
 @@||3dns-2.adobe.com^
 @@||3dns-3.adobe.com^
@@ -558,7 +555,6 @@
 @@||8-aclk.net^
 @@||8.ly^
 @@||8591.tw^
-@@||888b.pw^
 @@||888df.com^
 @@||88nb.cc^
 @@||88win.link^
@@ -1172,7 +1168,6 @@
 @@||aftonbladet.se^
 @@||aftv.news^
 @@||aftvnews.com^
-@@||agbr.ir^
 @@||agentassistcrm.org^
 @@||agilean.in^
 @@||agileurbia.com^
@@ -2722,7 +2717,6 @@
 @@||as.com^
 @@||as.flipboard.com^
 @@||as.mgtv.com^
-@@||as1ansl0t88.site^
 @@||asahi.com^
 @@||asap.to^
 @@||asc.cool^
@@ -3259,7 +3253,6 @@
 @@||bestfwdservice.com^
 @@||bestmovies.com^
 @@||bestshortlink.com^
-@@||bet200.win^
 @@||bet365.com^
 @@||beta-www.funimation.com^
 @@||beta.api.getpocket.com^
@@ -3390,7 +3383,6 @@
 @@||bio.ovh^
 @@||bio.recards.net^
 @@||bio.rocketapps.pro^
-@@||bio.rub3n.io^
 @@||bio.zoluu.co^
 @@||bio2b.com.br^
 @@||bio66.site^
@@ -3469,7 +3461,6 @@
 @@||bitli.li^
 @@||bitlink.one^
 @@||bitlnx.com^
-@@||bitly.best^
 @@||bitly.com^
 @@||bitly.cx^
 @@||bitly.im^
@@ -3753,7 +3744,6 @@
 @@||boskale.me^
 @@||boss.static.xiaomi.net^
 @@||bossaudioandcomic-1252317822.image.myqcloud.com^
-@@||bosslinks.ai^
 @@||boston-services.gabriels.net^
 @@||boston.cbslocal.com^
 @@||boston.com^
@@ -3861,7 +3851,6 @@
 @@||brst.link^
 @@||brtv.vip^
 @@||brx.im^
-@@||brzu.net^
 @@||bs.gravatar.com^
 @@||bs303.com^
 @@||bschlack.link^
@@ -5143,7 +5132,6 @@
 @@||co.in^
 @@||co2saver.snap.com^
 @@||coachingtree.com^
-@@||coachstudio.org^
 @@||coasttocoastam.com^
 @@||coba.la^
 @@||cockroa.ch^
@@ -5940,7 +5928,6 @@
 @@||de.wikipedia.com^
 @@||de2wa.com^
 @@||dealabs.digidip.net^
-@@||dealc.me^
 @@||deals.breitbart.com^
 @@||dealsfindersgroup.com^
 @@||dearin.gs^
@@ -6096,7 +6083,6 @@
 @@||dfy.is^
 @@||dg.k.jd.com^
 @@||dgit.com^
-@@||dgkad.com^
 @@||dgl-cdn.exponea.com^
 @@||dglnk.me^
 @@||dgms.es^
@@ -6326,7 +6312,6 @@
 @@||docthem.link^
 @@||doctor.ndtv.com^
 @@||doctorpk.mywibes.com^
-@@||docusignredirectsharepoint.life^
 @@||dog.bin^
 @@||dogelexus.win^
 @@||dogelexusin.store^
@@ -6515,7 +6500,6 @@
 @@||dt51.net^
 @@||dtdg.co^
 @@||dti.io^
-@@||dtl.la^
 @@||dts.podtrac.com^
 @@||dtsx.io^
 @@||du.163.com^
@@ -7217,7 +7201,6 @@
 @@||eztv.io^
 @@||eztv.it^
 @@||eztv.re^
-@@||ezurl.cc^
 @@||ezurl.co^
 @@||ezwashing.com^
 @@||ezylnk.com^
@@ -7430,7 +7413,6 @@
 @@||fi.m.wikipedia.com^
 @@||fi.statcounter.com^
 @@||fi.wikipedia.com^
-@@||fi9.ir^
 @@||fiatconnect.app^
 @@||fibr.ai^
 @@||ficken.ws^
@@ -7593,7 +7575,6 @@
 @@||flx.to^
 @@||fly.yt^
 @@||fly2.ws^
-@@||fly4win.com^
 @@||flys.pw^
 @@||flyurls.com^
 @@||fm.tuba.pl^
@@ -9262,7 +9243,6 @@
 @@||hoeg.it^
 @@||hoholah.xyz^
 @@||hoken.rakuten.co.jp^
-@@||hoki108.shop^
 @@||hoki1dana.site^
 @@||hoki22crot.com^
 @@||hokidana.vip^
@@ -10328,7 +10308,6 @@
 @@||ivg.bz^
 @@||ivtshort.com^
 @@||iwifi.360.cn^
-@@||iwo.ir^
 @@||iwork.apple.com^
 @@||iwr.link^
 @@||iwwlink.org^
@@ -10903,7 +10882,6 @@
 @@||kuc.cz^
 @@||kuhlinks.de^
 @@||kuic.io^
-@@||kuik.li^
 @@||kuiklink.com^
 @@||kuiniuca.com^
 @@||kuku.lu^
@@ -11004,7 +10982,6 @@
 @@||l2l.it^
 @@||l2l.li^
 @@||l2l.one.cutestat.com^
-@@||l2o.ir^
 @@||l338.co^
 @@||l36-danmu.hi.163.com^
 @@||l36.gdl.netease.com^
@@ -16442,7 +16419,6 @@
 @@||reimageplus.com^
 @@||reinachan.com^
 @@||reini.link^
-@@||reive.site^
 @@||rejoicing.com^
 @@||rejoindre.app^
 @@||rekale.me^
@@ -16698,6 +16674,7 @@
 @@||rpurls.com^
 @@||rpxl.me^
 @@||rq.fyi^
+@@||rqcfa8hbb.cc.rs6.net^
 @@||rr.be^
 @@||rroll.to^
 @@||rrorsuhab.cc.rs6.net^
@@ -16915,7 +16892,6 @@
 @@||s0.meituan.net^
 @@||s0.net^
 @@||s0.pstatp.com^
-@@||s0.world^
 @@||s0.wp.com^
 @@||s01.mifile.cn^
 @@||s01.riotpixels.net^
@@ -21013,6 +20989,7 @@
 @@||umd.edu^
 @@||umdc.aliapp.org^
 @@||umdc.alipay.org^
+@@||ume.la^
 @@||umeeting.huawei.com^
 @@||umelink.net^
 @@||umeng.com^
@@ -21644,7 +21621,6 @@
 @@||usheethe.com^
 @@||usher.ttvnw.net^
 @@||usher.twitch.tv^
-@@||ushort.me^
 @@||ushort.my^
 @@||ushort.xyz^
 @@||ushuru.vzaar.com^
@@ -21652,7 +21628,6 @@
 @@||usite.jp^
 @@||usnews.com^
 @@||usps-v2.com^
-@@||uspsexpress.org^
 @@||usreviewers.com^
 @@||usrlnx.com^
 @@||ustream.tv^
@@ -24658,7 +24633,6 @@
 @@||zebra.li^
 @@||zecz.ec^
 @@||zee.cws.conviva.com^
-@@||zeek.ir^
 @@||zeep.ly^
 @@||zeit.co^
 @@||zeleaks.site^

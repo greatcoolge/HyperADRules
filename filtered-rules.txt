@@ -321,13 +321,11 @@
 2tf.net
 2tiny.in
 2tu.us
-2ty.in
 2u.gg
 2u.lc
 2u.xf.cz
 2vu.me
 2w3.ir
-2wo.ir
 2wsb.tv
 2x0.net
 2x1.io
@@ -387,7 +385,6 @@
 3c5.com
 3cinteractive.com
 3d-creator.sonymobile.com
-3d-ul.ir
 3d1200.xyz
 3dns-2.adobe.com
 3dns-3.adobe.com
@@ -552,7 +549,6 @@
 8-aclk.net
 8.ly
 8591.tw
-888b.pw
 888df.com
 88nb.cc
 88win.link
@@ -1166,7 +1162,6 @@ africa.pool.ntp.org
 aftonbladet.se
 aftv.news
 aftvnews.com
-agbr.ir
 agentassistcrm.org
 agilean.in
 agileurbia.com
@@ -2716,7 +2711,6 @@ arv.us
 as.com
 as.flipboard.com
 as.mgtv.com
-as1ansl0t88.site
 asahi.com
 asap.to
 asc.cool
@@ -3253,7 +3247,6 @@ bestbuy.com
 bestfwdservice.com
 bestmovies.com
 bestshortlink.com
-bet200.win
 bet365.com
 beta-www.funimation.com
 beta.api.getpocket.com
@@ -3384,7 +3377,6 @@ bio.mytsi.org
 bio.ovh
 bio.recards.net
 bio.rocketapps.pro
-bio.rub3n.io
 bio.zoluu.co
 bio2b.com.br
 bio66.site
@@ -3463,7 +3455,6 @@ bitley.in
 bitli.li
 bitlink.one
 bitlnx.com
-bitly.best
 bitly.com
 bitly.cx
 bitly.im
@@ -3747,7 +3738,6 @@ bosi.me
 boskale.me
 boss.static.xiaomi.net
 bossaudioandcomic-1252317822.image.myqcloud.com
-bosslinks.ai
 boston-services.gabriels.net
 boston.cbslocal.com
 boston.com
@@ -3855,7 +3845,6 @@ brq.link
 brst.link
 brtv.vip
 brx.im
-brzu.net
 bs.gravatar.com
 bs303.com
 bschlack.link
@@ -5137,7 +5126,6 @@ cnzz.com
 co.in
 co2saver.snap.com
 coachingtree.com
-coachstudio.org
 coasttocoastam.com
 coba.la
 cockroa.ch
@@ -5934,7 +5922,6 @@ de.statcounter.com
 de.wikipedia.com
 de2wa.com
 dealabs.digidip.net
-dealc.me
 deals.breitbart.com
 dealsfindersgroup.com
 dearin.gs
@@ -6090,7 +6077,6 @@ dftp.flowplayer.com
 dfy.is
 dg.k.jd.com
 dgit.com
-dgkad.com
 dgl-cdn.exponea.com
 dglnk.me
 dgms.es
@@ -6320,7 +6306,6 @@ docs.vuukle.com
 docthem.link
 doctor.ndtv.com
 doctorpk.mywibes.com
-docusignredirectsharepoint.life
 dog.bin
 dogelexus.win
 dogelexusin.store
@@ -6509,7 +6494,6 @@ dsyixm.com
 dt51.net
 dtdg.co
 dti.io
-dtl.la
 dts.podtrac.com
 dtsx.io
 du.163.com
@@ -7211,7 +7195,6 @@ eztv.ch
 eztv.io
 eztv.it
 eztv.re
-ezurl.cc
 ezurl.co
 ezwashing.com
 ezylnk.com
@@ -7424,7 +7407,6 @@ fi.gravatar.com
 fi.m.wikipedia.com
 fi.statcounter.com
 fi.wikipedia.com
-fi9.ir
 fiatconnect.app
 fibr.ai
 ficken.ws
@@ -7587,7 +7569,6 @@ fluub.de
 flx.to
 fly.yt
 fly2.ws
-fly4win.com
 flys.pw
 flyurls.com
 fm.tuba.pl
@@ -9256,7 +9237,6 @@ hodroffs.com
 hoeg.it
 hoholah.xyz
 hoken.rakuten.co.jp
-hoki108.shop
 hoki1dana.site
 hoki22crot.com
 hokidana.vip
@@ -10322,7 +10302,6 @@ iv-h.phncdn.com
 ivg.bz
 ivtshort.com
 iwifi.360.cn
-iwo.ir
 iwork.apple.com
 iwr.link
 iwwlink.org
@@ -10897,7 +10876,6 @@ kubernetes.io
 kuc.cz
 kuhlinks.de
 kuic.io
-kuik.li
 kuiklink.com
 kuiniuca.com
 kuku.lu
@@ -10998,7 +10976,6 @@ l2g.hu
 l2l.it
 l2l.li
 l2l.one.cutestat.com
-l2o.ir
 l338.co
 l36-danmu.hi.163.com
 l36.gdl.netease.com
@@ -16436,7 +16413,6 @@ rei.com
 reimageplus.com
 reinachan.com
 reini.link
-reive.site
 rejoicing.com
 rejoindre.app
 rekale.me
@@ -16692,6 +16668,7 @@ rptrcks.walmart.com
 rpurls.com
 rpxl.me
 rq.fyi
+rqcfa8hbb.cc.rs6.net
 rr.be
 rroll.to
 rrorsuhab.cc.rs6.net
@@ -16909,7 +16886,6 @@ s0.ipstatp.com
 s0.meituan.net
 s0.net
 s0.pstatp.com
-s0.world
 s0.wp.com
 s01.mifile.cn
 s01.riotpixels.net
@@ -21007,6 +20983,7 @@ umblr.com
 umd.edu
 umdc.aliapp.org
 umdc.alipay.org
+ume.la
 umeeting.huawei.com
 umelink.net
 umeng.com
@@ -21638,7 +21615,6 @@ ushareit.com
 usheethe.com
 usher.ttvnw.net
 usher.twitch.tv
-ushort.me
 ushort.my
 ushort.xyz
 ushuru.vzaar.com
@@ -21646,7 +21622,6 @@ usis.bracu.ac.bd
 usite.jp
 usnews.com
 usps-v2.com
-uspsexpress.org
 usreviewers.com
 usrlnx.com
 ustream.tv
@@ -24652,7 +24627,6 @@ zdstatic.ign.com
 zebra.li
 zecz.ec
 zee.cws.conviva.com
-zeek.ir
 zeep.ly
 zeit.co
 zeleaks.site
