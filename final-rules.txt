@@ -3553,6 +3553,7 @@
 @@||bleepingcomputer.com^
 @@||blink.hirebiz.com^
 @@||blinkbreeze.com^
+@@||blinkmelink.com^
 @@||blinko.me^
 @@||blinkurl.in^
 @@||blinky.me^
@@ -3858,6 +3859,7 @@
 @@||brst.link^
 @@||brtv.vip^
 @@||brx.im^
+@@||brzu.net^
 @@||bs.gravatar.com^
 @@||bs303.com^
 @@||bschlack.link^
@@ -5139,6 +5141,7 @@
 @@||co.in^
 @@||co2saver.snap.com^
 @@||coachingtree.com^
+@@||coachstudio.org^
 @@||coasttocoastam.com^
 @@||coba.la^
 @@||cockroa.ch^
@@ -5603,6 +5606,7 @@
 @@||cuer.io^
 @@||cuk.one^
 @@||cukbaray.com^
+@@||cul.ke^
 @@||cultm.ac^
 @@||culy.top^
 @@||cuoinamdiedm.life^
@@ -6507,6 +6511,7 @@
 @@||dt51.net^
 @@||dtdg.co^
 @@||dti.io^
+@@||dtl.la^
 @@||dts.podtrac.com^
 @@||dtsx.io^
 @@||du.163.com^
@@ -7217,6 +7222,7 @@
 @@||f*.market.xiaomi.com^
 @@||f-ast.me^
 @@||f-droid.org^
+@@||f-internal.info^
 @@||f-n.link^
 @@||f-secure.com^
 @@||f.bmcx.com^
@@ -11368,6 +11374,7 @@
 @@||link.mobupps.com^
 @@||link.mtvrs.it^
 @@||link.nayemador.com^
+@@||link.nn.ru^
 @@||link.oarc.uk^
 @@||link.p0.com^
 @@||link.paior.com^
@@ -17451,6 +17458,7 @@
 @@||servedby.o2.co.uk^
 @@||servepics.com^
 @@||server-54-230-93-120.fra2.r.cloudfront.net^
+@@||server.exacttarget.com^
 @@||serveracts.net^
 @@||serverfault.com^
 @@||serverluar.com^
@@ -18383,6 +18391,7 @@
 @@||smtp.mail.yahoo.com^
 @@||smtp.ospserver.net^
 @@||smtp.vimeo.com^
+@@||smtp1.exacttarget.com^
 @@||smtp21t.mail.mylife.com^
 @@||smtvj.com^
 @@||smu.gs^

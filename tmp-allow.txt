@@ -1578,6 +1578,7 @@
 @@||bleenk.co^
 @@||blink.hirebiz.com^
 @@||blinkbreeze.com^
+@@||blinkmelink.com^
 @@||blinko.me^
 @@||blinkurl.in^
 @@||blip.tv^
@@ -1719,6 +1720,7 @@
 @@||brst.link^
 @@||brtv.vip^
 @@||brx.im^
+@@||brzu.net^
 @@||bs303.com^
 @@||bschlack.link^
 @@||bsg.news^
@@ -2329,6 +2331,7 @@
 @@||cnnmon.ie^
 @@||cnvrge.co^
 @@||coachingtree.com^
+@@||coachstudio.org^
 @@||coba.la^
 @@||cockroa.ch^
 @@||cocn.in^
@@ -2511,6 +2514,7 @@
 @@||cuer.io^
 @@||cuk.one^
 @@||cukbaray.com^
+@@||cul.ke^
 @@||cultm.ac^
 @@||culy.top^
 @@||cuoinamdiedm.life^
@@ -2948,6 +2952,7 @@
 @@||dt51.net^
 @@||dtdg.co^
 @@||dti.io^
+@@||dtl.la^
 @@||dtsx.io^
 @@||duakale.me^
 @@||dub.co^
@@ -3279,6 +3284,7 @@
 @@||f*.market.mi-img.com^
 @@||f*.market.xiaomi.com^
 @@||f-ast.me^
+@@||f-internal.info^
 @@||f-n.link^
 @@||f.bmcx.com^
 @@||f.video.weibocdn.com^
@@ -5405,6 +5411,7 @@
 @@||link.miu2.fr^
 @@||link.mobupps.com^
 @@||link.mtvrs.it^
+@@||link.nn.ru^
 @@||link.oarc.uk^
 @@||link.paior.com^
 @@||link.payple.kr^
@@ -8840,6 +8847,7 @@
 @@||servedby-us.flashtalking.com^
 @@||servedby.flashtalking.com^
 @@||servedby.o2.co.uk^
+@@||server.exacttarget.com^
 @@||serveracts.net^
 @@||serverluar.com^
 @@||serverluar.net^
@@ -9569,6 +9577,7 @@
 @@||smsng.news^
 @@||smsng.us^
 @@||smst.ca^
+@@||smtp1.exacttarget.com^
 @@||smtvj.com^
 @@||smu.gs^
 @@||smurl.fr^
