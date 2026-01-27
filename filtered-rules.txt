@@ -1079,6 +1079,7 @@ adservice.google.com.tr
 adservice.google.com.tw
 adservice.google.com.ua
 adservice.google.com.vn
+adservice.google.cz
 adservice.google.de
 adservice.google.dk
 adservice.google.es
@@ -2529,6 +2530,7 @@ app.mi.com
 app.migc.xiaomi.com
 app.miui.com
 app.moviequik.com
+app.myotherapy.edu
 app.myvcrd.com
 app.next.exchange
 app.onesignal.com
@@ -8372,6 +8374,7 @@ go.kotelov.com
 go.kout.ro
 go.lamotte.fr
 go.leanplum.com
+go.liara.ir
 go.library.cikeys.com
 go.link
 go.linkwi.se
@@ -10765,6 +10768,7 @@ kk.rs
 kkday.me
 kkne.ws
 kko.to
+kkon.ir
 kkstre.am
 kku.digital
 kku.world
@@ -10903,6 +10907,7 @@ kurly.it
 kurv.gr
 kurz.jetzt
 kurzelinks.de
+kut.rs
 kuta.ir
 kutlink.com
 kutt.acorninsure.co.uk
@@ -11430,6 +11435,7 @@ link4earn.com
 link4u.uk
 link888.me
 linka.li
+linkabc.net
 linkable.id
 linkable.to
 linkaff.com
@@ -11668,6 +11674,7 @@ linksfire.net
 linksflow.bio
 linksfly.net
 linkshaft.com
+linkshare.pro
 linksharing.app
 linkshort.co
 linkshort.eu
@@ -15462,6 +15469,7 @@ pool.v6.bt.n0808.com
 pools1.cryptopia.co.nz
 pools2.cryptopia.co.nz
 pop.system76.com
+popfeed.co
 popm.ch
 poprl.com
 pops.bio
@@ -15723,6 +15731,7 @@ prt.nu
 prtimes.jp
 prunepath.com
 prvt.mobi
+prz.pw
 ps.software.eu.playstation.com
 ps2media.ign.com
 ps3media.ign.com
