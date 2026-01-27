@@ -3691,6 +3691,7 @@
 @@||getshorter.com^
 @@||getsmallurl.com^
 @@||getsterlink.com^
+@@||getthot.com^
 @@||gettolink.net^
 @@||gettr.im^
 @@||geturls.net^
@@ -3718,6 +3719,7 @@
 @@||gibi.link^
 @@||gigalink.me^
 @@||gigaz.in^
+@@||gigbridge.app^
 @@||gil.re^
 @@||giosous.com^
 @@||gips2.baidu.com^
@@ -3767,6 +3769,7 @@
 @@||glol.in^
 @@||glolin.com^
 @@||gloshukadamiava2.live^
+@@||glowin88.site^
 @@||glss.co^
 @@||gm.163.com^
 @@||gma.abc^
@@ -8847,7 +8850,6 @@
 @@||servedby-us.flashtalking.com^
 @@||servedby.flashtalking.com^
 @@||servedby.o2.co.uk^
-@@||server.exacttarget.com^
 @@||serveracts.net^
 @@||serverluar.com^
 @@||serverluar.net^
@@ -9577,7 +9579,6 @@
 @@||smsng.news^
 @@||smsng.us^
 @@||smst.ca^
-@@||smtp1.exacttarget.com^
 @@||smtvj.com^
 @@||smu.gs^
 @@||smurl.fr^

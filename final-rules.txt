@@ -8142,6 +8142,7 @@
 @@||getshorter.com^
 @@||getsmallurl.com^
 @@||getsterlink.com^
+@@||getthot.com^
 @@||gettolink.net^
 @@||gettr.im^
 @@||geturls.net^
@@ -8187,6 +8188,7 @@
 @@||gigaom.com^
 @@||gigapurbalingga.net^
 @@||gigaz.in^
+@@||gigbridge.app^
 @@||gigya.com^
 @@||gil.re^
 @@||ginjfo.com^
@@ -8279,6 +8281,7 @@
 @@||glol.in^
 @@||glolin.com^
 @@||gloshukadamiava2.live^
+@@||glowin88.site^
 @@||gloyah.net^
 @@||glss.co^
 @@||glyph.medium.com^
@@ -17458,7 +17461,6 @@
 @@||servedby.o2.co.uk^
 @@||servepics.com^
 @@||server-54-230-93-120.fra2.r.cloudfront.net^
-@@||server.exacttarget.com^
 @@||serveracts.net^
 @@||serverfault.com^
 @@||serverluar.com^
@@ -18391,7 +18393,6 @@
 @@||smtp.mail.yahoo.com^
 @@||smtp.ospserver.net^
 @@||smtp.vimeo.com^
-@@||smtp1.exacttarget.com^
 @@||smtp21t.mail.mylife.com^
 @@||smtvj.com^
 @@||smu.gs^
