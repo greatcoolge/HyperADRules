@@ -10273,6 +10273,7 @@
 @@||tapthelink.click^
 @@||tapto.bio^
 @@||tapurl.net^
+@@||tapz.in^
 @@||target.clickfunnels.com^
 @@||target.georiot.com^
 @@||target.microsoft.com^
@@ -10458,6 +10459,7 @@
 @@||tiger77.monster^
 @@||tigerlink.me^
 @@||tighturl.com^
+@@||tiis.cc^
 @@||tik.la^
 @@||tik.lat^
 @@||tik.lol^
@@ -10493,6 +10495,7 @@
 @@||tiny-url.me^
 @@||tiny.ae^
 @@||tiny.cc^
+@@||tiny.do^
 @@||tiny.ee^
 @@||tiny.lt^
 @@||tiny.ms^
@@ -10859,6 +10862,7 @@
 @@||trenddynamo.com^
 @@||tres.at^
 @@||treszki.com^
+@@||trezurl.ir^
 @@||tri.ps^
 @@||trib.al^
 @@||trib.in^
@@ -11164,6 +11168,7 @@
 @@||underswo.de^
 @@||undrarmr.co^
 @@||unelma.io^
+@@||unesa.xyz^
 @@||uni.cf^
 @@||uni.ms^
 @@||unicycle.to^
@@ -11200,6 +11205,7 @@
 @@||uorbursarysupport.com^
 @@||uos.cc^
 @@||up.to^
+@@||update-info-saudi-a.live^
 @@||updateinfo.market.xiaomi.com^
 @@||updates-http.cdn-apple.com^
 @@||updates.cdn-apple.com^
@@ -11260,6 +11266,7 @@
 @@||url-shortener-two-ashen.vercel.app^
 @@||url-shortener.freebusinessapps.net^
 @@||url-shortener.in^
+@@||url-shortener.info^
 @@||url-shortener.yc.fstrk.io^
 @@||url-shortening-api-challenge-intermediate.vercel.app^
 @@||url-shortening.com^
@@ -11797,6 +11804,7 @@
 @@||vk.cc^
 @@||vk.sv^
 @@||vkei.eu^
+@@||vkik.com^
 @@||vklinks.com^
 @@||vl.am^
 @@||vla.lu^
@@ -12057,6 +12065,7 @@
 @@||witly.online^
 @@||wiwir.cc^
 @@||wizardsinvest.ru^
+@@||wjcf.co^
 @@||wk.idey.cn^
 @@||wkf.ms^
 @@||wkms-public.apple.com^
@@ -12503,6 +12512,7 @@
 @@||yourcs.us^
 @@||youris.bio^
 @@||youris.pro^
+@@||yourl.ir^
 @@||yourl.jp^
 @@||yourl.pro^
 @@||yourls.ch^
@@ -12587,6 +12597,7 @@
 @@||zephb.com^
 @@||zeroshort.xyz^
 @@||zetir.com^
+@@||zeurl.net^
 @@||zeus4d.mom^
 @@||zeusurl.com^
 @@||zeusurl.net^
@@ -12650,6 +12661,7 @@
 @@||znt.bz^
 @@||znv.cc^
 @@||znym.co^
+@@||znz.kr^
 @@||zo.cm^
 @@||zobzob.com^
 @@||zodgame.xyz^
@@ -12686,6 +12698,7 @@
 @@||zuitte.io^
 @@||zuki.ie^
 @@||zulu.bio^
+@@||zum.bi^
 @@||zuplo.link^
 @@||zurb.us^
 @@||zurins.uk^

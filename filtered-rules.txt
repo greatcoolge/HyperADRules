@@ -19751,6 +19751,7 @@ tapthelink.cfd
 tapthelink.click
 tapto.bio
 tapurl.net
+tapz.in
 target.clickfunnels.com
 target.com
 target.com.au
@@ -20057,6 +20058,7 @@ tiger77.monster
 tigerlink.me
 tigger-citadel.touchtype-fluency.com
 tighturl.com
+tiis.cc
 tik.la
 tik.lat
 tik.lol
@@ -20103,6 +20105,7 @@ tiny-links.net
 tiny-url.me
 tiny.ae
 tiny.cc
+tiny.do
 tiny.ee
 tiny.lt
 tiny.ms
@@ -20604,6 +20607,7 @@ trenddynamo.com
 tres.at
 treszki.com
 trezor.io
+trezurl.ir
 tri.ps
 trial.alcohol-soft.com
 trial.api.huangye.miui.com
@@ -21045,6 +21049,7 @@ underswo.de
 undrarmr.co
 undraw.co
 unelma.io
+unesa.xyz
 unesco.org
 uni.cf
 uni.ms
@@ -21102,6 +21107,7 @@ up.raindrop.io
 up.to
 upchk.api.playstation.com
 upd.faronicslabs.com
+update-info-saudi-a.live
 update-nl.huawei.com
 update.appwork.org
 update.avlyun.sec.miui.com
@@ -21217,6 +21223,7 @@ url-shortener-theta-silk.vercel.app
 url-shortener-two-ashen.vercel.app
 url-shortener.freebusinessapps.net
 url-shortener.in
+url-shortener.info
 url-shortener.yc.fstrk.io
 url-shortening-api-challenge-intermediate.vercel.app
 url-shortening.com
@@ -22002,6 +22009,7 @@ vk.cc
 vk.com
 vk.sv
 vkei.eu
+vkik.com
 vklinks.com
 vkontakte.ru
 vl.am
@@ -22552,6 +22560,7 @@ wix.com
 wixapps.net
 wixsite.com
 wizardsinvest.ru
+wjcf.co
 wk.idey.cn
 wkf.ms
 wkms-public.apple.com
@@ -24544,6 +24553,7 @@ yourateus.net
 yourcs.us
 youris.bio
 youris.pro
+yourl.ir
 yourl.jp
 yourl.pro
 yourls.ch
@@ -24682,6 +24692,7 @@ zero.wikipedia.com
 zerohedge.com
 zeroshort.xyz
 zetir.com
+zeurl.net
 zeus4d.mom
 zeustracker.abuse.ch
 zeusurl.com
@@ -24764,6 +24775,7 @@ znly.in
 znt.bz
 znv.cc
 znym.co
+znz.kr
 zo.cm
 zobj.net
 zobzob.com
@@ -24809,6 +24821,7 @@ zuitte.com
 zuitte.io
 zuki.ie
 zulu.bio
+zum.bi
 zuplo.link
 zurb.us
 zurins.uk
