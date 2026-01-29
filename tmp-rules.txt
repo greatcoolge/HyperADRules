@@ -6267,6 +6267,7 @@
 @@||log.byteoversea.com^
 @@||log.entrance.sonymobile.com^
 @@||log.mmstat.com^
+@@||log.snssdk.com^
 @@||logback.qos.ch^
 @@||logbuch-netzpolitik.de^
 @@||logging.googleapis.com ^
