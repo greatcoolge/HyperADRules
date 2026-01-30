@@ -7691,6 +7691,7 @@
 @@||forums.xda-developers.com^
 @@||forums.ytmnd.com^
 @@||fossbytes.com^
+@@||fossibot.pro^
 @@||fota-cloud-dn.ospserver.net^
 @@||fota-dn.ospserver.net^
 @@||fota-ll-dn.ospserver.net^
