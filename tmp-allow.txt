@@ -52,7 +52,6 @@
 @@||123.ge^
 @@||123l.pro^
 @@||123link.co^
-@@||123lnk.xyz^
 @@||126.am^
 @@||128.pl^
 @@||12ne.ws^
@@ -9930,6 +9929,7 @@
 @@||suite-dashboard.gservice.emarsys.net^
 @@||suite.emarsys.net^
 @@||suite1.emarsys.net^
+@@||suite10-cf.emarsys.net^
 @@||suite10.emarsys.net^
 @@||suite11.emarsys.net^
 @@||suite12.emarsys.net^
