@@ -543,7 +543,6 @@
 @@||7li.in^
 @@||7link.info^
 @@||7link.pro^
-@@||7link.pt^
 @@||7links.co^
 @@||7mb.io^
 @@||7mbl.co^
