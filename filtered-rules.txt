@@ -5306,7 +5306,6 @@ contacts.google.com
 contactus.netflix.com
 contactus.samsung.com
 container.googleapis.com 
-contasuolfatura.com
 content-loader.com
 content-storage-upload.googleapis.com
 content.chia-anime.tv
@@ -5657,7 +5656,6 @@ cutt.lol
 cutt.ly
 cutt.pk
 cutt.us
-cutt4.me
 cuttgoo.com
 cutth.com
 cuttly.io
@@ -5711,7 +5709,6 @@ cydia.saurik.com.cdngc.net
 cygwin.com
 cyrmp.com
 cyte.in
-cyver.se
 cz.playstation.com
 cz.wikipedia.com
 d-edgeconnect.media
@@ -5837,7 +5834,6 @@ data.worldbank.org
 databrains.net
 datafilehost.com
 datalab.naver.com
-datalisa.id
 datalotrk.com
 datamixer-pa.googleapis.com
 dataplicity.com
@@ -7550,7 +7546,6 @@ florantevaldez.com
 flow.page
 flowcaster.link
 flowcode.com
-flowhits.com
 flowplayer.com
 flowus.cn
 flp.ai
@@ -7904,7 +7899,6 @@ g9.yt
 ga.co
 ga.gravatar.com
 gaa.st
-gacha.christmas
 gacoer.win
 gacor.app
 gacor123.red
@@ -8098,7 +8092,6 @@ get.vuukle.com
 get.xda-developers.com
 get3.adobe.com
 getabre.com
-getadsnow.org
 getalinkandshare.com
 getashorturl.com
 getbiolink.me
@@ -8179,7 +8172,6 @@ giosous.com
 giphy.com
 gips2.baidu.com
 gir.gg
-gir.my
 giraffeweb.link
 giris724.link
 girlte.ch
@@ -8729,7 +8721,6 @@ googlevideo.com
 googleweblight.com
 goolink.cc
 goolnk.com
-gooo.onl
 goorm.io
 goose.re
 gopjn.com
@@ -8743,7 +8734,6 @@ gorio.page
 goshopurl.com
 goshort.pro
 goshrink.com
-gosible6.click
 gosign.adobe.com
 gosite.org
 gosm.link
@@ -16689,6 +16679,7 @@ rpurls.com
 rpxl.me
 rq.fyi
 rqcfa8hbb.cc.rs6.net
+rqtqnaqab.cc.rs6.net
 rr.be
 rroll.to
 rrorsuhab.cc.rs6.net
@@ -19499,6 +19490,7 @@ t-short.top
 t-trg.email.adobe.com
 t.1und1.de
 t.2merkato.com
+t.360scm.com
 t.6sc.co
 t.adcell.com
 t.afi-b.com
@@ -21286,6 +21278,7 @@ url.webof.xyz
 url.xcode.no
 url.yousufraissi.xyz
 url.zaptian.com
+url.zeus27.com
 url11xx.com
 url127x.com
 url2.fr

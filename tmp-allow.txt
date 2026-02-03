@@ -2362,7 +2362,6 @@
 @@||construccionrl.com^
 @@||conta.cc^
 @@||contactmonkey.com^
-@@||contasuolfatura.com^
 @@||contentcenter-vali-drcn.dbankcdn.com^
 @@||conteudo.megasoft.com.br^
 @@||contextweb.com^
@@ -2560,7 +2559,6 @@
 @@||cutt.ly^
 @@||cutt.pk^
 @@||cutt.us^
-@@||cutt4.me^
 @@||cuttgoo.com^
 @@||cutth.com^
 @@||cuttly.io^
@@ -2594,7 +2592,6 @@
 @@||cybr.rocks^
 @@||cyrmp.com^
 @@||cyte.in^
-@@||cyver.se^
 @@||d-edgeconnect.media^
 @@||d-sh.io^
 @@||d.agkn.com^
@@ -2647,7 +2644,6 @@
 @@||data.vod.itc.cn^
 @@||data.worldbank.org^
 @@||databrains.net^
-@@||datalisa.id^
 @@||datalotrk.com^
 @@||dataurbia.com^
 @@||datayi.cn^
@@ -3429,7 +3425,6 @@
 @@||flow.page^
 @@||flowcaster.link^
 @@||flowcode.com^
-@@||flowhits.com^
 @@||flowus.cn^
 @@||flp.ai^
 @@||flpl.us^
@@ -3563,7 +3558,6 @@
 @@||g9.yt^
 @@||ga.co^
 @@||gaa.st^
-@@||gacha.christmas^
 @@||gacoer.win^
 @@||gacor.app^
 @@||gacor123.red^
@@ -3660,7 +3654,6 @@
 @@||get.lc^
 @@||get.timbbe.com^
 @@||getabre.com^
-@@||getadsnow.org^
 @@||getashorturl.com^
 @@||getbiolink.me^
 @@||getbitly.pro^
@@ -3713,7 +3706,6 @@
 @@||giosous.com^
 @@||gips2.baidu.com^
 @@||gir.gg^
-@@||gir.my^
 @@||giraffeweb.link^
 @@||giris724.link^
 @@||girlte.ch^
@@ -3957,7 +3949,6 @@
 @@||googleapis.com^
 @@||goolink.cc^
 @@||goolnk.com^
-@@||gooo.onl^
 @@||goose.re^
 @@||gopjn.com^
 @@||gopreply.com^
@@ -3969,7 +3960,6 @@
 @@||goshopurl.com^
 @@||goshort.pro^
 @@||goshrink.com^
-@@||gosible6.click^
 @@||gosite.org^
 @@||gosm.link^
 @@||gosmart.fit^
@@ -8468,6 +8458,7 @@
 @@||rpxl.me^
 @@||rq.fyi^
 @@||rqcfa8hbb.cc.rs6.net^
+@@||rqtqnaqab.cc.rs6.net^
 @@||rr.be^
 @@||rroll.to^
 @@||rrorsuhab.cc.rs6.net^
@@ -10073,6 +10064,7 @@
 @@||t-short.top^
 @@||t.1und1.de^
 @@||t.2merkato.com^
+@@||t.360scm.com^
 @@||t.6sc.co^
 @@||t.adcell.com^
 @@||t.afi-b.com^
@@ -11323,6 +11315,7 @@
 @@||url.xcode.no^
 @@||url.yousufraissi.xyz^
 @@||url.zaptian.com^
+@@||url.zeus27.com^
 @@||url11xx.com^
 @@||url127x.com^
 @@||url2.fr^
