@@ -3982,7 +3982,6 @@ byuroscope.com
 bz9.com
 bzfd.it
 bzh.me
-c-hud-aixxx.life
 c-o.in
 c.58cdn.com.cn
 c.amazon-adsystem.com
@@ -4727,7 +4726,6 @@ chtbl.com
 chts.tw
 chuchik.com
 chudaitrieuview.info
-chudaixxx.life
 chunkylinks.com
 chx.to
 chzb.gr
@@ -4813,7 +4811,6 @@ clic.ae
 clic.bio
 clica.ai
 clica.link
-clicae.net
 clicai.xyz
 click-genius.com
 click-goo.com
@@ -18059,7 +18056,6 @@ shrtlink.ai
 shrtlist.com
 shrtlnk.com
 shrtlr-two.vercel.app
-shrtly.co.in
 shrtly.net
 shrtm.nu
 shrtme.link
