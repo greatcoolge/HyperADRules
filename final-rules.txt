@@ -3380,7 +3380,6 @@
 @@||bio.altosky.com^
 @@||bio.bayoli.com^
 @@||bio.hypexstudio.com^
-@@||bio.kodekami.com^
 @@||bio.laormedia.com^
 @@||bio.link^
 @@||bio.meuhub.com^
@@ -9527,7 +9526,6 @@
 @@||iamsrikrung.com^
 @@||iandavid.net^
 @@||iapdw.com^
-@@||iarly.com^
 @@||iaurl.io^
 @@||ib.hulu.com^
 @@||ib.snssdk.com.edgekey.net^
@@ -9539,7 +9537,6 @@
 @@||ibelocal.com^
 @@||ibest.in^
 @@||ibf.tw^
-@@||ibio.app^
 @@||ibis.li^
 @@||ibit.ly^
 @@||ibitsy.com^
@@ -10240,7 +10237,6 @@
 @@||isterratrk.com^
 @@||istincy.com^
 @@||istockphoto.com^
-@@||istore.ar^
 @@||isurl.cc^
 @@||isurt.com^
 @@||isw.pub^
@@ -10389,7 +10385,6 @@
 @@||jellyfish.pandora.xiaomi.com^
 @@||jellylink.com^
 @@||jellyurl.com^
-@@||jempolhoki.bio^
 @@||jenkins.playstation.com^
 @@||jenkins.xda-developers.com^
 @@||jenniferronzo.com^
@@ -10472,7 +10467,6 @@
 @@||join.validatedsite.com^
 @@||join.vimeo.com^
 @@||join.worldoftanks.eu^
-@@||joiner.co^
 @@||joint.reg2t.sandai.net^
 @@||joinzee.com^
 @@||jomblo.org^
@@ -10808,7 +10802,6 @@
 @@||ko.gl^
 @@||ko.gravatar.com^
 @@||ko.wikipedia.com^
-@@||koabite.com^
 @@||koddi.com^
 @@||kohls.com^
 @@||koi800.cc^
@@ -10861,7 +10854,6 @@
 @@||krpcgvm.wiki^
 @@||krping.igamecj.com^
 @@||krpp.me^
-@@||krunchd.com^
 @@||kryvon.live^
 @@||kslnk.com^
 @@||ksn.kaspersky.com^
@@ -11010,7 +11002,6 @@
 @@||lads.myspacecdn.com^
 @@||ladyfootlocker.com^
 @@||laerd.com^
-@@||lailailah.com^
 @@||lam.bo^
 @@||lammariom.dev^
 @@||lan.line.me^
@@ -11269,7 +11260,6 @@
 @@||lilnk.to^
 @@||lilo.org^
 @@||lilurl.run^
-@@||lilurl.uk^
 @@||lilyfreeonlyfans.live^
 @@||limestart.cn^
 @@||limetorrents.info^
@@ -11303,7 +11293,6 @@
 @@||linelive.life^
 @@||lingkod.to^
 @@||link-cut.com^
-@@||link-do.pl^
 @@||link-ease.in^
 @@||link-fe.nz^
 @@||link-lyt-url-shortner.vercel.app^
@@ -11692,13 +11681,11 @@
 @@||linksparkle.com^
 @@||linkspasson.com^
 @@||linksplit.io^
-@@||linksqr.co^
 @@||linksqueeze.io^
 @@||linksredirect.com^
 @@||linksshift.com^
 @@||linksshortcut.com^
 @@||linksshortener.com^
-@@||linksshortner.com^
 @@||linkstack.co^
 @@||linkste.com^
 @@||linksto.bio^
@@ -11855,7 +11842,6 @@
 @@||livepassdl.conviva.com^
 @@||livephoto.us.sinaimg.cn^
 @@||livere.com^
-@@||livesport88.life^
 @@||livestre.am^
 @@||livestream.com^
 @@||livetile.hulu.com^
@@ -11878,7 +11864,6 @@
 @@||ll.fosscu.org^
 @@||ll.sa^
 @@||llclick.com^
-@@||llink.ai^
 @@||llink.ee^
 @@||llk.dk^
 @@||llll.im^
@@ -11924,7 +11909,6 @@
 @@||lnk.tu-bs.de^
 @@||lnk.vn^
 @@||lnk2.im^
-@@||lnk2.ink^
 @@||lnk2.ro^
 @@||lnkbits.com^
 @@||lnkd.in^
@@ -11955,7 +11939,6 @@
 @@||lnkzy.com^
 @@||lnnk.in^
 @@||lnq.is^
-@@||lnsrt.com^
 @@||lnst.eu^
 @@||lnv.gy^
 @@||lnwurl.com^
@@ -12147,7 +12130,6 @@
 @@||lur.to^
 @@||lur.us^
 @@||lurl.cc^
-@@||lurl.fr^
 @@||lurl.org^
 @@||lutendo.tech^
 @@||luto.lol^
@@ -12461,7 +12443,6 @@
 @@||m2g.me^
 @@||m42.pw^
 @@||m4rk.org^
-@@||m5.gs^
 @@||m5.lt^
 @@||m7.music.126.net^
 @@||m7.pzds.com^
@@ -13000,7 +12981,6 @@
 @@||mimecast.com^
 @@||mimobile.esim.mihome.xiaomi.net^
 @@||mimsee2020.com^
-@@||min-url.com^
 @@||min.bz^
 @@||minapp.com^
 @@||mine.nu^
@@ -13496,7 +13476,6 @@
 @@||mrfye.org^
 @@||mrjj.uk^
 @@||mrlink.in^
-@@||mrr.cm^
 @@||mrsaeed.com^
 @@||mrshelby.in^
 @@||mrte.ch^
@@ -13548,7 +13527,6 @@
 @@||mstr.cl^
 @@||mstry.app^
 @@||mstuff.net^
-@@||msuclassagents.com^
 @@||msw.digital^
 @@||msync-im1-vip6-std.easemob.com^
 @@||mt-k.madmetrics.com^
