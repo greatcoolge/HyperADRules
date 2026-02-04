@@ -13014,7 +13014,6 @@ miniurl.be
 miniurl.com
 miniurl.dayanandgawade.in
 miniurl.ir
-miniurl.org.in
 miniurl.top
 minixperiment.twitch.tv
 minl.in
@@ -13666,7 +13665,6 @@ myhome.naver.com
 myikoniq.info
 myip.kr
 myjq.info
-mykiemtienutet.life
 mylife.com
 mylink.ai.in
 mylink.ar
@@ -13732,7 +13730,6 @@ mytrib.com
 myumi.ch
 myunidays.com
 myup.work
-myurl.id
 myurl.in
 myurl.ly
 myurl.ng
@@ -13798,7 +13795,6 @@ namebright.com
 namecheap.com
 namecoin.info
 namejet.com
-nanatech.live
 nanopi.org
 nanopool.org
 nanopool.org 
@@ -14173,7 +14169,6 @@ nowlinks.net
 nowshort.com
 nowtheendbegins.com
 nowtrade.live
-noxogo.com
 npath.au
 npcs.us
 nphone.daum.net
@@ -14232,7 +14227,6 @@ nsallsec.huawei.com
 nsatc.net
 nsclick.baidu.com
 nseindia.com
-nsfw.in
 nsfw.reddit.com
 nst.cx
 nstool.netease.com
@@ -14691,7 +14685,6 @@ osb.samsungqbe.com
 oscdn.apple.com
 oscp.apple.com
 osdb.link
-osexuw.com
 oshko.sh
 osint.bambenekconsulting.com
 osku.jp
@@ -14881,7 +14874,6 @@ packt.link
 paddle.com
 paddleapi.com
 padspl.it
-paduka-one.info
 pag.la
 page.line.me
 page.link
@@ -15066,7 +15058,6 @@ peen.ca
 peercertification.wildalwhite.com
 peerwith.me
 pegasurl.com
-pego.work
 pekcamke.link
 pellz.link
 pencetdulu.com
@@ -15349,7 +15340,6 @@ plex.tv
 pli.su
 plinkzy.com
 plmst.org
-plots.fr
 plrx.me
 pltx.org
 plu.sh
@@ -15447,7 +15437,6 @@ portablevideogamer.com
 portal.client.xunlei.com
 portal.fb.com
 portal.flipboard.com
-portalink.me
 portfolio.adobe.com
 pos-device.apple.com
 posarprodcssservice.accesscontrol.windows.net
@@ -15640,7 +15629,6 @@ projectxv2-hyperlink.vercel.app
 projycto.com
 prolinks.me
 prologue.blog.naver.com
-promo-visits.site
 promo.kaspersky.com
 promo.mi.com
 promo.mobile.de
@@ -15663,7 +15651,6 @@ pros.is
 pros.si
 prosescepatkilat.link
 proshare.ir
-protected.cx
 prothom-alo.com
 prothomalo.com
 protogen.live
@@ -16000,7 +15987,6 @@ qry.kr
 qrybaan.com
 qs.rams-app.com
 qs1.it
-qsl.pw
 qsrm.qualcomm.com
 qt-tchallenge.vercel.app
 qt.gtimg.cn
@@ -16564,7 +16550,6 @@ riverisland.com
 riz.cz
 rizchi.com
 rizy.ir
-rj99.art
 rj99.site
 rjpl.link
 rjpz4ucab.cc.rs6.net
@@ -16716,7 +16701,6 @@ rubsy.ingenious.cloud
 rukminim1.flixcart.com
 ruksblebb.cc.rs6.net
 rules2.clearurls.xyz
-rumahlink.com
 rumble.com
 run.admost.com
 runty.link

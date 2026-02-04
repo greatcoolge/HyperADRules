@@ -6373,7 +6373,6 @@
 @@||miniurl.com^
 @@||miniurl.dayanandgawade.in^
 @@||miniurl.ir^
-@@||miniurl.org.in^
 @@||miniurl.top^
 @@||minl.in^
 @@||minli.info^
@@ -6794,7 +6793,6 @@
 @@||myikoniq.info^
 @@||myip.kr^
 @@||myjq.info^
-@@||mykiemtienutet.life^
 @@||mylink.ai.in^
 @@||mylink.ar^
 @@||mylinkbio.com^
@@ -6850,7 +6848,6 @@
 @@||mytrib.com^
 @@||myumi.ch^
 @@||myup.work^
-@@||myurl.id^
 @@||myurl.in^
 @@||myurl.ly^
 @@||myurl.ng^
@@ -6886,7 +6883,6 @@
 @@||nakdetail.com^
 @@||nalo.life^
 @@||name.ly^
-@@||nanatech.live^
 @@||nanourl.in^
 @@||nanourl.org^
 @@||nanuba.com^
@@ -7064,7 +7060,6 @@
 @@||nowlinks.net^
 @@||nowshort.com^
 @@||nowtrade.live^
-@@||noxogo.com^
 @@||npath.au^
 @@||npcs.us^
 @@||npliv.in^
@@ -7076,7 +7071,6 @@
 @@||nrsry.co^
 @@||ns.hn^
 @@||ns.itunes.apple.com^
-@@||nsfw.in^
 @@||nst.cx^
 @@||nstool.netease.com^
 @@||nsu.pe.cutestat.com^
@@ -7311,7 +7305,6 @@
 @@||orts.link^
 @@||oscdn.apple.com^
 @@||osdb.link^
-@@||osexuw.com^
 @@||oshko.sh^
 @@||osku.jp^
 @@||osl.io^
@@ -7440,7 +7433,6 @@
 @@||paburl.com^
 @@||packt.link^
 @@||padspl.it^
-@@||paduka-one.info^
 @@||pag.la^
 @@||page.link^
 @@||page1healthcare.link^
@@ -7535,7 +7527,6 @@
 @@||peercertification.wildalwhite.com^
 @@||peerwith.me^
 @@||pegasurl.com^
-@@||pego.work^
 @@||pekcamke.link^
 @@||pellz.link^
 @@||pencetdulu.com^
@@ -7670,7 +7661,6 @@
 @@||pli.su^
 @@||plinkzy.com^
 @@||plmst.org^
-@@||plots.fr^
 @@||plrx.me^
 @@||pltx.org^
 @@||plu.sh^
@@ -7718,7 +7708,6 @@
 @@||porntop.com^
 @@||pornzog.com^
 @@||port.sec.miui.com^
-@@||portalink.me^
 @@||pos-device.apple.com^
 @@||posh.mk^
 @@||positive.dev^
@@ -7799,7 +7788,6 @@
 @@||projectxv2-hyperlink.vercel.app^
 @@||projycto.com^
 @@||prolinks.me^
-@@||promo-visits.site^
 @@||promo.mobile.de^
 @@||pronat360.com^
 @@||proof.click^
@@ -7811,7 +7799,6 @@
 @@||pros.si^
 @@||prosescepatkilat.link^
 @@||proshare.ir^
-@@||protected.cx^
 @@||protogen.live^
 @@||provte.cloud^
 @@||proxyrotate.org^
@@ -8022,7 +8009,6 @@
 @@||qrybaan.com^
 @@||qs.rams-app.com^
 @@||qs1.it^
-@@||qsl.pw^
 @@||qt-tchallenge.vercel.app^
 @@||qti.ai^
 @@||qtn.co.il^
@@ -8377,7 +8363,6 @@
 @@||riz.cz^
 @@||rizchi.com^
 @@||rizy.ir^
-@@||rj99.art^
 @@||rj99.site^
 @@||rjpl.link^
 @@||rjpz4ucab.cc.rs6.net^
@@ -8463,7 +8448,6 @@
 @@||rtxt.co^
 @@||rubsy.ingenious.cloud^
 @@||ruksblebb.cc.rs6.net^
-@@||rumahlink.com^
 @@||run.admost.com^
 @@||runty.link^
 @@||rupilinks.com^
