@@ -13169,6 +13169,7 @@ mkto-ab640193.com
 mkto-ab650006.com
 mkto-ab650097.com
 mkto-ab650172.com
+mkto-ab650200.com
 mkto-ab660074.com
 mkto-ab660121.com
 mkto-ab660168.com
@@ -17682,7 +17683,6 @@ short.swurl.xyz
 short.tips
 short.to
 short.udon-morishige.com
-short.zeeraa.net
 short1.link
 short1.org
 short24.pw
@@ -20609,7 +20609,6 @@ trk.specialized.com
 trk.sveltelinks.com
 trk.teonea.fr
 trk.thewanderclub.com
-trk.trktrackier.com
 trk.vibebusi.com
 trk.wavezw.com
 trk.wewotrk.com
@@ -21222,7 +21221,6 @@ url.usacomment.com
 url.uz
 url.veym.net
 url.vhearts.net
-url.virtualstr8pnp.com
 url.vma.cl
 url.webifo.com
 url.webof.xyz
@@ -21907,7 +21905,6 @@ vision.appreciatehub.com
 visionia.site
 visit.my
 visit.st
-visit2earn.com
 visitame.app
 visitmy.link
 visitmylinks.com
@@ -22203,7 +22200,6 @@ wd.getpocket.com
 wd3.it
 wdcp.microsoft.com
 wdcpalt.microsoft.com
-wdpcq.com
 wdsh.rs
 we-shop.xyz
 we.co
@@ -22275,7 +22271,6 @@ webmail.laposte.net
 webmail.orange.fr
 webmail.vtr.net
 webmd.com
-webmienphi.net
 weboffice-static.docs.dingtalk.com
 webopedia.com
 webpower.eu
@@ -22312,12 +22307,10 @@ wee.wtf
 weebly.com
 weeklyad.target.com
 weeklyad.target.com.edgesuite.net
-weelink.io
 weely.ai
 weeste.llc
 weeurl.eu
 weeurl.in
-weewz.me
 wef.ch
 weflex.net.au
 weheartit.com
@@ -22438,7 +22431,6 @@ win7.life
 win7dll.nirsoft.net
 win7dllnet.nirsoft.net
 winc.shop
-winclk.com
 windows.com
 windows10dll.nirsoft.net
 windowsphone-preview.rtm.vint.xbox.com
@@ -24290,7 +24282,6 @@ xo.sd
 xo0.ir
 xoe.cz
 xor.tw
-xortly.com
 xoxourl.com
 xozap.com
 xp-cdn.apple.com
@@ -24529,7 +24520,6 @@ yul.is
 yule.sohu.com
 yulllu01.online
 yun.duiba.com.cn
-yun.ir
 yunfile.com
 yunjiasu-cdn.net
 yuque.com
@@ -24682,7 +24672,6 @@ ziypto.com
 ziyuan.guwendao.net
 zizi.ly
 zkr.cz
-zkr.pw
 zkrat.me
 zkrt.cz
 zlasds.com
