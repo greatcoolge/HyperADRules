@@ -394,6 +394,7 @@
 3c5.com
 3cinteractive.com
 3d-creator.sonymobile.com
+3d-ul.ir
 3d1200.xyz
 3dns-2.adobe.com
 3dns-3.adobe.com
@@ -437,6 +438,7 @@
 46.fi
 47.de
 48609.activity-42.m.duiba.com.cn
+48l.ir
 49rs.co
 4a.lol
 4alink.net
@@ -456,6 +458,7 @@
 4insurancejobs.com
 4ja.ai
 4l.shop
+4md.ir
 4or.de
 4pda.ru
 4pda.to
@@ -487,6 +490,7 @@
 58.com
 58pic.com
 5du.pl
+5ia.ir
 5il.co
 5k.lol
 5m.io
@@ -3343,7 +3347,6 @@ bidminer.com
 bidobido.xyz
 big.at
 big.bilibili.com
-bigbang.is
 bigcartel.com
 bigcattracks.com
 bigcc.cc
@@ -6810,7 +6813,6 @@ efshop.tw
 efw4.one
 eg-sale.com
 eg.gd
-eggeg.com
 egrgo.com
 egrid.io
 egw.bz
@@ -7579,7 +7581,6 @@ flbox.com
 flea.flipboard.com
 flemail.flipboard.com
 flextrig.com
-fli.so
 flic.kr
 flickerlink.com
 flickr.com
@@ -10818,7 +10819,6 @@ kjimg10.360buyimg.com
 kk.rs
 kkc.tech
 kkday.me
-kkl.ink
 kkne.ws
 kko.to
 kkon.ir
@@ -11601,7 +11601,6 @@ linkj.nl
 linkjago.me
 linkjet.net
 linkjitu.site
-linkjoy.io
 linkjoy.org
 linkjp.org
 linkjust.com
@@ -14445,7 +14444,6 @@ o8.email.flipboard.com
 o9.net
 oal.lu
 oam.huawei.com
-oaoaa.com
 oapi.opalsystems.com.au
 oas.monster.com
 oascentral.dailycaller.com
@@ -16015,7 +16013,6 @@ qq.cn.hn
 qq.com
 qqadapt.qpic.cn
 qqc.co
-qql.ink
 qqpublic.qpic.cn
 qqvip-web.cdn-go.cn
 qr-code-generator.com
@@ -16092,7 +16089,6 @@ qrouton.jp
 qrpathway.com
 qrpol.com
 qrpro.net
-qrqr.ai
 qrs.ly
 qrsu.io
 qrtag.fr
@@ -21906,7 +21902,6 @@ verify.snssdk.com
 verify.zijieapi.com
 verisign.com
 verizonwireless.com
-verse.vet
 version.cyberduck.io
 version.hybrid.api.here.com
 vertexsmb.com
