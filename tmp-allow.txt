@@ -387,6 +387,7 @@
 @@||8-aclk.net^
 @@||8.ly^
 @@||8591.tw^
+@@||888b.pw^
 @@||888df.com^
 @@||88nb.cc^
 @@||88win.link^
@@ -411,6 +412,7 @@
 @@||99forward.com^
 @@||99fw.in^
 @@||99links.in^
+@@||9g9.org^
 @@||9h.dk^
 @@||9k.gg^
 @@||9lick.me^
@@ -734,6 +736,7 @@
 @@||afly.in^
 @@||aftv.news^
 @@||aftvnews.com^
+@@||agbr.ir^
 @@||agentassistcrm.org^
 @@||agileurbia.com^
 @@||agirz.com^
@@ -822,6 +825,7 @@
 @@||ali2.a.yximgs.com^
 @@||alias.live^
 @@||aliasurlshortener.com^
+@@||alibuy.live^
 @@||alicedeals.com^
 @@||alie.kr^
 @@||alien-traffic.com^
@@ -959,6 +963,7 @@
 @@||ap.lc^
 @@||apb2.de^
 @@||apbiosuccess.com^
+@@||apcargocourier.com^
 @@||apelink.info^
 @@||apertibumn.org^
 @@||apexhost.gg^
@@ -1137,6 +1142,7 @@
 @@||arttrk.com^
 @@||arurl.us^
 @@||arus.cc^
+@@||as1ansl0t88.site^
 @@||asap.to^
 @@||asc.cool^
 @@||ase.ink^
@@ -1553,6 +1559,7 @@
 @@||bitlyli.com^
 @@||bitlylinks.com^
 @@||bitlyshort.com^
+@@||bitlyvi.com^
 @@||bitlz.cc^
 @@||bitq.link^
 @@||bitradex.net^
@@ -2377,6 +2384,7 @@
 @@||coinbarlink.net^
 @@||coinbot.kr^
 @@||coinclix.co^
+@@||coinpr.info^
 @@||coklat.vip^
 @@||collector-axa.cloud.ca.com^
 @@||comca.st^
@@ -7336,6 +7344,7 @@
 @@||oneany.shop^
 @@||onebio.app^
 @@||onebio.ir^
+@@||onelink.com.do^
 @@||onelink.lt^
 @@||onelink.me^
 @@||onelink.to^
@@ -11875,7 +11884,6 @@
 @@||vivir.pro^
 @@||vivo.tl^
 @@||vivoldi.com^
-@@||vix.cx^
 @@||vjav.com^
 @@||vjav0.ahcdn.com^
 @@||vk.cc^
