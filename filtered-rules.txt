@@ -1086,6 +1086,7 @@ adservice.google.com.co
 adservice.google.com.gt
 adservice.google.com.mx
 adservice.google.com.np
+adservice.google.com.om
 adservice.google.com.pe
 adservice.google.com.ph
 adservice.google.com.pk
@@ -1097,6 +1098,7 @@ adservice.google.com.vn
 adservice.google.cz
 adservice.google.de
 adservice.google.dk
+adservice.google.dm
 adservice.google.es
 adservice.google.fr
 adservice.google.ga
@@ -5715,6 +5717,7 @@ cv.phncdn.com
 cvcpl.us
 cvent.me
 cvfmiij.wiki
+cvitko.com
 cvp.twitch.tv
 cvp1.cdn.turner.com
 cvs.adobe.com
@@ -6527,6 +6530,7 @@ dswurl.de
 dsyixm.com
 dt51.net
 dtdg.co
+dte.bz
 dti.io
 dtl.la
 dts.podtrac.com
@@ -6647,6 +6651,7 @@ e7.al
 e78installers.com
 e8.org
 e8318.dsca.akamaiedge.net
+e9e.ir
 ea.co
 ea.com
 ea1-urlp.secure.skypeassets.com
@@ -6914,6 +6919,7 @@ emp.bbci.co.uk
 emp.onl
 empic.dfcfw.com
 emptyloop.com
+empukjeru.site
 ems-delivery.api.playstation.com
 emu.li
 emui.huawei.com
@@ -7229,6 +7235,7 @@ eztv.ch
 eztv.io
 eztv.it
 eztv.re
+ezurl.cc
 ezurl.co
 ezwashing.com
 ezylnk.com
@@ -7442,6 +7449,7 @@ fi.gravatar.com
 fi.m.wikipedia.com
 fi.statcounter.com
 fi.wikipedia.com
+fi9.ir
 fiatconnect.app
 fibr.ai
 ficken.ws
@@ -7610,6 +7618,7 @@ fm.tuba.pl
 fmovies.to
 fmurl.cc
 fn.gg
+fna.ir
 fnb.ink
 fnb.lc
 fncstatic.com
@@ -8029,6 +8038,7 @@ gc.zgo.at
 gclnk.com
 gcloudcs.com
 gcp.api.snapchat.com
+gcrs.live
 gcs.sc-cdn.net
 gct.dashboard.wedare.pl
 gdanstum.net
@@ -8132,6 +8142,7 @@ get3.adobe.com
 getabre.com
 getalinkandshare.com
 getashorturl.com
+getbiolink.com
 getbiolink.me
 getbitly.pro
 getblue.me
@@ -8478,6 +8489,7 @@ go2.me
 go2cloud.org
 go2ct.pro
 go2jump.org
+go2l.ir
 go2ln.com
 go2my.info
 go2sm.com
@@ -13294,6 +13306,7 @@ mkto-sj200229.com
 mkto-sj210107.com
 mkto-sj230006.com
 mkto-sj240021.com
+mkto-sj250062.com
 mkto-sj250145.com
 mkto-sj250187.com
 mkto-sj270080.com
@@ -16590,6 +16603,7 @@ rflrlptab.cc.rs6.net
 rfn9k5jab.cc.rs6.net
 rfnptk8ab.cc.rs6.net
 rfr.bz
+rftyzi5ab.cc.rs6.net
 rfx.today
 rg3.github.io
 rgd.app
