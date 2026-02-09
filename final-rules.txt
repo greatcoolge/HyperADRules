@@ -9058,6 +9058,7 @@
 @@||hardware.support.eu.playstation.com^
 @@||hardwareluxx.de^
 @@||harisenin.link^
+@@||harmonyurl.ir^
 @@||harounbillets.com^
 @@||harpercollins.com^
 @@||harvard.edu^
@@ -9197,6 +9198,7 @@
 @@||hi.sat.cool^
 @@||hi.statcounter.com^
 @@||hi4.in^
+@@||hibastyle.com^
 @@||hibfox.com^
 @@||hibu.com^
 @@||hicider.com^
@@ -9334,6 +9336,7 @@
 @@||hooturl.com^
 @@||hop2.page^
 @@||hopework.link^
+@@||hopla.to^
 @@||hopli.net^
 @@||hopn.io^
 @@||hopp.co^
@@ -10254,6 +10257,7 @@
 @@||ir.cx^
 @@||ir.ebaystatic.com^
 @@||ira.mx^
+@@||irbaz.ir^
 @@||irc-ws-darklaunch.chat.twitch.tv^
 @@||irc-ws.chat.twitch.tv^
 @@||irc.abjects.net^
@@ -10358,6 +10362,7 @@
 @@||ivg.bz^
 @@||ivtshort.com^
 @@||iwifi.360.cn^
+@@||iwo.ir^
 @@||iwork.apple.com^
 @@||iwr.link^
 @@||iwwlink.org^
@@ -10493,6 +10498,7 @@
 @@||jjlco.net^
 @@||jjtaylor.link^
 @@||jkf.lv^
+@@||jks.bio^
 @@||jktc.pro^
 @@||jlsfcd.com^
 @@||jmal.top^
@@ -10669,6 +10675,7 @@
 @@||kagk.top^
 @@||kaipuyun.cn^
 @@||kaitect.com^
+@@||kajtech.live^
 @@||kakaotv.daum.net^
 @@||kalcty.com^
 @@||kaltura.com^
@@ -10697,6 +10704,7 @@
 @@||kbank.co^
 @@||kbit.co^
 @@||kbitly.com^
+@@||kccim.ir^
 @@||kck.st^
 @@||kcsoftwares.com^
 @@||kdo.link^
@@ -11036,6 +11044,7 @@
 @@||l2l.it^
 @@||l2l.li^
 @@||l2l.one.cutestat.com^
+@@||l2o.ir^
 @@||l338.co^
 @@||l36-danmu.hi.163.com^
 @@||l36.gdl.netease.com^
@@ -11311,6 +11320,7 @@
 @@||lihipro.com^
 @@||lihivip.com^
 @@||liii.ink^
+@@||liink.ir^
 @@||liinkee.com^
 @@||liip.to^
 @@||like.daum.net^
@@ -11566,6 +11576,7 @@
 @@||linkhub.to^
 @@||linkhuddle.com^
 @@||linki.run^
+@@||linkia.co^
 @@||linkify.page^
 @@||linkifyer.com^
 @@||linkila.com^
@@ -11652,6 +11663,7 @@
 @@||linkoqr.com^
 @@||linkotomy.com^
 @@||linkotw.live^
+@@||linkp.ir^
 @@||linkp.online^
 @@||linkpad.pro^
 @@||linkpage.it^
@@ -12179,6 +12191,7 @@
 @@||lt.tl^
 @@||lt27.de^
 @@||lt45.net^
+@@||lt5.ir^
 @@||ltc.cryptopia.co.nz^
 @@||ltd.ac^
 @@||ltdhunt.com^
