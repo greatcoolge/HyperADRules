@@ -12804,6 +12804,7 @@
 @@||zorts.me^
 @@||zotter.click^
 @@||zotter.link^
+@@||zovo.ink^
 @@||zovpart.com^
 @@||zpag.es^
 @@||zpr.io^
