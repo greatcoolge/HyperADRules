@@ -8489,6 +8489,7 @@
 @@||revrocket.eq-aibridge.com^
 @@||rewardtk.com^
 @@||rfed.ws^
+@@||rfgmzawab.cc.rs6.net^
 @@||rfgvnv6ab.cc.rs6.net^
 @@||rfj.tips^
 @@||rfknow.org^
