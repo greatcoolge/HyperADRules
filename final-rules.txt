@@ -283,7 +283,6 @@
 @@||247superhost.com^
 @@||24link.ir^
 @@||24sevensocial.com^
-@@||256.so^
 @@||260web.com^
 @@||263.vn^
 @@||27g.ru^
@@ -476,7 +475,6 @@
 @@||4sq.com^
 @@||4t.gg^
 @@||4ton.com^
-@@||4tw.uk^
 @@||4ty.me^
 @@||4uid.com^
 @@||4url.cc^
@@ -686,7 +684,6 @@
 @@||a2z.tools^
 @@||a2zapk.com^
 @@||a360.co^
-@@||a368.co^
 @@||a38.fr^
 @@||a3st.in^
 @@||a3utocall.org^
@@ -789,7 +786,6 @@
 @@||abs.twimg.com^
 @@||abso.lt^
 @@||abstimmungstarten.de^
-@@||absurdword.pro^
 @@||abtest.mistat.intl.xiaomi.com^
 @@||abtest.mistat.xiaomi.com^
 @@||abuse.ch^
