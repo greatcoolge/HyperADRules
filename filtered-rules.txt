@@ -2138,6 +2138,7 @@ apexstats.com
 api-01.moengage.com
 api-02.moengage.com
 api-03.moengage.com
+api-04.moengage.com
 api-ap1.hubapi.com
 api-auth.soundcloud.com
 api-beta.huawei.com
@@ -7364,7 +7365,6 @@ fc2.com
 fcacycling.bike
 fcd.autoads.asia
 fce.gg
-fck.lt
 fcount-api.webapp.163.com
 fcs-keys-pub-prod.cdn-apple.com
 fda.gov
@@ -7418,7 +7418,6 @@ feelinsonice.appspot.l.google.com
 feelinsonice.l.google.com
 feentry.zhuanzhuan.com
 feji.io
-fenditorosiatoter.life
 fenomen.live
 feodotracker.abuse.ch
 ferrari-cdn.thron.com
@@ -8155,7 +8154,6 @@ gethatch.com
 geti.in
 getlasso.co
 getlickd.com
-getlink.at
 getlink.space
 getmore.sonymobile.com
 getmovie.vip
@@ -8308,7 +8306,6 @@ globo.com
 gloimg.gbtcdn.com
 glol.in
 glolin.com
-gloshukadamiava2.live
 glowin88.site
 gloyah.net
 glss.co
@@ -8343,7 +8340,6 @@ gnu.org
 go-admin.functorz.com
 go-admin.momen.app
 go-link.ru
-go-links.net
 go-to.us
 go-updater.brave.com
 go.9nl.com
@@ -9164,7 +9160,6 @@ henslot.urlklik.com
 hentaihand.com
 hentaihaven.org
 heoiberico.life
-heotoc.life
 hepsipay.eu
 her.is
 herbeauty.co
@@ -9298,7 +9293,6 @@ hoholah.xyz
 hoken.rakuten.co.jp
 hoki1dana.site
 hoki22crot.com
-hokidana.vip
 hokie.co
 hokiku.link
 hola.org
@@ -9407,7 +9401,6 @@ hrst.ph
 hrten.com
 hs-uk.co
 hs.eloqua.com
-hscr.me
 hsdt.co
 hsforms.com
 hsforms.net
@@ -9461,7 +9454,6 @@ hubspotlinks.com
 hubt.pornhub.com
 hubu.ru
 hud.gov
-huff.to
 huffingtonpost.co.uk
 huffingtonpost.com
 huffp.st
@@ -13326,6 +13318,7 @@ mkto-sj100138.com
 mkto-sj130243.com
 mkto-sj140007.com
 mkto-sj140163.com
+mkto-sj150025.com
 mkto-sj170094.com
 mkto-sj180011.com
 mkto-sj190104.com
@@ -17652,7 +17645,6 @@ shakelchat.net
 shaken.rakuten.co.jp
 shang.qq.com
 shar.as
-shar.i.ng
 share-online.biz
 share.adobe.com
 share.al
