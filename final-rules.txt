@@ -5189,7 +5189,6 @@
 @@||codesandbox.io^
 @@||codesector.com^
 @@||codesm.com^
-@@||codewithcode.com^
 @@||codimenu.com^
 @@||codly.com^
 @@||coe.li^
@@ -5530,7 +5529,6 @@
 @@||crl3.digicert.com^
 @@||crl4.digicert.com^
 @@||crm-measure.com^
-@@||crn.re^
 @@||croc.global^
 @@||cropped.xyz^
 @@||crourl.com^
@@ -5635,7 +5633,6 @@
 @@||cuq.in^
 @@||cur.lv^
 @@||curben.gitlab.io^
-@@||curbme.io^
 @@||curiosity.com^
 @@||curl.im^
 @@||curl.pk^
@@ -5663,7 +5660,6 @@
 @@||cut.ovh^
 @@||cut.pe^
 @@||cut.sk^
-@@||cut.st^
 @@||cut.vin^
 @@||cutcaptcha.com^
 @@||cutdown.link^
@@ -5708,7 +5704,6 @@
 @@||cutto.io^
 @@||cutts.in^
 @@||cutturl.xyz^
-@@||cutu.me^
 @@||cutur.link^
 @@||cuturl.cloud^
 @@||cuturl.com^
