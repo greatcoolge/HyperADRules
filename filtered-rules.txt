@@ -14794,7 +14794,6 @@ ossp.voicecloud.cn
 ot.ag
 ota-downloads.nvidia.com
 otag.h2os.com
-otcmarsbase.io
 otgk.ir
 otlnk.com
 otlong.com
@@ -15027,7 +15026,6 @@ partners.soundcloud.com
 partnerseu.sec.samsung.com
 parts.blog.livedoor.jp
 party.163.com
-pascol.bio
 pasir.me
 pass.1688.com
 passion-radio.net
@@ -15130,7 +15128,6 @@ pds37.cafe.daum.net
 pdst.fm
 pdvs.rts.band.naver.com
 pdxint.at
-pdy.one
 pe.ga
 pe8.at
 peachpoll.com
@@ -15147,7 +15144,6 @@ peekstory.com
 peen.ca
 peercertification.wildalwhite.com
 peerwith.me
-pegasurl.com
 pekcamke.link
 pellz.link
 pencetdulu.com
@@ -15461,7 +15457,6 @@ pnsne.ws
 pntra.com
 pntrac.com
 pntrack.com
-pnut.co
 po.gravatar.com
 po.st
 pochta.ru
@@ -15482,7 +15477,6 @@ point.rakuten.co.jp
 pointcard.rakuten.co.jp
 pointpay.live
 pojonews.co
-pokoknya.top
 polamax.win
 polbb.eu
 policies.live.net
@@ -15950,7 +15944,6 @@ qflm.net
 qhres2.com
 qi.163.com
 qichacha.com
-qicute.com
 qidian.gtimg.com
 qihucdn.com
 qikli.co
@@ -16099,7 +16092,6 @@ qualtrics.com
 quamiller.com
 quantcast.com
 quantcast.mgr.consensu.org
-quantumloft.site
 quantummetric.com
 quark.sm.cn
 quee.link
@@ -16117,7 +16109,6 @@ quickchart.io
 quickcode.digital
 quicklink-lilac.vercel.app
 quicklinkpro.io
-quickqr.be
 quickshr.ink
 quickshrink.ovh
 quicky.digital
@@ -16329,7 +16320,6 @@ rdr.wargaming.net
 rdr9bzpab.cc.rs6.net
 rdrct.site
 rdre.me
-rdrt.cc
 rds-assets.nvidia.com
 rds.ovh
 rdsaid.com
@@ -16824,7 +16814,6 @@ rushgiving.com
 rushivili.com
 rusuhkali.xyz
 ruten.com.tw
-rutgon.top
 rutube.ru
 ruvi.me
 rv2.com
@@ -16838,7 +16827,6 @@ rvwd.co
 rwl.io
 rwnd.io
 rwps.in
-rwrd.net
 rwtrnhzab.cc.rs6.net
 rwx.es
 rwz.fr
@@ -17211,7 +17199,6 @@ sc.ts460.com
 sc02.alicdn.com
 sc115.com
 sc1o.com
-sca.gent
 sca.samsung.com
 scalboostclub.com
 scaledb.vuukle.com
@@ -17465,7 +17452,6 @@ seemless.link
 seemyshare.com
 seer.to
 seesaa.net
-seez.bio
 segment.com
 segment.hotstar.com
 segueae.link
