@@ -2574,7 +2574,6 @@
 @@||app.stumbleupon.com^
 @@||app.syndicaster.tv^
 @@||app.tagii.io^
-@@||app.the-pro.info^
 @@||app.tr.adjust.com^
 @@||app.twitch.tv^
 @@||app.univ-cotedazur.fr^
@@ -17602,8 +17601,6 @@
 @@||sgsg.sg^
 @@||sgsu.ru^
 @@||sgyan.com^
-@@||sh-ort.app^
-@@||sh-rt.link^
 @@||sh.classera.com^
 @@||sh.docs.dingtalk.com^
 @@||sh.oo.gd^
@@ -17774,7 +17771,6 @@
 @@||short.ovh^
 @@||short.pe^
 @@||short.php8developer.com^
-@@||short.pk^
 @@||short.profi.lv^
 @@||short.razinj.com^
 @@||short.re^
@@ -18161,7 +18157,6 @@
 @@||shurl.me^
 @@||shutr.bz^
 @@||shuvi.io^
-@@||shw.me^
 @@||shy.si^
 @@||shycmedi.com^
 @@||shylnk.com^
@@ -18516,7 +18511,6 @@
 @@||sniplify.me^
 @@||sniplink.co^
 @@||sniplnk.co^
-@@||sniplnk.me^
 @@||sniply.io^
 @@||sniply.me^
 @@||sniplytics.com^
@@ -18526,7 +18520,6 @@
 @@||snipr.com^
 @@||snipurl.com^
 @@||snipurl.dev^
-@@||snipurl.me^
 @@||snipurl.net^
 @@||snipy.co^
 @@||snipzr.com^
@@ -19288,7 +19281,6 @@
 @@||subscriptions-dev.snapchat.com^
 @@||subscriptions.pstmrk.it^
 @@||subxresults.com^
-@@||suc.im^
 @@||suche.t-online.de^
 @@||suckerpunch.playstation.com^
 @@||suconfig.apple.com^
@@ -19821,7 +19813,6 @@
 @@||tatt.at^
 @@||tau.lu^
 @@||tautan.click^
-@@||tautan.smagha.com^
 @@||tautin.id^
 @@||tawk.link^
 @@||tawk.to^
@@ -19899,7 +19890,6 @@
 @@||teespring.com^
 @@||teil.cc^
 @@||tek.io^
-@@||teklum.site^
 @@||teknut.com^
 @@||tel-u.ac.id^
 @@||tel.fe01.hh.xiaomi.com^
@@ -20006,7 +19996,6 @@
 @@||thedailysheeple.com^
 @@||thedave.link^
 @@||thedigitalcontactcompany.com^
-@@||thedigitalstreamline.com^
 @@||thedo.do^
 @@||thedro.co^
 @@||theedfund.co^
@@ -20151,7 +20140,6 @@
 @@||tin.li^
 @@||tinderurl.com^
 @@||tini.cc^
-@@||tiniworkfennies.live^
 @@||tinky.cc^
 @@||tinlie.com^
 @@||tinlr.com^
@@ -20382,7 +20370,6 @@
 @@||tonancos.com^
 @@||tongji.baidu.com^
 @@||tonyr.co^
-@@||too.now^
 @@||toofficialwebsite.com^
 @@||toolaxy.com^
 @@||toolbar.naver.com^
@@ -20441,7 +20428,6 @@
 @@||touch.kaspersky.com^
 @@||touch.sonymobile.com^
 @@||toui.cc^
-@@||touraboutworld.org^
 @@||tourefly.com^
 @@||tourl.in^
 @@||tousu.sina.cn^
@@ -20666,7 +20652,6 @@
 @@||trickbd.com^
 @@||trieuview.life^
 @@||triggerbee.com^
-@@||trim-ly.com^
 @@||trim-me.de^
 @@||trim-me.io^
 @@||trim-url.com^
@@ -20684,7 +20669,6 @@
 @@||trimrly.com^
 @@||trimrr.link^
 @@||trims.me^
-@@||trimuly.com^
 @@||trimurl.co^
 @@||trimurl.vercel.app^
 @@||trimurls.com^
@@ -21382,7 +21366,6 @@
 @@||url84.com^
 @@||url88.online^
 @@||url8x.com^
-@@||url9xx.com^
 @@||urla.ru^
 @@||urladda.com^
 @@||urlah.com^
@@ -21431,7 +21414,6 @@
 @@||urlfy.pro^
 @@||urlgeni.us^
 @@||urlgit.com^
-@@||urlgl.com^
 @@||urlgo.ca^
 @@||urlgo.fr^
 @@||urlhaus.abuse.ch^
@@ -21485,7 +21467,6 @@
 @@||urlno.com^
 @@||urlnova.com^
 @@||urlo.in^
-@@||urlot.com^
 @@||urlpi.com^
 @@||urlplus.net^
 @@||urlpoints.com^
@@ -21543,7 +21524,6 @@
 @@||urlshortenerx.com^
 @@||urlshortening.webalias.com^
 @@||urlshortly.com^
-@@||urlshortn.com^
 @@||urlshortner.at^
 @@||urlshortner.org^
 @@||urlshortnerpassive.com^
@@ -21557,7 +21537,6 @@
 @@||urlsminify.com^
 @@||urlsmush.com^
 @@||urlsnap.com^
-@@||urlsnapy.com^
 @@||urlsnipper.com^
 @@||urlsrt.eu^
 @@||urlsss.vercel.app^
@@ -21720,7 +21699,6 @@
 @@||usis.bracu.ac.bd^
 @@||usite.jp^
 @@||usnews.com^
-@@||usps-v2.com^
 @@||usreviewers.com^
 @@||usrlnx.com^
 @@||ustream.tv^
@@ -21998,7 +21976,6 @@
 @@||vine.co^
 @@||vineland.dj^
 @@||vinggle.com^
-@@||vinmalamsuwdwdc.life^
 @@||vinurl.com^
 @@||vioshortlink.one^
 @@||vip-gacha99.info^
@@ -22216,7 +22193,6 @@
 @@||w1.sndcdn.com^
 @@||w1p.fr^
 @@||w2link.com^
-@@||w2u.io^
 @@||w3.cdn.anvato.net^
 @@||w3.org^
 @@||w33.li^

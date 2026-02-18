@@ -1060,7 +1060,6 @@
 @@||app.shorteneo.com^
 @@||app.smler.in^
 @@||app.tagii.io^
-@@||app.the-pro.info^
 @@||app.tr.adjust.com^
 @@||app.univ-cotedazur.fr^
 @@||app.url180.com^
@@ -8995,8 +8994,6 @@
 @@||sgsg.sg^
 @@||sgsu.ru^
 @@||sgyan.com^
-@@||sh-ort.app^
-@@||sh-rt.link^
 @@||sh.classera.com^
 @@||sh.oo.gd^
 @@||sh.sg^
@@ -9114,7 +9111,6 @@
 @@||short.ovh^
 @@||short.pe^
 @@||short.php8developer.com^
-@@||short.pk^
 @@||short.profi.lv^
 @@||short.razinj.com^
 @@||short.re^
@@ -9495,7 +9491,6 @@
 @@||shurl.me^
 @@||shutr.bz^
 @@||shuvi.io^
-@@||shw.me^
 @@||shy.si^
 @@||shycmedi.com^
 @@||shylnk.com^
@@ -9740,7 +9735,6 @@
 @@||sniplify.me^
 @@||sniplink.co^
 @@||sniplnk.co^
-@@||sniplnk.me^
 @@||sniply.io^
 @@||sniply.me^
 @@||sniplytics.com^
@@ -9749,7 +9743,6 @@
 @@||snipr.com^
 @@||snipurl.com^
 @@||snipurl.dev^
-@@||snipurl.me^
 @@||snipurl.net^
 @@||snipy.co^
 @@||snipzr.com^
@@ -10035,7 +10028,6 @@
 @@||sub2unlock.net^
 @@||subhlinks.com^
 @@||subxresults.com^
-@@||suc.im^
 @@||suconfig.apple.com^
 @@||sugar.zhihu.com^
 @@||suge.blog^
@@ -10396,7 +10388,6 @@
 @@||tatt.at^
 @@||tau.lu^
 @@||tautan.click^
-@@||tautan.smagha.com^
 @@||tautin.id^
 @@||tawk.link^
 @@||tawon4d.pro^
@@ -10444,7 +10435,6 @@
 @@||teeplantage.de^
 @@||teil.cc^
 @@||tek.io^
-@@||teklum.site^
 @@||teknut.com^
 @@||tel-u.ac.id^
 @@||telega.io^
@@ -10504,7 +10494,6 @@
 @@||thecubexguide.com^
 @@||thedave.link^
 @@||thedigitalcontactcompany.com^
-@@||thedigitalstreamline.com^
 @@||thedo.do^
 @@||thedro.co^
 @@||theedfund.co^
@@ -10600,7 +10589,6 @@
 @@||tin.li^
 @@||tinderurl.com^
 @@||tini.cc^
-@@||tiniworkfennies.live^
 @@||tinky.cc^
 @@||tinlie.com^
 @@||tinlr.com^
@@ -10792,7 +10780,6 @@
 @@||tomly.io^
 @@||tonancos.com^
 @@||tonyr.co^
-@@||too.now^
 @@||toofficialwebsite.com^
 @@||toolaxy.com^
 @@||toolbites.com^
@@ -10827,7 +10814,6 @@
 @@||toto.pe^
 @@||totopecah.site^
 @@||toui.cc^
-@@||touraboutworld.org^
 @@||tourefly.com^
 @@||tourl.in^
 @@||tousu.sina.cn^
@@ -10990,7 +10976,6 @@
 @@||trick.ly^
 @@||trieuview.life^
 @@||triggerbee.com^
-@@||trim-ly.com^
 @@||trim-me.de^
 @@||trim-me.io^
 @@||trim-url.com^
@@ -11008,7 +10993,6 @@
 @@||trimrly.com^
 @@||trimrr.link^
 @@||trims.me^
-@@||trimuly.com^
 @@||trimurl.co^
 @@||trimurl.vercel.app^
 @@||trimurls.com^
@@ -11495,7 +11479,6 @@
 @@||url84.com^
 @@||url88.online^
 @@||url8x.com^
-@@||url9xx.com^
 @@||urla.ru^
 @@||urladda.com^
 @@||urlah.com^
@@ -11541,7 +11524,6 @@
 @@||urlfy.pro^
 @@||urlgeni.us^
 @@||urlgit.com^
-@@||urlgl.com^
 @@||urlgo.ca^
 @@||urlgo.fr^
 @@||urlhawk.com^
@@ -11594,7 +11576,6 @@
 @@||urlno.com^
 @@||urlnova.com^
 @@||urlo.in^
-@@||urlot.com^
 @@||urlpi.com^
 @@||urlplus.net^
 @@||urlpoints.com^
@@ -11651,7 +11632,6 @@
 @@||urlshortenerx.com^
 @@||urlshortening.webalias.com^
 @@||urlshortly.com^
-@@||urlshortn.com^
 @@||urlshortner.at^
 @@||urlshortner.org^
 @@||urlshortnerpassive.com^
@@ -11665,7 +11645,6 @@
 @@||urlsminify.com^
 @@||urlsmush.com^
 @@||urlsnap.com^
-@@||urlsnapy.com^
 @@||urlsnipper.com^
 @@||urlsrt.eu^
 @@||urlsss.vercel.app^
@@ -11735,7 +11714,6 @@
 @@||ushort.my^
 @@||ushort.xyz^
 @@||usite.jp^
-@@||usps-v2.com^
 @@||usreviewers.com^
 @@||usrlnx.com^
 @@||ut9.cc^
@@ -11892,7 +11870,6 @@
 @@||vindicoce.com^
 @@||vineland.dj^
 @@||vinggle.com^
-@@||vinmalamsuwdwdc.life^
 @@||vinurl.com^
 @@||vioshortlink.one^
 @@||vip-gacha99.info^
@@ -12020,7 +11997,6 @@
 @@||w0o.de^
 @@||w1p.fr^
 @@||w2link.com^
-@@||w2u.io^
 @@||w33.li^
 @@||w3dv.com^
 @@||w3n.us^
