@@ -58,7 +58,6 @@
 @@||0bs.de^
 @@||0daydown.com^
 @@||0eaf.cardinalcommerce.com^
-@@||0i.is^
 @@||0ln.eu^
 @@||0ln.io^
 @@||0o.lv^
@@ -331,7 +330,6 @@
 @@||2tf.net^
 @@||2tiny.in^
 @@||2to.info^
-@@||2tu.us^
 @@||2u.gg^
 @@||2u.lc^
 @@||2u.pw^
@@ -574,7 +572,6 @@
 @@||8-aclk.net^
 @@||8.ly^
 @@||8591.tw^
-@@||888b.pw^
 @@||888df.com^
 @@||88nb.cc^
 @@||88win.link^
@@ -2113,7 +2110,6 @@
 @@||any-in-2015.1e100.net^
 @@||any.gs^
 @@||anyimage.io^
-@@||anytimefitnessinstagram.com^
 @@||anyurl.it^
 @@||ao3-news.org^
 @@||aod.cos.tx.xmcdn.com^
@@ -2660,7 +2656,6 @@
 @@||appsumo.com^
 @@||apptimize.com^
 @@||appurl.io^
-@@||appusps.live^
 @@||appw.me^
 @@||appwhats.in^
 @@||appx.transient.amazon.com^
@@ -3495,7 +3490,6 @@
 @@||bitly.bz^
 @@||bitly.com^
 @@||bitly.cx^
-@@||bitly.gold^
 @@||bitly.im^
 @@||bitly.is^
 @@||bitly.kr^
@@ -5204,7 +5198,6 @@
 @@||coinmama.com^
 @@||coinmarketcap.com^
 @@||coinmine.pl^
-@@||coinpr.info^
 @@||coinurl.com^
 @@||coklat.vip^
 @@||coles.com.au^
@@ -5705,7 +5698,6 @@
 @@||cutto.io^
 @@||cutts.in^
 @@||cutturl.xyz^
-@@||cutur.link^
 @@||cuturl.cloud^
 @@||cuturl.com^
 @@||cuturl.net^
@@ -7454,7 +7446,6 @@
 @@||fi.m.wikipedia.com^
 @@||fi.statcounter.com^
 @@||fi.wikipedia.com^
-@@||fi9.ir^
 @@||fiatconnect.app^
 @@||fibr.ai^
 @@||fic.my.id^
@@ -8220,7 +8211,6 @@
 @@||gigaom.com^
 @@||gigapurbalingga.net^
 @@||gigaz.in^
-@@||gigbridge.app^
 @@||gigya.com^
 @@||gil.re^
 @@||ginjfo.com^
@@ -8312,7 +8302,6 @@
 @@||gloimg.gbtcdn.com^
 @@||glol.in^
 @@||glolin.com^
-@@||glowin88.site^
 @@||gloyah.net^
 @@||glss.co^
 @@||glyph.medium.com^
@@ -9480,7 +9469,6 @@
 @@||hurirk.net^
 @@||hurl.com^
 @@||hurl.it^
-@@||hurl.me^
 @@||hurl.ws^
 @@||husband92.com^
 @@||hutmat.in^
@@ -10956,7 +10944,6 @@
 @@||kurv.gr^
 @@||kurz.jetzt^
 @@||kurzelinks.de^
-@@||kut.rs^
 @@||kuta.ir^
 @@||kutlink.com^
 @@||kutt.acorninsure.co.uk^
@@ -13076,7 +13063,6 @@
 @@||mineurl.top^
 @@||minexmr.com^
 @@||minfier.com^
-@@||minggu.cfd^
 @@||mingle.kijiji.ca^
 @@||mini-qr.vercel.app^
 @@||mini-url.in^
@@ -15722,7 +15708,6 @@
 @@||projects.id^
 @@||projectxv2-hyperlink.vercel.app^
 @@||projycto.com^
-@@||prolink.website^
 @@||prolink168.com^
 @@||prolinks.me^
 @@||prologue.blog.naver.com^
@@ -16700,7 +16685,6 @@
 @@||road.adblock.ro^
 @@||roadandtrack.com^
 @@||roar.media^
-@@||roblox.com.nf^
 @@||rochester.edu^
 @@||rockbridge.info^
 @@||rockcastitalia.com^
@@ -17863,7 +17847,6 @@
 @@||shortenn.org^
 @@||shortenn.site^
 @@||shortenpay.com^
-@@||shortenpro.com^
 @@||shortenr-app.vercel.app^
 @@||shortenr.de^
 @@||shortens.org^
@@ -18354,7 +18337,6 @@
 @@||slnk.se^
 @@||slot633.gg^
 @@||slotamina.com^
-@@||slpre.com^
 @@||slptr.com^
 @@||sls.update.microsoft.com.akadns.net^
 @@||sls.update.microsoft.com^
@@ -18618,7 +18600,6 @@
 @@||sor.bz^
 @@||sorc.me^
 @@||sorkale.me^
-@@||sosh.al^
 @@||sosi.al^
 @@||soso.com^
 @@||sosy.al^
@@ -19434,7 +19415,6 @@
 @@||support2.kaspersky.com^
 @@||support2.xbox.com^
 @@||supportdev.cryptopia.co.nz^
-@@||supportsae.com^
 @@||supportuat.xbox.com^
 @@||supportxmr.com^
 @@||supr.cl^
@@ -19903,7 +19883,6 @@
 @@||telegra.ph^
 @@||telegram.me^
 @@||telegram.org^
-@@||telegramviral.com^
 @@||telegraph.co.uk^
 @@||teleko.me^
 @@||telemetry-incoming.r53-2.services.mozilla.com^
@@ -20223,7 +20202,6 @@
 @@||tinyurl.rocks^
 @@||tinyurl.se^
 @@||tinyurl.smart-home.com.co^
-@@||tinyurl.win^
 @@||tinyurlforbusiness.com^
 @@||tinyurls.biz^
 @@||tinyurls.io^
@@ -22016,7 +21994,6 @@
 @@||visitame.app^
 @@||visitmy.link^
 @@||visitmylinks.com^
-@@||visitmypage.org^
 @@||visitsitenow.com^
 @@||visiyta.com^
 @@||visma.com^
