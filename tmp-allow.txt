@@ -2712,7 +2712,6 @@
 @@||dbf.adalaj.org^
 @@||dbf.org.in^
 @@||dbfuk.org^
-@@||dblp.org^
 @@||dbolc.com^
 @@||dbolink.com^
 @@||dbricks.co^
