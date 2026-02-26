@@ -1122,6 +1122,7 @@
 @@||adservice.google.ru^
 @@||adservice.google.se^
 @@||adservice.google.sk^
+@@||adservice.google.tt^
 @@||adservice.google.vg^
 @@||adshort.click^
 @@||adshort.co^
@@ -13306,6 +13307,7 @@
 @@||mkto-sj190104.com^
 @@||mkto-sj190237.com^
 @@||mkto-sj190248.com^
+@@||mkto-sj200191.com^
 @@||mkto-sj200192.com^
 @@||mkto-sj200201.com^
 @@||mkto-sj200229.com^
