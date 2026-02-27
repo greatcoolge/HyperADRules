@@ -10188,6 +10188,7 @@
 @@||uploaded.to^
 @@||uploading.com^
 @@||uppit.com^
+@@||upqzfile.com^
 @@||uprising.kip.pro^
 @@||upside.app.link^
 @@||uptime.com^
