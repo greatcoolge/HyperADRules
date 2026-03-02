@@ -446,7 +446,6 @@
 4bio.cc
 4chan.org
 4d2.link
-4e.fi
 4eq.ir
 4etch.com
 4ev.link
@@ -498,7 +497,6 @@
 5or.cc
 5qzr.com
 5rwv.info
-5url.net
 5v-v.com
 5w.fit
 5z8.info
@@ -987,7 +985,6 @@ adfinis-sygroup.ch
 adfly.be
 adfly.cc
 adflydsp.com
-adflyfly.com
 adfoc.us
 adfocus.ru
 adform.com
@@ -8844,7 +8841,6 @@ gr8cloud.com
 grab.com
 grabify.link
 gracepoint.org.au
-grafana.2merkato.com
 grainger.com
 grammarly.com
 grammarly.io
