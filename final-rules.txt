@@ -5989,7 +5989,6 @@
 @@||demon-networks.com^
 @@||demos.flowplayer.com^
 @@||demotywatory.pl^
-@@||demoxpress.xyz^
 @@||dems.me^
 @@||den.cdn.survey.medallia.com^
 @@||denis-ovs.narod.ru^
@@ -5999,7 +5998,6 @@
 @@||des.gbtcdn.com^
 @@||descontosachados.com^
 @@||descuentoahora.com^
-@@||deshtvbd.com^
 @@||design.www.huffingtonpost.com^
 @@||designcommerce.agency^
 @@||designrigs.com^
@@ -6195,7 +6193,6 @@
 @@||disquscdn.com^
 @@||distribute.adobe.com^
 @@||distributions.crowdin.net^
-@@||ditt.link^
 @@||dive.pub^
 @@||diversionink.com^
 @@||divsly.com^
@@ -6353,7 +6350,6 @@
 @@||domlink.ink^
 @@||domraider.io^
 @@||donorschoose.org^
-@@||doods.sbs^
 @@||doodsty.fun^
 @@||doonor.com^
 @@||dopice.sk^
@@ -6834,7 +6830,6 @@
 @@||elle.re^
 @@||ellemag.co^
 @@||elm-lang.org^
-@@||elmnp.ir^
 @@||elokapina.link^
 @@||eloqua.com^
 @@||elpais.com^
@@ -7200,7 +7195,6 @@
 @@||extratorrent.cc^
 @@||extratorrent.com^
 @@||exx.us^
-@@||eyq.me^
 @@||eys.li^
 @@||ez1.cc^
 @@||ezbio.me^
@@ -7242,7 +7236,6 @@
 @@||f0rk.in^
 @@||f1.g.mi.com^
 @@||f1.media.brightcove.com^
-@@||f1.tf^
 @@||f10.baidu.com^
 @@||f11.baidu.com^
 @@||f12.baidu.com^
@@ -7535,7 +7528,6 @@
 @@||fjr24.com^
 @@||fkp.samsungcloudsolution.com^
 @@||fkp.samsungcloudsolution.net^
-@@||fl-y.com^
 @@||fl8.me^
 @@||flameurl.com^
 @@||flapi.flipboard.com^
@@ -7606,7 +7598,6 @@
 @@||fncstatic.com^
 @@||fndry.ch^
 @@||fneezet.com^
-@@||fnleasing.com^
 @@||fnoogy.com^
 @@||fnord.eu^
 @@||fnote.it^
@@ -8132,7 +8123,6 @@
 @@||getcode.pw^
 @@||getf.ly^
 @@||gethatch.com^
-@@||geti.in^
 @@||getlasso.co^
 @@||getlickd.com^
 @@||getlink.space^
@@ -13227,6 +13217,7 @@
 @@||mkto-ab620126.com^
 @@||mkto-ab620130.com^
 @@||mkto-ab630019.com^
+@@||mkto-ab630033.com^
 @@||mkto-ab630144.com^
 @@||mkto-ab640193.com^
 @@||mkto-ab650006.com^
@@ -13254,6 +13245,7 @@
 @@||mkto-i0028.com^
 @@||mkto-j0126.com^
 @@||mkto-lon020055.com^
+@@||mkto-lon020062.com^
 @@||mkto-lon030291.com^
 @@||mkto-lon040152.com^
 @@||mkto-lon050143.com^
@@ -16407,7 +16399,6 @@
 @@||redirectly.link^
 @@||redirectme.net^
 @@||redirectools.com^
-@@||redirector.eservice.emarsys.net^
 @@||redirector.googlevideo.com^
 @@||redirector.gvt1.com^
 @@||redirects.ca^
@@ -22314,7 +22305,6 @@
 @@||web.wechat.com^
 @@||web1.wechat.com^
 @@||web2.wechat.com^
-@@||web3.destore.network^
 @@||web99.eu^
 @@||webamssfbpool.qualcomm.com^
 @@||webapi.kaspersky.com^
