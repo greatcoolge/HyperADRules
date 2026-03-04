@@ -4703,7 +4703,6 @@
 @@||ishortie.com^
 @@||ishortify.com^
 @@||ishortn.ink^
-@@||ishorturl.com^
 @@||ishorturl.net^
 @@||isinstance.com^
 @@||islam.qa^
@@ -4987,7 +4986,6 @@
 @@||kes.re^
 @@||ketli.net^
 @@||keyli.me^
-@@||keyshrink.com^
 @@||kf.org^
 @@||kfd.pl^
 @@||kfrc.co^
@@ -5109,7 +5107,6 @@
 @@||kristal777.us^
 @@||kro.kr^
 @@||krohne.link^
-@@||krpcgvm.wiki^
 @@||krpp.me^
 @@||kryvon.live^
 @@||kslnk.com^
@@ -5151,7 +5148,6 @@
 @@||kutt.in^
 @@||kutt.inarix.com^
 @@||kutt.isesaki.in^
-@@||kutt.it^
 @@||kutt.itarian.com^
 @@||kutt.mariodian.com^
 @@||kutt.this.team^
@@ -5168,12 +5164,10 @@
 @@||kwurl.com^
 @@||kwx.fyi^
 @@||kxb.me^
-@@||ky77.link^
 @@||kyaa.info^
 @@||kyb101.link^
 @@||kyk.it^
 @@||kylynk.com^
-@@||kyshort.xyz^
 @@||l-i-nk.me^
 @@||l-ink.me^
 @@||l-k.be^

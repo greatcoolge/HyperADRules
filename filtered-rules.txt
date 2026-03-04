@@ -10240,7 +10240,6 @@ ishort.in
 ishortie.com
 ishortify.com
 ishortn.ink
-ishorturl.com
 ishorturl.net
 isinstance.com
 islam.qa
@@ -10695,7 +10694,6 @@ keyboard.naver.com
 keycdn.com
 keyfile.kaspersky.com
 keyli.me
-keyshrink.com
 keystone.mwbsys.com
 keystone.mwbsys.com 
 keyvalueservice.fe.apple-dns.net
@@ -10881,7 +10879,6 @@ kristal777.us
 kro.kr
 kroger.com
 krohne.link
-krpcgvm.wiki
 krping.igamecj.com
 krpp.me
 kryvon.live
@@ -10948,12 +10945,10 @@ kwurl.com
 kwx.fyi
 kxb.me
 kxcdn.com
-ky77.link
 kyaa.info
 kyb101.link
 kyk.it
 kylynk.com
-kyshort.xyz
 l-i-nk.me
 l-ink.me
 l-k.be
