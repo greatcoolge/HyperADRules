@@ -11257,7 +11257,6 @@
 @@||lightroom.adobe.com^
 @@||lign.it^
 @@||lih.kg^
-@@||lihat.bio^
 @@||lihat.info^
 @@||lihi.biz^
 @@||lihi.cc^
@@ -11294,7 +11293,6 @@
 @@||lilnk.to^
 @@||lilo.org^
 @@||lilurl.run^
-@@||lilyfreeonlyfans.live^
 @@||limestart.cn^
 @@||limetorrents.info^
 @@||limited-prod.giphy.map.fastly.net^
@@ -11492,7 +11490,6 @@
 @@||linkconnector.com^
 @@||linkcrafter.com^
 @@||linkcrypter.com^
-@@||linkcut.net^
 @@||linkcut.tr^
 @@||linkcutt.com^
 @@||linkd.in^
@@ -11689,7 +11686,6 @@
 @@||linksehat.net^
 @@||linksfire.net^
 @@||linksflow.bio^
-@@||linksfly.net^
 @@||linkshaft.com^
 @@||linkshare.pro^
 @@||linksharing.app^
@@ -11729,7 +11725,6 @@
 @@||linksqueeze.io^
 @@||linksredirect.com^
 @@||linksshift.com^
-@@||linksshortcut.com^
 @@||linksshortener.com^
 @@||linkstack.co^
 @@||linkste.com^
@@ -11901,7 +11896,6 @@
 @@||lk1.uk^
 @@||lkbx.in^
 @@||lkdg.yoga^
-@@||lkgw.cc^
 @@||lkit.me^
 @@||lksfy.com^
 @@||ll.fosscu.org^
@@ -12737,7 +12731,6 @@
 @@||mby.me^
 @@||mc-siderail.spot.im^
 @@||mc.163.com^
-@@||mc1.ir^
 @@||mcaf.ee^
 @@||mcafee.com^
 @@||mcafee.ly^
@@ -13059,7 +13052,6 @@
 @@||miniurl.be^
 @@||miniurl.com^
 @@||miniurl.dayanandgawade.in^
-@@||miniurl.ir^
 @@||miniurl.top^
 @@||minixperiment.twitch.tv^
 @@||minl.in^
@@ -13634,7 +13626,6 @@
 @@||musiciansfriend.com^
 @@||musicliberatesmusic.soundcloud.com^
 @@||mut.lu^
-@@||mute-fill-mood.life^
 @@||mute.bradconte.com^
 @@||muth.io^
 @@||mutual-office.com^
@@ -13816,12 +13807,10 @@
 @@||n28.it^
 @@||n2l.me^
 @@||n2s.us^
-@@||n3y.ir^
 @@||n6.net^
 @@||n66d.com^
 @@||n7i.cn^
 @@||n9.cl^
-@@||n99.io^
 @@||n9x.co^
 @@||na1.documents.adobe.com^
 @@||na1.p2.documentsawsperf.adobe.com^
@@ -14164,7 +14153,6 @@
 @@||no.wikipedia.com^
 @@||no404.de^
 @@||noaa.gov^
-@@||nobitaxx.live^
 @@||nobook.com^
 @@||nocache.support.sonymobile.com^
 @@||nocbic.com^
@@ -14472,7 +14460,6 @@
 @@||officedepot.com^
 @@||officehomeblobs.blob.core.windows.net^
 @@||official-blog.line.me^
-@@||offlink.us^
 @@||offs.ec^
 @@||oft.ovh^
 @@||ofx.ph^
@@ -14499,7 +14486,6 @@
 @@||ok.link^
 @@||ok.ru^
 @@||ok.tc^
-@@||ok.tn^
 @@||ok2.com^
 @@||okdc.me^
 @@||oke.io^
@@ -14942,7 +14928,6 @@
 @@||page1healthcare.link^
 @@||pagead2.googlesyndication.com^
 @@||pagefair.com^
-@@||pagemelon.com^
 @@||pages.ebay.com^
 @@||pages.em.funimation.com^
 @@||pages.engage.xbox.com^
@@ -15684,7 +15669,6 @@
 @@||projectxv2-hyperlink.vercel.app^
 @@||projycto.com^
 @@||prolink168.com^
-@@||prolinks.me^
 @@||prologue.blog.naver.com^
 @@||promo.kaspersky.com^
 @@||promo.mi.com^
@@ -15770,7 +15754,6 @@
 @@||pt_br.statcounter.com^
 @@||ptab.it^
 @@||pti.store.microsoft.com^
-@@||ptix.co^
 @@||ptlogin.yuewen.com^
 @@||ptlogin2.wechat.com^
 @@||ptm.flowplayer.com^
@@ -15909,7 +15892,6 @@
 @@||qdfepccdn.qidian.com^
 @@||qdl.pw^
 @@||qdls.io^
-@@||qeichy.ir^
 @@||qevime.com^
 @@||qflm.net^
 @@||qhres2.com^
@@ -16013,7 +15995,6 @@
 @@||qrgenerator.org^
 @@||qrily.com^
 @@||qrisni.me^
-@@||qrkard.it^
 @@||qrkiss.com^
 @@||qrklik.com^
 @@||qrley.com^
@@ -16045,7 +16026,6 @@
 @@||qrurl.us^
 @@||qrx.im^
 @@||qry.kr^
-@@||qrybaan.com^
 @@||qs.rams-app.com^
 @@||qs1.it^
 @@||qsl.pw^
