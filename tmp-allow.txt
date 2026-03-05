@@ -5790,6 +5790,7 @@
 @@||linksumo.com^
 @@||linksvid.com^
 @@||linksvip.one^
+@@||linkswave.net^
 @@||linkt.ink^
 @@||linktest.lse.ac.uk^
 @@||linktexas.info^
@@ -6922,6 +6923,7 @@
 @@||myshopurl.com^
 @@||myshortlink.info^
 @@||myshortlink.net^
+@@||myshorturl.cc^
 @@||myshorturl.link^
 @@||myshorturls.com^
 @@||myshrinker.com^
@@ -8281,7 +8283,6 @@
 @@||rebrand.ly^
 @@||rebrand.pw^
 @@||rebrandly.com^
-@@||rebrandly.pro^
 @@||rebrandlydomain.com^
 @@||rec-law.us^
 @@||receive-us.solar-engine.io^
@@ -8297,9 +8298,6 @@
 @@||red1.com.br^
 @@||redaz.in^
 @@||redditlink.org^
-@@||redditp2pcredit.life^
-@@||redditsp2pcredit.life^
-@@||redditsp2pcredit.live^
 @@||redilify.com^
 @@||redir.ec^
 @@||redir.fr^
@@ -8749,7 +8747,6 @@
 @@||savelnk.com^
 @@||savetext.us^
 @@||savetub.com^
-@@||savg.in^
 @@||savmrl.it^
 @@||savyour.app^
 @@||say.it^
@@ -8994,7 +8991,6 @@
 @@||sho.ae^
 @@||sho.cat^
 @@||sho.pe^
-@@||sho.sn^
 @@||shoco.one^
 @@||shoort.ch^
 @@||shoort.io^
@@ -9024,7 +9020,6 @@
 @@||short-ly.co^
 @@||short-me.me^
 @@||short-url.co^
-@@||short-url.dk^
 @@||short-url.link^
 @@||short-url.org^
 @@||short-url.run^
@@ -9153,21 +9148,18 @@
 @@||shorterin.com^
 @@||shorterit.com^
 @@||shorterlink.app^
-@@||shorterly.net^
 @@||shorterurl.net^
 @@||shortest.link^
 @@||shortey.net^
 @@||shortezy.com^
 @@||shortfake.com^
 @@||shortfree.link^
-@@||shortfy.pro^
 @@||shortgo.me^
 @@||shorti.me^
 @@||shorti.uk^
 @@||shortico.in^
 @@||shortie.io^
 @@||shortify.pro^
-@@||shortifyapi.com^
 @@||shortifylinks.com^
 @@||shortifyme.com^
 @@||shortin.asia^
@@ -9439,7 +9431,6 @@
 @@||sic.onl^
 @@||sicax.net^
 @@||sicepat.link^
-@@||sidework-click.info^
 @@||sidji.link^
 @@||sie.ag^
 @@||sieduc.digital^
@@ -9533,7 +9524,6 @@
 @@||sky.si^
 @@||skyclad.me^
 @@||skye.to^
-@@||skysss.uk^
 @@||skyurl.cc^
 @@||sl.duyluandethuong.id.vn^
 @@||sl0.us^
@@ -9697,7 +9687,6 @@
 @@||so.arte^
 @@||so.douyin.com^
 @@||so0o.cn^
-@@||soberv.com^
 @@||soc.cr^
 @@||soch.us^
 @@||social.ora.cl^
@@ -9747,7 +9736,6 @@
 @@||spdurl.com^
 @@||spectre.work^
 @@||spedr.com^
-@@||speedyshort.com^
 @@||spgo.io^
 @@||spgrp.sg^
 @@||spicc.io^
@@ -9757,7 +9745,6 @@
 @@||spify.co^
 @@||spigen.co^
 @@||spk.st^
-@@||spkm.co^
 @@||splashurl.com^
 @@||split.to^
 @@||splitterhq.com^
@@ -10386,7 +10373,6 @@
 @@||terabox.in^
 @@||terabox.pw^
 @@||teraboxl.cloud^
-@@||teraboxlinx.com^
 @@||terakki.link^
 @@||terasherelinks.site^
 @@||terashort.com^

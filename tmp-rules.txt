@@ -7564,6 +7564,7 @@
 @@||ot.ag^
 @@||ota-downloads.nvidia.com^
 @@||otag.h2os.com^
+@@||oth.eve.mdt.qq.com^
 @@||otlong.com^
 @@||ott.io.mi.com^
 @@||oturl.com^
@@ -9247,6 +9248,7 @@
 @@||stat.download.xunlei.com^
 @@||stat.moneycontrol.co.in^
 @@||stat.pandora.xiaomi.com^
+@@||stat.y.qq.com^
 @@||stat1.moneycontrol.com^
 @@||stat2.moneycontrol.com^
 @@||stat3.moneycontrol.com^

@@ -11727,6 +11727,7 @@ linksubmit.net
 linksumo.com
 linksvid.com
 linksvip.one
+linkswave.net
 linksynergy.com
 linkt.ink
 linktest.lse.ac.uk
@@ -13757,6 +13758,7 @@ myshopify.com
 myshopurl.com
 myshortlink.info
 myshortlink.net
+myshorturl.cc
 myshorturl.link
 myshorturls.com
 myshrinker.com
@@ -14747,6 +14749,7 @@ ot.ag
 ota-downloads.nvidia.com
 otag.h2os.com
 otgk.ir
+oth.eve.mdt.qq.com
 otlnk.com
 otlong.com
 otolink.pl
@@ -16305,7 +16308,6 @@ rebrand.lol
 rebrand.ly
 rebrand.pw
 rebrandly.com
-rebrandly.pro
 rebrandlydomain.com
 rec-law.us
 rec.voot.com
@@ -16335,9 +16337,6 @@ reddit.app.link
 reddit.com
 redditlink.org
 redditmedia.com
-redditp2pcredit.life
-redditsp2pcredit.life
-redditsp2pcredit.live
 redditstatic.com
 redemptionservices.accesscontrol.windows.net
 redfin.com
@@ -17097,7 +17096,6 @@ savegdrive.com
 savelnk.com
 savetext.us
 savetub.com
-savg.in
 savmrl.it
 savyour.app
 say.it
@@ -17623,7 +17621,6 @@ shmz.me
 sho.ae
 sho.cat
 sho.pe
-sho.sn
 shockwave.com
 shoco.one
 shoes.app-xae.xiaomi.com
@@ -17676,7 +17673,6 @@ short-link.net
 short-ly.co
 short-me.me
 short-url.co
-short-url.dk
 short-url.link
 short-url.org
 short-url.run
@@ -17808,21 +17804,18 @@ shorterflix.com
 shorterin.com
 shorterit.com
 shorterlink.app
-shorterly.net
 shorterurl.net
 shortest.link
 shortey.net
 shortezy.com
 shortfake.com
 shortfree.link
-shortfy.pro
 shortgo.me
 shorti.me
 shorti.uk
 shortico.in
 shortie.io
 shortify.pro
-shortifyapi.com
 shortifylinks.com
 shortifyme.com
 shortin.asia
@@ -18105,7 +18098,6 @@ sic.onl
 sicax.net
 sicepat.link
 sider.ai
-sidework-click.info
 sidji.link
 sie.ag
 sieduc.digital
@@ -18245,7 +18237,6 @@ skyhook.sonarr.tv
 skype.com
 skypeassets.com
 skyrock.com
-skysss.uk
 skyurl.cc
 sl.duyluandethuong.id.vn
 sl.gravatar.com
@@ -18470,7 +18461,6 @@ snzypic.com
 so.arte
 so.douyin.com
 so0o.cn
-soberv.com
 soc.cr
 soch.us
 social-connect.spot.im
@@ -18606,7 +18596,6 @@ spedr.com
 speed4up.com
 speedbit.com
 speedtest.net
-speedyshort.com
 spencersonline.com
 spgo.io
 spgrp.sg
@@ -18621,7 +18610,6 @@ spieletipps.de
 spify.co
 spigen.co
 spk.st
-spkm.co
 splashurl.com
 split.to
 splitterhq.com
@@ -18830,6 +18818,7 @@ stat.10jqka.com.cn
 stat.download.xunlei.com
 stat.moneycontrol.co.in
 stat.pandora.xiaomi.com
+stat.y.qq.com
 stat1.moneycontrol.com
 stat2.moneycontrol.com
 stat3.moneycontrol.com
@@ -19849,7 +19838,6 @@ ter.li
 terabox.in
 terabox.pw
 teraboxl.cloud
-teraboxlinx.com
 terakki.link
 terasherelinks.site
 terashort.com
