@@ -577,6 +577,7 @@
 8u.cz
 8u.pw
 9-aclk.net
+90003cfd.cfd
 900r.ir
 91haoka.cn
 91mobiles.com
@@ -967,6 +968,7 @@ adblockplus.org
 adbly.co
 adcolo.com
 adcr.naver.com
+adcryp.to
 add-l.ink
 add.lat
 add2wallet.link
@@ -1047,6 +1049,7 @@ adollo.com
 ador.com
 adorama.rfvk.net
 adosiz.io
+adosiz.net
 adpanel.com
 adpaylink.com
 adr.ec
@@ -2094,6 +2097,7 @@ ant.design
 antfin.com
 anthos.googleapis.com
 antinawala.team
+antonellapouncedcrewels.com
 anurl.com
 anvil.opentok.com
 anx.io
@@ -2858,6 +2862,7 @@ atpcf.co.uk
 atpz.ir
 atqiv.org
 atres.red
+atropinestatuarylandleaper.com
 att.com
 att.ovh
 attach.mail.daum.net
@@ -5615,6 +5620,7 @@ curl.ro
 curlm.in
 curlmin.com
 curriculumsystem.org
+curryfielddistribution.com
 curt.wiz.co
 curturl.net
 curty.in
@@ -6445,6 +6451,7 @@ dpmd.ai
 dpo.st
 dprox.co
 dps.media
+dpuplet.net
 dpurl.cn
 dqr4.org
 dr-lisa.life
@@ -6945,6 +6952,7 @@ enlac.ee
 enlaces.entrelasgestiones.com
 enlacify.com
 enpass.io
+enraptureminims.com
 enshom.link
 enter.bestbody.com.au
 enter.dcinside.com
@@ -8499,6 +8507,7 @@ golinker.in
 golinkfy.io
 golinks.cloud
 golnk.eu
+golnkz.com
 goly.me
 gomakethings.com
 gomobupps.com
@@ -9214,6 +9223,7 @@ hjsrs.com
 hk.mibi.xiaomi.com
 hk.pool.ntp.org
 hk.ynuf.aliapp.org
+hk6vdj4z.click
 hkconfig.gcloud.qq.com
 hko.nu
 hkping.igamecj.com
@@ -10104,6 +10114,7 @@ intranet.xiaomi.com
 intrescom.org
 intro.limestart.cn
 intro.sentrystrategy.com
+intrudeimpolitetortoise.com
 intuit.com
 intuit.me
 intwitspin.motorcycles
@@ -10364,6 +10375,7 @@ jalopnik.com
 jalurvip.co
 jalurwild.win
 jame.sn
+jameeltips.us
 jamesastaten.live
 jamp.to
 jango.com
@@ -10384,6 +10396,7 @@ javadocs.org
 javdict.disqus.com
 javfinder.ai
 jaw.gg
+jayan-uvl.com
 jaygo.xyz
 jb.gg
 jbhifi.com.au
@@ -13417,6 +13430,7 @@ moments-photos.gotinder.com
 momo.dm
 mon.isnssdk.com
 mondoagram.com
+monetiza.co
 money.yandex.ru
 moneysavingexpert.com
 monghaiba.life
@@ -14763,6 +14777,7 @@ oua.be
 ouedkniss.com
 oui.li
 ouiasso.com
+oundhertobeconsist.org
 ouo.io
 ouo.press
 ouoi.in
@@ -14938,6 +14953,7 @@ pagseguro.uol.com.br
 painthegame.playstation.com
 pairedinparadise.live
 paksa.click
+palpatecricketmajesty.com
 pamethelabel.info
 pan-cdn.exponea.com
 pan.quark.cn
@@ -15512,6 +15528,8 @@ pp.userapi.com
 pp24.nl
 ppa.as
 ppa.launchpad.net
+ppcent.org
+ppcnqq.com
 ppcprotect.com
 ppcsecure.com
 ppcshield.io
@@ -16266,6 +16284,7 @@ rdl.ink
 rdr.gr
 rdr.wargaming.net
 rdr9bzpab.cc.rs6.net
+rdrclk.com
 rdrct.site
 rdre.me
 rds-assets.nvidia.com
@@ -16523,6 +16542,7 @@ reut.rs
 reuters.com
 rev.cm
 revanced.net
+revbid.net
 revdl.com
 revenuecat.com
 revi6m8ab.cc.rs6.net
@@ -16540,6 +16560,7 @@ revrocket.eq-aibridge.com
 rewards.xbox.com
 rewardtk.com
 rexdl.com
+reyeshehadtwobri.com
 rfed.ws
 rfgmzawab.cc.rs6.net
 rfgvnv6ab.cc.rs6.net
@@ -18424,6 +18445,7 @@ sndn.link
 snetroam.mihome.xiaomi.net
 sng.agency
 sngkt.in
+snhjsbs.shop
 sni.ps
 sni.star.xhcdn.com.fpbns.net
 snip.im
@@ -20960,6 +20982,7 @@ ul3.ir
 uldox.com
 ulink.adjust.com
 ulnk.app
+ultimateaderaser.com
 ultra.bo
 ultraiso.net
 ultrashort.me
@@ -21709,6 +21732,7 @@ validator.cloud.vimeo.com
 valimail.actonservice.com
 valuedopinions.co.uk
 valv.im
+vampyrejibmen.com
 vancedshorts.com
 vanderbi.lt
 vanier.co
@@ -22099,6 +22123,7 @@ w.wiki
 w.x.sndcdn.com
 w09.ru
 w0o.de
+w0of-woof.com
 w1.sndcdn.com
 w1p.fr
 w2link.com
@@ -22548,6 +22573,7 @@ worldometers.info
 worldpay.live
 worrysolve.com
 woshipm.com
+wounofoarausooy.net
 wow.doctor
 wow.link
 wowly.co.in
