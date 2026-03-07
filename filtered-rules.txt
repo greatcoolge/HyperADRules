@@ -58,6 +58,7 @@
 0bs.de
 0daydown.com
 0eaf.cardinalcommerce.com
+0i.is
 0ln.eu
 0ln.io
 0o.lv
@@ -446,6 +447,7 @@
 4bio.cc
 4chan.org
 4d2.link
+4e.fi
 4eq.ir
 4etch.com
 4ev.link
