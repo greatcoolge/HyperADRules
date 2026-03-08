@@ -386,6 +386,7 @@
 @@||8-aclk.net^
 @@||8.ly^
 @@||8591.tw^
+@@||888b.pw^
 @@||888df.com^
 @@||88nb.cc^
 @@||88win.link^
@@ -1182,6 +1183,7 @@
 @@||athm.cn^
 @@||atid.me^
 @@||atimaze.com^
+@@||ativo.online^
 @@||atlantisgit.com^
 @@||atlassbx.com^
 @@||atm.tk^
@@ -1384,6 +1386,7 @@
 @@||becakrcg.xyz^
 @@||becsn.net^
 @@||bee-kz.life^
+@@||bee1s.com^
 @@||bee4.biz^
 @@||beeb.us^
 @@||beehiiv.com^
@@ -1522,6 +1525,7 @@
 @@||bit.ignifi.eu^
 @@||bit.ly^
 @@||bit24.live^
+@@||bitb.ee^
 @@||bitded.com^
 @@||bitesli.com^
 @@||bitfy.cc^
@@ -1592,6 +1596,7 @@
 @@||bjli.in^
 @@||bk.gl^
 @@||bkimg.cdn.bcebos.com^
+@@||bkite.com^
 @@||bkjkwg.quest^
 @@||bkssl.bdimg.com^
 @@||bl.ink^
@@ -1737,6 +1742,7 @@
 @@||brilink.me^
 @@||brisktopia.com^
 @@||briurl.com^
+@@||brk.im^
 @@||brk.to^
 @@||brlinks.me^
 @@||brndly.net^
