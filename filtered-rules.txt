@@ -5654,6 +5654,7 @@ cutcaptcha.com
 cutdown.link
 cute.link
 cutearns.com
+cuterurlha.xyz
 cutestat.com
 cuteurl.co
 cuteurl.com
@@ -6100,6 +6101,7 @@ dftp.flowplayer.com
 dfy.is
 dg.k.jd.com
 dgit.com
+dgkad.com
 dgl-cdn.exponea.com
 dglnk.me
 dgms.es
@@ -6208,6 +6210,7 @@ divsly.com
 diwi.io
 diypriceless.com
 djarum88.shop
+djbanshi.net
 dji.com
 djix.com
 djo924.com
@@ -7554,6 +7557,7 @@ flbox.com
 flea.flipboard.com
 flemail.flipboard.com
 flextrig.com
+fli.so
 flic.kr
 flickerlink.com
 flickr.com
@@ -7577,6 +7581,7 @@ florantevaldez.com
 flow.page
 flowcaster.link
 flowcode.com
+flowhits.com
 flowplayer.com
 flowus.cn
 flp.ai
@@ -7589,6 +7594,7 @@ fls-na.amazon.com
 fltr.ai
 fltx.io
 flu.yt
+flubber.pro
 fluffy-blocklist.skcat.tk
 flug.marketing
 flumin.pro
@@ -21991,6 +21997,7 @@ vloggi.com
 vloglo.com
 vlug.link
 vm.gtimg.cn
+vm88.com.co
 vmat.gtimg.com
 vmp-beta.boldchat.com
 vmp-eu.boldchat.com
