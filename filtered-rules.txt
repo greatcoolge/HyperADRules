@@ -10969,6 +10969,7 @@ kutt.isesaki.in
 kutt.it
 kutt.itarian.com
 kutt.mariodian.com
+kutt.schantli.cloud
 kutt.this.team
 kutt.ural-agro.com
 kuttify.com
@@ -15840,6 +15841,7 @@ public-api.wordpress.com
 public-user.spot.im
 public.sandbox.exchange.coinbase.com
 public.sandbox.pro.coinbase.com
+publicearn.online
 publicsuffix.org
 publicurlshortener.vercel.app
 publish-pic-cpu.baidu.com
@@ -16095,6 +16097,7 @@ qt.gtimg.cn
 qti.ai
 qtn.co.il
 qtr.sh
+qty3e.pro
 qu-ax.org
 quainator.com
 qualcomm.com
@@ -16309,6 +16312,7 @@ rc6m7jbbb.cc.rs6.net
 rc6zhpebb.cc.rs6.net
 rch.lt
 rcknr.io
+rckstr.bz
 rcld.io
 rcx.my.id
 rd-client.com
@@ -16482,6 +16486,7 @@ rei.com
 reimageplus.com
 reinachan.com
 reini.link
+reive.site
 rejoicing.com
 rejoindre.app
 rekale.me
@@ -16820,6 +16825,7 @@ rushgiving.com
 rushivili.com
 rusuhkali.xyz
 ruten.com.tw
+rutgon.top
 rutube.ru
 ruvi.me
 rv2.com
@@ -16966,6 +16972,7 @@ s0.ipstatp.com
 s0.meituan.net
 s0.net
 s0.pstatp.com
+s0.world
 s0.wp.com
 s01.mifile.cn
 s01.riotpixels.net
@@ -17898,6 +17905,7 @@ shortit.me
 shortix.io
 shortkit.io
 shortl.info
+shortl.net
 shortlab.bio
 shortlinc.com
 shortlink.ad
@@ -17908,6 +17916,7 @@ shortlink.cz
 shortlink.gr
 shortlink.ibc.dk
 shortlink.is
+shortlink.net
 shortlink.one
 shortlink.sbs
 shortlink.uk
@@ -18014,6 +18023,7 @@ shorturlbot.com
 shorturlhub.com
 shorturlmagic.link
 shorturls.co.uk
+shorturls.me
 shorturls.one
 shorturls.pro
 shorturlss.com
@@ -18083,6 +18093,7 @@ shrinkr.io
 shrinkrl.com
 shrinkster.com
 shrinkuri.com
+shrinkurl.us
 shrinkurlnow.vercel.app
 shrinkurls.vercel.app
 shrinky.pro
@@ -18512,6 +18523,7 @@ snippets.cdn.mozilla.net
 snipr.com
 snipurl.com
 snipurl.dev
+snipurl.me
 snipurl.net
 snipy.co
 snipzr.com
@@ -19542,6 +19554,7 @@ szukaj.wp.pl
 t*.baidu.com
 t*img.yangkeduo.com
 t-bi.link
+t-co.online
 t-info.mail.adobe.com
 t-iny.com
 t-mo.co
@@ -19828,6 +19841,7 @@ tcc.plus
 tcch.ch
 tcdn.qq.com
 tce.alicdn.com
+tckl.party
 tconnx.link
 tcp.pw
 tcr.link
@@ -20104,6 +20118,7 @@ tiklagit.net
 tiktok.com
 tiktokcdn.com
 tiktokv.com
+tiky.cc
 tikybio.com
 tile-service.weather.microsoft.com
 tiles.mapbox.com
@@ -20899,6 +20914,7 @@ txmov2.a.kwimgs.com
 txpl.us
 txt.go.sohu.com
 txtpass.com
+txul.cn
 txwk.10010.com
 txxx.ahcdn.com
 txxx.com
@@ -20906,6 +20922,7 @@ ty.163.com
 ty.gy
 tyasd.com
 tyns.me
+tyny.me
 typeform.com
 typekit.com
 typekit.net
@@ -21194,6 +21211,7 @@ uptostream.com
 upu.samsungelectronics.com
 upyun.online
 upzat.com
+upziq.com
 ur-l.ru
 ur.link
 ur.ly
@@ -21350,6 +21368,7 @@ url8x.com
 urla.ru
 urladda.com
 urlah.com
+urlao.com
 urlaz.com
 urlb.io
 urlb.link
@@ -21395,6 +21414,7 @@ urlforyou.com
 urlfy.pro
 urlgeni.us
 urlgit.com
+urlgl.com
 urlgo.ca
 urlgo.fr
 urlhaus.abuse.ch
@@ -21553,6 +21573,7 @@ urlz.com
 urlz.fr
 urlz.gr
 urlz.li
+urlzen.com
 urlzip.io
 urlzo.org
 urlzones.com
@@ -21801,6 +21822,7 @@ vcardeg.com
 vcgo.to
 vcrypt.net
 vd0.market.xiaomi.com
+vd1.pro
 vd3.bdstatic.com
 vd55.com
 vdio.pro
@@ -22006,6 +22028,7 @@ vivir.pro
 vivo.sx
 vivo.tl
 vivoldi.com
+vix.cx
 vjav.com
 vjav0.ahcdn.com
 vjs.zencdn.net
@@ -22029,6 +22052,7 @@ vloglo.com
 vlug.link
 vm.gtimg.cn
 vm88.com.co
+vm88bet.org
 vmat.gtimg.com
 vmp-beta.boldchat.com
 vmp-eu.boldchat.com
@@ -22393,6 +22417,7 @@ weely.ai
 weeste.llc
 weeurl.eu
 weeurl.in
+weewz.me
 wef.ch
 weflex.net.au
 weheartit.com
@@ -24561,6 +24586,7 @@ yourls.newstargeted.com
 yourls.org
 yourls.ph-freiburg.de
 yourls.pro
+yourls.sci.io
 yourls.website
 yourmovie.co
 youronlinechoices.com
