@@ -594,7 +594,6 @@
 @@||adbaw.com^
 @@||adbl.co^
 @@||adbly.co^
-@@||adcryp.to^
 @@||add-l.ink^
 @@||add.lat^
 @@||add2wallet.link^
@@ -617,7 +616,6 @@
 @@||adlinkfly.mightyscripts.xyz^
 @@||adlinkpay.com^
 @@||adlinksumo.com^
-@@||adlinku.com^
 @@||adlucent.com^
 @@||adlvy.com^
 @@||adlyshort.com^
@@ -1177,7 +1175,6 @@
 @@||ateng.me^
 @@||atglinks.com^
 @@||ath-web.com^
-@@||atharori.net^
 @@||athe.re^
 @@||athena168.vip^
 @@||athm.cn^
@@ -1208,7 +1205,6 @@
 @@||aumtrack.com^
 @@||auni.telecome.cn^
 @@||aur.li^
-@@||aurelus.link^
 @@||aus.md^
 @@||auth-analytics.com^
 @@||auth-analytix.com^
@@ -1271,7 +1267,6 @@
 @@||axo.li^
 @@||axon.vercel.app^
 @@||axoni.us^
-@@||axonn.xyz^
 @@||ay.gy^
 @@||aylink.co^
 @@||ayohajar.info^
@@ -1534,7 +1529,6 @@
 @@||bitily.com.br^
 @@||bitl.app^
 @@||bitl.to^
-@@||bitlee.site^
 @@||bitley.in^
 @@||bitli.li^
 @@||bitli.pro^
@@ -1689,7 +1683,6 @@
 @@||booplink.com^
 @@||boost.ink^
 @@||boostability.co.in^
-@@||bopvu.life^
 @@||bos.ngo^
 @@||bose.life^
 @@||boshoki.biz^
@@ -1739,7 +1732,6 @@
 @@||brightestbeginning.me^
 @@||brightscanr.com^
 @@||brightsci.io^
-@@||brilink.me^
 @@||brisktopia.com^
 @@||briurl.com^
 @@||brk.im^
@@ -1800,7 +1792,6 @@
 @@||bulangiul.net^
 @@||bulink.co^
 @@||bulletinweb.com^
-@@||buly.kr^
 @@||bumpnt.com^
 @@||bung.ie^
 @@||buomto.life^
@@ -1928,7 +1919,6 @@
 @@||cash4share.com^
 @@||cashncut.com^
 @@||cashurl.win^
-@@||casinoaktif.xyz^
 @@||casinurl.io^
 @@||casio.link^
 @@||caslinks.com^
@@ -2876,7 +2866,6 @@
 @@||dmvrenew.com^
 @@||dn303.online^
 @@||dna360.tw^
-@@||dnl.biz.id^
 @@||dnt.st^
 @@||do.co^
 @@||do.my^
@@ -7436,7 +7425,6 @@
 @@||opsp.top^
 @@||opticksprotection.com^
 @@||optimize.ly^
-@@||opusgrid.barberreels.com^
 @@||opzai.com^
 @@||oqp.ru^
 @@||oraclecloud.com^

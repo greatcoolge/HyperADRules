@@ -971,7 +971,6 @@ adblockplus.org
 adbly.co
 adcolo.com
 adcr.naver.com
-adcryp.to
 add-l.ink
 add.lat
 add2wallet.link
@@ -1009,7 +1008,6 @@ adlinkcash.com
 adlinkfly.mightyscripts.xyz
 adlinkpay.com
 adlinksumo.com
-adlinku.com
 adlucent.com
 adlvy.com
 adlyshort.com
@@ -2846,7 +2844,6 @@ ata.ink
 ateng.me
 atglinks.com
 ath-web.com
-atharori.net
 athe.re
 athemes.com
 athena168.vip
@@ -2910,7 +2907,6 @@ augustinus.digital
 aumtrack.com
 auni.telecome.cn
 aur.li
-aurelus.link
 auroracoin.org
 aus.md
 aus5.mozilla.org
@@ -3021,7 +3017,6 @@ axm-servicediscovery.apple.com
 axo.li
 axon.vercel.app
 axoni.us
-axonn.xyz
 axs.com
 ay.gy
 aylink.co
@@ -3477,7 +3472,6 @@ bitily.com.br
 bitit.io
 bitl.app
 bitl.to
-bitlee.site
 bitley.in
 bitli.li
 bitli.pro
@@ -3765,7 +3759,6 @@ boostability.co.in
 bootbarn.com
 bootstrapcdn.com
 bootstrapcdn.jdorfman.netdna-cdn.com
-bopvu.life
 bos.ngo
 bose.life
 boshoki.biz
@@ -3850,7 +3843,6 @@ brightcove.net
 brightestbeginning.me
 brightscanr.com
 brightsci.io
-brilink.me
 brisktopia.com
 briurl.com
 brk.im
@@ -3946,7 +3938,6 @@ bulink.co
 bulksell.ebay.com
 bulletin.plus.google.com
 bulletinweb.com
-buly.kr
 bumpnt.com
 bundles.api.here.com
 bung.ie
@@ -4204,7 +4195,6 @@ casashort.live
 cash4share.com
 cashncut.com
 cashurl.win
-casinoaktif.xyz
 casinurl.io
 casio.link
 caslinks.com
@@ -6293,7 +6283,6 @@ dn.se
 dn303.online
 dna360.tw
 dnaindia.com
-dnl.biz.id
 dns.cloudflare.com
 dns.msftncsi.com
 dns1.funimation.com
@@ -14744,7 +14733,6 @@ optinmonster.com
 options.skype.com
 opus.l.soundcloud.com
 opus.soundcloud.com
-opusgrid.barberreels.com
 opzai.com
 oqp.ru
 or1gtm003.adobe.com
