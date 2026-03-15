@@ -3617,7 +3617,6 @@
 @@||g.asia^
 @@||g.co^
 @@||g.csdnimg.cn^
-@@||g.page^
 @@||g.us.sinaimg.cn^
 @@||g00.me^
 @@||g02.biz^

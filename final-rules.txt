@@ -7927,7 +7927,6 @@
 @@||g.live.com^
 @@||g.mi.com^
 @@||g.msn.com^
-@@||g.page^
 @@||g.static.mega.co.nz^
 @@||g.udimg.com^
 @@||g.us.sinaimg.cn^
