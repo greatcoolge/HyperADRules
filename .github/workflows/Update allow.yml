@@ -39,7 +39,7 @@ jobs:
           git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }} HEAD:master --force
 
       - name: Delete workflow runs 
-        uses: Mattraks/delete-workflow-runs@main
+        uses: act10ns/cleanup@v1
         with:
           token: ${{ secrets.GH_PAT }}
           repository: ${{ github.repository }}
