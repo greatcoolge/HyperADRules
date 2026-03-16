@@ -4541,7 +4541,6 @@
 @@||centre.is^
 @@||centurylinke.com^
 @@||cepat.link^
-@@||cepet.in^
 @@||cert.halo.part.xbox.com^
 @@||cert.mgt.xboxlive.com ^
 @@||cert.mgt.xboxlive.com^
@@ -5421,10 +5420,8 @@
 @@||cpanel.com^
 @@||cpanel.net^
 @@||cpbr.link^
-@@||cpdnet.org^
 @@||cpe.dotomi.com^
 @@||cph.bz^
-@@||cpklik.com^
 @@||cplay.top^
 @@||cplink.co^
 @@||cplink.me^
@@ -5448,7 +5445,6 @@
 @@||cr.ma^
 @@||cr.naver.com^
 @@||cr2.shopping.naver.com^
-@@||cr4ck3d.de^
 @@||cr8.lv^
 @@||crabdance.com^
 @@||crackberry.com^
@@ -5528,7 +5524,6 @@
 @@||crwd.fr^
 @@||crwd.in^
 @@||crwdstr.ke^
-@@||cry-pto.life^
 @@||cryoutcreations.eu^
 @@||crypsante.com^
 @@||cryptolabpro.com^
@@ -5611,7 +5606,6 @@
 @@||cul.ke^
 @@||cultm.ac^
 @@||culy.top^
-@@||cuoinamdiedm.life^
 @@||cup.org^
 @@||cupfox.app^
 @@||cuq.in^
@@ -6002,7 +5996,6 @@
 @@||depedzn.net^
 @@||depot.xda-developers.com^
 @@||des.gbtcdn.com^
-@@||descontosachados.com^
 @@||descuentoahora.com^
 @@||design.www.huffingtonpost.com^
 @@||designcommerce.agency^
@@ -6907,7 +6900,6 @@
 @@||emptyloop.com^
 @@||empukjeru.site^
 @@||ems-delivery.api.playstation.com^
-@@||emu.li^
 @@||emui.huawei.com^
 @@||en.bab.la^
 @@||en.gravatar.com^
@@ -7926,7 +7918,6 @@
 @@||g2a.com^
 @@||g2play.com^
 @@||g3.net^
-@@||g3link.com.br^
 @@||g58.update.netease.com^
 @@||g79.update.netease.com^
 @@||g9.yt^
@@ -8029,7 +8020,6 @@
 @@||gcrs.live^
 @@||gcs.sc-cdn.net^
 @@||gct.dashboard.wedare.pl^
-@@||gdanstum.net^
 @@||gdcsite.cdnsrv.jio.com^
 @@||gdmf-ados.apple.com^
 @@||gdmf.apple.com^
@@ -8545,7 +8535,6 @@
 @@||goodolddownloads.com^
 @@||goodreads.com^
 @@||goodwinlink.com^
-@@||google-photo.live^
 @@||google-url.com^
 @@||google.ac^
 @@||google.ad^
@@ -9145,7 +9134,6 @@
 @@||henslot.urlklik.com^
 @@||hentaihand.com^
 @@||hentaihaven.org^
-@@||heoiberico.life^
 @@||hepsipay.eu^
 @@||her.is^
 @@||herbeauty.co^
@@ -9269,7 +9257,6 @@
 @@||hnsl.mn^
 @@||hnz.li^
 @@||ho.io^
-@@||hoa.to^
 @@||hoakhanh.life^
 @@||hoaminh.live^
 @@||hockeyapp.net^
@@ -9720,7 +9707,6 @@
 @@||il.ign.com^
 @@||ilang.in^
 @@||iligstein.com^
-@@||ilinky.info^
 @@||ilix.in^
 @@||iljmp.com^
 @@||ilk.ir^
@@ -23508,7 +23494,6 @@
 @@||www.huffpost.com^
 @@||www.hulu.com^
 @@||www.hydrax.net^
-@@||www.i-l.me^
 @@||www.i.snap.com^
 @@||www.i1.social.s-msft.com^
 @@||www.ibtimes.co.uk^

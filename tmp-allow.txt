@@ -2018,7 +2018,6 @@
 @@||centre.is^
 @@||centurylinke.com^
 @@||cepat.link^
-@@||cepet.in^
 @@||certifyde.app^
 @@||certs.apple.com^
 @@||cesinthi.com^
@@ -2434,10 +2433,8 @@
 @@||coz.de^
 @@||cp4.cloudflare.com^
 @@||cpbr.link^
-@@||cpdnet.org^
 @@||cpe.dotomi.com^
 @@||cph.bz^
-@@||cpklik.com^
 @@||cplay.top^
 @@||cplink.co^
 @@||cplink.me^
@@ -2454,7 +2451,6 @@
 @@||cqma.info^
 @@||cr-adt.com^
 @@||cr.ma^
-@@||cr4ck3d.de^
 @@||cr8.lv^
 @@||crackm.ag^
 @@||cravin.biz.cutestat.com^
@@ -2488,7 +2484,6 @@
 @@||crwd.fr^
 @@||crwd.in^
 @@||crwdstr.ke^
-@@||cry-pto.life^
 @@||crypsante.com^
 @@||cryptowidgets.site^
 @@||cs.co^
@@ -2539,7 +2534,6 @@
 @@||cul.ke^
 @@||cultm.ac^
 @@||culy.top^
-@@||cuoinamdiedm.life^
 @@||cup.org^
 @@||cuq.in^
 @@||cur.lv^
@@ -2746,7 +2740,6 @@
 @@||dems.me^
 @@||dentalservices.biz^
 @@||depedzn.net^
-@@||descontosachados.com^
 @@||descuentoahora.com^
 @@||designcommerce.agency^
 @@||designrigs.com^
@@ -3183,7 +3176,6 @@
 @@||emojied.net^
 @@||emp.onl^
 @@||empukjeru.site^
-@@||emu.li^
 @@||en.seedbacklink.com^
 @@||en.uptodown.com^
 @@||enbl.tech^
@@ -3610,7 +3602,6 @@
 @@||g00.me^
 @@||g02.biz^
 @@||g22jaya.me^
-@@||g3link.com.br^
 @@||g58.update.netease.com^
 @@||g79.update.netease.com^
 @@||g9.yt^
@@ -3669,7 +3660,6 @@
 @@||gclnk.com^
 @@||gcrs.live^
 @@||gct.dashboard.wedare.pl^
-@@||gdanstum.net^
 @@||gdmf-ados.apple.com^
 @@||gdmf.apple.com^
 @@||gdown.baidu.com^
@@ -4009,7 +3999,6 @@
 @@||goo2url.com^
 @@||goodmoejo.art^
 @@||goodwinlink.com^
-@@||google-photo.live^
 @@||google-url.com^
 @@||googleapis.com^
 @@||googleidmaps.live^
@@ -4219,7 +4208,6 @@
 @@||helvetqr.ch^
 @@||henslot.urlklik.com^
 @@||hentaihand.com^
-@@||heoiberico.life^
 @@||hepsipay.eu^
 @@||her.is^
 @@||hereit.is^
@@ -4299,7 +4287,6 @@
 @@||hnsl.mn^
 @@||hnz.li^
 @@||ho.io^
-@@||hoa.to^
 @@||hoakhanh.life^
 @@||hoaminh.live^
 @@||hocmai.link^
@@ -4532,7 +4519,6 @@
 @@||iky.fr^
 @@||ilang.in^
 @@||iligstein.com^
-@@||ilinky.info^
 @@||ilix.in^
 @@||iljmp.com^
 @@||ilk.ir^
@@ -12303,7 +12289,6 @@
 @@||www.hentai.name^
 @@||www.hisense.com^
 @@||www.hoyoverse.com^
-@@||www.i-l.me^
 @@||www.ijinshan.com^
 @@||www.internetdownloadmanager.com^
 @@||www.ip138.com^
