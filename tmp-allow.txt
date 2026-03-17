@@ -4738,7 +4738,6 @@
 @@||itly.in^
 @@||itm.im^
 @@||itop.qq.com^
-@@||itop.so^
 @@||itp24.com^
 @@||itrk.it^
 @@||its-4-u.com^
@@ -5887,7 +5886,6 @@
 @@||live.kuaishou.com^
 @@||livemu.sc^
 @@||livemybio.com^
-@@||liveparle.com^
 @@||livephoto.us.sinaimg.cn^
 @@||livestre.am^
 @@||lixy.me^
@@ -10186,7 +10184,6 @@
 @@||t.indeed.com^
 @@||t.iotex.me^
 @@||t.lever-analytics.com^
-@@||t.libren.ms^
 @@||t.lt02.net^
 @@||t.ly^
 @@||t.me^

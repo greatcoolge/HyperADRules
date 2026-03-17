@@ -10295,7 +10295,6 @@ itly.in
 itm.im
 itmagazine.ch
 itop.qq.com
-itop.so
 itp24.com
 itpapers.techrepublic.com
 itravel.huawei.com
@@ -11890,7 +11889,6 @@ liveinternet.ru
 livejournal.com
 livemu.sc
 livemybio.com
-liveparle.com
 livepassdl.conviva.com
 livephoto.us.sinaimg.cn
 livere.com
@@ -19556,7 +19554,6 @@ t.im
 t.indeed.com
 t.iotex.me
 t.lever-analytics.com
-t.libren.ms
 t.lt02.net
 t.ly
 t.me
