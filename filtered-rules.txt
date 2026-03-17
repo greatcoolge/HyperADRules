@@ -2136,6 +2136,7 @@ api-01.moengage.com
 api-02.moengage.com
 api-03.moengage.com
 api-04.moengage.com
+api-101.moengage.com
 api-ap1.hubapi.com
 api-auth.soundcloud.com
 api-beta.huawei.com
@@ -4090,6 +4091,7 @@ cache.ip138.com
 cachefly.net
 cackle.me
 cactusskyonline.com
+cadent-match.dotomi.com
 cadill.ac
 caf.ee
 cafe.daum.net
@@ -4189,7 +4191,6 @@ cart.mn
 cart.tmall.com
 cartisbikur.com
 cartm.gearbest.com
-casa.netsons.org
 casale-match.dotomi.com
 casashort.live
 cash4share.com
@@ -12385,7 +12386,6 @@ m.mi.com
 m.mirror.co.uk
 m.msi5.com
 m.msnbc.com
-m.myfc.co
 m.mylife.com
 m.namecheap.com
 m.naver.com
@@ -13265,6 +13265,7 @@ mkto-lon100168.com
 mkto-mlm10010008.com
 mkto-mlm10030009.com
 mkto-nld1010057.com
+mkto-nld1010150.com
 mkto-nld1030007.com
 mkto-nld1040017.com
 mkto-nld1040186.com
@@ -13462,7 +13463,6 @@ monitor.returnpath.net
 monitoring-team.sonymobile.com
 monitoring.googleapis.com
 monly.id
-monopolygodices.xyz
 monster.cat
 monurl.ca
 moo.im
@@ -13722,7 +13722,6 @@ mycortolink.it
 mycrypto.com
 mycts.app
 mycts.info
-mycuttly.com
 mydealz.digidip.net
 myecofactory.it
 myer.com.au
@@ -13986,7 +13985,6 @@ neu1-urlp.secure.skypeassets.com
 neural17.cdnwebcloud.com
 neustar.biz
 nev.lt
-nevox.app
 new.ow.ly
 new.vip.weibo.cn
 new.www.huffingtonpost.com
@@ -14114,7 +14112,6 @@ nimg.ws.126.net
 nimje.org
 nin.link
 nine.plugins.plexapp.com
-nineurl.com
 ninjapath.vercel.app
 ninjaurl.me
 nintendo.com
@@ -15723,7 +15720,6 @@ propub.li
 propublica.org
 pros.is
 pros.si
-prosescepatkilat.link
 proshare.ir
 prothom-alo.com
 prothomalo.com
@@ -19278,6 +19274,7 @@ suite17.emarsys.net
 suite20.emarsys.net
 suite22.emarsys.net
 suite24.emarsys.net
+suite25.emarsys.net
 suite26.emarsys.net
 suite27.emarsys.net
 suite29.emarsys.net
