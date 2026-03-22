@@ -18429,6 +18429,7 @@
 @@||smsng.us^
 @@||smst.ca^
 @@||smsu.io^
+@@||smtp.exacttarget.com^
 @@||smtp.mail.yahoo.com^
 @@||smtp.ospserver.net^
 @@||smtp.vimeo.com^
