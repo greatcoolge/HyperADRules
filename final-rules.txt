@@ -1318,6 +1318,7 @@
 @@||alibaba.com^
 @@||alibuy.live^
 @@||alicdn.com^
+@@||alice-w.com^
 @@||alicedeals.com^
 @@||alie.kr^
 @@||alien-traffic.com^
@@ -8792,6 +8793,7 @@
 @@||gourl.me^
 @@||gourl.onl^
 @@||gourl.us^
+@@||gov.tw^
 @@||gov.uk^
 @@||govdelivery.com^
 @@||govhub.me^
@@ -13175,6 +13177,7 @@
 @@||mkto-ab330197.com^
 @@||mkto-ab340022.com^
 @@||mkto-ab350042.com^
+@@||mkto-ab390033.com^
 @@||mkto-ab390087.com^
 @@||mkto-ab400124.com^
 @@||mkto-ab400143.com^
@@ -13787,6 +13790,7 @@
 @@||myt.ms^
 @@||mytat.me^
 @@||mytbg.life^
+@@||mytci.net^
 @@||mytd.cc^
 @@||mytools.graphic.com.gh^
 @@||mytrib.com^
@@ -24205,6 +24209,7 @@
 @@||x.gd^
 @@||x.kinja-static.com^
 @@||x.nu^
+@@||x.se^
 @@||x0.ifengimg.com^
 @@||x10.mx^
 @@||x10hosting.com^
