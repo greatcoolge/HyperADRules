@@ -4568,6 +4568,7 @@ cfvod.kaltura.com
 cg.163.com
 cga.marketing
 cga.social
+cgatx.com
 cgi.adobe.com
 cgi.connect.qq.com
 cgrp.io
