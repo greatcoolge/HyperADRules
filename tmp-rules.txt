@@ -463,6 +463,7 @@
 @@||ahd.ruten.com.tw^
 @@||ahoo.it^
 @@||ai.ly^
+@@||ai.shouji.360.cn^
 @@||aicdn.com^
 @@||aider-res.meizu.com^
 @@||aillis.line.me^
