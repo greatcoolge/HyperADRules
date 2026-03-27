@@ -1446,6 +1446,7 @@
 @@||biggo.tw^
 @@||bigolink.com^
 @@||bigurl.io^
+@@||bigwinjiliwin63.online^
 @@||biibly.com^
 @@||billion.run^
 @@||biltiy.com^
@@ -5816,6 +5817,8 @@
 @@||linkutama.app^
 @@||linkverified.net^
 @@||linkverkorten.com^
+@@||linkvertise.com^
+@@||linkvertise.net^
 @@||linkvip88.org^
 @@||linkvp.com^
 @@||linkvs.com^
@@ -9789,6 +9792,7 @@
 @@||spr.tn^
 @@||spring-plus.net^
 @@||sprk.it^
+@@||sprkt.io^
 @@||sproutingdiscipleship.com^
 @@||sproutqr.com^
 @@||sprtsnt.ca^
