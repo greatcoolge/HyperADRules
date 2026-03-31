@@ -5105,6 +5105,7 @@
 @@||krazy.la^
 @@||krazylinks.com^
 @@||krdit.be^
+@@||krdtss.com^
 @@||krete.info^
 @@||kristal777.us^
 @@||kro.kr^
@@ -6108,9 +6109,11 @@
 @@||m-s6iau.custobar.com^
 @@||m-sgd5h.custobar.com^
 @@||m-so.custobar.com^
+@@||m-swjb2.custobar.com^
 @@||m-tfe.custobar.com^
 @@||m-tmsif.custobar.com^
 @@||m-va.custobar.com^
+@@||m-zwhsc.custobar.com^
 @@||m.163.com^
 @@||m.17173.com^
 @@||m.360.cn^
