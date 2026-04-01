@@ -52,7 +52,6 @@
 @@||072.sh^
 @@||078.me^
 @@||08url.com^
-@@||0987.win^
 @@||0a.sk^
 @@||0a0.uk^
 @@||0bs.de^
@@ -64,7 +63,6 @@
 @@||0o.lv^
 @@||0oj.cn^
 @@||0p.de^
-@@||0penclick.org^
 @@||0rl.cc^
 @@||0rz.tw^
 @@||0s0.com^
@@ -3949,6 +3947,7 @@
 @@||bung.ie^
 @@||bunnings.com.au^
 @@||buomto.life^
+@@||buoydeparturediscontent.com^
 @@||burl.me^
 @@||burner.bonanza.com^
 @@||burnurl.com^
@@ -13328,6 +13327,7 @@
 @@||mkto-sj360142.com^
 @@||mkto-sj390015.com^
 @@||mkto-sj390079.com^
+@@||mkto-sjg0030.com^
 @@||mkto-sjg0056.com^
 @@||mkto-sjp0267.com^
 @@||mkto-sn060071.com^
@@ -17151,6 +17151,7 @@
 @@||satkurier.pl^
 @@||satterly.neocities.org^
 @@||saucenao.com^
+@@||saudepetrobras.com^
 @@||saut.ca^
 @@||save.thoaimedia.com^
 @@||savegdrive.com^
