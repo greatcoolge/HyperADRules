@@ -3701,7 +3701,6 @@
 @@||boards.ign.com^
 @@||boardsus.playstation.com^
 @@||boc.cn^
-@@||boclinkvip.com^
 @@||boclinkvn.net^
 @@||bofh.us^
 @@||bofo.ly^
@@ -3823,7 +3822,6 @@
 @@||brevly.co^
 @@||brew.qualcomm.com^
 @@||brg.mobi^
-@@||brianrecommends.net^
 @@||bridg.ee^
 @@||bridge.dev^
 @@||bridgetrack.com^
@@ -4973,7 +4971,6 @@
 @@||clipitx.com^
 @@||cliplink.co^
 @@||cliplinkly.com^
-@@||clipme.me^
 @@||clipmy.link^
 @@||clipperlink.com^
 @@||clips-media-assets2.twitch.tv^

@@ -1635,7 +1635,6 @@
 @@||boa.la^
 @@||board.jdownloader.org^
 @@||boc.cn^
-@@||boclinkvip.com^
 @@||boclinkvn.net^
 @@||bofh.us^
 @@||bofo.ly^
@@ -1709,7 +1708,6 @@
 @@||brevix-url-shortener.vercel.app^
 @@||brevly.co^
 @@||brg.mobi^
-@@||brianrecommends.net^
 @@||bridg.ee^
 @@||bridge.dev^
 @@||brief.ly^
@@ -2246,7 +2244,6 @@
 @@||clipitx.com^
 @@||cliplink.co^
 @@||cliplinkly.com^
-@@||clipme.me^
 @@||clipmy.link^
 @@||clipperlink.com^
 @@||clips4sale.com^
