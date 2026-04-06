@@ -5888,7 +5888,6 @@
 @@||dbfuk.org^
 @@||dbl.oisd.nl^
 @@||dbolc.com^
-@@||dbolink.com^
 @@||dbregistration.cuteftp.com^
 @@||dbricks.co^
 @@||dc-e70d1ce32117.chia-anime.tv^
@@ -6147,7 +6146,6 @@
 @@||digitalocean.com^
 @@||digitalsnax.com^
 @@||digitaltrends.com^
-@@||digitize-umfrage.at^
 @@||diigo.com^
 @@||diju.digital^
 @@||dik.si^
@@ -6250,7 +6248,6 @@
 @@||dl2.files.xiaomi.net^
 @@||dl2.soft98.ir^
 @@||dlassets-ssl.xboxlive.com^
-@@||dld.bz^
 @@||dldir.xiaomi.net^
 @@||dldir1.qq.com^
 @@||dldir1v6.qq.com^
@@ -6639,7 +6636,6 @@
 @@||ea1-urlp.secure.skypeassets.com^
 @@||eaash.co^
 @@||eacdn.com^
-@@||eapk.shop^
 @@||earl.sh^
 @@||earn4link.in^
 @@||earn4url.com^
