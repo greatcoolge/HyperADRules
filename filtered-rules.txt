@@ -3940,7 +3940,6 @@ bundles.api.here.com
 bung.ie
 bunnings.com.au
 buomto.life
-buoydeparturediscontent.com
 burl.me
 burner.bonanza.com
 burnurl.com
@@ -7607,7 +7606,6 @@ focus.de
 foe.hn
 fok.nl
 foll.link
-followmy.bio
 folm.org
 folu.me
 fon.gs
@@ -8227,7 +8225,6 @@ gitlab.cn
 gitlab.com
 gitter.im
 giv.red
-give.bio
 gizbot.com
 gizmo.do
 gizmodo.com
@@ -8763,7 +8760,6 @@ gora.golf.rakuten.co.jp
 gorio.page
 goshopurl.com
 goshort.pro
-goshrink.com
 gosign.adobe.com
 gosite.org
 gosm.link
@@ -9384,8 +9380,6 @@ hsforms.net
 hsh.sh
 hsr.hoyoverse.com
 hsrw.info
-hstx.eu
-ht.ly
 htawp.info
 htgb.co
 htgi.ru
@@ -9938,7 +9932,6 @@ imgstock.naver.com
 imgur.com
 imgus.cc
 imlcc.link
-imo-call.shop
 imo.cx
 imop.com
 impala-external-lb-1441126057.us-east-1.elb.amazonaws.com
@@ -18734,6 +18727,11 @@ speed4up.com
 speedbit.com
 speedtest.net
 spencersonline.com
+spf0.exacttarget.com
+spf1.exacttarget.com
+spf2.exacttarget.com
+spf3.exacttarget.com
+spf4.exacttarget.com
 spgo.io
 spgrp.sg
 spicc.io

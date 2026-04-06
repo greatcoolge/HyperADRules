@@ -1791,7 +1791,6 @@
 @@||bumpnt.com^
 @@||bung.ie^
 @@||buomto.life^
-@@||buoydeparturediscontent.com^
 @@||burl.me^
 @@||burnurl.com^
 @@||business.apple.com^
@@ -3503,7 +3502,6 @@
 @@||fnote.it^
 @@||foe.hn^
 @@||foll.link^
-@@||followmy.bio^
 @@||folm.org^
 @@||folu.me^
 @@||fon.gs^
@@ -3778,7 +3776,6 @@
 @@||gitlab.cn^
 @@||gitlab.com^
 @@||giv.red^
-@@||give.bio^
 @@||gizmo.do^
 @@||gj.al^
 @@||gjk.id^
@@ -4019,7 +4016,6 @@
 @@||gorio.page^
 @@||goshopurl.com^
 @@||goshort.pro^
-@@||goshrink.com^
 @@||gosite.org^
 @@||gosm.link^
 @@||gosmart.fit^
@@ -4358,8 +4354,6 @@
 @@||hsh.sh^
 @@||hsr.hoyoverse.com^
 @@||hsrw.info^
-@@||hstx.eu^
-@@||ht.ly^
 @@||htawp.info^
 @@||htgb.co^
 @@||htgi.ru^
@@ -4590,7 +4584,6 @@
 @@||imgsrc.baidu.com^
 @@||imgus.cc^
 @@||imlcc.link^
-@@||imo-call.shop^
 @@||imo.cx^
 @@||impl.us^
 @@||impulseonline.shop^
@@ -9871,6 +9864,11 @@
 @@||spdurl.com^
 @@||spectre.work^
 @@||spedr.com^
+@@||spf0.exacttarget.com^
+@@||spf1.exacttarget.com^
+@@||spf2.exacttarget.com^
+@@||spf3.exacttarget.com^
+@@||spf4.exacttarget.com^
 @@||spgo.io^
 @@||spgrp.sg^
 @@||spicc.io^
