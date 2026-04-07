@@ -2936,6 +2936,7 @@ autistic.training
 autistici.org
 auto-swiat.pl
 auto.daum.net
+autoalarm.com
 autocomplete.kaspersky.com
 autode.sk
 autodiscover.funimation.com
@@ -3940,6 +3941,7 @@ bundles.api.here.com
 bung.ie
 bunnings.com.au
 buomto.life
+buoydeparturediscontent.com
 burl.me
 burner.bonanza.com
 burnurl.com
@@ -4061,6 +4063,7 @@ c2827.dotomi.com
 c2c.fm
 c2d.in
 c2mc.link
+c2z.in
 c3.xmssmc.mws.xiaomi.net
 c3pool.com
 c4u.ovh
@@ -10366,7 +10369,6 @@ jacepayment.airasia.com
 jacesantiago.space
 jackjones.com
 jackson.events
-jaecoomy.com
 jaga.link
 jaglil.com
 jagoan-hosting.online
@@ -10413,7 +10415,6 @@ jdem.cz
 jdev.uk
 jdoqocy.com
 jdownloader.org
-jdp.am
 jeeng.com
 jeetbuzzlinks.com
 jei2iedx-android.mobile-sdk-api.intercom.io
@@ -10426,7 +10427,6 @@ jenkins.playstation.com
 jenkins.xda-developers.com
 jenniferronzo.com
 jepebanget.xyz
-jeruk.link
 jeso.life
 jetzt.bekservice.co.uk
 jetzt.work
@@ -10468,7 +10468,6 @@ jitlinks.therichonline.com
 jitupro.com
 jitupro.org
 jjlco.net
-jjtaylor.link
 jkf.lv
 jks.bio
 jktc.pro
@@ -10518,7 +10517,6 @@ joshbut.llc
 joskale.me
 jotform.com
 joturl.com
-journalunivers.com
 journey.playstation.com
 joy8.bond
 joyoflanguages.online
@@ -10606,7 +10604,6 @@ jurl.io
 just.as
 just2earn.com
 justcut.io
-justearn.link
 justreleased.site
 justshortit.com
 jut.li
@@ -10701,7 +10698,6 @@ kepler.jd.com
 kerang.life
 keraskale.me
 keremozgit.org
-kes.re
 ketli.net
 key.us
 keybase.io
@@ -10926,7 +10922,6 @@ kurv.gr
 kurz.jetzt
 kurzelinks.de
 kuta.ir
-kutlink.com
 kutt.acorninsure.co.uk
 kutt.appinn.com
 kutt.ar-email.com.br
@@ -10959,12 +10954,10 @@ kuyla.me
 kv.ci
 kve.so
 kwebby.com
-kwiklinks.in
 kwurl.com
 kwx.fyi
 kxb.me
 kxcdn.com
-kyaa.info
 kyb101.link
 kyk.it
 kylynk.com
@@ -11140,7 +11133,6 @@ lego.build
 lego.com
 leica.gs
 leihuo.163.com
-leit.link
 leitup.com
 lekale.me
 lelien.de
@@ -11310,7 +11302,6 @@ lilurl.run
 limestart.cn
 limetorrents.info
 limited-prod.giphy.map.fastly.net
-limiteds.live
 limtu.ifmo.ru
 lin-k.ai
 lin-k.cc
@@ -11485,7 +11476,6 @@ linkbio.ch
 linkbio.co
 linkbio.it.com
 linkbio.space
-linkbirdy.com
 linkbite.io
 linkbitty.com
 linkbloomer.com
@@ -11536,7 +11526,6 @@ linkfly.to
 linkfr.ee
 linkfrom.us
 linkful.me
-linkfuly.com
 linkfusion.in
 linkgacor33.info
 linkgacortexas.org
@@ -11561,7 +11550,6 @@ linkinghub.elsevier.com
 linkinto.net
 linkio.it
 linkiq.co
-linkis.co
 linkis.com
 linkis.xyz
 linkit.net
@@ -11600,7 +11588,6 @@ linkku.me
 linkkurzen.de
 linklab.cc
 linklada.com
-linklift.in
 linkloom.link
 linkly-shorten-and-manage-links.vercel.app
 linkly.co
@@ -11649,7 +11636,6 @@ linkpop.com
 linkpop.in
 linkprotbkita.com
 linkprotect.cudasvc.com
-linkpug4d.com
 linkqb.com
 linkqr.io
 linkr.com
@@ -11657,7 +11643,6 @@ linkr.it
 linkr.uk
 linkr.vc
 linkraya.com
-linkrbio.com
 linkrefferal.vip
 linkrex.net
 linkrif.co
@@ -11673,7 +11658,6 @@ links.clearlabs.com
 links.confirmation.soundcloud.com
 links.datalogics.com
 links.duckduckgo.com
-links.ec
 links.em.ign.com
 links.email.crunchbase.com
 links.fivedollarsaas.com
@@ -11729,7 +11713,6 @@ linkshrink.net
 linkshrink.org
 linksi.me
 linksimple.io
-linksimplify.com
 linksite.bio
 linkslave.com
 linkslice.io
@@ -11952,7 +11935,6 @@ ln-s.ru
 ln.run
 ln24.ir
 lndata.com
-lndstk.io
 lner-cdn.exponea.com
 lnfo.uz
 lnk-x.com
@@ -12058,7 +12040,6 @@ login.game.xiaomi.com
 login.hulu.com
 login.live.com
 login.m.taobao.com
-login.maraset.site
 login.marketing.adobe.com
 login.mediaset.it
 login.microsoftonline.com
@@ -12090,7 +12071,6 @@ logitech.com
 logmein-gateway.com
 logmein.com
 logmeinrescue.com
-logn3w.org
 logo.clearbit.com
 logo.tmearn.com
 logout.mi.com
@@ -12178,7 +12158,6 @@ ltd.ac
 ltdhunt.com
 ltkiss.cc
 ltl.bio
-ltnurl.com
 lttr.ai
 lu.api.mega.co.nz
 lua.sh
@@ -12730,7 +12709,6 @@ matei.org
 mathmayr.com
 matlab.mathworks.com
 matmacakiem222.makeup
-matten1.life
 mattes.live
 mattlamadvisory.org
 mattos.design
@@ -12922,7 +12900,6 @@ members.bitcomet.com
 members.medium.com
 memo.naver.com
 memolog.blog.naver.com
-menang.win
 menangbola77.info
 menangjp.pro
 mene.com
@@ -13037,7 +13014,6 @@ microurl.in
 microurl.org
 microurls.io
 midas.gtimg.cn
-midget.pro
 midiavip.com
 miffy.me
 migc.g.mi.com
@@ -13069,7 +13045,6 @@ minergate.com
 mineshaft1.cryptopia.co.nz
 mineurl.top
 minexmr.com
-minfier.com
 mingle.kijiji.ca
 mini-qr.vercel.app
 mini-url.in
@@ -13145,7 +13120,6 @@ mitsha.re
 mitunes.game.xiaomi.com
 miui.com
 miui.net
-miurl.do
 mivfg.com
 mivideo.g.mi.com
 miwifi.com
@@ -13401,7 +13375,6 @@ mms.huffingtonpost.com
 mms.pinduoduo.com
 mmstat.com
 mmtro.com
-mnaw.uk
 mnbef.com
 mnet.samsung.com
 mney.co
@@ -13493,11 +13466,8 @@ monghaibon.live
 monghaihai.life
 monghaimuoi.live
 monghainam.life
-mongmuoiba.life
 mongmuoibay.live
-mongmuoibon.live
 mongmuoichin.life
-mongmuoinam.life
 mongmuoisau.life
 mongmuoitam.live
 monitor.fraudblocker.com
@@ -13584,7 +13554,6 @@ mr.da.netease.com
 mrfye.org
 mrjj.uk
 mrlink.in
-mrsaeed.com
 mrshelby.in
 mrte.ch
 mrthumb.nabstudio.com
@@ -13634,7 +13603,6 @@ mssg.me
 mst.site
 mstcvk.com
 mstr.cl
-mstry.app
 mstuff.net
 msw.digital
 msync-im1-vip6-std.easemob.com
@@ -13753,7 +13721,6 @@ myaz.tech
 mybanktracker.com
 mybbc.files.bbci.co.uk
 mybio.bio
-mybiopage.net
 mybiotree.com
 mybiourl.com
 mybiz.cc
@@ -14404,7 +14371,6 @@ nxpay.dutchbanglabank.com
 nxsg.us
 nxss.link
 nxturl.com
-nxtz.cloud
 nxy.in
 ny.com
 ny1.com
@@ -14541,7 +14507,6 @@ ogs.google.com
 oh.pn
 ohmy.link
 ohstitans.org
-ohuowd.com
 oidc.techcrunch.com
 oii.io
 oikit.link
@@ -14669,9 +14634,7 @@ online.adservicemedia.dk
 online.digital-advisor.com
 onlinevideoconverter.com
 only.li
-onlyads.space
 onlybiolinks.com
-onlyfansclub.live
 onmeto.net
 onmpeg.com
 onn.to
@@ -21898,6 +21861,7 @@ vast.link
 vats.im
 vaudit.com
 vaultmedia.ign.com
+vbegn.com
 vbg-spezial.de
 vbly.us
 vbt.ai
