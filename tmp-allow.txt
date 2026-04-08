@@ -1792,7 +1792,6 @@
 @@||bumpnt.com^
 @@||bung.ie^
 @@||buomto.life^
-@@||buoydeparturediscontent.com^
 @@||burl.me^
 @@||burnurl.com^
 @@||business.apple.com^
@@ -3936,7 +3935,6 @@
 @@||go.vhost.vn^
 @@||go.vic.gov.au^
 @@||go.vimar.ie^
-@@||go.vonix.id^
 @@||go.weesify.com^
 @@||go.weplayholding.com^
 @@||go.westco.mobi^
@@ -6694,6 +6692,7 @@
 @@||mkto-sj360142.com^
 @@||mkto-sj390015.com^
 @@||mkto-sj390079.com^
+@@||mkto-sj410004.com^
 @@||mkto-sjg0030.com^
 @@||mkto-sjg0056.com^
 @@||mkto-sjp0267.com^
@@ -7923,7 +7922,6 @@
 @@||proof.click^
 @@||proofstuff.com^
 @@||propelbon.com^
-@@||proposal.talecraft.io^
 @@||propub.li^
 @@||pros.is^
 @@||pros.si^
@@ -8559,6 +8557,7 @@
 @@||rounash.com^
 @@||routecontent.com^
 @@||rows.com^
+@@||rozetka-cdn.exponea.com^
 @@||rozhl.as^
 @@||rpd.ink^
 @@||rpf.io^
@@ -9882,7 +9881,6 @@
 @@||srtn.us^
 @@||srtnr.co^
 @@||srturl.xyz^
-@@||sruuuqg.bond^
 @@||srv.cc^
 @@||srv.sec.miui.com^
 @@||srvto.com^
@@ -10036,7 +10034,6 @@
 @@||sub2go.net^
 @@||sub2unlock.me^
 @@||sub2unlock.net^
-@@||subhlinks.com^
 @@||subxresults.com^
 @@||suconfig.apple.com^
 @@||sugar.zhihu.com^
@@ -10401,12 +10398,10 @@
 @@||target.microsoft.com^
 @@||targeterpro.com^
 @@||taskofdeity.netlify.app^
-@@||tatt.at^
 @@||tau.lu^
 @@||tautan.click^
 @@||tautin.id^
 @@||tawk.link^
-@@||tawon4d.pro^
 @@||taxace.net^
 @@||taxspeaker.tax^
 @@||tb.cn.hn^
@@ -10462,7 +10457,6 @@
 @@||temu.to^
 @@||ter.li^
 @@||terabox.in^
-@@||terabox.pw^
 @@||teraboxl.cloud^
 @@||terakki.link^
 @@||terasherelinks.site^
@@ -10649,7 +10643,6 @@
 @@||tinyfy.me^
 @@||tinygo.co^
 @@||tinygo.net^
-@@||tinyi.sh^
 @@||tinyl.co^
 @@||tinyl.ink^
 @@||tinyl.io^
@@ -10664,7 +10657,6 @@
 @@||tinylinkr.com^
 @@||tinylinkurl.com^
 @@||tinylinkurl.net^
-@@||tinyrl.link^
 @@||tinyshortener.com^
 @@||tinyshorturl.com^
 @@||tinysrc.me^
@@ -10690,7 +10682,6 @@
 @@||tinyvid.io^
 @@||tinyvnn.com^
 @@||tinywebz.com^
-@@||tinyy.link^
 @@||tinyy.me^
 @@||tinyy.xyz^
 @@||tipeos.com^
@@ -10782,7 +10773,6 @@
 @@||to8.cc^
 @@||toclick.link^
 @@||tog.li^
-@@||togel123amp.xyz^
 @@||tohle.de^
 @@||toi.in^
 @@||tokalin.com^
@@ -10802,7 +10792,6 @@
 @@||toolboxdaily.com^
 @@||toolify.link^
 @@||toolking.net^
-@@||toolkingo.com^
 @@||toolong.info^
 @@||tools.slipstick.com^
 @@||tools.y99.in^
@@ -11277,7 +11266,6 @@
 @@||ulnk.app^
 @@||ultimateaderaser.com^
 @@||ultra.bo^
-@@||ultrashort.me^
 @@||ulvis.net^
 @@||umapa.pl^
 @@||umbe.io^
@@ -11317,11 +11305,9 @@
 @@||unpixly.com^
 @@||unpkg.zhimg.com^
 @@||uns.apsis.one^
-@@||unshort.site^
 @@||unsololink.com^
 @@||unsubscribe.prod.leanplum.com^
 @@||unsw.to^
-@@||unt.li^
 @@||untiny.me^
 @@||untitledone.io^
 @@||unyku.id^
@@ -11479,7 +11465,6 @@
 @@||url2a.site^
 @@||url2go.pro^
 @@||url2s.com^
-@@||url302x.icu^
 @@||url302x.top^
 @@||url36x.com^
 @@||url37x.com^
@@ -11609,7 +11594,6 @@
 @@||urlq.com^
 @@||urlr.me^
 @@||urlra.com^
-@@||urlroot.com^
 @@||urlroxx.com^
 @@||urlrw.com^
 @@||urls-short.de^
@@ -11644,7 +11628,6 @@
 @@||urlshortener-neon-mu.vercel.app^
 @@||urlshortener.at^
 @@||urlshortener.babayev.us^
-@@||urlshortener.best^
 @@||urlshortener.biz^
 @@||urlshortener.bnpparibas^
 @@||urlshortener.co.uk^
@@ -11652,14 +11635,12 @@
 @@||urlshortener.pro^
 @@||urlshortener.site^
 @@||urlshortenerapi.com^
-@@||urlshortenerking.com^
 @@||urlshortenerr.live^
 @@||urlshortenertool.com^
 @@||urlshortenervip.com^
 @@||urlshortenerx.com^
 @@||urlshortening.webalias.com^
 @@||urlshortly.com^
-@@||urlshortner.at^
 @@||urlshortner.org^
 @@||urlshortnerpassive.com^
 @@||urlshortx.com^
@@ -11716,7 +11697,6 @@
 @@||urlzip.io^
 @@||urlzly.com^
 @@||urlzo.org^
-@@||urlzones.com^
 @@||urlzs.com^
 @@||urstoron.com^
 @@||urswebzj.nosdn.127.net^
@@ -11724,7 +11704,6 @@
 @@||urwebs.it^
 @@||us-serve.nrich.ai^
 @@||us.bestbrains.com^
-@@||us.sa^
 @@||usanet.tv^
 @@||usat.ly^
 @@||use.my^
@@ -11903,7 +11882,6 @@
 @@||vigit.me^
 @@||viindoo.com^
 @@||vijijay.com^
-@@||vikcap.com^
 @@||vilpower.in^
 @@||vim.li^
 @@||vindicoce.com^
@@ -12048,7 +12026,6 @@
 @@||wa.sv^
 @@||waa.ai^
 @@||waad.co^
-@@||wafflebook.io^
 @@||wahoowa.net^
 @@||wakgengs.pro^
 @@||wal.ee^
@@ -12150,7 +12127,6 @@
 @@||welo.cg^
 @@||wenk.io^
 @@||wes.la^
-@@||wesal.ps^
 @@||wetrack.online^
 @@||weworkers.io^
 @@||wez.info^
@@ -12236,7 +12212,6 @@
 @@||world.qpic.cn^
 @@||worldpay.live^
 @@||worrysolve.com^
-@@||wounofoarausooy.net^
 @@||wow.doctor^
 @@||wow.link^
 @@||wowly.co.in^
@@ -12257,7 +12232,6 @@
 @@||wq.lt^
 @@||wqclfb.top^
 @@||wqfabu.top^
-@@||wqiseo.com^
 @@||wraply.io^
 @@||wrc1.link.cutestat.com^
 @@||wrctr.co^
