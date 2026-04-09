@@ -196,6 +196,7 @@
 @@||2tf.net^
 @@||2tiny.in^
 @@||2to.info^
+@@||2ty.in^
 @@||2u.gg^
 @@||2u.lc^
 @@||2u.pw^
@@ -326,6 +327,7 @@
 @@||5or.cc^
 @@||5qzr.com^
 @@||5rwv.info^
+@@||5url.net^
 @@||5v-v.com^
 @@||5w.fit^
 @@||5z8.info^
@@ -357,6 +359,7 @@
 @@||777ch.livepartners.com^
 @@||777es.livepartners.com^
 @@||777nl.livepartners.com^
+@@||777online.life^
 @@||7a.ink^
 @@||7c34.com^
 @@||7eer.net^
@@ -434,6 +437,7 @@
 @@||a0.fr^
 @@||a1.adform.net^
 @@||a1.qpic.cn^
+@@||a11ypm.com^
 @@||a1ertavoice.org^
 @@||a2a.me^
 @@||a2z.tools^
@@ -594,6 +598,7 @@
 @@||adesp.link^
 @@||adesta.cc^
 @@||adf.ly^
+@@||adfa.st^
 @@||adfly.be^
 @@||adfly.cc^
 @@||adflydsp.com^
@@ -800,6 +805,7 @@
 @@||akunnp.com^
 @@||akunss.com^
 @@||akunsu.com^
+@@||akunvip.top^
 @@||akunvip.win^
 @@||akunwso.gratis^
 @@||al.st^
@@ -1088,6 +1094,7 @@
 @@||apps.game.qq.com^
 @@||appscross.com^
 @@||appsec-mobile.meituan.com^
+@@||appsfly.co^
 @@||appsko.ca^
 @@||appurl.io^
 @@||appw.me^
@@ -1231,6 +1238,7 @@
 @@||avhop.net^
 @@||avit.link^
 @@||avitlink.com^
+@@||avjosa.com^
 @@||avl.mx^
 @@||avlne.ws^
 @@||avlr.co^
@@ -1313,6 +1321,7 @@
 @@||bacn.me^
 @@||bad.news^
 @@||bagi.link^
+@@||bagneed.com^
 @@||baid.us^
 @@||baidam.services^
 @@||baidu-ide.bj.bcebos.com^
@@ -1492,6 +1501,7 @@
 @@||biolinksplus.com^
 @@||biolinky.co^
 @@||biolnk.in^
+@@||biolook.net^
 @@||biopagina.com^
 @@||bioprofile.link^
 @@||bioqr.me^
@@ -1523,6 +1533,7 @@
 @@||bitily.com.br^
 @@||bitl.app^
 @@||bitl.to^
+@@||bitlee.site^
 @@||bitley.in^
 @@||bitli.li^
 @@||bitli.pro^
@@ -1644,6 +1655,7 @@
 @@||bo.st^
 @@||boa.la^
 @@||board.jdownloader.org^
+@@||boarfishesquandangsunderdried.com^
 @@||boc.cn^
 @@||boclinkvn.net^
 @@||bofh.us^
@@ -1690,6 +1702,7 @@
 @@||boudoirads.cc^
 @@||bovi.app^
 @@||boybu.com^
+@@||bp-gc.in^
 @@||bp.cool^
 @@||bpapi.apple.com^
 @@||bpjames.com^
@@ -1708,6 +1721,7 @@
 @@||bravo.ly^
 @@||bravos.life^
 @@||brcloud.me^
+@@||bre.is^
 @@||breaknewz.com^
 @@||brendan.fyi^
 @@||breu.cpnl.cat^
@@ -1729,6 +1743,7 @@
 @@||brightestbeginning.me^
 @@||brightscanr.com^
 @@||brightsci.io^
+@@||brilink.me^
 @@||brisktopia.com^
 @@||briurl.com^
 @@||brk.im^
@@ -1789,9 +1804,11 @@
 @@||bulangiul.net^
 @@||bulink.co^
 @@||bulletinweb.com^
+@@||buly.kr^
 @@||bumpnt.com^
 @@||bung.ie^
 @@||buomto.life^
+@@||buoydeparturediscontent.com^
 @@||burl.me^
 @@||burnurl.com^
 @@||business.apple.com^
@@ -2283,6 +2300,7 @@
 @@||clk.omgt3.com^
 @@||clk.sh^
 @@||clk.simulation-technology.com^
+@@||clk.vc^
 @@||clk.wargaming.net^
 @@||clkd.io^
 @@||clkdms.com^
@@ -6582,6 +6600,7 @@
 @@||mkto-ab560068.com^
 @@||mkto-ab560119.com^
 @@||mkto-ab560136.com^
+@@||mkto-ab560171.com^
 @@||mkto-ab570110.com^
 @@||mkto-ab570128.com^
 @@||mkto-ab580004.com^
@@ -8012,6 +8031,7 @@
 @@||q.gs^
 @@||q8at.link^
 @@||qain.si^
+@@||qartvb.com^
 @@||qb.dk^
 @@||qb9.in^
 @@||qbn.ru^
@@ -11452,7 +11472,6 @@
 @@||url.webof.xyz^
 @@||url.xcode.no^
 @@||url.yousufraissi.xyz^
-@@||url.zaptian.com^
 @@||url.zeus27.com^
 @@||url11xx.com^
 @@||url127x.com^
@@ -12628,7 +12647,6 @@
 @@||youdata.163.com^
 @@||youlink.to^
 @@||youlinks.com.au^
-@@||youlinks.org^
 @@||youneedthis.link^
 @@||young.duba.net^
 @@||your.ls^
@@ -12743,7 +12761,6 @@
 @@||zimy.pw^
 @@||zinlly.pro^
 @@||zip.net^
-@@||zip.pe^
 @@||zip1.io^
 @@||zipbio.co^
 @@||ziphly.com^

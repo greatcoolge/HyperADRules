@@ -323,6 +323,7 @@
 2tf.net
 2tiny.in
 2to.info
+2ty.in
 2u.gg
 2u.lc
 2u.pw
@@ -495,6 +496,7 @@
 5or.cc
 5qzr.com
 5rwv.info
+5url.net
 5v-v.com
 5w.fit
 5z8.info
@@ -533,6 +535,7 @@
 777ch.livepartners.com
 777es.livepartners.com
 777nl.livepartners.com
+777online.life
 79423.analytics.edgesuite.net
 7a.ink
 7c34.com
@@ -669,6 +672,7 @@ a1.qpic.cn
 a1.sndcdn.com
 a1.soundcloud.com
 a1014.g.akamai.net
+a11ypm.com
 a1ertavoice.org
 a2a.me
 a2z.tools
@@ -978,6 +982,7 @@ adedownload.adobe.com
 adesp.link
 adesta.cc
 adf.ly
+adfa.st
 adfinis-sygroup.ch
 adfly.be
 adfly.cc
@@ -1282,6 +1287,7 @@ akunklik.com
 akunnp.com
 akunss.com
 akunsu.com
+akunvip.top
 akunvip.win
 akunwso.gratis
 al.st
@@ -2636,6 +2642,7 @@ appsbackup-pa.googleapis.com
 appscross.com
 appsdock-sdk-cdn.s3.amazonaws.com
 appsec-mobile.meituan.com
+appsfly.co
 appsgames.entrance.sonymobile.com
 appsko.ca
 appspot-preview.l.google.com
@@ -2972,6 +2979,7 @@ avgle.com
 avhop.net
 avit.link
 avitlink.com
+avjosa.com
 avl.mx
 avlne.ws
 avlr.co
@@ -3101,6 +3109,7 @@ badges.twitch.tv
 badoo.com
 bagas31.info
 bagi.link
+bagneed.com
 baid.us
 baidam.services
 baidu-ide.bj.bcebos.com
@@ -3425,6 +3434,7 @@ biolinks.stralite.com
 biolinksplus.com
 biolinky.co
 biolnk.in
+biolook.net
 biopagina.com
 bioprofile.link
 bioqr.me
@@ -3467,6 +3477,7 @@ bitily.com.br
 bitit.io
 bitl.app
 bitl.to
+bitlee.site
 bitley.in
 bitli.li
 bitli.pro
@@ -3704,6 +3715,7 @@ boardgamegeek.com
 boards.greenhouse.io
 boards.ign.com
 boardsus.playstation.com
+boarfishesquandangsunderdried.com
 boc.cn
 boclinkvn.net
 bofh.us
@@ -3779,6 +3791,7 @@ boxcryptor.com
 boxer.baidu.com
 boxrec.com
 boybu.com
+bp-gc.in
 bp.blogspot.com
 bp.cool
 bpapi.apple.com
@@ -3812,6 +3825,7 @@ brazil.hide.me
 brazil.kaspersky.com
 brazzers.com
 brcloud.me
+bre.is
 breaknewz.com
 bree-com.mail.protection.outlook.com
 breeze.aimon.applicationinsights.io
@@ -3841,6 +3855,7 @@ brightcove.net
 brightestbeginning.me
 brightscanr.com
 brightsci.io
+brilink.me
 brisktopia.com
 briurl.com
 brk.im
@@ -3936,11 +3951,13 @@ bulink.co
 bulksell.ebay.com
 bulletin.plus.google.com
 bulletinweb.com
+buly.kr
 bumpnt.com
 bundles.api.here.com
 bung.ie
 bunnings.com.au
 buomto.life
+buoydeparturediscontent.com
 burl.me
 burner.bonanza.com
 burnurl.com
@@ -5008,6 +5025,7 @@ clk.mfilter.net
 clk.omgt3.com
 clk.sh
 clk.simulation-technology.com
+clk.vc
 clk.wargaming.net
 clkd.io
 clkdms.com
@@ -13219,6 +13237,7 @@ mkto-ab560009.com
 mkto-ab560068.com
 mkto-ab560119.com
 mkto-ab560136.com
+mkto-ab560171.com
 mkto-ab570110.com
 mkto-ab570128.com
 mkto-ab580004.com
@@ -15919,6 +15938,7 @@ qa-www.funimation.com
 qa.global.fncstatic.com
 qa.sockets.stackexchange.com
 qain.si
+qartvb.com
 qb.dk
 qb9.in
 qbn.ru
@@ -21339,7 +21359,6 @@ url.webifo.com
 url.webof.xyz
 url.xcode.no
 url.yousufraissi.xyz
-url.zaptian.com
 url.zeus27.com
 url11xx.com
 url127x.com
@@ -24584,7 +24603,6 @@ youdata.163.com
 youku.com
 youlink.to
 youlinks.com.au
-youlinks.org
 youneedthis.link
 young.duba.net
 youpin.mi.com
@@ -24774,7 +24792,6 @@ zimuku.la
 zimy.pw
 zinlly.pro
 zip.net
-zip.pe
 zip1.io
 zipbio.co
 ziphly.com
