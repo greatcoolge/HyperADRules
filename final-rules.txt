@@ -7261,6 +7261,7 @@
 @@||f0rk.in^
 @@||f1.g.mi.com^
 @@||f1.media.brightcove.com^
+@@||f1.tf^
 @@||f10.baidu.com^
 @@||f11.baidu.com^
 @@||f12.baidu.com^
@@ -7553,6 +7554,7 @@
 @@||fjr24.com^
 @@||fkp.samsungcloudsolution.com^
 @@||fkp.samsungcloudsolution.net^
+@@||fl-y.com^
 @@||fl8.me^
 @@||flameurl.com^
 @@||flapi.flipboard.com^
@@ -7627,6 +7629,8 @@
 @@||fncstatic.com^
 @@||fndry.ch^
 @@||fneezet.com^
+@@||fnk.es^
+@@||fnleasing.com^
 @@||fnoogy.com^
 @@||fnord.eu^
 @@||fnote.it^
@@ -8045,6 +8049,7 @@
 @@||gcrs.live^
 @@||gcs.sc-cdn.net^
 @@||gct.dashboard.wedare.pl^
+@@||gdanstum.net^
 @@||gdcsite.cdnsrv.jio.com^
 @@||gdmf-ados.apple.com^
 @@||gdmf.apple.com^
@@ -8153,6 +8158,7 @@
 @@||getcode.pw^
 @@||getf.ly^
 @@||gethatch.com^
+@@||geti.in^
 @@||getlasso.co^
 @@||getlickd.com^
 @@||getlink.space^
@@ -8215,6 +8221,7 @@
 @@||gigaom.com^
 @@||gigapurbalingga.net^
 @@||gigaz.in^
+@@||gigbridge.app^
 @@||gigya.com^
 @@||gil.re^
 @@||ginjfo.com^
@@ -8489,6 +8496,7 @@
 @@||go2cloud.org^
 @@||go2ct.pro^
 @@||go2jump.org^
+@@||go2l.ir^
 @@||go2ln.com^
 @@||go2my.info^
 @@||go2sm.com^
@@ -9292,6 +9300,7 @@
 @@||hoken.rakuten.co.jp^
 @@||hoki1dana.site^
 @@||hoki22crot.com^
+@@||hokidana.vip^
 @@||hokie.co^
 @@||hokiku.link^
 @@||hola.org^
@@ -9452,6 +9461,7 @@
 @@||hubt.pornhub.com^
 @@||hubu.ru^
 @@||hud.gov^
+@@||huff.to^
 @@||huffingtonpost.co.uk^
 @@||huffingtonpost.com^
 @@||huffp.st^
@@ -9473,6 +9483,7 @@
 @@||hurirk.net^
 @@||hurl.com^
 @@||hurl.it^
+@@||hurl.me^
 @@||hurl.ws^
 @@||husband92.com^
 @@||hutmat.in^
@@ -13268,6 +13279,7 @@
 @@||mkto-ab690019.com^
 @@||mkto-ab690062.com^
 @@||mkto-abc0038.com^
+@@||mkto-abc0114.com^
 @@||mkto-abc0203.com^
 @@||mkto-abc0241.com^
 @@||mkto-abd0206.com^
@@ -13325,6 +13337,7 @@
 @@||mkto-sj140007.com^
 @@||mkto-sj140163.com^
 @@||mkto-sj150025.com^
+@@||mkto-sj160006.com^
 @@||mkto-sj170094.com^
 @@||mkto-sj180011.com^
 @@||mkto-sj190104.com^
@@ -15861,6 +15874,7 @@
 @@||pubsub.googleapis.com^
 @@||pubsub.plex.bz^
 @@||pubsub.plex.tv^
+@@||puc-cdn.exponea.com^
 @@||puds.ucweb.com^
 @@||puext.in^
 @@||pugetsystems.com^
@@ -17645,6 +17659,7 @@
 @@||shaken.rakuten.co.jp^
 @@||shang.qq.com^
 @@||shar.as^
+@@||shar.i.ng^
 @@||share-online.biz^
 @@||share.adobe.com^
 @@||share.al^
@@ -19346,6 +19361,7 @@
 @@||suite30-cf.emarsys.net^
 @@||suite30.emarsys.net^
 @@||suite32.emarsys.net^
+@@||suite33-cf.emarsys.net^
 @@||suite33.emarsys.net^
 @@||suite34.emarsys.net^
 @@||suite36-cf.emarsys.net^
