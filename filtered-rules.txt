@@ -5184,6 +5184,7 @@ codepushupdates.azureedge.net
 codesandbox.io
 codesector.com
 codesm.com
+codewithcode.com
 codimenu.com
 codly.com
 coe.li
@@ -6109,6 +6110,7 @@ dgl-cdn.exponea.com
 dglnk.me
 dgms.es
 dgo.to
+dgshort.com
 dgt.fm
 dgt77.click
 dhe.one

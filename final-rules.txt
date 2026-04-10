@@ -5190,6 +5190,7 @@
 @@||codesandbox.io^
 @@||codesector.com^
 @@||codesm.com^
+@@||codewithcode.com^
 @@||codimenu.com^
 @@||codly.com^
 @@||coe.li^
@@ -6115,6 +6116,7 @@
 @@||dglnk.me^
 @@||dgms.es^
 @@||dgo.to^
+@@||dgshort.com^
 @@||dgt.fm^
 @@||dgt77.click^
 @@||dhe.one^
