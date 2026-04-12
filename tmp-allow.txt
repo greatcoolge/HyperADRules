@@ -1058,6 +1058,7 @@
 @@||app.shorteneo.com^
 @@||app.smler.in^
 @@||app.tagii.io^
+@@||app.the-pro.info^
 @@||app.tr.adjust.com^
 @@||app.univ-cotedazur.fr^
 @@||app.url180.com^
@@ -9068,6 +9069,7 @@
 @@||sfwx.me^
 @@||sfx.su^
 @@||sg0.co^
+@@||sgq.io^
 @@||sgrtldm.com^
 @@||sgsg.sg^
 @@||sgsu.ru^
@@ -9103,6 +9105,7 @@
 @@||shavel.ink^
 @@||shavelinks.com^
 @@||shct.io^
+@@||shelbyknox.com^
 @@||shenfenzheng.bmcx.com^
 @@||shentharindu.com^
 @@||shero.link^
@@ -9170,6 +9173,7 @@
 @@||short.assleo.icu^
 @@||short.bid^
 @@||short.cc^
+@@||short.cl^
 @@||short.cm^
 @@||short.com.vn^
 @@||short.do^
@@ -9288,6 +9292,7 @@
 @@||shorter.gg^
 @@||shorter.io.vn^
 @@||shorter.me^
+@@||shorterall.com^
 @@||shorterflix.com^
 @@||shorterin.com^
 @@||shorterit.com^
@@ -9386,6 +9391,7 @@
 @@||shortner.app^
 @@||shortner.cc^
 @@||shortner.us^
+@@||shortnermaxi.com^
 @@||shortnerurl.org^
 @@||shortng.com^
 @@||shortntrack.com^
@@ -9413,6 +9419,7 @@
 @@||shortturl.co^
 @@||shortu.be^
 @@||shorturl-frontend-lac.vercel.app^
+@@||shorturl.ac^
 @@||shorturl.asia^
 @@||shorturl.at^
 @@||shorturl.az^
@@ -9440,9 +9447,14 @@
 @@||shorturlbot.com^
 @@||shorturlhub.com^
 @@||shorturlmagic.link^
+@@||shorturls.asia^
+@@||shorturls.click^
 @@||shorturls.co.uk^
+@@||shorturls.fyi^
 @@||shorturls.me^
+@@||shorturls.my^
 @@||shorturls.pro^
+@@||shorturls.us^
 @@||shorturlss.com^
 @@||shorturlx.com^
 @@||shortwave.pro^
@@ -9494,6 +9506,7 @@
 @@||shrinkme.io^
 @@||shrinkme.link^
 @@||shrinkme.org^
+@@||shrinkme.pro^
 @@||shrinkme.site^
 @@||shrinkme.space^
 @@||shrinkme.top^
@@ -9887,6 +9900,7 @@
 @@||spdurl.com^
 @@||spectre.work^
 @@||spedr.com^
+@@||speedyshort.com^
 @@||spf0.exacttarget.com^
 @@||spf1.exacttarget.com^
 @@||spf2.exacttarget.com^
@@ -9901,6 +9915,7 @@
 @@||spify.co^
 @@||spigen.co^
 @@||spk.st^
+@@||spkm.co^
 @@||splashurl.com^
 @@||split.to^
 @@||splitterhq.com^
@@ -10121,6 +10136,7 @@
 @@||suite1.emarsys.net^
 @@||suite10-cf.emarsys.net^
 @@||suite10.emarsys.net^
+@@||suite11-cf.emarsys.net^
 @@||suite11.emarsys.net^
 @@||suite12.emarsys.net^
 @@||suite15.emarsys.net^
@@ -10527,6 +10543,7 @@
 @@||teknut.com^
 @@||tel-u.ac.id^
 @@||telega.io^
+@@||telegramviral.com^
 @@||teleko.me^
 @@||tellurl.com^
 @@||tempfind.app^
@@ -10590,6 +10607,7 @@
 @@||thein.fo^
 @@||thejoekuskie.com^
 @@||thekb.co.uk^
+@@||thekrew.net^
 @@||thekreww.com^
 @@||thelegends.land^
 @@||thelinkmaster.com^
@@ -10746,6 +10764,7 @@
 @@||tinyurl.dev^
 @@||tinyurl.ee^
 @@||tinyurl.hu^
+@@||tinyurl.mobi^
 @@||tinyurl.my^
 @@||tinyurl.rest^
 @@||tinyurl.rocks^
@@ -10896,6 +10915,7 @@
 @@||toto.pe^
 @@||totopecah.site^
 @@||toui.cc^
+@@||touraboutworld.org^
 @@||tourefly.com^
 @@||tourl.in^
 @@||tousu.sina.cn^
@@ -11073,6 +11093,7 @@
 @@||trimrly.com^
 @@||trimrr.link^
 @@||trims.me^
+@@||trimuly.com^
 @@||trimurl.co^
 @@||trimurl.vercel.app^
 @@||trimurls.com^
@@ -11172,6 +11193,7 @@
 @@||ttcclear.io^
 @@||ttco.io^
 @@||ttdt.info^
+@@||ttis.us^
 @@||tto.jp^
 @@||ttoo.top^
 @@||ttr.ir^
@@ -11667,6 +11689,7 @@
 @@||urlo.in^
 @@||urlo12x.com^
 @@||urlpi.com^
+@@||urlplus.net^
 @@||urlpoints.com^
 @@||urlq.com^
 @@||urlr.me^
@@ -11718,6 +11741,7 @@
 @@||urlshortenerx.com^
 @@||urlshortening.webalias.com^
 @@||urlshortly.com^
+@@||urlshortn.com^
 @@||urlshortner.org^
 @@||urlshortnerpassive.com^
 @@||urlshortx.com^
@@ -11741,6 +11765,7 @@
 @@||urltiger.com^
 @@||urltiger.li^
 @@||urltiny.cc^
+@@||urltiny.one^
 @@||urltiny.xyz^
 @@||urlto.me^
 @@||urltools.com^
@@ -11969,6 +11994,7 @@
 @@||vip-gacha99.info^
 @@||vip.superpopdrop.com^
 @@||vip123.biz^
+@@||vipb.io^
 @@||vipcair.click^
 @@||vipjus.click^
 @@||vipp.link^
@@ -12090,6 +12116,7 @@
 @@||w0of-woof.com^
 @@||w1p.fr^
 @@||w2link.com^
+@@||w2u.io^
 @@||w33.li^
 @@||w3dv.com^
 @@||w3n.us^
