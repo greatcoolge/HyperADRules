@@ -2469,6 +2469,7 @@ apis.mail.yahoo.com
 apis.naver.com
 apis.snapchat.com
 apis.vk.vom
+apiservices.krxd.net
 apiwz.midukanshu.com
 apk-packaging.tapimg.com
 apk.v-mate.mobi
@@ -3404,6 +3405,7 @@ bio.mytsi.org
 bio.ovh
 bio.recards.net
 bio.rocketapps.pro
+bio.rub3n.io
 bio.zoluu.co
 bio2b.com.br
 bioandlink.com
@@ -15533,6 +15535,7 @@ point.rakuten.co.jp
 pointcard.rakuten.co.jp
 pointpay.live
 pojonews.co
+pokoknya.top
 polamax.win
 polbb.eu
 policies.live.net
@@ -15618,6 +15621,7 @@ ppcnqq.com
 ppcprotect.com
 ppcsecure.com
 ppcshield.io
+ppfr.it
 pplx.ai
 ppmc.me
 ppq.apple.com
@@ -15769,8 +15773,10 @@ projects.huffingtonpost.com.au
 projects.id
 projectxv2-hyperlink.vercel.app
 projycto.com
+prolink.website
 prolink168.com
 prologue.blog.naver.com
+promo-visits.site
 promo.kaspersky.com
 promo.mi.com
 promo.mobile.de
@@ -16002,6 +16008,7 @@ qflm.net
 qhres2.com
 qi.163.com
 qichacha.com
+qicute.com
 qidian.gtimg.com
 qihucdn.com
 qikli.co
@@ -16167,6 +16174,7 @@ quickchart.io
 quickcode.digital
 quicklink-lilac.vercel.app
 quicklinkpro.io
+quickqr.be
 quickshr.ink
 quickshrink.ovh
 quicky.digital
@@ -16383,6 +16391,7 @@ rdr9bzpab.cc.rs6.net
 rdrclk.com
 rdrct.site
 rdre.me
+rdrt.cc
 rds-assets.nvidia.com
 rds.ovh
 rdsaid.com
@@ -17137,6 +17146,7 @@ sabriabi.net
 sacramento.cbslocal.com
 sactiny.com
 sadar.id
+saddr.xyz
 sadmin.brightcove.com
 saerly.com
 saf.li
