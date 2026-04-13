@@ -11124,6 +11124,7 @@
 @@||trk.sveltelinks.com^
 @@||trk.teonea.fr^
 @@||trk.thewanderclub.com^
+@@||trk.trktrackier.com^
 @@||trk.vibebusi.com^
 @@||trk.wavezw.com^
 @@||trk.wewotrk.com^
@@ -12540,10 +12541,12 @@
 @@||x5n.cn^
 @@||x7.lv^
 @@||x89.us^
+@@||xaddr.com^
 @@||xailr.com^
 @@||xb5.com^
 @@||xbig.info^
 @@||xbitly.com^
+@@||xboys.online^
 @@||xbrch.com^
 @@||xbx.lv^
 @@||xcrl.us^
@@ -12593,6 +12596,8 @@
 @@||xo0.ir^
 @@||xoe.cz^
 @@||xor.tw^
+@@||xortly.com^
+@@||xoxourl.com^
 @@||xozap.com^
 @@||xp-cdn.apple.com^
 @@||xp.apple.com^
@@ -12647,6 +12652,7 @@
 @@||xxxdwz.pro^
 @@||xxxl.ink^
 @@||xy.ar^
+@@||xy2.eu^
 @@||xyq.163.com^
 @@||xzb.cc^
 @@||y.ahoo.it^
@@ -12768,6 +12774,7 @@
 @@||yubi.co^
 @@||yui.co^
 @@||yuk.nu^
+@@||yukibio.com^
 @@||yul.is^
 @@||yulllu01.online^
 @@||yun.duiba.com.cn^
@@ -12832,6 +12839,7 @@
 @@||zhidao.baidu.com^
 @@||zhipin.com^
 @@||zhort.de^
+@@||zhort.link^
 @@||zhuanlan.zhihu.com^
 @@||zhuti.xiaomi.com^
 @@||zhx.su^
@@ -12938,6 +12946,7 @@
 @@||zynexly.com^
 @@||zynga.my^
 @@||zyp.to^
+@@||zyva.org^
 @@||zywv.us^
 @@||zz-tw.co^
 @@||zz.gd^

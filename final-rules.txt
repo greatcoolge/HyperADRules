@@ -3884,6 +3884,7 @@
 @@||browser.360.cn^
 @@||browser.cloud.ucweb.com^
 @@||browser.mi-img.com^
+@@||browser.miui.com^
 @@||browser.pipe.aria.microsoft.com^
 @@||browser.to^
 @@||browserapi.micloud.xiaomi.net^
@@ -15962,6 +15963,7 @@
 @@||px.a8.net^
 @@||px.spiceworks.com^
 @@||px.srvcs.tumblr.com^
+@@||px.ucweb.com^
 @@||pxf.io^
 @@||pxgo.net^
 @@||pxl.leads.su^
@@ -20809,6 +20811,7 @@
 @@||trk.sveltelinks.com^
 @@||trk.teonea.fr^
 @@||trk.thewanderclub.com^
+@@||trk.trktrackier.com^
 @@||trk.vibebusi.com^
 @@||trk.wavezw.com^
 @@||trk.wewotrk.com^
@@ -24416,6 +24419,7 @@
 @@||x6img.com^
 @@||x7.lv^
 @@||x89.us^
+@@||xaddr.com^
 @@||xailr.com^
 @@||xb5.com^
 @@||xbext.com^
@@ -24432,6 +24436,7 @@
 @@||xboxlive.com^
 @@||xboxmedia.ign.com^
 @@||xboxone.funimation.com^
+@@||xboys.online^
 @@||xbrch.com^
 @@||xbx.lv^
 @@||xc9.com^
@@ -24515,6 +24520,8 @@
 @@||xo0.ir^
 @@||xoe.cz^
 @@||xor.tw^
+@@||xortly.com^
+@@||xoxourl.com^
 @@||xozap.com^
 @@||xp-cdn.apple.com^
 @@||xp.apple.com^
@@ -24584,6 +24591,7 @@
 @@||xxxdwz.pro^
 @@||xxxl.ink^
 @@||xy.ar^
+@@||xy2.eu^
 @@||xycdn.com.gslb.kuiniuca.com^
 @@||xyq.163.com^
 @@||xywy.com^
@@ -24750,6 +24758,7 @@
 @@||yui.co^
 @@||yui.yahooapis.com^
 @@||yuk.nu^
+@@||yukibio.com^
 @@||yul.is^
 @@||yule.sohu.com^
 @@||yulllu01.online^
@@ -24865,6 +24874,7 @@
 @@||zhipin.com^
 @@||zhongguose.com^
 @@||zhort.de^
+@@||zhort.link^
 @@||zht.alipay.com^
 @@||zhuanlan.zhihu.com^
 @@||zhuti.xiaomi.com^
@@ -24985,6 +24995,7 @@
 @@||zynexly.com^
 @@||zynga.my^
 @@||zyp.to^
+@@||zyva.org^
 @@||zywv.us^
 @@||zz-tw.co^
 @@||zz.ee^

@@ -2164,6 +2164,7 @@
 @@||browser-update.org^
 @@||browser.cloud.ucweb.com^
 @@||browser.mi-img.com^
+@@||browser.miui.com^
 @@||browser.pipe.aria.microsoft.com^
 @@||browserapi.micloud.xiaomi.net^
 @@||bs.gravatar.com^
@@ -8132,6 +8133,7 @@
 @@||pwebanner.naver.com^
 @@||px.spiceworks.com^
 @@||px.srvcs.tumblr.com^
+@@||px.ucweb.com^
 @@||py.pl^
 @@||q.ebaystatic.com^
 @@||q.gs^
