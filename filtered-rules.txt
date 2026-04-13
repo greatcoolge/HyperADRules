@@ -5658,6 +5658,7 @@ cut.ovh
 cut.pe
 cut.sk
 cut.vin
+cut2.eu
 cutcaptcha.com
 cutdown.link
 cute.link
@@ -7589,6 +7590,7 @@ flixcart.com
 fll.sh
 fllk.io
 fllw.link
+flnk.fr
 flomuz.io
 florantevaldez.com
 flow.page

@@ -2582,6 +2582,7 @@
 @@||cut.pe^
 @@||cut.sk^
 @@||cut.vin^
+@@||cut2.eu^
 @@||cutdown.link^
 @@||cute.link^
 @@||cutearns.com^
@@ -3494,6 +3495,7 @@
 @@||fll.sh^
 @@||fllk.io^
 @@||fllw.link^
+@@||flnk.fr^
 @@||flomuz.io^
 @@||florantevaldez.com^
 @@||flow.page^
