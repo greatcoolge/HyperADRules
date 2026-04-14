@@ -11981,6 +11981,7 @@
 @@||lmcjl.com^
 @@||lmddgtfy.net^
 @@||lmg.gg^
+@@||lmg9.com^
 @@||lmlicenses.wip4.adobe.com^
 @@||lmt.co^
 @@||lmt.sh^
@@ -19708,6 +19709,7 @@
 @@||t.sidekickopen02-eu1.com^
 @@||t.sidekickopen03-eu1.com^
 @@||t.sidekickopen03.com^
+@@||t.sidekickopen04-eu1.com^
 @@||t.sidekickopen04.com^
 @@||t.sidekickopen05-eu1.com^
 @@||t.sidekickopen05.com^

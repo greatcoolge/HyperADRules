@@ -5959,6 +5959,7 @@
 @@||lmcjl.com^
 @@||lmddgtfy.net^
 @@||lmg.gg^
+@@||lmg9.com^
 @@||lmt.co^
 @@||lmt.sh^
 @@||ln-k.me^
@@ -10326,6 +10327,7 @@
 @@||t.sidekickopen02-eu1.com^
 @@||t.sidekickopen03-eu1.com^
 @@||t.sidekickopen03.com^
+@@||t.sidekickopen04-eu1.com^
 @@||t.sidekickopen04.com^
 @@||t.sidekickopen05-eu1.com^
 @@||t.sidekickopen05.com^
