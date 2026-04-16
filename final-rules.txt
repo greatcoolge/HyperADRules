@@ -7264,6 +7264,7 @@
 @@||f.youku.com^
 @@||f000.backblazeb2.com^
 @@||f002.backblazeb2.com^
+@@||f003.backblazeb2.com^
 @@||f0rk.in^
 @@||f1.g.mi.com^
 @@||f1.media.brightcove.com^

@@ -4032,6 +4032,7 @@
 @@||f.youku.com^
 @@||f000.backblazeb2.com^
 @@||f002.backblazeb2.com^
+@@||f003.backblazeb2.com^
 @@||f1.g.mi.com^
 @@||f1.media.brightcove.com^
 @@||f10.baidu.com^
