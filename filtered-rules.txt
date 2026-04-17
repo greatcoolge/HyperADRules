@@ -2855,7 +2855,6 @@ atm.tk
 atmilb.com
 atmlb.com
 ato.gov.au
-atoor.net
 atpcf.co.uk
 atpz.ir
 atqiv.org
@@ -3030,7 +3029,6 @@ az725175.vo.msecnd.net
 az764295.vo.msecnd.net
 az879543.vo.msecnd.net
 azadify.com
-azali.fr
 azc.cc
 azhfoom.com
 azipurl.app
@@ -3294,7 +3292,6 @@ bethesda.net
 bettercov.org
 betterlinks.io
 bettrechies.com
-beurl.app
 bez.link
 bezt.bio
 bfast.com
@@ -3466,7 +3463,6 @@ bitesli.com
 bitfinex.com
 bitfury.com
 bitfy.cc
-bitgg.co
 bithumb.com
 bitigee.com
 bitily.com.br
@@ -3698,7 +3694,6 @@ bn8.us
 bnc.lt
 bnds.in
 bndspn.com
-bnetwhk.com
 bnidigital.com
 bnishipping.com
 bnrsol.com
@@ -4757,7 +4752,6 @@ chron.com
 chtbl.com
 chts.tw
 chuchik.com
-chudaitrieuview.info
 chunkylinks.com
 chx.to
 chzb.gr
@@ -5033,7 +5027,6 @@ clkro.com
 clktrack.com
 cllab.co
 clmp.me
-clockurl.com
 clotplaynews.live
 cloud.degoo.com
 cloud.gsdk.proximabeta.com
@@ -5388,7 +5381,6 @@ coop.uk
 coop.voicecloud.cn
 coopurl.com
 cop.vn
-copymylink.com
 copyright.help.soundcloud.com
 copyright.soundcloud.com
 copyrights.help.soundcloud.com
@@ -6302,7 +6294,6 @@ dnt.st
 do.co
 do.my
 doaistri.com
-doburl.com
 doc.btc.com
 doc.emergingthreats.net
 doc2link.vercel.app
@@ -13244,6 +13235,7 @@ mkto-ab350042.com
 mkto-ab390033.com
 mkto-ab390087.com
 mkto-ab390196.com
+mkto-ab400068.com
 mkto-ab400124.com
 mkto-ab400143.com
 mkto-ab420081.com
@@ -13326,6 +13318,7 @@ mkto-m0106.com
 mkto-m0111.com
 mkto-mlm10010008.com
 mkto-mlm10030009.com
+mkto-n0092.com
 mkto-nld1010057.com
 mkto-nld1010150.com
 mkto-nld1020077.com
@@ -13385,6 +13378,7 @@ mkto-sj320047.com
 mkto-sj330006.com
 mkto-sj340004.com
 mkto-sj360076.com
+mkto-sj360104.com
 mkto-sj360142.com
 mkto-sj390015.com
 mkto-sj390079.com
@@ -16112,7 +16106,6 @@ qrem.us
 qrfridges.com
 qrfy.com
 qrfy.io
-qrgen.co.uk
 qrgenerator.org
 qrily.com
 qrisni.me
