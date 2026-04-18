@@ -8954,7 +8954,6 @@
 @@||guce.huffingtonpost.com.au^
 @@||guce.huffingtonpost.com^
 @@||guce.techcrunch.com^
-@@||gudang.me^
 @@||guelist.com^
 @@||guenstiger.de^
 @@||guestbook.blog.naver.com^
@@ -10460,7 +10459,6 @@
 @@||jetzt.bekservice.co.uk^
 @@||jetzt.work^
 @@||jevilink.com^
-@@||jewhate.info^
 @@||jeya.li^
 @@||jf.360.cn^
 @@||jf365.boc.cn^
@@ -10772,7 +10770,6 @@
 @@||kimmel.trade^
 @@||kin.naver.com^
 @@||kinesis.us-east-1.amazonaws.com^
-@@||kingplate.lol^
 @@||kings.tn^
 @@||kingsoft.com^
 @@||kingurl.xyz^
@@ -11598,7 +11595,6 @@
 @@||linkjitu.site^
 @@||linkjoy.io^
 @@||linkjoy.org^
-@@||linkjp.org^
 @@||linkjust.com^
 @@||linkk.ing^
 @@||linkkece.com^
@@ -12197,7 +12193,6 @@
 @@||ltd.ac^
 @@||ltdhunt.com^
 @@||ltkiss.cc^
-@@||ltl.bio^
 @@||lttr.ai^
 @@||lu.api.mega.co.nz^
 @@||lua.sh^
@@ -16268,6 +16263,7 @@
 @@||r5waxhbbb.cc.rs6.net^
 @@||r6hquldab.cc.rs6.net^
 @@||r6lccqnab.cc.rs6.net^
+@@||r6msg8hbb.cc.rs6.net^
 @@||r7avxrcab.cc.rs6.net^
 @@||r7uonsdab.cc.rs6.net^
 @@||r7wfv6abb.cc.rs6.net^
@@ -19398,6 +19394,7 @@
 @@||suite11-cf.emarsys.net^
 @@||suite11.emarsys.net^
 @@||suite12.emarsys.net^
+@@||suite14.emarsys.net^
 @@||suite15.emarsys.net^
 @@||suite16.emarsys.net^
 @@||suite17-cf.emarsys.net^
@@ -22067,9 +22064,6 @@
 @@||videos.vidible.tv ^
 @@||videos.vidible.tv^
 @@||videotxxx.com^
-@@||videy.isuaceh.com^
-@@||videyfour.isuaceh.com^
-@@||videytwo.isuaceh.com^
 @@||videyx.fun^
 @@||vidible.tv^
 @@||vidoza.net^
