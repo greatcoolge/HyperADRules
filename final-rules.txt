@@ -7021,7 +7021,6 @@
 @@||err.taobao.com^
 @@||error.facebook.com^
 @@||eru2earn.com^
-@@||eru789.com^
 @@||erw.cz^
 @@||es-es.about.flipboard.com^
 @@||es-mx.twitch.tv^
@@ -7263,7 +7262,6 @@
 @@||f3.social^
 @@||f44.link^
 @@||f4d.uk^
-@@||f5i.org^
 @@||f5url.com^
 @@||f5yo.com^
 @@||f6x.cn^
