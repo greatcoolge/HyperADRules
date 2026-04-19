@@ -12635,7 +12635,6 @@ malwareurls.joxeankoret.com
 mamikale.me
 mamm.ie
 mampir.link
-mamskie.me
 man.ac.uk
 manage.stripe.com
 mandrillapp.com
@@ -12932,7 +12931,6 @@ members.medium.com
 memo.naver.com
 memolog.blog.naver.com
 menangbola77.info
-menangjp.pro
 mene.com
 menj.info
 mensfitness.com
@@ -13121,7 +13119,6 @@ miol4.me
 miolink.eu
 mip.xiachufang.com
 mipha.app
-mipon.xyz
 mir-s3-cdn-cf.behance.net
 mirror.cedia.org.ec
 mirror.centos.org
@@ -13510,13 +13507,7 @@ money.yandex.ru
 moneysavingexpert.com
 monghaiba.life
 monghaibon.live
-monghaihai.life
-monghaimuoi.live
 monghainam.life
-mongmuoibay.live
-mongmuoichin.life
-mongmuoisau.life
-mongmuoitam.live
 monitor.fraudblocker.com
 monitor.lunio.ai
 monitor.returnpath.net
@@ -13602,7 +13593,6 @@ mr.da.netease.com
 mrfye.org
 mrjj.uk
 mrlink.in
-mrshelby.in
 mrte.ch
 mrthumb.nabstudio.com
 mrturl.com
@@ -14487,7 +14477,6 @@ obank.tw
 obblink.com
 obdr.it
 obio.link
-oblino.com
 oboom.com
 obs.line-scdn.net
 observer.com
