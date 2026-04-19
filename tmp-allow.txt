@@ -2885,6 +2885,7 @@
 @@||dogelexus.win^
 @@||dogelexusin.store^
 @@||doh.dns.apple.com^
+@@||dohggte.com^
 @@||doiop.com^
 @@||dojobe.link^
 @@||dokdo.in^
@@ -3136,6 +3137,7 @@
 @@||ehtracker.org^
 @@||ehuoma.com^
 @@||ei.phncdn.com^
+@@||eid.ee^
 @@||eimenu.com^
 @@||eit.tw^
 @@||eiwebs.com^
@@ -4139,6 +4141,7 @@
 @@||gvt2.com^
 @@||gw.ie^
 @@||gx-target-experiments-frontend-api.gx.nvidia.com^
+@@||gxh1yqz2v.xyz^
 @@||gyanilinks.com^
 @@||gym.sh^
 @@||gyntekbusiness.com^
@@ -7394,7 +7397,6 @@
 @@||one9.one^
 @@||oneany.shop^
 @@||onebio.app^
-@@||onebio.ir^
 @@||onelink.com.do^
 @@||onelink.lt^
 @@||onelink.me^
@@ -7436,7 +7438,6 @@
 @@||op2.us^
 @@||open.spotify.com^
 @@||openapi.vmall.com^
-@@||openbio.link^
 @@||openinapp.link^
 @@||openmylink.io^
 @@||opent2.com^
@@ -7730,7 +7731,6 @@
 @@||pgi.ai^
 @@||pgnt.xyz^
 @@||pgoapps.com^
-@@||pgpgeth.com^
 @@||pgrs.in^
 @@||pgto.net^
 @@||ph.ly^
@@ -7783,6 +7783,7 @@
 @@||pin.st^
 @@||pinball.click^
 @@||ping.clicksambo.com^
+@@||ping.fb-cdn.net^
 @@||ping.fm^
 @@||pino.link^
 @@||pinoygrill.com^
@@ -7818,7 +7819,6 @@
 @@||plahxt.com^
 @@||plannery.app^
 @@||platform.deepseek.com^
-@@||platformtech.live^
 @@||play-app.site^
 @@||play.163.com^
 @@||play.itunes.apple.com^
@@ -8385,7 +8385,6 @@
 @@||readystart.com.au^
 @@||realestatesrvs.com^
 @@||rebelne.ws^
-@@||rebioo.com^
 @@||rebrand.lol^
 @@||rebrand.ly^
 @@||rebrand.pw^
@@ -8633,7 +8632,6 @@
 @@||rsh.md^
 @@||rsmonkey.com^
 @@||rss.care^
-@@||rsshort.com^
 @@||rstr.me^
 @@||rtaw7vebb.cc.rs6.net^
 @@||rtc.la^
@@ -8862,7 +8860,6 @@
 @@||saucenao.com^
 @@||saudepetrobras.com^
 @@||saut.ca^
-@@||savegdrive.com^
 @@||savelnk.com^
 @@||savetext.us^
 @@||savetub.com^
@@ -9006,7 +9003,6 @@
 @@||seolegend.link^
 @@||seotoolsaudit.com^
 @@||seq.vc^
-@@||serius.win^
 @@||serpec.ru^
 @@||seru88-amp.com^
 @@||serve.nrich.ai^
@@ -9187,7 +9183,6 @@
 @@||short1.org^
 @@||short24.pw^
 @@||short2cut.com^
-@@||short360s.com^
 @@||short4fly.com^
 @@||short4me.io^
 @@||shortapi.vercel.app^
@@ -9213,7 +9208,6 @@
 @@||shorte.st^
 @@||shortearn.to^
 @@||shortearner.in^
-@@||shorteasily.com^
 @@||shorteasy.com^
 @@||shortedge.pro.cutestat.com^
 @@||shortedge.pro^
@@ -9395,7 +9389,6 @@
 @@||shortsurl.at^
 @@||shortsurl.site^
 @@||shortswitch.com^
-@@||shortsy.pro^
 @@||shortturl.co^
 @@||shortu.be^
 @@||shorturl-frontend-lac.vercel.app^

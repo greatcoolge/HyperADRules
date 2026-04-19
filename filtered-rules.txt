@@ -6327,6 +6327,7 @@ dog.bin
 dogelexus.win
 dogelexusin.store
 doh.dns.apple.com
+dohggte.com
 doi.org
 doiop.com
 dojobe.link
@@ -6796,6 +6797,7 @@ ehgt.org
 ehtracker.org
 ehuoma.com
 ei.phncdn.com
+eid.ee
 eightforums.com
 eimenu.com
 ein.funimation.com
@@ -8974,6 +8976,7 @@ gw.alicdn.com
 gw.alipayobjects.com
 gw.ie
 gx-target-experiments-frontend-api.gx.nvidia.com
+gxh1yqz2v.xyz
 gyan.dev
 gyanilinks.com
 gyazo.com
@@ -14636,7 +14639,6 @@ one.one.one.one
 one9.one
 oneany.shop
 onebio.app
-onebio.ir
 onebox.huawei.com
 oneclient.sfx.ms
 onedrive.com
@@ -14717,7 +14719,6 @@ openapi.naver.com
 openapi.samsung.com
 openapi.vmall.com
 openapp.io.mi.com
-openbio.link
 openbittorrent.com
 openbsd.org
 opencollective.com
@@ -15239,7 +15240,6 @@ pgi.billdesk.com
 pgl.yoyo.org
 pgnt.xyz
 pgoapps.com
-pgpgeth.com
 pgrs.in
 pgto.net
 pgyer.com
@@ -15333,6 +15333,7 @@ pin.st
 pinata.cloud
 pinball.click
 ping.clicksambo.com
+ping.fb-cdn.net
 ping.feedburner.com
 ping.fm
 ping.pdst.fm
@@ -15413,7 +15414,6 @@ platform.sharethis.com
 platform.stumbleupon.com
 platform.twitter.com
 platform.vine.co
-platformtech.live
 play-app.site
 play-asia.com
 play.163.com
@@ -16413,7 +16413,6 @@ realfarmacy.com
 realites.com.tn
 reason.com
 rebelne.ws
-rebioo.com
 rebrand.lol
 rebrand.ly
 rebrand.pw
@@ -16813,7 +16812,6 @@ rsmonkey.com
 rss.art19.com
 rss.blog.naver.com
 rss.care
-rsshort.com
 rst.ch
 rstr.me
 rt.com
@@ -17214,7 +17212,6 @@ saucenao.com
 saudepetrobras.com
 saut.ca
 save.thoaimedia.com
-savegdrive.com
 savelnk.com
 savetext.us
 savetub.com
@@ -17557,7 +17554,6 @@ seolegend.link
 seotoolsaudit.com
 seq.vc
 serial.alcohol-soft.com
-serius.win
 serpec.ru
 seru88-amp.com
 serve.adtrackers.net
@@ -17846,7 +17842,6 @@ short1.link
 short1.org
 short24.pw
 short2cut.com
-short360s.com
 short4fly.com
 short4me.io
 shortapi.vercel.app
@@ -17872,7 +17867,6 @@ shorte.net
 shorte.st
 shortearn.to
 shortearner.in
-shorteasily.com
 shorteasy.com
 shortedge.pro
 shortedge.pro.cutestat.com
@@ -18054,7 +18048,6 @@ shortster.net
 shortsurl.at
 shortsurl.site
 shortswitch.com
-shortsy.pro
 shortturl.co
 shortu.be
 shorturl-frontend-lac.vercel.app
