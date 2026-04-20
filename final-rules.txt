@@ -21447,11 +21447,9 @@
 @@||url8x.com^
 @@||urla.ru^
 @@||urladda.com^
-@@||urlah.com^
 @@||urlao.com^
 @@||urlaz.com^
 @@||urlb.io^
-@@||urlb.link^
 @@||urlbae.com^
 @@||urlbd.com^
 @@||urlbee.site^
@@ -21646,7 +21644,6 @@
 @@||urlx.graphicwallet.com^
 @@||urlx.ie^
 @@||urlx.org^
-@@||urlxh.com^
 @@||urlxray.com^
 @@||urly.co^
 @@||urly.fi^
@@ -22090,10 +22087,8 @@
 @@||virustotal.com^
 @@||virustotalcloud.appspot.com^
 @@||vision.appreciatehub.com^
-@@||visionia.site^
 @@||visit.my^
 @@||visit.st^
-@@||visitame.app^
 @@||visitmy.link^
 @@||visitmylinks.com^
 @@||visitsitenow.com^
@@ -22181,7 +22176,6 @@
 @@||voicetu.be^
 @@||void.gr^
 @@||voip.game.xiaomi.com^
-@@||volamtruyenky.life^
 @@||volksverpetzer.de^
 @@||voltagesearch.com^
 @@||volvocars.us^
@@ -22484,7 +22478,6 @@
 @@||webtoolmaster.com^
 @@||webtor.io^
 @@||webtrafficxxl.com^
-@@||webtte.com^
 @@||webz.cc^
 @@||wec.li^
 @@||wechat.com^
@@ -22667,7 +22660,6 @@
 @@||wix.com^
 @@||wixapps.net^
 @@||wixsite.com^
-@@||wizardsinvest.ru^
 @@||wk.idey.cn^
 @@||wkf.ms^
 @@||wkms-public.apple.com^
@@ -24374,7 +24366,6 @@
 @@||x2l.ir^
 @@||x2t.com^
 @@||x2y.me^
-@@||x3.cx^
 @@||x5n.cn^
 @@||x6img.com^
 @@||x7.lv^
@@ -24806,7 +24797,6 @@
 @@||zero.facebook.com^
 @@||zero.wikipedia.com^
 @@||zerohedge.com^
-@@||zeroshort.xyz^
 @@||zerossl.ocsp.sectigo.com404: Not Found0.client-channel.google.com^
 @@||zetir.com^
 @@||zeus4d.mom^
@@ -24895,12 +24885,10 @@
 @@||zobzob.com^
 @@||zodgame.xyz^
 @@||zoho.com^
-@@||zoho.to^
 @@||zom.ink^
 @@||zom.io^
 @@||zona.media^
 @@||zonearcad.xyz^
-@@||zoneurl.net^
 @@||zoodl.com^
 @@||zoominfo.com^
 @@||zoosnet.net^
@@ -24932,7 +24920,6 @@
 @@||zt.ms^
 @@||ztgame.com^
 @@||zti.me^
-@@||zubbit.io^
 @@||zuitte.com^
 @@||zuitte.io^
 @@||zuki.ie^

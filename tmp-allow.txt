@@ -11553,11 +11553,9 @@
 @@||url8x.com^
 @@||urla.ru^
 @@||urladda.com^
-@@||urlah.com^
 @@||urlao.com^
 @@||urlaz.com^
 @@||urlb.io^
-@@||urlb.link^
 @@||urlbae.com^
 @@||urlbee.site^
 @@||urlbit.co^
@@ -11747,7 +11745,6 @@
 @@||urlx.graphicwallet.com^
 @@||urlx.ie^
 @@||urlx.org^
-@@||urlxh.com^
 @@||urlxray.com^
 @@||urly.co^
 @@||urly.fi^
@@ -11969,10 +11966,8 @@
 @@||viraln.co^
 @@||viralpep.com^
 @@||virl.com^
-@@||visionia.site^
 @@||visit.my^
 @@||visit.st^
-@@||visitame.app^
 @@||visitmy.link^
 @@||visitmylinks.com^
 @@||visitsitenow.com^
@@ -12019,7 +12014,6 @@
 @@||vog.me^
 @@||vogue.cm^
 @@||voicetu.be^
-@@||volamtruyenky.life^
 @@||voltagesearch.com^
 @@||volvocars.us^
 @@||vonq.io^
@@ -12167,7 +12161,6 @@
 @@||webtoolmaster.com^
 @@||webtor.io^
 @@||webtrafficxxl.com^
-@@||webtte.com^
 @@||webz.cc^
 @@||wec.li^
 @@||wed.li^
@@ -12245,7 +12238,6 @@
 @@||withtask.com^
 @@||witly.online^
 @@||wiwir.cc^
-@@||wizardsinvest.ru^
 @@||wk.idey.cn^
 @@||wkf.ms^
 @@||wkms-public.apple.com^
@@ -12497,7 +12489,6 @@
 @@||x2l.ir^
 @@||x2t.com^
 @@||x2y.me^
-@@||x3.cx^
 @@||x5n.cn^
 @@||x7.lv^
 @@||x89.us^
@@ -12786,7 +12777,6 @@
 @@||zensus.io^
 @@||zenurl.in^
 @@||zephb.com^
-@@||zeroshort.xyz^
 @@||zetir.com^
 @@||zeus4d.mom^
 @@||zeusurl.com^
@@ -12853,11 +12843,9 @@
 @@||zo.cm^
 @@||zobzob.com^
 @@||zodgame.xyz^
-@@||zoho.to^
 @@||zom.ink^
 @@||zom.io^
 @@||zonearcad.xyz^
-@@||zoneurl.net^
 @@||zoodl.com^
 @@||zop.gr^
 @@||zopen.to^
@@ -12883,7 +12871,6 @@
 @@||zsr.link^
 @@||zt.ms^
 @@||zti.me^
-@@||zubbit.io^
 @@||zuitte.com^
 @@||zuitte.io^
 @@||zuki.ie^
