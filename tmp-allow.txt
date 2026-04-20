@@ -9523,7 +9523,6 @@
 @@||shrtm.nu^
 @@||shrtme.link^
 @@||shrtn.app^
-@@||shrtn.ch^
 @@||shrtn.ee^
 @@||shrtn.io^
 @@||shrtna.com^
@@ -9850,7 +9849,6 @@
 @@||sor.bz^
 @@||sorc.me^
 @@||sorkale.me^
-@@||sosi.al^
 @@||sosy.al^
 @@||sosyal.one^
 @@||sou.nu^
@@ -10043,8 +10041,6 @@
 @@||steveendow.link^
 @@||stfly.me^
 @@||stgevent.com^
-@@||stick.bio^
-@@||stk.so^
 @@||stke.xyz^
 @@||stllna.com^
 @@||stmodel.com^
@@ -10188,7 +10184,6 @@
 @@||supr.link^
 @@||supurlman.com^
 @@||sur.ly^
-@@||sura.pw^
 @@||surayafans.com^
 @@||surkali.me^
 @@||surl.be^
@@ -10440,7 +10435,6 @@
 @@||talk.bloomup.org^
 @@||tam.fyi^
 @@||tamar.is^
-@@||tampz.com^
 @@||tamthangnam.life^
 @@||tandcsurf.com^
 @@||tanitkazan.com^
@@ -10467,7 +10461,6 @@
 @@||targeterpro.com^
 @@||taskofdeity.netlify.app^
 @@||tau.lu^
-@@||tautan.click^
 @@||tautin.id^
 @@||tawk.link^
 @@||taxace.net^
@@ -10769,7 +10762,6 @@
 @@||tjzuh.com^
 @@||tkla.be^
 @@||tklinknow.com^
-@@||tklinks.com^
 @@||tkno.co^
 @@||tkopod.co^
 @@||tkpd.me^
@@ -10831,7 +10823,6 @@
 @@||tny.xyz^
 @@||tnyer.com^
 @@||tnyr.me^
-@@||tnyurl.one^
 @@||tnyurl.pro^
 @@||tnyweb.com^
 @@||to-text.net^
@@ -10846,7 +10837,6 @@
 @@||tog.li^
 @@||tohle.de^
 @@||toi.in^
-@@||tokalin.com^
 @@||tokogenie.online^
 @@||tokopedia.link^
 @@||toliveal.ie^
@@ -11040,7 +11030,6 @@
 @@||trck.wargaming.net^
 @@||treelinked.com^
 @@||treezy.com.br^
-@@||trenddynamo.com^
 @@||tres.at^
 @@||treszki.com^
 @@||trezurl.ir^

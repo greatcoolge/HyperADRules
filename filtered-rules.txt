@@ -18186,7 +18186,6 @@ shrtly.net
 shrtm.nu
 shrtme.link
 shrtn.app
-shrtn.ch
 shrtn.ee
 shrtn.io
 shrtna.com
@@ -18676,7 +18675,6 @@ soporte.latam.playstation.com
 sor.bz
 sorc.me
 sorkale.me
-sosi.al
 soso.com
 sosy.al
 sosyal.one
@@ -19202,13 +19200,11 @@ stg2.shop.samsung.com
 stgevent.com
 stgweb4.samsung.com
 stgweb4.samsung.com.edgekey.net
-stick.bio
 stickers-search.viber.com
 stickers.viber.com
 stileproject.com
 stitcher.com
 stitcher.pluto.tv
-stk.so
 stke.xyz
 stllna.com
 stmodel.com
@@ -19513,7 +19509,6 @@ supr.cl
 supr.link
 supurlman.com
 sur.ly
-sura.pw
 surayafans.com
 surf.plus.google.com
 surfspot.nl
@@ -19854,7 +19849,6 @@ tam.fyi
 tamar.is
 tampa.cbslocal.com
 tampermonkey.net
-tampz.com
 tamthangnam.life
 tandcsurf.com
 tandfonline.com
@@ -19892,7 +19886,6 @@ targetednotifications-tm.trafficmanager.net
 targeterpro.com
 taskofdeity.netlify.app
 tau.lu
-tautan.click
 tautin.id
 tawk.link
 tawk.to
@@ -20333,7 +20326,6 @@ tj.wtf
 tjzuh.com
 tkla.be
 tklinknow.com
-tklinks.com
 tkno.co
 tkopod.co
 tkpd.me
@@ -20409,7 +20401,6 @@ tny.ws
 tny.xyz
 tnyer.com
 tnyr.me
-tnyurl.one
 tnyurl.pro
 tnyweb.com
 to-text.net
@@ -20427,7 +20418,6 @@ tofukko.r.ribbon.to
 tog.li
 tohle.de
 toi.in
-tokalin.com
 token-dispenser-mirror.herokuapp.com
 token-dispenser.duckdns.org
 token-dispenser.herokuapp.com
@@ -20708,7 +20698,6 @@ trck.me
 trck.wargaming.net
 treelinked.com
 treezy.com.br
-trenddynamo.com
 tres.at
 treszki.com
 trezor.io
