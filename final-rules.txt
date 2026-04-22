@@ -12273,6 +12273,7 @@
 @@||m-sgd5h.custobar.com^
 @@||m-so.custobar.com^
 @@||m-swjb2.custobar.com^
+@@||m-szy.custobar.com^
 @@||m-tfe.custobar.com^
 @@||m-tmsif.custobar.com^
 @@||m-va.custobar.com^
@@ -13248,6 +13249,7 @@
 @@||mkto-ab440098.com^
 @@||mkto-ab450015.com^
 @@||mkto-ab470148.com^
+@@||mkto-ab480014.com^
 @@||mkto-ab480059.com^
 @@||mkto-ab500015.com^
 @@||mkto-ab500174.com^
