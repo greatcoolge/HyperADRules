@@ -13256,7 +13256,6 @@ mkto-sjg0056.com
 mkto-sjh0084.com
 mkto-sjp0267.com
 mkto-sn060071.com
-mkto-test.com
 mkto-trk.cisco.com
 mktoweb.com
 mktplassets-ssl.xbox.com
@@ -16881,17 +16880,14 @@ s1.vuukle.com
 s1.wp.com
 s1.zhuanstatic.com
 s10.exacttarget.com
-s10.login.exacttarget.com
 s100.exacttarget.com
 s101.dev2.exacttarget.com
 s11.cn
 s11.exacttarget.com
 s11.link
-s11.login.exacttarget.com
 s12.exacttarget.com
 s12d.com
 s13.exacttarget.com
-s13.login.exacttarget.com
 s1777052651.t.eloqua.com
 s1ccmd.com
 s1o.co
