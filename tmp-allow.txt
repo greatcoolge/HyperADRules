@@ -79,7 +79,6 @@
 @@||1cl.be^
 @@||1cl.me^
 @@||1clix.in^
-@@||1da.ir^
 @@||1dietplans.com^
 @@||1do.me^
 @@||1drv.ms^
@@ -132,7 +131,6 @@
 @@||1url.my^
 @@||1url.re^
 @@||1url.vn^
-@@||1vk.net^
 @@||1west.io^
 @@||1wn.bz^
 @@||1xfn.tech^
