@@ -704,7 +704,6 @@ aax-eu.amazon.sa
 aax-eu.amazon.se
 aax-fe-retail-direct.amazon-adsystem.com
 aax-fe.amazon.co.jp
-aax-fe.amazon.com
 aax-fe.amazon.com.au
 aax-fe.amazon.sg
 aax-us-east-retail-direct.amazon-adsystem.com
@@ -2946,7 +2945,6 @@ awactools.com
 awards.netflix.com
 awc.li
 awebopt.com
-awenje.com
 awmonitor.com
 awp-assets.meituan.net
 aws.tl
@@ -2989,7 +2987,6 @@ az764295.vo.msecnd.net
 az879543.vo.msecnd.net
 azadify.com
 azc.cc
-azhfoom.com
 azipurl.app
 azipurl.com
 azlink.me
@@ -3220,7 +3217,6 @@ bestbuy.7tiv.net
 bestbuy.com
 bestfwdservice.com
 bestmovies.com
-bestshortlink.com
 bet365.com
 beta-www.funimation.com
 beta.api.getpocket.com
@@ -3453,7 +3449,6 @@ bitlyvi.com
 bitlz.cc
 bitpay.com
 bitq.link
-bitradex.net
 bitri.link
 bits.twitch.tv
 bitshort.vip
@@ -3667,7 +3662,6 @@ boarfishesquandangsunderdried.com
 boc.cn
 boclinkvn.net
 bofh.us
-bofo.ly
 boi.re
 boile.rs
 boinc.bakerlab.org
@@ -3780,7 +3774,6 @@ breitbart.com
 brendan.fyi
 breu.cpnl.cat
 brev.ws
-breve.bio
 brevelink.com
 brever.link
 brevi.space
@@ -4533,7 +4526,6 @@ cgi.adobe.com
 cgi.connect.qq.com
 cgrp.io
 cgvoice.live
-ch-get.info
 ch.hide.me
 ch.hitbtc.com
 ch.run
@@ -4643,7 +4635,6 @@ checkout.sndcdn.com
 checkout.soundcloud.com
 checkout.stripe.com
 checkout.vimeo.com
-checkshorturl.bio
 chekc.life
 chem.sg
 chemistdirect.com.au
@@ -4921,8 +4912,6 @@ clients5.google.com
 clients6.google.com
 clientstream.intuit.launchdarkly.com
 clientstream.launchdarkly.com
-clikk.in
-clikly.link
 clikr.ir
 cliks.co
 clikx.net
@@ -4940,7 +4929,6 @@ clips-media-assets2.twitch.tv
 clips.twitch.tv
 clips4sale.com
 clipurl.com
-clipurl.tech
 clipurl.us
 clipy.cx
 cliq.ing
@@ -7235,6 +7223,7 @@ fastslinks.site
 fasttory.com
 fasturl.link
 fatprincess.playstation.com
+fattoincasadabenedetta.link
 faturl.com
 faucethub.io
 fav.me
@@ -11243,7 +11232,6 @@ link.alfamonkey.com
 link.ameerusa.com
 link.anam.ch
 link.axios.com
-link.betclic.com
 link.caripvcard.com
 link.cashcard.id
 link.cc
@@ -11847,6 +11835,7 @@ lnk.direct
 lnk.fd-serv.com
 lnk.gd
 lnk.growflow.com
+lnk.ink
 lnk.jo
 lnk.ke
 lnk.mcla.edu
@@ -17808,6 +17797,7 @@ shortlk.co
 shortlk.com
 shortll.com
 shortlnk.app
+shortlnk.co
 shortlnk.xyz
 shortlr.com
 shortlurl.com
@@ -20834,6 +20824,7 @@ u4y.ch
 u6571834.ct.sendgrid.net
 u6e.de
 u99.pro
+u9x.wtf
 uabio.me
 uafly.co
 ual.fyi
@@ -21994,7 +21985,6 @@ vscode.download.prss.microsoft.com
 vsevjednom.cz
 vshorturl.com
 vsl.im
-vstag.app.br
 vt802.us
 vtity.com
 vtns.io

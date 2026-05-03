@@ -467,7 +467,6 @@
 @@||aax-fe-retail-direct.amazon-adsystem.com^
 @@||aax-fe.amazon.co.jp^
 @@||aax-fe.amazon.com.au^
-@@||aax-fe.amazon.com^
 @@||aax-fe.amazon.sg^
 @@||aax-us-east-retail-direct.amazon-adsystem.com^
 @@||aax-us-east-retail-direct.amazon.com^
@@ -1236,7 +1235,6 @@
 @@||awactools.com^
 @@||awc.li^
 @@||awebopt.com^
-@@||awenje.com^
 @@||awmonitor.com^
 @@||awp-assets.meituan.net^
 @@||aws.tl^
@@ -1266,7 +1264,6 @@
 @@||ayuk.link^
 @@||ayzyu.com^
 @@||azc.cc^
-@@||azhfoom.com^
 @@||azipurl.app^
 @@||azipurl.com^
 @@||azlink.me^
@@ -1399,7 +1396,6 @@
 @@||beshort.io^
 @@||bestbet1000.xyz^
 @@||bestbuy.7tiv.net^
-@@||bestshortlink.com^
 @@||betaloop.io^
 @@||betaxfree.net^
 @@||betbtn.link^
@@ -1544,7 +1540,6 @@
 @@||bitlyvi.com^
 @@||bitlz.cc^
 @@||bitq.link^
-@@||bitradex.net^
 @@||bitri.link^
 @@||bitshort.vip^
 @@||bitshrt.com^
@@ -1643,7 +1638,6 @@
 @@||boc.cn^
 @@||boclinkvn.net^
 @@||bofh.us^
-@@||bofo.ly^
 @@||boi.re^
 @@||boile.rs^
 @@||bola.mx^
@@ -1710,7 +1704,6 @@
 @@||brendan.fyi^
 @@||breu.cpnl.cat^
 @@||brev.ws^
-@@||breve.bio^
 @@||brevelink.com^
 @@||brever.link^
 @@||brevi.space^
@@ -2031,7 +2024,6 @@
 @@||cgatx.com^
 @@||cgrp.io^
 @@||cgvoice.live^
-@@||ch-get.info^
 @@||ch.run^
 @@||ch0p.darty.com^
 @@||cha.ms^
@@ -2045,7 +2037,6 @@
 @@||cheap-stocks.biz^
 @@||checkbill.biz^
 @@||checkout.buzzoid.com^
-@@||checkshorturl.bio^
 @@||chekc.life^
 @@||chem.sg^
 @@||cherrykiss.club^
@@ -2247,8 +2238,6 @@
 @@||client-api.arkoselabs.com^
 @@||clientlinks.net^
 @@||clients4.google.com^
-@@||clikk.in^
-@@||clikly.link^
 @@||clikr.ir^
 @@||cliks.co^
 @@||clikx.net^
@@ -2263,7 +2252,6 @@
 @@||clipperlink.com^
 @@||clips4sale.com^
 @@||clipurl.com^
-@@||clipurl.tech^
 @@||clipurl.us^
 @@||clipy.cx^
 @@||cliq.ing^
@@ -3365,6 +3353,7 @@
 @@||fastslinks.site^
 @@||fasttory.com^
 @@||fasturl.link^
+@@||fattoincasadabenedetta.link^
 @@||faturl.com^
 @@||fav.me^
 @@||fave.co^
@@ -5444,7 +5433,6 @@
 @@||link.alfamonkey.com^
 @@||link.ameerusa.com^
 @@||link.anam.ch^
-@@||link.betclic.com^
 @@||link.caripvcard.com^
 @@||link.cashcard.id^
 @@||link.cc^
@@ -5950,6 +5938,7 @@
 @@||lnk.fd-serv.com^
 @@||lnk.gd^
 @@||lnk.growflow.com^
+@@||lnk.ink^
 @@||lnk.jo^
 @@||lnk.ke^
 @@||lnk.mcla.edu^
@@ -9325,6 +9314,7 @@
 @@||shortlk.com^
 @@||shortll.com^
 @@||shortlnk.app^
+@@||shortlnk.co^
 @@||shortlnk.xyz^
 @@||shortlr.com^
 @@||shortlurl.com^
@@ -11272,6 +11262,7 @@
 @@||u4y.ch^
 @@||u6e.de^
 @@||u99.pro^
+@@||u9x.wtf^
 @@||uabio.me^
 @@||uafly.co^
 @@||ual.fyi^
@@ -12024,7 +12015,6 @@
 @@||vscode.download.prss.microsoft.com^
 @@||vshorturl.com^
 @@||vsl.im^
-@@||vstag.app.br^
 @@||vt802.us^
 @@||vtity.com^
 @@||vtns.io^
