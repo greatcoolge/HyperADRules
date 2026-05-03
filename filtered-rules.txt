@@ -6112,7 +6112,6 @@ disquscdn.com
 distribute.adobe.com
 distributions.crowdin.net
 dive.pub
-diversionink.com
 divsly.com
 diwi.io
 diypriceless.com
@@ -6134,7 +6133,6 @@ dl-developer.sonymobile.com
 dl-development.discordapp.net
 dl-dispatch.discordapp.net
 dl-media.viber.com
-dl-protect.info
 dl-protect.link
 dl-ptb.discordapp.net
 dl-sdk.discordapp.net
@@ -6358,7 +6356,6 @@ dpb.fm
 dpb.link
 dpba2404.com
 dpbolvw.net
-dpessm.com
 dpimg.ospserver.net
 dpm.demdex.net
 dpmd.ai
@@ -7316,7 +7313,6 @@ ff.im
 ff.to
 ff0.market.xiaomi.com
 ffc-icons.oobesaas.adobe.com
-fff.com.vn
 fff.re
 fff.to
 fff.wf
@@ -15879,7 +15875,6 @@ qr-url.com
 qr.ae
 qr.attps.fr
 qr.codes
-qr.democame.pe
 qr.dev.eg
 qr.digi.tips
 qr.io

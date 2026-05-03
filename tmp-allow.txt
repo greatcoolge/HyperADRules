@@ -2812,7 +2812,6 @@
 @@||disq.us^
 @@||disqus.com^
 @@||dive.pub^
-@@||diversionink.com^
 @@||divsly.com^
 @@||diwi.io^
 @@||diypriceless.com^
@@ -2823,7 +2822,6 @@
 @@||djurl.com^
 @@||dkng.co^
 @@||dky.bz^
-@@||dl-protect.info^
 @@||dl-protect.link^
 @@||dl.delivery.mp.microsoft.com^
 @@||dl.gl^
@@ -2917,7 +2915,6 @@
 @@||dpb.link^
 @@||dpba2404.com^
 @@||dpbolvw.net^
-@@||dpessm.com^
 @@||dpm.demdex.net^
 @@||dpmd.ai^
 @@||dpo.st^
@@ -3388,7 +3385,6 @@
 @@||fevo.me^
 @@||ff.im^
 @@||ff0.market.xiaomi.com^
-@@||fff.com.vn^
 @@||fff.re^
 @@||fff.to^
 @@||fff.wf^
@@ -8106,7 +8102,6 @@
 @@||qr.ae^
 @@||qr.attps.fr^
 @@||qr.codes^
-@@||qr.democame.pe^
 @@||qr.dev.eg^
 @@||qr.digi.tips^
 @@||qr.io^
