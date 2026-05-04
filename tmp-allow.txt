@@ -3293,7 +3293,6 @@
 @@||ezurl.cc^
 @@||ezurl.co^
 @@||ezwashing.com^
-@@||ezylnk.com^
 @@||ezymanage.net^
 @@||ezyurl.co^
 @@||ezyurl.net^
@@ -3465,7 +3464,6 @@
 @@||flowhits.com^
 @@||flowus.cn^
 @@||flp.ai^
-@@||flpl.us^
 @@||flq.us^
 @@||flrt.me^
 @@||fltr.ai^
@@ -3558,7 +3556,6 @@
 @@||fund.school^
 @@||fundgop.co^
 @@||funimg.pddpic.com^
-@@||funnel2income.shop^
 @@||funurl.com^
 @@||fupi.co.tz^
 @@||fur.ly^
