@@ -7825,7 +7825,6 @@ ga.co
 ga.gravatar.com
 gaa.st
 gacoer.win
-gacor.app
 gacor123.red
 gacor22.me
 gacor66.me
@@ -7862,7 +7861,6 @@ game.qidian.com
 game.xiaomi.com
 gamebanana.com
 gamecopyworld.click
-gamegift24.com
 gamegta.com
 gameimg.qidian.com
 gamekult.com
@@ -7947,7 +7945,6 @@ gempixel.com
 gemy.link
 gen.cat
 generatemyqr.com
-generating.link
 generatortools-five.vercel.app
 genexcloud-sz.huawei.com
 geni.us
@@ -8416,7 +8413,6 @@ gonature.live
 gonephishing.me
 goninja.live
 goo-gl.me
-goo-id.com
 goo.by
 goo.click
 goo.gl
@@ -8871,7 +8867,6 @@ h.biz
 h.facebook.com
 h1.nu
 h18.update.netease.com
-h2apz.com
 h3x.ir
 h42.update.netease.com
 h4g3z1-referral.web.app
@@ -8928,7 +8923,6 @@ harounbillets.com
 harpercollins.com
 harvard.edu
 has.coffee
-hascxr.com
 hash.github.com
 hash.hitmanpro.com
 hashi.co
@@ -9028,7 +9022,6 @@ henrys.com
 henslot.urlklik.com
 hentaihand.com
 hentaihaven.org
-hepsipay.eu
 her.is
 herbeauty.co
 here.com
@@ -9151,8 +9144,6 @@ hnpa.top
 hnsl.mn
 hnz.li
 ho.io
-hoakhanh.life
-hoaminh.live
 hockeyapp.net
 hocmai.link
 hodroffs.com
@@ -9257,7 +9248,6 @@ hplus-lighting.com
 hpvk.com
 hqq.tv
 hqq.watch
-hqxxx.bar
 hr.163.com
 hr.mi.com
 hrbl.me
@@ -10261,7 +10251,6 @@ jackson.events
 jaga.link
 jaglil.com
 jagoan-hosting.online
-jalanku.me
 jalanpintas4d.com
 jalopnik.com
 jalurvip.co
@@ -10531,7 +10520,6 @@ kagk.top
 kaipuyun.cn
 kaitect.com
 kakaotv.daum.net
-kalcty.com
 kaltura.com
 kamo.es
 kamozshomecatalog.com
@@ -10697,7 +10685,6 @@ klik.now
 klik.top
 klikcuan.com
 klikmodus.buzz
-kliks.info
 kliks.online
 kliksaja.me
 kliksaya.co
@@ -10834,7 +10821,6 @@ kutt.ural-agro.com
 kuttify.com
 kuttix.juniorisep.com
 kuty.us
-kuxey.com
 kuyla.me
 kv.ci
 kve.so
@@ -13195,6 +13181,7 @@ mkto-sj140007.com
 mkto-sj140163.com
 mkto-sj150025.com
 mkto-sj160006.com
+mkto-sj160014.com
 mkto-sj170094.com
 mkto-sj180011.com
 mkto-sj190104.com

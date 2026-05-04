@@ -3600,7 +3600,6 @@
 @@||ga.co^
 @@||gaa.st^
 @@||gacoer.win^
-@@||gacor.app^
 @@||gacor123.red^
 @@||gacor22.me^
 @@||gacor66.me^
@@ -3621,7 +3620,6 @@
 @@||game.qidian.com^
 @@||game.xiaomi.com^
 @@||gamebanana.com^
-@@||gamegift24.com^
 @@||gamegta.com^
 @@||gameimg.qidian.com^
 @@||gamerzchoices.com^
@@ -3671,7 +3669,6 @@
 @@||gemy.link^
 @@||gen.cat^
 @@||generatemyqr.com^
-@@||generating.link^
 @@||generatortools-five.vercel.app^
 @@||geni.us^
 @@||genie.co.kr^
@@ -3983,7 +3980,6 @@
 @@||gonephishing.me^
 @@||goninja.live^
 @@||goo-gl.me^
-@@||goo-id.com^
 @@||goo.by^
 @@||goo.click^
 @@||goo.gle^
@@ -4125,7 +4121,6 @@
 @@||h.163.com^
 @@||h1.nu^
 @@||h18.update.netease.com^
-@@||h2apz.com^
 @@||h3x.ir^
 @@||h42.update.netease.com^
 @@||h4g3z1-referral.web.app^
@@ -4163,7 +4158,6 @@
 @@||harisenin.link^
 @@||harounbillets.com^
 @@||has.coffee^
-@@||hascxr.com^
 @@||hashi.co^
 @@||hass.win^
 @@||hatl.ink^
@@ -4206,7 +4200,6 @@
 @@||helvetqr.ch^
 @@||henslot.urlklik.com^
 @@||hentaihand.com^
-@@||hepsipay.eu^
 @@||her.is^
 @@||hereit.is^
 @@||hereoo.com^
@@ -4285,8 +4278,6 @@
 @@||hnsl.mn^
 @@||hnz.li^
 @@||ho.io^
-@@||hoakhanh.life^
-@@||hoaminh.live^
 @@||hocmai.link^
 @@||hodroffs.com^
 @@||hoeg.it^
@@ -4336,7 +4327,6 @@
 @@||hpe.to^
 @@||hplus-lighting.com^
 @@||hpvk.com^
-@@||hqxxx.bar^
 @@||hr.163.com^
 @@||hrbl.me^
 @@||hrbrg.co^
@@ -4793,7 +4783,6 @@
 @@||jaga.link^
 @@||jaglil.com^
 @@||jagoan-hosting.online^
-@@||jalanku.me^
 @@||jalanpintas4d.com^
 @@||jalurvip.co^
 @@||jalurwild.win^
@@ -4958,7 +4947,6 @@
 @@||kagca.link^
 @@||kagk.top^
 @@||kaitect.com^
-@@||kalcty.com^
 @@||kamo.es^
 @@||kamozshomecatalog.com^
 @@||kannn.me^
@@ -5066,7 +5054,6 @@
 @@||klik.top^
 @@||klikcuan.com^
 @@||klikmodus.buzz^
-@@||kliks.info^
 @@||kliks.online^
 @@||kliksaja.me^
 @@||kliksaya.co^
@@ -5169,7 +5156,6 @@
 @@||kuttify.com^
 @@||kuttix.juniorisep.com^
 @@||kuty.us^
-@@||kuxey.com^
 @@||kuyla.me^
 @@||kv.ci^
 @@||kve.so^
@@ -6689,6 +6675,7 @@
 @@||mkto-sj140163.com^
 @@||mkto-sj150025.com^
 @@||mkto-sj160006.com^
+@@||mkto-sj160014.com^
 @@||mkto-sj170094.com^
 @@||mkto-sj180011.com^
 @@||mkto-sj190104.com^
