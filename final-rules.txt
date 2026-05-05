@@ -11506,7 +11506,6 @@
 @@||linkpara.bio^
 @@||linkpatel.com^
 @@||linkpays.in^
-@@||linkpool.us^
 @@||linkpop.com^
 @@||linkpop.in^
 @@||linkprotbkita.com^
@@ -11560,7 +11559,6 @@
 @@||linksa.me^
 @@||linksable.to^
 @@||linksbr.com.br^
-@@||linksc.click^
 @@||linkscop.me^
 @@||linksdr.com^
 @@||linksdude.com^
@@ -11670,7 +11668,6 @@
 @@||linqry.com^
 @@||linqup.in^
 @@||lintlink.com^
-@@||linux.mom^
 @@||linuxtracker.org^
 @@||linxonly.com^
 @@||lionl.ink^
@@ -11849,7 +11846,6 @@
 @@||lnks.co.in^
 @@||lnks.es^
 @@||lnks.fr^
-@@||lnkshk.com^
 @@||lnkshort.com^
 @@||lnktee.com^
 @@||lnkup.us^
@@ -11995,7 +11991,6 @@
 @@||lowes.ugc.bazaarvoice.com^
 @@||lowrihouston.pro^
 @@||lowx.de^
-@@||loy.ro^
 @@||lp.pinduoduo.com^
 @@||lpc.ca^
 @@||lpcdn.pinduoduo.com^
@@ -12569,7 +12564,6 @@
 @@||masl.to^
 @@||massive.io^
 @@||masterlink.dev^
-@@||masterpoing.vip^
 @@||masuk-id.info^
 @@||masuk.cfd^
 @@||masuk.to^
@@ -13346,11 +13340,7 @@
 @@||momo.dm^
 @@||mon.isnssdk.com^
 @@||mondoagram.com^
-@@||monetiza.co^
 @@||moneysavingexpert.com^
-@@||monghaiba.life^
-@@||monghaibon.live^
-@@||monghainam.life^
 @@||monitor.fraudblocker.com^
 @@||monitor.lunio.ai^
 @@||monitor.returnpath.net^
@@ -13669,7 +13659,6 @@
 @@||myqlixellink.com^
 @@||myqrcode.mobi^
 @@||myservice.xbox.com^
-@@||mysexychat.live^
 @@||myshopify.com^
 @@||myshopurl.com^
 @@||myshortlink.info^
@@ -13831,7 +13820,6 @@
 @@||nebula-collector.huawei.com^
 @@||nectarios.info^
 @@||neexulro.net^
-@@||nefeli.live^
 @@||nefix.de^
 @@||neflixenomovies.com^
 @@||nej.md^
@@ -17783,6 +17771,7 @@
 @@||shortll.com^
 @@||shortlnk.app^
 @@||shortlnk.co^
+@@||shortlnk.me^
 @@||shortlnk.xyz^
 @@||shortlr.com^
 @@||shortlurl.com^
