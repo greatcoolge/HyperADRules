@@ -1979,7 +1979,6 @@ apexstats.com
 api-02.moengage.com
 api-03.moengage.com
 api-04.moengage.com
-api-101.moengage.com
 api-ap1.hubapi.com
 api-auth.soundcloud.com
 api-beta.huawei.com
@@ -13027,7 +13026,6 @@ neflixenomovies.com
 nej.md
 nejmqianyan.cn
 neo.am
-neoengage-va-cdn.exponea.com
 neontools.io
 neoplanet.snap.com
 neoseeker.com
@@ -17943,7 +17941,6 @@ suite12.emarsys.net
 suite14.emarsys.net
 suite15.emarsys.net
 suite16.emarsys.net
-suite17-cf.emarsys.net
 suite17.emarsys.net
 suite20.emarsys.net
 suite22.emarsys.net
@@ -17968,6 +17965,7 @@ suite43.emarsys.net
 suite45-cf.emarsys.net
 suite45.emarsys.net
 suite46.emarsys.net
+suite47-cf.emarsys.net
 suite5.emarsys.net
 suite50.emarsys.net
 suite52-cf.emarsys.net
