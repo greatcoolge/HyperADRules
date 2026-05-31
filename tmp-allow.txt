@@ -3281,6 +3281,7 @@
 @@||geo.itunes.apple.com^
 @@||geo01.dns.presslabs.net^
 @@||geo02.dns.presslabs.net^
+@@||geo1.presslabs.net^
 @@||georiot.co^
 @@||geotargetly.com^
 @@||gera.bio^
@@ -5408,6 +5409,7 @@
 @@||m-6pyms.custobar.com^
 @@||m-eqxt2.custobar.com^
 @@||m-gzmk5.custobar.com^
+@@||m-hju7x.custobar.com^
 @@||m-htgjb.custobar.com^
 @@||m-i.li^
 @@||m-k.ca^
@@ -6294,6 +6296,7 @@
 @@||neflixenomovies.com^
 @@||nej.md^
 @@||neo.am^
+@@||neoengage-va-cdn.exponea.com^
 @@||neontools.io^
 @@||nepolls.com^
 @@||nerdleveltech.com^

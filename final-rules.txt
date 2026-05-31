@@ -7577,6 +7577,7 @@
 @@||geo.settings.data.microsoft.com.akadns.net^
 @@||geo01.dns.presslabs.net^
 @@||geo02.dns.presslabs.net^
+@@||geo1.presslabs.net^
 @@||geo2.adobe.com^
 @@||geo3.ggpht.com^
 @@||geocities.com^
@@ -11412,6 +11413,7 @@
 @@||m-a-tb.sndcdn.com^
 @@||m-eqxt2.custobar.com^
 @@||m-gzmk5.custobar.com^
+@@||m-hju7x.custobar.com^
 @@||m-htgjb.custobar.com^
 @@||m-i.li^
 @@||m-k.ca^
@@ -13068,6 +13070,7 @@
 @@||nej.md^
 @@||nejmqianyan.cn^
 @@||neo.am^
+@@||neoengage-va-cdn.exponea.com^
 @@||neontools.io^
 @@||neoplanet.snap.com^
 @@||neoseeker.com^
