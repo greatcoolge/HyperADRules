@@ -50,11 +50,9 @@
 02faq.com
 03.wf
 072.sh
-078.me
 08url.com
 0a.sk
 0a0.uk
-0bs.de
 0daydown.com
 0eaf.cardinalcommerce.com
 0i.is
@@ -412,10 +410,8 @@
 3q3.de
 3ra.be
 3t.org
-3tj.cc
 3v3.run
 3w.pm
-3words.link
 3x.si
 3xs.live
 4-aclk.net
@@ -469,7 +465,6 @@
 4ty.me
 4uid.com
 4url.cc
-4x.si
 5-aclk.net
 5-edge-chat.facebook.com
 5-starevents.com
@@ -953,7 +948,6 @@ adbly.co
 adcolo.com
 adcr.naver.com
 add-l.ink
-add.lat
 add2wallet.link
 addevent.com
 addictivetips.com
@@ -2533,7 +2527,6 @@ app4.moovitapp.com
 app4cdn.moovitapp.com
 appattest.apple.com
 appauth.naver.com
-appbitly.com
 appboot.netflix.com
 appbrain.com
 appcenter.ms
@@ -2599,7 +2592,6 @@ appstore.pandora.xiaomi.com
 appsumo.com
 apptimize.com
 appurl.io
-appw.me
 appwhats.in
 appx.transient.amazon.com
 appx.transient.amazon.in
@@ -5531,6 +5523,7 @@ curlmin.com
 curriculumsystem.org
 curryfielddistribution.com
 curt.wiz.co
+curts.me
 curturl.net
 curty.in
 curvesncombatboots.com
@@ -5781,6 +5774,7 @@ daum.net
 daumcdn.net
 dausel.co
 davidbombal.wiki
+davidepuzzo.cloud
 davidheardmemorialhardheadyderby.com
 daviesscountyrepublicans.org
 davisonbarker.pro
@@ -11939,7 +11933,6 @@ lou.ly
 love-url.com
 love.xbox.com
 loveer.win
-lovelocals.us
 lovinlit.co
 lovoo.com
 low-5.com
@@ -11948,7 +11941,6 @@ low.software.dn.naver.com
 lowes.com
 lowes.com.au
 lowes.ugc.bazaarvoice.com
-lowrihouston.pro
 lowx.de
 loy.ro
 lp.pinduoduo.com
@@ -12078,6 +12070,7 @@ m-tcg.custobar.com
 m-tfe.custobar.com
 m-tmsif.custobar.com
 m-va.custobar.com
+m-vek.custobar.com
 m-zwhsc.custobar.com
 m.104.com.tw
 m.1234567.com.cn
@@ -12632,7 +12625,6 @@ me.kaspersky.com
 me.spot.im
 me.sv
 me2.do
-me2.kr
 me9.in
 mebioo.com
 mecaca.com
@@ -13156,6 +13148,7 @@ mkto-sj200186.com
 mkto-sj200191.com
 mkto-sj200201.com
 mkto-sj210057.com
+mkto-sj210170.com
 mkto-sj220006.com
 mkto-sj230006.com
 mkto-sj240021.com
@@ -13730,7 +13723,6 @@ nasa.gov
 nashcapernaum.org
 naszdziennik.pl
 natfrp.cloud
-nathanaeldan.pro
 nationalgeographic.com
 native-vita.np.ac.playstation.net
 natsbee.link
@@ -15432,6 +15424,7 @@ primagazine.com
 prime-link.net
 prime.coinbase.com
 primewire.ag
+princessproms.com
 princeton.edu
 printfriendly.com
 priolink.com
@@ -17540,7 +17533,6 @@ shortenerlink.net
 shortenerlink.xyz
 shortenerreviews.com
 shorteners.net
-shortenerword.com
 shortenfor.me
 shortengine.dev
 shortenlab.com
@@ -17568,7 +17560,6 @@ shorterin.com
 shorterit.com
 shorterlink.app
 shorterurl.net
-shortest.link
 shortet.com
 shortezy.com
 shortfake.com
@@ -21063,7 +21054,6 @@ urldefense.com
 urldefense.proofpoint.com
 urldirect21-1.org
 urldn.com
-urle.me
 urlenco.de
 urlers.com
 urles.us
@@ -21893,6 +21883,7 @@ wallpaper.cdn.pandora.xiaomi.com
 wallpaper.pandora.xiaomi.com
 wallpaperm.cmcm.com
 walmart.com
+waltersauto.net
 wandoujia.com
 wangbase.com
 wangzhanzhubo.com
