@@ -2871,10 +2871,8 @@
 @@||downloads.marketplace.jetbrains.com^
 @@||downloadtonic.com^
 @@||downv6.qq.com^
-@@||dp0.in^
 @@||dpb.fm^
 @@||dpb.link^
-@@||dpba2404.com^
 @@||dpbolvw.net^
 @@||dpm.demdex.net^
 @@||dpmd.ai^
@@ -2895,7 +2893,6 @@
 @@||drive-pc.quark.cn^
 @@||drivemetadata.io^
 @@||drnx.ir^
-@@||droid.ws^
 @@||droidqr.com^
 @@||dronescapes.video^
 @@||drop.tf^
@@ -2993,7 +2990,6 @@
 @@||eacdn.com^
 @@||earl.sh^
 @@||earn4link.in^
-@@||earn4url.com^
 @@||earnesst.website^
 @@||earnestwiles.com^
 @@||earnfly.net^
@@ -3013,7 +3009,6 @@
 @@||easyurlshortener.com^
 @@||eat.emmasolutions.net^
 @@||eazify.net^
-@@||eb.do^
 @@||ebarata.com^
 @@||ebay.to^
 @@||ebbco.ir^
@@ -3054,7 +3049,6 @@
 @@||eepurl.com^
 @@||efe.snssdk.com^
 @@||efie.co^
-@@||eflick.me^
 @@||efraising.org^
 @@||efs.link^
 @@||efshop.tw^

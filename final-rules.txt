@@ -6317,11 +6317,9 @@
 @@||downv6.qq.com^
 @@||doyoudo.com^
 @@||dp.blog.naver.com^
-@@||dp0.in^
 @@||dp8hsntg6do36.cloudfront.net^
 @@||dpb.fm^
 @@||dpb.link^
-@@||dpba2404.com^
 @@||dpbolvw.net^
 @@||dpimg.ospserver.net^
 @@||dpm.demdex.net^
@@ -6352,7 +6350,6 @@
 @@||driveapi.micloud.xiaomi.net^
 @@||drivemetadata.io^
 @@||drnx.ir^
-@@||droid.ws^
 @@||droidqr.com^
 @@||dronescapes.video^
 @@||drop.tf^
@@ -6512,7 +6509,6 @@
 @@||eacdn.com^
 @@||earl.sh^
 @@||earn4link.in^
-@@||earn4url.com^
 @@||earnesst.website^
 @@||earnestwiles.com^
 @@||earnfly.net^
@@ -6539,7 +6535,6 @@
 @@||easyurlshortener.com^
 @@||eat.emmasolutions.net^
 @@||eazify.net^
-@@||eb.do^
 @@||ebarata.com^
 @@||ebates.com^
 @@||ebay.co.uk^
@@ -6645,7 +6640,6 @@
 @@||efe.snssdk.com^
 @@||eff.org^
 @@||efie.co^
-@@||eflick.me^
 @@||efraising.org^
 @@||efs.link^
 @@||efshop.tw^
