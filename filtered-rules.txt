@@ -107,7 +107,6 @@
 10dh.co
 10i.in
 10xtools.io
-110.vg
 110415.libdd.com
 11ixcco.com
 11url.cn
@@ -4836,7 +4835,6 @@ clicksfly.com
 clickspot.io
 clicktale.net
 clickthru.ca
-clicktracker.getblue.io
 clicktracker.net
 clickurl.id
 clickurl.ink
@@ -9398,7 +9396,6 @@ ibf.tw
 ibis.li
 ibit.ly
 ibitsy.com
-ibizabet.li
 iblgcr.com
 ibm.biz
 ibm.co
@@ -10071,7 +10068,6 @@ is.hide.me
 is.snssdk.com
 is3.co
 isabi.click
-isang.click
 isc-vn.com
 isc-vn.org
 iscool.net
@@ -10155,7 +10151,6 @@ iurl.us
 iutoic-dhaka.edu
 iuu.ro
 iv-h.phncdn.com
-ivg.bz
 ivtshort.com
 iwifi.360.cn
 iwork.apple.com
@@ -10682,7 +10677,6 @@ kort.ca
 korta.nu
 korta.st
 koszykrd.wp.pl
-kota.lk
 kotaku.com
 kotl.in
 kp.org

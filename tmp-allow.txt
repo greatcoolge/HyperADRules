@@ -44,7 +44,6 @@
 @@||10dh.co^
 @@||10i.in^
 @@||10xtools.io^
-@@||110.vg^
 @@||11ixcco.com^
 @@||11url.cn^
 @@||122.link^
@@ -2187,7 +2186,6 @@
 @@||clickspot.io^
 @@||clicktale.net^
 @@||clickthru.ca^
-@@||clicktracker.getblue.io^
 @@||clicktracker.net^
 @@||clickurl.id^
 @@||clickurl.ink^
@@ -4379,7 +4377,6 @@
 @@||ibis.li^
 @@||ibit.ly^
 @@||ibitsy.com^
-@@||ibizabet.li^
 @@||iblgcr.com^
 @@||ibm.biz^
 @@||ibm.co^
@@ -4642,7 +4639,6 @@
 @@||is.gd^
 @@||is3.co^
 @@||isabi.click^
-@@||isang.click^
 @@||isc-vn.com^
 @@||isc-vn.org^
 @@||iscool.net^
@@ -4699,7 +4695,6 @@
 @@||iurl.us^
 @@||iuu.ro^
 @@||iv-h.phncdn.com^
-@@||ivg.bz^
 @@||ivtshort.com^
 @@||iwork.apple.com^
 @@||iwr.link^
@@ -5032,7 +5027,6 @@
 @@||kort.ca^
 @@||korta.nu^
 @@||korta.st^
-@@||kota.lk^
 @@||kotl.in^
 @@||kp.org^
 @@||kpmg.ch^
