@@ -174,7 +174,6 @@
 @@||2link.cc^
 @@||2link.in^
 @@||2ly.link^
-@@||2m.is^
 @@||2my.info^
 @@||2no.co^
 @@||2nu.gs^
@@ -840,6 +839,7 @@
 @@||alum.li^
 @@||alvinwanjala.com^
 @@||alwaysbizcard.com^
+@@||alx-cdn.exponea.com^
 @@||alxlinks.com^
 @@||am.lol^
 @@||amapps.uk^
@@ -1554,7 +1554,6 @@
 @@||blck.by^
 @@||ble.pl^
 @@||bleenk.co^
-@@||blink.hirebiz.com^
 @@||blinkbio.me^
 @@||blinkbreeze.com^
 @@||blinkmelink.com^
@@ -3095,6 +3094,7 @@
 @@||email-link.adtidy.info^
 @@||email-link.adtidy.org^
 @@||email-tracking.infobip.com^
+@@||email.microsoft.com^
 @@||email.microsoftonline.com^
 @@||email.namebase.io^
 @@||email.office.com^
@@ -5299,7 +5299,6 @@
 @@||likifi.com^
 @@||lil.ee^
 @@||lil.ge^
-@@||lil.vc^
 @@||lilbt.com^
 @@||lillink.net^
 @@||lillink.xyz^
@@ -5568,7 +5567,6 @@
 @@||linkloom.link^
 @@||linkly-shorten-and-manage-links.vercel.app^
 @@||linkly.co^
-@@||linkly.info^
 @@||linkly.qa^
 @@||linklyhq.com^
 @@||linklytics.com^
@@ -5602,7 +5600,6 @@
 @@||linkotomy.com^
 @@||linkotw.live^
 @@||linkp.ir^
-@@||linkp.online^
 @@||linkpage.it^
 @@||linkpara.bio^
 @@||linkpatel.com^
@@ -5611,7 +5608,6 @@
 @@||linkpop.in^
 @@||linkprotbkita.com^
 @@||linkprotect.cudasvc.com^
-@@||linkqb.com^
 @@||linkqr.io^
 @@||linkr.com^
 @@||linkr.it^
@@ -6028,6 +6024,7 @@
 @@||m-ll23a.custobar.com^
 @@||m-nvdxq.custobar.com^
 @@||m-nxt.custobar.com^
+@@||m-oszhr.custobar.com^
 @@||m-qrl63.custobar.com^
 @@||m-r.pw^
 @@||m-rst.custobar.com^
@@ -6373,7 +6370,6 @@
 @@||minggu.cfd^
 @@||mini-qr.vercel.app^
 @@||mini-url.in^
-@@||mini-url.net^
 @@||miniapp.gtimg.cn^
 @@||minifi.ca^
 @@||minify-url.com^
@@ -6631,7 +6627,6 @@
 @@||mkto-sj360104.com^
 @@||mkto-sj360117.com^
 @@||mkto-sj360142.com^
-@@||mkto-sj390015.com^
 @@||mkto-sj390079.com^
 @@||mkto-sjg0030.com^
 @@||mkto-sjh0084.com^
@@ -6821,7 +6816,6 @@
 @@||my.taptoconnect.app^
 @@||my1.ca^
 @@||my3777.app^
-@@||my5353.com^
 @@||myanlink.com^
 @@||myaz.tech^
 @@||mybio.bio^
@@ -6877,7 +6871,6 @@
 @@||myplumber.co^
 @@||mypnp.co.za^
 @@||myporn.link^
-@@||mypowerlinks.org^
 @@||mypoya.com^
 @@||myppt.cc^
 @@||myprivateproxies.org^
@@ -6939,7 +6932,6 @@
 @@||nah.uy^
 @@||naik-terus.com^
 @@||nakama420.xyz^
-@@||nakdetail.com^
 @@||nal.la^
 @@||nalo.life^
 @@||name.ly^
@@ -6962,7 +6954,6 @@
 @@||nawala.my^
 @@||nawalaku.com^
 @@||nawawinews.site^
-@@||nbanner.link^
 @@||nbc4dc.com^
 @@||nbcbay.com^
 @@||nbcchi.com^
@@ -6985,7 +6976,6 @@
 @@||neflixenomovies.com^
 @@||nej.md^
 @@||neo.am^
-@@||neoengage-va-cdn.exponea.com^
 @@||neonslug.com^
 @@||neontools.io^
 @@||nepolls.com^
@@ -7318,7 +7308,6 @@
 @@||openapi.vmall.com^
 @@||openinapp.link^
 @@||openmylink.io^
-@@||opent2.com^
 @@||opf.sh^
 @@||opizo.com^
 @@||opkale.me^
@@ -7513,7 +7502,6 @@
 @@||passport.weibo.com^
 @@||passport.yuewen.com^
 @@||past.is^
-@@||paste.ee^
 @@||pastiberkahh.com^
 @@||pastidibantu.com^
 @@||pastidubai1.com^
@@ -9881,6 +9869,7 @@
 @@||suite33-cf.emarsys.net^
 @@||suite33.emarsys.net^
 @@||suite34.emarsys.net^
+@@||suite35-cf.emarsys.net^
 @@||suite36.emarsys.net^
 @@||suite38.emarsys.net^
 @@||suite4-cf.emarsys.net^
@@ -10259,7 +10248,6 @@
 @@||tel-u.ac.id^
 @@||telega.io^
 @@||telegramviral.com^
-@@||telegramviral.online^
 @@||teleko.me^
 @@||tellurl.com^
 @@||tempfind.app^
@@ -10612,7 +10600,6 @@
 @@||toplistt.com^
 @@||topsitus.com^
 @@||topt.al^
-@@||topurl.cc^
 @@||topvir.com^
 @@||tore.marketing^
 @@||tori.top^
@@ -11488,7 +11475,6 @@
 @@||urly.fi^
 @@||urly.pro^
 @@||urlyshort.pro^
-@@||urlyte.com^
 @@||urlyy.com^
 @@||urlz.at^
 @@||urlz.com^

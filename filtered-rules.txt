@@ -298,7 +298,6 @@
 2link.cc
 2link.in
 2ly.link
-2m.is
 2my.info
 2no.co
 2nu.gs
@@ -1354,6 +1353,7 @@ alturl.site
 alum.li
 alvinwanjala.com
 alwaysbizcard.com
+alx-cdn.exponea.com
 alxlinks.com
 am-api.snapchat.com
 am.coinbase.com
@@ -3477,7 +3477,6 @@ ble.pl
 bleacherreport.com
 bleenk.co
 bleepingcomputer.com
-blink.hirebiz.com
 blinkbio.me
 blinkbreeze.com
 blinkmelink.com
@@ -6717,6 +6716,7 @@ email.dailycaller.com
 email.flipboard.com
 email.gotinder.com
 email.mail.breitbart.com
+email.microsoft.com
 email.microsoftonline.com
 email.namebase.io
 email.notify.vuukle.com
@@ -11091,7 +11091,6 @@ likes.fans
 likifi.com
 lil.ee
 lil.ge
-lil.vc
 lilbt.com
 lillink.net
 lillink.xyz
@@ -11383,7 +11382,6 @@ linklada.com
 linkloom.link
 linkly-shorten-and-manage-links.vercel.app
 linkly.co
-linkly.info
 linkly.qa
 linklyhq.com
 linklytics.com
@@ -11417,7 +11415,6 @@ linkoqr.com
 linkotomy.com
 linkotw.live
 linkp.ir
-linkp.online
 linkpage.it
 linkpara.bio
 linkpatel.com
@@ -11426,7 +11423,6 @@ linkpop.com
 linkpop.in
 linkprotbkita.com
 linkprotect.cudasvc.com
-linkqb.com
 linkqr.io
 linkr.com
 linkr.it
@@ -12021,6 +12017,7 @@ m-kzo.custobar.com
 m-ll23a.custobar.com
 m-nvdxq.custobar.com
 m-nxt.custobar.com
+m-oszhr.custobar.com
 m-qrl63.custobar.com
 m-r.pw
 m-rst.custobar.com
@@ -12839,7 +12836,6 @@ minggu.cfd
 mingle.kijiji.ca
 mini-qr.vercel.app
 mini-url.in
-mini-url.net
 mini.7zap.com
 mini.eastday.com
 mini.engadget.com
@@ -13138,7 +13134,6 @@ mkto-sj340004.com
 mkto-sj360104.com
 mkto-sj360117.com
 mkto-sj360142.com
-mkto-sj390015.com
 mkto-sj390079.com
 mkto-sjg0030.com
 mkto-sjh0084.com
@@ -13503,7 +13498,6 @@ my.travel.rakuten.co.jp
 my.vudu.com
 my1.ca
 my3777.app
-my5353.com
 myaccount.nytimes.com
 myanlink.com
 myaz.tech
@@ -13572,7 +13566,6 @@ myplumber.co
 mypnp.co.za
 mypoints.snap.com
 myporn.link
-mypowerlinks.org
 mypoya.com
 myppt.cc
 myprivateproxies.org
@@ -13664,7 +13657,6 @@ nahnoji.cz
 naifei.shop
 naik-terus.com
 nakama420.xyz
-nakdetail.com
 nal.la
 nalo.life
 nam02.safelinks.protection.outlook.com
@@ -13715,7 +13707,6 @@ nazwa.pl
 nb.gravatar.com
 nb.statcounter.com
 nba.com
-nbanner.link
 nbc4dc.com
 nbcbay.com
 nbcchi.com
@@ -13748,7 +13739,6 @@ neflixenomovies.com
 nej.md
 nejmqianyan.cn
 neo.am
-neoengage-va-cdn.exponea.com
 neonslug.com
 neontools.io
 neoplanet.snap.com
@@ -14466,7 +14456,6 @@ opensource.org
 opensource.samsung.com
 openstreetmap.org
 opensubtitles.org
-opent2.com
 opentracker.i2p.rocks
 opentracker.xyz
 openuserjs.org
@@ -14803,7 +14792,6 @@ passport.weibo.com
 passport.yuewen.com
 password.kaspersky.com
 past.is
-paste.ee
 pastebin.com
 pasteboard.co
 pasted.co
@@ -18957,6 +18945,7 @@ suite30.emarsys.net
 suite33-cf.emarsys.net
 suite33.emarsys.net
 suite34.emarsys.net
+suite35-cf.emarsys.net
 suite36.emarsys.net
 suite38.emarsys.net
 suite4-cf.emarsys.net
@@ -19532,7 +19521,6 @@ telegra.ph
 telegram.me
 telegram.org
 telegramviral.com
-telegramviral.online
 telegraph.co.uk
 teleko.me
 telemetry-incoming.r53-2.services.mozilla.com
@@ -20027,7 +20015,6 @@ topratedmilfs.com
 topsitus.com
 topt.al
 toptenreviews.com
-topurl.cc
 topvir.com
 tore.marketing
 toreedgefd.dsx.mp.microsoft.com
@@ -21185,7 +21172,6 @@ urly.co
 urly.fi
 urly.pro
 urlyshort.pro
-urlyte.com
 urlyy.com
 urlz.at
 urlz.com
