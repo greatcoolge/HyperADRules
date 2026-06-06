@@ -7676,7 +7676,6 @@
 @@||pkvg.link^
 @@||pl.taptap.cn^
 @@||pla.daisycon.io^
-@@||plabtainment.com^
 @@||placesunknown.art^
 @@||pladollmo.com^
 @@||plannery.app^
@@ -11221,7 +11220,6 @@
 @@||url.nfc.al^
 @@||url.nimsindia.org^
 @@||url.odds.team^
-@@||url.optidiscover.com^
 @@||url.or.at^
 @@||url.prepo.io^
 @@||url.procreatebrushes.app^

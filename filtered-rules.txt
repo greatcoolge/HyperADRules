@@ -15107,7 +15107,6 @@ pl.playstation.com
 pl.taptap.cn
 pl.wikipedia.com
 pla.daisycon.io
-plabtainment.com
 placehold.it
 placeholdit.imgix.net
 places-manager-api.snapchat.com
@@ -20912,7 +20911,6 @@ url.near-real.com
 url.nfc.al
 url.nimsindia.org
 url.odds.team
-url.optidiscover.com
 url.or.at
 url.org
 url.prepo.io
