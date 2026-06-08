@@ -3414,6 +3414,7 @@
 @@||firelinks.site^
 @@||firsturl.de^
 @@||firsturl.net^
+@@||fis-iittala-cdn.exponea.com^
 @@||fis-royalcopenhagen-cdn.exponea.com^
 @@||fitnur.com^
 @@||fits.marketing^
@@ -6065,6 +6066,7 @@
 @@||m-nvdxq.custobar.com^
 @@||m-nxt.custobar.com^
 @@||m-oszhr.custobar.com^
+@@||m-pwvgh.custobar.com^
 @@||m-qrl63.custobar.com^
 @@||m-r.pw^
 @@||m-rst.custobar.com^
@@ -9901,6 +9903,7 @@
 @@||suite33.emarsys.net^
 @@||suite34.emarsys.net^
 @@||suite35-cf.emarsys.net^
+@@||suite36-cf.emarsys.net^
 @@||suite36.emarsys.net^
 @@||suite38.emarsys.net^
 @@||suite4-cf.emarsys.net^
