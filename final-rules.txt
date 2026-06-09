@@ -1045,6 +1045,7 @@
 @@||adservice.google.at^
 @@||adservice.google.ca^
 @@||adservice.google.ch^
+@@||adservice.google.co.ao^
 @@||adservice.google.co.bw^
 @@||adservice.google.co.cr^
 @@||adservice.google.co.id^
@@ -1096,12 +1097,15 @@
 @@||adservice.google.com.pe^
 @@||adservice.google.com.ph^
 @@||adservice.google.com.pk^
+@@||adservice.google.com.pr^
 @@||adservice.google.com.qa^
 @@||adservice.google.com.sa^
+@@||adservice.google.com.sg^
 @@||adservice.google.com.sv^
 @@||adservice.google.com.tr^
 @@||adservice.google.com.tw^
 @@||adservice.google.com.ua^
+@@||adservice.google.com.uy^
 @@||adservice.google.com.vn^
 @@||adservice.google.com^
 @@||adservice.google.cz^
@@ -4308,6 +4312,7 @@
 @@||cdn.digitaltrends.com^
 @@||cdn.discordapp.com^
 @@||cdn.dnaindia.com^
+@@||cdn.e-pfg.exponea.com^
 @@||cdn.edgesuite.net^
 @@||cdn.embed.ly^
 @@||cdn.embedly.com^
@@ -11771,6 +11776,7 @@
 @@||ln.run^
 @@||ln24.ir^
 @@||lndata.com^
+@@||lner-cdn.exponea.com^
 @@||lnfo.uz^
 @@||lnk-x.com^
 @@||lnk.bio^
@@ -12999,6 +13005,7 @@
 @@||mkto-ab150013.com^
 @@||mkto-ab170094.com^
 @@||mkto-ab170123.com^
+@@||mkto-ab170161.com^
 @@||mkto-ab180008.com^
 @@||mkto-ab180024.com^
 @@||mkto-ab220038.com^
@@ -13006,12 +13013,13 @@
 @@||mkto-ab240112.com^
 @@||mkto-ab250068.com^
 @@||mkto-ab250105.com^
-@@||mkto-ab250167.com^
 @@||mkto-ab260164.com^
+@@||mkto-ab270090.com^
 @@||mkto-ab270109.com^
 @@||mkto-ab280067.com^
 @@||mkto-ab290102.com^
 @@||mkto-ab290138.com^
+@@||mkto-ab300154.com^
 @@||mkto-ab310115.com^
 @@||mkto-ab320028.com^
 @@||mkto-ab320182.com^
@@ -13047,19 +13055,20 @@
 @@||mkto-ab470148.com^
 @@||mkto-ab480014.com^
 @@||mkto-ab480015.com^
+@@||mkto-ab530057.com^
 @@||mkto-ab530192.com^
 @@||mkto-ab540059.com^
 @@||mkto-ab540143.com^
 @@||mkto-ab540186.com^
 @@||mkto-ab550041.com^
 @@||mkto-ab550140.com^
-@@||mkto-ab550144.com^
 @@||mkto-ab550184.com^
 @@||mkto-ab560068.com^
 @@||mkto-ab560119.com^
 @@||mkto-ab570110.com^
 @@||mkto-ab570128.com^
 @@||mkto-ab580004.com^
+@@||mkto-ab610035.com^
 @@||mkto-ab610084.com^
 @@||mkto-ab620024.com^
 @@||mkto-ab620054.com^
@@ -13123,6 +13132,7 @@
 @@||mkto-n0092.com^
 @@||mkto-nld1010057.com^
 @@||mkto-nld1010079.com^
+@@||mkto-nld1010097.com^
 @@||mkto-nld1010150.com^
 @@||mkto-nld1020077.com^
 @@||mkto-nld1020173.com^
@@ -13147,6 +13157,7 @@
 @@||mkto-sj040252.com^
 @@||mkto-sj050106.com^
 @@||mkto-sj050137.com^
+@@||mkto-sj050237.com^
 @@||mkto-sj060054.com^
 @@||mkto-sj070141.com^
 @@||mkto-sj070214.com^
@@ -18968,7 +18979,6 @@
 @@||suite14.emarsys.net^
 @@||suite15.emarsys.net^
 @@||suite16.emarsys.net^
-@@||suite17-cf.emarsys.net^
 @@||suite17.emarsys.net^
 @@||suite20.emarsys.net^
 @@||suite22-cf.emarsys.net^
@@ -18986,7 +18996,6 @@
 @@||suite33.emarsys.net^
 @@||suite34.emarsys.net^
 @@||suite35-cf.emarsys.net^
-@@||suite36-cf.emarsys.net^
 @@||suite36.emarsys.net^
 @@||suite38.emarsys.net^
 @@||suite4-cf.emarsys.net^
