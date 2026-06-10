@@ -158,6 +158,7 @@
 @@||1cl.be^
 @@||1cl.me^
 @@||1clix.in^
+@@||1da.ir^
 @@||1dietplans.com^
 @@||1do.me^
 @@||1dot0dot0dot1.cloudflare-dns.com^
@@ -175,6 +176,7 @@
 @@||1gr.cz^
 @@||1hosts.cf^
 @@||1i1.in^
+@@||1in.me^
 @@||1ink.info^
 @@||1ir.org^
 @@||1kh.de^
@@ -209,6 +211,7 @@
 @@||1sturl.com^
 @@||1ta.kr^
 @@||1tian.kuaishou.com^
+@@||1tk.us^
 @@||1tn.se^
 @@||1to3.link^
 @@||1ty.me^
@@ -218,10 +221,12 @@
 @@||1url.co.uk^
 @@||1url.com^
 @@||1url.cz^
+@@||1url.info^
 @@||1url.it^
 @@||1url.my^
 @@||1url.re^
 @@||1url.vn^
+@@||1vk.net^
 @@||1weather.onelouder.com^
 @@||1west.io^
 @@||1wn.bz^
@@ -300,7 +305,9 @@
 @@||2k1.me^
 @@||2kgam.es^
 @@||2l.me^
+@@||2l2.me^
 @@||2la.eu^
+@@||2la.fr^
 @@||2link.cc^
 @@||2link.in^
 @@||2ly.link^
@@ -324,6 +331,7 @@
 @@||2tf.net^
 @@||2tiny.in^
 @@||2to.info^
+@@||2tu.us^
 @@||2u.gg^
 @@||2u.lc^
 @@||2u.pw^
@@ -412,6 +420,7 @@
 @@||3name.com^
 @@||3p.ampproject.net^
 @@||3q3.de^
+@@||3qzr.com^
 @@||3ra.be^
 @@||3t.org^
 @@||3v3.run^
@@ -451,6 +460,7 @@
 @@||4fun.tw^
 @@||4h.net^
 @@||4hi.co^
+@@||4i.ae^
 @@||4insurancejobs.com^
 @@||4ja.ai^
 @@||4l.shop^
@@ -492,6 +502,7 @@
 @@||5o.io^
 @@||5or.cc^
 @@||5qzr.com^
+@@||5rwv.info^
 @@||5url.net^
 @@||5v-v.com^
 @@||5w.fit^
@@ -509,6 +520,7 @@
 @@||69run.fun^
 @@||6b.cz^
 @@||6bit.in^
+@@||6ct.org^
 @@||6du.in^
 @@||6e.de^
 @@||6g6.eu^
@@ -517,6 +529,7 @@
 @@||6p.ru^
 @@||6pm.com^
 @@||6url.com^
+@@||6urls.com^
 @@||7-aclk.net^
 @@||7.ly^
 @@||707.su^
@@ -527,15 +540,18 @@
 @@||733s.com^
 @@||74i.de^
 @@||76.org^
+@@||77.ai^
 @@||777be.livepartners.com^
 @@||777ch.livepartners.com^
 @@||777es.livepartners.com^
 @@||777nl.livepartners.com^
 @@||777online.life^
+@@||7894.xyz^
 @@||79423.analytics.edgesuite.net^
 @@||7a.ink^
 @@||7c34.com^
 @@||7chan.org^
+@@||7clik.com^
 @@||7eer.net^
 @@||7fth.cc^
 @@||7g7.ir^
@@ -554,22 +570,26 @@
 @@||7ny.tv^
 @@||7oi.de^
 @@||7or.net^
+@@||7vd.cn^
 @@||7z.si^
 @@||7zap.com^
 @@||8-aclk.net^
 @@||8.ly^
 @@||8591.tw^
+@@||888b.pw^
 @@||888df.com^
 @@||88nb.cc^
 @@||88win.link^
 @@||89bet69.cc^
 @@||89bet69.net^
 @@||8cc7.com^
+@@||8n.ink^
 @@||8oc.com^
 @@||8tm.net^
 @@||8u.cz^
 @@||8u.pw^
 @@||9-aclk.net^
+@@||9.ly^
 @@||900r.ir^
 @@||91haoka.cn^
 @@||91mobiles.com^
@@ -578,9 +598,11 @@
 @@||93.link^
 @@||98.to^
 @@||985.so^
+@@||999.sh^
 @@||99forward.com^
 @@||99fw.in^
 @@||99links.in^
+@@||99vpn.pro^
 @@||9Anime.to^
 @@||9g9.org^
 @@||9gag.com^
@@ -4024,7 +4046,6 @@
 @@||c2.piano.io^
 @@||c212.net^
 @@||c24.cn^
-@@||c2827.dotomi.com^
 @@||c2c.fm^
 @@||c2d.in^
 @@||c2mc.link^
@@ -4996,6 +5017,7 @@
 @@||cloudmail18.netcore.co.in^
 @@||cloudmail19.netcore.co.in^
 @@||cloudmail20.netcore.co.in^
+@@||cloudmail5.netcore.co.in^
 @@||cloudopenlabs.huawei.com^
 @@||cloudradar.net^
 @@||cloudservices.roku.com^
@@ -6769,6 +6791,7 @@
 @@||email.flipboard.com^
 @@||email.gotinder.com^
 @@||email.mail.breitbart.com^
+@@||email.microsoft.com^
 @@||email.microsoftonline.com^
 @@||email.namebase.io^
 @@||email.notify.vuukle.com^
@@ -11776,7 +11799,6 @@
 @@||ln.run^
 @@||ln24.ir^
 @@||lndata.com^
-@@||lner-cdn.exponea.com^
 @@||lnfo.uz^
 @@||lnk-x.com^
 @@||lnk.bio^
@@ -12998,6 +13020,7 @@
 @@||mkto-ab070069.com^
 @@||mkto-ab080055.com^
 @@||mkto-ab080061.com^
+@@||mkto-ab100241.com^
 @@||mkto-ab110171.com^
 @@||mkto-ab130037.com^
 @@||mkto-ab130188.com^
@@ -13117,9 +13140,11 @@
 @@||mkto-lon050143.com^
 @@||mkto-lon050200.com^
 @@||mkto-lon060131.com^
+@@||mkto-lon070192.com^
 @@||mkto-lon080006.com^
 @@||mkto-lon080059.com^
 @@||mkto-lon080118.com^
+@@||mkto-lon090040.com^
 @@||mkto-lon090045.com^
 @@||mkto-lon090082.com^
 @@||mkto-lon090106.com^
@@ -13130,6 +13155,7 @@
 @@||mkto-m0111.com^
 @@||mkto-mlm10010008.com^
 @@||mkto-n0092.com^
+@@||mkto-n0243.com^
 @@||mkto-nld1010057.com^
 @@||mkto-nld1010079.com^
 @@||mkto-nld1010097.com^
@@ -18970,6 +18996,7 @@
 @@||suggestion.baidu.com^
 @@||suggestqueries.google.com^
 @@||sugs.m.sm.cn^
+@@||suite0.emarsys.net^
 @@||suite1.emarsys.net^
 @@||suite10-cf.emarsys.net^
 @@||suite10.emarsys.net^
@@ -18992,6 +19019,7 @@
 @@||suite30-cdnnet.emarsys.net^
 @@||suite30-cf.emarsys.net^
 @@||suite30.emarsys.net^
+@@||suite32.emarsys.net^
 @@||suite33-cf.emarsys.net^
 @@||suite33.emarsys.net^
 @@||suite34.emarsys.net^
