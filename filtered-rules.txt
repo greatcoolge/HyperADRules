@@ -5549,6 +5549,7 @@ csi.gstatic.com
 csinc.bz
 csj.lol
 csmo.us
+csmp.nl
 csnode.com
 csp.medium.com
 csr.integration.viber.com
@@ -5572,6 +5573,7 @@ ctahire.com
 ctbc.tw
 ctc.fe01.c3.xiaomi.com
 ctc.fe02.c3.xiaomi.com
+ctc.im
 cte.li
 ctfl.io
 ctfn.cc
@@ -5594,6 +5596,7 @@ cube.meituan.net
 cubestat.com
 cuer.io
 cuk.one
+cukbaray.com
 cul.ke
 cultm.ac
 culy.top
@@ -5672,12 +5675,14 @@ cutt.pk
 cutt.us
 cuttgoo.com
 cutth.com
+cutthis.link
 cuttify.io
 cuttly.io
 cuttly.pro
 cutto.io
 cutts.in
 cutturl.xyz
+cutur.link
 cuturl.cloud
 cuturl.com
 cuturl.net
@@ -5722,6 +5727,7 @@ cydia.saurik.com.cdngc.net
 cygwin.com
 cyrmp.com
 cyte.in
+cyunz.com
 cz.playstation.com
 cz.wikipedia.com
 d-edgeconnect.media
@@ -5846,6 +5852,7 @@ data.worldbank.org
 databrains.net
 datafilehost.com
 datalab.naver.com
+datalisa.id
 datalotrk.com
 datamixer-pa.googleapis.com
 dataplicity.com
@@ -5857,6 +5864,7 @@ datastore.rediff.com
 dataurbia.com
 datayi.cn
 datei.to
+datenami.tw
 daum.net
 daumcdn.net
 dausel.co
@@ -5900,11 +5908,13 @@ dct.klaviyodns.com
 dctrawler.dailycaller.com
 dd.ma
 dd.myapp.com
+ddbfx.com
 ddlsu.com
 ddns.net
 ddos-guard.net
 ddot.click
 ddot.to
+ddp.net
 ddrk.me
 ddw.nu
 ddyunbo.com
@@ -6229,6 +6239,7 @@ dl100.cc
 dl2.files.xiaomi.net
 dl2.soft98.ir
 dlassets-ssl.xboxlive.com
+dld.bz
 dldir.xiaomi.net
 dldir1.qq.com
 dldir1v6.qq.com
