@@ -378,7 +378,6 @@
 @@||316.coolapk1s.com^
 @@||31productions.de^
 @@||321url.com^
-@@||341850582.group0.sites.hscoscdn-na3.net^
 @@||350.my^
 @@||360.cn^
 @@||360links.net^
@@ -2211,7 +2210,6 @@
 @@||api-secure.solvemedia.com^
 @@||api-shoulei-ssl.xunlei.com^
 @@||api-ssl.bit.ly^
-@@||api-stage.cleverpush.com^
 @@||api-staging-embedded.soundcloud.com^
 @@||api-stream.twitter.com^
 @@||api-tv.spotify.com^
@@ -2490,6 +2488,7 @@
 @@||apis.naver.com^
 @@||apis.snapchat.com^
 @@||apis.vk.vom^
+@@||apiservices.krxd.net^
 @@||apiwz.midukanshu.com^
 @@||apk-packaging.tapimg.com^
 @@||apk.v-mate.mobi^
@@ -5857,6 +5856,7 @@
 @@||data.worldbank.org^
 @@||databrains.net^
 @@||datafilehost.com^
+@@||dataflow.biliapi.com^
 @@||datalab.naver.com^
 @@||datalisa.id^
 @@||datalotrk.com^
@@ -6466,6 +6466,7 @@
 @@||driveapi.micloud.xiaomi.net^
 @@||drivemetadata.io^
 @@||drnx.ir^
+@@||droid.ws^
 @@||droidqr.com^
 @@||dronescapes.video^
 @@||drop.tf^
@@ -6490,6 +6491,7 @@
 @@||dsh.re^
 @@||dside.ca^
 @@||dsm.ok.ru^
+@@||dsn.io^
 @@||dsp.brand.sogou.com^
 @@||dsre.me^
 @@||dss2.bdstatic.com^
@@ -6500,6 +6502,7 @@
 @@||dswurl.de^
 @@||dt51.net^
 @@||dtdg.co^
+@@||dte.bz^
 @@||dti.io^
 @@||dtl.la^
 @@||dts.podtrac.com^
@@ -6629,6 +6632,7 @@
 @@||earnestwiles.com^
 @@||earnfly.net^
 @@||earnshort.site^
+@@||earnshorter.com^
 @@||earnshortly.com^
 @@||earnwithlink.com^
 @@||earth.google.com^
@@ -6690,6 +6694,7 @@
 @@||echannel.huawei.com^
 @@||echo.edge.messenger.live.com^
 @@||eclink.me^
+@@||eclip.se^
 @@||ecn.dev.virtualearth.net^
 @@||eco.taobao.com^
 @@||ecom.dutchbanglabank.com^
@@ -6787,6 +6792,7 @@
 @@||el.lk^
 @@||el.ly^
 @@||el1nk.com^
+@@||el32.com^
 @@||ela.st^
 @@||elaach.com^
 @@||eladkarako.com^
@@ -7173,12 +7179,14 @@
 @@||extratorrent.cc^
 @@||extratorrent.com^
 @@||exx.us^
+@@||eyemakeu.com^
 @@||eys.li^
 @@||ez1.cc^
 @@||ezbio.me^
 @@||ezbz.me^
 @@||ezc.vc^
 @@||ezcashlink.com^
+@@||ezclick.me^
 @@||ezexzo.link^
 @@||ezilinks.com^
 @@||ezlc.net^
@@ -7190,6 +7198,7 @@
 @@||eztv.io^
 @@||eztv.it^
 @@||eztv.re^
+@@||ezurl.cc^
 @@||ezurl.co^
 @@||ezwashing.com^
 @@||ezylnk.com^
@@ -7225,6 +7234,7 @@
 @@||f2.g.mi.com^
 @@||f24.link^
 @@||f3.social^
+@@||f44.link^
 @@||f4d.uk^
 @@||f5i.org^
 @@||f5url.com^
@@ -7258,6 +7268,7 @@
 @@||fandom.com^
 @@||fandom.link^
 @@||fandw.me^
+@@||fanlink.to^
 @@||fanqienovel.com^
 @@||fansurl.com^
 @@||fantasy.premierleague.com^
@@ -7372,6 +7383,7 @@
 @@||feelinsonice.l.google.com^
 @@||feentry.zhuanzhuan.com^
 @@||feji.io^
+@@||fenomen.live^
 @@||feodotracker.abuse.ch^
 @@||ferrari-cdn.thron.com^
 @@||fessior.com^
@@ -7399,8 +7411,10 @@
 @@||fhurl.com^
 @@||fi.gravatar.com^
 @@||fi.m.wikipedia.com^
+@@||fi.ro^
 @@||fi.statcounter.com^
 @@||fi.wikipedia.com^
+@@||fi9.ir^
 @@||fiatconnect.app^
 @@||fibr.ai^
 @@||fic.my.id^
@@ -7503,10 +7517,12 @@
 @@||fixi.me^
 @@||fiy.no^
 @@||fjr24.com^
+@@||fklit.com^
 @@||fkp.samsungcloudsolution.com^
 @@||fkp.samsungcloudsolution.net^
 @@||fl-y.com^
 @@||fl8.me^
+@@||flameurl.com^
 @@||flapi.flipboard.com^
 @@||flash.sec.intl.miui.com^
 @@||flash.sec.miui.com^
@@ -7520,6 +7536,7 @@
 @@||flea.flipboard.com^
 @@||flemail.flipboard.com^
 @@||flexitube.xyz^
+@@||flexjetcareers.com^
 @@||flextrig.com^
 @@||flic.kr^
 @@||flickerlink.com^
@@ -7549,6 +7566,7 @@
 @@||flowplayer.com^
 @@||flowus.cn^
 @@||flp.ai^
+@@||flpl.us^
 @@||flq.us^
 @@||flrt.me^
 @@||fls-eu.amazon.com^
@@ -7588,6 +7606,7 @@
 @@||foee.top^
 @@||fok.nl^
 @@||foll.link^
+@@||followmy.bio^
 @@||folm.org^
 @@||folu.me^
 @@||fon.gs^
@@ -7898,6 +7917,7 @@
 @@||ga.gravatar.com^
 @@||gaa.st^
 @@||gacoer.win^
+@@||gacor.app^
 @@||gacor123.red^
 @@||gacor22.me^
 @@||gacor66.me^
@@ -7934,6 +7954,7 @@
 @@||game.xiaomi.com^
 @@||gamebanana.com^
 @@||gamecopyworld.click^
+@@||gamegift24.com^
 @@||gamegta.com^
 @@||gameimg.qidian.com^
 @@||gamekult.com^
@@ -7996,6 +8017,7 @@
 @@||gdmf.apple.com^
 @@||gdown.baidu.com^
 @@||gds-vhs-drops-campaign-images.twitch.tv^
+@@||gdurl.com^
 @@||ge.tt^
 @@||gear.playstation.com^
 @@||gear.sca.samsung.com^
@@ -8017,6 +8039,7 @@
 @@||gempixel.com^
 @@||gemy.link^
 @@||gen.cat^
+@@||generating.link^
 @@||generatortools-five.vercel.app^
 @@||genexcloud-sz.huawei.com^
 @@||geni.us^
@@ -8086,6 +8109,7 @@
 @@||get.xda-developers.com^
 @@||get3.adobe.com^
 @@||getabre.com^
+@@||getadsnow.org^
 @@||getalinkandshare.com^
 @@||getashorturl.com^
 @@||getbio.co^
@@ -8167,6 +8191,7 @@
 @@||giphy.com^
 @@||gips2.baidu.com^
 @@||gir.gg^
+@@||gir.my^
 @@||giraffeweb.link^
 @@||giris724.link^
 @@||girismario.com^
@@ -8245,10 +8270,12 @@
 @@||globalclicklab.com^
 @@||globalping.gotinder.com^
 @@||globalupload.io^
+@@||globargains.com^
 @@||globo.com^
 @@||gloimg.gbtcdn.com^
 @@||glol.in^
 @@||glolin.com^
+@@||glowin88.site^
 @@||gloyah.net^
 @@||glss.co^
 @@||glyph.medium.com^
@@ -8419,6 +8446,7 @@
 @@||go.wechat.com^
 @@||go.weesify.com^
 @@||go.weplayholding.com^
+@@||go.westco.mobi^
 @@||go.whyd.net^
 @@||go.wootwp.com^
 @@||go.yusufipek.me^
@@ -8438,6 +8466,7 @@
 @@||go2u.cc^
 @@||go2www.link^
 @@||go777.net^
+@@||goads.id^
 @@||goaftrad.com^
 @@||goatcodes.com^
 @@||gob.pe^
@@ -8460,6 +8489,7 @@
 @@||gogoanime.io^
 @@||gogoclick.info^
 @@||gogoto.me^
+@@||gohostd.com^
 @@||goink.me^
 @@||goitb.id^
 @@||gokano.com^
@@ -8909,6 +8939,7 @@
 @@||gumtree.com^
 @@||guns.dailycaller.com^
 @@||guokr.com^
+@@||gurl.es^
 @@||gurl.pro^
 @@||gurl.to^
 @@||guru3d.com^
@@ -8988,6 +9019,7 @@
 @@||hardware.support.eu.playstation.com^
 @@||hardwareluxx.de^
 @@||harisenin.link^
+@@||harmonyurl.ir^
 @@||harounbillets.com^
 @@||harpercollins.com^
 @@||harvard.edu^
@@ -9050,6 +9082,7 @@
 @@||heise.de^
 @@||hello.myfonts.net^
 @@||hellokity.xyz^
+@@||hellotxt.com^
 @@||hellowork.life^
 @@||helo.ai^
 @@||help-assets.soundcloud.com^
@@ -9091,6 +9124,7 @@
 @@||henslot.urlklik.com^
 @@||hentaihand.com^
 @@||hentaihaven.org^
+@@||hepsipay.eu^
 @@||her.is^
 @@||herbeauty.co^
 @@||here.com^
@@ -9123,6 +9157,7 @@
 @@||hi.sat.cool^
 @@||hi.statcounter.com^
 @@||hi4.in^
+@@||hibastyle.com^
 @@||hibfox.com^
 @@||hibu.com^
 @@||hicider.com^
@@ -9221,6 +9256,7 @@
 @@||hoeg.it^
 @@||hoholah.xyz^
 @@||hoken.rakuten.co.jp^
+@@||hoki108.shop^
 @@||hoki22crot.com^
 @@||hokidana.vip^
 @@||hokie.co^
@@ -9325,6 +9361,7 @@
 @@||hrbrg.co^
 @@||hrcs.huawei.com^
 @@||href.ar^
+@@||href.in^
 @@||href.li^
 @@||href.pw^
 @@||hrshort.com^
@@ -13091,6 +13128,7 @@
 @@||mkto-ab270090.com^
 @@||mkto-ab270109.com^
 @@||mkto-ab280067.com^
+@@||mkto-ab280126.com^
 @@||mkto-ab290102.com^
 @@||mkto-ab290138.com^
 @@||mkto-ab300154.com^
@@ -13111,6 +13149,7 @@
 @@||mkto-ab400103.com^
 @@||mkto-ab400124.com^
 @@||mkto-ab400143.com^
+@@||mkto-ab400187.com^
 @@||mkto-ab400189.com^
 @@||mkto-ab420081.com^
 @@||mkto-ab420198.com^
@@ -13137,7 +13176,6 @@
 @@||mkto-ab540186.com^
 @@||mkto-ab550041.com^
 @@||mkto-ab550140.com^
-@@||mkto-ab550144.com^
 @@||mkto-ab550184.com^
 @@||mkto-ab560068.com^
 @@||mkto-ab560119.com^
@@ -17585,7 +17623,6 @@
 @@||shortbio.link^
 @@||shortclick.com^
 @@||shortclient.top^
-@@||shortcm.li^
 @@||shortco.net^
 @@||shortcut-url-ten.vercel.app^
 @@||shortcut-url.vercel.app^

@@ -3197,6 +3197,7 @@
 @@||data.sec.miui.com^
 @@||data.video.iqiyi.com^
 @@||datafilehost.com^
+@@||dataflow.biliapi.com^
 @@||datalab.naver.com^
 @@||datamixer-pa.googleapis.com^
 @@||dataplicity.com^
