@@ -6846,7 +6846,6 @@
 @@||email.flipboard.com^
 @@||email.gotinder.com^
 @@||email.mail.breitbart.com^
-@@||email.microsoft.com^
 @@||email.microsoftonline.com^
 @@||email.namebase.io^
 @@||email.notify.vuukle.com^
@@ -12140,10 +12139,12 @@
 @@||lt.tl^
 @@||lt27.de^
 @@||lt45.net^
+@@||lt5.ir^
 @@||ltc.cryptopia.co.nz^
 @@||ltd.ac^
 @@||ltdhunt.com^
 @@||ltkiss.cc^
+@@||ltl.bio^
 @@||ltnurl.com^
 @@||lttr.ai^
 @@||lu.api.mega.co.nz^
@@ -12166,8 +12167,10 @@
 @@||lur.to^
 @@||lur.us^
 @@||lurl.cc^
+@@||lurl.fr^
 @@||lurl.org^
 @@||lutendo.tech^
+@@||luto.lol^
 @@||lutre.it^
 @@||luyou.360.cn^
 @@||lv.wikipedia.com^
@@ -12237,6 +12240,7 @@
 @@||m-tcg.custobar.com^
 @@||m-tfe.custobar.com^
 @@||m-tmsif.custobar.com^
+@@||m-ueuba.custobar.com^
 @@||m-va.custobar.com^
 @@||m-vek.custobar.com^
 @@||m-vq63s.custobar.com^
@@ -12499,6 +12503,7 @@
 @@||m2.img.10010.com^
 @@||m2.nsimg.net^
 @@||m2g.me^
+@@||m3mi.com^
 @@||m42.pw^
 @@||m4rk.org^
 @@||m5.lt^
@@ -13036,6 +13041,7 @@
 @@||mineshaft1.cryptopia.co.nz^
 @@||mineurl.top^
 @@||minexmr.com^
+@@||minfier.com^
 @@||minggu.cfd^
 @@||mingle.kijiji.ca^
 @@||mini-qr.vercel.app^
@@ -13050,6 +13056,7 @@
 @@||minify.link^
 @@||minifyme.co^
 @@||minifyn.com^
+@@||minifyurl.co^
 @@||minilien.com^
 @@||minilink.id^
 @@||minilink.io^
@@ -13063,6 +13070,7 @@
 @@||miniurl.be^
 @@||miniurl.com^
 @@||miniurl.dayanandgawade.in^
+@@||miniurl.ir^
 @@||miniurl.top^
 @@||minixperiment.twitch.tv^
 @@||minl.in^
@@ -13081,6 +13089,7 @@
 @@||miolink.eu^
 @@||mip.xiachufang.com^
 @@||mipha.app^
+@@||mipon.xyz^
 @@||mir-s3-cdn-cf.behance.net^
 @@||mirror.cedia.org.ec^
 @@||mirror.centos.org^
@@ -13136,6 +13145,7 @@
 @@||mkt.to^
 @@||mkt7185.com^
 @@||mktcloud.c.huawei.com^
+@@||mktg8.link^
 @@||mkto-a0279.com^
 @@||mkto-ab040115.com^
 @@||mkto-ab040117.com^
@@ -13163,7 +13173,6 @@
 @@||mkto-ab240112.com^
 @@||mkto-ab250068.com^
 @@||mkto-ab250105.com^
-@@||mkto-ab250167.com^
 @@||mkto-ab260164.com^
 @@||mkto-ab270090.com^
 @@||mkto-ab270109.com^
@@ -13198,6 +13207,7 @@
 @@||mkto-ab430111.com^
 @@||mkto-ab430114.com^
 @@||mkto-ab430126.com^
+@@||mkto-ab430167.com^
 @@||mkto-ab430187.com^
 @@||mkto-ab440025.com^
 @@||mkto-ab440026.com^
@@ -13341,6 +13351,7 @@
 @@||mkto-sj240021.com^
 @@||mkto-sj250062.com^
 @@||mkto-sj250111.com^
+@@||mkto-sj250171.com^
 @@||mkto-sj250187.com^
 @@||mkto-sj270072.com^
 @@||mkto-sj270078.com^
@@ -13348,6 +13359,7 @@
 @@||mkto-sj290167.com^
 @@||mkto-sj300124.com^
 @@||mkto-sj310061.com^
+@@||mkto-sj310157.com^
 @@||mkto-sj310186.com^
 @@||mkto-sj320047.com^
 @@||mkto-sj330006.com^
@@ -13497,6 +13509,7 @@
 @@||mooxi.io^
 @@||mopub.com^
 @@||more.sh^
+@@||moreluck.xyz^
 @@||morimo.info^
 @@||mork.ro^
 @@||mormon.org^
@@ -13590,6 +13603,7 @@
 @@||msg.video.qiyi.com^
 @@||msg2.client.xunlei.com^
 @@||msgcenter.org^
+@@||msgtechzone.com^
 @@||msh.amazon.com^
 @@||mshorten.com^
 @@||mshp.me^
@@ -13613,6 +13627,7 @@
 @@||mt-k.madmetrics.com^
 @@||mt.hitbtc.com^
 @@||mt.mylife.com^
+@@||mt77.link^
 @@||mt88.vip^
 @@||mta.engage.xbox.com^
 @@||mtac.io^
@@ -13689,6 +13704,7 @@
 @@||mxdisk.in^
 @@||my-ab.co^
 @@||my-beta.boldchat.com^
+@@||my-club.live^
 @@||my-link.in^
 @@||my-material.zone1.meitudata.com^
 @@||my-url-shortener-psi.vercel.app^
@@ -13725,6 +13741,7 @@
 @@||mybanktracker.com^
 @@||mybbc.files.bbci.co.uk^
 @@||mybio.bio^
+@@||mybiopage.net^
 @@||mybiotree.com^
 @@||mybiourl.com^
 @@||mybiz.cc^
@@ -13810,6 +13827,7 @@
 @@||mystyle.archosaur.com^
 @@||mysupport.sonymobile.com^
 @@||mysurl.com^
+@@||mysurveys.pro^
 @@||myt.ms^
 @@||mytat.me^
 @@||mytbg.life^
@@ -13955,12 +13973,12 @@
 @@||nebula-collector.huawei.com^
 @@||nectarios.info^
 @@||neexulro.net^
+@@||nefeli.live^
 @@||nefix.de^
 @@||neflixenomovies.com^
 @@||nej.md^
 @@||nejmqianyan.cn^
 @@||neo.am^
-@@||neoengage-va-cdn.exponea.com^
 @@||neonslug.com^
 @@||neontools.io^
 @@||neoplanet.snap.com^
@@ -14343,6 +14361,7 @@
 @@||nulledfree.pw^
 @@||nullib.com^
 @@||nullrefer.com^
+@@||nullx.net^
 @@||num.to^
 @@||nurl.net^
 @@||nus.edu^
@@ -19129,7 +19148,6 @@
 @@||suggestion.baidu.com^
 @@||suggestqueries.google.com^
 @@||sugs.m.sm.cn^
-@@||suite0.emarsys.net^
 @@||suite1.emarsys.net^
 @@||suite10-cf.emarsys.net^
 @@||suite10.emarsys.net^
@@ -19152,6 +19170,7 @@
 @@||suite30-cdnnet.emarsys.net^
 @@||suite30-cf.emarsys.net^
 @@||suite30.emarsys.net^
+@@||suite32.emarsys.net^
 @@||suite33-cf.emarsys.net^
 @@||suite33.emarsys.net^
 @@||suite34.emarsys.net^
@@ -19182,6 +19201,7 @@
 @@||suite59.emarsys.net^
 @@||suite6-cf.emarsys.net^
 @@||suite6.emarsys.net^
+@@||suite60-cf.emarsys.net^
 @@||suite60.emarsys.net^
 @@||suite63-cf.emarsys.net^
 @@||suite63.emarsys.net^
