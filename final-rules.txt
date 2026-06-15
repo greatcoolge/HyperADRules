@@ -18980,6 +18980,7 @@
 @@||staticflickr.com^
 @@||statici.icloud.com^
 @@||staticimg.yidianzixun.com^
+@@||staticiv.com^
 @@||statics-marketingsites-eas-ms-com.akamaized.net^
 @@||statics-marketingsites-wcus-ms-com.akamaized.net^
 @@||statics-storeexp-eas-ms-com.akamaized.net^
@@ -19699,6 +19700,7 @@
 @@||tamar.is^
 @@||tampa.cbslocal.com^
 @@||tampermonkey.net^
+@@||tampz.com^
 @@||tamthangnam.life^
 @@||tandcsurf.com^
 @@||tandfonline.com^
@@ -19716,6 +19718,7 @@
 @@||tapetco.vn^
 @@||tapfiliate.com^
 @@||taplink.cc^
+@@||tapm.ee^
 @@||tapme.ink^
 @@||tapmy.app^
 @@||tapper.ai^
@@ -19781,6 +19784,7 @@
 @@||teamthrows.design^
 @@||teamviewer.com^
 @@||teaparty.org^
+@@||tebar.in^
 @@||techcaresolution.org.in^
 @@||techcommunity.microsoft.com^
 @@||techcrunch.com^
@@ -20076,6 +20080,7 @@
 @@||tiny.cc^
 @@||tiny.do^
 @@||tiny.ee^
+@@||tiny.ie^
 @@||tiny.lt^
 @@||tiny.ms^
 @@||tiny.nextsense.org.au^
@@ -20087,6 +20092,7 @@
 @@||tiny.tw^
 @@||tiny.us^
 @@||tiny1z.com^
+@@||tiny4t.com^
 @@||tinyard.co^
 @@||tinyarro.ws^
 @@||tinybit.cc^
@@ -20094,6 +20100,7 @@
 @@||tinycc.com^
 @@||tinycut.in^
 @@||tinycut.io^
+@@||tinyel.com^
 @@||tinyerz.com^
 @@||tinyfac.es^
 @@||tinyfy.io^
@@ -20124,6 +20131,7 @@
 @@||tinyuri.com^
 @@||tinyurl.com^
 @@||tinyurl.dev^
+@@||tinyurl.direct^
 @@||tinyurl.ee^
 @@||tinyurl.hu^
 @@||tinyurl.mobi^
@@ -20132,6 +20140,7 @@
 @@||tinyurl.rocks^
 @@||tinyurl.se^
 @@||tinyurl.smart-home.com.co^
+@@||tinyurl.win^
 @@||tinyurlforbusiness.com^
 @@||tinyurll.io^
 @@||tinyurls.biz^
@@ -20166,6 +20175,7 @@
 @@||tjzuh.com^
 @@||tkla.be^
 @@||tklinknow.com^
+@@||tklinks.com^
 @@||tkno.co^
 @@||tkopod.co^
 @@||tkpd.me^
@@ -20189,6 +20199,7 @@
 @@||tlot.cc^
 @@||tlrd.pl^
 @@||tlrk.it^
+@@||tls.tc^
 @@||tls.yt^
 @@||tlsurl.com^
 @@||tlu.dl.delivery.mp.microsoft.com^
@@ -20284,6 +20295,7 @@
 @@||toolboxdaily.com^
 @@||toolify.link^
 @@||toolking.net^
+@@||toolkingo.com^
 @@||toolong.info^
 @@||tools.gotinder.com^
 @@||tools.l.google.com^
@@ -20365,6 +20377,7 @@
 @@||tr.im^
 @@||tr.line.me^
 @@||tr.link^
+@@||tr.my^
 @@||tr.net^
 @@||tr.rdrtr.com^
 @@||tr.slvrbullet.com^
@@ -20577,6 +20590,7 @@
 @@||tripadvisor.com^
 @@||tripod.com^
 @@||trisula88short.xyz^
+@@||tritri.my^
 @@||trizlink.com^
 @@||trk-eu.customer.io^
 @@||trk.affapp.io^
@@ -20700,6 +20714,7 @@
 @@||tuasy.com^
 @@||tuba.fm^
 @@||tube8.com^
+@@||tuch.club^
 @@||tuch.marketing^
 @@||tuchong.com^
 @@||tuckers.link^
@@ -20755,6 +20770,7 @@
 @@||tvnow.de^
 @@||tvnstyle.pl^
 @@||tvote.org^
+@@||tvoy-link.ru^
 @@||tvp.pl^
 @@||tvpot.daum.net^
 @@||tvseries.in^
@@ -20946,6 +20962,7 @@
 @@||ukoeln.de^
 @@||ul.rs^
 @@||ul.to^
+@@||ul3.ir^
 @@||uldox.com^
 @@||ulink.adjust.com^
 @@||ulnk.app^
@@ -21063,6 +21080,7 @@
 @@||updates.push.services.mozilla.com^
 @@||updatesec.sonymobile.com^
 @@||updatesnl.macrium.com^
+@@||updating.me^
 @@||upenn.edu^
 @@||upgr-mmxx-cl-ts.2d8cd.cdn.bitdefender.net^
 @@||upgrade.mishop.pandora.xiaomi.com^
@@ -21209,6 +21227,7 @@
 @@||url.prepo.io^
 @@||url.procreatebrushes.app^
 @@||url.qhon.com^
+@@||url.quick-social.com^
 @@||url.reisen^
 @@||url.sae.digital^
 @@||url.sg^
@@ -21241,6 +21260,7 @@
 @@||url2a.site^
 @@||url2go.pro^
 @@||url2s.com^
+@@||url2xx.com^
 @@||url302x.icu^
 @@||url302x.top^
 @@||url36x.com^
@@ -21268,14 +21288,17 @@
 @@||url9467.comms-2.zoopla.co.uk^
 @@||urla.ru^
 @@||urladda.com^
+@@||urlah.com^
 @@||urlao.com^
 @@||urlaz.com^
 @@||urlb.link^
 @@||urlbae.com^
 @@||urlbd.com^
 @@||urlbee.site^
+@@||urlbind.com^
 @@||urlbit.co^
 @@||urlbit.io^
+@@||urlbit.online^
 @@||urlbit.pro^
 @@||urlbity.com^
 @@||urlbox.cc^
@@ -21304,8 +21327,10 @@
 @@||urlers.com^
 @@||urles.us^
 @@||urless.com^
+@@||urlex.org^
 @@||urlf.cc^
 @@||urlfile.xyz^
+@@||urlfirm.com^
 @@||urlflea.com^
 @@||urlforyou.com^
 @@||urlfy.pro^
@@ -21353,6 +21378,7 @@
 @@||urllinker.com^
 @@||urllix.com^
 @@||urlm.net^
+@@||urlmama.com^
 @@||urlme.cc^
 @@||urlme.ru^
 @@||urlme.us^
@@ -21363,6 +21389,7 @@
 @@||urlnova.com^
 @@||urlo.in^
 @@||urlo12x.com^
+@@||urlot.com^
 @@||urlpi.com^
 @@||urlplus.net^
 @@||urlpoints.com^
@@ -21370,6 +21397,7 @@
 @@||urlr.me^
 @@||urlra.com^
 @@||urlro.com^
+@@||urlrox.com^
 @@||urlroxx.com^
 @@||urlrw.com^
 @@||urls-short.de^
@@ -21379,6 +21407,7 @@
 @@||urls.direct^
 @@||urls.fr^
 @@||urls.hungrito.com^
+@@||urls.ie^
 @@||urls.imcompanion.co^
 @@||urls.kr^
 @@||urls.me^
@@ -21412,12 +21441,14 @@
 @@||urlshortener.mahamafzar.com^
 @@||urlshortener.pro^
 @@||urlshortener.site^
+@@||urlshortenerking.com^
 @@||urlshortenertool.com^
 @@||urlshortenervip.com^
 @@||urlshortenerx.com^
 @@||urlshortening.webalias.com^
 @@||urlshortly.com^
 @@||urlshortn.com^
+@@||urlshortner.at^
 @@||urlshortner.org^
 @@||urlshortx.com^
 @@||urlshortx.io^
@@ -21447,6 +21478,8 @@
 @@||urltronic.com^
 @@||urltta.top^
 @@||urlttb.top^
+@@||urlty.cc^
+@@||urlty.co^
 @@||urlunicorn.com^
 @@||urluno.com^
 @@||urlvanish.com^
@@ -21461,6 +21494,8 @@
 @@||urly.co^
 @@||urly.fi^
 @@||urly.pro^
+@@||urlys.one^
+@@||urlys.pro^
 @@||urlyshort.pro^
 @@||urlyy.com^
 @@||urlz.at^
@@ -21882,6 +21917,7 @@
 @@||vipcair.click^
 @@||viper.click^
 @@||vipergirls.to^
+@@||vipgacor77.net^
 @@||vipjus.click^
 @@||viplink.us^
 @@||vipp.link^
@@ -21895,12 +21931,15 @@
 @@||viralpep.com^
 @@||viralurl.com^
 @@||virl.com^
+@@||virl.me^
 @@||virusdesk.kaspersky.com^
 @@||virustotal.com^
 @@||virustotalcloud.appspot.com^
 @@||vision.appreciatehub.com^
+@@||visionia.site^
 @@||visit.my^
 @@||visit.st^
+@@||visit2earn.com^
 @@||visitmy.link^
 @@||visitmylinks.com^
 @@||visitsitenow.com^
@@ -21941,6 +21980,8 @@
 @@||vloglo.com^
 @@||vlug.link^
 @@||vm.gtimg.cn^
+@@||vm88.com.co^
+@@||vm88bet.org^
 @@||vmat.gtimg.com^
 @@||vmp-beta.boldchat.com^
 @@||vmp-eu.boldchat.com^
