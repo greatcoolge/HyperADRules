@@ -12709,6 +12709,7 @@
 @@||yep.com^
 @@||yep.it^
 @@||yep.pt^
+@@||yepp.link^
 @@||yero.it^
 @@||yes.link^
 @@||yesb.app^
@@ -12719,9 +12720,11 @@
 @@||yhoo.it^
 @@||yhqapp.com^
 @@||yidbio.com^
+@@||yigza.com^
 @@||yiii.de^
 @@||yji.tw^
 @@||ylg.org^
+@@||ylink.bid^
 @@||ylink.pro^
 @@||ylinkshort.com^
 @@||ylnk.us^
@@ -12747,6 +12750,7 @@
 @@||yottatrend.com^
 @@||you.lpo.fr^
 @@||youdata.163.com^
+@@||youfap.me^
 @@||youlink.to^
 @@||youlinks.com.au^
 @@||youneedthis.link^
@@ -12793,6 +12797,7 @@
 @@||yul.is^
 @@||yulllu01.online^
 @@||yun.duiba.com.cn^
+@@||yun.ir^
 @@||yusite.my.id^
 @@||yweb.com^
 @@||yww.uy^
@@ -12831,6 +12836,7 @@
 @@||zdsk.co^
 @@||zebra.li^
 @@||zecz.ec^
+@@||zeek.ir^
 @@||zeep.ly^
 @@||zeleaks.site^
 @@||zenfilm.solutions^
@@ -12866,6 +12872,7 @@
 @@||zimy.pw^
 @@||zinlly.pro^
 @@||zip.net^
+@@||zip.pe^
 @@||zip1.io^
 @@||zipbio.co^
 @@||ziphly.com^
@@ -12894,6 +12901,7 @@
 @@||zlr.my^
 @@||zlra.co^
 @@||zlw.re^
+@@||zlwpq.com^
 @@||zmde.yijoys.com^
 @@||znip.ee^
 @@||znly.in^
@@ -12963,4 +12971,5 @@
 @@||zz.sd^
 @@||zz3.co^
 @@||zzb.bz^
+@@||zzlinks.com^
 @@||zzu.info^

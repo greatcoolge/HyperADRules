@@ -24423,6 +24423,7 @@ yelp.to
 yep.com
 yep.it
 yep.pt
+yepp.link
 yerl.org
 yero.it
 yes.link
@@ -24435,11 +24436,13 @@ yhd.com
 yhoo.it
 yhqapp.com
 yidbio.com
+yigza.com
 yiii.de
 yimg.com
 yinxiang.com
 yji.tw
 ylg.org
+ylink.bid
 ylink.pro
 ylinkshort.com
 ylnk.us
@@ -24470,6 +24473,7 @@ youbora.com
 youboranqs01.com
 youdao.com
 youdata.163.com
+youfap.me
 youku.com
 youlink.to
 youlinks.com.au
@@ -24539,6 +24543,7 @@ yul.is
 yule.sohu.com
 yulllu01.online
 yun.duiba.com.cn
+yun.ir
 yunfile.com
 yunjiasu-cdn.net
 yuque.com
@@ -24604,6 +24609,7 @@ zdstatic.ign.com
 zebra.li
 zecz.ec
 zee.cws.conviva.com
+zeek.ir
 zeep.ly
 zeit.co
 zeleaks.site
@@ -24664,6 +24670,7 @@ zimuku.la
 zimy.pw
 zinlly.pro
 zip.net
+zip.pe
 zip1.io
 zipbio.co
 ziphly.com
@@ -24694,6 +24701,7 @@ zlnk.com
 zlr.my
 zlra.co
 zlw.re
+zlwpq.com
 zmde.yijoys.com
 znip.ee
 znly.in
@@ -24773,5 +24781,6 @@ zz.gd
 zz.sd
 zz3.co
 zzb.bz
+zzlinks.com
 zzu.info
 ||ad.
