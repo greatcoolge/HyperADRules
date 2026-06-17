@@ -696,6 +696,12 @@
 @@||aatkit.com^
 @@||aawsat.news^
 @@||aax-eu-retail-direct.amazon-adsystem.com^
+@@||aax-eu-zaz.amazon.co.uk^
+@@||aax-eu-zaz.amazon.com.tr^
+@@||aax-eu-zaz.amazon.es^
+@@||aax-eu-zaz.amazon.fr^
+@@||aax-eu-zaz.amazon.in^
+@@||aax-eu-zaz.amazon.it^
 @@||aax-eu.amazon.ae^
 @@||aax-eu.amazon.co.uk^
 @@||aax-eu.amazon.co.za^
@@ -6815,6 +6821,7 @@
 @@||email.flipboard.com^
 @@||email.gotinder.com^
 @@||email.mail.breitbart.com^
+@@||email.microsoft.com^
 @@||email.microsoftonline.com^
 @@||email.namebase.io^
 @@||email.notify.vuukle.com^
@@ -10622,7 +10629,6 @@
 @@||keepassxc.org^
 @@||keepersecurity.com^
 @@||keepimg.com^
-@@||keepo.bio^
 @@||keepo.io^
 @@||keetl.com^
 @@||keiba.rakuten.co.jp^
@@ -13182,6 +13188,7 @@
 @@||mkto-abc0241.com^
 @@||mkto-abd0218.com^
 @@||mkto-abj0022.com^
+@@||mkto-abm0229.com^
 @@||mkto-abm0255.com^
 @@||mkto-b0025.com^
 @@||mkto-c0100.com^
@@ -13247,6 +13254,7 @@
 @@||mkto-sj010128.com^
 @@||mkto-sj010203.com^
 @@||mkto-sj020238.com^
+@@||mkto-sj030214.com^
 @@||mkto-sj030216.com^
 @@||mkto-sj040148.com^
 @@||mkto-sj040252.com^
@@ -19942,6 +19950,7 @@
 @@||tinky.cc^
 @@||tinlie.com^
 @@||tinlr.com^
+@@||tinly.cc^
 @@||tinlyy.com^
 @@||tinlyy.nl^
 @@||tinu.be^
