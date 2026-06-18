@@ -3192,7 +3192,6 @@
 @@||email-link.adtidy.info^
 @@||email-link.adtidy.org^
 @@||email-tracking.infobip.com^
-@@||email.microsoft.com^
 @@||email.microsoftonline.com^
 @@||email.namebase.io^
 @@||email.office.com^
@@ -4171,7 +4170,6 @@
 @@||gyanilinks.com^
 @@||gym.sh^
 @@||gyntekbusiness.com^
-@@||h-pp.hotstar.com^
 @@||h-ref.com^
 @@||h.163.com^
 @@||h1.nu^
@@ -6592,6 +6590,7 @@
 @@||mkto-ab240112.com^
 @@||mkto-ab250068.com^
 @@||mkto-ab250105.com^
+@@||mkto-ab250167.com^
 @@||mkto-ab260164.com^
 @@||mkto-ab270090.com^
 @@||mkto-ab270109.com^
@@ -7141,6 +7140,7 @@
 @@||neflixenomovies.com^
 @@||nej.md^
 @@||neo.am^
+@@||neoengage-va-cdn.exponea.com^
 @@||neonslug.com^
 @@||neontools.io^
 @@||nepolls.com^
@@ -10041,7 +10041,6 @@
 @@||suite30-cdnnet.emarsys.net^
 @@||suite30-cf.emarsys.net^
 @@||suite30.emarsys.net^
-@@||suite32.emarsys.net^
 @@||suite33-cf.emarsys.net^
 @@||suite33.emarsys.net^
 @@||suite34.emarsys.net^

@@ -6815,7 +6815,6 @@ email.dailycaller.com
 email.flipboard.com
 email.gotinder.com
 email.mail.breitbart.com
-email.microsoft.com
 email.microsoftonline.com
 email.namebase.io
 email.notify.vuukle.com
@@ -8916,7 +8915,6 @@ gyntekbusiness.com
 gz-lb1.internet.spanner.alipaydns.com
 h-adashx.ut.dingtalk.com
 h-cdn.com
-h-pp.hotstar.com
 h-ref.com
 h-sdk.online-metrix.net
 h.163.com
@@ -13100,6 +13098,7 @@ mkto-ab220178.com
 mkto-ab240112.com
 mkto-ab250068.com
 mkto-ab250105.com
+mkto-ab250167.com
 mkto-ab260164.com
 mkto-ab270090.com
 mkto-ab270109.com
@@ -13905,6 +13904,7 @@ neflixenomovies.com
 nej.md
 nejmqianyan.cn
 neo.am
+neoengage-va-cdn.exponea.com
 neonslug.com
 neontools.io
 neoplanet.snap.com
@@ -19117,7 +19117,6 @@ suite3.emarsys.net
 suite30-cdnnet.emarsys.net
 suite30-cf.emarsys.net
 suite30.emarsys.net
-suite32.emarsys.net
 suite33-cf.emarsys.net
 suite33.emarsys.net
 suite34.emarsys.net
