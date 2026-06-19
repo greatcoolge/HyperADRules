@@ -2004,6 +2004,9 @@
 @@||cdn-eu.piano.io^
 @@||cdn-go.cn^
 @@||cdn-magiclinks.trackonomics.net^
+@@||cdn-n.net^
+@@||cdn-x.net^
+@@||cdn-z.net^
 @@||cdn.adsdefender.com^
 @@||cdn.akamai.steamstatic.com^
 @@||cdn.aligames.com^
@@ -10202,6 +10205,7 @@
 @@||t.iotex.me^
 @@||t.lever-analytics.com^
 @@||t.lt02.net^
+@@||t.ltrmnt.com^
 @@||t.ly^
 @@||t.me^
 @@||t.mmtrkr.com^

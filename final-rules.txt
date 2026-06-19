@@ -4301,6 +4301,7 @@
 @@||cdn-images.xda-developers.com^
 @@||cdn-magiclinks.trackonomics.net^
 @@||cdn-mobile.api.pluto.tv^
+@@||cdn-n.net^
 @@||cdn-origin01.techrepublic.com^
 @@||cdn-pics.pornhd.com^
 @@||cdn-pics.pornhdprime.com^
@@ -4311,7 +4312,9 @@
 @@||cdn-us-ec.yottaa.net^
 @@||cdn-video.gtflixtv.com^
 @@||cdn-www.xda-developers.com^
+@@||cdn-x.net^
 @@||cdn-yams.schibsted.com^
+@@||cdn-z.net^
 @@||cdn.activistpost.com^
 @@||cdn.adf.ly^
 @@||cdn.adrise.tv^
@@ -19398,6 +19401,7 @@
 @@||t.iotex.me^
 @@||t.lever-analytics.com^
 @@||t.lt02.net^
+@@||t.ltrmnt.com^
 @@||t.ly^
 @@||t.me^
 @@||t.mmtrkr.com^
