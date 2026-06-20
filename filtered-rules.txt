@@ -367,7 +367,6 @@
 316.coolapk1s.com
 31productions.de
 321url.com
-341676991.group0.sites.hscoscdn-na3.net
 350.my
 360.cn
 360links.net
@@ -499,6 +498,7 @@
 669969.xyz
 669988.xyz
 66biolinks.com
+676.su
 699pic.com
 69run.fun
 6b.cz
@@ -572,7 +572,6 @@
 8u.cz
 8u.pw
 9-aclk.net
-9.ly
 900r.ir
 91haoka.cn
 91mobiles.com
@@ -5974,6 +5973,7 @@ denis-ovs.narod.ru
 dentalservices.biz
 depedzn.net
 depot.xda-developers.com
+derpy.me
 des.gbtcdn.com
 design.www.huffingtonpost.com
 designcommerce.agency
@@ -6818,7 +6818,6 @@ email.dailycaller.com
 email.flipboard.com
 email.gotinder.com
 email.mail.breitbart.com
-email.microsoft.com
 email.microsoftonline.com
 email.namebase.io
 email.notify.vuukle.com
@@ -9157,6 +9156,7 @@ histori.ca
 history.com
 history.paypal.com
 hisweb.site
+hit.kg
 hit.me
 hitbtc.com
 hitf.to
@@ -9500,6 +9500,7 @@ iamsrikrung.com
 iandavid.net
 iapdw.com
 iarly.com
+iatp.by
 iaurl.io
 ib.hulu.com
 ib.snssdk.com
@@ -10275,7 +10276,6 @@ iuu.ro
 iv-h.phncdn.com
 ivtshort.com
 iwifi.360.cn
-iwo.ir
 iwork.apple.com
 iwr.link
 iwwlink.org
@@ -10449,6 +10449,7 @@ joint.reg2t.sandai.net
 joinzee.com
 jomblo.org
 jonty.link
+joo.gl
 joo.nz
 joomconnect.com
 joomla.org
@@ -12101,7 +12102,6 @@ lup.to
 lur.to
 lur.us
 lurl.cc
-lurl.fr
 lurl.org
 lutendo.tech
 luto.lol
@@ -13086,6 +13086,7 @@ mkto-ab070017.com
 mkto-ab070069.com
 mkto-ab080055.com
 mkto-ab080061.com
+mkto-ab100192.com
 mkto-ab100241.com
 mkto-ab110171.com
 mkto-ab120150.com
@@ -13104,7 +13105,6 @@ mkto-ab220178.com
 mkto-ab240112.com
 mkto-ab250068.com
 mkto-ab250105.com
-mkto-ab250167.com
 mkto-ab260164.com
 mkto-ab270090.com
 mkto-ab270109.com
@@ -13161,7 +13161,6 @@ mkto-ab550140.com
 mkto-ab550184.com
 mkto-ab560068.com
 mkto-ab560119.com
-mkto-ab560171.com
 mkto-ab570110.com
 mkto-ab570128.com
 mkto-ab580004.com
@@ -13910,7 +13909,6 @@ neflixenomovies.com
 nej.md
 nejmqianyan.cn
 neo.am
-neoengage-va-cdn.exponea.com
 neonslug.com
 neontools.io
 neoplanet.snap.com
@@ -15340,7 +15338,6 @@ plesk.com
 plex.r.worldssl.net
 plex.tv
 pli.su
-plink.ir
 plinkzy.com
 plmst.org
 plots.fr
@@ -18068,6 +18065,7 @@ sites.google.com
 sites.hscoscdn-ap1.net
 sites.hscoscdn-eu1.net
 sites.hscoscdn-na2.net
+sites.hscoscdn-na3.net
 sites.hscoscdn00.net
 sites.hscoscdn10.net
 sites.hscoscdn20.net
@@ -19974,6 +19972,7 @@ tiny.oldsouth.org
 tiny.one
 tiny.outlier.ai
 tiny.pl
+tiny.sg
 tiny.sm
 tiny.tw
 tiny.us
@@ -20697,6 +20696,7 @@ twr.kr
 twrd.in
 twt-assets.washtimes.com
 twtr.in
+twtr.to
 twurl.net
 twurl.nl
 tx.163.com
@@ -20759,6 +20759,7 @@ u4r.net
 u4y.ch
 u6571834.ct.sendgrid.net
 u6e.de
+u6v.cn
 u99.pro
 u9x.wtf
 uabio.me
@@ -21580,6 +21581,7 @@ va.sndcdn.com
 vaca.sh
 vaddev.de
 vai.bio.br
+vai.la
 vai.li
 vai.onl
 vaila.me
@@ -21975,7 +21977,6 @@ vyr.me
 vytext.com
 vz.to
 vzaar.com
-vzturl.com
 w.app
 w.idg.de
 w.line.me
@@ -22248,6 +22249,7 @@ whatismyipaddress.com
 whbk.io
 whcs.law
 wheel.to
+whereel.se
 whhd.gov.cn
 whi.ch
 whirlpool.net.au
