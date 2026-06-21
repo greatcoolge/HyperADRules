@@ -120,7 +120,6 @@
 @@||123.ge^
 @@||123415.xyz^
 @@||123greetings.com^
-@@||123l.pro^
 @@||123link.co^
 @@||123movies.to^
 @@||126.am^
@@ -547,7 +546,6 @@
 @@||7i.nu^
 @@||7i.se^
 @@||7kts.com^
-@@||7li.in^
 @@||7link.info^
 @@||7link.pro^
 @@||7links.co^
@@ -2985,7 +2983,6 @@
 @@||avhop.net^
 @@||avit.link^
 @@||avitlink.com^
-@@||avjosa.com^
 @@||avl.mx^
 @@||avlne.ws^
 @@||avlr.co^
@@ -3486,7 +3483,6 @@
 @@||bitly.mobi^
 @@||bitly.pk^
 @@||bitly.pw^
-@@||bitly.team^
 @@||bitly.to^
 @@||bitly.weballtools.com^
 @@||bitly.ws^
@@ -3949,7 +3945,6 @@
 @@||burl.me^
 @@||burner.bonanza.com^
 @@||burnurl.com^
-@@||busan.pro^
 @@||buscape.com.br^
 @@||business.apple.com^
 @@||business.hide.me^
@@ -5172,7 +5167,6 @@
 @@||coinmama.com^
 @@||coinmarketcap.com^
 @@||coinmine.pl^
-@@||coinpr.info^
 @@||coinurl.com^
 @@||coklat.vip^
 @@||coles.com.au^
@@ -5585,7 +5579,6 @@
 @@||cuer.io^
 @@||cuk.one^
 @@||cukbaray.com^
-@@||cul.ke^
 @@||cultm.ac^
 @@||culy.top^
 @@||cup.org^
@@ -5667,7 +5660,6 @@
 @@||cuttly.pro^
 @@||cutto.io^
 @@||cutts.in^
-@@||cutturl.xyz^
 @@||cuturl.cloud^
 @@||cuturl.com^
 @@||cuturl.net^
@@ -5770,7 +5762,6 @@
 @@||da.xboxservices.com^
 @@||daa.pl^
 @@||dad.do^
-@@||daduslot88.life^
 @@||dafa01.net^
 @@||dafa07.net^
 @@||daffodilvarsity.edu.bd^
@@ -7213,7 +7204,6 @@
 @@||f5i.org^
 @@||f5url.com^
 @@||f5yo.com^
-@@||f6x.cn^
 @@||f7.163.com^
 @@||fa-st.co^
 @@||fa.by^
@@ -7925,7 +7915,6 @@
 @@||game.xiaomi.com^
 @@||gamebanana.com^
 @@||gamecopyworld.click^
-@@||gamegift24.com^
 @@||gamegta.com^
 @@||gameimg.qidian.com^
 @@||gamekult.com^
@@ -10533,7 +10522,6 @@
 @@||jttfan.net^
 @@||juan365sms.com^
 @@||judge.me^
-@@||judidadu88.live^
 @@||jug.im^
 @@||jugem.jp^
 @@||jujubots.io^
@@ -11620,7 +11608,6 @@
 @@||linksdude.com^
 @@||linkseo.live^
 @@||linksero.com^
-@@||linksfire.net^
 @@||linksflow.bio^
 @@||linksfly.net^
 @@||linkshaft.com^
@@ -11820,7 +11807,6 @@
 @@||livepassdl.conviva.com^
 @@||livephoto.us.sinaimg.cn^
 @@||livere.com^
-@@||livesport88.life^
 @@||livestre.am^
 @@||livestream.com^
 @@||livetile.hulu.com^
@@ -12139,7 +12125,6 @@
 @@||lynko.in^
 @@||lynks.in^
 @@||lynky.live^
-@@||lynkz.in^
 @@||lyt.me^
 @@||lyzo.io^
 @@||lz.com^
@@ -12640,7 +12625,6 @@
 @@||masuk-id.info^
 @@||masuk.cfd^
 @@||masuk.to^
-@@||masuksini.my^
 @@||masy.uk^
 @@||mat1.gtimg.com^
 @@||match-heaven.club^
@@ -12979,7 +12963,6 @@
 @@||mineurl.top^
 @@||minexmr.com^
 @@||minfier.com^
-@@||minggu.cfd^
 @@||mingle.kijiji.ca^
 @@||mini-qr.vercel.app^
 @@||mini-url.in^
@@ -13803,7 +13786,6 @@
 @@||n3y.ir^
 @@||n6.net^
 @@||n66d.com^
-@@||n7i.cn^
 @@||n7s.xyz^
 @@||n9.cl^
 @@||n9x.co^
@@ -13826,7 +13808,6 @@
 @@||naa.gg^
 @@||nabio.com.br^
 @@||nac.naver.com^
-@@||nagakuat.com^
 @@||nah.uy^
 @@||nahnoji.cz^
 @@||naifei.shop^
@@ -14128,7 +14109,6 @@
 @@||nmobi.kuwo.cn^
 @@||nmrk.re^
 @@||nmw.news^
-@@||nn.nf^
 @@||nnd.media^
 @@||nnm.hu^
 @@||nnn.is^
@@ -14158,7 +14138,6 @@
 @@||nord.click^
 @@||nordic-rx.net^
 @@||nordicrx.net^
-@@||nordlitt.fr^
 @@||nordvpn.com^
 @@||normandy.cdn.mozilla.net^
 @@||north-america.pool.ntp.org^
@@ -14659,7 +14638,6 @@
 @@||options.skype.com^
 @@||opus.l.soundcloud.com^
 @@||opus.soundcloud.com^
-@@||opusgrid.barberreels.com^
 @@||opzai.com^
 @@||oqp.ru^
 @@||or1gtm003.adobe.com^
@@ -15108,7 +15086,6 @@
 @@||personalweb.alipay.com^
 @@||pesc.pw^
 @@||petapixel.com^
-@@||petesmarketinghub.com^
 @@||petir.io^
 @@||petir.vip^
 @@||petrobr.as^
@@ -16111,9 +16088,7 @@
 @@||r5.bithumb.com^
 @@||r5siqu4ab.cc.rs6.net^
 @@||r7avxrcab.cc.rs6.net^
-@@||r8z.cn^
 @@||r9amglzab.cc.rs6.net^
-@@||r9f.cn^
 @@||ra.gtimg.com^
 @@||rabetak.me^
 @@||rabit.ae^
@@ -17970,7 +17945,6 @@
 @@||shrunken.com^
 @@||sht.moe^
 @@||sht.wf^
-@@||shtlink.eu^
 @@||shtn.me^
 @@||shtnar.com^
 @@||shtu.be^
@@ -19710,7 +19684,6 @@
 @@||telegra.ph^
 @@||telegram.me^
 @@||telegram.org^
-@@||telegramviral.com^
 @@||telegraph.co.uk^
 @@||teleko.me^
 @@||telemetry-incoming.r53-2.services.mozilla.com^
@@ -19809,7 +19782,6 @@
 @@||thedro.co^
 @@||theedfund.co^
 @@||thefantazy.com^
-@@||thefood2.com^
 @@||thefp.pub^
 @@||thefreethoughtproject.com^
 @@||thefunkymonkey.lu^
@@ -20054,7 +20026,6 @@
 @@||title.mgt.xboxlive.com^
 @@||titleagentmarketing.com^
 @@||titly.pro^
-@@||titok.website^
 @@||titurl.com^
 @@||tiurl.link^
 @@||tiy.be^
@@ -20453,7 +20424,6 @@
 @@||trickbd.com^
 @@||trieuview.life^
 @@||triggerbee.com^
-@@||trim-me.de^
 @@||trim-me.io^
 @@||trim.ac^
 @@||trim.cx^
@@ -21597,7 +21567,6 @@
 @@||validatedsite.com^
 @@||validator.cloud.vimeo.com^
 @@||valuedopinions.co.uk^
-@@||valv.im^
 @@||vampyrejibmen.com^
 @@||vancedshorts.com^
 @@||vanderbi.lt^
@@ -24235,7 +24204,6 @@
 @@||xxxdwz.cc^
 @@||xxxdwz.co^
 @@||xxxdwz.com^
-@@||xxxdwz.pro^
 @@||xxxl.ink^
 @@||xy.ar^
 @@||xy2.eu^
@@ -24369,7 +24337,6 @@
 @@||yourls.org^
 @@||yourls.ph-freiburg.de^
 @@||yourls.pro^
-@@||yourls.sci.io^
 @@||yourls.website^
 @@||yourmovie.co^
 @@||youronlinechoices.com^
