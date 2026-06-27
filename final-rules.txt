@@ -6852,7 +6852,6 @@
 @@||email.flipboard.com^
 @@||email.gotinder.com^
 @@||email.mail.breitbart.com^
-@@||email.microsoft.com^
 @@||email.microsoftonline.com^
 @@||email.namebase.io^
 @@||email.notify.vuukle.com^
@@ -13168,7 +13167,6 @@
 @@||mktg8.link^
 @@||mkto-a0279.com^
 @@||mkto-ab010150.com^
-@@||mkto-ab030019.com^
 @@||mkto-ab040115.com^
 @@||mkto-ab040117.com^
 @@||mkto-ab060101.com^
@@ -13187,7 +13185,6 @@
 @@||mkto-ab130188.com^
 @@||mkto-ab140048.com^
 @@||mkto-ab150013.com^
-@@||mkto-ab150224.com^
 @@||mkto-ab170094.com^
 @@||mkto-ab170123.com^
 @@||mkto-ab170161.com^
@@ -13199,7 +13196,6 @@
 @@||mkto-ab240112.com^
 @@||mkto-ab250068.com^
 @@||mkto-ab250105.com^
-@@||mkto-ab250167.com^
 @@||mkto-ab260164.com^
 @@||mkto-ab270090.com^
 @@||mkto-ab270109.com^
@@ -13256,7 +13252,6 @@
 @@||mkto-ab550184.com^
 @@||mkto-ab560068.com^
 @@||mkto-ab560119.com^
-@@||mkto-ab560171.com^
 @@||mkto-ab570110.com^
 @@||mkto-ab570128.com^
 @@||mkto-ab580004.com^
@@ -18200,7 +18195,6 @@
 @@||sitepoint.com^
 @@||sites.engadget.com^
 @@||sites.google.com^
-@@||sites.hscoscdn-ap1.net^
 @@||sites.hscoscdn-eu1.net^
 @@||sites.hscoscdn-na2.net^
 @@||sites.hscoscdn00.net^
@@ -19262,7 +19256,6 @@
 @@||suite30-cdnnet.emarsys.net^
 @@||suite30-cf.emarsys.net^
 @@||suite30.emarsys.net^
-@@||suite32.emarsys.net^
 @@||suite33-cf.emarsys.net^
 @@||suite33.emarsys.net^
 @@||suite34.emarsys.net^
@@ -19284,6 +19277,7 @@
 @@||suite52.emarsys.net^
 @@||suite54-cf.emarsys.net^
 @@||suite54.emarsys.net^
+@@||suite55.emarsys.net^
 @@||suite56-cf.emarsys.net^
 @@||suite56.emarsys.net^
 @@||suite57-cf.emarsys.net^
