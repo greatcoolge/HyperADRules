@@ -2788,6 +2788,7 @@ aspmx2.googlemail.com
 aspmx3.googlemail.com
 aspnetcdn.com
 asq.kr
+asset-cdn.dev
 asset.deme-group.com
 assets-cdn.github.com
 assets-jpcust.jwpsrv.com
@@ -24448,6 +24449,7 @@ yerl.org
 yero.it
 yes.link
 yesb.app
+yewfjsdi.it.com
 yex.tt
 yfrog.com
 yh6.us
