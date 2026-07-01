@@ -6853,6 +6853,7 @@
 @@||email.flipboard.com^
 @@||email.gotinder.com^
 @@||email.mail.breitbart.com^
+@@||email.microsoft.com^
 @@||email.microsoftonline.com^
 @@||email.namebase.io^
 @@||email.notify.vuukle.com^
@@ -14005,7 +14006,6 @@
 @@||nej.md^
 @@||nejmqianyan.cn^
 @@||neo.am^
-@@||neoengage-va-cdn.exponea.com^
 @@||neonslug.com^
 @@||neontools.io^
 @@||neoplanet.snap.com^
@@ -16223,7 +16223,6 @@
 @@||r5siqu4ab.cc.rs6.net^
 @@||r7avxrcab.cc.rs6.net^
 @@||r9amglzab.cc.rs6.net^
-@@||r9caqarab.cc.rs6.net^
 @@||ra.gtimg.com^
 @@||rabetak.me^
 @@||rabit.ae^
@@ -19259,7 +19258,6 @@
 @@||suite30-cdnnet.emarsys.net^
 @@||suite30-cf.emarsys.net^
 @@||suite30.emarsys.net^
-@@||suite32.emarsys.net^
 @@||suite33-cf.emarsys.net^
 @@||suite33.emarsys.net^
 @@||suite34.emarsys.net^
@@ -19553,6 +19551,7 @@
 @@||t.sidekickopen03.com^
 @@||t.sidekickopen04-eu1.com^
 @@||t.sidekickopen04.com^
+@@||t.sidekickopen05-eu1.com^
 @@||t.sidekickopen05.com^
 @@||t.sidekickopen06.com^
 @@||t.sidekickopen07-eu1.com^
