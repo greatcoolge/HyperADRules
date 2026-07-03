@@ -3027,7 +3027,6 @@
 @@||ax.init.itunes.apple.com^
 @@||ax.itunes.apple.com^
 @@||ax.phobos.apple.com.edgesuite.net^
-@@||axees.ir^
 @@||axiom.link^
 @@||axios.link^
 @@||axm-adm-enroll.apple.com^
@@ -3858,7 +3857,6 @@
 @@||bridge.dev^
 @@||bridgetrack.com^
 @@||brief.ly^
-@@||briefbyte.online^
 @@||briefen.me^
 @@||brightcove.com^
 @@||brightcove.map.fastly.net^

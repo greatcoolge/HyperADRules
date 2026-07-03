@@ -1305,7 +1305,6 @@
 @@||aww.al^
 @@||awwurl.com^
 @@||awy.to^
-@@||axees.ir^
 @@||axiom.link^
 @@||axios.link^
 @@||axm-adm-enroll.apple.com^
@@ -1780,7 +1779,6 @@
 @@||bridg.ee^
 @@||bridge.dev^
 @@||brief.ly^
-@@||briefbyte.online^
 @@||briefen.me^
 @@||brightestbeginning.me^
 @@||brightscanr.com^
