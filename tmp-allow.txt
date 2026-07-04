@@ -25,6 +25,7 @@
 @@||0bs.de^
 @@||0i.is^
 @@||0ln.eu^
+@@||0mjgn0m.site^
 @@||0o.lv^
 @@||0rl.cc^
 @@||0rz.tw^
@@ -4207,7 +4208,6 @@
 @@||gvt2.com^
 @@||gw.ie^
 @@||gx-target-experiments-frontend-api.gx.nvidia.com^
-@@||gxh1yqz2v.xyz^
 @@||gyanilinks.com^
 @@||gym.sh^
 @@||gyntekbusiness.com^
@@ -8509,7 +8509,6 @@
 @@||recut.in^
 @@||red.ht^
 @@||red.wargaming.net^
-@@||red1.com.br^
 @@||redaz.in^
 @@||redditlink.org^
 @@||redilify.com^

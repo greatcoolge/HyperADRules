@@ -60,6 +60,7 @@
 0eaf.cardinalcommerce.com
 0i.is
 0ln.eu
+0mjgn0m.site
 0o.lv
 0p.de
 0rl.cc
@@ -8946,7 +8947,6 @@ gvt2.com
 gw.alicdn.com
 gw.ie
 gx-target-experiments-frontend-api.gx.nvidia.com
-gxh1yqz2v.xyz
 gyan.dev
 gyanilinks.com
 gyazo.com
@@ -16390,7 +16390,6 @@ recruitings.online
 recut.in
 red.ht
 red.wargaming.net
-red1.com.br
 redaz.in
 redbullmediahouse.origin.typekit.com
 redcross.org
