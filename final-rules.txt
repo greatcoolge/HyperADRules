@@ -2177,7 +2177,6 @@
 @@||api-02.moengage.com^
 @@||api-03.moengage.com^
 @@||api-04.moengage.com^
-@@||api-101.moengage.com^
 @@||api-ap1.hubapi.com^
 @@||api-auth.soundcloud.com^
 @@||api-beta.huawei.com^
@@ -5699,7 +5698,6 @@
 @@||cuturl.com^
 @@||cuturl.net^
 @@||cutwin.com^
-@@||cutx.me^
 @@||cutx.to^
 @@||cutxly.com^
 @@||cuty.io^
@@ -5804,7 +5802,6 @@
 @@||dafire.cloud^
 @@||daftar.mx^
 @@||daftar.to^
-@@||daftar.tokyo^
 @@||daftarhoki.live^
 @@||daftsex.com^
 @@||dai.ly^
@@ -6352,7 +6349,6 @@
 @@||domraider.io^
 @@||donorschoose.org^
 @@||doods.sbs^
-@@||doodsty.fun^
 @@||doonor.com^
 @@||dopice.sk^
 @@||dopt.us^
@@ -13203,7 +13199,6 @@
 @@||mkto-ab280126.com^
 @@||mkto-ab290102.com^
 @@||mkto-ab290138.com^
-@@||mkto-ab300154.com^
 @@||mkto-ab310115.com^
 @@||mkto-ab320028.com^
 @@||mkto-ab320182.com^
@@ -13255,7 +13250,6 @@
 @@||mkto-ab570110.com^
 @@||mkto-ab570128.com^
 @@||mkto-ab580004.com^
-@@||mkto-ab600004.com^
 @@||mkto-ab610035.com^
 @@||mkto-ab610084.com^
 @@||mkto-ab620024.com^
@@ -13400,6 +13394,7 @@
 @@||mkto-sj360104.com^
 @@||mkto-sj360117.com^
 @@||mkto-sj360142.com^
+@@||mkto-sj380142.com^
 @@||mkto-sj390079.com^
 @@||mkto-sjg0030.com^
 @@||mkto-sjh0084.com^
@@ -18199,6 +18194,7 @@
 @@||sitepoint.com^
 @@||sites.engadget.com^
 @@||sites.google.com^
+@@||sites.hscoscdn-ap1.net^
 @@||sites.hscoscdn-eu1.net^
 @@||sites.hscoscdn-na2.net^
 @@||sites.hscoscdn00.net^
