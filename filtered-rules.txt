@@ -7243,7 +7243,6 @@ face.t.sinajs.cn
 facebook.com
 facebook.net
 facebookid.live
-facebookprofiles.com
 faceboook-app.com
 facepic.qidian.com
 factorio.com
@@ -7294,7 +7293,6 @@ fastpic.ru
 fastserp.com
 fastslinks.site
 fasttory.com
-fasturl.link
 fatprincess.playstation.com
 fattoincasadabenedetta.link
 faturl.com
@@ -7496,7 +7494,6 @@ firebase-settings.crashlytics.com
 firebaseio.com
 firefone.com
 firefox.settings.services.mozilla.com
-firelinks.site
 firstpost.com
 firstspot.com
 firsturl.de

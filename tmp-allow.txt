@@ -3397,7 +3397,6 @@
 @@||fa.gd^
 @@||face.t.sinajs.cn^
 @@||facebookid.live^
-@@||facebookprofiles.com^
 @@||faceboook-app.com^
 @@||facepic.qidian.com^
 @@||fadurl.com^
@@ -3424,7 +3423,6 @@
 @@||fastserp.com^
 @@||fastslinks.site^
 @@||fasttory.com^
-@@||fasturl.link^
 @@||fattoincasadabenedetta.link^
 @@||faturl.com^
 @@||fav.me^
@@ -3503,7 +3501,6 @@
 @@||fire.to^
 @@||firebase-settings.crashlytics.com^
 @@||firefone.com^
-@@||firelinks.site^
 @@||firsturl.de^
 @@||firsturl.net^
 @@||fis-iittala-cdn.exponea.com^
