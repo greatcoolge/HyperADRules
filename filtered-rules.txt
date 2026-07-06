@@ -9184,7 +9184,6 @@ hisc.app
 histori.ca
 history.com
 history.paypal.com
-hisweb.site
 hit.kg
 hit.me
 hitbtc.com
@@ -9424,7 +9423,6 @@ huntscreens.com
 huodong.xiaomi.com
 huosai.xiaomi.com
 huoying666.com
-hurirk.net
 hurl.com
 hurl.it
 hurl.me
@@ -14786,6 +14784,7 @@ orst.io
 orts.link
 os-beta.boldchat.com
 os.boldchat.com
+os.md
 osa-indosat.lotusflare.com
 osb-apps.samsungqbe.com
 osb.samsungqbe.com

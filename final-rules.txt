@@ -9190,7 +9190,6 @@
 @@||histori.ca^
 @@||history.com^
 @@||history.paypal.com^
-@@||hisweb.site^
 @@||hit.kg^
 @@||hit.me^
 @@||hitbtc.com^
@@ -9430,7 +9429,6 @@
 @@||huodong.xiaomi.com^
 @@||huosai.xiaomi.com^
 @@||huoying666.com^
-@@||hurirk.net^
 @@||hurl.com^
 @@||hurl.it^
 @@||hurl.me^
@@ -14792,6 +14790,7 @@
 @@||orts.link^
 @@||os-beta.boldchat.com^
 @@||os.boldchat.com^
+@@||os.md^
 @@||osa-indosat.lotusflare.com^
 @@||osb-apps.samsungqbe.com^
 @@||osb.samsungqbe.com^

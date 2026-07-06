@@ -4336,7 +4336,6 @@
 @@||hirummy.life^
 @@||hisc.app^
 @@||histori.ca^
-@@||hisweb.site^
 @@||hit.kg^
 @@||hitlap.com^
 @@||hitomi.la^
@@ -4467,7 +4466,6 @@
 @@||huma.na^
 @@||humb.apple.com^
 @@||huntscreens.com^
-@@||hurirk.net^
 @@||hurl.it^
 @@||hurl.me^
 @@||hurl.ws^
@@ -7596,6 +7594,7 @@
 @@||orp.io^
 @@||orst.io^
 @@||orts.link^
+@@||os.md^
 @@||oscdn.apple.com^
 @@||osdb.link^
 @@||oshko.sh^
