@@ -368,10 +368,7 @@
 @@||733s.com^
 @@||74i.de^
 @@||77.ai^
-@@||777be.livepartners.com^
 @@||777ch.livepartners.com^
-@@||777es.livepartners.com^
-@@||777nl.livepartners.com^
 @@||777online.life^
 @@||7894.xyz^
 @@||7a.ink^
@@ -1017,6 +1014,7 @@
 @@||api-02.moengage.com^
 @@||api-03.moengage.com^
 @@||api-04.moengage.com^
+@@||api-101.moengage.com^
 @@||api-ap1.hubapi.com^
 @@||api-docs.deepseek.com^
 @@||api-edge.cognitive.microsofttranslator.com^
@@ -1096,7 +1094,6 @@
 @@||app.linkpod.co^
 @@||app.market.xiaomi.com^
 @@||app.metricsverse.com^
-@@||app.moviequik.com^
 @@||app.myotherapy.edu^
 @@||app.myvcrd.com^
 @@||app.philz.us^
@@ -2265,7 +2262,6 @@
 @@||click.trackingadz.com^
 @@||click.world.taobao.com^
 @@||click.zoom.us^
-@@||click2.redbrain.com^
 @@||click360.gr^
 @@||clickbase.pro^
 @@||clickbio.co^
@@ -3090,7 +3086,10 @@
 @@||dyok.net^
 @@||dyx.is^
 @@||dz4link.com^
+@@||e-eu.customeriomail.com^
 @@||e-hentai.org^
+@@||e-trk-eu.customeriomail.com^
+@@||e-trk.customeriomail.com^
 @@||e-zee.life^
 @@||e.customeriomail.com^
 @@||e.lilly^
@@ -3148,6 +3147,11 @@
 @@||ed.tc^
 @@||edch.me^
 @@||edfiz.com^
+@@||edge-e-balw.customer.io^
+@@||edge-east.customer.io^
+@@||edge-eu.customer.io^
+@@||edge-w-balw.customer.io^
+@@||edge-west.customer.io^
 @@||edge.microsoft.com^
 @@||edgehosting.ca^
 @@||edgs.co^
@@ -5357,7 +5361,6 @@
 @@||lbtw.tw^
 @@||lc-s.co^
 @@||lc.cx^
-@@||lc.net.br^
 @@||lccs.ovh^
 @@||lcdn-locator.apple.com^
 @@||lcdn-registration.apple.com^
@@ -6014,6 +6017,7 @@
 @@||ln.run^
 @@||ln24.ir^
 @@||lndata.com^
+@@||lner-cdn.exponea.com^
 @@||lnfo.uz^
 @@||lnk-x.com^
 @@||lnk.bio^
@@ -6665,7 +6669,6 @@
 @@||mkto-ab240112.com^
 @@||mkto-ab250068.com^
 @@||mkto-ab250105.com^
-@@||mkto-ab250167.com^
 @@||mkto-ab260164.com^
 @@||mkto-ab270090.com^
 @@||mkto-ab270109.com^
@@ -6673,6 +6676,7 @@
 @@||mkto-ab280126.com^
 @@||mkto-ab290102.com^
 @@||mkto-ab290138.com^
+@@||mkto-ab300154.com^
 @@||mkto-ab310115.com^
 @@||mkto-ab320028.com^
 @@||mkto-ab320182.com^
@@ -6711,6 +6715,7 @@
 @@||mkto-ab480014.com^
 @@||mkto-ab480015.com^
 @@||mkto-ab480166.com^
+@@||mkto-ab530057.com^
 @@||mkto-ab530192.com^
 @@||mkto-ab540059.com^
 @@||mkto-ab540143.com^
@@ -6849,6 +6854,7 @@
 @@||mkto-sj210170.com^
 @@||mkto-sj220006.com^
 @@||mkto-sj230006.com^
+@@||mkto-sj230010.com^
 @@||mkto-sj240021.com^
 @@||mkto-sj250062.com^
 @@||mkto-sj250111.com^
@@ -6960,7 +6966,6 @@
 @@||mpfi.com.ph^
 @@||mpit.io^
 @@||mpl.pm^
-@@||mpo-link.com^
 @@||mpsapi.amap.com^
 @@||mq.gy^
 @@||mq3.net^
@@ -7026,7 +7031,6 @@
 @@||mumu.163.com^
 @@||mumy.me^
 @@||munbyn.biz^
-@@||munchbet.live^
 @@||mupf.me^
 @@||murl.com^
 @@||murl.gg^
@@ -7084,7 +7088,6 @@
 @@||myglamm.in^
 @@||myikoniq.info^
 @@||myip.kr^
-@@||myjq.info^
 @@||mylink.ai.in^
 @@||mylinkbio.com^
 @@||mylinkbr.com^
@@ -7213,7 +7216,6 @@
 @@||ne.fo^
 @@||ne1.net^
 @@||nearurl.com^
-@@||neatlink.ca^
 @@||nectarios.info^
 @@||neexulro.net^
 @@||nefeli.live^
@@ -7221,6 +7223,7 @@
 @@||neflixenomovies.com^
 @@||nej.md^
 @@||neo.am^
+@@||neoengage-va-cdn.exponea.com^
 @@||neonslug.com^
 @@||neontools.io^
 @@||nepolls.com^
@@ -8740,6 +8743,7 @@
 @@||rx.link^
 @@||rxe.lol^
 @@||rxfc49ebb.cc.rs6.net^
+@@||rxnpit6ab.cc.rs6.net^
 @@||ry9kgedab.cc.rs6.net^
 @@||ryanmaher.co^
 @@||ryml.me^
@@ -9648,7 +9652,6 @@
 @@||sitedetour.com^
 @@||sitegpl.com^
 @@||siteonizleme.com.tr^
-@@||sites.hscoscdn-ap1.net^
 @@||sites.hscoscdn-eu1.net^
 @@||sites.hscoscdn-na2.net^
 @@||sites.hscoscdn00.net^
@@ -10158,11 +10161,11 @@
 @@||suite30-cdnnet.emarsys.net^
 @@||suite30-cf.emarsys.net^
 @@||suite30.emarsys.net^
+@@||suite32.emarsys.net^
 @@||suite33-cf.emarsys.net^
 @@||suite33.emarsys.net^
 @@||suite34.emarsys.net^
 @@||suite35-cf.emarsys.net^
-@@||suite36-cf.emarsys.net^
 @@||suite36.emarsys.net^
 @@||suite37.emarsys.net^
 @@||suite38.emarsys.net^
@@ -10994,6 +10997,7 @@
 @@||track.trafficguard.ai^
 @@||track.webgains.com^
 @@||track01.engagelab.email^
+@@||track02.engagelab.email^
 @@||track2.sendcloud.net^
 @@||track3.bsplegalmarketing.com^
 @@||track3.davydovlaw.com^

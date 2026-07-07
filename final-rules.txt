@@ -548,10 +548,7 @@
 @@||74i.de^
 @@||76.org^
 @@||77.ai^
-@@||777be.livepartners.com^
 @@||777ch.livepartners.com^
-@@||777es.livepartners.com^
-@@||777nl.livepartners.com^
 @@||777online.life^
 @@||7894.xyz^
 @@||79423.analytics.edgesuite.net^
@@ -2178,6 +2175,7 @@
 @@||api-02.moengage.com^
 @@||api-03.moengage.com^
 @@||api-04.moengage.com^
+@@||api-101.moengage.com^
 @@||api-ap1.hubapi.com^
 @@||api-auth.soundcloud.com^
 @@||api-beta.huawei.com^
@@ -2572,7 +2570,6 @@
 @@||app.mi.com^
 @@||app.migc.xiaomi.com^
 @@||app.miui.com^
-@@||app.moviequik.com^
 @@||app.myotherapy.edu^
 @@||app.myvcrd.com^
 @@||app.next.exchange^
@@ -4916,7 +4913,6 @@
 @@||click.world.taobao.com^
 @@||click.yhd.com^
 @@||click.zoom.us^
-@@||click2.redbrain.com^
 @@||click360.gr^
 @@||clickbank.com^
 @@||clickbase.pro^
@@ -6587,11 +6583,14 @@
 @@||dzc-metrics.mzstatic.com^
 @@||e-campaign.huawei.com^
 @@||e-contactus.samsung.com^
+@@||e-eu.customeriomail.com^
 @@||e-file.huawei.com^
 @@||e-hentai.or^
 @@||e-hentai.org^
 @@||e-learning.huawei.com^
 @@||e-recht24.de^
+@@||e-trk-eu.customeriomail.com^
+@@||e-trk.customeriomail.com^
 @@||e-words.jp^
 @@||e-zee.life^
 @@||e.breitbart.com^
@@ -6715,9 +6714,14 @@
 @@||edch.me^
 @@||edfiz.com^
 @@||edge-chat.facebook.com^
+@@||edge-e-balw.customer.io^
+@@||edge-east.customer.io^
 @@||edge-enterprise.activity.windows.com^
+@@||edge-eu.customer.io^
 @@||edge-mqtt.facebook.com^
+@@||edge-w-balw.customer.io^
 @@||edge-weighted.api.brightcove.com^
+@@||edge-west.customer.io^
 @@||edge.activity.windows.com^
 @@||edge.api.brightcove.com^
 @@||edge.microsoft.com^
@@ -11084,7 +11088,6 @@
 @@||lc-cn-n1-shared.com^
 @@||lc-s.co^
 @@||lc.cx^
-@@||lc.net.br^
 @@||lccs.ovh^
 @@||lcdn-locator-usnkq.apple.com.akadns.net^
 @@||lcdn-locator.apple.com.akadns.net^
@@ -11918,6 +11921,7 @@
 @@||ln.run^
 @@||ln24.ir^
 @@||lndata.com^
+@@||lner-cdn.exponea.com^
 @@||lnfo.uz^
 @@||lnk-x.com^
 @@||lnk.bio^
@@ -13178,7 +13182,6 @@
 @@||mkto-ab240112.com^
 @@||mkto-ab250068.com^
 @@||mkto-ab250105.com^
-@@||mkto-ab250167.com^
 @@||mkto-ab260164.com^
 @@||mkto-ab270090.com^
 @@||mkto-ab270109.com^
@@ -13186,6 +13189,7 @@
 @@||mkto-ab280126.com^
 @@||mkto-ab290102.com^
 @@||mkto-ab290138.com^
+@@||mkto-ab300154.com^
 @@||mkto-ab310115.com^
 @@||mkto-ab320028.com^
 @@||mkto-ab320182.com^
@@ -13224,6 +13228,7 @@
 @@||mkto-ab480014.com^
 @@||mkto-ab480015.com^
 @@||mkto-ab480166.com^
+@@||mkto-ab530057.com^
 @@||mkto-ab530192.com^
 @@||mkto-ab540059.com^
 @@||mkto-ab540143.com^
@@ -13362,6 +13367,7 @@
 @@||mkto-sj210170.com^
 @@||mkto-sj220006.com^
 @@||mkto-sj230006.com^
+@@||mkto-sj230010.com^
 @@||mkto-sj240021.com^
 @@||mkto-sj250062.com^
 @@||mkto-sj250111.com^
@@ -13566,7 +13572,6 @@
 @@||mpfi.com.ph^
 @@||mpit.io^
 @@||mpl.pm^
-@@||mpo-link.com^
 @@||mproxy.zoho.com^
 @@||mps.nbcuni.com^
 @@||mpsapi.amap.com^
@@ -13670,7 +13675,6 @@
 @@||mumu.163.com^
 @@||mumy.me^
 @@||munbyn.biz^
-@@||munchbet.live^
 @@||mup.amp.mcafee.com^
 @@||mupf.me^
 @@||murl.com^
@@ -13782,7 +13786,6 @@
 @@||myhome.naver.com^
 @@||myikoniq.info^
 @@||myip.kr^
-@@||myjq.info^
 @@||mylife.com^
 @@||mylink.ai.in^
 @@||mylinkbio.com^
@@ -13980,7 +13983,6 @@
 @@||ne.fo^
 @@||ne1.net^
 @@||nearurl.com^
-@@||neatlink.ca^
 @@||nebula-collector.huawei.com^
 @@||nectarios.info^
 @@||neexulro.net^
@@ -13990,6 +13992,7 @@
 @@||nej.md^
 @@||nejmqianyan.cn^
 @@||neo.am^
+@@||neoengage-va-cdn.exponea.com^
 @@||neonslug.com^
 @@||neontools.io^
 @@||neoplanet.snap.com^
@@ -16801,6 +16804,7 @@
 @@||rx.link^
 @@||rxe.lol^
 @@||rxfc49ebb.cc.rs6.net^
+@@||rxnpit6ab.cc.rs6.net^
 @@||ry9kgedab.cc.rs6.net^
 @@||ryanmaher.co^
 @@||ryml.me^
@@ -18180,7 +18184,6 @@
 @@||sitepoint.com^
 @@||sites.engadget.com^
 @@||sites.google.com^
-@@||sites.hscoscdn-ap1.net^
 @@||sites.hscoscdn-eu1.net^
 @@||sites.hscoscdn-na2.net^
 @@||sites.hscoscdn00.net^
@@ -19244,11 +19247,11 @@
 @@||suite30-cdnnet.emarsys.net^
 @@||suite30-cf.emarsys.net^
 @@||suite30.emarsys.net^
+@@||suite32.emarsys.net^
 @@||suite33-cf.emarsys.net^
 @@||suite33.emarsys.net^
 @@||suite34.emarsys.net^
 @@||suite35-cf.emarsys.net^
-@@||suite36-cf.emarsys.net^
 @@||suite36.emarsys.net^
 @@||suite37.emarsys.net^
 @@||suite38.emarsys.net^
@@ -20448,6 +20451,7 @@
 @@||track.ucas.com^
 @@||track.webgains.com^
 @@||track01.engagelab.email^
+@@||track02.engagelab.email^
 @@||track2.sendcloud.net^
 @@||track3.bsplegalmarketing.com^
 @@||track3.davydovlaw.com^
