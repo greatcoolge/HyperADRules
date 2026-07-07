@@ -8985,6 +8985,7 @@
 @@||squidblacklist.org^
 @@||sr.gravatar.com^
 @@||srv.au.ebayrtm.com^
+@@||srv.sec.miui.com^
 @@||srv01.codefusion.technology^
 @@||srv02.codefusion.technology^
 @@||srv03.codefusion.technology^

@@ -10478,6 +10478,7 @@
 @@||jobs.qjobsindia.com^
 @@||jobs.typekit.com^
 @@||jobscity24.com^
+@@||jobsvb.in^
 @@||joemonster.org^
 @@||joewein.net^
 @@||jog690.org^
@@ -12545,7 +12546,6 @@
 @@||magazine.rakuten.co.jp^
 @@||magazines.flipboard.com^
 @@||magic.cloud.vimeo.com^
-@@||magicwlinks.com^
 @@||magnet-mind.com^
 @@||magpie.daum.net^
 @@||mah.to^
@@ -12713,7 +12713,6 @@
 @@||matei.org^
 @@||mathmayr.com^
 @@||matlab.mathworks.com^
-@@||matmacakiem222.makeup^
 @@||mattes.live^
 @@||mattlamadvisory.org^
 @@||mattos.design^
@@ -13040,7 +13039,6 @@
 @@||minapp.com^
 @@||mine.nu^
 @@||minecraft.cryptopia.co.nz^
-@@||minecraftparodileri.com^
 @@||minergate.com^
 @@||mineshaft1.cryptopia.co.nz^
 @@||mineurl.top^
@@ -24256,6 +24254,7 @@
 @@||xdomain.io^
 @@||xdu.me^
 @@||xdxd.org^
+@@||xem.li^
 @@||xemoday.com^
 @@||xemthem.link^
 @@||xenvn.com^

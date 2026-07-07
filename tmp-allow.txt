@@ -4962,6 +4962,7 @@
 @@||jobs.bytedance.com^
 @@||jobs.qjobsindia.com^
 @@||jobscity24.com^
+@@||jobsvb.in^
 @@||jog690.org^
 @@||join-id.info^
 @@||join.bestbody.com.au^
@@ -6331,7 +6332,6 @@
 @@||magaus.net^
 @@||magaus.org^
 @@||magaus.xyz^
-@@||magicwlinks.com^
 @@||magnet-mind.com^
 @@||mah.to^
 @@||maha77.site^
@@ -6398,7 +6398,6 @@
 @@||matchurl.com^
 @@||matei.org^
 @@||mathmayr.com^
-@@||matmacakiem222.makeup^
 @@||mattes.live^
 @@||mattlamadvisory.org^
 @@||mattos.design^
@@ -6572,7 +6571,6 @@
 @@||millhive.co.uk^
 @@||mimsee2020.com^
 @@||min.bz^
-@@||minecraftparodileri.com^
 @@||mineurl.top^
 @@||minfier.com^
 @@||mini-qr.vercel.app^
@@ -12577,6 +12575,7 @@
 @@||xdomain.io^
 @@||xdu.me^
 @@||xdxd.org^
+@@||xem.li^
 @@||xemoday.com^
 @@||xemthem.link^
 @@||xenvn.com^

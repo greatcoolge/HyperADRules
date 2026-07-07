@@ -10472,6 +10472,7 @@ jobs.medium.com
 jobs.qjobsindia.com
 jobs.typekit.com
 jobscity24.com
+jobsvb.in
 joemonster.org
 joewein.net
 jog690.org
@@ -12539,7 +12540,6 @@ magaus.xyz
 magazine.rakuten.co.jp
 magazines.flipboard.com
 magic.cloud.vimeo.com
-magicwlinks.com
 magnet-mind.com
 magpie.daum.net
 mah.to
@@ -12707,7 +12707,6 @@ matchurl.com
 matei.org
 mathmayr.com
 matlab.mathworks.com
-matmacakiem222.makeup
 mattes.live
 mattlamadvisory.org
 mattos.design
@@ -13034,7 +13033,6 @@ min.bz
 minapp.com
 mine.nu
 minecraft.cryptopia.co.nz
-minecraftparodileri.com
 minergate.com
 mineshaft1.cryptopia.co.nz
 mineurl.top
@@ -24250,6 +24248,7 @@ xdjiraintegration.adobe.com
 xdomain.io
 xdu.me
 xdxd.org
+xem.li
 xemoday.com
 xemthem.link
 xenvn.com
