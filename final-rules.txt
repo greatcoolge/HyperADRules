@@ -6853,7 +6853,6 @@
 @@||email.mail.breitbart.com^
 @@||email.microsoft.com^
 @@||email.microsoftonline.com^
-@@||email.namebase.io^
 @@||email.notify.vuukle.com^
 @@||email.office.com^
 @@||email.ok.ru^
@@ -14875,7 +14874,6 @@
 @@||oyn.at^
 @@||oyo.net^
 @@||oyz.io^
-@@||oz.mk^
 @@||ozb.me^
 @@||ozone.10jqka.com.cn^
 @@||ozz.kr^
@@ -15090,12 +15088,10 @@
 @@||pay.line.me^
 @@||pay.oneplus.com^
 @@||pay.openspeech.cn^
-@@||pay.osome.com^
 @@||pay.remesita.com^
 @@||pay.stripe.com^
 @@||pay.wechat.com^
 @@||payapp.weixin.qq.com^
-@@||payfca.com^
 @@||paymash.io^
 @@||payment.rakuten.co.jp^
 @@||payment.www.linkedin.com^
@@ -15156,7 +15152,6 @@
 @@||peak.fan^
 @@||pebley.uk^
 @@||pecl.php.net^
-@@||pecurgoa.com^
 @@||pedalhub.store^
 @@||pedr.com^
 @@||peek.link^
@@ -15612,7 +15607,6 @@
 @@||preml.ge^
 @@||prendre-rendezvous.com^
 @@||prephe.ro^
-@@||prepostseo.tools^
 @@||preprod.hitbtc.com^
 @@||presence-gcp-asia-south1.truecaller.com^
 @@||presence-grpc-noneu.truecaller.com^

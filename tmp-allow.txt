@@ -3224,7 +3224,6 @@
 @@||email-tracking.infobip.com^
 @@||email.microsoft.com^
 @@||email.microsoftonline.com^
-@@||email.namebase.io^
 @@||email.office.com^
 @@||email.streamhub.tech^
 @@||email.uber.com^
@@ -7640,7 +7639,6 @@
 @@||oyn.at^
 @@||oyo.net^
 @@||oyz.io^
-@@||oz.mk^
 @@||ozb.me^
 @@||ozz.kr^
 @@||p*.qhimg.com^
@@ -7776,10 +7774,8 @@
 @@||pawl.bio^
 @@||pay.bilibili.com^
 @@||pay.openspeech.cn^
-@@||pay.osome.com^
 @@||pay.remesita.com^
 @@||payapp.weixin.qq.com^
-@@||payfca.com^
 @@||paymash.io^
 @@||paypal.com^
 @@||payskip.org^
@@ -7811,7 +7807,6 @@
 @@||peak-prosperity.com^
 @@||peak.fan^
 @@||pebley.uk^
-@@||pecurgoa.com^
 @@||pedalhub.store^
 @@||peek.link^
 @@||peekstory.com^
@@ -8042,7 +8037,6 @@
 @@||preml.ge^
 @@||prendre-rendezvous.com^
 @@||prephe.ro^
-@@||prepostseo.tools^
 @@||pressthis.link^
 @@||preview-jupiter.sys.miui.com^
 @@||prf.hn^
