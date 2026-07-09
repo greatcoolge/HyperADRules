@@ -17660,7 +17660,6 @@ short-me.me
 short-url.co
 short-url.link
 short-url.org
-short-url.run
 short-url.upr.ac.id
 short-video.kakamobi.cn
 short.al
@@ -17762,7 +17761,6 @@ shortenerlink.net
 shortenerlink.xyz
 shortenerreviews.com
 shorteners.net
-shortenerword.com
 shortenfor.me
 shortengine.dev
 shortenlab.com
@@ -17773,7 +17771,6 @@ shortenme.io
 shortenme.me
 shortenmyurl.online
 shortenn.org
-shortenn.site
 shortenpay.com
 shortenr-app.vercel.app
 shortenr.de
@@ -17819,7 +17816,6 @@ shortio.sk
 shortit.me
 shortix.io
 shortkit.io
-shortl.info
 shortl.net
 shortlab.bio
 shortlinc.com
@@ -17928,7 +17924,6 @@ shorturl.fm
 shorturl.ge
 shorturl.gg
 shorturl.is
-shorturl.kg
 shorturl.lk
 shorturl.ly
 shorturl.re
@@ -18040,7 +18035,6 @@ shrten.io
 shrten.us
 shrter.de
 shrtfly.com
-shrtli.com
 shrtlink.ai
 shrtlist.com
 shrtlk.click
@@ -18064,7 +18058,6 @@ shrturll.com
 shrtxb4d.live
 shrtxtus.wiki
 shrty.eu
-shrty.net
 shrunkdurl.com
 shrunken.com
 sht.moe
@@ -18086,7 +18079,6 @@ shutr.bz
 shuvi.io
 shw.me
 shy.si
-shycmedi.com
 shylink.io
 shylnk.com
 si.edu
@@ -18716,8 +18708,6 @@ ss777.games
 ss777.win
 ss88.my
 ssa.li
-ssagnjumbory.com
-ssagnonfexy.com
 ssb.ltd
 ssff.cl
 ssj-1256119282.cos.ap-guangzhou.myqcloud.com
