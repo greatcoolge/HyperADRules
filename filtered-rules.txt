@@ -3370,7 +3370,6 @@ biligame.com
 bill.xbox.com
 billdesk.com
 billiger.de
-billion.run
 bim.im
 binance.com
 binaryage.com
@@ -3587,7 +3586,6 @@ bliter.link
 blitz.mb-cosmos.com
 blizz.ly
 blkstats.com
-blllb.com
 blltly.com
 blnk.in
 blo.gs
@@ -4548,7 +4546,6 @@ cell.office.naver.com
 ceneo.pl
 census.gov
 centi.ai
-centre.is
 centurylinke.com
 cepat.link
 cert.halo.part.xbox.com
@@ -5393,7 +5390,6 @@ cort.li
 cort.my
 cortalo.net
 cosmopolitan.com
-cosmos.ac
 costco.com
 costream.twitch.tv
 cosu.sonymobile.com
@@ -5636,7 +5632,6 @@ cut.lu
 cut.ovh
 cut.pe
 cut.sk
-cut.vin
 cut2.eu
 cutcaptcha.com
 cutdown.link
@@ -7273,7 +7268,6 @@ faras.link
 fark.com
 farm4.staticflickr.com
 farmacrm.com.br
-fars.ee
 fashionista.com
 fashionparklanka.com
 fast.com
@@ -7532,7 +7526,6 @@ flemail.flipboard.com
 flexitube.xyz
 flexjetcareers.com
 flextrig.com
-fli.so
 flic.kr
 flickerlink.com
 flickr.com
@@ -7630,7 +7623,6 @@ foreseeresults.com
 form.jotform.com
 form.office.naver.com
 form.typeform.com
-format.asia
 forms.breitbart.com
 forms.gle
 forms.office.com
@@ -9633,7 +9625,6 @@ ierp.co.nz
 if.fm
 iface2.iqiyi.com
 ifdian.net
-iffii.com
 ifix.gd
 ifixit.com
 iflow.uczzd.cn
@@ -9952,7 +9943,6 @@ in.micardapi.micloud.xiaomi.net
 in.mt
 in.phonecallapi.micloud.xiaomi.net
 in.rediff.com
-in.run
 in.sbdp.sonymobile.com
 in.smsapi.micloud.xiaomi.net
 in.wzrkt.com
@@ -10322,7 +10312,6 @@ iwr.link
 iwwlink.org
 iwx.mail.qq.com
 ix.sk
-ixi.me
 iy.me
 iy.net
 iyc.life
@@ -10826,7 +10815,6 @@ koddi.com
 kohls.com
 koi800.cc
 koinko.in
-kol.vin
 kolaylink.com
 kollylad.com
 komputerswiat.pl
@@ -11102,7 +11090,6 @@ learn.to
 learndownload.adobe.com
 learning.school
 learnit.today
-lebow.me
 leenker.io
 lef.link
 legal.medium.com
@@ -11514,7 +11501,6 @@ linkhebat.com
 linkhub.biz
 linkhub.to
 linkhubdirect.com
-linkhuddle.com
 linki.run
 linkia.co
 linkify.page
@@ -11540,11 +11526,9 @@ linkj.nl
 linkjago.me
 linkjet.net
 linkjitu.site
-linkjoy.io
 linkjoy.org
 linkjp.org
 linkjust.com
-linkk.ing
 linkkece.com
 linkkita.me
 linkkl.com
@@ -11614,7 +11598,6 @@ linkprotbkita.com
 linkprotect.cudasvc.com
 linkqr.io
 linkr.com
-linkr.it
 linkr.uk
 linkr.vc
 linkraya.com
@@ -12109,7 +12092,6 @@ lr3.link
 lr53r.com
 lrl.kr
 lrl.li
-lrrrl.com
 lru.jp
 lru.vercel.app
 ls.notesit.net
@@ -12237,6 +12219,7 @@ m-szy.custobar.com
 m-tcg.custobar.com
 m-tfe.custobar.com
 m-tmsif.custobar.com
+m-tp3tv.custobar.com
 m-ueuba.custobar.com
 m-va.custobar.com
 m-vek.custobar.com
@@ -13162,7 +13145,6 @@ mkto-ab130037.com
 mkto-ab130188.com
 mkto-ab140048.com
 mkto-ab150013.com
-mkto-ab150224.com
 mkto-ab170094.com
 mkto-ab170123.com
 mkto-ab170161.com
@@ -13174,6 +13156,7 @@ mkto-ab220178.com
 mkto-ab240112.com
 mkto-ab250068.com
 mkto-ab250105.com
+mkto-ab250167.com
 mkto-ab260164.com
 mkto-ab270090.com
 mkto-ab270109.com
@@ -13245,6 +13228,7 @@ mkto-ab630042.com
 mkto-ab640171.com
 mkto-ab650097.com
 mkto-ab650172.com
+mkto-ab650200.com
 mkto-ab660121.com
 mkto-ab660168.com
 mkto-ab680016.com
@@ -13648,7 +13632,6 @@ mtozze.com
 mtpc.se
 mttr.io
 mtv.com
-mtw.so
 mtws.cc
 mtxt.xyz
 muangay.info
@@ -13743,7 +13726,6 @@ my.travel.rakuten.co.jp
 my.vudu.com
 my1.ca
 my3777.app
-my5353.com
 myaccount.nytimes.com
 myanlink.com
 myaz.tech
@@ -14145,7 +14127,6 @@ nike.com
 nil.naver.com
 nils.link
 nimbi.net
-nimble.li
 nimbli.app
 nimex.live
 nimg.ws.126.net
@@ -14466,7 +14447,6 @@ obs.cn-south-1.myhuaweicloud.com
 observer.com
 oc.sparkasse.de
 oca-api.netflix.com
-ocb.me
 occ.li
 oceania.pool.ntp.org
 oceanofgames.com
@@ -15247,7 +15227,6 @@ phpbb.com
 phrase.dict.naver.com
 phrasebook.naver.com
 phst.in
-phuongso.com
 phygo.io
 pi-hole.net
 pi.hole
@@ -16808,7 +16787,6 @@ s-passets-cache-ak0.pinimg.com
 s-static.ak.facebook.com
 s-turl.com
 s-url.fr
-s-url.pro
 s-us.vercel.app
 s.163.com
 s.4pda.to
@@ -17125,7 +17103,6 @@ sc.l.soundcloud.com
 sc.link
 sc.mp
 sc.org
-sc.ts460.com
 sc02.alicdn.com
 sc115.com
 sc1o.com
@@ -17664,7 +17641,6 @@ short-url.upr.ac.id
 short-video.kakamobi.cn
 short.al
 short.andreg.com.br
-short.asia
 short.assleo.icu
 short.bid
 short.cc
@@ -17774,7 +17750,6 @@ shortenn.org
 shortenpay.com
 shortenr-app.vercel.app
 shortenr.de
-shortens.org
 shortenurl.app
 shortenurl.org
 shortenurls.eu
@@ -18158,7 +18133,6 @@ siteonizleme.com.tr
 sitepoint.com
 sites.engadget.com
 sites.google.com
-sites.hscoscdn-ap1.net
 sites.hscoscdn-eu1.net
 sites.hscoscdn-na2.net
 sites.hscoscdn00.net
@@ -18359,7 +18333,6 @@ smsit.ai
 smsng.news
 smsng.us
 smst.ca
-smsu.io
 smtp.mail.yahoo.com
 smtp.ospserver.net
 smtp.vimeo.com
@@ -19220,7 +19193,6 @@ suite3.emarsys.net
 suite30-cdnnet.emarsys.net
 suite30-cf.emarsys.net
 suite30.emarsys.net
-suite32.emarsys.net
 suite33-cf.emarsys.net
 suite33.emarsys.net
 suite34.emarsys.net
@@ -19823,7 +19795,6 @@ tencentgames.helpshift.com
 tenforums.com
 ter.li
 terabox.in
-teraboxl.cloud
 terakki.link
 terashort.com
 terasi.net
@@ -19876,7 +19847,6 @@ th.bing.com
 th.gravatar.com
 th3.ovh
 th8.us
-than.world
 tharp.me
 thatis.me
 thd.co
@@ -19968,7 +19938,6 @@ thrdl.es
 threatbook.cn
 threatcrowd.org
 threats.kaspersky.com
-threely.com
 thrill.to
 thryt.com
 thts.gg
@@ -20042,7 +20011,6 @@ timessquarefacts.com
 timewatch.info
 timnao.link
 timxxx.ink
-tin.li
 tinderurl.com
 tinesy.com
 tini.cc
@@ -20147,7 +20115,6 @@ tips.wechat.com
 tiqcdn.com
 tirebuyer.com
 tisfri.se
-titan.is
 titaniumlinks.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
@@ -20267,7 +20234,6 @@ tokopedia.link
 toliveal.ie
 toliyos.com
 tom.163.com
-tomasz.top
 tomi-app.com
 tomly.io
 tomshardware.com
@@ -20556,10 +20522,8 @@ trickbd.com
 trieuview.life
 triggerbee.com
 trim-me.io
-trim.ac
 trim.cx
 trim.one
-trimaurl.com
 trimify.xyz
 trimlink.ai
 trimlink.co.uk
@@ -20568,7 +20532,6 @@ trimlynk.com
 trimm.link
 trimmer.to
 trimrly.com
-trimrr.link
 trims.me
 trimuly.com
 trimurl.co
@@ -21987,7 +21950,6 @@ vms.bz
 vmss-beta.boldchat.com
 vmss-eu.boldchat.com
 vmss.boldchat.com
-vn.run
 vnboards.ign.com
 vndr.tech
 vnl.vn
@@ -24323,7 +24285,6 @@ xrl.in
 xrl.us
 xronia.com
 xrshort.eu
-xs.run
 xshort.co
 xshort.io
 xsin.it
@@ -24728,7 +24689,6 @@ zorts.me
 zoso.ro
 zotter.click
 zotter.link
-zovo.ink
 zovpart.com
 zpag.es
 zpr.io
