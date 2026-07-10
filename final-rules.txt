@@ -20850,7 +20850,6 @@
 @@||uaprof.sonymobile.com^
 @@||uarel.com^
 @@||ub0.cc^
-@@||ubbk.xyz^
 @@||ubd.one^
 @@||ubidata.link^
 @@||ubisoft-orbit-savegames.s3.amazonaws.com^
@@ -20882,7 +20881,6 @@
 @@||uedna.com^
 @@||uepx.com^
 @@||ufai.app^
-@@||ufasofilmebi.one^
 @@||ufcqc.link^
 @@||ufflink.com^
 @@||ufg.to^
@@ -20896,7 +20894,6 @@
 @@||ugurly.vercel.app^
 @@||uh.ht^
 @@||uhf.microsoft.com^
-@@||uhishado.com^
 @@||ui.la^
 @@||ui.ptlogin2.wechat.com^
 @@||ui.skype.akadns.net^
@@ -21238,7 +21235,6 @@
 @@||url647.xyz^
 @@||url666x.com^
 @@||url69xx.com^
-@@||url6x.com^
 @@||url6xx.com^
 @@||url724.link^
 @@||url777x.com^
@@ -21346,7 +21342,6 @@
 @@||urlme.us^
 @@||urlmini.io^
 @@||urlmkr.net^
-@@||urlmy.link^
 @@||urlno.com^
 @@||urlnova.com^
 @@||urlo.in^
@@ -21400,7 +21395,6 @@
 @@||urlshortener.bnpparibas^
 @@||urlshortener.co.uk^
 @@||urlshortener.mahamafzar.com^
-@@||urlshortener.pro^
 @@||urlshortener.site^
 @@||urlshortenerking.com^
 @@||urlshortenertool.com^
@@ -21726,7 +21720,6 @@
 @@||vehi.co^
 @@||veja.me^
 @@||velaro.com^
-@@||vemna.bio^
 @@||vena.sh^
 @@||vendoagora.live^
 @@||vendorlist.consensu.org^
@@ -21838,7 +21831,6 @@
 @@||videy.isuaceh.com^
 @@||videyfour.isuaceh.com^
 @@||videytwo.isuaceh.com^
-@@||videyx.fun^
 @@||vidible.tv^
 @@||vidoza.net^
 @@||vidtech.cbsinteractive.com^
@@ -22258,7 +22250,6 @@
 @@||webi.li^
 @@||webinfos.info^
 @@||webinstallers.gog-statics.com^
-@@||webixcard.me^
 @@||weblb-wg.dual-gslb.spotify.com^
 @@||weblink.biz^
 @@||webmail.laposte.net^

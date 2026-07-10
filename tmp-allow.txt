@@ -11273,7 +11273,6 @@
 @@||ual.fyi^
 @@||ualam.com^
 @@||ub0.cc^
-@@||ubbk.xyz^
 @@||ubd.one^
 @@||ubidata.link^
 @@||ubm.io^
@@ -11288,7 +11287,6 @@
 @@||ue.flipboard.com^
 @@||uepx.com^
 @@||ufai.app^
-@@||ufasofilmebi.one^
 @@||ufcqc.link^
 @@||ufflink.com^
 @@||ufg.to^
@@ -11300,7 +11298,6 @@
 @@||ugurl.cn^
 @@||ugurly.vercel.app^
 @@||uh.ht^
-@@||uhishado.com^
 @@||ui.la^
 @@||ui8.ru^
 @@||uich.cc^
@@ -11536,7 +11533,6 @@
 @@||url647.xyz^
 @@||url666x.com^
 @@||url69xx.com^
-@@||url6x.com^
 @@||url6xx.com^
 @@||url724.link^
 @@||url777x.com^
@@ -11640,7 +11636,6 @@
 @@||urlme.us^
 @@||urlmini.io^
 @@||urlmkr.net^
-@@||urlmy.link^
 @@||urlno.com^
 @@||urlnova.com^
 @@||urlo.in^
@@ -11693,7 +11688,6 @@
 @@||urlshortener.bnpparibas^
 @@||urlshortener.co.uk^
 @@||urlshortener.mahamafzar.com^
-@@||urlshortener.pro^
 @@||urlshortener.site^
 @@||urlshortenerking.com^
 @@||urlshortenertool.com^
@@ -11886,7 +11880,6 @@
 @@||vegamoveis.link^
 @@||vehi.co^
 @@||veja.me^
-@@||vemna.bio^
 @@||vena.sh^
 @@||vendoagora.live^
 @@||venkateswaragases.com^
@@ -11937,7 +11930,6 @@
 @@||videy.isuaceh.com^
 @@||videyfour.isuaceh.com^
 @@||videytwo.isuaceh.com^
-@@||videyx.fun^
 @@||vidzsb.com^
 @@||view.email.microsoftemail.com^
 @@||view.email.nzz.ch^
@@ -12158,7 +12150,6 @@
 @@||webflow.grsm.io^
 @@||webi.li^
 @@||webinfos.info^
-@@||webixcard.me^
 @@||weblink.biz^
 @@||webmienphi.net^
 @@||webn.in^
