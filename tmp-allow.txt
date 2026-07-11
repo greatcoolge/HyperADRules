@@ -11933,6 +11933,7 @@
 @@||videy.isuaceh.com^
 @@||videyfour.isuaceh.com^
 @@||videytwo.isuaceh.com^
+@@||vidmy.fun^
 @@||vidzsb.com^
 @@||view.email.microsoftemail.com^
 @@||view.email.nzz.ch^
@@ -12004,6 +12005,7 @@
 @@||vm88bet.org^
 @@||vms.bz^
 @@||vndr.tech^
+@@||vneq.de^
 @@||vnl.vn^
 @@||vnlink.top^
 @@||vns.im^

@@ -21835,6 +21835,7 @@
 @@||videyfour.isuaceh.com^
 @@||videytwo.isuaceh.com^
 @@||vidible.tv^
+@@||vidmy.fun^
 @@||vidoza.net^
 @@||vidtech.cbsinteractive.com^
 @@||vidto.me^
@@ -21953,6 +21954,7 @@
 @@||vmss.boldchat.com^
 @@||vnboards.ign.com^
 @@||vndr.tech^
+@@||vneq.de^
 @@||vnl.vn^
 @@||vnlink.top^
 @@||vnmedia.ign.com^
