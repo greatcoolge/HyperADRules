@@ -2170,7 +2170,6 @@ apexstats.com
 api-02.moengage.com
 api-03.moengage.com
 api-04.moengage.com
-api-101.moengage.com
 api-ap1.hubapi.com
 api-auth.soundcloud.com
 api-beta.huawei.com
@@ -2183,11 +2182,13 @@ api-edge.cognitive.microsofttranslator.com
 api-embedded.soundcloud.com
 api-eu.cleverpush.com
 api-eu1.hubapi.com
+api-fra04-origin.hubapi.com
 api-game.meizu.com
 api-glb.smoot.apple.com
 api-global.netflix.com
 api-guestbook.blog.naver.com
 api-hub.samsungyosemite.com
+api-iad02-origin.hubapi.com
 api-iam.intercom.io
 api-item.daum.net
 api-launcher.spot.im
@@ -18133,6 +18134,7 @@ siteonizleme.com.tr
 sitepoint.com
 sites.engadget.com
 sites.google.com
+sites.hscoscdn-ap1.net
 sites.hscoscdn-eu1.net
 sites.hscoscdn-na2.net
 sites.hscoscdn00.net
