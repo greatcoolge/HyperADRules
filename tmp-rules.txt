@@ -6069,6 +6069,7 @@
 @@||livejournal.com^
 @@||livepassdl.conviva.com^
 @@||livere.com^
+@@||livesstream.work.gd^
 @@||livestream.com^
 @@||livetile.hulu.com^
 @@||liveupdate.mac.sandai.net^
