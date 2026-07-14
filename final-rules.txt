@@ -2176,6 +2176,7 @@
 @@||api-02.moengage.com^
 @@||api-03.moengage.com^
 @@||api-04.moengage.com^
+@@||api-101.moengage.com^
 @@||api-ap1.hubapi.com^
 @@||api-auth.soundcloud.com^
 @@||api-beta.huawei.com^
@@ -2188,13 +2189,11 @@
 @@||api-embedded.soundcloud.com^
 @@||api-eu.cleverpush.com^
 @@||api-eu1.hubapi.com^
-@@||api-fra04-origin.hubapi.com^
 @@||api-game.meizu.com^
 @@||api-glb.smoot.apple.com^
 @@||api-global.netflix.com^
 @@||api-guestbook.blog.naver.com^
 @@||api-hub.samsungyosemite.com^
-@@||api-iad02-origin.hubapi.com^
 @@||api-iam.intercom.io^
 @@||api-item.daum.net^
 @@||api-launcher.spot.im^
@@ -2216,12 +2215,14 @@
 @@||api-nyc.soundcloud.com^
 @@||api-partner.spotify.com^
 @@||api-partners.soundcloud.com^
+@@||api-pdx02-origin.hubapi.com^
 @@||api-rangers.line.me^
 @@||api-secure.solvemedia.com^
 @@||api-shoulei-ssl.xunlei.com^
 @@||api-ssl.bit.ly^
 @@||api-staging-embedded.soundcloud.com^
 @@||api-stream.twitter.com^
+@@||api-syd02-origin.hubapi.com^
 @@||api-tv.spotify.com^
 @@||api-us1.mpay.samsung.com^
 @@||api-v2.soundcloud.com^
@@ -13167,7 +13168,6 @@
 @@||mkto-ab240112.com^
 @@||mkto-ab250068.com^
 @@||mkto-ab250105.com^
-@@||mkto-ab250167.com^
 @@||mkto-ab260164.com^
 @@||mkto-ab270090.com^
 @@||mkto-ab270109.com^
@@ -13175,6 +13175,7 @@
 @@||mkto-ab280126.com^
 @@||mkto-ab290102.com^
 @@||mkto-ab290138.com^
+@@||mkto-ab300154.com^
 @@||mkto-ab310115.com^
 @@||mkto-ab320028.com^
 @@||mkto-ab320182.com^
@@ -13213,6 +13214,7 @@
 @@||mkto-ab480014.com^
 @@||mkto-ab480015.com^
 @@||mkto-ab480166.com^
+@@||mkto-ab530057.com^
 @@||mkto-ab530192.com^
 @@||mkto-ab540059.com^
 @@||mkto-ab540143.com^
@@ -13974,7 +13976,6 @@
 @@||nej.md^
 @@||nejmqianyan.cn^
 @@||neo.am^
-@@||neoengage-va-cdn.exponea.com^
 @@||neonslug.com^
 @@||neontools.io^
 @@||neoplanet.snap.com^
@@ -16969,6 +16970,7 @@
 @@||s6.exacttarget.com^
 @@||s7.exacttarget.com^
 @@||s7y.us^
+@@||s8.exacttarget.com^
 @@||s82i.app.link^
 @@||s9.picofile.com^
 @@||s99.tech^
@@ -18141,7 +18143,6 @@
 @@||sitepoint.com^
 @@||sites.engadget.com^
 @@||sites.google.com^
-@@||sites.hscoscdn-ap1.net^
 @@||sites.hscoscdn-eu1.net^
 @@||sites.hscoscdn-na2.net^
 @@||sites.hscoscdn00.net^
