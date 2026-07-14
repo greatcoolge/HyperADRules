@@ -5826,6 +5826,7 @@ data-linkup.com
 data.bilibili.com
 data.digital.costco.ca
 data.digital.costco.com
+data.email.tangerine.ca
 data.flurry.com
 data.fotmob.com
 data.game.xiaomi.com

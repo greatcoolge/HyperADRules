@@ -2734,6 +2734,7 @@
 @@||data-linkup.com^
 @@||data.digital.costco.ca^
 @@||data.digital.costco.com^
+@@||data.email.tangerine.ca^
 @@||data.services.jetbrains.com^
 @@||data.vod.itc.cn^
 @@||data.worldbank.org^
