@@ -27,6 +27,7 @@
 @@||0ln.eu^
 @@||0mjgn0m.site^
 @@||0o.lv^
+@@||0oj.cn^
 @@||0rl.cc^
 @@||0rz.tw^
 @@||0s0.com^
@@ -53,6 +54,7 @@
 @@||123.ge^
 @@||123415.xyz^
 @@||123link.co^
+@@||123lnk.xyz^
 @@||126.am^
 @@||128.pl^
 @@||12ne.ws^
@@ -68,6 +70,7 @@
 @@||18comic.org^
 @@||18comic.vip^
 @@||19081.com^
+@@||1a.co.nz^
 @@||1ad.io^
 @@||1af.me^
 @@||1aurl.io^
@@ -126,6 +129,7 @@
 @@||1tk.us^
 @@||1tn.se^
 @@||1ty.me^
+@@||1u.fi^
 @@||1u2.ru^
 @@||1un.fr^
 @@||1url.co.uk^
@@ -204,6 +208,7 @@
 @@||2tiny.in^
 @@||2to.info^
 @@||2tu.us^
+@@||2ty.in^
 @@||2u.gg^
 @@||2u.lc^
 @@||2u.pw^
@@ -266,6 +271,7 @@
 @@||3q3.de^
 @@||3qzr.com^
 @@||3ra.be^
+@@||3tj.cc^
 @@||3v3.run^
 @@||3w.pm^
 @@||3x.si^
@@ -380,6 +386,7 @@
 @@||7i.nu^
 @@||7i.se^
 @@||7kts.com^
+@@||7li.in^
 @@||7link.info^
 @@||7link.pro^
 @@||7links.co^
@@ -416,11 +423,13 @@
 @@||93.link^
 @@||98.to^
 @@||985.so^
+@@||98pro.cc^
 @@||999.sh^
 @@||99forward.com^
 @@||99fw.in^
 @@||99links.in^
 @@||99vpn.pro^
+@@||9fx.org^
 @@||9g9.org^
 @@||9h.dk^
 @@||9k.gg^
@@ -808,6 +817,7 @@
 @@||aiecj2.com^
 @@||aighy.com^
 @@||aim2.cc^
+@@||aimetath.com^
 @@||aimqr.com^
 @@||aintok.com^
 @@||ainurl.pro^
@@ -1026,8 +1036,6 @@
 @@||api-na1.hubapi.com^
 @@||api-na2.hubapi.com^
 @@||api-na3.hubapi.com^
-@@||api-pdx02-origin.hubapi.com^
-@@||api-syd02-origin.hubapi.com^
 @@||api.account.xiaomi.com^
 @@||api.apple-cloudkit.com^
 @@||api.bam-x.com^
@@ -6643,6 +6651,7 @@
 @@||mkto-ab130188.com^
 @@||mkto-ab140048.com^
 @@||mkto-ab150013.com^
+@@||mkto-ab150224.com^
 @@||mkto-ab170094.com^
 @@||mkto-ab170123.com^
 @@||mkto-ab170161.com^
@@ -6710,6 +6719,7 @@
 @@||mkto-ab550184.com^
 @@||mkto-ab560068.com^
 @@||mkto-ab560119.com^
+@@||mkto-ab560171.com^
 @@||mkto-ab570110.com^
 @@||mkto-ab570128.com^
 @@||mkto-ab580004.com^
@@ -6745,6 +6755,7 @@
 @@||mkto-cs0007.com^
 @@||mkto-d0024.com^
 @@||mkto-d0170.com^
+@@||mkto-dev.certinia.com^
 @@||mkto-e0014.com^
 @@||mkto-e0126.com^
 @@||mkto-e0231.com^
@@ -9610,6 +9621,7 @@
 @@||sitedetour.com^
 @@||sitegpl.com^
 @@||siteonizleme.com.tr^
+@@||sites.hscoscdn-ap1.net^
 @@||sites.hscoscdn-eu1.net^
 @@||sites.hscoscdn-na2.net^
 @@||sites.hscoscdn00.net^

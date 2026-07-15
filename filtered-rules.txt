@@ -62,6 +62,7 @@
 0ln.eu
 0mjgn0m.site
 0o.lv
+0oj.cn
 0p.de
 0rl.cc
 0rz.tw
@@ -119,6 +120,7 @@
 123415.xyz
 123greetings.com
 123link.co
+123lnk.xyz
 123movies.to
 126.am
 128.pl
@@ -142,6 +144,7 @@
 18comic.vip
 19081.com
 192-168-1-103.mydns.jdownloader.org
+1a.co.nz
 1ad.io
 1af.me
 1and1.com
@@ -212,6 +215,7 @@
 1tk.us
 1tn.se
 1ty.me
+1u.fi
 1u2.ru
 1un.fr
 1und1.de
@@ -330,6 +334,7 @@
 2tiny.in
 2to.info
 2tu.us
+2ty.in
 2u.gg
 2u.lc
 2u.pw
@@ -422,6 +427,7 @@
 3qzr.com
 3ra.be
 3t.org
+3tj.cc
 3v3.run
 3w.pm
 3x.si
@@ -556,6 +562,7 @@
 7i.nu
 7i.se
 7kts.com
+7li.in
 7link.info
 7link.pro
 7links.co
@@ -595,12 +602,14 @@
 93.link
 98.to
 985.so
+98pro.cc
 999.sh
 99forward.com
 99fw.in
 99links.in
 99vpn.pro
 9Anime.to
+9fx.org
 9g9.org
 9gag.com
 9h.dk
@@ -1257,6 +1266,7 @@ aiecj2.com
 aighy.com
 aillis.line.me
 aim2.cc
+aimetath.com
 aimqr.com
 aintok.com
 ainurl.pro
@@ -2209,14 +2219,12 @@ api-na3.hubapi.com
 api-nyc.soundcloud.com
 api-partner.spotify.com
 api-partners.soundcloud.com
-api-pdx02-origin.hubapi.com
 api-rangers.line.me
 api-secure.solvemedia.com
 api-shoulei-ssl.xunlei.com
 api-ssl.bit.ly
 api-staging-embedded.soundcloud.com
 api-stream.twitter.com
-api-syd02-origin.hubapi.com
 api-tv.spotify.com
 api-us1.mpay.samsung.com
 api-v2.soundcloud.com
@@ -13151,6 +13159,7 @@ mkto-ab130037.com
 mkto-ab130188.com
 mkto-ab140048.com
 mkto-ab150013.com
+mkto-ab150224.com
 mkto-ab170094.com
 mkto-ab170123.com
 mkto-ab170161.com
@@ -13218,6 +13227,7 @@ mkto-ab550140.com
 mkto-ab550184.com
 mkto-ab560068.com
 mkto-ab560119.com
+mkto-ab560171.com
 mkto-ab570110.com
 mkto-ab570128.com
 mkto-ab580004.com
@@ -13253,6 +13263,7 @@ mkto-c0100.com
 mkto-cs0007.com
 mkto-d0024.com
 mkto-d0170.com
+mkto-dev.certinia.com
 mkto-e0014.com
 mkto-e0126.com
 mkto-e0231.com
@@ -18138,6 +18149,7 @@ siteonizleme.com.tr
 sitepoint.com
 sites.engadget.com
 sites.google.com
+sites.hscoscdn-ap1.net
 sites.hscoscdn-eu1.net
 sites.hscoscdn-na2.net
 sites.hscoscdn00.net
