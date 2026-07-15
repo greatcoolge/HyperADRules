@@ -14786,6 +14786,7 @@ ota-downloads.nvidia.com
 otag.h2os.com
 otgk.ir
 oth.eve.mdt.qq.com
+otheve.beacon.qq.com
 otlnk.com
 otlong.com
 otolink.pl
