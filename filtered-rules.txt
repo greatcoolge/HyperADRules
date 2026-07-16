@@ -2131,6 +2131,7 @@ announce.xxx-tracker.com
 announcements.engadget.com
 annoyingnightmareedit.com
 anon.to
+anonme.net
 anonshort.com
 anonymouse.org
 anp.su
@@ -2169,6 +2170,7 @@ ap.spotify.com
 ap6.ssl.msdk.qq.com
 apa.org
 apache.org
+aparca.app
 apb2.de
 apbiosuccess.com
 apcargocourier.com
@@ -2758,6 +2760,7 @@ arttrk.com
 arurl.us
 arus.cc
 arv.us
+aryenmotors.com
 as.com
 as.flipboard.com
 as.mgtv.com
@@ -3054,6 +3057,7 @@ az725175.vo.msecnd.net
 az764295.vo.msecnd.net
 az879543.vo.msecnd.net
 azadify.com
+azali.fr
 azc.cc
 azipurl.app
 azipurl.com
@@ -3101,6 +3105,7 @@ b2u.io
 b33.fr
 b4y.net
 b51.tw
+b54.in
 b6.me
 b7.tel
 b808.bet
@@ -3242,6 +3247,7 @@ becsn.net
 bedbathandbeyond.com
 bee-kz.life
 bee1s.com
+bee4.biz
 beeb.us
 beehiiv.com
 beelnk.com
@@ -3369,6 +3375,7 @@ biggovernment.breitbart.com
 bighollywood.breitbart.com
 biglistofwebsites.com
 biglobe.ne.jp
+bigolink.com
 bigthink.com
 bigurl.io
 bigw.com.au
@@ -3424,7 +3431,9 @@ biocardpro.com
 bioclick.net
 biofy.ai
 biofy.bio
+biohoster.com
 biohub.me
+bioku.my
 biolink.blog
 biolink.cloud
 biolink.com.do
@@ -3499,6 +3508,7 @@ bitly.best
 bitly.bz
 bitly.com
 bitly.cx
+bitly.gold
 bitly.im
 bitly.is
 bitly.kr
@@ -3600,6 +3610,7 @@ blkstats.com
 blltly.com
 blnk.in
 blo.gs
+bloat.me
 blobs.officehome.msocdn.com
 block-test.developerdan.com
 blockadblock.com
@@ -3743,6 +3754,7 @@ bolagroup.vip
 bolagroup.xyz
 bolahiu.vip
 boldchat.com
+boldphoto.link
 bolstr.online
 bolt.dropbox.com
 boltsly.com
@@ -3779,6 +3791,7 @@ bootbarn.com
 bootstrapcdn.com
 bootstrapcdn.jdorfman.netdna-cdn.com
 bose.life
+boshoki.biz
 bosi.me
 boskale.me
 boss.static.xiaomi.net
@@ -4003,6 +4016,7 @@ bwmhosting.huawei.com
 bwnews.pr
 bwp.techrepublic.com
 bws.bitpay.com
+bx.ms
 bxl.me
 by.com.vn
 by1.eu
@@ -4026,6 +4040,7 @@ bytr.ee
 byuroscope.com
 bz9.com
 bzfd.it
+bzh.me
 c-o.in
 c.58cdn.com.cn
 c.amazon-adsystem.com
@@ -4801,6 +4816,7 @@ citimobile.d2.sc.omtrdc.net
 citly.me
 citrix.com
 cityreach.in
+cius.in
 civ.link
 cix.bz
 cixi.bio
@@ -4838,6 +4854,7 @@ clearbit.com
 clearload.bid
 clearstream.io
 cleverlink.pro
+cleverurls.com
 cli.fm
 cli.gs
 cli.im
@@ -14797,7 +14814,6 @@ ota-downloads.nvidia.com
 otag.h2os.com
 otgk.ir
 oth.eve.mdt.qq.com
-otheve.beacon.qq.com
 otlnk.com
 otlong.com
 otolink.pl

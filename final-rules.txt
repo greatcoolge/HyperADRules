@@ -2137,6 +2137,7 @@
 @@||announcements.engadget.com^
 @@||annoyingnightmareedit.com^
 @@||anon.to^
+@@||anonme.net^
 @@||anonshort.com^
 @@||anonymouse.org^
 @@||anp.su^
@@ -2175,6 +2176,7 @@
 @@||ap6.ssl.msdk.qq.com^
 @@||apa.org^
 @@||apache.org^
+@@||aparca.app^
 @@||apb2.de^
 @@||apbiosuccess.com^
 @@||apcargocourier.com^
@@ -2764,6 +2766,7 @@
 @@||arurl.us^
 @@||arus.cc^
 @@||arv.us^
+@@||aryenmotors.com^
 @@||as.com^
 @@||as.flipboard.com^
 @@||as.mgtv.com^
@@ -3060,6 +3063,7 @@
 @@||az764295.vo.msecnd.net^
 @@||az879543.vo.msecnd.net^
 @@||azadify.com^
+@@||azali.fr^
 @@||azc.cc^
 @@||azipurl.app^
 @@||azipurl.com^
@@ -3107,6 +3111,7 @@
 @@||b33.fr^
 @@||b4y.net^
 @@||b51.tw^
+@@||b54.in^
 @@||b6.me^
 @@||b7.tel^
 @@||b808.bet^
@@ -3248,6 +3253,7 @@
 @@||bedbathandbeyond.com^
 @@||bee-kz.life^
 @@||bee1s.com^
+@@||bee4.biz^
 @@||beeb.us^
 @@||beehiiv.com^
 @@||beelnk.com^
@@ -3375,6 +3381,7 @@
 @@||bighollywood.breitbart.com^
 @@||biglistofwebsites.com^
 @@||biglobe.ne.jp^
+@@||bigolink.com^
 @@||bigthink.com^
 @@||bigurl.io^
 @@||bigw.com.au^
@@ -3430,7 +3437,9 @@
 @@||bioclick.net^
 @@||biofy.ai^
 @@||biofy.bio^
+@@||biohoster.com^
 @@||biohub.me^
+@@||bioku.my^
 @@||biolink.blog^
 @@||biolink.cloud^
 @@||biolink.com.do^
@@ -3505,6 +3514,7 @@
 @@||bitly.bz^
 @@||bitly.com^
 @@||bitly.cx^
+@@||bitly.gold^
 @@||bitly.im^
 @@||bitly.is^
 @@||bitly.kr^
@@ -3606,6 +3616,7 @@
 @@||blltly.com^
 @@||blnk.in^
 @@||blo.gs^
+@@||bloat.me^
 @@||blobs.officehome.msocdn.com^
 @@||block-test.developerdan.com^
 @@||blockadblock.com^
@@ -3749,6 +3760,7 @@
 @@||bolagroup.xyz^
 @@||bolahiu.vip^
 @@||boldchat.com^
+@@||boldphoto.link^
 @@||bolstr.online^
 @@||bolt.dropbox.com^
 @@||boltsly.com^
@@ -3785,6 +3797,7 @@
 @@||bootstrapcdn.com^
 @@||bootstrapcdn.jdorfman.netdna-cdn.com^
 @@||bose.life^
+@@||boshoki.biz^
 @@||bosi.me^
 @@||boskale.me^
 @@||boss.static.xiaomi.net^
@@ -4009,6 +4022,7 @@
 @@||bwnews.pr^
 @@||bwp.techrepublic.com^
 @@||bws.bitpay.com^
+@@||bx.ms^
 @@||bxl.me^
 @@||by.com.vn^
 @@||by1.eu^
@@ -4032,6 +4046,7 @@
 @@||byuroscope.com^
 @@||bz9.com^
 @@||bzfd.it^
+@@||bzh.me^
 @@||c-o.in^
 @@||c.58cdn.com.cn^
 @@||c.amazon-adsystem.com^
@@ -4807,6 +4822,7 @@
 @@||citly.me^
 @@||citrix.com^
 @@||cityreach.in^
+@@||cius.in^
 @@||civ.link^
 @@||cix.bz^
 @@||cixi.bio^
@@ -4844,6 +4860,7 @@
 @@||clearload.bid^
 @@||clearstream.io^
 @@||cleverlink.pro^
+@@||cleverurls.com^
 @@||cli.fm^
 @@||cli.gs^
 @@||cli.im^
@@ -14803,7 +14820,6 @@
 @@||otag.h2os.com^
 @@||otgk.ir^
 @@||oth.eve.mdt.qq.com^
-@@||otheve.beacon.qq.com^
 @@||otlnk.com^
 @@||otlong.com^
 @@||otolink.pl^
