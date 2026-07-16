@@ -2188,7 +2188,6 @@
 @@||api-02.moengage.com^
 @@||api-03.moengage.com^
 @@||api-04.moengage.com^
-@@||api-101.moengage.com^
 @@||api-ap1.hubapi.com^
 @@||api-auth.soundcloud.com^
 @@||api-beta.huawei.com^
@@ -5662,6 +5661,7 @@
 @@||cut-ly.com^
 @@||cut.by^
 @@||cut.gl^
+@@||cut.live^
 @@||cut.lu^
 @@||cut.ovh^
 @@||cut.pe^
@@ -5705,6 +5705,7 @@
 @@||cutt.ly^
 @@||cutt.pk^
 @@||cutt.us^
+@@||cutt4.me^
 @@||cuttgoo.com^
 @@||cutth.com^
 @@||cutthis.link^
@@ -6235,6 +6236,7 @@
 @@||dl-development.discordapp.net^
 @@||dl-dispatch.discordapp.net^
 @@||dl-media.viber.com^
+@@||dl-protect.info^
 @@||dl-protect.link^
 @@||dl-ptb.discordapp.net^
 @@||dl-sdk.discordapp.net^
@@ -6299,6 +6301,7 @@
 @@||dn303.online^
 @@||dna360.tw^
 @@||dnaindia.com^
+@@||dnl.biz.id^
 @@||dns.cloudflare.com^
 @@||dns.msftncsi.com^
 @@||dns1.funimation.com^
@@ -6561,6 +6564,7 @@
 @@||dviel.com^
 @@||dvlr.it^
 @@||dvo.tips^
+@@||dvr-cdn.exponea.com^
 @@||dvrv.ai^
 @@||dvta.net^
 @@||dw.com.com^
@@ -6651,9 +6655,11 @@
 @@||eacdn.com^
 @@||earl.sh^
 @@||earn4link.in^
+@@||earn4url.com^
 @@||earnesst.website^
 @@||earnestwiles.com^
 @@||earnfly.net^
+@@||earnpays.com^
 @@||earnshort.site^
 @@||earnshorter.com^
 @@||earnshortly.com^
@@ -6678,6 +6684,7 @@
 @@||easyurlshortener.com^
 @@||eat.emmasolutions.net^
 @@||eazify.net^
+@@||eb.do^
 @@||ebarata.com^
 @@||ebates.com^
 @@||ebay.co.uk^
@@ -6789,6 +6796,7 @@
 @@||efe.snssdk.com^
 @@||eff.org^
 @@||efie.co^
+@@||eflick.me^
 @@||efraising.org^
 @@||efs.link^
 @@||efshop.tw^
@@ -7207,6 +7215,7 @@
 @@||extratorrent.com^
 @@||exx.us^
 @@||eyemakeu.com^
+@@||eyq.me^
 @@||eys.li^
 @@||ez1.cc^
 @@||ezbio.me^
@@ -7265,6 +7274,7 @@
 @@||f5i.org^
 @@||f5url.com^
 @@||f5yo.com^
+@@||f6x.cn^
 @@||f7.163.com^
 @@||fa-st.co^
 @@||fa.by^
@@ -8471,6 +8481,7 @@
 @@||go2.me^
 @@||go2cloud.org^
 @@||go2ct.pro^
+@@||go2cut.com^
 @@||go2jump.org^
 @@||go2l.ir^
 @@||go2ln.com^
@@ -8983,6 +8994,7 @@
 @@||h.facebook.com^
 @@||h1.nu^
 @@||h18.update.netease.com^
+@@||h2mhridayff.com^
 @@||h3x.ir^
 @@||h42.update.netease.com^
 @@||h4g3z1-referral.web.app^
@@ -13182,7 +13194,6 @@
 @@||mkto-ab130188.com^
 @@||mkto-ab140048.com^
 @@||mkto-ab150013.com^
-@@||mkto-ab150224.com^
 @@||mkto-ab170094.com^
 @@||mkto-ab170123.com^
 @@||mkto-ab170161.com^
@@ -13194,6 +13205,7 @@
 @@||mkto-ab240112.com^
 @@||mkto-ab250068.com^
 @@||mkto-ab250105.com^
+@@||mkto-ab250167.com^
 @@||mkto-ab260164.com^
 @@||mkto-ab270090.com^
 @@||mkto-ab270109.com^
@@ -13240,7 +13252,6 @@
 @@||mkto-ab480014.com^
 @@||mkto-ab480015.com^
 @@||mkto-ab480166.com^
-@@||mkto-ab530057.com^
 @@||mkto-ab530192.com^
 @@||mkto-ab540059.com^
 @@||mkto-ab540143.com^
@@ -13250,7 +13261,6 @@
 @@||mkto-ab550184.com^
 @@||mkto-ab560068.com^
 @@||mkto-ab560119.com^
-@@||mkto-ab560171.com^
 @@||mkto-ab570110.com^
 @@||mkto-ab570128.com^
 @@||mkto-ab580004.com^
@@ -13266,6 +13276,7 @@
 @@||mkto-ab640171.com^
 @@||mkto-ab650097.com^
 @@||mkto-ab650172.com^
+@@||mkto-ab650200.com^
 @@||mkto-ab660121.com^
 @@||mkto-ab660168.com^
 @@||mkto-ab680016.com^
@@ -13278,6 +13289,7 @@
 @@||mkto-ab700044.com^
 @@||mkto-abc0114.com^
 @@||mkto-abc0241.com^
+@@||mkto-abd0206.com^
 @@||mkto-abd0218.com^
 @@||mkto-abj0022.com^
 @@||mkto-abm0255.com^
@@ -13286,7 +13298,6 @@
 @@||mkto-cs0007.com^
 @@||mkto-d0024.com^
 @@||mkto-d0170.com^
-@@||mkto-dev.certinia.com^
 @@||mkto-e0014.com^
 @@||mkto-e0126.com^
 @@||mkto-e0231.com^
@@ -18171,7 +18182,6 @@
 @@||sitepoint.com^
 @@||sites.engadget.com^
 @@||sites.google.com^
-@@||sites.hscoscdn-ap1.net^
 @@||sites.hscoscdn-eu1.net^
 @@||sites.hscoscdn-na2.net^
 @@||sites.hscoscdn00.net^
