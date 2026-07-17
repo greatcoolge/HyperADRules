@@ -1027,7 +1027,9 @@
 @@||api-02.moengage.com^
 @@||api-03.moengage.com^
 @@||api-04.moengage.com^
+@@||api-101.moengage.com^
 @@||api-ap1.hubapi.com^
+@@||api-auto.hubapi.com^
 @@||api-docs.deepseek.com^
 @@||api-edge.cognitive.microsofttranslator.com^
 @@||api-eu.cleverpush.com^
@@ -2453,6 +2455,7 @@
 @@||collector-axa.cloud.ca.com^
 @@||comca.st^
 @@||come.ac^
+@@||come.biz.id^
 @@||comingurl.com^
 @@||commander1.com^
 @@||commimg.pddpic.com^
@@ -5636,6 +5639,7 @@
 @@||link.useblocks.io^
 @@||link.ver.us^
 @@||link.winlinetech.com^
+@@||link.wizzair.com^
 @@||link.yammbo.com^
 @@||link.zhdk.ch^
 @@||link.zhihu.com^
@@ -6590,6 +6594,7 @@
 @@||microh.link^
 @@||microlink.ro^
 @@||microlinkfy.io^
+@@||microlinks.io^
 @@||microsoft.com^
 @@||microsoftaistories.com^
 @@||microsoftfiles.live^
@@ -6774,7 +6779,6 @@
 @@||mkto-ab640171.com^
 @@||mkto-ab650097.com^
 @@||mkto-ab650172.com^
-@@||mkto-ab650200.com^
 @@||mkto-ab660121.com^
 @@||mkto-ab660168.com^
 @@||mkto-ab680016.com^
@@ -6787,7 +6791,6 @@
 @@||mkto-ab700044.com^
 @@||mkto-abc0114.com^
 @@||mkto-abc0241.com^
-@@||mkto-abd0206.com^
 @@||mkto-abd0218.com^
 @@||mkto-abj0022.com^
 @@||mkto-abm0255.com^
@@ -6972,6 +6975,8 @@
 @@||momo.dm^
 @@||mondoagram.com^
 @@||monetiza.co^
+@@||monghaibon.live^
+@@||monghainam.life^
 @@||monitor.fraudblocker.com^
 @@||monitor.lunio.ai^
 @@||monly.id^
@@ -7153,6 +7158,7 @@
 @@||myplumber.co^
 @@||mypnp.co.za^
 @@||myporn.link^
+@@||mypowerlinks.org^
 @@||mypoya.com^
 @@||myppt.cc^
 @@||myqlixellink.com^
@@ -7202,6 +7208,7 @@
 @@||n2l.me^
 @@||n3y.ir^
 @@||n66d.com^
+@@||n7i.cn^
 @@||n7s.xyz^
 @@||n9.cl^
 @@||n9x.co^
@@ -7209,6 +7216,7 @@
 @@||na5.nl^
 @@||naa.gg^
 @@||nabio.com.br^
+@@||nagakuat.com^
 @@||nah.uy^
 @@||naik-terus.com^
 @@||nakama420.xyz^
@@ -7360,12 +7368,14 @@
 @@||nogfan.com^
 @@||nokia.ly^
 @@||nom77.one^
+@@||noni.bio^
 @@||nonstoppartner.net^
 @@||noodlemagazine.com^
 @@||noorly.nl^
 @@||nord.click^
 @@||nordic-rx.net^
 @@||nordicrx.net^
+@@||nordlitt.fr^
 @@||north-plus.net^
 @@||noticiasactuales2026.com^
 @@||noticiasactualizadas24h.com^
@@ -7435,6 +7445,7 @@
 @@||nycu.to^
 @@||nydn.us^
 @@||nyer.cm^
+@@||nynko.com^
 @@||nyp.st^
 @@||nyr.kr^
 @@||nyti.ms^
@@ -7452,6 +7463,7 @@
 @@||obblink.com^
 @@||obdr.it^
 @@||obio.link^
+@@||oblino.com^
 @@||oc.sparkasse.de^
 @@||occ.li^
 @@||ock.cn^
@@ -7568,6 +7580,7 @@
 @@||onion.com^
 @@||online.adservicemedia.dk^
 @@||online.digital-advisor.com^
+@@||only-fans.click^
 @@||only.li^
 @@||onlybiolinks.com^
 @@||onmeto.net^
@@ -7641,6 +7654,7 @@
 @@||ou.gd^
 @@||oua.be^
 @@||oui.li^
+@@||ouiasso.com^
 @@||oundhertobeconsist.org^
 @@||ouo.io^
 @@||ouo.press^
@@ -8118,6 +8132,7 @@
 @@||pros.is^
 @@||pros.si^
 @@||proshare.ir^
+@@||protected.cx^
 @@||protogen.live^
 @@||provte.cloud^
 @@||proxyrotate.org^
@@ -10167,6 +10182,7 @@
 @@||suite30-cdnnet.emarsys.net^
 @@||suite30-cf.emarsys.net^
 @@||suite30.emarsys.net^
+@@||suite32.emarsys.net^
 @@||suite33-cf.emarsys.net^
 @@||suite33.emarsys.net^
 @@||suite34.emarsys.net^
