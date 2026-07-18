@@ -2191,7 +2191,6 @@
 @@||api-101.moengage.com^
 @@||api-ap1.hubapi.com^
 @@||api-auth.soundcloud.com^
-@@||api-auto.hubapi.com^
 @@||api-beta.huawei.com^
 @@||api-blog.blog.naver.com^
 @@||api-c.sonymobile.com^
@@ -13223,7 +13222,6 @@
 @@||mkto-ab240112.com^
 @@||mkto-ab250068.com^
 @@||mkto-ab250105.com^
-@@||mkto-ab250167.com^
 @@||mkto-ab260164.com^
 @@||mkto-ab270090.com^
 @@||mkto-ab270109.com^
@@ -13270,6 +13268,7 @@
 @@||mkto-ab480014.com^
 @@||mkto-ab480015.com^
 @@||mkto-ab480166.com^
+@@||mkto-ab530057.com^
 @@||mkto-ab530192.com^
 @@||mkto-ab540059.com^
 @@||mkto-ab540143.com^
@@ -14036,6 +14035,7 @@
 @@||nej.md^
 @@||nejmqianyan.cn^
 @@||neo.am^
+@@||neoengage-va-cdn.exponea.com^
 @@||neonslug.com^
 @@||neontools.io^
 @@||neoplanet.snap.com^
@@ -17047,7 +17047,6 @@
 @@||s6.exacttarget.com^
 @@||s7.exacttarget.com^
 @@||s7y.us^
-@@||s8.exacttarget.com^
 @@||s82i.app.link^
 @@||s9.picofile.com^
 @@||s99.tech^
@@ -19288,7 +19287,6 @@
 @@||suite30-cdnnet.emarsys.net^
 @@||suite30-cf.emarsys.net^
 @@||suite30.emarsys.net^
-@@||suite32.emarsys.net^
 @@||suite33-cf.emarsys.net^
 @@||suite33.emarsys.net^
 @@||suite34.emarsys.net^
@@ -19332,6 +19330,8 @@
 @@||suite8.emarsys.net^
 @@||suite9-cf.emarsys.net^
 @@||suite9.emarsys.net^
+@@||suitepmta01.emarsys.net^
+@@||suitepmta02.emarsys.net^
 @@||sukatobrut.xyz^
 @@||sukebei.nyaa.si^
 @@||sulejalan.online^
@@ -19868,6 +19868,7 @@
 @@||tedcdn.com^
 @@||teeeny.com^
 @@||teeny.in^
+@@||teeny.life^
 @@||teenyfy.com^
 @@||teeplantage.de^
 @@||teespring.com^
@@ -19881,6 +19882,7 @@
 @@||telegra.ph^
 @@||telegram.me^
 @@||telegram.org^
+@@||telegramviral.com^
 @@||telegraph.co.uk^
 @@||teleko.me^
 @@||telemetry-incoming.r53-2.services.mozilla.com^
@@ -19990,6 +19992,7 @@
 @@||thekrew.net^
 @@||thekreww.com^
 @@||thelegends.land^
+@@||thelinkmaster.com^
 @@||theme-shop.coffeecup.com^
 @@||themeforest.net^
 @@||themegrill.com^
@@ -20146,6 +20149,7 @@
 @@||tiny.sm^
 @@||tiny.tw^
 @@||tiny.us^
+@@||tiny123.com^
 @@||tiny1z.com^
 @@||tiny4t.com^
 @@||tinyard.co^
@@ -20323,6 +20327,7 @@
 @@||today.line.me^
 @@||tofukko.r.ribbon.to^
 @@||tog.li^
+@@||togoto.us^
 @@||tohle.de^
 @@||toi.in^
 @@||token-dispenser-mirror.herokuapp.com^
@@ -20891,6 +20896,7 @@
 @@||txxx.com^
 @@||ty.163.com^
 @@||ty.gy^
+@@||tyasd.com^
 @@||tyns.me^
 @@||tyny.me^
 @@||typeform.com^
@@ -21326,6 +21332,7 @@
 @@||url4.uk^
 @@||url5.eu^
 @@||url5.org^
+@@||url50.com^
 @@||url56x.com^
 @@||url5xx.com^
 @@||url647.xyz^
@@ -21383,6 +21390,7 @@
 @@||urles.us^
 @@||urless.com^
 @@||urlex.org^
+@@||urlexpander.org^
 @@||urlf.cc^
 @@||urlfile.xyz^
 @@||urlfirm.com^
@@ -21421,6 +21429,7 @@
 @@||urlkai.com^
 @@||urlki.com^
 @@||urlkit.site^
+@@||urlklix.com^
 @@||urlkr.com^
 @@||urlkw.com^
 @@||urlky.com^
@@ -21450,6 +21459,7 @@
 @@||urlr.me^
 @@||urlra.com^
 @@||urlro.com^
+@@||urlroot.com^
 @@||urlrox.com^
 @@||urlroxx.com^
 @@||urlrw.com^
@@ -21493,6 +21503,7 @@
 @@||urlshortener.mahamafzar.com^
 @@||urlshortener.site^
 @@||urlshortenerking.com^
+@@||urlshortenerr.live^
 @@||urlshortenertool.com^
 @@||urlshortenervip.com^
 @@||urlshortenerx.com^
@@ -21525,6 +21536,7 @@
 @@||urltiny.xyz^
 @@||urlto.me^
 @@||urltools.com^
+@@||urltoshort.com^
 @@||urltrax.com^
 @@||urltronic.com^
 @@||urltta.top^
@@ -21555,6 +21567,7 @@
 @@||urlz.fr^
 @@||urlz.gr^
 @@||urlz.li^
+@@||urlz.my^
 @@||urlzen.com^
 @@||urlzip.io^
 @@||urlzly.com^
@@ -21565,6 +21578,7 @@
 @@||urstoron.com^
 @@||urswebzj.nosdn.127.net^
 @@||urt.io^
+@@||urub.us^
 @@||urwebs.it^
 @@||us-1.hide.me^
 @@||us-aebridge.aliexpress.com.gds.alibabadns.com^
@@ -21677,6 +21691,7 @@
 @@||usher.ttvnw.net^
 @@||usher.twitch.tv^
 @@||ushort.my^
+@@||ushort.xyz^
 @@||ushuru.vzaar.com^
 @@||usis.bracu.ac.bd^
 @@||usite.jp^
@@ -21773,6 +21788,7 @@
 @@||validatedsite.com^
 @@||validator.cloud.vimeo.com^
 @@||valuedopinions.co.uk^
+@@||valv.im^
 @@||vampyrejibmen.com^
 @@||vancedshorts.com^
 @@||vanderbi.lt^
@@ -21789,6 +21805,7 @@
 @@||vaudit.com^
 @@||vaultmedia.ign.com^
 @@||vav.li^
+@@||vaza.me^
 @@||vbegn.com^
 @@||vbg-spezial.de^
 @@||vbly.us^
@@ -22009,6 +22026,7 @@
 @@||vivo.sx^
 @@||vivo.tl^
 @@||vivoldi.com^
+@@||vix.cx^
 @@||vjav.com^
 @@||vjav0.ahcdn.com^
 @@||vjs.zencdn.net^
@@ -22211,6 +22229,7 @@
 @@||wallet.commerce.coinbase.com^
 @@||wallet.ecom.ubi.com^
 @@||wallet.viber.com^
+@@||wallets.my^
 @@||wallhaven.cc^
 @@||wallpaper.cdn.pandora.xiaomi.com^
 @@||wallpaper.pandora.xiaomi.com^

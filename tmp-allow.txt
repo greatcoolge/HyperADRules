@@ -1029,7 +1029,6 @@
 @@||api-04.moengage.com^
 @@||api-101.moengage.com^
 @@||api-ap1.hubapi.com^
-@@||api-auto.hubapi.com^
 @@||api-docs.deepseek.com^
 @@||api-edge.cognitive.microsofttranslator.com^
 @@||api-eu.cleverpush.com^
@@ -6709,7 +6708,6 @@
 @@||mkto-ab240112.com^
 @@||mkto-ab250068.com^
 @@||mkto-ab250105.com^
-@@||mkto-ab250167.com^
 @@||mkto-ab260164.com^
 @@||mkto-ab270090.com^
 @@||mkto-ab270109.com^
@@ -6756,6 +6754,7 @@
 @@||mkto-ab480014.com^
 @@||mkto-ab480015.com^
 @@||mkto-ab480166.com^
+@@||mkto-ab530057.com^
 @@||mkto-ab530192.com^
 @@||mkto-ab540059.com^
 @@||mkto-ab540143.com^
@@ -7266,6 +7265,7 @@
 @@||neflixenomovies.com^
 @@||nej.md^
 @@||neo.am^
+@@||neoengage-va-cdn.exponea.com^
 @@||neonslug.com^
 @@||neontools.io^
 @@||nepolls.com^
@@ -8906,7 +8906,6 @@
 @@||s6.exacttarget.com^
 @@||s7.exacttarget.com^
 @@||s7y.us^
-@@||s8.exacttarget.com^
 @@||s99.tech^
 @@||sa-link.cc^
 @@||saasmaster.link^
@@ -10201,7 +10200,6 @@
 @@||suite30-cdnnet.emarsys.net^
 @@||suite30-cf.emarsys.net^
 @@||suite30.emarsys.net^
-@@||suite32.emarsys.net^
 @@||suite33-cf.emarsys.net^
 @@||suite33.emarsys.net^
 @@||suite34.emarsys.net^
@@ -10245,6 +10243,8 @@
 @@||suite8.emarsys.net^
 @@||suite9-cf.emarsys.net^
 @@||suite9.emarsys.net^
+@@||suitepmta01.emarsys.net^
+@@||suitepmta02.emarsys.net^
 @@||sukatobrut.xyz^
 @@||sukebei.nyaa.si^
 @@||sulejalan.online^
@@ -10589,6 +10589,7 @@
 @@||tecn.me^
 @@||teeeny.com^
 @@||teeny.in^
+@@||teeny.life^
 @@||teenyfy.com^
 @@||teeplantage.de^
 @@||teil.cc^
@@ -10597,6 +10598,7 @@
 @@||teknut.com^
 @@||tel-u.ac.id^
 @@||telega.io^
+@@||telegramviral.com^
 @@||teleko.me^
 @@||tellurl.com^
 @@||tempfind.app^
@@ -10659,6 +10661,7 @@
 @@||thekrew.net^
 @@||thekreww.com^
 @@||thelegends.land^
+@@||thelinkmaster.com^
 @@||themestub.com^
 @@||theorist.media^
 @@||theporndude.com^
@@ -10771,6 +10774,7 @@
 @@||tiny.sm^
 @@||tiny.tw^
 @@||tiny.us^
+@@||tiny123.com^
 @@||tiny1z.com^
 @@||tiny4t.com^
 @@||tinyard.co^
@@ -10920,6 +10924,7 @@
 @@||to8.cc^
 @@||toclick.link^
 @@||tog.li^
+@@||togoto.us^
 @@||tohle.de^
 @@||toi.in^
 @@||tokogenie.online^
@@ -11326,6 +11331,7 @@
 @@||txxx.com^
 @@||ty.163.com^
 @@||ty.gy^
+@@||tyasd.com^
 @@||tyns.me^
 @@||tyny.me^
 @@||typit.in^
@@ -11623,6 +11629,7 @@
 @@||url4.uk^
 @@||url5.eu^
 @@||url5.org^
+@@||url50.com^
 @@||url56x.com^
 @@||url5xx.com^
 @@||url647.xyz^
@@ -11677,6 +11684,7 @@
 @@||urles.us^
 @@||urless.com^
 @@||urlex.org^
+@@||urlexpander.org^
 @@||urlf.cc^
 @@||urlfile.xyz^
 @@||urlfirm.com^
@@ -11714,6 +11722,7 @@
 @@||urlkai.com^
 @@||urlki.com^
 @@||urlkit.site^
+@@||urlklix.com^
 @@||urlkr.com^
 @@||urlkw.com^
 @@||urlky.com^
@@ -11743,6 +11752,7 @@
 @@||urlr.me^
 @@||urlra.com^
 @@||urlro.com^
+@@||urlroot.com^
 @@||urlrox.com^
 @@||urlroxx.com^
 @@||urlrw.com^
@@ -11785,6 +11795,7 @@
 @@||urlshortener.mahamafzar.com^
 @@||urlshortener.site^
 @@||urlshortenerking.com^
+@@||urlshortenerr.live^
 @@||urlshortenertool.com^
 @@||urlshortenervip.com^
 @@||urlshortenerx.com^
@@ -11817,6 +11828,7 @@
 @@||urltiny.xyz^
 @@||urlto.me^
 @@||urltools.com^
+@@||urltoshort.com^
 @@||urltrax.com^
 @@||urltronic.com^
 @@||urltta.top^
@@ -11847,6 +11859,7 @@
 @@||urlz.fr^
 @@||urlz.gr^
 @@||urlz.li^
+@@||urlz.my^
 @@||urlzen.com^
 @@||urlzip.io^
 @@||urlzly.com^
@@ -11856,6 +11869,7 @@
 @@||urstoron.com^
 @@||urswebzj.nosdn.127.net^
 @@||urt.io^
+@@||urub.us^
 @@||urwebs.it^
 @@||us-serve.nrich.ai^
 @@||us.bestbrains.com^
@@ -11880,6 +11894,7 @@
 @@||usglife.com^
 @@||usheethe.com^
 @@||ushort.my^
+@@||ushort.xyz^
 @@||usite.jp^
 @@||usreviewers.com^
 @@||usrlnx.com^
@@ -11940,6 +11955,7 @@
 @@||vaila.me^
 @@||vali01.cp31.ott.cibntv.net^
 @@||valid.apple.com^
+@@||valv.im^
 @@||vampyrejibmen.com^
 @@||vancedshorts.com^
 @@||vanderbi.lt^
@@ -11951,6 +11967,7 @@
 @@||vats.im^
 @@||vaudit.com^
 @@||vav.li^
+@@||vaza.me^
 @@||vbegn.com^
 @@||vbg-spezial.de^
 @@||vbly.us^
@@ -12076,6 +12093,7 @@
 @@||vivir.pro^
 @@||vivo.tl^
 @@||vivoldi.com^
+@@||vix.cx^
 @@||vjav.com^
 @@||vjav0.ahcdn.com^
 @@||vk.cc^
@@ -12191,6 +12209,7 @@
 @@||walk.sc^
 @@||walkjc.org^
 @@||wall.sh^
+@@||wallets.my^
 @@||wallpaperm.cmcm.com^
 @@||waltersauto.net^
 @@||wangzhanzhubo.com^
