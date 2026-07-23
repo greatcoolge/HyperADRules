@@ -2635,7 +2635,6 @@
 @@||curty.in^
 @@||cus.bio^
 @@||customers.my^
-@@||customlinks.appsflyer.com^
 @@||customtraffic.impactradius.com^
 @@||customurlshortener.com^
 @@||cut-ly.com^
@@ -5331,7 +5330,6 @@
 @@||l.enes.tech^
 @@||l.facebook.com^
 @@||l.jiosewa.com^
-@@||l.klarna.com^
 @@||l.lefigaro.fr^
 @@||l.linforme.com^
 @@||l.lonca.co^
@@ -11054,6 +11052,7 @@
 @@||track.shoparize.com^
 @@||track.sishodia.com^
 @@||track.smtp2go.net^
+@@||track.stoqapp.com^
 @@||track.superdry.com^
 @@||track.tenjin.io^
 @@||track.tnm.de^
