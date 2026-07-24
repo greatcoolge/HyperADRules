@@ -2982,7 +2982,6 @@
 @@||autodiscover.funimation.com^
 @@||autoflip.co^
 @@||autolink.live^
-@@||autolinkmaker.itunes.apple.com^
 @@||automotive.services^
 @@||autopurchase.us^
 @@||autoresource.online^
@@ -15098,7 +15097,6 @@
 @@||partners.integration.viber.com^
 @@||partners.playstation.com^
 @@||partners.soundcloud.com^
-@@||partners.webmasterplan.com^
 @@||partnerseu.sec.samsung.com^
 @@||parts.blog.livedoor.jp^
 @@||party.163.com^

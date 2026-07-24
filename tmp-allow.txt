@@ -1279,7 +1279,6 @@
 @@||autode.sk^
 @@||autoflip.co^
 @@||autolink.live^
-@@||autolinkmaker.itunes.apple.com^
 @@||automotive.services^
 @@||autopurchase.us^
 @@||autoresource.online^
@@ -7803,7 +7802,6 @@
 @@||parklandssolar.com^
 @@||parky.tv^
 @@||partnerlinks.io^
-@@||partners.webmasterplan.com^
 @@||party.163.com^
 @@||pascol.bio^
 @@||pasir.me^
