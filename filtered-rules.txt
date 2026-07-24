@@ -6498,6 +6498,7 @@ dropl.link.cutestat.com
 droplr.net
 dropmylinks.com
 drp.su
+drrop.cc
 drte.co
 drupal.org
 druuz.com
@@ -13277,10 +13278,10 @@ mkto-ab550140.com
 mkto-ab550184.com
 mkto-ab560068.com
 mkto-ab560119.com
+mkto-ab560171.com
 mkto-ab570110.com
 mkto-ab570128.com
 mkto-ab580004.com
-mkto-ab590004.com
 mkto-ab600004.com
 mkto-ab610035.com
 mkto-ab610084.com
@@ -13414,6 +13415,7 @@ mkto-sj230006.com
 mkto-sj240021.com
 mkto-sj250062.com
 mkto-sj250111.com
+mkto-sj250171.com
 mkto-sj250187.com
 mkto-sj270072.com
 mkto-sj270078.com
@@ -18228,6 +18230,7 @@ siteonizleme.com.tr
 sitepoint.com
 sites.engadget.com
 sites.google.com
+sites.hscoscdn-ap1.net
 sites.hscoscdn-eu1.net
 sites.hscoscdn-na2.net
 sites.hscoscdn00.net
