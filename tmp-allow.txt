@@ -1394,6 +1394,8 @@
 @@||bannercho.com^
 @@||banners.livepartners.com^
 @@||baoyung.com^
+@@||bapi-02.moengage.com^
+@@||bapi-04.moengage.com^
 @@||baratun.de^
 @@||barkodi.com^
 @@||barsoocm.com^
@@ -1904,6 +1906,7 @@
 @@||c.centralretail.com^
 @@||c.fantia.jp^
 @@||c.hubz.pl^
+@@||c.kakaku.com^
 @@||c.msn.com^
 @@||c.neqty.net^
 @@||c.nexinsight.com.ua^
@@ -4778,6 +4781,7 @@
 @@||interc.pt^
 @@||intercom-clicks.com^
 @@||internet-kor.com^
+@@||internshala.bapi-03.moengage.com^
 @@||interpride.net^
 @@||intest.ink^
 @@||intrescom.org^
@@ -6767,7 +6771,6 @@
 @@||mkto-ab540186.com^
 @@||mkto-ab550041.com^
 @@||mkto-ab550140.com^
-@@||mkto-ab550144.com^
 @@||mkto-ab550184.com^
 @@||mkto-ab560068.com^
 @@||mkto-ab560119.com^
@@ -7916,6 +7919,7 @@
 @@||photocdn.tv.sohu.com^
 @@||phst.in^
 @@||phygo.io^
+@@||physicswallah.bapi-03.moengage.com^
 @@||pi.pardot.com^
 @@||pi.uz^
 @@||pia.sh^
@@ -10562,6 +10566,7 @@
 @@||target.microsoft.com^
 @@||targeterpro.com^
 @@||taskofdeity.netlify.app^
+@@||tatacliq.bapi-03.moengage.com^
 @@||tau.lu^
 @@||tautin.id^
 @@||tawk.link^

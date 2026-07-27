@@ -3169,6 +3169,8 @@
 @@||banners.livepartners.com^
 @@||banners.spiceworks.com^
 @@||baoyung.com^
+@@||bapi-02.moengage.com^
+@@||bapi-04.moengage.com^
 @@||bapi.flipboard.com^
 @@||baratun.de^
 @@||barebones.com^
@@ -4064,6 +4066,7 @@
 @@||c.hqq.tv^
 @@||c.hubz.pl^
 @@||c.id.mi.com^
+@@||c.kakaku.com^
 @@||c.live.com^
 @@||c.media-amazon.com^
 @@||c.mi.com^
@@ -10137,6 +10140,7 @@
 @@||internet-kor.com^
 @@||internet.sony.tv^
 @@||internetdownloadmanager.com^
+@@||internshala.bapi-03.moengage.com^
 @@||interpark.com^
 @@||interpride.net^
 @@||intervista.youdao.com^
@@ -13281,7 +13285,6 @@
 @@||mkto-ab540186.com^
 @@||mkto-ab550041.com^
 @@||mkto-ab550140.com^
-@@||mkto-ab550144.com^
 @@||mkto-ab550184.com^
 @@||mkto-ab560068.com^
 @@||mkto-ab560119.com^
@@ -15315,6 +15318,7 @@
 @@||phrasebook.naver.com^
 @@||phst.in^
 @@||phygo.io^
+@@||physicswallah.bapi-03.moengage.com^
 @@||pi-hole.net^
 @@||pi.hole^
 @@||pi.pardot.com^
@@ -19813,6 +19817,7 @@
 @@||targetednotifications-tm.trafficmanager.net^
 @@||targeterpro.com^
 @@||taskofdeity.netlify.app^
+@@||tatacliq.bapi-03.moengage.com^
 @@||tau.lu^
 @@||tautin.id^
 @@||tawk.link^
