@@ -228,7 +228,6 @@
 @@||1url.co.uk^
 @@||1url.com^
 @@||1url.cz^
-@@||1url.info^
 @@||1url.it^
 @@||1url.my^
 @@||1url.re^
@@ -491,7 +490,6 @@
 @@||4t.gg^
 @@||4ton.com^
 @@||4ty.me^
-@@||4uid.com^
 @@||4url.cc^
 @@||4x.si^
 @@||5-aclk.net^
@@ -516,7 +514,6 @@
 @@||5o.io^
 @@||5or.cc^
 @@||5qzr.com^
-@@||5rwv.info^
 @@||5url.net^
 @@||5v-v.com^
 @@||5w.fit^
@@ -558,12 +555,10 @@
 @@||77.ai^
 @@||777ch.livepartners.com^
 @@||777online.life^
-@@||7894.xyz^
 @@||79423.analytics.edgesuite.net^
 @@||7a.ink^
 @@||7c34.com^
 @@||7chan.org^
-@@||7clik.com^
 @@||7eer.net^
 @@||7fth.cc^
 @@||7g7.ir^
@@ -2755,7 +2750,6 @@
 @@||arpy.in^
 @@||arrabet.link^
 @@||ars.smartscreen.microsoft.com^
-@@||arshorten.com^
 @@||arsn.al^
 @@||arstechnica.com^
 @@||art19.com^
@@ -3255,7 +3249,6 @@
 @@||becsn.net^
 @@||bedbathandbeyond.com^
 @@||bee-kz.life^
-@@||bee1s.com^
 @@||bee4.biz^
 @@||beeb.us^
 @@||beehiiv.com^
@@ -3363,7 +3356,6 @@
 @@||biastonu.com^
 @@||bibl.es^
 @@||bidiurl.com^
-@@||bidly.cc^
 @@||bidminer.com^
 @@||bidobido.xyz^
 @@||bidsforkids.org^
@@ -3832,7 +3824,6 @@
 @@||bpapi.apple.com^
 @@||bpjames.com^
 @@||bpk.id^
-@@||bpkrlinks.com^
 @@||bpl.kr^
 @@||bpo.cloud^
 @@||br.gravatar.com^
@@ -4422,6 +4413,7 @@
 @@||cdn.gotraffic.net^
 @@||cdn.heapanalytics.com^
 @@||cdn.hide.me^
+@@||cdn.hilltopads.net^
 @@||cdn.images.dailystar.co.uk^
 @@||cdn.imgwzzmb.net^
 @@||cdn.jscloudflare.com^
@@ -4733,7 +4725,6 @@
 @@||checkout.soundcloud.com^
 @@||checkout.stripe.com^
 @@||checkout.vimeo.com^
-@@||chekc.life^
 @@||chem.sg^
 @@||chemistdirect.com.au^
 @@||cherry.flipboard.com^
@@ -4865,7 +4856,6 @@
 @@||clearload.bid^
 @@||clearstream.io^
 @@||cleverlink.pro^
-@@||cleverurls.com^
 @@||cli.fm^
 @@||cli.gs^
 @@||cli.im^
@@ -5126,7 +5116,6 @@
 @@||cmail20.com^
 @@||cmbchina.com^
 @@||cme.sh^
-@@||cml.lol^
 @@||cmmr.me^
 @@||cmodul.solutenetwork.com^
 @@||cmon.co^
@@ -5477,7 +5466,6 @@
 @@||cq.al^
 @@||cqma.info^
 @@||cr-adt.com^
-@@||cr.ma^
 @@||cr.naver.com^
 @@||cr2.shopping.naver.com^
 @@||cr8.lv^
@@ -5721,7 +5709,6 @@
 @@||cuttly.pro^
 @@||cutto.io^
 @@||cutts.in^
-@@||cutur.link^
 @@||cuturl.cloud^
 @@||cuturl.com^
 @@||cuturl.net^
@@ -7283,7 +7270,6 @@
 @@||f5i.org^
 @@||f5url.com^
 @@||f5yo.com^
-@@||f6x.cn^
 @@||f7.163.com^
 @@||fa-st.co^
 @@||fa.by^
@@ -8548,7 +8534,6 @@
 @@||gonephishing.me^
 @@||goninja.live^
 @@||goo-gl.me^
-@@||goo-gl.ru.com^
 @@||goo.by^
 @@||goo.click^
 @@||goo.gl^
@@ -9613,7 +9598,6 @@
 @@||icare.huawei.com^
 @@||ice.bio^
 @@||ice.bz^
-@@||ice.lol^
 @@||ichini.me^
 @@||ichnaea-web.netflix.com^
 @@||ichnaea.netflix.com^
@@ -9736,7 +9720,6 @@
 @@||il.ign.com^
 @@||ilang.in^
 @@||ild.info^
-@@||iligstein.com^
 @@||ilink-to.net^
 @@||ilix.in^
 @@||iljmp.com^
@@ -10158,7 +10141,6 @@
 @@||intx.ltd^
 @@||inu.me^
 @@||inui.in^
-@@||invata-acum.ro^
 @@||invent.ge^
 @@||inventory.dealersocket.com^
 @@||invest.ameritrade.com^
@@ -10281,7 +10263,6 @@
 @@||is.snssdk.com^
 @@||is3.co^
 @@||isabi.click^
-@@||isang.click^
 @@||isc-vn.com^
 @@||isc-vn.org^
 @@||iscool.net^
@@ -10290,7 +10271,6 @@
 @@||iservice.fuzelfiles.com^
 @@||ishort.in^
 @@||ishortie.com^
-@@||ishortify.com^
 @@||ishortn.ink^
 @@||ishorturl.com^
 @@||ishorturl.net^
@@ -10432,7 +10412,6 @@
 @@||javfinder.ai^
 @@||jaw.gg^
 @@||jayan-uvl.com^
-@@||jaygo.xyz^
 @@||jb.gg^
 @@||jbhifi.com.au^
 @@||jbiv.com^
@@ -10728,7 +10707,6 @@
 @@||kem.lu^
 @@||kemono.party^
 @@||kepler.jd.com^
-@@||kerang.life^
 @@||keraskale.me^
 @@||keremozgit.org^
 @@||ketli.net^
@@ -10911,7 +10889,6 @@
 @@||kr.wikipedia.com^
 @@||kr3w.de^
 @@||krakow.tvp.pl^
-@@||kratsi.cz^
 @@||krazy.la^
 @@||krazylinks.com^
 @@||krdic.naver.com^
@@ -10993,7 +10970,6 @@
 @@||kyaa.info^
 @@||kyb101.link^
 @@||kyk.it^
-@@||kylynk.com^
 @@||l-i-nk.me^
 @@||l-ink.me^
 @@||l-k.be^
@@ -11328,7 +11304,6 @@
 @@||lilllil.ru^
 @@||lilnk.to^
 @@||lilo.org^
-@@||liltext.com^
 @@||lilurl.run^
 @@||limestart.cn^
 @@||limetorrents.info^
@@ -11553,7 +11528,6 @@
 @@||linkezurl.com^
 @@||linkf.su^
 @@||linkfast.me^
-@@||linkfat.com^
 @@||linkfly.app^
 @@||linkfly.me^
 @@||linkfly.to^
@@ -12261,6 +12235,7 @@
 @@||m-7ihcs.custobar.com^
 @@||m-7uz3v.custobar.com^
 @@||m-a-tb.sndcdn.com^
+@@||m-ax.custobar.com^
 @@||m-b2o72.custobar.com^
 @@||m-eqxt2.custobar.com^
 @@||m-fi32s.custobar.com^
@@ -12578,7 +12553,6 @@
 @@||mac.search.naver.com^
 @@||mac.xunlei.com^
 @@||macanplay.click^
-@@||macau123.link^
 @@||maccms.com^
 @@||machess.org^
 @@||mackeeper.com^
@@ -12741,7 +12715,6 @@
 @@||marktplaats.nl^
 @@||marriott.com^
 @@||martshort.com^
-@@||marveliness.com^
 @@||marx.libcom.org^
 @@||mas-ext.amazon.com^
 @@||mas.si^
@@ -13321,6 +13294,7 @@
 @@||mkto-abc0241.com^
 @@||mkto-abd0218.com^
 @@||mkto-abj0022.com^
+@@||mkto-abm0229.com^
 @@||mkto-abm0255.com^
 @@||mkto-b0025.com^
 @@||mkto-c0100.com^
@@ -13364,6 +13338,7 @@
 @@||mkto-m0106.com^
 @@||mkto-m0111.com^
 @@||mkto-mlm10010008.com^
+@@||mkto-mlm10030005.com^
 @@||mkto-n0092.com^
 @@||mkto-n0243.com^
 @@||mkto-nld1010057.com^
@@ -13449,6 +13424,7 @@
 @@||mkto-sjg0030.com^
 @@||mkto-sjh0084.com^
 @@||mkto-sn010116.com^
+@@||mkto-sn030149.com^
 @@||mkto-sn060071.com^
 @@||mkto-trk.cisco.com^
 @@||mktoweb.com^
@@ -13940,7 +13916,6 @@
 @@||n3y.ir^
 @@||n6.net^
 @@||n66d.com^
-@@||n7i.cn^
 @@||n7s.xyz^
 @@||n9.cl^
 @@||n9x.co^
@@ -14046,7 +14021,6 @@
 @@||nebula-collector.huawei.com^
 @@||nectarios.info^
 @@||neexulro.net^
-@@||nefeli.live^
 @@||nefix.de^
 @@||neflixenomovies.com^
 @@||nej.md^
@@ -14099,7 +14073,6 @@
 @@||newbiecontest.com^
 @@||newbiecontest.org^
 @@||newclient.map.baidu.com^
-@@||neweden.live^
 @@||newegg.com^
 @@||newgame.17173.com^
 @@||newhotlink.com^
@@ -15368,7 +15341,6 @@
 @@||pimg1.126.net^
 @@||pin.it^
 @@||pin.onl^
-@@||pin.st^
 @@||pinata.cloud^
 @@||pinball.click^
 @@||ping.clicksambo.com^
@@ -15448,7 +15420,6 @@
 @@||platform.stumbleupon.com^
 @@||platform.twitter.com^
 @@||platform.vine.co^
-@@||play-app.site^
 @@||play-asia.com^
 @@||play.163.com^
 @@||play.app.goo.gl^
@@ -16513,7 +16484,6 @@
 @@||refer.is^
 @@||refer.wordpress.com^
 @@||reference.com^
-@@||referer.us^
 @@||referrals.brave.com^
 @@||referrals.bravesoftware.com^
 @@||referrer.disqus.com^
@@ -17613,7 +17583,6 @@
 @@||sh7.ch^
 @@||shacknews.com^
 @@||shadyurl.com^
-@@||shahiurl.com^
 @@||shakelchat.net^
 @@||shaken.rakuten.co.jp^
 @@||shang.qq.com^
@@ -17786,7 +17755,6 @@
 @@||short1.link^
 @@||short1.org^
 @@||short24.pw^
-@@||short4fly.com^
 @@||short4me.io^
 @@||shortapi.vercel.app^
 @@||shortaro.com^
@@ -18498,7 +18466,6 @@
 @@||sni.star.xhcdn.com.fpbns.net^
 @@||snifferip.com^
 @@||snip.im^
-@@||snip.link^
 @@||snip.ly^
 @@||snip.ng^
 @@||snipi.io^
@@ -18514,7 +18481,6 @@
 @@||snipmojo.com^
 @@||snipp.dev^
 @@||snippets.cdn.mozilla.net^
-@@||snipqr.com^
 @@||snipr.com^
 @@||snipurl.com^
 @@||snipurl.dev^
@@ -18677,7 +18643,6 @@
 @@||spid.io^
 @@||spiderbytes.vimeo.com^
 @@||spidyurl.com^
-@@||spidz.xyz^
 @@||spiegel.de^
 @@||spieletipps.de^
 @@||spify.co^
@@ -19309,7 +19274,6 @@
 @@||suite30-cdnnet.emarsys.net^
 @@||suite30-cf.emarsys.net^
 @@||suite30.emarsys.net^
-@@||suite32.emarsys.net^
 @@||suite33-cf.emarsys.net^
 @@||suite33.emarsys.net^
 @@||suite34.emarsys.net^
@@ -19527,7 +19491,6 @@
 @@||swscan.apple.com^
 @@||swsig.com^
 @@||swsig.de^
-@@||swsupt.com^
 @@||swtt.cc^
 @@||swupmf.adobe.com^
 @@||sy.pe^
@@ -20177,7 +20140,6 @@
 @@||tiny.us^
 @@||tiny123.com^
 @@||tiny1z.com^
-@@||tiny4t.com^
 @@||tinyard.co^
 @@||tinyarro.ws^
 @@||tinybit.cc^
@@ -20431,7 +20393,6 @@
 @@||touch.kaspersky.com^
 @@||touch.sonymobile.com^
 @@||toui.cc^
-@@||touraboutworld.org^
 @@||tourefly.com^
 @@||tourl.in^
 @@||tousu.sina.cn^
@@ -20674,7 +20635,6 @@
 @@||tripadvisor.co.uk^
 @@||tripadvisor.com^
 @@||tripod.com^
-@@||trisula88short.xyz^
 @@||tritri.my^
 @@||trizlink.com^
 @@||trk-eu.customer.io^
@@ -21386,7 +21346,6 @@
 @@||urlbind.com^
 @@||urlbit.co^
 @@||urlbit.io^
-@@||urlbit.online^
 @@||urlbit.pro^
 @@||urlbity.com^
 @@||urlbox.cc^
@@ -21968,9 +21927,6 @@
 @@||videos.videopress.com^
 @@||videos.vidible.tv^
 @@||videotxxx.com^
-@@||videy.isuaceh.com^
-@@||videyfour.isuaceh.com^
-@@||videytwo.isuaceh.com^
 @@||vidible.tv^
 @@||vidmy.fun^
 @@||vidoza.net^
@@ -22034,7 +21990,6 @@
 @@||visionia.site^
 @@||visit.my^
 @@||visit.st^
-@@||visit2earn.com^
 @@||visitmy.link^
 @@||visitmylinks.com^
 @@||visitsitenow.com^
@@ -22510,7 +22465,6 @@
 @@||whr.to^
 @@||whs.link^
 @@||whstlr.us^
-@@||whts.cc^
 @@||whyiwu.com^
 @@||wi.sa^
 @@||wi.se^
@@ -22560,7 +22514,6 @@
 @@||win.gs^
 @@||win10.ipv6.microsoft.com^
 @@||win1710.ipv6.microsoft.com^
-@@||win7.life^
 @@||win7dll.nirsoft.net^
 @@||win7dllnet.nirsoft.net^
 @@||winc.shop^
