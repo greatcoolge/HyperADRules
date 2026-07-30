@@ -4407,7 +4407,6 @@ cdn.gogoanime.io
 cdn.gotraffic.net
 cdn.heapanalytics.com
 cdn.hide.me
-cdn.hilltopads.net
 cdn.images.dailystar.co.uk
 cdn.imgwzzmb.net
 cdn.jscloudflare.com
@@ -4828,6 +4827,15 @@ ckbe.at
 cl.adosiz.net
 cl.exct.net
 cl.ly
+cl.s10.exct.net
+cl.s11.exct.net
+cl.s12.exct.net
+cl.s13.exct.net
+cl.s4.exct.net
+cl.s50.exct.net
+cl.s51.exct.net
+cl.s6.exct.net
+cl.s7.exct.net
 cl03.ch
 cl1.nl
 clarins.com.cn
