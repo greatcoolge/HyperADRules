@@ -4139,6 +4139,7 @@
 @@||calendrierbdp.info^
 @@||caliber.help^
 @@||callback.58.com^
+@@||callback.api.qgraph.io^
 @@||callback.line.me^
 @@||callhub.io^
 @@||calopenupdate.comm.miui.com^
