@@ -2131,7 +2131,6 @@ answers.microsoft.com
 answersstaticfilecdnv2.azureedge.net
 ant.design
 antfin.com
-antinawala.team
 antonellapouncedcrewels.com
 anurl.com
 anvil.opentok.com
@@ -3093,7 +3092,6 @@ b4y.net
 b51.tw
 b54.in
 b6.me
-b7.tel
 b808.bet
 b9d.me
 baas.kr
@@ -3160,7 +3158,6 @@ barnesandnoble.com
 barsoocm.com
 barujago.xyz
 barz.it
-basedl.com
 batch.com
 battle.net
 battleforthenet.com
@@ -3254,7 +3251,6 @@ belink.ph
 belink.vebto.com
 belinki.cloud
 belinksnip.com
-belinkurl.blog
 bemyeyes.com
 bemygirlplease.xyz
 benco.io
@@ -11343,7 +11339,6 @@ link-z.net
 link.ac
 link.alfamonkey.com
 link.ameerusa.com
-link.anam.ch
 link.axios.com
 link.caripvcard.com
 link.cashcard.id

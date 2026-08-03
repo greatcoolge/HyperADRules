@@ -992,7 +992,6 @@
 @@||anquan.org^
 @@||anrdoezrs.net^
 @@||answ.xyz^
-@@||antinawala.team^
 @@||antonellapouncedcrewels.com^
 @@||anx.io^
 @@||any.gs^
@@ -1353,7 +1352,6 @@
 @@||b4y.net^
 @@||b51.tw^
 @@||b54.in^
-@@||b7.tel^
 @@||b808.bet^
 @@||b9d.me^
 @@||baas.kr^
@@ -1388,7 +1386,6 @@
 @@||barsoocm.com^
 @@||barujago.xyz^
 @@||barz.it^
-@@||basedl.com^
 @@||bayarcuan.com^
 @@||bayareane.ws^
 @@||bb.vg^
@@ -1443,7 +1440,6 @@
 @@||belink.vebto.com^
 @@||belinki.cloud^
 @@||belinksnip.com^
-@@||belinkurl.blog^
 @@||bemygirlplease.xyz^
 @@||benco.io^
 @@||benes.se^
@@ -5544,7 +5540,6 @@
 @@||link.ac^
 @@||link.alfamonkey.com^
 @@||link.ameerusa.com^
-@@||link.anam.ch^
 @@||link.caripvcard.com^
 @@||link.cashcard.id^
 @@||link.cc^
