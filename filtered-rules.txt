@@ -3577,7 +3577,6 @@ black.game.naver.com
 blackberry.com
 blackhatworld.com
 blacklistednews.com
-blacknig.ht
 bladisnel.com
 blap.net
 blbrd.cm
@@ -3587,7 +3586,6 @@ bleacherreport.com
 bleenk.co
 bleepingcomputer.com
 blink.hirebiz.com
-blinkbio.me
 blinkbreeze.com
 blinkmelink.com
 blinko.me
@@ -3726,7 +3724,6 @@ bnidigital.com
 bnishipping.com
 bnrsol.com
 bnu.au
-bnzs.io
 bo.st
 boa.la
 board.jdownloader.org
@@ -3761,7 +3758,6 @@ bonai.re
 bonap.it
 bonsaifreespins.com
 bonsaiyamasignup.com
-bonustips.club
 boofola.link
 book-secure.com
 book.daum.net
@@ -3778,7 +3774,6 @@ books.google.com
 books.rakuten.co.jp
 bookstw.link
 boomkat.com
-booplink.com
 boost.ink
 boostability.co.in
 bootbarn.com
@@ -3896,7 +3891,6 @@ browser.to
 browserapi.micloud.xiaomi.net
 brq.link
 brst.link
-brtv.vip
 brx.im
 brzu.net
 bs.gravatar.com
@@ -3973,7 +3967,6 @@ bumpnt.com
 bundles.api.here.com
 bung.ie
 bunnings.com.au
-buomto.life
 buoydeparturediscontent.com
 burl.me
 burner.bonanza.com
@@ -4018,7 +4011,6 @@ bydgoszcz.tvp.pl
 byestar.com
 byflexy.com
 byjusclasses.freshdesk.com
-bylink.me
 bynd.li
 byod-web.huawei.com
 byoo.in
@@ -4181,7 +4173,6 @@ capitalone-udc.digital-cloud.medallia.com
 capitalone.com
 caplnk.com
 capmetro.app
-capp.to
 capsulink.com
 captcha-gray.zt.kuaishou.com
 captcha.360.cn
@@ -13256,7 +13247,6 @@ mkto-ab470148.com
 mkto-ab480014.com
 mkto-ab480015.com
 mkto-ab480166.com
-mkto-ab530057.com
 mkto-ab530192.com
 mkto-ab540059.com
 mkto-ab540143.com
@@ -13266,7 +13256,6 @@ mkto-ab550140.com
 mkto-ab550184.com
 mkto-ab560068.com
 mkto-ab560119.com
-mkto-ab560171.com
 mkto-ab570110.com
 mkto-ab570128.com
 mkto-ab580004.com
@@ -13341,7 +13330,6 @@ mkto-lon100178.com
 mkto-m0106.com
 mkto-m0111.com
 mkto-mlm10010008.com
-mkto-mlm10030005.com
 mkto-n0092.com
 mkto-n0243.com
 mkto-nld1010057.com
@@ -13401,6 +13389,7 @@ mkto-sj210107.com
 mkto-sj210111.com
 mkto-sj210170.com
 mkto-sj220006.com
+mkto-sj220082.com
 mkto-sj230006.com
 mkto-sj240021.com
 mkto-sj250062.com
@@ -13425,6 +13414,7 @@ mkto-sj360142.com
 mkto-sj380104.com
 mkto-sj380142.com
 mkto-sj390079.com
+mkto-sj390192.com
 mkto-sjg0030.com
 mkto-sjh0084.com
 mkto-sn010116.com
@@ -18213,7 +18203,6 @@ siteonizleme.com.tr
 sitepoint.com
 sites.engadget.com
 sites.google.com
-sites.hscoscdn-ap1.net
 sites.hscoscdn-eu1.net
 sites.hscoscdn-na2.net
 sites.hscoscdn00.net
@@ -19278,7 +19267,6 @@ suite3.emarsys.net
 suite30-cdnnet.emarsys.net
 suite30-cf.emarsys.net
 suite30.emarsys.net
-suite32.emarsys.net
 suite33-cf.emarsys.net
 suite33.emarsys.net
 suite34.emarsys.net
