@@ -1080,6 +1080,7 @@
 @@||adscendmedia.com^
 @@||adsclick.me^
 @@||adservice.google.at^
+@@||adservice.google.bg^
 @@||adservice.google.ca^
 @@||adservice.google.ch^
 @@||adservice.google.co.ao^
@@ -4724,7 +4725,6 @@
 @@||chiark.greenend.org.uk^
 @@||chicago.cbslocal.com^
 @@||chicagotribune.com^
-@@||chickenfromroad.com^
 @@||chickenkiller.com^
 @@||chilink.io^
 @@||chill.ly^
@@ -4750,7 +4750,6 @@
 @@||chn.ospserver.net^
 @@||chng.it^
 @@||chocolatey.org^
-@@||chogan.store^
 @@||chogoon.com^
 @@||choice.microsoft.com^
 @@||choices.truste.com^
@@ -4935,7 +4934,6 @@
 @@||click360.gr^
 @@||clickbank.com^
 @@||clickbase.pro^
-@@||clickbio.co^
 @@||clickcease.com^
 @@||clickdefense.cc^
 @@||clickdimensions.com^
@@ -5047,7 +5045,6 @@
 @@||clkdms.com^
 @@||clkmg.com^
 @@||clkon.us^
-@@||clkro.com^
 @@||clktrack.com^
 @@||cllab.co^
 @@||clmp.me^
@@ -5622,7 +5619,6 @@
 @@||cube.meituan.net^
 @@||cubestat.com^
 @@||cuer.io^
-@@||cuk.one^
 @@||cukbaray.com^
 @@||cultm.ac^
 @@||culy.top^
@@ -5670,7 +5666,6 @@
 @@||cuteurl.co^
 @@||cuteurl.com^
 @@||cutevalues.com^
-@@||cutfy.co^
 @@||cutit.bid^
 @@||cutle.co^
 @@||cutli.to^
@@ -5708,7 +5703,6 @@
 @@||cuttly.pro^
 @@||cutto.io^
 @@||cutts.in^
-@@||cuturl.cloud^
 @@||cuturl.com^
 @@||cuturl.net^
 @@||cutwin.com^
@@ -5741,7 +5735,6 @@
 @@||cyberdrop.me^
 @@||cyberlink.com^
 @@||cybermap.kaspersky.com^
-@@||cyberrl.com^
 @@||cyberthreatcoalition.org^
 @@||cybr.fr^
 @@||cybr.rocks^
@@ -5780,7 +5773,6 @@
 @@||d.yzh.li^
 @@||d0.mk^
 @@||d10lpsik1i8c69.cloudfront.net^
-@@||d138.link^
 @@||d13links.online^
 @@||d1ayxb9ooonjts.cloudfront.net^
 @@||d1rk.nl^
@@ -5808,7 +5800,6 @@
 @@||da.gravatar.com^
 @@||da.mmarket.com^
 @@||da.xboxservices.com^
-@@||daa.pl^
 @@||dad.do^
 @@||dafa01.net^
 @@||dafa07.net^
@@ -5847,7 +5838,6 @@
 @@||dashbox.sndcdn.com^
 @@||dashbox.soundcloud.com^
 @@||dashi.163.com^
-@@||dat.bio^
 @@||data-linkup.com^
 @@||data.bilibili.com^
 @@||data.digital.costco.ca^
@@ -13205,6 +13195,7 @@
 @@||mkto-ab240112.com^
 @@||mkto-ab250068.com^
 @@||mkto-ab250105.com^
+@@||mkto-ab250167.com^
 @@||mkto-ab260164.com^
 @@||mkto-ab270090.com^
 @@||mkto-ab270109.com^
@@ -13299,6 +13290,7 @@
 @@||mkto-cs0007.com^
 @@||mkto-d0024.com^
 @@||mkto-d0170.com^
+@@||mkto-dev.certinia.com^
 @@||mkto-e0014.com^
 @@||mkto-e0126.com^
 @@||mkto-e0231.com^
@@ -13420,7 +13412,6 @@
 @@||mkto-sj380104.com^
 @@||mkto-sj380142.com^
 @@||mkto-sj390079.com^
-@@||mkto-sj390192.com^
 @@||mkto-sjg0030.com^
 @@||mkto-sjh0084.com^
 @@||mkto-sn010116.com^
@@ -16448,6 +16439,7 @@
 @@||redirect.tracify.ai^
 @@||redirect.viglink.com^
 @@||redirect.wip4.adobe.com^
+@@||redirect1069.tagcommander.com^
 @@||redirect476.tagcommander.com^
 @@||redirect492.tagcommander.com^
 @@||redirectingat.com^
@@ -16885,7 +16877,6 @@
 @@||s.click.tmall.com^
 @@||s.coccoc.com^
 @@||s.coinmarketcap.com^
-@@||s.compass.com^
 @@||s.coop^
 @@||s.deemos.com^
 @@||s.deinventive.com^
@@ -22165,7 +22156,6 @@
 @@||w.line.me^
 @@||w.org^
 @@||w.soundcloud.com^
-@@||w.webicon.co.za^
 @@||w.wiki^
 @@||w.x.sndcdn.com^
 @@||w09.ru^
