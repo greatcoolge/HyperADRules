@@ -381,6 +381,8 @@
 316.coolapk1s.com
 31productions.de
 321url.com
+341676991.group0.sites.hscoscdn-na3.net
+341850582.group0.sites.hscoscdn-na3.net
 350.my
 360.cn
 360links.net
@@ -3158,7 +3160,6 @@ banners.funimation.com
 banners.livepartners.com
 banners.spiceworks.com
 baoyung.com
-bapi-01.moengage.com
 bapi-02.moengage.com
 bapi-04.moengage.com
 bapi.flipboard.com
@@ -3433,7 +3434,6 @@ biolink.blog
 biolink.cloud
 biolink.com.do
 biolink.domestic.com.tr
-biolink.io.vn
 biolink.page
 biolink.palcurr.com
 biolink.webtena.com
@@ -6946,7 +6946,6 @@ enlac.ee
 enlaces.entrelasgestiones.com
 enlacify.com
 enpass.io
-enraptureminims.com
 enshom.link
 enter.bestbody.com.au
 enter.dcinside.com
@@ -8746,7 +8745,6 @@ gopreply.com
 goprotect.link
 gopvote.co
 goqr.me
-goqrgen.com
 gora.golf.rakuten.co.jp
 gorio.page
 goshopurl.com
@@ -8814,7 +8812,6 @@ gr.ign.com
 gr.me
 gr.ph
 gr.pn
-gr8.gg
 gr8cloud.com
 grab.com
 grabify.link
@@ -8877,7 +8874,6 @@ gs.wixapps.net
 gs2.ww.prod.dl.playstation.net
 gsa.apple.com
 gscc.events
-gscc.pro
 gsght.com
 gskvn.live
 gsmarena.com
@@ -8982,13 +8978,11 @@ h5static.cc.163.com
 ha4l.com
 haa.su
 hab.cx
-habitatsupport.org
 hackaday.com
 hackernoon.com
 hackerone.com
 hackthissite.org
 hadsucma.com
-haisauthangnam.live
 hala.li
 halifax.maelstrom.gameservices.xboxlive.com
 halloit.eu
@@ -9126,7 +9120,6 @@ here.com
 hereit.is
 hereoo.com
 heres.link
-hereyouare.link
 herff.ly
 hermesad.deltaverse-intl.com
 heroku.com
@@ -9142,7 +9135,6 @@ heytapimage.com
 heyue.xiaomi.com
 heyyyl.ink
 hf.co
-hgcj.org
 hgs.xyz
 hhbb.info
 hhbw.io
@@ -9203,7 +9195,6 @@ hitlap.com
 hitnews.com
 hitomi.la
 hiturl.at
-hiurls.com
 hive.arf.dev
 hivy.net
 hjkl.fr
@@ -9271,7 +9262,6 @@ home.playstation.com
 home.plus.google.com
 home.vuukle.com
 home.wanadoo.nl
-home4pm.com
 homedepot.com
 homedepot.ugc.bazaarvoice.com
 homeentertainment.engadget.com
@@ -9661,7 +9651,6 @@ igg.com
 igit.me
 igludostats.moonfroglabs.com
 ign.com
-ignitetraining.media
 ignorelist.com
 iguoguo.net
 iherb.co
@@ -9972,7 +9961,6 @@ incochoice.co.uk
 incoming.telemetry.mozilla.org
 incu.ca
 ind.pn
-indahnyaberbagi.lol
 indahnyaberbagi.shop
 indd.adobe.com
 inddrive.com
@@ -10464,7 +10452,6 @@ jmp.im
 jmp.sh
 jmp2.net
 jmpto.net
-jmpz.io
 jnfusa.org
 jnn-pa.googleapis.com
 jnq.ink
@@ -10497,7 +10484,6 @@ joinzee.com
 jomblo.org
 jonty.link
 joo.gl
-joo.nz
 joomconnect.com
 joomla.org
 jos.bio
@@ -12203,6 +12189,7 @@ m-42m67.custobar.com
 m-4wovq.custobar.com
 m-5fwyg.custobar.com
 m-6pyms.custobar.com
+m-7huqs.custobar.com
 m-7ihcs.custobar.com
 m-7uz3v.custobar.com
 m-a-tb.sndcdn.com
@@ -13178,7 +13165,6 @@ mkto-ab220178.com
 mkto-ab240112.com
 mkto-ab250068.com
 mkto-ab250105.com
-mkto-ab250167.com
 mkto-ab260164.com
 mkto-ab270090.com
 mkto-ab270109.com
@@ -18185,7 +18171,6 @@ sites.engadget.com
 sites.google.com
 sites.hscoscdn-eu1.net
 sites.hscoscdn-na2.net
-sites.hscoscdn-na3.net
 sites.hscoscdn00.net
 sites.hscoscdn10.net
 sites.hscoscdn20.net
