@@ -60,6 +60,7 @@
 @@||0eaf.cardinalcommerce.com^
 @@||0i.is^
 @@||0ln.eu^
+@@||0ln.io^
 @@||0mjgn0m.site^
 @@||0o.lv^
 @@||0oj.cn^
@@ -125,6 +126,7 @@
 @@||123.ge^
 @@||123415.xyz^
 @@||123greetings.com^
+@@||123l.pro^
 @@||123link.co^
 @@||123lnk.xyz^
 @@||123movies.to^
@@ -256,6 +258,7 @@
 @@||2.fedora.pool.ntp.org^
 @@||2.fr.pool.ntp.org^
 @@||2.gb.pool.ntp.org^
+@@||2.gd^
 @@||2.gp^
 @@||2.gravatar.com^
 @@||2.ht^
@@ -390,6 +393,7 @@
 @@||369.xn--6frz82g^
 @@||36kr.com^
 @@||37signals.com^
+@@||389sport.fun^
 @@||389sport.store^
 @@||39.net^
 @@||396264243-020.com^
@@ -484,6 +488,7 @@
 @@||4t.gg^
 @@||4ton.com^
 @@||4ty.me^
+@@||4uid.com^
 @@||4url.cc^
 @@||4x.si^
 @@||5-aclk.net^
@@ -558,6 +563,7 @@
 @@||7g7.ir^
 @@||7i.nu^
 @@||7i.se^
+@@||7kbet.click^
 @@||7kts.com^
 @@||7li.in^
 @@||7link.info^
@@ -2177,7 +2183,6 @@
 @@||api-02.moengage.com^
 @@||api-03.moengage.com^
 @@||api-04.moengage.com^
-@@||api-101.moengage.com^
 @@||api-ap1.hubapi.com^
 @@||api-auth.soundcloud.com^
 @@||api-beta.huawei.com^
@@ -2312,6 +2317,7 @@
 @@||api.foxnews.com^
 @@||api.gallery.intl.miui.com^
 @@||api.getpocket.com^
+@@||api.getsidekick.comapi.hubapi.com^
 @@||api.github.com^
 @@||api.glympse.com^
 @@||api.gotinder.com^
@@ -3156,6 +3162,7 @@
 @@||banners.livepartners.com^
 @@||banners.spiceworks.com^
 @@||baoyung.com^
+@@||bapi-01.moengage.com^
 @@||bapi-02.moengage.com^
 @@||bapi-04.moengage.com^
 @@||bapi.flipboard.com^
@@ -9332,6 +9339,7 @@
 @@||hpe.to^
 @@||hpg.com.br^
 @@||hplus-lighting.com^
+@@||hpt-cdn.exponea.com^
 @@||hpvk.com^
 @@||hqq.tv^
 @@||hqq.watch^
@@ -13140,7 +13148,6 @@
 @@||mkto-ab240112.com^
 @@||mkto-ab250068.com^
 @@||mkto-ab250105.com^
-@@||mkto-ab250167.com^
 @@||mkto-ab260164.com^
 @@||mkto-ab270090.com^
 @@||mkto-ab270109.com^
@@ -13182,6 +13189,7 @@
 @@||mkto-ab440025.com^
 @@||mkto-ab440026.com^
 @@||mkto-ab440032.com^
+@@||mkto-ab440076.com^
 @@||mkto-ab450015.com^
 @@||mkto-ab450037.com^
 @@||mkto-ab470119.com^
@@ -13190,6 +13198,7 @@
 @@||mkto-ab480015.com^
 @@||mkto-ab480166.com^
 @@||mkto-ab500022.com^
+@@||mkto-ab520004.com^
 @@||mkto-ab530192.com^
 @@||mkto-ab540059.com^
 @@||mkto-ab540143.com^
