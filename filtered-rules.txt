@@ -1073,6 +1073,7 @@ ads.so
 ads.twitter.com
 adscendmedia.com
 adsclick.me
+adservice.google.ae
 adservice.google.at
 adservice.google.bg
 adservice.google.ca
@@ -1411,6 +1412,7 @@ aloha.viber.com
 alol.io
 alolink.com
 alpha-t.net
+alpha.camp
 alphab.gr
 alpinehr.ca
 alsa.me
@@ -2311,7 +2313,6 @@ api.foursquare.com
 api.foxnews.com
 api.gallery.intl.miui.com
 api.getpocket.com
-api.getsidekick.comapi.hubapi.com
 api.github.com
 api.glympse.com
 api.gotinder.com
@@ -2638,6 +2639,7 @@ apple.com
 appleid.apple.com
 appleid.cdn-apple.com
 appliansys.com
+applink.bio
 applnx.com
 apply-here.live
 apply.lg.com
@@ -3039,6 +3041,7 @@ axoni.us
 axs.com
 ay.gy
 aylink.co
+ayohajar.info
 ayokale.me
 ayt.fr
 ayuk.link
@@ -3100,6 +3103,7 @@ b4y.net
 b51.tw
 b54.in
 b6.me
+b6e.cn
 b808.bet
 b9d.me
 baas.kr
@@ -3226,6 +3230,7 @@ bdydns.net
 be.horse
 be5.com
 be6.in
+beacon.bcn.to
 beacon.ztgame.com
 beacon.ztgame.ztinfoga.com
 beacons.ai
@@ -3240,6 +3245,7 @@ becakrcg.xyz
 becsn.net
 bedbathandbeyond.com
 bee-kz.life
+bee1s.com
 bee4.biz
 beeb.us
 beehiiv.com
@@ -3312,6 +3318,7 @@ bethesda.net
 bettercov.org
 betterlinks.io
 bettrechies.com
+beurl.app
 bez.link
 bezlink.com
 bezt.bio
@@ -3418,6 +3425,7 @@ bio.rub3n.io
 bio.zoluu.co
 bio2b.com.br
 bioandlink.com
+biobee.io
 biocardpro.com
 bioclick.net
 biofy.ai
@@ -3484,6 +3492,7 @@ bitfury.com
 bitfy.cc
 bitgg.co
 bithumb.com
+biti.pw
 bitigee.com
 bitily.com.br
 bitit.io
@@ -3572,6 +3581,7 @@ black.game.naver.com
 blackberry.com
 blackhatworld.com
 blacklistednews.com
+blacknig.ht
 bladisnel.com
 blap.net
 blbrd.cm
@@ -3966,6 +3976,7 @@ buoydeparturediscontent.com
 burl.me
 burner.bonanza.com
 burnurl.com
+busan.pro
 buscape.com.br
 business.apple.com
 business.hide.me
@@ -4006,6 +4017,7 @@ bydgoszcz.tvp.pl
 byestar.com
 byflexy.com
 byjusclasses.freshdesk.com
+byli.pro
 bynd.li
 byod-web.huawei.com
 byoo.in
@@ -4574,6 +4586,7 @@ cf-st.sc-cdn.net
 cf-sync-media.sndcdn.com
 cf.aliyun.com
 cf.iadsdk.apple.com
+cf2.me
 cfg.me
 cfh.li
 cfl.dropboxstatic.com
@@ -4738,6 +4751,7 @@ chn.lk
 chn.ospserver.net
 chng.it
 chocolatey.org
+chogan.store
 chogoon.com
 choice.microsoft.com
 choices.truste.com
@@ -4991,6 +5005,7 @@ clik.now
 clik.rip
 clikk.in
 clikr.ir
+cliks.co
 clikx.net
 clinkzy.com
 cliow.com
@@ -5100,6 +5115,7 @@ cmail19.com
 cmail20.com
 cmbchina.com
 cme.sh
+cml.lol
 cmmr.me
 cmodul.solutenetwork.com
 cmon.co
@@ -5450,6 +5466,7 @@ cpy-crack.com
 cq.al
 cqma.info
 cr-adt.com
+cr.ma
 cr.naver.com
 cr2.shopping.naver.com
 cr8.lv
@@ -5649,6 +5666,7 @@ cutcaptcha.com
 cutdown.link
 cute.link
 cutearns.com
+cutelnk.com
 cuterurlha.xyz
 cutestat.com
 cuteurl.co
@@ -5663,6 +5681,7 @@ cutlinker.com
 cutlly.com
 cutlnk.top
 cutly.in
+cutly.me
 cutly.pro
 cutlyx.com
 cutme.io
@@ -5691,9 +5710,12 @@ cuttly.io
 cuttly.pro
 cutto.io
 cutts.in
+cutturl.xyz
+cuturl.cloud
 cuturl.com
 cuturl.net
 cutwin.com
+cutx.me
 cutx.to
 cutxly.com
 cuty.io
@@ -5788,6 +5810,7 @@ da.gd
 da.gravatar.com
 da.mmarket.com
 da.xboxservices.com
+daa.pl
 dad.do
 dafa01.net
 dafa07.net
@@ -6145,6 +6168,7 @@ dik.si
 dimg04.c-ctrip.com
 dingtalk.com
 direct.cardgifters.com
+direct.learnspread.io
 direct.me
 direct.minifun.games
 direct.shots.snap.com
@@ -6185,6 +6209,7 @@ disquscdn.com
 distribute.adobe.com
 distributions.crowdin.net
 dive.pub
+diversionink.com
 divsly.com
 diwi.io
 diypriceless.com
@@ -6430,6 +6455,7 @@ dp8hsntg6do36.cloudfront.net
 dpb.fm
 dpb.link
 dpbolvw.net
+dpessm.com
 dpimg.ospserver.net
 dpm.demdex.net
 dpmd.ai
@@ -7210,6 +7236,7 @@ ezyurl.co
 ezyurl.net
 f*.market.mi-img.com
 f*.market.xiaomi.com
+f-ast.me
 f-droid.org
 f-internal.info
 f-n.link
@@ -7241,6 +7268,7 @@ f4d.uk
 f5i.org
 f5url.com
 f5yo.com
+f6x.cn
 f7.163.com
 fa-st.co
 fa.by
@@ -7782,6 +7810,7 @@ freeones.com
 freeshorten.com
 freeshorturl.com
 freeshorturls.com
+freeurlshort.com
 freewebs.com
 freight.aliexpress.com
 freshdirect.com
@@ -13142,6 +13171,7 @@ mkto-ab220178.com
 mkto-ab240112.com
 mkto-ab250068.com
 mkto-ab250105.com
+mkto-ab250167.com
 mkto-ab260164.com
 mkto-ab270090.com
 mkto-ab270109.com
@@ -13150,7 +13180,6 @@ mkto-ab280126.com
 mkto-ab290066.com
 mkto-ab290102.com
 mkto-ab290138.com
-mkto-ab300154.com
 mkto-ab310115.com
 mkto-ab320028.com
 mkto-ab320182.com
@@ -13192,7 +13221,6 @@ mkto-ab480014.com
 mkto-ab480015.com
 mkto-ab480166.com
 mkto-ab500022.com
-mkto-ab520004.com
 mkto-ab530192.com
 mkto-ab540059.com
 mkto-ab540143.com
@@ -13961,7 +13989,6 @@ neflixenomovies.com
 nej.md
 nejmqianyan.cn
 neo.am
-neoengage-va-cdn.exponea.com
 neonslug.com
 neontools.io
 neoplanet.snap.com
