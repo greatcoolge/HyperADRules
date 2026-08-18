@@ -2179,6 +2179,7 @@ api-01.moengage.com
 api-02.moengage.com
 api-03.moengage.com
 api-04.moengage.com
+api-101.moengage.com
 api-ap1.hubapi.com
 api-auth.soundcloud.com
 api-beta.huawei.com
@@ -12226,6 +12227,7 @@ m-ax.custobar.com
 m-b2o72.custobar.com
 m-bcta6.custobar.com
 m-bsp.custobar.com
+m-c5a3m.custobar.com
 m-eqxt2.custobar.com
 m-fi32s.custobar.com
 m-fucdf.custobar.com
@@ -13193,7 +13195,6 @@ mkto-ab220178.com
 mkto-ab240112.com
 mkto-ab250068.com
 mkto-ab250105.com
-mkto-ab250167.com
 mkto-ab260164.com
 mkto-ab270090.com
 mkto-ab270109.com
@@ -13202,6 +13203,7 @@ mkto-ab280126.com
 mkto-ab290066.com
 mkto-ab290102.com
 mkto-ab290138.com
+mkto-ab300154.com
 mkto-ab310115.com
 mkto-ab320028.com
 mkto-ab320182.com
@@ -14013,7 +14015,6 @@ neflixenomovies.com
 nej.md
 nejmqianyan.cn
 neo.am
-neoengage-va-cdn.exponea.com
 neonslug.com
 neontools.io
 neoplanet.snap.com
@@ -15060,6 +15061,7 @@ partners.etoro.com
 partners.integration.viber.com
 partners.playstation.com
 partners.soundcloud.com
+partners.webmasterplan.com
 partnerseu.sec.samsung.com
 parts.blog.livedoor.jp
 party.163.com
@@ -15717,6 +15719,7 @@ product.ign.com
 product.rakuten.co.jp
 productcard.gog-statics.com
 products.office.com
+produktiver.ch
 proelink.com
 profeelo.com
 professionalsrvcs.com
@@ -16001,6 +16004,7 @@ qlink.vn
 qlinks.eu
 qlixelapp.com
 qlnk.net
+qlur.top
 qlynk.me
 qm.qq.co
 qm.qq.com
@@ -16089,6 +16093,7 @@ qrlinkhub.com
 qrlinkolustur.com
 qrlinky.app
 qrlit.com
+qrlnk.co.uk
 qrls.app
 qrly.io
 qrly.uk
@@ -16133,6 +16138,7 @@ quantcast.mgr.consensu.org
 quantummetric.com
 quark.sm.cn
 quee.link
+queen-kelly.life
 queer.li
 query.prod.cms.rt.microsoft.com
 query.yahoo.com
@@ -16311,6 +16317,7 @@ rbtly.com
 rbtxt.com
 rbv4yigbb.cc.rs6.net
 rbx-hyperlink.vercel.app
+rbx-url.com
 rbxurl.pro
 rch.lt
 rcknr.io
@@ -16465,6 +16472,7 @@ ref11.top
 refer.is
 refer.wordpress.com
 reference.com
+referer.us
 referrals.brave.com
 referrals.bravesoftware.com
 referrer.disqus.com
@@ -16677,6 +16685,7 @@ ro.wikipedia.com
 road.adblock.ro
 roadandtrack.com
 roar.media
+robloxgroup.life
 rochester.edu
 rockbridge.info
 rockcastitalia.com
@@ -16691,6 +16700,7 @@ roids.top
 roketlink.bio
 roku.com
 rol.st
+rolink.bio
 rollingstone.com
 rollwithpaul.com
 romw.co
@@ -16782,6 +16792,7 @@ rubsy.ingenious.cloud
 rubyurl.com
 rukminim1.flixcart.com
 rules2.clearurls.xyz
+rumahide.my.id
 rumahlink.com
 rumble.com
 run.admost.com
@@ -17408,6 +17419,7 @@ seesaa.net
 seez.bio
 segment.com
 segment.hotstar.com
+segue.se
 segueae.link
 seif.link
 seiu.co
@@ -17588,6 +17600,7 @@ sharem.tech
 sharepoint.com
 sharepointshorturl.com
 sharetabs.com
+shareurl.io
 shareus.io
 shareyou.link
 shatu.nl
@@ -17681,6 +17694,7 @@ short-it.cc
 short-link.co
 short-link.me
 short-link.net
+short-ly.co
 short-me.me
 short-url.co
 short-url.link
@@ -17747,6 +17761,7 @@ shortcut.ac
 shortduck.com
 shorte.bio
 shorte.ink
+shorte.pro
 shorte.st
 shortearn.to
 shortearner.in
@@ -17840,6 +17855,7 @@ shortl.net
 shortlab.bio
 shortlinc.com
 shortlink.ad
+shortlink.click
 shortlink.co.za
 shortlink.com.au
 shortlink.cz
@@ -17956,6 +17972,7 @@ shorturlbot.com
 shorturlhub.com
 shorturlmagic.link
 shorturls.asia
+shorturls.at
 shorturls.click
 shorturls.co.uk
 shorturls.fyi
@@ -18076,6 +18093,7 @@ shrturll.com
 shrtxb4d.live
 shrtxtus.wiki
 shrty.eu
+shrty.net
 shrunkdurl.com
 shrunken.com
 sht.moe
@@ -18092,6 +18110,7 @@ shurl.in
 shurl.jp
 shurl.me
 shurli.at
+shurt.pw
 shurturl.com
 shutr.bz
 shuvi.io
@@ -18114,6 +18133,7 @@ sieduc.digital
 siehe.eu
 sifu.im
 sigboms.com
+sigdp.io
 sign-in.soundcloud.com
 signals.aimtell.com
 signals.qualcomm.com
@@ -18137,6 +18157,7 @@ simgr.id
 simonclaussen.com
 simp.ly
 simple.wikipedia.com
+simpleurl.link
 simpleurl.tech
 simpltrk.com
 simply.com
@@ -18175,6 +18196,7 @@ siteonizleme.com.tr
 sitepoint.com
 sites.engadget.com
 sites.google.com
+sites.hscoscdn-ap1.net
 sites.hscoscdn-eu1.net
 sites.hscoscdn-na2.net
 sites.hscoscdn00.net
@@ -18185,6 +18207,7 @@ sites.hscoscdn40.net
 sites.kr
 sites.paradox.ai
 sites.techcrunch.com
+siteu.net
 siteurl.ink
 sitioz.com
 situsslotzeus.store
@@ -18278,6 +18301,7 @@ slnk.se
 slot633.gg
 slotamina.com
 slpre.com
+slptr.com
 sls.update.microsoft.com
 sls.update.microsoft.com.akadns.net
 slscr.update.microsoft.com
@@ -18441,6 +18465,7 @@ sniplink.co
 sniplnk.co
 sniply.io
 sniply.me
+sniplytics.com
 snipmojo.com
 snipp.dev
 snippets.cdn.mozilla.net
@@ -19027,6 +19052,7 @@ steamcdn-a.akamaihd.net
 steamcommunity-a.akamaihd.net
 steamcommunity.com
 steamdb.info
+steammodule.com
 steamstore-a.akamaihd.net
 steamusercontent-a.akamaihd.net
 steamuserimages-a.akamaihd.net
@@ -19376,6 +19402,8 @@ supportxmr.com
 supr.cl
 supr.link
 supurlman.com
+sur.ly
+sura.pw
 surayafans.com
 surf.plus.google.com
 surfspot.nl
@@ -19452,6 +19480,7 @@ swsig.com
 swsig.de
 swtt.cc
 swupmf.adobe.com
+sxyprn.life
 sy.pe
 sy.to
 syandus.com
@@ -19707,6 +19736,7 @@ tamar.is
 tampa.cbslocal.com
 tampermonkey.net
 tampz.com
+tamthangnam.life
 tandcsurf.com
 tandfonline.com
 tanitkazan.com
@@ -19891,6 +19921,7 @@ tgbe.link
 tgd.bz
 tgdgacor.com
 tglink.io
+tgmy.my
 tgov.us
 tgr.jp
 tgr.ph
@@ -19903,6 +19934,7 @@ thatis.me
 thd.co
 the-bithub.com
 the-eye.eu
+the-link.me
 the.earth.li
 the360tools.com
 the818challenge.com
@@ -20062,6 +20094,7 @@ timessquarefacts.com
 timewatch.info
 timnao.link
 timxxx.ink
+tin.li
 tinderurl.com
 tinesy.com
 tini.cc
@@ -20382,6 +20415,7 @@ tr.threeate.jp
 tr.twitch.tv
 tr.wikipedia.com
 tr1.pw
+tr5.in
 trace.marketingviadigital.com
 traceurl.com
 track-eu.customer.io
@@ -21016,6 +21050,7 @@ unpixly.com
 unpkg.com
 unpkg.zhimg.com
 uns.apsis.one
+unshort.site
 unsololink.com
 unsplash.com
 unsw.to
@@ -21258,6 +21293,7 @@ url56x.com
 url5xx.com
 url666x.com
 url69xx.com
+url6x.com
 url6xx.com
 url724.link
 url777x.com
@@ -21271,6 +21307,7 @@ urladda.com
 urlah.com
 urlao.com
 urlaz.com
+urlb.io
 urlb.link
 urlbae.com
 urlbd.com
@@ -21278,6 +21315,7 @@ urlbee.site
 urlbind.com
 urlbit.co
 urlbit.io
+urlbit.online
 urlbit.pro
 urlbity.com
 urlbox.cc
@@ -21747,6 +21785,7 @@ vegamoveis.link
 vehi.co
 veja.me
 velaro.com
+velink.me
 vena.sh
 vendoagora.live
 vendorlist.consensu.org
@@ -21904,6 +21943,7 @@ vipshortener.com
 vipslot4d.site
 viraatlabs.com
 viralblade.com
+viralme.me
 viraln.co
 viralpep.com
 viralurl.com
@@ -22387,6 +22427,7 @@ whr.tn
 whr.to
 whs.link
 whstlr.us
+whts.cc
 whyiwu.com
 wi.sa
 wi.se
