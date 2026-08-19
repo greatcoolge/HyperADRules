@@ -1073,7 +1073,6 @@ ads.so
 ads.twitter.com
 adscendmedia.com
 adsclick.me
-adservice.google.ae
 adservice.google.at
 adservice.google.bg
 adservice.google.ca
@@ -2179,7 +2178,6 @@ api-01.moengage.com
 api-02.moengage.com
 api-03.moengage.com
 api-04.moengage.com
-api-101.moengage.com
 api-ap1.hubapi.com
 api-auth.soundcloud.com
 api-beta.huawei.com
@@ -12242,6 +12240,7 @@ m-k.ca
 m-kpz.custobar.com
 m-kzo.custobar.com
 m-ll23a.custobar.com
+m-no5by.custobar.com
 m-nvdxq.custobar.com
 m-nxt.custobar.com
 m-oszhr.custobar.com
@@ -13164,6 +13163,7 @@ mkt7185.com
 mktcloud.c.huawei.com
 mktg8.link
 mkto-a0279.com
+mkto-ab010044.com
 mkto-ab010150.com
 mkto-ab040115.com
 mkto-ab040117.com
@@ -13257,6 +13257,7 @@ mkto-ab560119.com
 mkto-ab570110.com
 mkto-ab570128.com
 mkto-ab580004.com
+mkto-ab590004.com
 mkto-ab600004.com
 mkto-ab610035.com
 mkto-ab610084.com
@@ -13286,6 +13287,7 @@ mkto-abc0114.com
 mkto-abc0241.com
 mkto-abd0218.com
 mkto-abj0022.com
+mkto-abm0229.com
 mkto-abm0255.com
 mkto-b0025.com
 mkto-c0100.com
@@ -13329,6 +13331,7 @@ mkto-lon100178.com
 mkto-m0106.com
 mkto-m0111.com
 mkto-mlm10010008.com
+mkto-mlm10030005.com
 mkto-n0092.com
 mkto-n0243.com
 mkto-nld1010057.com
@@ -13337,6 +13340,7 @@ mkto-nld1010097.com
 mkto-nld1010150.com
 mkto-nld1010159.com
 mkto-nld1020077.com
+mkto-nld1020138.com
 mkto-nld1020173.com
 mkto-nld1020221.com
 mkto-nld1030007.com
@@ -14015,6 +14019,7 @@ neflixenomovies.com
 nej.md
 nejmqianyan.cn
 neo.am
+neoengage-va-cdn.exponea.com
 neonslug.com
 neontools.io
 neoplanet.snap.com
@@ -17022,6 +17027,7 @@ s51.exacttarget.com
 s6.exacttarget.com
 s7.exacttarget.com
 s7y.us
+s8.exacttarget.com
 s82i.app.link
 s9.picofile.com
 s99.tech
@@ -22474,6 +22480,7 @@ wildc.at
 wildflowerlinks.org
 wiley.com
 willgo.link
+wimsedas.xyz
 win.gs
 win10.ipv6.microsoft.com
 win1710.ipv6.microsoft.com
@@ -24196,6 +24203,7 @@ wyspagier.pl
 wywy.com
 wyyw.de
 wz.my
+x-d.me
 x-shrtn.com
 x.bestcheck.de
 x.co
@@ -24280,6 +24288,7 @@ xify.co
 xing.com
 xinghua.plus
 xinhuanet.com
+xip.li
 xiqi.us
 xj-n-tax.gov.cn
 xk.me
@@ -24356,6 +24365,7 @@ xtglinks.com
 xth.me
 xtr.bz
 xtre.me
+xua.me
 xub.me
 xueqiu.com
 xuite.net
@@ -24504,6 +24514,7 @@ youris.bio
 youris.pro
 yourl.ir
 yourl.jp
+yourls.best
 yourls.ch
 yourls.i2m.solutions
 yourls.info
@@ -24604,6 +24615,7 @@ zapurl.net
 zapurls.com
 zaq.be
 zarnecka.com
+zat.ink
 zaya.io
 zazhipu.com
 zb.mi.com
@@ -24731,6 +24743,7 @@ zom.ink
 zom.io
 zona.media
 zonearcad.xyz
+zoneurl.net
 zoodl.com
 zoominfo.com
 zoosnet.net
