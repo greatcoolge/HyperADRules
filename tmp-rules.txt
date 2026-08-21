@@ -8303,6 +8303,7 @@
 @@||s-msft.com^
 @@||s-passets-cache-ak0.pinimg.com^
 @@||s-static.ak.facebook.com^
+@@||s.360.cn^
 @@||s.4pda.to^
 @@||s.aolcdn.com^
 @@||s.bit.ly^
