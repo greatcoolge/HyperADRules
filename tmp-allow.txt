@@ -656,7 +656,6 @@
 @@||ads.so^
 @@||adscendmedia.com^
 @@||adsclick.me^
-@@||adservice.google.ae^
 @@||adservice.google.at^
 @@||adservice.google.bg^
 @@||adservice.google.ca^
@@ -2185,6 +2184,7 @@
 @@||ck2.it^
 @@||ckbe.at^
 @@||cl.adosiz.net^
+@@||cl.boa.exct.net^
 @@||cl.exct.net^
 @@||cl.ly^
 @@||cl.s10.exct.net^
@@ -6273,6 +6273,7 @@
 @@||m-va.custobar.com^
 @@||m-vek.custobar.com^
 @@||m-vq63s.custobar.com^
+@@||m-zvrkv.custobar.com^
 @@||m-zwhsc.custobar.com^
 @@||m.163.com^
 @@||m.17173.com^
