@@ -1069,6 +1069,7 @@ ads.so
 ads.twitter.com
 adscendmedia.com
 adsclick.me
+adservice.google.ae
 adservice.google.at
 adservice.google.bg
 adservice.google.ca
@@ -1258,7 +1259,6 @@ aillis.line.me
 aim2.cc
 aimetath.com
 aimqr.com
-aintok.com
 ainurl.pro
 aiolink.my.id
 aiproxies.com
@@ -1359,7 +1359,6 @@ alibaba.com
 alibuy.live
 alicdn.com
 alice-w.com
-alicedeals.com
 alie.kr
 alien-traffic.com
 alientraffic.com
@@ -4810,6 +4809,7 @@ ck.hdm3.in
 ck2.it
 ckbe.at
 cl.adosiz.net
+cl.boa.exct.net
 cl.exct.net
 cl.ly
 cl.s10.exct.net
@@ -12215,6 +12215,7 @@ m-htgjb.custobar.com
 m-i.li
 m-ini.me
 m-itsof.custobar.com
+m-jzt.custobar.com
 m-k.ca
 m-kpz.custobar.com
 m-kzo.custobar.com
@@ -13239,6 +13240,7 @@ mkto-ab550140.com
 mkto-ab550184.com
 mkto-ab560068.com
 mkto-ab560119.com
+mkto-ab560171.com
 mkto-ab570110.com
 mkto-ab570128.com
 mkto-ab580004.com
@@ -13325,6 +13327,7 @@ mkto-nld1010097.com
 mkto-nld1010150.com
 mkto-nld1010159.com
 mkto-nld1020077.com
+mkto-nld1020078.com
 mkto-nld1020138.com
 mkto-nld1020173.com
 mkto-nld1020221.com
@@ -14005,6 +14008,7 @@ neflixenomovies.com
 nej.md
 nejmqianyan.cn
 neo.am
+neoengage-va-cdn.exponea.com
 neonslug.com
 neontools.io
 neoplanet.snap.com
@@ -18174,7 +18178,6 @@ siteonizleme.com.tr
 sitepoint.com
 sites.engadget.com
 sites.google.com
-sites.hscoscdn-ap1.net
 sites.hscoscdn-eu1.net
 sites.hscoscdn-na2.net
 sites.hscoscdn00.net
