@@ -400,7 +400,6 @@
 @@||888b.pw^
 @@||888df.com^
 @@||88nb.cc^
-@@||88win.link^
 @@||89bet69.cc^
 @@||89bet69.net^
 @@||89q.sk^
@@ -559,7 +558,6 @@
 @@||accu.li^
 @@||accu.ps^
 @@||accutics.com^
-@@||acekrem.com^
 @@||acemlnb.com^
 @@||acer.co^
 @@||acer.link^
@@ -573,7 +571,6 @@
 @@||aclk.co^
 @@||aclk.io^
 @@||aclk.org^
-@@||acort.link^
 @@||acort.me^
 @@||acorta.click^
 @@||acortar.link^
@@ -755,7 +752,6 @@
 @@||adsplusmetrics.com^
 @@||adsplustracker.com^
 @@||adsv.svc.litv.tv^
-@@||aduke.bio^
 @@||adurly.cc^
 @@||adv.li^
 @@||adv.pe^
@@ -2491,6 +2487,7 @@
 @@||coop.voicecloud.cn^
 @@||coopurl.com^
 @@||cop.vn^
+@@||core-ui.dev^
 @@||core.airforce^
 @@||corecodebiolink.com.br^
 @@||coreprob.coreprobation.org^
@@ -5424,6 +5421,7 @@
 @@||lia.nz^
 @@||lialink.net^
 @@||liangcang-material.alicdn.com^
+@@||lib-net.dev^
 @@||lib.ac^
 @@||lib.cx^
 @@||lib.sinaapp.com^
@@ -10012,6 +10010,7 @@
 @@||static-eu.cleverpush.com^
 @@||static-hw.xnxx-cdn.com^
 @@||static-l3.xnxx-cdn.com^
+@@||static-lib.dev^
 @@||static-mobile.cleverpush.com^
 @@||static-mobilegame-1.biligame.net^
 @@||static-res.qq.com^
@@ -11337,6 +11336,7 @@
 @@||ugurl.cn^
 @@||ugurly.vercel.app^
 @@||uh.ht^
+@@||ui-wp.dev^
 @@||ui.la^
 @@||ui8.ru^
 @@||uich.cc^
@@ -12321,6 +12321,7 @@
 @@||wowurl.com^
 @@||woxx.link^
 @@||wozencraft.boats^
+@@||wp-lib.dev^
 @@||wp.me^
 @@||wp1.co^
 @@||wp6q.com^

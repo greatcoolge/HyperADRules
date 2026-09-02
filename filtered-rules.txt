@@ -578,7 +578,6 @@
 888b.pw
 888df.com
 88nb.cc
-88win.link
 89bet69.cc
 89bet69.net
 89q.sk
@@ -870,7 +869,6 @@ accuweather.com
 acdn.adnxs.com
 ace.naver.com
 acehardware.com
-acekrem.com
 acemlnb.com
 acer.co
 acer.com
@@ -887,7 +885,6 @@ aclk.io
 aclk.org
 acompli.helpshift.com
 acompli.net
-acort.link
 acort.me
 acorta.click
 acortar.link
@@ -1173,7 +1170,6 @@ adsplusgrowth.com
 adsplusmetrics.com
 adsplustracker.com
 adsv.svc.litv.tv
-aduke.bio
 adult.com
 adurly.cc
 adv.ccb.com
@@ -5399,6 +5395,7 @@ copyright.help.soundcloud.com
 copyright.soundcloud.com
 copyrights.help.soundcloud.com
 corbettreport.com
+core-ui.dev
 core.airforce
 core.windows.net
 corecodebiolink.com.br
@@ -11191,6 +11188,7 @@ lia.nz
 lialink.net
 liangcang-material.alicdn.com
 liantu.com
+lib-net.dev
 lib.ac
 lib.cx
 lib.in
@@ -18842,6 +18840,7 @@ static-eu.cleverpush.com
 static-fonts.adobe.com
 static-hw.xnxx-cdn.com
 static-l3.xnxx-cdn.com
+static-lib.dev
 static-login.gog-statics.com
 static-lvlt.xhcdn.com
 static-media-prod-cdn.itsre-sumo.mozilla.net
@@ -20932,6 +20931,7 @@ ugurl.cn
 ugurly.vercel.app
 uh.ht
 uhf.microsoft.com
+ui-wp.dev
 ui.la
 ui.ptlogin2.wechat.com
 ui.skype.akadns.net
@@ -22569,6 +22569,7 @@ wowo.kids
 wowurl.com
 woxx.link
 wozencraft.boats
+wp-lib.dev
 wp.breitbart.com
 wp.com
 wp.me
