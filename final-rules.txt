@@ -4543,13 +4543,11 @@
 @@||cebol.me^
 @@||cedexis.net^
 @@||cedexispub.cdnetworks.net^
-@@||ceittp.com^
 @@||celfam.us^
 @@||cell.office.naver.com^
 @@||ceneo.pl^
 @@||census.gov^
 @@||centi.ai^
-@@||centurylinke.com^
 @@||cepat.link^
 @@||cert.halo.part.xbox.com^
 @@||cert.mgt.xboxlive.com^
@@ -4743,10 +4741,8 @@
 @@||chongdiantou.com^
 @@||chooze.me^
 @@||chop.ad^
-@@||choply.co^
 @@||chopurl.io^
 @@||chort.me^
-@@||chotourl.me^
 @@||chrome.cloudflare-dns.com^
 @@||chrome.google.com^
 @@||chromesyncentities-pa.googleapis.com^
@@ -4976,7 +4972,6 @@
 @@||client.update.sandai.net^
 @@||clientconfig.akamai.steamstatic.com^
 @@||clientconfig.passport.net^
-@@||clientlinks.net^
 @@||clients.binance.com^
 @@||clients.l.google.com^
 @@||clients1.google.com^
@@ -5056,7 +5051,6 @@
 @@||cloudfront-app-cdn.spot.im^
 @@||cloudfront.net^
 @@||cloudinary.com^
-@@||cloudku.click^
 @@||cloudmail16.netcore.co.in^
 @@||cloudmail17.netcore.co.in^
 @@||cloudmail18.netcore.co.in^
@@ -5067,7 +5061,6 @@
 @@||cloudradar.net^
 @@||cloudservices.roku.com^
 @@||cloudshrinker.com^
-@@||cloudtechlinks.com^
 @@||clourls.com^
 @@||clova-blog.line.me^
 @@||clova.line.me^
@@ -16663,7 +16656,6 @@
 @@||rochester.edu^
 @@||rockbridge.info^
 @@||rockcastitalia.com^
-@@||rocketlink.com.br^
 @@||rocketlink.io^
 @@||rockstargames.com^
 @@||roderurl.info^
@@ -17039,7 +17031,6 @@
 @@||sakari.io^
 @@||sakura.ne.jp^
 @@||salemove.com^
-@@||salesadvisor.nazriproton.com.my^
 @@||salesforce.com^
 @@||salesforceliveagent.com^
 @@||salesquared.io^

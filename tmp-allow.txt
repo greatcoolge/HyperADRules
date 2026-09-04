@@ -2063,10 +2063,8 @@
 @@||ce-ism.org^
 @@||ce0.net^
 @@||cebol.me^
-@@||ceittp.com^
 @@||celfam.us^
 @@||centi.ai^
-@@||centurylinke.com^
 @@||cepat.link^
 @@||certifyde.app^
 @@||certs.apple.com^
@@ -2119,10 +2117,8 @@
 @@||chogoon.com^
 @@||chooze.me^
 @@||chop.ad^
-@@||choply.co^
 @@||chopurl.io^
 @@||chort.me^
-@@||chotourl.me^
 @@||chts.tw^
 @@||chuchik.com^
 @@||chunkylinks.com^
@@ -2305,7 +2301,6 @@
 @@||clicky.me^
 @@||cliczy.com^
 @@||client-api.arkoselabs.com^
-@@||clientlinks.net^
 @@||clients4.google.com^
 @@||clik.now^
 @@||clik.rip^
@@ -2357,7 +2352,6 @@
 @@||cloudcache.tencent-cloud.cn^
 @@||cloudfare.icu^
 @@||cloudflare-dns.com^
-@@||cloudku.click^
 @@||cloudmail16.netcore.co.in^
 @@||cloudmail17.netcore.co.in^
 @@||cloudmail18.netcore.co.in^
@@ -2366,7 +2360,6 @@
 @@||cloudmail5.netcore.co.in^
 @@||cloudradar.net^
 @@||cloudshrinker.com^
-@@||cloudtechlinks.com^
 @@||clourls.com^
 @@||clpr.tn^
 @@||clps.app^
@@ -8652,7 +8645,6 @@
 @@||robloxgroup.life^
 @@||rockbridge.info^
 @@||rockcastitalia.com^
-@@||rocketlink.com.br^
 @@||rocketlink.io^
 @@||roderurl.info^
 @@||rog.gg^
@@ -8877,7 +8869,6 @@
 @@||sail.to^
 @@||sailthru.com^
 @@||sakari.io^
-@@||salesadvisor.nazriproton.com.my^
 @@||salesquared.io^
 @@||salo.li^
 @@||salone.it^
