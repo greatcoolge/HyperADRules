@@ -2862,6 +2862,7 @@ at.ms
 at.vibe.com
 at0m.de
 ata.ink
+ataew.com
 atag.pk
 ateng.me
 atglinks.com
@@ -3005,6 +3006,7 @@ avydn.co
 awactools.com
 awards.netflix.com
 awc.li
+awdrfj.com
 awebopt.com
 awmonitor.com
 awp-assets.meituan.net
@@ -3151,6 +3153,7 @@ banners.funimation.com
 banners.livepartners.com
 banners.spiceworks.com
 baoyung.com
+bapi-01.moengage.com
 bapi-02.moengage.com
 bapi-04.moengage.com
 bapi.flipboard.com
@@ -3973,6 +3976,7 @@ businessweek.com
 businesswire.com
 button.like.co
 buu.lat
+buufjf.com
 buy.adhitan.com
 buy.coinbase.com
 buy.com
@@ -3982,7 +3986,10 @@ buy.mi.com
 buybitcoinsworldwide.com
 buydomains.com
 buzzfeed.com
+bvczg.biz
+bvicq.com
 bw.care
+bwcnbd.com
 bwlf.us
 bwmhosting.huawei.com
 bwnews.pr
@@ -3994,6 +4001,7 @@ by.com.vn
 by1.eu
 by2.io
 bydgoszcz.tvp.pl
+bydqy.com
 byestar.com
 byflexy.com
 byjusclasses.freshdesk.com
@@ -4797,7 +4805,6 @@ ck.hdm3.in
 ck2.it
 ckbe.at
 cl.adosiz.net
-cl.boa.exct.net
 cl.exct.net
 cl.ly
 cl.s10.exct.net
@@ -5423,7 +5430,6 @@ cph.bz
 cplay.top
 cplink.co
 cplink.me
-cplinker.com
 cpm.wargaming.net
 cpmlink.net
 cpms.spop10.ams.plex.bz
@@ -5642,12 +5648,10 @@ cutearns.com
 cutelnk.com
 cuterurlha.xyz
 cutestat.com
-cuteurl.co
 cuteurl.com
 cutevalues.com
 cutit.bid
 cutle.co
-cutli.to
 cutlink.now
 cutlink.space
 cutlinker.com
@@ -5690,7 +5694,6 @@ cuturl.net
 cutwin.com
 cutx.me
 cutx.to
-cutxly.com
 cuty.io
 cutyurl.com
 cv-h.phncdn.com
@@ -5784,7 +5787,6 @@ da.gravatar.com
 da.mmarket.com
 da.xboxservices.com
 daa.pl
-dad.do
 dafa01.net
 dafa07.net
 daffodilvarsity.edu.bd
@@ -6564,6 +6566,7 @@ dy.si
 dya.us
 dyler.co
 dylink.me
+dylpta.com
 dyn.ithome.com
 dynaimage.cdn.turner.com
 dynamic-cdn.spot.im
@@ -6652,6 +6655,7 @@ easyurl.net
 easyurl.site
 easyurlshortener.com
 eat.emmasolutions.net
+eaxcj.com
 eazify.net
 eb.do
 ebarata.com
@@ -6674,7 +6678,9 @@ ebgames.com.au
 ebig.ly
 ebill.sydneywater.com.au
 ebookstore.sony.com
+ebopvw.com
 ebvv.com
+ebxim.com
 eby.onl
 ec-encrypted-hls-media.sndcdn.com
 ec-hls-media.sndcdn.com
@@ -7863,6 +7869,7 @@ fwk.ai
 fwme.eu
 fwr.to
 fx.cc
+fxczav.com
 fxhome.com
 fxn.ws
 fy9.in
@@ -8985,6 +8992,7 @@ halloit.eu
 halo.part.xbox.com
 halo.xbox.com
 halobet.digital
+hamvf.com
 han.gl
 hanaco.jp
 hanada.info
@@ -9131,6 +9139,7 @@ heytapimage.com
 heyue.xiaomi.com
 heyyyl.ink
 hf.co
+hfldl.com
 hgs.xyz
 hhbb.info
 hhbw.io
@@ -9142,6 +9151,7 @@ hi.statcounter.com
 hi4.in
 hibastyle.com
 hibfox.com
+hibpbw.com
 hibu.com
 hicider.com
 hide.link
@@ -10243,6 +10253,7 @@ istel.co
 isterratrk.com
 istincy.com
 istockphoto.com
+isuif.com
 isurl.cc
 isurt.com
 isw.pub
@@ -10267,6 +10278,7 @@ item.taobao.com
 iterasi.net
 iteye.com
 itgreen.com.vn
+ithuxi.com
 iti.bz
 itknowledgeexchange.techtarget.com
 itlinks.me
@@ -10789,6 +10801,7 @@ kmart.com
 kmart.com.au
 kmcpwe.online
 kmi.mobi
+kmjep.biz
 kn-t.net
 kn.gravatar.com
 knet.cn
@@ -13216,6 +13229,7 @@ mkto-ab480014.com
 mkto-ab480015.com
 mkto-ab480166.com
 mkto-ab500022.com
+mkto-ab530057.com
 mkto-ab530192.com
 mkto-ab540143.com
 mkto-ab550041.com
@@ -13354,7 +13368,6 @@ mkto-sj220006.com
 mkto-sj220082.com
 mkto-sj250062.com
 mkto-sj250111.com
-mkto-sj250171.com
 mkto-sj250187.com
 mkto-sj270072.com
 mkto-sj270078.com
@@ -14110,6 +14123,7 @@ nfw.cz
 ng.je
 ngers.org
 nghub.net
+nghymg.com
 nginx.org
 ngrid.com
 ngshortx.com
@@ -15185,6 +15199,7 @@ pesc.pw
 petapixel.com
 petir.io
 petir.vip
+petmkv.com
 petrobr.as
 petrovay.com
 pew.org
@@ -15468,6 +15483,7 @@ poie.ma
 point.rakuten.co.jp
 pointcard.rakuten.co.jp
 pointpay.live
+pojdyn.com
 pojonews.co
 pokoknya.top
 polamax.win
@@ -16582,6 +16598,7 @@ rfr.bz
 rfx.today
 rg3.github.io
 rgd.app
+rgdyk.com
 rgister.net
 rgl.nl
 rgmechanicsgames.com
@@ -16618,6 +16635,7 @@ rj99.site
 rjpl.link
 rjpz4ucab.cc.rs6.net
 rjvn.co
+rjyjwq.com
 rkt.bio
 rkurl.com
 rli.io
@@ -18148,6 +18166,7 @@ siteonizleme.com.tr
 sitepoint.com
 sites.engadget.com
 sites.google.com
+sites.hscoscdn-ap1.net
 sites.hscoscdn-eu1.net
 sites.hscoscdn-na2.net
 sites.hscoscdn00.net
@@ -18324,6 +18343,7 @@ smlk.es
 smll.cc
 smlnk.us
 smlr.nu
+smnbnt.com
 smo.do
 smokingwheels.github.io
 smol.re
@@ -18511,6 +18531,7 @@ sophy.ca
 soporte.latam.playstation.com
 sor.bz
 sorc.me
+sorjq.com
 sorkale.me
 sosi.al
 soso.com
@@ -18673,6 +18694,7 @@ srinkl.ink
 srnk.us
 srpd.ca
 srrink.com
+srrvd.org
 srtl.io
 srtn.us
 srturl.xyz
@@ -22044,6 +22066,7 @@ vudu.com
 vudu.hs.llnwd.net
 vudu.sc.omtrdc.net
 vue.playstation.com
+vugao.org
 vuiet.com
 vulcan.condenastdigital.com
 vulcan.xbox.com
@@ -22055,6 +22078,7 @@ vur.me
 vurl.com
 vurlz.com
 vuukle.com
+vuzyh.com
 vv.vg
 vv.video.qq.com
 vvd.bz
@@ -22188,6 +22212,7 @@ wbox.sinaimg.cn
 wbur.fm
 wbw6.pl
 wbze.de
+wcdqse.com
 wceo.com
 wcha.it
 wcpstatic.microsoft.com
