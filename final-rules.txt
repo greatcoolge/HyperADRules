@@ -6323,7 +6323,6 @@
 @@||dohggte.com^
 @@||doi.org^
 @@||doiop.com^
-@@||dojobe.link^
 @@||dokdo.in^
 @@||dolcegabbana.com^
 @@||dollarlink.net^
@@ -6343,7 +6342,6 @@
 @@||domi.link^
 @@||dominos.co.in^
 @@||dominos.sng.link^
-@@||domixox.com^
 @@||domlink.ink^
 @@||domraider.io^
 @@||donorschoose.org^
@@ -6446,7 +6444,6 @@
 @@||dpurl.cn^
 @@||dqr4.org^
 @@||dr-lisa.life^
-@@||drafthound.link^
 @@||drag.li^
 @@||dramafever.com^
 @@||draw.io^
@@ -6571,7 +6568,6 @@
 @@||dy.si^
 @@||dya.us^
 @@||dyler.co^
-@@||dylink.me^
 @@||dylpta.com^
 @@||dyn.ithome.com^
 @@||dynaimage.cdn.turner.com^
@@ -6659,7 +6655,6 @@
 @@||easyuri.com^
 @@||easyurl.net^
 @@||easyurl.site^
-@@||easyurlshortener.com^
 @@||eat.emmasolutions.net^
 @@||eaxcj.com^
 @@||eazify.net^
@@ -6924,7 +6919,6 @@
 @@||encrypted-tbn1.gstatic.com^
 @@||encrypted-tbn2.gstatic.com^
 @@||encrypted-tbn3.gstatic.com^
-@@||encurta.ae^
 @@||encurtador.com.br^
 @@||encurtador.net^
 @@||encurtee.me^

@@ -2941,7 +2941,6 @@
 @@||doh.dns.apple.com^
 @@||dohggte.com^
 @@||doiop.com^
-@@||dojobe.link^
 @@||dokdo.in^
 @@||dollarlink.net^
 @@||dollinx-hyperlink.vercel.app^
@@ -2951,7 +2950,6 @@
 @@||domainul.com^
 @@||domi.link^
 @@||dominos.sng.link^
-@@||domixox.com^
 @@||domlink.ink^
 @@||doods.sbs^
 @@||doonor.com^
@@ -2997,7 +2995,6 @@
 @@||dpurl.cn^
 @@||dqr4.org^
 @@||dr-lisa.life^
-@@||drafthound.link^
 @@||drag.li^
 @@||dre.li^
 @@||dreamshigh.life^
@@ -3086,7 +3083,6 @@
 @@||dy.si^
 @@||dya.us^
 @@||dyler.co^
-@@||dylink.me^
 @@||dylpta.com^
 @@||dynhyp.com^
 @@||dyo.gs^
@@ -3132,7 +3128,6 @@
 @@||easyuri.com^
 @@||easyurl.net^
 @@||easyurl.site^
-@@||easyurlshortener.com^
 @@||eat.emmasolutions.net^
 @@||eaxcj.com^
 @@||eazify.net^
@@ -3259,7 +3254,6 @@
 @@||encrypted-tbn1.gstatic.com^
 @@||encrypted-tbn2.gstatic.com^
 @@||encrypted-tbn3.gstatic.com^
-@@||encurta.ae^
 @@||encurtador.com.br^
 @@||encurtador.net^
 @@||encurtee.me^

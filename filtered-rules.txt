@@ -6317,7 +6317,6 @@ doh.dns.apple.com
 dohggte.com
 doi.org
 doiop.com
-dojobe.link
 dokdo.in
 dolcegabbana.com
 dollarlink.net
@@ -6337,7 +6336,6 @@ domeneshop.no
 domi.link
 dominos.co.in
 dominos.sng.link
-domixox.com
 domlink.ink
 domraider.io
 donorschoose.org
@@ -6440,7 +6438,6 @@ dpuplet.net
 dpurl.cn
 dqr4.org
 dr-lisa.life
-drafthound.link
 drag.li
 dramafever.com
 draw.io
@@ -6565,7 +6562,6 @@ dy.fi
 dy.si
 dya.us
 dyler.co
-dylink.me
 dylpta.com
 dyn.ithome.com
 dynaimage.cdn.turner.com
@@ -6653,7 +6649,6 @@ easylist.to
 easyuri.com
 easyurl.net
 easyurl.site
-easyurlshortener.com
 eat.emmasolutions.net
 eaxcj.com
 eazify.net
@@ -6918,7 +6913,6 @@ encrypted-tbn0.gstatic.com
 encrypted-tbn1.gstatic.com
 encrypted-tbn2.gstatic.com
 encrypted-tbn3.gstatic.com
-encurta.ae
 encurtador.com.br
 encurtador.net
 encurtee.me
