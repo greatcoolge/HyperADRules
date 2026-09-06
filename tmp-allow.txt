@@ -3647,7 +3647,6 @@
 @@||fwds.to^
 @@||fwk.ai^
 @@||fwme.eu^
-@@||fwr.to^
 @@||fxczav.com^
 @@||fxn.ws^
 @@||fy9.in^
@@ -3786,7 +3785,6 @@
 @@||getlickd.com^
 @@||getlink.at^
 @@||getlink.space^
-@@||getpcp.net^
 @@||getrecipe.pro^
 @@||getshort.in^
 @@||getshorter.com^
