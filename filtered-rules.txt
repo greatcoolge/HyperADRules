@@ -1241,11 +1241,9 @@ agbr.ir
 agentassistcrm.org
 agilean.in
 agileurbia.com
-agirz.com
 agll.ink
 agmd.win
 agoz.me
-agphosting.com
 agr.my
 agrd.io
 agroforestri.id
@@ -1256,7 +1254,6 @@ ahcdn.com
 ahd.ruten.com.tw
 aholink.com
 ahoo.it
-ahpit.cyou
 ai-cdn.duba.net
 ai.blendnow.com
 ai.ly
@@ -1331,7 +1328,6 @@ akm.works
 akoo.ir
 akr.gr
 akses.digital
-akses.gg
 akses.me
 akslot.io
 aktfclick.com
@@ -1342,7 +1338,6 @@ akunnp.com
 akunss.com
 akunsu.com
 akunvip.top
-akunwso.gratis
 al.st
 al4.dev
 alaa.tv
@@ -2602,7 +2597,6 @@ app.snapchat.com
 app.stumbleupon.com
 app.syndicaster.tv
 app.tagii.io
-app.the-pro.info
 app.tr.adjust.com
 app.twitch.tv
 app.univ-cotedazur.fr
@@ -2899,7 +2893,6 @@ at.vibe.com
 at0m.de
 ata.ink
 ataew.com
-atag.pk
 ateng.me
 atglinks.com
 ath-web.com
@@ -3135,7 +3128,6 @@ b4y.net
 b51.tw
 b54.in
 b6.me
-b6e.cn
 b808.bet
 b9d.me
 baas.kr
@@ -3271,7 +3263,6 @@ beautyfitnesshealth.com
 bebe.com
 bebuiltllc.com
 bec.ltd
-becakrcg.xyz
 becsn.net
 bedbathandbeyond.com
 bee-kz.life
@@ -5746,7 +5737,6 @@ cuttly.pro
 cutto.io
 cutts.in
 cutturl.xyz
-cuturl.cloud
 cuturl.com
 cuturl.net
 cutwin.com
@@ -6038,7 +6028,6 @@ dell.com
 dell.to
 deloi.tt
 delphin.link
-delta.live
 demandbase.com
 demcon24.com
 demo-api.hitbtc.com
@@ -6207,7 +6196,6 @@ dik.si
 dimg04.c-ctrip.com
 dingtalk.com
 direct.cardgifters.com
-direct.learnspread.io
 direct.me
 direct.minifun.games
 direct.shots.snap.com
@@ -7483,7 +7471,6 @@ fi.m.wikipedia.com
 fi.ro
 fi.statcounter.com
 fi.wikipedia.com
-fi9.ir
 fiatconnect.app
 fibr.ai
 fic.my.id
@@ -7616,7 +7603,6 @@ flip.it
 flipboard.com
 flipkart.com
 fliplink.eu
-fliplink.io
 flipp.com
 flipper.flipboard.com
 flixcart.com
@@ -8837,7 +8823,6 @@ got.cr
 got.to
 gotds.ru
 gotinder.com
-gotlink.me
 goto.clickfunnels.com
 goto.cream.org
 goto.jet.com
@@ -8919,7 +8904,6 @@ greasyfork.org
 great.kaspersky.com
 greenhouse.io
 grem.io
-gresham.life
 grey-sphere-536600.framer.app
 greyhive.io
 grgmr.com
@@ -9153,7 +9137,6 @@ heise.de
 hello.myfonts.net
 hellokity.xyz
 hellotxt.com
-hellowork.life
 helo.ai
 help-assets.soundcloud.com
 help-m.line.me
@@ -11670,7 +11653,6 @@ linkme.vn
 linkmeow.com
 linkmix.co
 linkmngr.com
-linkmonet.com
 linkmpomax.live
 linkmu.cyou
 linkmybrand.com
@@ -12875,7 +12857,6 @@ mdcdev.me
 mdcr1.com
 mdgram.app
 mdidesign.ca
-mdklt.com
 mdl.coach
 mdl.town
 mdl29.net
@@ -13124,7 +13105,6 @@ mikale.me
 mikgr.si
 milc.io
 milink.pandora.xiaomi.com
-millerreception.com
 millhive.co.uk
 mimc.chat.xiaomi.net
 mime.baidu.com
@@ -14853,7 +14833,6 @@ opli.xyz
 oplink.club
 opn.my
 oppo.com
-opportunityonlinebusiness.com
 opr.as
 opr.news
 oprah.com
@@ -15406,7 +15385,6 @@ pic7.iqiyipic.com
 pic8.58cdn.com.cn
 picasso-static.xiaohongshu.com
 pich.in
-picklink.me
 pics.ebaystatic.com
 pics.hentai.name
 picsee.co
@@ -17901,7 +17879,6 @@ shortenx.com
 shorter.gg
 shorter.io.vn
 shorter.me
-shorterall.com
 shorterflix.com
 shorterit.com
 shorterlink.app
@@ -17914,7 +17891,6 @@ shortfake.com
 shortfree.link
 shortgo.me
 shorti.me
-shortico.in
 shortie.io
 shortify.pro
 shortifylinks.com
@@ -18049,14 +18025,9 @@ shorturlapp.com
 shorturlbot.com
 shorturlhub.com
 shorturlmagic.link
-shorturls.asia
 shorturls.at
-shorturls.click
 shorturls.co.uk
-shorturls.fyi
 shorturls.me
-shorturls.my
-shorturls.us
 shorturlss.com
 shorturlx.com
 shortwave.pro
@@ -18521,9 +18492,7 @@ snifferip.com
 snip.im
 snip.ly
 snip.ng
-snipi.io
 snipify.net
-snipit.in
 snipitx.com
 snipix.tech
 sniplink.co
@@ -19148,7 +19117,6 @@ stickers.viber.com
 stileproject.com
 stitcher.com
 stitcher.pluto.tv
-stke.xyz
 stllna.com
 stmodel.com
 stnonline.com
@@ -19470,7 +19438,6 @@ supr.cl
 supr.link
 supurlman.com
 sur.ly
-sura.pw
 surayafans.com
 surf.plus.google.com
 surfspot.nl
@@ -19488,7 +19455,6 @@ surl.ro
 surl.scrapc.com
 surl.sdental.co
 surlgo.com
-surlz.com
 surrit.com
 survey-blog.line.me
 survey-ng.indevice.sonymobile.com
@@ -19801,7 +19767,6 @@ tapad.com
 tapetco.vn
 tapfiliate.com
 taplink.cc
-tapm.ee
 tapme.ink
 tapmy.app
 tapper.ai
@@ -19899,7 +19864,6 @@ teespring.com
 teil.cc
 tek.io
 tekan.in
-teknut.com
 tel-u.ac.id
 tel.fe01.hh.xiaomi.com
 telega.io
@@ -20488,7 +20452,6 @@ track.grove.co
 track.gumroad.com
 track.iktrack.com
 track.izhuama.com
-track.joesdollars.com
 track.m2.sendlayer.net
 track.mdrctr.com
 track.mfilter.net
@@ -20938,7 +20901,6 @@ u.wechat.com
 u0c.net
 u1.mnge.co
 u2.to
-u2l.io
 u2s.ca
 u2s.tn
 u301.com
@@ -21415,7 +21377,6 @@ urlgc.com
 urlgeni.us
 urlgit.com
 urlgle.com
-urlgo.ca
 urlgo.fr
 urlhaus.abuse.ch
 urlhawk.com
@@ -21514,7 +21475,6 @@ urlshortener.co.uk
 urlshortener.mahamafzar.com
 urlshortener.pro
 urlshortener.site
-urlshortenerking.com
 urlshortenerr.live
 urlshortenertool.com
 urlshortenervip.com
@@ -21780,7 +21740,6 @@ v6.pic.upqzfile.com
 v68.io
 v6lvs.com
 v7.stats.avast.com
-v7c.cn
 v7event.stats.avast.com
 v9-mllqsv.onewsvod.com
 va.gov
@@ -22243,7 +22202,6 @@ wallhaven.cc
 wallpaper.cdn.pandora.xiaomi.com
 wallpaper.pandora.xiaomi.com
 wallpaperm.cmcm.com
-walmart-to.com
 walmart.com
 waltersauto.net
 wandoujia.com
@@ -22733,7 +22691,6 @@ wu.vc
 wufoo.com
 wun.io
 wunderground.com
-wuniw.com
 wup.imtt.qq.com
 wurl.nl
 wurlie.net
@@ -24289,7 +24246,6 @@ x7.lv
 x89.us
 xaddr.com
 xailr.com
-xav.cc
 xavo.wtf
 xb5.com
 xbext.com
@@ -24429,7 +24385,6 @@ xtglinks.com
 xth.me
 xtr.bz
 xtre.me
-xua.me
 xub.me
 xueqiu.com
 xuite.net
@@ -24688,7 +24643,6 @@ zazhipu.com
 zb.mi.com
 zbitly.com
 zc.vg
-zcays.com
 zcbprod.alipay.com
 zconfig.alibabausercontent.com
 zctz.me
