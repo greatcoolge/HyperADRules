@@ -6162,7 +6162,6 @@ dibb.me
 dic.daum.net
 dic.naver.com
 dic.nicovideo.jp
-dicht.digital
 dickssportinggoods.com
 dicordapp.com
 dict.leo.org
@@ -6406,7 +6405,6 @@ dot.tk
 dotalink.com
 dotcomsecrets.com
 dotjournal.net
-dotshrt.com
 dotsth.co
 doturl.io
 doubanio.com
@@ -6488,7 +6486,6 @@ dpm.demdex.net
 dpmd.ai
 dpo.st
 dps.media
-dpuplet.net
 dpurl.cn
 dqr4.org
 dr-lisa.life
@@ -10987,7 +10984,6 @@ kutt.co.in
 kutt.comodo.com
 kutt.crmgroup.ru
 kutt.csweb.cloud
-kutt.droppii.vn
 kutt.druidry.org
 kutt.ecoat.us
 kutt.gongchatea.com.au
@@ -13335,6 +13331,7 @@ mkto-ab630042.com
 mkto-ab640171.com
 mkto-ab650025.com
 mkto-ab650172.com
+mkto-ab660066.com
 mkto-ab660168.com
 mkto-ab680016.com
 mkto-ab690062.com
