@@ -6814,6 +6814,7 @@
 @@||eds.xboxlive.com^
 @@||edu.nl^
 @@||education.ti.com^
+@@||edurl.fr^
 @@||edze.me^
 @@||ee.ci^
 @@||ee9.ir^
@@ -7057,7 +7058,6 @@
 @@||eroterest.net^
 @@||err.taobao.com^
 @@||error.facebook.com^
-@@||eru2earn.com^
 @@||erw.cz^
 @@||es-es.about.flipboard.com^
 @@||es-mx.twitch.tv^
@@ -11415,7 +11415,6 @@
 @@||link.digitaladvisor.dk^
 @@||link.dith2.com^
 @@||link.dstrct.at^
-@@||link.dvlog.vn^
 @@||link.easwipe.com^
 @@||link.ee^
 @@||link.elos.vc^
@@ -14093,7 +14092,6 @@
 @@||nej.md^
 @@||nejmqianyan.cn^
 @@||neo.am^
-@@||neoengage-va-cdn.exponea.com^
 @@||neonslug.com^
 @@||neontools.io^
 @@||neoplanet.snap.com^
