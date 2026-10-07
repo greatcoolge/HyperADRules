@@ -9265,7 +9265,6 @@
 @@||hivy.net^
 @@||hjkl.fr^
 @@||hjl.me^
-@@||hjsrs.com^
 @@||hk.mibi.xiaomi.com^
 @@||hk.pool.ntp.org^
 @@||hk.ynuf.aliapp.org^
@@ -9340,7 +9339,6 @@
 @@||homestead.com^
 @@||hon.fiu.edu^
 @@||honda800storage.com^
-@@||honeyurl.com^
 @@||honkaiimpact3.hoyoverse.com^
 @@||hoo.be^
 @@||hook2.us^
@@ -9459,7 +9457,6 @@
 @@||hub5pn.wap.sandai.net^
 @@||hubble.mb-cosmos.com^
 @@||hubciddata.sandai.net^
-@@||hubenar.com^
 @@||hubet.run^
 @@||hubpd.com^
 @@||hubs.la^
