@@ -382,6 +382,8 @@
 316.coolapk1s.com
 31productions.de
 321url.com
+341676991.group0.sites.hscoscdn-na3.net
+341850582.group0.sites.hscoscdn-na3.net
 350.my
 360.cn
 360links.net
@@ -447,6 +449,7 @@
 45h.it
 46.fi
 47.de
+47587921.group0.sites.hscoscdn-ap1.net
 48609.activity-42.m.duiba.com.cn
 48l.ir
 49r.de
@@ -1272,7 +1275,6 @@ agll.ink
 agmd.win
 agoz.me
 agr.my
-agrd.io
 agroforestri.id
 agrolink.me
 agt.fyi
@@ -2220,6 +2222,7 @@ api-edge.cognitive.microsofttranslator.com
 api-embedded.soundcloud.com
 api-eu.cleverpush.com
 api-eu1.hubapi.com
+api-fra02-origin.hubapi.com
 api-game.meizu.com
 api-glb.smoot.apple.com
 api-global.netflix.com
@@ -2332,6 +2335,7 @@ api.ent.apple.com
 api.entrance.sonymobile.com
 api.erabu.sony.tv
 api.erabu.sonymobile.com
+api.eu1.hubapi.com
 api.exchange.coinbase.com
 api.facebook.com
 api.fast.com
@@ -2638,6 +2642,7 @@ app.zhuanzhuan.com
 app1a.gateway.portal.outreach.io
 app1a.outreach.io
 app1a.portal.outreach.io
+app1b.outreach.io
 app1b.portal.outreach.io
 app1c.gateway.portal.outreach.io
 app1c.outreach.io
@@ -3459,7 +3464,6 @@ bio.bayoli.com
 bio.hypexstudio.com
 bio.laormedia.com
 bio.link
-bio.meuhub.com
 bio.mytsi.org
 bio.ovh
 bio.recards.net
@@ -10693,7 +10697,6 @@ kaptcha.com
 karanpc.com
 karl.fail
 karthik.coach
-kas.pr
 kash.ly
 kashly.net
 kask.us
@@ -10710,7 +10713,6 @@ kaz.sk
 kazma.bio
 kb.adguard.com
 kbank.co
-kbit.co
 kbitly.com
 kbqxmo.com
 kccim.ir
@@ -11145,7 +11147,6 @@ lcdn-locator.apple.com.akadns.net
 lcdn-registration.apple.com
 lck.me
 lcp.ovh
-lcra-tamu.org
 lcs.naver.com
 lcut.in
 lddy.no
@@ -11334,7 +11335,6 @@ lil.ge
 lil.so
 lilbt.com
 lillink.net
-lillink.xyz
 lilllil.ru
 lilnk.to
 lilo.org
@@ -11536,7 +11536,6 @@ linkconnector.com
 linkcrafter.com
 linkcut.io
 linkcut.net
-linkcut.tr
 linkcutt.com
 linkd.in
 linkd.nz
@@ -11745,7 +11744,6 @@ linkshrink.org
 linksi.me
 linksimple.io
 linksimplify.com
-linksite.bio
 linkslave.com
 linkslice.io
 linkslice.vercel.app
@@ -11762,7 +11760,6 @@ linksqueeze.io
 linksredirect.com
 linksshift.com
 linkstack.co
-linkste.com
 linkstracer.com
 linksubmit.net
 linksumo.com
@@ -11781,11 +11778,9 @@ linkti.mx
 linkto.eu
 linktop.site
 linktr.ee
-linktrack.app
 linktrack.ihsansoloads.com
 linktransform.com
 linktrap.co
-linktrimmer.com
 linktw.in
 linkulb.com
 linkunshorten.com
@@ -11818,7 +11813,6 @@ linode.com
 linply.com
 linq.ist
 linqer.me
-linqr.cc
 linqry.com
 linqup.in
 lintlink.com
@@ -11990,14 +11984,12 @@ lnk.tu-bs.de
 lnk.vn
 lnk2.im
 lnk2.ro
-lnkbits.com
 lnkd.in
 lnkdin.link
 lnkit.de
 lnkiy.com
 lnkiy.in
 lnkly.click
-lnkly.tech
 lnkm.ee
 lnkmob.com
 lnkp.io
@@ -12800,9 +12792,7 @@ maxurlz.com
 maxvan.co
 maxvancollenburg.com
 maxwin.top
-maxwinku.me
 mayaediciones.com
-mayalink.my
 mayedu.ec
 mayocl.in
 mayoclinic.org
@@ -13298,7 +13288,6 @@ mkto-ab480015.com
 mkto-ab480166.com
 mkto-ab500022.com
 mkto-ab520004.com
-mkto-ab530057.com
 mkto-ab530192.com
 mkto-ab540143.com
 mkto-ab550041.com
@@ -13332,14 +13321,13 @@ mkto-ab690064.com
 mkto-ab690132.com
 mkto-ab700044.com
 mkto-abb0069.com
-mkto-abc0038.com
 mkto-abc0114.com
 mkto-abc0203.com
+mkto-abc0232.com
 mkto-abc0241.com
 mkto-abd0218.com
 mkto-abj0022.com
 mkto-abm0065.com
-mkto-abm0229.com
 mkto-abm0255.com
 mkto-b0025.com
 mkto-c0100.com
@@ -13368,6 +13356,7 @@ mkto-lon050200.com
 mkto-lon060128.com
 mkto-lon060131.com
 mkto-lon060180.com
+mkto-lon060196.com
 mkto-lon060217.com
 mkto-lon070075.com
 mkto-lon070192.com
@@ -13386,6 +13375,7 @@ mkto-lon100192.com
 mkto-m0106.com
 mkto-m0111.com
 mkto-mlm10010008.com
+mkto-mlm10030005.com
 mkto-mlm10040018.com
 mkto-mlm20020041.com
 mkto-n0092.com
@@ -13410,6 +13400,7 @@ mkto-nld1050007.com
 mkto-nld1050048.com
 mkto-nld1050103.com
 mkto-nld1050130.com
+mkto-nld1050131.com
 mkto-nld1050142.com
 mkto-nld1050156.com
 mkto-nld1050162.com
@@ -13424,6 +13415,7 @@ mkto-sj040148.com
 mkto-sj040252.com
 mkto-sj050029.com
 mkto-sj050106.com
+mkto-sj050142.com
 mkto-sj050202.com
 mkto-sj050237.com
 mkto-sj070141.com
@@ -13440,7 +13432,6 @@ mkto-sj160014.com
 mkto-sj160211.com
 mkto-sj170174.com
 mkto-sj180011.com
-mkto-sj190094.com
 mkto-sj190104.com
 mkto-sj200186.com
 mkto-sj200191.com
@@ -13478,6 +13469,7 @@ mkto-sj400023.com
 mkto-sjg0030.com
 mkto-sjh0084.com
 mkto-sjh0178.com
+mkto-sji0033.com
 mkto-sji0183.com
 mkto-sn010116.com
 mkto-sn030149.com
@@ -17778,7 +17770,6 @@ short.ie
 short.innews.gr
 short.io
 short.iuav.it
-short.lokuads.com
 short.ly
 short.ms
 short.mypaste.fun
@@ -18239,10 +18230,8 @@ siteonizleme.com.tr
 sitepoint.com
 sites.engadget.com
 sites.google.com
-sites.hscoscdn-ap1.net
 sites.hscoscdn-eu1.net
 sites.hscoscdn-na2.net
-sites.hscoscdn-na3.net
 sites.hscoscdn00.net
 sites.hscoscdn10.net
 sites.hscoscdn20.net
