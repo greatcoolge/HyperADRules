@@ -455,7 +455,6 @@
 @@||45h.it^
 @@||46.fi^
 @@||47.de^
-@@||47587921.group0.sites.hscoscdn-ap1.net^
 @@||48609.activity-42.m.duiba.com.cn^
 @@||48l.ir^
 @@||49r.de^
@@ -2228,7 +2227,6 @@
 @@||api-embedded.soundcloud.com^
 @@||api-eu.cleverpush.com^
 @@||api-eu1.hubapi.com^
-@@||api-fra02-origin.hubapi.com^
 @@||api-game.meizu.com^
 @@||api-glb.smoot.apple.com^
 @@||api-global.netflix.com^
@@ -2341,7 +2339,6 @@
 @@||api.entrance.sonymobile.com^
 @@||api.erabu.sony.tv^
 @@||api.erabu.sonymobile.com^
-@@||api.eu1.hubapi.com^
 @@||api.exchange.coinbase.com^
 @@||api.facebook.com^
 @@||api.fast.com^
@@ -3214,6 +3211,7 @@
 @@||banners.livepartners.com^
 @@||banners.spiceworks.com^
 @@||baoyung.com^
+@@||bapi-01.moengage.com^
 @@||bapi-02.moengage.com^
 @@||bapi-04.moengage.com^
 @@||bapi.flipboard.com^
@@ -5598,7 +5596,6 @@
 @@||cryptolabpro.com^
 @@||cryptopia.co.nz^
 @@||cryptowidgets.site^
-@@||cs.co^
 @@||cs.daum.net^
 @@||cs.gravatar.com^
 @@||cs.mbgame.gamesafe.qq.com^
@@ -12257,6 +12254,7 @@
 @@||m-42m67.custobar.com^
 @@||m-4wovq.custobar.com^
 @@||m-54yud.custobar.com^
+@@||m-55aim.custobar.com^
 @@||m-5fwyg.custobar.com^
 @@||m-5gene.custobar.com^
 @@||m-6pyms.custobar.com^
@@ -13071,9 +13069,7 @@
 @@||microsoftfiles.live^
 @@||microsoftonline.com^
 @@||microsoftwindowsupdate.net^
-@@||microurl.in^
 @@||microurl.org^
-@@||microurls.io^
 @@||midas.gtimg.cn^
 @@||midiavip.com^
 @@||miffy.me^
@@ -13239,7 +13235,6 @@
 @@||mkto-ab240175.com^
 @@||mkto-ab250068.com^
 @@||mkto-ab250105.com^
-@@||mkto-ab250167.com^
 @@||mkto-ab260164.com^
 @@||mkto-ab270090.com^
 @@||mkto-ab270109.com^
@@ -13294,10 +13289,10 @@
 @@||mkto-ab480166.com^
 @@||mkto-ab500022.com^
 @@||mkto-ab520004.com^
+@@||mkto-ab530057.com^
 @@||mkto-ab530192.com^
 @@||mkto-ab540143.com^
 @@||mkto-ab550041.com^
-@@||mkto-ab550140.com^
 @@||mkto-ab550184.com^
 @@||mkto-ab560068.com^
 @@||mkto-ab560119.com^
@@ -13879,7 +13874,6 @@
 @@||myip.kr^
 @@||mylife.com^
 @@||mylink.ai.in^
-@@||mylinkbio.com^
 @@||mylinkbr.com^
 @@||mylinkd.in^
 @@||mylinkinb.io^
@@ -14002,7 +13996,6 @@
 @@||nahnoji.cz^
 @@||naifei.shop^
 @@||naik-terus.com^
-@@||nakama420.xyz^
 @@||nal.la^
 @@||nalo.life^
 @@||nam02.safelinks.protection.outlook.com^
@@ -14016,7 +14009,6 @@
 @@||nanopi.org^
 @@||nanopool.org^
 @@||nanorep.com^
-@@||nanourl.in^
 @@||nanourl.org^
 @@||nanuba.com^
 @@||naomy.cdntrex.com^
@@ -14047,8 +14039,6 @@
 @@||navercast.naver.com^
 @@||navismithapis-cdn.com^
 @@||nawala.my^
-@@||nawalaku.com^
-@@||nawawinews.site^
 @@||nayemador.com^
 @@||nazwa.pl^
 @@||nb.gravatar.com^
@@ -14315,7 +14305,6 @@
 @@||nodes2.cryptopia.co.nz^
 @@||nofnec.live^
 @@||nog.im^
-@@||nogfan.com^
 @@||nokia.ly^
 @@||nolp.dhl.de^
 @@||nom77.one^
@@ -14594,7 +14583,6 @@
 @@||ocsp2.apple.com^
 @@||oct.assets.appreciatehub.com^
 @@||ocul.us^
-@@||ocurto.com^
 @@||odc.officeapps.live.com^
 @@||odcdn.com^
 @@||odinurl.com^
@@ -14647,7 +14635,6 @@
 @@||ok2.com^
 @@||okdc.me^
 @@||oke.io^
-@@||okebio.com^
 @@||okk.link^
 @@||okk.ma^
 @@||okniu.com^
@@ -14659,7 +14646,6 @@
 @@||okurl.me^
 @@||okurl.net^
 @@||oky.li^
-@@||olbika.com^
 @@||oldmutualsa.com^
 @@||oli.vi^
 @@||olii.me^
@@ -14859,7 +14845,6 @@
 @@||orders.coinmarketcap.com^
 @@||orders.costco.com^
 @@||ore.do^
-@@||orek.app^
 @@||org-ap.samsung.com^
 @@||org-fota-dn.ospserver.net^
 @@||org.downloadcenter.samsung.com^
@@ -18236,6 +18221,7 @@
 @@||sitepoint.com^
 @@||sites.engadget.com^
 @@||sites.google.com^
+@@||sites.hscoscdn-ap1.net^
 @@||sites.hscoscdn-eu1.net^
 @@||sites.hscoscdn-na2.net^
 @@||sites.hscoscdn00.net^

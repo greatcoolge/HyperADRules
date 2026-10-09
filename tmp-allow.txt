@@ -289,7 +289,6 @@
 @@||45h.it^
 @@||46.fi^
 @@||47.de^
-@@||47587921.group0.sites.hscoscdn-ap1.net^
 @@||48609.activity-42.m.duiba.com.cn^
 @@||48l.ir^
 @@||49r.de^
@@ -1060,7 +1059,6 @@
 @@||api-edge.cognitive.microsofttranslator.com^
 @@||api-eu.cleverpush.com^
 @@||api-eu1.hubapi.com^
-@@||api-fra02-origin.hubapi.com^
 @@||api-mobile.cleverpush.com^
 @@||api-n0vadp-static.hoyoverse.com^
 @@||api-na1.hubapi.com^
@@ -1077,7 +1075,6 @@
 @@||api.edu.apple.com^
 @@||api.elasticemail.com^
 @@||api.ent.apple.com^
-@@||api.eu1.hubapi.com^
 @@||api.heylink.com^
 @@||api.huangye.miui.com^
 @@||api.hubapi.com^
@@ -1439,6 +1436,7 @@
 @@||bannercho.com^
 @@||banners.livepartners.com^
 @@||baoyung.com^
+@@||bapi-01.moengage.com^
 @@||bapi-02.moengage.com^
 @@||bapi-04.moengage.com^
 @@||baratun.de^
@@ -2609,7 +2607,6 @@
 @@||crwdstr.ke^
 @@||crypsante.com^
 @@||cryptowidgets.site^
-@@||cs.co^
 @@||csb-cdn.exponea.com^
 @@||csd.dotomi.com^
 @@||cse3.chausport.com^
@@ -6255,6 +6252,7 @@
 @@||m-42m67.custobar.com^
 @@||m-4wovq.custobar.com^
 @@||m-54yud.custobar.com^
+@@||m-55aim.custobar.com^
 @@||m-5fwyg.custobar.com^
 @@||m-5gene.custobar.com^
 @@||m-6pyms.custobar.com^
@@ -6613,9 +6611,7 @@
 @@||microsoft.com^
 @@||microsoftaistories.com^
 @@||microsoftfiles.live^
-@@||microurl.in^
 @@||microurl.org^
-@@||microurls.io^
 @@||midas.gtimg.cn^
 @@||midiavip.com^
 @@||miffy.me^
@@ -6722,7 +6718,6 @@
 @@||mkto-ab240175.com^
 @@||mkto-ab250068.com^
 @@||mkto-ab250105.com^
-@@||mkto-ab250167.com^
 @@||mkto-ab260164.com^
 @@||mkto-ab270090.com^
 @@||mkto-ab270109.com^
@@ -6777,10 +6772,10 @@
 @@||mkto-ab480166.com^
 @@||mkto-ab500022.com^
 @@||mkto-ab520004.com^
+@@||mkto-ab530057.com^
 @@||mkto-ab530192.com^
 @@||mkto-ab540143.com^
 @@||mkto-ab550041.com^
-@@||mkto-ab550140.com^
 @@||mkto-ab550184.com^
 @@||mkto-ab560068.com^
 @@||mkto-ab560119.com^
@@ -7176,7 +7171,6 @@
 @@||myikoniq.info^
 @@||myip.kr^
 @@||mylink.ai.in^
-@@||mylinkbio.com^
 @@||mylinkbr.com^
 @@||mylinkd.in^
 @@||mylinkinb.io^
@@ -7267,12 +7261,10 @@
 @@||nagakuat.com^
 @@||nah.uy^
 @@||naik-terus.com^
-@@||nakama420.xyz^
 @@||nal.la^
 @@||nalo.life^
 @@||name.ly^
 @@||nanatech.live^
-@@||nanourl.in^
 @@||nanourl.org^
 @@||nanuba.com^
 @@||napmkt.com^
@@ -7289,8 +7281,6 @@
 @@||nav.porsche.com^
 @@||naver.me^
 @@||nawala.my^
-@@||nawalaku.com^
-@@||nawawinews.site^
 @@||nbc4dc.com^
 @@||nbcbay.com^
 @@||nbcchi.com^
@@ -7410,7 +7400,6 @@
 @@||no404.de^
 @@||nofnec.live^
 @@||nog.im^
-@@||nogfan.com^
 @@||nokia.ly^
 @@||nom77.one^
 @@||noni.bio^
@@ -7516,7 +7505,6 @@
 @@||ocsp.digicert.com^
 @@||ocsp2.apple.com^
 @@||ocul.us^
-@@||ocurto.com^
 @@||odinurl.com^
 @@||oe.cd^
 @@||oerk.at^
@@ -7548,7 +7536,6 @@
 @@||ok2.com^
 @@||okdc.me^
 @@||oke.io^
-@@||okebio.com^
 @@||okk.link^
 @@||okk.ma^
 @@||okniu.com^
@@ -7560,7 +7547,6 @@
 @@||okurl.me^
 @@||okurl.net^
 @@||oky.li^
-@@||olbika.com^
 @@||oldmutualsa.com^
 @@||oli.vi^
 @@||olii.me^
@@ -7673,7 +7659,6 @@
 @@||orbe.me^
 @@||orders.costco.com^
 @@||ore.do^
-@@||orek.app^
 @@||oriurl.com^
 @@||orll.cc^
 @@||orlo.uk^
@@ -9699,6 +9684,7 @@
 @@||sitedetour.com^
 @@||sitegpl.com^
 @@||siteonizleme.com.tr^
+@@||sites.hscoscdn-ap1.net^
 @@||sites.hscoscdn-eu1.net^
 @@||sites.hscoscdn-na2.net^
 @@||sites.hscoscdn00.net^
