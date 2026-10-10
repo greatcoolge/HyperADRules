@@ -14931,7 +14931,6 @@ ovp-loader.flowplayer.com
 ovp.flowplayer.com
 ow.ly
 ow.nl
-owalska.com
 owarisubs.lacumpa.biz
 owl.li
 owl.ly
@@ -15070,7 +15069,6 @@ pagetie.com
 pagseguro.uol.com.br
 painthegame.playstation.com
 pairedinparadise.live
-paksa.click
 palpatecricketmajesty.com
 pamethelabel.info
 pan-cdn.exponea.com
@@ -15154,7 +15152,6 @@ paths.to
 pathslab.com
 paulfredrick.com
 paut.to
-pavleka.com
 pawl.bio
 pay.bilibili.com
 pay.bithumb.com

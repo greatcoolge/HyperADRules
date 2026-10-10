@@ -7706,7 +7706,6 @@
 @@||ovmro.uk^
 @@||ow.ly^
 @@||ow.nl^
-@@||owalska.com^
 @@||owl.li^
 @@||owlti.ng^
 @@||owly.site^
@@ -7803,7 +7802,6 @@
 @@||pages.github.com^
 @@||pagetie.com^
 @@||pairedinparadise.live^
-@@||paksa.click^
 @@||palpatecricketmajesty.com^
 @@||pamethelabel.info^
 @@||pan-cdn.exponea.com^
@@ -7847,7 +7845,6 @@
 @@||paths.to^
 @@||pathslab.com^
 @@||paut.to^
-@@||pavleka.com^
 @@||pawl.bio^
 @@||pay.bilibili.com^
 @@||pay.openspeech.cn^
