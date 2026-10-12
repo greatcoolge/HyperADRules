@@ -289,7 +289,6 @@
 @@||45h.it^
 @@||46.fi^
 @@||47.de^
-@@||47587921.group0.sites.hscoscdn-ap1.net^
 @@||48609.activity-42.m.duiba.com.cn^
 @@||48l.ir^
 @@||49r.de^
@@ -585,6 +584,7 @@
 @@||accesstrade.net^
 @@||accntu.re^
 @@||acconpit.com^
+@@||accorcia.to^
 @@||accorcio.it^
 @@||account.agiso.com^
 @@||account.apple.com^
@@ -1151,7 +1151,6 @@
 @@||app1a.gateway.portal.outreach.io^
 @@||app1a.outreach.io^
 @@||app1a.portal.outreach.io^
-@@||app1b.outreach.io^
 @@||app1b.portal.outreach.io^
 @@||app1c.gateway.portal.outreach.io^
 @@||app1c.outreach.io^
@@ -6261,6 +6260,7 @@
 @@||m-b2o72.custobar.com^
 @@||m-bcta6.custobar.com^
 @@||m-bsp.custobar.com^
+@@||m-bzp7z.custobar.com^
 @@||m-c5a3m.custobar.com^
 @@||m-eqxt2.custobar.com^
 @@||m-fi32s.custobar.com^
@@ -7299,7 +7299,6 @@
 @@||neflixenomovies.com^
 @@||nej.md^
 @@||neo.am^
-@@||neoengage-va-cdn.exponea.com^
 @@||neonslug.com^
 @@||neontools.io^
 @@||nepolls.com^
@@ -7417,7 +7416,6 @@
 @@||notlong.com^
 @@||nov.io^
 @@||nov.link^
-@@||novaurllight.wexisstudios.com^
 @@||novelfm.changdunovel.com^
 @@||novelfm.zlink.toutiao.com^
 @@||now.sh^
@@ -9666,6 +9664,7 @@
 @@||sitedetour.com^
 @@||sitegpl.com^
 @@||siteonizleme.com.tr^
+@@||sites.hscoscdn-ap1.net^
 @@||sites.hscoscdn-eu1.net^
 @@||sites.hscoscdn-na2.net^
 @@||sites.hscoscdn00.net^
@@ -10710,7 +10709,6 @@
 @@||tiny.us^
 @@||tiny123.com^
 @@||tiny1z.com^
-@@||tinyard.co^
 @@||tinyarro.ws^
 @@||tinybit.cc^
 @@||tinybro.com^
@@ -10869,7 +10867,6 @@
 @@||toofficialwebsite.com^
 @@||toolaxy.com^
 @@||toolbites.com^
-@@||toolboxdaily.com^
 @@||toolify.link^
 @@||toolking.net^
 @@||toolkingo.com^
@@ -10886,7 +10883,6 @@
 @@||toplistt.com^
 @@||topt.al^
 @@||topurl.cc^
-@@||topvir.com^
 @@||tori.top^
 @@||toskys.cn^
 @@||toss.is^
@@ -11039,15 +11035,11 @@
 @@||travelmarketingandmedia.com^
 @@||travl.rs^
 @@||trbs.link^
-@@||trceme.com^
-@@||trck.biz^
 @@||trck.easy-m.de^
 @@||trck.fttrck.net^
-@@||trck.gg^
 @@||trck.me^
 @@||trck.wargaming.net^
 @@||tres.at^
-@@||treszki.com^
 @@||trezurl.ir^
 @@||tri.ps^
 @@||trib.al^
@@ -11101,8 +11093,6 @@
 @@||trk.wewotrk.com^
 @@||trk.zaptk.com^
 @@||trk2.genieshopping.com^
-@@||trk24.com^
-@@||trkjkamaret.com^
 @@||trkn.us^
 @@||trkr.ws^
 @@||trkrcc.com^
@@ -11248,7 +11238,6 @@
 @@||tyny.me^
 @@||tyny.to^
 @@||typit.in^
-@@||tyrano-shortener.in^
 @@||tyurl.ch^
 @@||tyx.me^
 @@||tyzdg.com^
@@ -11432,7 +11421,6 @@
 @@||uri.im^
 @@||uri.to^
 @@||uriok.com^
-@@||urjasi.com^
 @@||urkbfb.com^
 @@||url-api.babayev.us^
 @@||url-l.com^
@@ -11531,7 +11519,6 @@
 @@||url.yousufraissi.xyz^
 @@||url.zeus27.com^
 @@||url1.io^
-@@||url11xx.com^
 @@||url127x.com^
 @@||url12xx.com^
 @@||url2.fr^
@@ -11593,7 +11580,6 @@
 @@||urlcut.at^
 @@||urlcut.ch^
 @@||urlcut.com^
-@@||urlcut.in^
 @@||urlday.cc^
 @@||urlday.com^
 @@||urldeclic.com^
@@ -11640,7 +11626,6 @@
 @@||urlist.net^
 @@||urlkai.com^
 @@||urlki.com^
-@@||urlkit.site^
 @@||urlklix.com^
 @@||urlkr.com^
 @@||urlkw.com^
@@ -11663,7 +11648,6 @@
 @@||urlo.in^
 @@||urlo12x.com^
 @@||urlot.com^
-@@||urlpi.com^
 @@||urlplus.net^
 @@||urlpoints.com^
 @@||urlq.com^
@@ -11671,7 +11655,6 @@
 @@||urlra.com^
 @@||urlro.com^
 @@||urlroot.com^
-@@||urlroxx.com^
 @@||urlrw.com^
 @@||urls-short.de^
 @@||urls-shortener.eu^
@@ -11714,7 +11697,6 @@
 @@||urlshortenerr.live^
 @@||urlshortenertool.com^
 @@||urlshortenervip.com^
-@@||urlshortenerx.com^
 @@||urlshortening.webalias.com^
 @@||urlshortly.com^
 @@||urlshortn.com^
@@ -11723,7 +11705,6 @@
 @@||urlshortx.com^
 @@||urlshortx.io^
 @@||urlshorty.metaapps.com^
-@@||urlshoter.com^
 @@||urlshtr.com^
 @@||urlsmall.com^
 @@||urlsminify.com^
@@ -11834,7 +11815,6 @@
 @@||uxkjp.org^
 @@||uxo.link^
 @@||uzip.ir^
-@@||uzurl.com^
 @@||v-c.link^
 @@||v-it.in^
 @@||v-k.pw^
@@ -11850,7 +11830,6 @@
 @@||v1m.net^
 @@||v26-fq-tts.fqnovelvod.com^
 @@||v26-novelapp.fqnovelvod.com^
-@@||v2g.live^
 @@||v2links.com^
 @@||v3-fq-tts.fqnovelvod.com^
 @@||v3-novelapp.fqnovelvod.com^
@@ -11908,14 +11887,12 @@
 @@||veja.me^
 @@||velink.me^
 @@||vena.sh^
-@@||vendoagora.live^
 @@||venkateswaragases.com^
 @@||venocards.com^
 @@||ventia.app^
 @@||vercel.link^
 @@||verd.in^
 @@||verdex.au^
-@@||verdylion.com^
 @@||verified.bio^
 @@||verifiedbonuses.com^
 @@||verify.zijieapi.com^
@@ -12032,7 +12009,6 @@
 @@||vns.im^
 @@||vnshortener.com^
 @@||vntyfr.com^
-@@||vnvodich.life^
 @@||vnxy.me^
 @@||vo.la^
 @@||vod.cc.163.com^
@@ -12051,7 +12027,6 @@
 @@||vp-link.com^
 @@||vpbencobb.com^
 @@||vplink.in^
-@@||vpn2.win^
 @@||vpnhoki.com^
 @@||vpp.itunes.apple.com^
 @@||vprozone.in^
@@ -12099,7 +12074,6 @@
 @@||w.wiki^
 @@||w09.ru^
 @@||w0o.de^
-@@||w0of-woof.com^
 @@||w1p.fr^
 @@||w2link.com^
 @@||w2u.io^
@@ -12199,12 +12173,10 @@
 @@||webz.cc^
 @@||wec.li^
 @@||wed.li^
-@@||wedew.link^
 @@||wee.so^
 @@||wee.wtf^
 @@||weely.ai^
 @@||weeste.llc^
-@@||weeurl.eu^
 @@||weeurl.in^
 @@||weewz.me^
 @@||wef.ch^
