@@ -382,6 +382,8 @@
 316.coolapk1s.com
 31productions.de
 321url.com
+341676991.group0.sites.hscoscdn-na3.net
+341850582.group0.sites.hscoscdn-na3.net
 350.my
 360.cn
 360links.net
@@ -1035,6 +1037,7 @@ adflydsp.com
 adfoc.us
 adfocus.ru
 adform.com
+adfw2025.com
 adguard.com
 adguardteam.github.io
 adialerts.com
@@ -1210,6 +1213,7 @@ adsplustracker.com
 adsv.svc.litv.tv
 adtival.network
 adtr.ee
+aduke.bio
 adult.com
 adurly.cc
 adv.ccb.com
@@ -1354,6 +1358,7 @@ akm.works
 akoo.ir
 akr.gr
 akses.digital
+akses.gg
 akses.me
 akslot.io
 aktfclick.com
@@ -2158,6 +2163,7 @@ annoyingnightmareedit.com
 anon.to
 anonme.net
 anonshort.com
+anonymiz.com
 anonymouse.org
 anp.su
 anquan.org
@@ -2636,7 +2642,6 @@ app.zhuanzhuan.com
 app1a.gateway.portal.outreach.io
 app1a.outreach.io
 app1a.portal.outreach.io
-app1b.outreach.io
 app1b.portal.outreach.io
 app1c.gateway.portal.outreach.io
 app1c.outreach.io
@@ -2821,6 +2826,7 @@ ashiap.me
 ashiato.rakuten.co.jp
 asia.playstation.com
 asia.pool.ntp.org
+asiagacor-77.com
 asiandrama.chia-anime.tv
 asics.com
 asics.tv
@@ -3251,6 +3257,7 @@ bcedns.net
 bcee.lu
 bcene.ws
 bcfyi.ca
+bch.gg
 bchf.life
 bckr.club
 bcl.ink
@@ -3627,6 +3634,7 @@ bladisnel.com
 blap.net
 blbrd.cm
 blck.by
+blddd.com
 ble.pl
 bleacherreport.com
 bleenk.co
@@ -3819,6 +3827,7 @@ books.google.com
 books.rakuten.co.jp
 bookstw.link
 boomkat.com
+booplink.com
 boost.ink
 boostability.co.in
 bootbarn.com
@@ -3964,6 +3973,7 @@ btco.link
 btf.st
 bti.ninja
 btkmgir.com
+btly.cc
 btm.li
 btstatic.com
 btwrdn.com
@@ -4056,6 +4066,7 @@ byestar.com
 byflexy.com
 byjusclasses.freshdesk.com
 byli.pro
+bylink.me
 bynd.li
 byod-web.huawei.com
 byoo.in
@@ -4600,6 +4611,7 @@ ceag.me
 cebol.me
 cedexis.net
 cedexispub.cdnetworks.net
+ceklink.vip
 celfam.us
 cell.office.naver.com
 ceneo.pl
@@ -4892,6 +4904,7 @@ clearbit.com
 clearload.bid
 clearstream.io
 cleverlink.pro
+cleverurls.com
 cli.fm
 cli.gs
 cli.im
@@ -5026,6 +5039,7 @@ client.teamviewer.com
 client.update.sandai.net
 clientconfig.akamai.steamstatic.com
 clientconfig.passport.net
+clientlinks.net
 clients.binance.com
 clients.l.google.com
 clients1.google.com
@@ -5082,6 +5096,7 @@ clkd.io
 clkdms.com
 clkmg.com
 clkon.us
+clkr.in
 clktrack.com
 cllab.co
 clmp.me
@@ -13228,6 +13243,7 @@ mkto-ab240112.com
 mkto-ab240175.com
 mkto-ab250068.com
 mkto-ab250105.com
+mkto-ab250167.com
 mkto-ab260164.com
 mkto-ab270090.com
 mkto-ab270109.com
@@ -13330,7 +13346,6 @@ mkto-b0025.com
 mkto-c0100.com
 mkto-cs0007.com
 mkto-d0071.com
-mkto-dev.certinia.com
 mkto-e0014.com
 mkto-e0126.com
 mkto-e0231.com
@@ -16337,6 +16352,7 @@ rat.rakuten.co.jp
 ratehub.ca
 ratemyqr.com
 rates.viber.com
+ratm5k9ab.cc.rs6.net
 raullozano.net
 ravenjs.com
 ravn.click
@@ -17807,6 +17823,7 @@ shorten.is
 shorten.pro
 shorten.rest
 shorten.so
+shorten.teknik.io
 shorten.tv
 shorten.world
 shortened.website
@@ -18206,7 +18223,6 @@ sites.google.com
 sites.hscoscdn-ap1.net
 sites.hscoscdn-eu1.net
 sites.hscoscdn-na2.net
-sites.hscoscdn-na3.net
 sites.hscoscdn00.net
 sites.hscoscdn10.net
 sites.hscoscdn20.net
@@ -19833,6 +19849,7 @@ tellurl.com
 tempfind.app
 tempm.com
 tempolink.net
+temporary-url.com
 tempurl.replit.app
 temu.to
 tencent.com
@@ -21099,6 +21116,7 @@ uptime.com
 uptimerobot.com
 uptobox.com
 uptolink.one
+uptolink1.com
 uptoplink.com
 uptostream.com
 upu.samsungelectronics.com
