@@ -776,7 +776,6 @@
 @@||adservice.google.pl^
 @@||adservice.google.ro^
 @@||adservice.google.rs^
-@@||adservice.google.ru^
 @@||adservice.google.se^
 @@||adservice.google.sk^
 @@||adservice.google.tt^
