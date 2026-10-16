@@ -1196,6 +1196,7 @@ adservice.google.no
 adservice.google.pl
 adservice.google.ro
 adservice.google.rs
+adservice.google.ru
 adservice.google.se
 adservice.google.sk
 adservice.google.tt
@@ -2077,6 +2078,7 @@ amp.usatoday.com
 ampafy.com
 amped.co.uk
 ampedlink.com
+amphoralaundry.com
 ampifire.digital
 ampifire.media
 amplitude.com
@@ -5706,6 +5708,7 @@ cut.lu
 cut.ovh
 cut.pe
 cut.sk
+cut.st
 cut2.eu
 cutcaptcha.com
 cutdown.link
@@ -5714,10 +5717,12 @@ cutearns.com
 cutelnk.com
 cuterurlha.xyz
 cutestat.com
+cuteurl.co
 cuteurl.com
 cutevalues.com
 cutit.bid
 cutle.co
+cutli.to
 cutlink.now
 cutlink.space
 cutlinker.com
@@ -5787,11 +5792,13 @@ cybercrime-tracker.net
 cyberdrop.me
 cyberlink.com
 cybermap.kaspersky.com
+cyberrl.com
 cyberthreatcoalition.org
 cybr.fr
 cydia.saurik.com
 cydia.saurik.com.cdngc.net
 cygwin.com
+cyonix.to
 cyrmp.com
 cyte.in
 cyunz.com
@@ -5889,6 +5896,7 @@ dashboard.stripe.com
 dashbox.sndcdn.com
 dashbox.soundcloud.com
 dashi.163.com
+dat.bio
 data-linkup.com
 data.bilibili.com
 data.digital.costco.ca
@@ -6052,6 +6060,7 @@ demolink.net
 demon-networks.com
 demos.flowplayer.com
 demotywatory.pl
+demoxpress.xyz
 dems.me
 den.cdn.survey.medallia.com
 denis-ovs.narod.ru
@@ -6061,6 +6070,7 @@ depot.xda-developers.com
 deqdp.com
 derpy.me
 des.gbtcdn.com
+descontosachados.com
 design.www.huffingtonpost.com
 designcommerce.agency
 designrigs.com
@@ -6713,6 +6723,7 @@ easylist.to
 easyuri.com
 easyurl.net
 easyurl.site
+easyurlshortener.com
 eat.emmasolutions.net
 eaxcj.com
 eazify.net
@@ -7262,6 +7273,7 @@ ezclick.me
 ezexzo.link
 ezilinks.com
 ezlc.net
+ezlinkad.com
 ezlinkcloaker.com
 ezstat.ru
 eztv.ag
@@ -7298,6 +7310,7 @@ f1.tf
 f10.baidu.com
 f11.baidu.com
 f12.baidu.com
+f1m.in
 f1mate.com
 f1techcomputers.com.au
 f2.g.mi.com
@@ -8050,6 +8063,7 @@ garena.com
 garuda.homes
 garudeya.com
 garyvee.com
+gasely.com
 gat.to
 gate-ag.first-id.fr
 gatehousemedia.com
@@ -8553,6 +8567,7 @@ gohostd.com
 goink.me
 goitb.id
 gokano.com
+gol.to
 gold.xhamsterpremium.com
 goldmoney.com
 goldn.cc
@@ -8578,6 +8593,7 @@ goo.by
 goo.click
 goo.gl
 goo.gle
+goo.lu
 goo.ne.jp
 goo.re
 goo.su
@@ -8845,6 +8861,7 @@ gotolink.host
 gotolinko.com
 gotomyl.ink
 gotomypc.com
+gotos.in
 gotrackier.com
 gotraffic.net
 gotravelholidays.com
@@ -9178,6 +9195,7 @@ helpme.viber.com
 helpscout.net
 helpx.adobe.com
 helvetqr.ch
+hemihydro.com
 henrys.com
 henslot.urlklik.com
 hentaihand.com
@@ -9754,6 +9772,7 @@ il.ign.com
 ilang.in
 ild.info
 ilink-to.net
+ilinky.info
 ilix.in
 iljmp.com
 ilk.ir
@@ -10312,6 +10331,7 @@ ishorturl.net
 isinstance.com
 islam.qa
 islamweb.net
+islinks.site
 isols.co
 issa.be
 issuecdn.baidupcs.com
@@ -10320,6 +10340,7 @@ istel.co
 isterratrk.com
 istincy.com
 istockphoto.com
+istore.ar
 isuif.com
 isurl.cc
 isurt.com
@@ -10346,6 +10367,7 @@ iteye.com
 itgreen.com.vn
 ithuxi.com
 iti.bz
+itiny.in
 itknowledgeexchange.techtarget.com
 itlinks.me
 itly.com
@@ -10446,6 +10468,7 @@ javdict.disqus.com
 javfinder.ai
 jaw.gg
 jayan-uvl.com
+jaygo.xyz
 jb.gg
 jbhifi.com.au
 jbiv.com
@@ -10511,6 +10534,7 @@ jira.gotinder.com
 jira.shop.samsung.com
 jira.xda-developers.com
 jitlinks.therichonline.com
+jitupro.com
 jitupro.org
 jjlco.net
 jkf.lv
@@ -10789,13 +10813,16 @@ kilat.ink
 kilat.io
 kimmel.trade
 kin.naver.com
+kingplate.lol
 kings.tn
 kingsoft.com
+kingurl.xyz
 kingworldnews.com
 kinja-debug.firebaseio.com
 kinja.com
 kinky-pipes.com
 kinnto.me
+kirimlink.com
 kirr.co
 kisa-link.com
 kisa.link
@@ -10929,6 +10956,7 @@ kr.pe
 kr.wikipedia.com
 kr3w.de
 krakow.tvp.pl
+krat.si
 kratsi.cz
 krazy.la
 krazylinks.com
@@ -10999,6 +11027,7 @@ kutt.to
 kutt.ural-agro.com
 kuttify.com
 kuttix.juniorisep.com
+kuty.me
 kuty.us
 kuxey.com
 kuyla.me
@@ -11521,6 +11550,7 @@ linkbio.ch
 linkbio.co
 linkbio.it.com
 linkbio.space
+linkbiscuit.co
 linkbite.io
 linkbitty.com
 linkbloomer.com
@@ -11542,6 +11572,7 @@ linkclickcounter.com
 linkcomposer.com
 linkconnector.com
 linkcrafter.com
+linkcrypter.com
 linkcut.io
 linkcut.net
 linkcutt.com
@@ -11747,6 +11778,7 @@ linkshortenerfree.com
 linkshorteners.com
 linkshortify.com
 linkshortner.net
+linkshortner.online
 linkshrink.net
 linkshrink.org
 linksi.me
@@ -11811,6 +11843,7 @@ linky.cc
 linky.is
 linky.ph
 linky31.com
+linkybe.com
 linkye.net
 linkyvicky.com
 linkz.tn
@@ -11943,6 +11976,7 @@ ll.sa
 llclick.com
 llink.ee
 llink.to
+llinks.io
 llk.dk
 llll.im
 llnwd.net
@@ -12244,6 +12278,7 @@ lynk.la
 lynkat.net
 lynkflow.me
 lynki.link
+lynkme.bio
 lynko.in
 lynks.in
 lynkz.in
@@ -12599,6 +12634,7 @@ mac.search.naver.com
 mac.xunlei.com
 macanplay.click
 maccms.com
+machb.org
 machess.org
 mackeeper.com
 macmillandictionary.com
@@ -12667,6 +12703,7 @@ mairuan.net
 maisretor.no
 majorgeeks.com
 make-t.in
+make.my
 makeashorterlink.com
 makemyl.ink
 makeshort.top
@@ -12762,6 +12799,7 @@ martshort.com
 marx.libcom.org
 mas-ext.amazon.com
 mas.si
+mas.so
 mashable.com
 mashup.map.naver.com
 mask-api.icloud.com
@@ -12969,6 +13007,7 @@ members.bitcomet.com
 members.medium.com
 memo.naver.com
 memolog.blog.naver.com
+menang.win
 menangbola77.info
 mene.com
 menj.info
@@ -13691,6 +13730,7 @@ mr.da.netease.com
 mrfye.org
 mrjj.uk
 mrlink.in
+mrsaeed.com
 mrte.ch
 mrthumb.nabstudio.com
 mrturl.com
@@ -14560,6 +14600,7 @@ obank.tw
 obblink.com
 obdr.it
 obio.link
+oblino.com
 oboom.com
 obs.cn-east-2.myhuaweicloud.com
 obs.cn-east-3.myhuaweicloud.com
@@ -14676,6 +14717,7 @@ olymptrade.com
 olympus1000.fyi
 om.cbsi.com
 om.ly
+omegalinks.in
 omg.ae
 omg.ms
 omn.sonypictures.com
@@ -15094,6 +15136,7 @@ pamethelabel.info
 pan-cdn.exponea.com
 pan.quark.cn
 panaceainc.co
+pandagemoy.lol
 pandastyle.live
 pando.com
 pandora.mi.com
@@ -15831,6 +15874,7 @@ promotion.aliexpress.com
 promotion.aliyun.com
 promotions.newegg.com
 promotions.soundcloud.com
+promtric.com
 pronat360.com
 proof.click
 proofpoint.com
@@ -16534,6 +16578,7 @@ ref11.top
 refer.is
 refer.wordpress.com
 reference.com
+referer.uk
 referer.us
 referrals.brave.com
 referrals.bravesoftware.com
