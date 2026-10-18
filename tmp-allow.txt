@@ -633,7 +633,9 @@
 @@||ad.dyntracker.de^
 @@||ad.jp^
 @@||ad.lifesight.io^
+@@||ad.trafficgate.net^
 @@||ad0.me^
+@@||ad2.trafficgate.net^
 @@||ad5.eu^
 @@||ad7.biz^
 @@||ada2.in^
@@ -6725,6 +6727,7 @@
 @@||mj.am^
 @@||mjg.li^
 @@||mjp88.online^
+@@||mjt.lu^
 @@||mk-live-webinar.com^
 @@||mk.mutuum.com^
 @@||mkecc.com^

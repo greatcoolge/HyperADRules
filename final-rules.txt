@@ -996,8 +996,10 @@
 @@||ad.jp^
 @@||ad.lifesight.io^
 @@||ad.samsungadhub.com^
+@@||ad.trafficgate.net^
 @@||ad.vu^
 @@||ad0.me^
+@@||ad2.trafficgate.net^
 @@||ad5.eu^
 @@||ad7.biz^
 @@||ada.support^
@@ -13238,6 +13240,7 @@
 @@||mj.am^
 @@||mjg.li^
 @@||mjp88.online^
+@@||mjt.lu^
 @@||mk-live-webinar.com^
 @@||mk.mutuum.com^
 @@||mk0ghacksnety2pjrgh8.kinstacdn.com^
