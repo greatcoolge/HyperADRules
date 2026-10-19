@@ -289,7 +289,6 @@
 @@||45h.it^
 @@||46.fi^
 @@||47.de^
-@@||47587921.group0.sites.hscoscdn-ap1.net^
 @@||48609.activity-42.m.duiba.com.cn^
 @@||48l.ir^
 @@||49r.de^
@@ -938,6 +937,7 @@
 @@||allmylinks.link^
 @@||allmylinksinoneplace.com^
 @@||alls.link^
+@@||allsha.re^
 @@||allytab.com^
 @@||alnk.to^
 @@||aloeds.com^
@@ -1156,6 +1156,7 @@
 @@||app.veryimportantlink.com^
 @@||app.zhuanzhuan.com^
 @@||app1a.gateway.portal.outreach.io^
+@@||app1a.outreach.io^
 @@||app1a.portal.outreach.io^
 @@||app1b.portal.outreach.io^
 @@||app1c.gateway.portal.outreach.io^
@@ -2426,7 +2427,6 @@
 @@||clotplaynews.live^
 @@||cloud.video.taobao.com^
 @@||cloudcache.tencent-cloud.cn^
-@@||cloudfare.icu^
 @@||cloudflare-dns.com^
 @@||cloudfronte.net^
 @@||cloudinery.net^
@@ -6295,6 +6295,7 @@
 @@||lzd.co^
 @@||lzd.page^
 @@||m-3b5ue.custobar.com^
+@@||m-3fq4v.custobar.com^
 @@||m-42m67.custobar.com^
 @@||m-4wovq.custobar.com^
 @@||m-54yud.custobar.com^
@@ -7366,7 +7367,6 @@
 @@||neflixenomovies.com^
 @@||nej.md^
 @@||neo.am^
-@@||neoengage-va-cdn.exponea.com^
 @@||neonslug.com^
 @@||neontools.io^
 @@||nepolls.com^
@@ -9762,6 +9762,7 @@
 @@||sitedetour.com^
 @@||sitegpl.com^
 @@||siteonizleme.com.tr^
+@@||sites.hscoscdn-ap1.net^
 @@||sites.hscoscdn-eu1.net^
 @@||sites.hscoscdn-na2.net^
 @@||sites.hscoscdn00.net^
@@ -10417,6 +10418,7 @@
 @@||t.6sc.co^
 @@||t.adcell.com^
 @@||t.afi-b.com^
+@@||t.ajump.link^
 @@||t.cfjump.com^
 @@||t.clickwise.net^
 @@||t.cn^
