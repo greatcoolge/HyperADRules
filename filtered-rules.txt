@@ -2352,6 +2352,7 @@ api.foxnews.com
 api.gallery.intl.miui.com
 api.getpocket.com
 api.github.com
+api.github.comapi.hubapi.com
 api.glympse.com
 api.gotinder.com
 api.gravatar.com
@@ -2644,7 +2645,6 @@ app.winred.com
 app.xiaomi.com
 app.zhuanzhuan.com
 app1a.gateway.portal.outreach.io
-app1a.outreach.io
 app1a.portal.outreach.io
 app1b.portal.outreach.io
 app1c.gateway.portal.outreach.io
@@ -13410,7 +13410,6 @@ mkto-b0025.com
 mkto-c0100.com
 mkto-cs0007.com
 mkto-d0071.com
-mkto-dev.certinia.com
 mkto-e0014.com
 mkto-e0126.com
 mkto-e0231.com
