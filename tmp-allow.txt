@@ -1171,7 +1171,6 @@
 @@||app2a.gateway.portal.outreach.io^
 @@||app2a.outreach.io^
 @@||app2a.portal.outreach.io^
-@@||app2b.outreach.io^
 @@||app2b.portal.outreach.io^
 @@||app2c.gateway.portal.outreach.io^
 @@||app2c.outreach.io^
@@ -1969,6 +1968,7 @@
 @@||c2-sandbox.piano.io^
 @@||c2.piano.io^
 @@||c24.cn^
+@@||c2827.dotomi.com^
 @@||c2c.fm^
 @@||c2d.in^
 @@||c2mc.link^
@@ -2311,6 +2311,7 @@
 @@||click.figma.com^
 @@||click.holidayinnclubemail.com^
 @@||click.icptrack.com^
+@@||click.idprotect.experian.com^
 @@||click.instantink.hpsmart.com^
 @@||click.justwatch.com^
 @@||click.klarna.de^
@@ -2975,6 +2976,7 @@
 @@||dky.bz^
 @@||dl-protect.info^
 @@||dl-protect.link^
+@@||dl-rms.com^
 @@||dl.delivery.mp.microsoft.com^
 @@||dl.gl^
 @@||dl.hdslb.com^
@@ -3038,6 +3040,7 @@
 @@||dorfmeyster.media^
 @@||doris.yidianzixun.com^
 @@||dos.me^
+@@||doshopify.com^
 @@||dostupevent.com^
 @@||dotalink.com^
 @@||dotjournal.net^
@@ -4611,6 +4614,7 @@
 @@||iarly.com^
 @@||iatp.by^
 @@||iaurl.io^
+@@||ib4.me^
 @@||ibb.co^
 @@||ibd.ink^
 @@||ibelocal.com^
@@ -4779,6 +4783,7 @@
 @@||indahnyaberbagi.shop^
 @@||indeedhi.re^
 @@||indexure.com^
+@@||indrive-cdn.exponea.com^
 @@||inds.me^
 @@||indvix.com^
 @@||indy.st^
@@ -6749,6 +6754,7 @@
 @@||mkt.me^
 @@||mkt.to^
 @@||mktg8.link^
+@@||mkto-a0279.com^
 @@||mkto-ab010044.com^
 @@||mkto-ab010150.com^
 @@||mkto-ab010164.com^
@@ -6788,6 +6794,7 @@
 @@||mkto-ab250055.com^
 @@||mkto-ab250068.com^
 @@||mkto-ab250105.com^
+@@||mkto-ab250167.com^
 @@||mkto-ab260164.com^
 @@||mkto-ab270090.com^
 @@||mkto-ab270109.com^
@@ -6844,8 +6851,8 @@
 @@||mkto-ab480015.com^
 @@||mkto-ab480166.com^
 @@||mkto-ab500022.com^
+@@||mkto-ab500023.com^
 @@||mkto-ab520004.com^
-@@||mkto-ab530057.com^
 @@||mkto-ab530192.com^
 @@||mkto-ab540143.com^
 @@||mkto-ab550041.com^
@@ -6892,6 +6899,7 @@
 @@||mkto-c0100.com^
 @@||mkto-cs0007.com^
 @@||mkto-d0071.com^
+@@||mkto-dev.certinia.com^
 @@||mkto-e0014.com^
 @@||mkto-e0126.com^
 @@||mkto-e0231.com^
