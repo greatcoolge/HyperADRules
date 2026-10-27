@@ -2353,7 +2353,6 @@ api.foxnews.com
 api.gallery.intl.miui.com
 api.getpocket.com
 api.github.com
-api.github.comapi.hubapi.com
 api.glympse.com
 api.gotinder.com
 api.gravatar.com
@@ -2646,6 +2645,7 @@ app.winred.com
 app.xiaomi.com
 app.zhuanzhuan.com
 app1a.gateway.portal.outreach.io
+app1a.outreach.io
 app1a.portal.outreach.io
 app1b.portal.outreach.io
 app1c.gateway.portal.outreach.io
@@ -2661,6 +2661,7 @@ app2.salesmanago.pl
 app2a.gateway.portal.outreach.io
 app2a.outreach.io
 app2a.portal.outreach.io
+app2b.outreach.io
 app2b.portal.outreach.io
 app2c.gateway.portal.outreach.io
 app2c.outreach.io
@@ -4454,6 +4455,7 @@ cdn.fluidplayer.com
 cdn.flurry.com
 cdn.fontawesome.com
 cdn.friendbuy.com
+cdn.ftspecialist.exponea.com
 cdn.fwupd.org
 cdn.gatehousemedia.com
 cdn.gigya.commes.122.2o7.net
@@ -4954,7 +4956,6 @@ click.fidelityinvestments.com
 click.figma.com
 click.holidayinnclubemail.com
 click.icptrack.com
-click.idprotect.experian.com
 click.instantink.hpsmart.com
 click.justwatch.com
 click.klarna.de
@@ -16581,6 +16582,7 @@ redirect.tracify.ai
 redirect.viglink.com
 redirect.wip4.adobe.com
 redirect1069.tagcommander.com
+redirect1587.tagcommander.com
 redirect3431.tagcommander.com
 redirect476.tagcommander.com
 redirect492.tagcommander.com

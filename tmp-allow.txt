@@ -1084,7 +1084,6 @@
 @@||api.edu.apple.com^
 @@||api.elasticemail.com^
 @@||api.ent.apple.com^
-@@||api.github.comapi.hubapi.com^
 @@||api.heylink.com^
 @@||api.huangye.miui.com^
 @@||api.hubapi.com^
@@ -1157,6 +1156,7 @@
 @@||app.veryimportantlink.com^
 @@||app.zhuanzhuan.com^
 @@||app1a.gateway.portal.outreach.io^
+@@||app1a.outreach.io^
 @@||app1a.portal.outreach.io^
 @@||app1b.portal.outreach.io^
 @@||app1c.gateway.portal.outreach.io^
@@ -1172,6 +1172,7 @@
 @@||app2a.gateway.portal.outreach.io^
 @@||app2a.outreach.io^
 @@||app2a.portal.outreach.io^
+@@||app2b.outreach.io^
 @@||app2b.portal.outreach.io^
 @@||app2c.gateway.portal.outreach.io^
 @@||app2c.outreach.io^
@@ -2111,6 +2112,7 @@
 @@||cdn.eu1.exponea.com^
 @@||cdn.exponea.com^
 @@||cdn.ferrari.com^
+@@||cdn.ftspecialist.exponea.com^
 @@||cdn.jsdelivr.net^
 @@||cdn.mie.exponea.com^
 @@||cdn.network.exponea.com^
@@ -2312,7 +2314,6 @@
 @@||click.figma.com^
 @@||click.holidayinnclubemail.com^
 @@||click.icptrack.com^
-@@||click.idprotect.experian.com^
 @@||click.instantink.hpsmart.com^
 @@||click.justwatch.com^
 @@||click.klarna.de^
@@ -8681,6 +8682,7 @@
 @@||redirect.tracify.ai^
 @@||redirect.viglink.com^
 @@||redirect1069.tagcommander.com^
+@@||redirect1587.tagcommander.com^
 @@||redirect3431.tagcommander.com^
 @@||redirect476.tagcommander.com^
 @@||redirect492.tagcommander.com^
