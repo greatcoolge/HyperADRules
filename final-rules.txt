@@ -10253,6 +10253,7 @@
 @@||ios.nccp.netflix.com^
 @@||ios.soundcloud.com^
 @@||iosdl.game.xiaomi.com^
+@@||iot-earbuds-cn.heytapmobi.com^
 @@||iota.bitfinex.com^
 @@||ip*.ahcdn.com^
 @@||ip-adress.com^
@@ -13275,6 +13276,7 @@
 @@||mktcloud.c.huawei.com^
 @@||mktg8.link^
 @@||mkto-a0279.com^
+@@||mkto-a0345.com^
 @@||mkto-ab010044.com^
 @@||mkto-ab010150.com^
 @@||mkto-ab010164.com^
@@ -13452,6 +13454,7 @@
 @@||mkto-lon080118.com^
 @@||mkto-lon080132.com^
 @@||mkto-lon080147.com^
+@@||mkto-lon080186.com^
 @@||mkto-lon090040.com^
 @@||mkto-lon090045.com^
 @@||mkto-lon090082.com^
