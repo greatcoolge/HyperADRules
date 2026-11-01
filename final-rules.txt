@@ -174,7 +174,6 @@
 @@||1drv.ms^
 @@||1e100.net^
 @@||1ea.ir^
-@@||1fashionable.xyz^
 @@||1fgqfml.oloadcdn.net^
 @@||1fi.us^
 @@||1fichier.com^
@@ -236,7 +235,6 @@
 @@||1vk.net^
 @@||1weather.onelouder.com^
 @@||1west.io^
-@@||1wn.bz^
 @@||1xbet.com^
 @@||1xfn.tech^
 @@||1xregister.vip^
@@ -308,7 +306,6 @@
 @@||2i.gs^
 @@||2i1i.cn^
 @@||2ip.ru^
-@@||2it.info^
 @@||2k1.me^
 @@||2kgam.es^
 @@||2l.me^
@@ -450,7 +447,6 @@
 @@||404: Not Found^
 @@||42jump.com^
 @@||42l.fr^
-@@||42url.com^
 @@||45h.it^
 @@||46.fi^
 @@||47.de^
@@ -509,7 +505,6 @@
 @@||5ia.ir^
 @@||5il.co^
 @@||5k.lol^
-@@||5m.io^
 @@||5ne.co^
 @@||5o.io^
 @@||5or.cc^
@@ -1200,6 +1195,7 @@
 @@||adservice.google.nl^
 @@||adservice.google.no^
 @@||adservice.google.pl^
+@@||adservice.google.pt^
 @@||adservice.google.ro^
 @@||adservice.google.rs^
 @@||adservice.google.ru^
@@ -2666,7 +2662,6 @@
 @@||app2a.gateway.portal.outreach.io^
 @@||app2a.outreach.io^
 @@||app2a.portal.outreach.io^
-@@||app2b.outreach.io^
 @@||app2b.portal.outreach.io^
 @@||app2c.gateway.portal.outreach.io^
 @@||app2c.outreach.io^
@@ -4458,7 +4453,6 @@
 @@||cdn.flurry.com^
 @@||cdn.fontawesome.com^
 @@||cdn.friendbuy.com^
-@@||cdn.ftspecialist.exponea.com^
 @@||cdn.fwupd.org^
 @@||cdn.gatehousemedia.com^
 @@||cdn.gigya.commes.122.2o7.net^
