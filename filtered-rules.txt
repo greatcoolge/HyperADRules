@@ -1102,7 +1102,6 @@ ads.revjet.com
 ads.so
 ads.twitter.com
 adscendmedia.com
-adsclick.me
 adservice.google.ae
 adservice.google.at
 adservice.google.bg
@@ -1269,7 +1268,6 @@ agbr.ir
 agentassistcrm.org
 agilean.in
 agileurbia.com
-agll.ink
 agmd.win
 agoz.me
 agr.my
@@ -1318,7 +1316,6 @@ aizhigu.com.cn
 ajax.aspnetcdn.com
 ajax.cloudflare.com
 ajax.googleapis.com
-aje.biz.id
 aje.io
 ajher.com
 ajn.me
@@ -1398,7 +1395,6 @@ alice-w.com
 alie.kr
 alien-traffic.com
 alientraffic.com
-aliexpi.com
 aliexpress.com
 alimama.com
 alime-customer-upload-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com
@@ -1424,7 +1420,6 @@ allegro.pl
 allekabels.nl
 alli.pub
 allinonetab.com
-allinonetool.tech
 allkpop.com
 alllinks.in
 alllinksinbio.com
@@ -2162,7 +2157,6 @@ announcements.engadget.com
 annoyingnightmareedit.com
 anon.to
 anonme.net
-anonshort.com
 anonymiz.com
 anonymouse.org
 anp.su
@@ -2738,7 +2732,6 @@ apresolve.spotify.com
 apsense.cc
 apt.izzysoft.de
 apt.sonarr.tv
-aptg.tw
 apticirl.com
 aptly.co.za
 aptsbyusu.com
@@ -2940,7 +2933,6 @@ atoor.net
 atpcf.co.uk
 atpz.ir
 atres.red
-atropinestatuarylandleaper.com
 att.com
 att.ovh
 attach.mail.daum.net
@@ -3185,7 +3177,6 @@ baiduyundns.net
 baijiahao.baidu.com
 baike.baidu.com
 baikebcs.bdimg.com
-baileybelladonna.com
 baixing.com
 balancer.wixdns.net
 balls.no
@@ -3206,7 +3197,6 @@ bannercho.com
 banners.funimation.com
 banners.livepartners.com
 banners.spiceworks.com
-baoyung.com
 bapi-01.moengage.com
 bapi-02.moengage.com
 bapi-04.moengage.com
@@ -3297,7 +3287,6 @@ bee1s.com
 bee4.biz
 beeb.us
 beehiiv.com
-beelnk.com
 beepurl.com
 beeshort.de
 beeurls.com
@@ -3330,7 +3319,6 @@ berkeley.edu
 bersatu.me
 beshort.io
 best.aliexpress.com
-bestbet1000.xyz
 bestbuy.7tiv.net
 bestbuy.com
 bestfwdservice.com
@@ -3354,7 +3342,6 @@ beta.spotify.map.fastly.net
 beta.techcrunch.com
 beta.twitch.tv
 betaclub.huawei.com
-betaloop.io
 betanews.com
 betaxfree.net
 beteshis.com
@@ -3416,7 +3403,6 @@ bigfi.sh
 bigfile.co.kr
 bigfile.mail.naver.com
 bigfk.com
-biggiris.link
 biggo.tw
 biggovernment.breitbart.com
 bighollywood.breitbart.com
@@ -3546,7 +3532,6 @@ bitit.io
 bitl.app
 bitl.to
 bitlee.site
-bitley.in
 bitli.pro
 bitlink.one
 bitlnx.com
@@ -3757,7 +3742,6 @@ bluems.com
 blueskymap.org
 blueskyxn.com
 bluesoleil.com
-blur.by
 blynkn.com
 blyto.com
 bmai.cc
@@ -5896,6 +5880,7 @@ dashi.163.com
 dat.bio
 data-linkup.com
 data.bilibili.com
+data.customermail.colruyt.be
 data.digital.costco.ca
 data.digital.costco.com
 data.email.philips-hue.com
@@ -20534,6 +20519,7 @@ track2.sendcloud.net
 track3.bsplegalmarketing.com
 track3.davydovlaw.com
 track34102166105.effiliation.com
+track34102167160.effiliation.com
 track34102180193.effiliation.com
 track3410224983.effiliation.com
 track349875230.effiliation.com
@@ -21230,7 +21216,6 @@ uri.im
 uri.to
 uriok.com
 urkbfb.com
-url-api.babayev.us
 url-l.com
 url-qr.tk
 url-s.xyz
@@ -21509,7 +21494,6 @@ urlshortener-client.vercel.app
 urlshortener-cyan-five.vercel.app
 urlshortener-neon-mu.vercel.app
 urlshortener.at
-urlshortener.babayev.us
 urlshortener.biz
 urlshortener.bnpparibas
 urlshortener.co.uk
