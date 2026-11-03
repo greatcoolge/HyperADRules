@@ -2650,6 +2650,7 @@ app2.salesmanago.pl
 app2a.gateway.portal.outreach.io
 app2a.outreach.io
 app2a.portal.outreach.io
+app2b.outreach.io
 app2b.portal.outreach.io
 app2c.gateway.portal.outreach.io
 app2c.outreach.io
@@ -4016,7 +4017,6 @@ businesssupport.snap.com
 businessweek.com
 businesswire.com
 button.like.co
-buu.lat
 buufjf.com
 buy.adhitan.com
 buy.coinbase.com
@@ -4172,7 +4172,6 @@ callback.api.qgraph.io
 callback.line.me
 callhub.io
 calopenupdate.comm.miui.com
-caluni.online
 cam.ac.uk
 cam.tips
 cambridge.org
@@ -4198,7 +4197,6 @@ canon.us
 canva.com
 canyonstudent.net
 canyoublockit.com
-caosateoria.com
 capdisk.com
 capi-cn.ssl-images-amazon.com
 capi-eu.ssl-images-amazon.com
@@ -4240,7 +4238,6 @@ careers.snap.com
 careers.us.samsung.com
 caridomainku.org
 carmoov.fr
-carnalflicks.online
 caro.sl
 carrier.huawei.com
 cart.mi.com
@@ -4431,6 +4428,7 @@ cdn.fluidplayer.com
 cdn.flurry.com
 cdn.fontawesome.com
 cdn.friendbuy.com
+cdn.ftspecialist.exponea.com
 cdn.fwupd.org
 cdn.gatehousemedia.com
 cdn.gigya.commes.122.2o7.net
@@ -4734,8 +4732,6 @@ chatlounge-preview.xbox.com
 chatrouter-verizon.inq.com
 chats.viber.com
 chbusiness.samsung.com
-cheap-bitcoin.online
-cheap-stocks.biz
 cheatengine.org
 check.ddos-guard.net
 check.ptlogin2.wechat.com
@@ -4892,7 +4888,6 @@ cli.gs
 cli.im
 cli.re
 clic.ae
-clic.bio
 clica.ai
 clica.link
 clicai.xyz
@@ -11403,9 +11398,7 @@ link.alfamonkey.com
 link.ameerusa.com
 link.axios.com
 link.caripvcard.com
-link.cashcard.id
 link.cc
-link.chanrobotics.org
 link.climatemessengers.ca
 link.cnr.it
 link.colborlight.com
@@ -14044,7 +14037,6 @@ na5.content.force.com
 na5.nl
 na53.content.force.com
 naa.gg
-nabio.com.br
 nac.naver.com
 nagakuat.com
 nah.uy
@@ -14129,6 +14121,7 @@ neflixenomovies.com
 nej.md
 nejmqianyan.cn
 neo.am
+neoengage-va-cdn.exponea.com
 neonslug.com
 neontools.io
 neoplanet.snap.com
@@ -21157,6 +21150,7 @@ upgrade.scdn.co
 upgrade.scdn.com
 upgrade.xl9.xunlei.com
 uplaypc-s-ubisoft.cdn.ubi.com
+uplcm.com
 upld.in
 uplifter.ai
 upload-images.jianshu.io

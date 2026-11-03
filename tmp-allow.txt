@@ -1161,6 +1161,7 @@
 @@||app2a.gateway.portal.outreach.io^
 @@||app2a.outreach.io^
 @@||app2a.portal.outreach.io^
+@@||app2b.outreach.io^
 @@||app2b.portal.outreach.io^
 @@||app2c.gateway.portal.outreach.io^
 @@||app2c.outreach.io^
@@ -1888,7 +1889,6 @@
 @@||burnurl.com^
 @@||busan.pro^
 @@||business.apple.com^
-@@||buu.lat^
 @@||buufjf.com^
 @@||buy.adhitan.com^
 @@||buy.interagio.com^
@@ -1970,7 +1970,6 @@
 @@||callback.58.com^
 @@||callback.api.qgraph.io^
 @@||callhub.io^
-@@||caluni.online^
 @@||cam.tips^
 @@||campaign.adobe.com^
 @@||campaign.aliexpress.com^
@@ -1981,7 +1980,6 @@
 @@||candicegilmerauthor.com^
 @@||canon.us^
 @@||canyonstudent.net^
-@@||caosateoria.com^
 @@||capdisk.com^
 @@||capital.one^
 @@||capitalfm.co^
@@ -2006,7 +2004,6 @@
 @@||careercrawlerslmv.com^
 @@||caridomainku.org^
 @@||carmoov.fr^
-@@||carnalflicks.online^
 @@||caro.sl^
 @@||cart.mn^
 @@||cartisbikur.com^
@@ -2088,6 +2085,7 @@
 @@||cdn.eu1.exponea.com^
 @@||cdn.exponea.com^
 @@||cdn.ferrari.com^
+@@||cdn.ftspecialist.exponea.com^
 @@||cdn.jsdelivr.net^
 @@||cdn.mie.exponea.com^
 @@||cdn.network.exponea.com^
@@ -2148,8 +2146,6 @@
 @@||chat.deepseek.com^
 @@||chat.thekphub.com^
 @@||chatg.pt^
-@@||cheap-bitcoin.online^
-@@||cheap-stocks.biz^
 @@||checkbill.biz^
 @@||checkout.buzzoid.com^
 @@||chem.sg^
@@ -2251,7 +2247,6 @@
 @@||cli.im^
 @@||cli.re^
 @@||clic.ae^
-@@||clic.bio^
 @@||clica.ai^
 @@||clica.link^
 @@||clicai.xyz^
@@ -5598,9 +5593,7 @@
 @@||link.alfamonkey.com^
 @@||link.ameerusa.com^
 @@||link.caripvcard.com^
-@@||link.cashcard.id^
 @@||link.cc^
-@@||link.chanrobotics.org^
 @@||link.climatemessengers.ca^
 @@||link.cnr.it^
 @@||link.colborlight.com^
@@ -7315,7 +7308,6 @@
 @@||na2.com^
 @@||na5.nl^
 @@||naa.gg^
-@@||nabio.com.br^
 @@||nagakuat.com^
 @@||nah.uy^
 @@||naik-terus.com^
@@ -7359,6 +7351,7 @@
 @@||neflixenomovies.com^
 @@||nej.md^
 @@||neo.am^
+@@||neoengage-va-cdn.exponea.com^
 @@||neonslug.com^
 @@||neontools.io^
 @@||nepolls.com^
@@ -11483,6 +11476,7 @@
 @@||updates-http.cdn-apple.com^
 @@||updates.cdn-apple.com^
 @@||updating.me^
+@@||uplcm.com^
 @@||upld.in^
 @@||uplifter.ai^
 @@||upload-images.jianshu.io^
