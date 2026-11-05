@@ -1105,7 +1105,6 @@
 @@||apkurl.xyz^
 @@||apll.es^
 @@||aply.me^
-@@||apmebf.com^
 @@||apms5.com^
 @@||apna.link^
 @@||apne.ws^
@@ -1538,7 +1537,6 @@
 @@||bie.to^
 @@||big.bilibili.com^
 @@||bigbigwinjiliwin63.online^
-@@||bigcattracks.com^
 @@||bigcc.cc^
 @@||bigfi.sh^
 @@||bigfk.com^
@@ -2035,7 +2033,6 @@
 @@||cbsloc.al^
 @@||cbsn.ws^
 @@||cbt.gg^
-@@||cc-dt.com^
 @@||cc.163.com^
 @@||cc.cc^
 @@||cc.tl^
@@ -2278,7 +2275,6 @@
 @@||click.email.jcpenney.com^
 @@||click.email.microsoftemail.com^
 @@||click.email.microsoftrewards.com^
-@@||click.email.sonos.com^
 @@||click.emcom.bankofamerica.com^
 @@||click.esky.com^
 @@||click.fidelityinvestments.com^
@@ -2492,7 +2488,6 @@
 @@||comingurl.com^
 @@||commander1.com^
 @@||commimg.pddpic.com^
-@@||commission-junction.com^
 @@||community.akamai.steamstatic.com^
 @@||community.fastly.steamstatic.com^
 @@||compact.link^
@@ -3386,7 +3381,6 @@
 @@||eva.us^
 @@||evansardonix.com^
 @@||eventogo.app.br^
-@@||events.release.narrativ.com^
 @@||everee.link^
 @@||everlink.tools^
 @@||everri.ch^
@@ -3847,7 +3841,6 @@
 @@||getbio.co^
 @@||getbiolink.com^
 @@||getbiolink.me^
-@@||getbitly.pro^
 @@||getblue.me^
 @@||getf.ly^
 @@||getfinefile.com^
@@ -3856,7 +3849,6 @@
 @@||getlickd.com^
 @@||getlink.at^
 @@||getlink.space^
-@@||getrecipe.pro^
 @@||getshort.in^
 @@||getshorter.com^
 @@||getsmallurl.com^
@@ -4121,18 +4113,15 @@
 @@||gomomento.co^
 @@||gomyly.com^
 @@||gonature.live^
-@@||gonephishing.me^
 @@||goninja.live^
 @@||goo-gl.me^
 @@||goo-id.com^
 @@||goo.by^
-@@||goo.click^
 @@||goo.gle^
 @@||goo.lu^
 @@||goo.re^
 @@||goo.su^
 @@||goo.vc^
-@@||goo2.pro^
 @@||goo2url.com^
 @@||goodmoejo.art^
 @@||goodpics.net^
@@ -4188,7 +4177,6 @@
 @@||govhub.me^
 @@||gowedia.link^
 @@||gowes.in^
-@@||gozepher.com^
 @@||gpaylink.com^
 @@||gph.to^
 @@||gplbaba.com^
@@ -4356,7 +4344,6 @@
 @@||herramientas.marketingcubano.com^
 @@||hex.io^
 @@||heybit.link^
-@@||heykamu.com^
 @@||heylink.me^
 @@||heylinks.de^
 @@||heyyyl.ink^
@@ -4403,7 +4390,6 @@
 @@||hjl.me^
 @@||hk6vdj4z.click^
 @@||hko.nu^
-@@||hkproduction.fr^
 @@||hl7.me^
 @@||hlaueriksson.me^
 @@||hlink.cc^
@@ -4480,7 +4466,6 @@
 @@||href.in^
 @@||href.li^
 @@||href.pw^
-@@||hrshort.com^
 @@||hs-uk.co^
 @@||hs.eloqua.com^
 @@||hsdt.co^
@@ -4632,7 +4617,6 @@
 @@||ig.apple.com^
 @@||ige.li^
 @@||igit.me^
-@@||igzws.com^
 @@||iherb.co^
 @@||ihnpo.com^
 @@||ihor.se^
@@ -4649,7 +4633,6 @@
 @@||iiil.io^
 @@||iioo.ru^
 @@||iitly.com^
-@@||iiuo.org^
 @@||ijaresm.com^
 @@||ijg.cc^
 @@||ijn.tl^
@@ -4670,7 +4653,6 @@
 @@||ilnk.io^
 @@||ilog.io^
 @@||ilsl.de^
-@@||ilyadin.com^
 @@||im.alimebot.taobao.com^
 @@||image.9game.cn^
 @@||image.email.microsoftemail.com^
@@ -4719,7 +4701,6 @@
 @@||img3.tapimg.com^
 @@||img30.360buyimg.com^
 @@||img4.qy0.ru^
-@@||imgo.cc^
 @@||imgs.signifyd.com^
 @@||imgservices-1252317822.image.myqcloud.com^
 @@||imgsrc.baidu.com^
@@ -4753,7 +4734,6 @@
 @@||infa.ltd^
 @@||info.montbell.com^
 @@||info.ms^
-@@||infobaepe.com^
 @@||infs.site^
 @@||infy.com^
 @@||ingatdomainku.org^
@@ -4791,7 +4771,6 @@
 @@||intel.ly^
 @@||interc.pt^
 @@||intercom-clicks.com^
-@@||internet-kor.com^
 @@||internshala.bapi-03.moengage.com^
 @@||interpride.net^
 @@||intest.ink^
@@ -4952,7 +4931,6 @@
 @@||jamp.to^
 @@||janji.me^
 @@||janjikita.me^
-@@||jannikafabian.com^
 @@||japha.co^
 @@||jar.ro^
 @@||jasj.us^
@@ -4968,7 +4946,6 @@
 @@||jd.cn.hn^
 @@||jdem.cz^
 @@||jdev.uk^
-@@||jdoqocy.com^
 @@||jdp.am^
 @@||jek.it^
 @@||jelink.id^
@@ -5015,7 +4992,6 @@
 @@||jmp.ad^
 @@||jmp.im^
 @@||jmp.sh^
-@@||jmp2.net^
 @@||jmpto.net^
 @@||jmvmul.com^
 @@||jmxxud.com^
@@ -5095,7 +5071,6 @@
 @@||jz.rs^
 @@||k-p.li^
 @@||k-qr.com^
-@@||k-wifi-rating.com^
 @@||k.3es.io^
 @@||k.cocooncenter.com^
 @@||k.keyade.com^
@@ -5146,7 +5121,6 @@
 @@||kem.lu^
 @@||kemono.party^
 @@||keraskale.me^
-@@||keremozgit.org^
 @@||ketli.net^
 @@||keyli.me^
 @@||kf.org^
@@ -5156,7 +5130,6 @@
 @@||kg.games^
 @@||kgs.link^
 @@||kgs.yt^
-@@||kgs88.co^
 @@||kham.tw^
 @@||khan.co^
 @@||khtm.ir^
@@ -5223,7 +5196,6 @@
 @@||klikmodus.buzz^
 @@||kliks.info^
 @@||kliksaja.me^
-@@||kliksaya.co^
 @@||kliky.co^
 @@||klinko.io^
 @@||klmf.ly^
@@ -6469,7 +6441,6 @@
 @@||mask-api.icloud.com^
 @@||mask-h2.icloud.com^
 @@||mask.icloud.com^
-@@||masklink.org^
 @@||masl.to^
 @@||masterlink.dev^
 @@||masuk-id.info^
@@ -8330,7 +8301,6 @@
 @@||qiye.163.com^
 @@||qk.lc^
 @@||qklink.ca^
-@@||qksrv.net^
 @@||qkvlk.com^
 @@||qlink.bio^
 @@||qlink.pro^

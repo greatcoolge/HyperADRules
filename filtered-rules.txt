@@ -2542,7 +2542,6 @@ apll.es
 aply.me
 apm.wetest.qq.com
 apm3.music.163.com
-apmebf.com
 apms5.com
 apna.link
 apne.ws
@@ -3399,7 +3398,6 @@ big.at
 big.bilibili.com
 bigbigwinjiliwin63.online
 bigcartel.com
-bigcattracks.com
 bigcc.cc
 bigfi.sh
 bigfile.co.kr
@@ -4289,7 +4287,6 @@ cbsn.ws
 cbsnews.com
 cbt.gg
 cbu01.alicdn.com
-cc-dt.com
 cc.163.com
 cc.cc
 cc.naver.com
@@ -4920,7 +4917,6 @@ click.em.samsclub.com
 click.email.jcpenney.com
 click.email.microsoftemail.com
 click.email.microsoftrewards.com
-click.email.sonos.com
 click.emcom.bankofamerica.com
 click.esky.com
 click.fidelityinvestments.com
@@ -5279,7 +5275,6 @@ commerce.pinterest.com
 commerce1.api.np.km.playstation.net
 commerceforward.marketing.adobe.com
 commimg.pddpic.com
-commission-junction.com
 common.funimation.com
 common.like.naver.com
 commons.wikipedia.com
@@ -7160,7 +7155,6 @@ events.intuit.launchdarkly.com
 events.kaspersky.com
 events.mapbox.com
 events.recode.net
-events.release.narrativ.com
 everee.link
 everest.castbox.fm
 evergage.com
@@ -8171,7 +8165,6 @@ getashorturl.com
 getbio.co
 getbiolink.com
 getbiolink.me
-getbitly.pro
 getblue.me
 getf.ly
 getfinefile.com
@@ -8183,7 +8176,6 @@ getlink.space
 getmore.sonymobile.com
 getpocket.com
 getprof.sg.np.community.playstation.net
-getrecipe.pro
 getresponse.com
 getsatisfaction.com
 getsharex.com
@@ -8559,12 +8551,10 @@ gomobupps.com
 gomomento.co
 gomyly.com
 gonature.live
-gonephishing.me
 goninja.live
 goo-gl.me
 goo-id.com
 goo.by
-goo.click
 goo.gl
 goo.gle
 goo.lu
@@ -8572,7 +8562,6 @@ goo.ne.jp
 goo.re
 goo.su
 goo.vc
-goo2.pro
 goo2url.com
 goodmoejo.art
 goodolddownloads.com
@@ -8852,7 +8841,6 @@ govhub.me
 govtrack.us
 gowedia.link
 gowes.in
-gozepher.com
 gp.se
 gpaylink.com
 gph.to
@@ -9188,7 +9176,6 @@ herokudns.com
 herramientas.marketingcubano.com
 hex.io
 heybit.link
-heykamu.com
 heylink.me
 heylinks.de
 heytapimage.com
@@ -9266,7 +9253,6 @@ hk6vdj4z.click
 hkconfig.gcloud.qq.com
 hko.nu
 hkping.igamecj.com
-hkproduction.fr
 hkspeed.igamecj.com
 hl2rcv.adobe.com
 hl7.me
@@ -9408,7 +9394,6 @@ href.ar
 href.in
 href.li
 href.pw
-hrshort.com
 hrst.ph
 hrten.com
 hs-uk.co
@@ -9713,7 +9698,6 @@ igludostats.moonfroglabs.com
 ign.com
 ignorelist.com
 iguoguo.net
-igzws.com
 iherb.co
 ihnpo.com
 ihor.se
@@ -9730,7 +9714,6 @@ iiiii.in
 iiil.io
 iioo.ru
 iitly.com
-iiuo.org
 ijaresm.com
 ijg.cc
 ijn.tl
@@ -9755,7 +9738,6 @@ ilnk.io
 ilog.io
 ilsl.de
 iltalehti.fi
-ilyadin.com
 im.alimebot.taobao.com
 im.rediff.com
 im.twitch.tv
@@ -9962,7 +9944,6 @@ imgcf.chia-anime.tv
 imgix.net
 imgix.ranker.com
 imgnode.gtimg.cn
-imgo.cc
 imgs.signifyd.com
 imgs.xkcd.com
 imgservices-1252317822.image.myqcloud.com
@@ -10058,7 +10039,6 @@ info.sec.miui.com
 info.seek.com
 info.techcrunch.com
 info.viber.com
-infobaepe.com
 infoblox.com
 infoq.com
 infs.site
@@ -10146,7 +10126,6 @@ intercomcdn.com
 interface.xl9.xunlei.com
 interflora.co.uk
 internal.akadns.net
-internet-kor.com
 internet.sony.tv
 internetdownloadmanager.com
 internshala.bapi-03.moengage.com
@@ -10428,7 +10407,6 @@ jamp.to
 jango.com
 janji.me
 janjikita.me
-jannikafabian.com
 japan.techrepublic.com
 japanese.engadget.com
 japha.co
@@ -10455,7 +10433,6 @@ jd.com
 jd.mi.com
 jdem.cz
 jdev.uk
-jdoqocy.com
 jdownloader.org
 jdp.am
 jeeng.com
@@ -10523,7 +10500,6 @@ jmeet.io
 jmp.ad
 jmp.im
 jmp.sh
-jmp2.net
 jmpto.net
 jmvmul.com
 jmxxud.com
@@ -10669,7 +10645,6 @@ jytechs.in
 jz.rs
 k-p.li
 k-qr.com
-k-wifi-rating.com
 k.3es.io
 k.cocooncenter.com
 k.keyade.com
@@ -10743,7 +10718,6 @@ kem.lu
 kemono.party
 kepler.jd.com
 keraskale.me
-keremozgit.org
 ketli.net
 key.us
 keybase.io
@@ -10762,7 +10736,6 @@ kfurl.cn
 kg.games
 kgs.link
 kgs.yt
-kgs88.co
 kh.de
 kh.google.com
 kham.tw
@@ -10860,7 +10833,6 @@ klikcuan.com
 klikmodus.buzz
 kliks.info
 kliksaja.me
-kliksaya.co
 kliky.co
 klinko.io
 klmf.ly
@@ -12780,7 +12752,6 @@ mashup.map.naver.com
 mask-api.icloud.com
 mask-h2.icloud.com
 mask.icloud.com
-masklink.org
 masl.to
 massive.io
 masterlink.dev
@@ -16108,7 +16079,6 @@ qiye.xiaomi.com
 qiyukf.com
 qk.lc
 qklink.ca
-qksrv.net
 qkvlk.com
 qlink.bio
 qlink.pro
