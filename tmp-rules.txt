@@ -5145,6 +5145,7 @@
 @@||i.s-microsoft.com^
 @@||i.scdn.co^
 @@||i.snap.com^
+@@||i.snssdk.com^
 @@||i.viafoura.co^
 @@||i.vimeocdn.com^
 @@||i.x.sndcdn.com^
