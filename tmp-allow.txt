@@ -1009,13 +1009,11 @@
 @@||api-edge.cognitive.microsofttranslator.com^
 @@||api-eu.cleverpush.com^
 @@||api-eu1.hubapi.com^
-@@||api-iad02-origin.hubapi.com^
 @@||api-mobile.cleverpush.com^
 @@||api-n0vadp-static.hoyoverse.com^
 @@||api-na1.hubapi.com^
 @@||api-na2.hubapi.com^
 @@||api-na3.hubapi.com^
-@@||api-pdx02-origin.hubapi.com^
 @@||api.account.xiaomi.com^
 @@||api.apple-cloudkit.com^
 @@||api.bam-x.com^
@@ -1035,7 +1033,6 @@
 @@||api.narrativ.com^
 @@||api.neixin.cn^
 @@||api.onesignal.com^
-@@||api.origin.hubapi.com^
 @@||api.pushwoosh.com^
 @@||api.pxb7.com^
 @@||api.pzds.com^
@@ -1891,6 +1888,8 @@
 @@||c2-sandbox.piano.io^
 @@||c2.piano.io^
 @@||c24.cn^
+@@||c2827.dotomi.com^
+@@||c2990.dotomi.com^
 @@||c2c.fm^
 @@||c2d.in^
 @@||c2mc.link^
@@ -2161,6 +2160,7 @@
 @@||cl.s10.exct.net^
 @@||cl.s11.exct.net^
 @@||cl.s12.exct.net^
+@@||cl.s13.exct.net^
 @@||cl.s4.exct.net^
 @@||cl.s50.exct.net^
 @@||cl.s51.exct.net^
@@ -3220,7 +3220,6 @@
 @@||email-link.adtidy.info^
 @@||email-link.adtidy.org^
 @@||email-tracking.infobip.com^
-@@||email.microsoft.com^
 @@||email.microsoftonline.com^
 @@||email.office.com^
 @@||email.streamhub.tech^
@@ -6574,7 +6573,6 @@
 @@||mkto-ab010150.com^
 @@||mkto-ab010164.com^
 @@||mkto-ab020242.com^
-@@||mkto-ab030019.com^
 @@||mkto-ab040081.com^
 @@||mkto-ab060134.com^
 @@||mkto-ab060144.com^
@@ -6611,15 +6609,13 @@
 @@||mkto-ab430187.com^
 @@||mkto-ab440026.com^
 @@||mkto-ab450015.com^
-@@||mkto-ab460099.com^
+@@||mkto-ab460168.com^
 @@||mkto-ab540143.com^
 @@||mkto-ab550041.com^
-@@||mkto-ab550140.com^
 @@||mkto-ab560068.com^
 @@||mkto-ab570128.com^
 @@||mkto-ab570178.com^
 @@||mkto-ab580004.com^
-@@||mkto-ab600004.com^
 @@||mkto-ab620024.com^
 @@||mkto-ab630033.com^
 @@||mkto-ab630042.com^
@@ -6631,7 +6627,6 @@
 @@||mkto-abc0114.com^
 @@||mkto-abc0203.com^
 @@||mkto-abj0022.com^
-@@||mkto-abm0229.com^
 @@||mkto-cs0007.com^
 @@||mkto-d0071.com^
 @@||mkto-h0163.com^
@@ -6643,10 +6638,12 @@
 @@||mkto-lon030249.com^
 @@||mkto-lon030262.com^
 @@||mkto-lon030291.com^
+@@||mkto-lon030330.com^
 @@||mkto-lon040102.com^
 @@||mkto-lon060128.com^
 @@||mkto-lon060131.com^
 @@||mkto-lon070075.com^
+@@||mkto-lon070192.com^
 @@||mkto-lon080059.com^
 @@||mkto-lon080147.com^
 @@||mkto-lon080186.com^
@@ -6688,7 +6685,6 @@
 @@||mkto-sj210111.com^
 @@||mkto-sj210170.com^
 @@||mkto-sj240021.com^
-@@||mkto-sj250062.com^
 @@||mkto-sj250187.com^
 @@||mkto-sj270072.com^
 @@||mkto-sj270078.com^
@@ -6700,7 +6696,6 @@
 @@||mkto-sj320080.com^
 @@||mkto-sj330006.com^
 @@||mkto-sj360142.com^
-@@||mkto-sj390079.com^
 @@||mkto-sj400023.com^
 @@||mkto-sjh0084.com^
 @@||mkto-sjh0178.com^
@@ -8006,7 +8001,6 @@
 @@||qi.163.com^
 @@||qicute.com^
 @@||qidian.gtimg.com^
-@@||qikli.co^
 @@||qiye.163.com^
 @@||qk.lc^
 @@||qklink.ca^
@@ -8114,7 +8108,6 @@
 @@||qrtag.fr^
 @@||qrtli.com^
 @@||qrto.org^
-@@||qrump.com^
 @@||qrurl.cc^
 @@||qrurl.co^
 @@||qrurl.us^
@@ -8125,7 +8118,6 @@
 @@||qs1.it^
 @@||qt-tchallenge.vercel.app^
 @@||qt.ke^
-@@||qthq.me^
 @@||qti.ai^
 @@||qtn.co.il^
 @@||qton.top^
@@ -8166,9 +8158,6 @@
 @@||qzr2.com^
 @@||qzs.qq.com^
 @@||r-7.co^
-@@||r-txt.co^
-@@||r-txt.com^
-@@||r-txt.org^
 @@||r.akipam.com^
 @@||r.audible.de^
 @@||r.babscon.com^
@@ -8257,7 +8246,6 @@
 @@||rdr.gr^
 @@||rdr.wargaming.net^
 @@||rdrclk.com^
-@@||rdre.me^
 @@||rdrt.cc^
 @@||rds.ovh^
 @@||rdsaid.com^
@@ -8316,7 +8304,6 @@
 @@||redirect.stripe2.prod.experiment.routing.cloudfront.aws.a2z.com^
 @@||redirect.tracify.ai^
 @@||redirect.viglink.com^
-@@||redirect1587.tagcommander.com^
 @@||redirect271.tagcommander.com^
 @@||redirect28.tagcommander.com^
 @@||redirect33.tagcommander.com^
@@ -8358,7 +8345,6 @@
 @@||redu.it^
 @@||reduced.to^
 @@||reducelnk.com^
-@@||redvt.cc^
 @@||reel.io^
 @@||reelsdownload.net^
 @@||ref.gs^
@@ -8665,7 +8651,6 @@
 @@||s2.qa2.exacttarget.com^
 @@||s21.us^
 @@||s223.me^
-@@||s23.us^
 @@||s3-us-east-1.ossfiles.com^
 @@||s3.meituan.net^
 @@||s3.qa1.exacttarget.com^
@@ -8692,7 +8677,6 @@
 @@||sa-link.cc^
 @@||saasmaster.link^
 @@||sabriabi.net^
-@@||sactiny.com^
 @@||sadar.id^
 @@||saddr.xyz^
 @@||saerly.com^
@@ -9036,7 +9020,6 @@
 @@||short.razinj.com^
 @@||short.re^
 @@||short.relaxlikes.com^
-@@||short.ruksk.com^
 @@||short.sashem.com^
 @@||short.securityops.co^
 @@||short.silex.me^
@@ -9942,7 +9925,6 @@
 @@||suite30-cf.emarsys.net^
 @@||suite30.emarsys.net^
 @@||suite31-cf.emarsys.net^
-@@||suite32.emarsys.net^
 @@||suite33-cf.emarsys.net^
 @@||suite33.emarsys.net^
 @@||suite34.emarsys.net^
@@ -10504,6 +10486,7 @@
 @@||tktwb.tw^
 @@||tkz.es^
 @@||tl.gd^
+@@||tl.tradetracker.net^
 @@||tldr.sk^
 @@||tldrify.com^
 @@||tlil.nl^

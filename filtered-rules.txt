@@ -2176,7 +2176,6 @@ api-glb.smoot.apple.com
 api-global.netflix.com
 api-guestbook.blog.naver.com
 api-hub.samsungyosemite.com
-api-iad02-origin.hubapi.com
 api-iam.intercom.io
 api-item.daum.net
 api-launcher.spot.im
@@ -2198,7 +2197,6 @@ api-na3.hubapi.com
 api-nyc.soundcloud.com
 api-partner.spotify.com
 api-partners.soundcloud.com
-api-pdx02-origin.hubapi.com
 api-rangers.line.me
 api-secure.solvemedia.com
 api-shoulei-ssl.xunlei.com
@@ -2356,7 +2354,6 @@ api.ok.ru
 api.onesignal.com
 api.opensubtitles.org
 api.opentok.com
-api.origin.hubapi.com
 api.ow.ly
 api.paypal.com
 api.perfalytics.com
@@ -4065,6 +4062,8 @@ c2-sandbox.piano.io
 c2.piano.io
 c212.net
 c24.cn
+c2827.dotomi.com
+c2990.dotomi.com
 c2c.fm
 c2d.in
 c2mc.link
@@ -4798,6 +4797,7 @@ cl.ly
 cl.s10.exct.net
 cl.s11.exct.net
 cl.s12.exct.net
+cl.s13.exct.net
 cl.s4.exct.net
 cl.s50.exct.net
 cl.s51.exct.net
@@ -6844,7 +6844,6 @@ email.dailycaller.com
 email.flipboard.com
 email.gotinder.com
 email.mail.breitbart.com
-email.microsoft.com
 email.microsoftonline.com
 email.notify.vuukle.com
 email.office.com
@@ -13089,7 +13088,6 @@ mkto-a0345.com
 mkto-ab010150.com
 mkto-ab010164.com
 mkto-ab020242.com
-mkto-ab030019.com
 mkto-ab040081.com
 mkto-ab060134.com
 mkto-ab060144.com
@@ -13126,15 +13124,13 @@ mkto-ab430186.com
 mkto-ab430187.com
 mkto-ab440026.com
 mkto-ab450015.com
-mkto-ab460099.com
+mkto-ab460168.com
 mkto-ab540143.com
 mkto-ab550041.com
-mkto-ab550140.com
 mkto-ab560068.com
 mkto-ab570128.com
 mkto-ab570178.com
 mkto-ab580004.com
-mkto-ab600004.com
 mkto-ab620024.com
 mkto-ab630033.com
 mkto-ab630042.com
@@ -13146,7 +13142,6 @@ mkto-abb0069.com
 mkto-abc0114.com
 mkto-abc0203.com
 mkto-abj0022.com
-mkto-abm0229.com
 mkto-cs0007.com
 mkto-d0071.com
 mkto-h0163.com
@@ -13158,10 +13153,12 @@ mkto-lon020336.com
 mkto-lon030249.com
 mkto-lon030262.com
 mkto-lon030291.com
+mkto-lon030330.com
 mkto-lon040102.com
 mkto-lon060128.com
 mkto-lon060131.com
 mkto-lon070075.com
+mkto-lon070192.com
 mkto-lon080059.com
 mkto-lon080147.com
 mkto-lon080186.com
@@ -13203,7 +13200,6 @@ mkto-sj200201.com
 mkto-sj210111.com
 mkto-sj210170.com
 mkto-sj240021.com
-mkto-sj250062.com
 mkto-sj250187.com
 mkto-sj270072.com
 mkto-sj270078.com
@@ -13215,7 +13211,6 @@ mkto-sj310175.com
 mkto-sj320080.com
 mkto-sj330006.com
 mkto-sj360142.com
-mkto-sj390079.com
 mkto-sj400023.com
 mkto-sjh0084.com
 mkto-sjh0178.com
@@ -15778,7 +15773,6 @@ qichacha.com
 qicute.com
 qidian.gtimg.com
 qihucdn.com
-qikli.co
 qingcdn.com
 qiniudn.com
 qiniudns.com
@@ -15902,7 +15896,6 @@ qrsu.io
 qrtag.fr
 qrtli.com
 qrto.org
-qrump.com
 qrurl.cc
 qrurl.co
 qrurl.us
@@ -15915,7 +15908,6 @@ qsrm.qualcomm.com
 qt-tchallenge.vercel.app
 qt.gtimg.cn
 qt.ke
-qthq.me
 qti.ai
 qtn.co.il
 qton.top
@@ -15966,9 +15958,6 @@ qzonestyle.gtimg.cn
 qzr2.com
 qzs.qq.com
 r-7.co
-r-txt.co
-r-txt.com
-r-txt.org
 r.akipam.com
 r.audible.de
 r.babscon.com
@@ -16126,7 +16115,6 @@ rdl.ink
 rdr.gr
 rdr.wargaming.net
 rdrclk.com
-rdre.me
 rdrt.cc
 rds-assets.nvidia.com
 rds.ovh
@@ -16219,7 +16207,6 @@ redirect.stripe2.prod.experiment.routing.cloudfront.aws.a2z.com
 redirect.tracify.ai
 redirect.viglink.com
 redirect.wip4.adobe.com
-redirect1587.tagcommander.com
 redirect271.tagcommander.com
 redirect28.tagcommander.com
 redirect33.tagcommander.com
@@ -16266,7 +16253,6 @@ redtube.com
 redu.it
 reduced.to
 reducelnk.com
-redvt.cc
 reebok.com
 reel.io
 reelsdownload.net
@@ -16790,7 +16776,6 @@ s2.youtube.com
 s2017a.techmeme.com
 s21.us
 s223.me
-s23.us
 s2k7tnzlhrpw.statuspage.io
 s2p.mpay.samsung.com
 s2p.stg.mpay.samsung.com
@@ -16845,7 +16830,6 @@ sa1-urlp.secure.skypeassets.com
 saasmaster.link
 sabriabi.net
 sacramento.cbslocal.com
-sactiny.com
 sadar.id
 saddr.xyz
 sadmin.brightcove.com
@@ -17534,7 +17518,6 @@ short.profi.lv
 short.razinj.com
 short.re
 short.relaxlikes.com
-short.ruksk.com
 short.sashem.com
 short.securityops.co
 short.silex.me
@@ -19031,7 +19014,6 @@ suite30-cdnnet.emarsys.net
 suite30-cf.emarsys.net
 suite30.emarsys.net
 suite31-cf.emarsys.net
-suite32.emarsys.net
 suite33-cf.emarsys.net
 suite33.emarsys.net
 suite34.emarsys.net
@@ -19894,6 +19876,7 @@ tkx.apis.anvato.net
 tkz.es
 tl.gd
 tl.statcounter.com
+tl.tradetracker.net
 tlc.com
 tld-list.com
 tldr.sk
