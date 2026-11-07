@@ -4065,8 +4065,6 @@ c2-sandbox.piano.io
 c2.piano.io
 c212.net
 c24.cn
-c2827.dotomi.com
-c2990.dotomi.com
 c2c.fm
 c2d.in
 c2mc.link
@@ -13142,7 +13140,9 @@ mkto-ab630033.com
 mkto-ab630042.com
 mkto-ab650172.com
 mkto-ab680016.com
+mkto-ab680085.com
 mkto-ab690132.com
+mkto-abb0069.com
 mkto-abc0114.com
 mkto-abc0203.com
 mkto-abj0022.com
@@ -13177,6 +13177,7 @@ mkto-nld1010079.com
 mkto-nld1010097.com
 mkto-nld1010150.com
 mkto-nld1020025.com
+mkto-nld1020077.com
 mkto-nld1020084.com
 mkto-nld1020138.com
 mkto-nld1020182.com
@@ -14242,7 +14243,6 @@ nz.static.mega.co.nz
 o-link.top
 o-s.io
 o-x.fr
-o-yes.net
 o.9nl.com
 o.alicdn.com
 o.aolcdn.com
@@ -14458,7 +14458,6 @@ onelink.to
 onelinkly.com
 onelnk.com
 onelogin.com
-onemlibirbilgi.org
 onenetworkdirect.net
 oneocsp.microsoft.com
 onepixel.link
@@ -14681,7 +14680,6 @@ owarisubs.lacumpa.biz
 owl.li
 owl.ly
 owlti.ng
-owly.site
 owssas.gsc.huawei.com
 owurl.com
 owy.mn
@@ -14802,7 +14800,6 @@ padspl.it
 pag.la
 page.line.me
 page.link
-page1healthcare.link
 pagefair.com
 pages.ebay.com
 pages.em.funimation.com
@@ -14814,7 +14811,6 @@ pages.typekit.com
 pagetie.com
 pagseguro.uol.com.br
 painthegame.playstation.com
-pairedinparadise.live
 palpatecricketmajesty.com
 pamethelabel.info
 pan-cdn.exponea.com
@@ -14899,7 +14895,6 @@ paths.to
 pathslab.com
 paulfredrick.com
 paut.to
-pawl.bio
 pay.bilibili.com
 pay.bithumb.com
 pay.g2play.com
@@ -14981,7 +14976,6 @@ peercertification.wildalwhite.com
 peerwith.me
 pegasurl.com
 pego.work
-pekcamke.link
 pellz.link
 pencetdulu.com
 pendo.io
@@ -14992,7 +14986,6 @@ people-pa.googleapis.com
 people.com
 people.skype.com
 peoplem.ag
-peoplenotpersons.com
 pepperjamnetwork.com
 peppermint.samsung.com
 peppy.link
@@ -15086,7 +15079,6 @@ pia.sh
 pic*.40017.cn
 pic*.zhimg.com
 pic.baike.soso.com
-pic.gd
 pic.iask.cn
 pic.imgdb.cn
 pic.pic-img.com
