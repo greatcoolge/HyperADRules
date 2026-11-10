@@ -6243,6 +6243,7 @@
 @@||dlied5.myapp.com^
 @@||dlik.ch^
 @@||dll.xposed.info^
+@@||dlpeace.com^
 @@||dlsh.it^
 @@||dlvr.it^
 @@||dlxda.xposed.info^
@@ -16695,6 +16696,7 @@
 @@||s.ign.com^
 @@||s.kiot.io^
 @@||s.klinikpintar.id^
+@@||s.kode4u.tech^
 @@||s.lalazodiac.com^
 @@||s.livstick.io^
 @@||s.locus.cards^

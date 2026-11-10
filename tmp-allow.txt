@@ -2897,6 +2897,7 @@
 @@||dldir1.qq.com^
 @@||dldir1v6.qq.com^
 @@||dlik.ch^
+@@||dlpeace.com^
 @@||dlsh.it^
 @@||dlvr.it^
 @@||dly.es^
@@ -8604,6 +8605,7 @@
 @@||s.id^
 @@||s.kiot.io^
 @@||s.klinikpintar.id^
+@@||s.kode4u.tech^
 @@||s.lalazodiac.com^
 @@||s.livstick.io^
 @@||s.locus.cards^
