@@ -2202,6 +2202,7 @@
 @@||api-na2.hubapi.com^
 @@||api-na3.hubapi.com^
 @@||api-nyc.soundcloud.com^
+@@||api-origin.hubapi.com^
 @@||api-partner.spotify.com^
 @@||api-partners.soundcloud.com^
 @@||api-rangers.line.me^
@@ -2597,11 +2598,13 @@
 @@||app1c.gateway.portal.outreach.io^
 @@||app1c.outreach.io^
 @@||app1e.gateway.portal.outreach.io^
+@@||app1e.outreach.io^
 @@||app1f.gateway.portal.outreach.io^
 @@||app1f.outreach.io^
 @@||app2.salesmanago.pl^
 @@||app2a.gateway.portal.outreach.io^
 @@||app2a.outreach.io^
+@@||app2b.outreach.io^
 @@||app2c.gateway.portal.outreach.io^
 @@||app2c.outreach.io^
 @@||app3.salesmanago.pl^
@@ -3734,7 +3737,6 @@
 @@||bolstr.online^
 @@||bolt.dropbox.com^
 @@||boltsly.com^
-@@||bom.io.vn^
 @@||bom.so^
 @@||bom.to^
 @@||bom88.store^
@@ -4071,7 +4073,6 @@
 @@||c212.net^
 @@||c24.cn^
 @@||c2827.dotomi.com^
-@@||c2990.dotomi.com^
 @@||c2c.fm^
 @@||c2d.in^
 @@||c2mc.link^
@@ -4364,7 +4365,6 @@
 @@||cdn.digitaltrends.com^
 @@||cdn.discordapp.com^
 @@||cdn.dnaindia.com^
-@@||cdn.e-pfg.exponea.com^
 @@||cdn.edgesuite.net^
 @@||cdn.embed.ly^
 @@||cdn.embedly.com^
@@ -4379,6 +4379,7 @@
 @@||cdn.flurry.com^
 @@||cdn.fontawesome.com^
 @@||cdn.friendbuy.com^
+@@||cdn.ftspecialist.exponea.com^
 @@||cdn.fwupd.org^
 @@||cdn.gatehousemedia.com^
 @@||cdn.gigya.commes.122.2o7.net^
@@ -4805,6 +4806,7 @@
 @@||cl.s10.exct.net^
 @@||cl.s11.exct.net^
 @@||cl.s12.exct.net^
+@@||cl.s13.exct.net^
 @@||cl.s4.exct.net^
 @@||cl.s50.exct.net^
 @@||cl.s51.exct.net^
@@ -12171,7 +12173,6 @@
 @@||m-ax.custobar.com^
 @@||m-b2o72.custobar.com^
 @@||m-bzp7z.custobar.com^
-@@||m-dpsxz.custobar.com^
 @@||m-dsrbu.custobar.com^
 @@||m-fi32s.custobar.com^
 @@||m-gzmk5.custobar.com^
@@ -13112,7 +13113,6 @@
 @@||mkto-ab130037.com^
 @@||mkto-ab130147.com^
 @@||mkto-ab130188.com^
-@@||mkto-ab140048.com^
 @@||mkto-ab170094.com^
 @@||mkto-ab180024.com^
 @@||mkto-ab240112.com^
@@ -13156,9 +13156,10 @@
 @@||mkto-abc0114.com^
 @@||mkto-abc0203.com^
 @@||mkto-abj0022.com^
+@@||mkto-abm0229.com^
+@@||mkto-cs0007.com^
 @@||mkto-d0071.com^
 @@||mkto-h0163.com^
-@@||mkto-i0028.com^
 @@||mkto-lon020055.com^
 @@||mkto-lon020062.com^
 @@||mkto-lon020302.com^
@@ -13168,10 +13169,8 @@
 @@||mkto-lon030291.com^
 @@||mkto-lon030330.com^
 @@||mkto-lon040102.com^
-@@||mkto-lon060128.com^
 @@||mkto-lon060131.com^
 @@||mkto-lon070075.com^
-@@||mkto-lon070192.com^
 @@||mkto-lon080059.com^
 @@||mkto-lon090040.com^
 @@||mkto-lon100192.com^
@@ -13223,7 +13222,6 @@
 @@||mkto-sj360142.com^
 @@||mkto-sj400023.com^
 @@||mkto-sjh0084.com^
-@@||mkto-sjh0178.com^
 @@||mkto-sji0033.com^
 @@||mkto-sji0183.com^
 @@||mkto-test.com^
@@ -13826,6 +13824,7 @@
 @@||nej.md^
 @@||nejmqianyan.cn^
 @@||neo.am^
+@@||neoengage-va-cdn.exponea.com^
 @@||neonslug.com^
 @@||neontools.io^
 @@||neoplanet.snap.com^
@@ -19036,6 +19035,7 @@
 @@||suite33.emarsys.net^
 @@||suite34.emarsys.net^
 @@||suite37.emarsys.net^
+@@||suite38-cf.emarsys.net^
 @@||suite38.emarsys.net^
 @@||suite40-cf.emarsys.net^
 @@||suite40.emarsys.net^
@@ -20696,6 +20696,7 @@
 @@||unibytes.com^
 @@||unicycle.to^
 @@||unilever2.demdex.net^
+@@||unilever3.demdex.net^
 @@||unim.ma^
 @@||unimma.link^
 @@||union-click.jd.com^
