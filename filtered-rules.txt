@@ -4543,6 +4543,7 @@ ceneo.pl
 census.gov
 centi.ai
 cepat.link
+cepet.in
 cert.halo.part.xbox.com
 cert.mgt.xboxlive.com
 certification.bithumb.com
@@ -4836,6 +4837,7 @@ clic.ae
 clica.ai
 clica.link
 clicai.xyz
+click-genius.com
 click-goo.com
 click-myl.ink
 click-tracking.klarna.net
@@ -8269,6 +8271,7 @@ gma.abc
 gma.alicdn.com
 gmail.com
 gmail.google.com
+gmh.bz
 gmj.to
 gmj.tw
 gmlft.co
@@ -11674,6 +11677,7 @@ linksplit.io
 linksqueeze.io
 linksredirect.com
 linksshift.com
+linksshortener.com
 linkstack.co
 linkste.com
 linkstracer.com
@@ -17733,6 +17737,7 @@ shortster.net
 shortsurl.site
 shortswitch.com
 shortsy.pro
+shortthis.app
 shortturl.co
 shortu.be
 shorturl-frontend-lac.vercel.app
@@ -18469,6 +18474,7 @@ sqdd.myapp.com
 sqex.to
 sqimg.qq.com
 sqr.co
+sqrl.it
 sqrx.io
 sqs.us-east-1.amazonaws.com
 squ.re
@@ -19802,6 +19808,7 @@ tiny.tw
 tiny.us
 tiny123.com
 tiny1z.com
+tinyard.co
 tinyarro.ws
 tinybit.cc
 tinybro.com
@@ -20552,6 +20559,7 @@ u.wechat.com
 u0c.net
 u1.mnge.co
 u2.to
+u2l.io
 u2s.ca
 u2s.tn
 u301.com
@@ -21729,6 +21737,7 @@ vqijir.com
 vqr.vc
 vr-ov-crl.thawte.com
 vr.mi.com
+vrd.ci
 vretive.com
 vrnda.us
 vrv.su
@@ -24169,6 +24178,7 @@ yourls.lu
 yourls.newstargeted.com
 yourls.org
 yourls.ph-freiburg.de
+yourls.website
 youronlinechoices.com
 yourwish.es
 yous.ee
