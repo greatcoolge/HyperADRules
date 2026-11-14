@@ -469,7 +469,6 @@
 @@||4l.shop^
 @@||4md.ir^
 @@||4or.de^
-@@||4patientcare-cdn.exponea.com^
 @@||4pda.ru^
 @@||4pda.to^
 @@||4qt.in^
@@ -754,6 +753,7 @@
 @@||aax-events-cell02-cf.us-east.ono.axp.amazon-adsystem.com^
 @@||aax-events-cell02-cf.us-west.3px.axp.amazon-adsystem.com^
 @@||aax-events-cell02-wt.ap-southeast.aps.axp.amazon-adsystem.com^
+@@||aax-events-cell08.us-east.ono.axp.amazon-adsystem.com^
 @@||aax-events-dedicated.eu-west.ono.axp.amazon-adsystem.com^
 @@||aax-events-dedicated.us-east.ono.axp.amazon-adsystem.com^
 @@||aax-events-pdns-wt.eu-west.3px.axp.amazon-adsystem.com^
@@ -1315,6 +1315,7 @@
 @@||aktfclick.com^
 @@||akun.gg^
 @@||akunfix.com^
+@@||akunjpvip.xyz^
 @@||akunklik.com^
 @@||akunnp.com^
 @@||akunss.com^
@@ -1352,6 +1353,7 @@
 @@||alie.kr^
 @@||alien-traffic.com^
 @@||alientraffic.com^
+@@||aliexpi.com^
 @@||aliexpress.com^
 @@||alimama.com^
 @@||alime-customer-upload-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com^
@@ -3688,6 +3690,7 @@
 @@||blueskymap.org^
 @@||blueskyxn.com^
 @@||bluesoleil.com^
+@@||blur.by^
 @@||blynkn.com^
 @@||blyto.com^
 @@||bmai.cc^
@@ -4066,6 +4069,7 @@
 @@||c212.net^
 @@||c24.cn^
 @@||c2827.dotomi.com^
+@@||c2990.dotomi.com^
 @@||c2c.fm^
 @@||c2d.in^
 @@||c2mc.link^
@@ -4800,6 +4804,7 @@
 @@||cl.s10.exct.net^
 @@||cl.s11.exct.net^
 @@||cl.s12.exct.net^
+@@||cl.s13.exct.net^
 @@||cl.s4.exct.net^
 @@||cl.s50.exct.net^
 @@||cl.s51.exct.net^
@@ -4881,6 +4886,7 @@
 @@||click.member.americanexpress.com^
 @@||click.members.nra.org^
 @@||click.mfilter.net^
+@@||click.microsoftstoreemail.com^
 @@||click.mlsend.com^
 @@||click.myctm.canadiantire.ca^
 @@||click.mz.simba.taobao.com^
@@ -4900,6 +4906,7 @@
 @@||click.trackingadz.com^
 @@||click.txn-email.playstation.com^
 @@||click.virt.s2525.exacttarget.com^
+@@||click.world.taobao.com^
 @@||click.yhd.com^
 @@||click.zoom.us^
 @@||click360.gr^
@@ -11259,6 +11266,7 @@
 @@||lil.so^
 @@||lilbt.com^
 @@||lillink.net^
+@@||lillink.xyz^
 @@||lilllil.ru^
 @@||lilnk.to^
 @@||lilo.org^
@@ -11734,6 +11742,7 @@
 @@||linqer.me^
 @@||linqry.com^
 @@||linqup.in^
+@@||lintlink.com^
 @@||linux.mom^
 @@||linuxtracker.org^
 @@||linxonly.com^
@@ -13114,6 +13123,7 @@
 @@||mkto-ab180024.com^
 @@||mkto-ab240112.com^
 @@||mkto-ab250055.com^
+@@||mkto-ab250115.com^
 @@||mkto-ab250167.com^
 @@||mkto-ab290138.com^
 @@||mkto-ab300013.com^
@@ -13130,6 +13140,7 @@
 @@||mkto-ab430045.com^
 @@||mkto-ab430076.com^
 @@||mkto-ab430111.com^
+@@||mkto-ab430114.com^
 @@||mkto-ab430186.com^
 @@||mkto-ab430187.com^
 @@||mkto-ab440026.com^
@@ -13173,6 +13184,7 @@
 @@||mkto-lon070075.com^
 @@||mkto-lon080059.com^
 @@||mkto-lon090040.com^
+@@||mkto-lon100167.com^
 @@||mkto-m0111.com^
 @@||mkto-mlm10010008.com^
 @@||mkto-mlm10030005.com^
@@ -13208,10 +13220,10 @@
 @@||mkto-sj210170.com^
 @@||mkto-sj230010.com^
 @@||mkto-sj240021.com^
-@@||mkto-sj250062.com^
 @@||mkto-sj270072.com^
 @@||mkto-sj270078.com^
 @@||mkto-sj270080.com^
+@@||mkto-sj280085.com^
 @@||mkto-sj290040.com^
 @@||mkto-sj290167.com^
 @@||mkto-sj300023.com^
@@ -13224,6 +13236,7 @@
 @@||mkto-sjh0084.com^
 @@||mkto-sji0033.com^
 @@||mkto-sji0183.com^
+@@||mkto-sn040110.com^
 @@||mkto-test.com^
 @@||mkto-trk.cisco.com^
 @@||mktoweb.com^
@@ -15375,6 +15388,7 @@
 @@||postsign.docusign.com^
 @@||posu.cc^
 @@||poszlink.com^
+@@||potong.co^
 @@||potplayer.daum.net^
 @@||powerapplinks.com^
 @@||powerreviews.com^
@@ -16245,7 +16259,6 @@
 @@||redirect675.tagcommander.com^
 @@||redirect684.tagcommander.com^
 @@||redirect837.tagcommander.com^
-@@||redirect891.tagcommander.com^
 @@||redirectingat.com^
 @@||redirectly.app^
 @@||redirectly.link^
@@ -17787,6 +17800,7 @@
 @@||shortylink.org^
 @@||shortyurl.top^
 @@||shortyzone.com^
+@@||shotcut.in^
 @@||shots.snap.com^
 @@||shoturl.org^
 @@||shoturl.us^
@@ -17986,6 +18000,7 @@
 @@||sites.hscoscdn-ap1.net^
 @@||sites.hscoscdn-eu1.net^
 @@||sites.hscoscdn-na2.net^
+@@||sites.hscoscdn-na3.net^
 @@||sites.hscoscdn00.net^
 @@||sites.hscoscdn10.net^
 @@||sites.hscoscdn20.net^
@@ -19035,7 +19050,6 @@
 @@||suite33-cf.emarsys.net^
 @@||suite33.emarsys.net^
 @@||suite34.emarsys.net^
-@@||suite36.emarsys.net^
 @@||suite37.emarsys.net^
 @@||suite38-cf.emarsys.net^
 @@||suite38.emarsys.net^
@@ -21801,6 +21815,7 @@
 @@||w.x.sndcdn.com^
 @@||w09.ru^
 @@||w0o.de^
+@@||w0of-woof.com^
 @@||w1.sndcdn.com^
 @@||w1p.fr^
 @@||w2link.com^
@@ -22200,6 +22215,7 @@
 @@||wl.gl^
 @@||wl.jd.com^
 @@||wl.spotify.com^
+@@||wlink.us^
 @@||wlinky.com^
 @@||wlo.ospserver.net^
 @@||wluuns.com^
@@ -24175,6 +24191,7 @@
 @@||yourls.info^
 @@||yourls.irex.aretex.ca^
 @@||yourls.lu^
+@@||yourls.net^
 @@||yourls.newstargeted.com^
 @@||yourls.org^
 @@||yourls.ph-freiburg.de^
