@@ -458,7 +458,6 @@
 4h.net
 4hi.co
 4i.ae
-4insurancejobs.com
 4ja.ai
 4l.shop
 4md.ir
@@ -747,7 +746,6 @@ aax-events-cell02-cf.us-east.3px.axp.amazon-adsystem.com
 aax-events-cell02-cf.us-east.ono.axp.amazon-adsystem.com
 aax-events-cell02-cf.us-west.3px.axp.amazon-adsystem.com
 aax-events-cell02-wt.ap-southeast.aps.axp.amazon-adsystem.com
-aax-events-cell08.us-east.ono.axp.amazon-adsystem.com
 aax-events-dedicated.eu-west.ono.axp.amazon-adsystem.com
 aax-events-dedicated.us-east.ono.axp.amazon-adsystem.com
 aax-events-pdns-wt.eu-west.3px.axp.amazon-adsystem.com
@@ -1254,7 +1252,6 @@ airdownload2.adobe.com
 airfind.com
 airinstall.adobe.com
 airrlink.com
-airshort.de
 airtable.com
 aisc.live
 aiseet.atianqi.com
@@ -2585,8 +2582,8 @@ app.wechat.com
 app.winred.com
 app.xiaomi.com
 app.zhuanzhuan.com
+app1a.gateway.portal.outreach.io
 app1a.outreach.io
-app1b.outreach.io
 app1c.gateway.portal.outreach.io
 app1c.outreach.io
 app1e.gateway.portal.outreach.io
@@ -2596,9 +2593,7 @@ app1f.outreach.io
 app2.salesmanago.pl
 app2a.gateway.portal.outreach.io
 app2a.outreach.io
-app2b.outreach.io
 app2c.gateway.portal.outreach.io
-app2c.outreach.io
 app3.salesmanago.pl
 app4.moovitapp.com
 app4cdn.moovitapp.com
@@ -3870,7 +3865,6 @@ bs.gravatar.com
 bs09.de
 bs303.com
 bschlack.link
-bsg.news
 bshare.me
 bslm.me
 bsq.link
@@ -4356,6 +4350,7 @@ cdn.destinilocators.com
 cdn.digitaltrends.com
 cdn.discordapp.com
 cdn.dnaindia.com
+cdn.e-pfg.exponea.com
 cdn.edgesuite.net
 cdn.embed.ly
 cdn.embedly.com
@@ -4370,7 +4365,6 @@ cdn.fluidplayer.com
 cdn.flurry.com
 cdn.fontawesome.com
 cdn.friendbuy.com
-cdn.ftspecialist.exponea.com
 cdn.fwupd.org
 cdn.gatehousemedia.com
 cdn.gigya.commes.122.2o7.net
@@ -4565,7 +4559,6 @@ cfg.me
 cfh.li
 cfl.dropboxstatic.com
 cfl.re
-cfons.com
 cfos.de
 cfota-admin4.ospserver.net
 cfota1.ospserver.net
@@ -4596,7 +4589,6 @@ challenge.flipboard.com
 chan.sankakucomplex.com
 change-erp.com
 change.org
-changelink.pro
 changelly.com
 changelogs.ubuntu.com
 channel9.msdn.com
@@ -6611,7 +6603,6 @@ e6ui.shop
 e78installers.com
 e8.org
 e8318.dsca.akamaiedge.net
-e9e.ir
 ea.co
 ea.com
 ea1-urlp.secure.skypeassets.com
@@ -6808,7 +6799,6 @@ elections.huffingtonpost.com
 elegantthemes.com
 elephantjournal.com
 elev.eu
-elfdirect.com
 eliasbrickner.com
 elink.ly
 elinks.bio
@@ -7286,7 +7276,6 @@ fastcdn.hoyoverse.com
 fastcompany.com
 fastdrama.co
 fastdrama.se
-fastfilehost.link
 fasthouse.me
 fastjpeg.net
 fastlinks.com.tr
@@ -8030,7 +8019,6 @@ gel.to
 gelbenseiten.eu
 gelbooru.com
 gematsu.com
-gemilink.us
 geml.me
 gempixel.com
 gemy.link
@@ -8761,7 +8749,6 @@ goto.my
 goto.now
 goto.onestream.live
 goto.pt
-goto.synapse.com
 goto.target.com
 goto.ucr.edu
 goto.unm.edu
@@ -9236,7 +9223,6 @@ hoken.rakuten.co.jp
 hoki22crot.com
 hokidana.vip
 hokie.co
-hokiku.link
 hokilink.net
 hola.org
 hollywood.com
@@ -9903,20 +9889,18 @@ imo.cx
 imop.com
 imp.i104546.net
 imp.i114863.net
-imp.i116503.net
-imp.i125364.net
 imp.i127447.net
 imp.i128439.net
 imp.i146998.net
 imp.i215020.net
 imp.i254217.net
 imp.i256749.net
+imp.i287301.net
 imp.i305175.net
-imp.i310051.net
+imp.i313392.net
 imp.i319830.net
 imp.i326929.net
 imp.i346552.net
-imp.i350665.net
 imp.i384100.net
 impala-external-lb-1441126057.us-east-1.elb.amazonaws.com
 impl.us
@@ -11717,7 +11701,6 @@ linkto.eu
 linktop.site
 linktr.ee
 linktrack.ihsansoloads.com
-linktransform.com
 linktrap.co
 linktw.in
 linkulb.com
@@ -12204,6 +12187,7 @@ m-k.ca
 m-kpz.custobar.com
 m-l2cgv.custobar.com
 m-lka.custobar.com
+m-mjr.custobar.com
 m-mmasd.custobar.com
 m-nxt.custobar.com
 m-oszhr.custobar.com
@@ -12681,7 +12665,6 @@ massive.io
 masterlink.dev
 masuk-id.info
 masuk.cfd
-masuk.to
 masy.uk
 mat1.gtimg.com
 match.com
@@ -13133,12 +13116,14 @@ mkto-ab130188.com
 mkto-ab170094.com
 mkto-ab180024.com
 mkto-ab240112.com
+mkto-ab240185.com
 mkto-ab250055.com
 mkto-ab250115.com
 mkto-ab250167.com
 mkto-ab290138.com
 mkto-ab300013.com
 mkto-ab300154.com
+mkto-ab310016.com
 mkto-ab330018.com
 mkto-ab330047.com
 mkto-ab340022.com
@@ -13159,7 +13144,6 @@ mkto-ab450015.com
 mkto-ab460168.com
 mkto-ab540143.com
 mkto-ab550041.com
-mkto-ab550140.com
 mkto-ab550184.com
 mkto-ab560068.com
 mkto-ab570128.com
@@ -13191,6 +13175,7 @@ mkto-lon030330.com
 mkto-lon040102.com
 mkto-lon060043.com
 mkto-lon060131.com
+mkto-lon060196.com
 mkto-lon070031.com
 mkto-lon070075.com
 mkto-lon080059.com
@@ -13766,7 +13751,6 @@ na53.content.force.com
 naa.gg
 nac.naver.com
 nagakuat.com
-nah.uy
 nahnoji.cz
 naifei.shop
 naik-terus.com
@@ -15193,7 +15177,6 @@ pixpro.me
 pj.pizza
 pjatr.com
 pjps.to
-pjspo.com
 pjtra.com
 pke.to
 pkg.adfinis-sygroup.ch
@@ -17247,7 +17230,6 @@ seedr.cc
 seedsta.rs
 seeinfo.eu
 seeme.at
-seemless.link
 seemyshare.com
 seer.to
 seesaa.net
@@ -17793,7 +17775,6 @@ shorturlapp.com
 shorturlbot.com
 shorturlhub.com
 shorturlmagic.link
-shorturls.at
 shorturls.co.uk
 shorturls.me
 shorturls.pro
@@ -17809,7 +17790,6 @@ shorty.one
 shortybiolink.com
 shortyearn.com
 shortylink.org
-shortyurl.top
 shortyzone.com
 shotcut.in
 shots.snap.com
@@ -17878,7 +17858,6 @@ shrt.it
 shrt.st
 shrt.vip
 shrtco.de
-shrtct.pro
 shrten.com
 shrten.us
 shrter.de
@@ -18011,7 +17990,6 @@ sites.google.com
 sites.hscoscdn-ap1.net
 sites.hscoscdn-eu1.net
 sites.hscoscdn-na2.net
-sites.hscoscdn-na3.net
 sites.hscoscdn00.net
 sites.hscoscdn10.net
 sites.hscoscdn20.net
@@ -18361,7 +18339,6 @@ soopr.co
 sophy.ca
 soporte.latam.playstation.com
 sor.bz
-sorc.me
 sorjq.com
 sorkale.me
 sosi.al
@@ -19070,7 +19047,6 @@ suite41.emarsys.net
 suite43.emarsys.net
 suite45-cf.emarsys.net
 suite45.emarsys.net
-suite46-cf.emarsys.net
 suite46.emarsys.net
 suite48.emarsys.net
 suite5.emarsys.net
@@ -19347,7 +19323,6 @@ t.ow.ly
 t.paypal.com
 t.purch.com
 t.sidekickopen05-eu1.com
-t.sidekickopen07.com
 t.sidekickopen21.com
 t.tl
 t.uc.cn
@@ -19967,7 +19942,6 @@ tn.wikipedia.com
 tnc3-alisc1.bytedance.com
 tnflink.uk
 tnij.org
-tnij.uk
 tnl-dash.com.edgesuite.net
 tnlinks.in
 tnlnk.fr
@@ -20860,7 +20834,6 @@ ur.wikipedia.com
 ur0.link
 ur1.ca
 ur3.us
-ur301.com
 ur4l.com
 ura.vn
 urb.tf
@@ -20980,14 +20953,11 @@ url12xx.com
 url2.fr
 url2.in
 url24.link
-url28x.com
 url2a.site
 url2go.pro
 url2s.com
 url302x.icu
 url302x.top
-url36x.com
-url37x.com
 url38x.com
 url39x.com
 url4.eu
@@ -21061,7 +21031,6 @@ urlhub-rouge.vercel.app
 urlhub.ai
 urlhum.com
 urli.ai
-urli.in
 urli.info
 urlies.com
 urlified.com
@@ -21072,7 +21041,6 @@ urlify.link
 urlifypoint.com
 urlifys.com
 urlin.bio
-urlin.it
 urlink-short.vercel.app
 urlintel.com
 urlio.co
@@ -21127,7 +21095,6 @@ urls.oenet.gr
 urls.ovh
 urls.to
 urls.visionrocket.com
-urls1xx.com
 urlsear.ch
 urlsh.net
 urlsh.us
@@ -21182,7 +21149,6 @@ urlto.me
 urltools.com
 urltoshort.com
 urltrax.com
-urltronic.com
 urltta.top
 urlttb.top
 urlty.cc
@@ -21833,7 +21799,6 @@ w2link.com
 w2u.io
 w3.cdn.anvato.net
 w3.org
-w33.li
 w3dv.com
 w3m.huawei.com
 w3n.us
@@ -24246,7 +24211,6 @@ yuk.nu
 yukibio.com
 yul.is
 yule.sohu.com
-yulllu01.online
 yun.duiba.com.cn
 yun.ir
 yunfile.com
@@ -24486,7 +24450,6 @@ zxq.net
 zyguer.com
 zynexly.com
 zynga.my
-zyva.org
 zywv.us
 zz-tw.co
 zz.ee
