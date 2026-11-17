@@ -1224,6 +1224,7 @@
 @@||agbr.ir^
 @@||agilean.in^
 @@||agileurbia.com^
+@@||agll.ink^
 @@||agmd.win^
 @@||agoz.me^
 @@||agr.my^
@@ -2595,12 +2596,15 @@
 @@||app1c.gateway.portal.outreach.io^
 @@||app1c.outreach.io^
 @@||app1e.gateway.portal.outreach.io^
+@@||app1e.outreach.io^
 @@||app1f.gateway.portal.outreach.io^
 @@||app1f.outreach.io^
 @@||app2.salesmanago.pl^
 @@||app2a.gateway.portal.outreach.io^
 @@||app2a.outreach.io^
+@@||app2b.outreach.io^
 @@||app2c.gateway.portal.outreach.io^
+@@||app2c.outreach.io^
 @@||app3.salesmanago.pl^
 @@||app4.moovitapp.com^
 @@||app4cdn.moovitapp.com^
@@ -4370,6 +4374,7 @@
 @@||cdn.flurry.com^
 @@||cdn.fontawesome.com^
 @@||cdn.friendbuy.com^
+@@||cdn.ftspecialist.exponea.com^
 @@||cdn.fwupd.org^
 @@||cdn.gatehousemedia.com^
 @@||cdn.gigya.commes.122.2o7.net^
@@ -4795,6 +4800,7 @@
 @@||cl.s10.exct.net^
 @@||cl.s11.exct.net^
 @@||cl.s12.exct.net^
+@@||cl.s13.exct.net^
 @@||cl.s4.exct.net^
 @@||cl.s50.exct.net^
 @@||cl.s51.exct.net^
@@ -5655,6 +5661,7 @@
 @@||cutmy.link^
 @@||cutmyurl.com^
 @@||cutqr.com^
+@@||cuts-url.com^
 @@||cuts.al^
 @@||cuts.kr^
 @@||cuts2.com^
@@ -5966,6 +5973,7 @@
 @@||dell.to^
 @@||deloi.tt^
 @@||delphin.link^
+@@||delta.live^
 @@||demandbase.com^
 @@||demcon24.com^
 @@||demo-api.hitbtc.com^
@@ -6844,6 +6852,7 @@
 @@||email.flipboard.com^
 @@||email.gotinder.com^
 @@||email.mail.breitbart.com^
+@@||email.microsoft.com^
 @@||email.microsoftonline.com^
 @@||email.notify.vuukle.com^
 @@||email.office.com^
@@ -9893,6 +9902,7 @@
 @@||imop.com^
 @@||imp.i104546.net^
 @@||imp.i114863.net^
+@@||imp.i116503.net^
 @@||imp.i127447.net^
 @@||imp.i128439.net^
 @@||imp.i146998.net^
@@ -9907,6 +9917,8 @@
 @@||imp.i319830.net^
 @@||imp.i326929.net^
 @@||imp.i346552.net^
+@@||imp.i350665.net^
+@@||imp.i366014.net^
 @@||imp.i384100.net^
 @@||impala-external-lb-1441126057.us-east-1.elb.amazonaws.com^
 @@||impl.us^
@@ -10346,6 +10358,7 @@
 @@||jaga.link^
 @@||jaglil.com^
 @@||jagoan-hosting.online^
+@@||jalanku.me^
 @@||jalanpintas4d.com^
 @@||jali.me^
 @@||jalopnik.com^
@@ -11018,6 +11031,7 @@
 @@||ladyfootlocker.com^
 @@||laerd.com^
 @@||lam.bo^
+@@||lamacchina.de^
 @@||lammariom.dev^
 @@||lan.line.me^
 @@||land.naver.com^
@@ -11630,7 +11644,6 @@
 @@||links.iterable.com^
 @@||links.luckreceptivo.com.br^
 @@||links.minipcr.com^
-@@||links.mkt91.net^
 @@||links.nanoleaf.me^
 @@||links.nivbook.co.il^
 @@||links.notifications.soundcloud.com^
@@ -13157,6 +13170,7 @@
 @@||mkto-ab570128.com^
 @@||mkto-ab570178.com^
 @@||mkto-ab580004.com^
+@@||mkto-ab610096.com^
 @@||mkto-ab620024.com^
 @@||mkto-ab630033.com^
 @@||mkto-ab630042.com^
@@ -13213,6 +13227,7 @@
 @@||mkto-sj010128.com^
 @@||mkto-sj010203.com^
 @@||mkto-sj040252.com^
+@@||mkto-sj050202.com^
 @@||mkto-sj070214.com^
 @@||mkto-sj080048.com^
 @@||mkto-sj090132.com^
@@ -14416,6 +14431,7 @@
 @@||okurl.net^
 @@||oky.li^
 @@||oldmutualsa.com^
+@@||olhe.me^
 @@||oli.vi^
 @@||olii.me^
 @@||oline.me^
@@ -15736,6 +15752,7 @@
 @@||pushwoosh.com^
 @@||put.re^
 @@||putar.link^
+@@||putar.win^
 @@||putlocker.is^
 @@||puu.sh^
 @@||puugs.com^
@@ -16048,6 +16065,7 @@
 @@||ra.gtimg.com^
 @@||rabetak.me^
 @@||rabit.ae^
+@@||rabuur8ab.cc.rs6.net^
 @@||raceclip.com^
 @@||rackcdn.com^
 @@||racun.in^
@@ -22339,6 +22357,7 @@
 @@||wurl.io^
 @@||wurl.nl^
 @@||wurlie.net^
+@@||wurlz.com^
 @@||wuu.wikipedia.com^
 @@||wuxia.163.com^
 @@||ww1.chia-anime.tv^
