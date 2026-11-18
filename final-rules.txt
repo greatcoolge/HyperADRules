@@ -3099,7 +3099,6 @@
 @@||b6.me^
 @@||b9d.me^
 @@||baas.kr^
-@@||baba.bio^
 @@||babblecase.com^
 @@||babel.team^
 @@||babybus.com^
@@ -3238,6 +3237,7 @@
 @@||bee4.biz^
 @@||beeb.us^
 @@||beehiiv.com^
+@@||beelnk.com^
 @@||beepurl.com^
 @@||beeshort.de^
 @@||beeurls.com^
@@ -5609,7 +5609,6 @@
 @@||curl.ro^
 @@||curlm.in^
 @@||curlmin.com^
-@@||curriculumsystem.org^
 @@||curryfielddistribution.com^
 @@||curt.wiz.co^
 @@||curts.me^
@@ -6479,7 +6478,6 @@
 @@||ds.download.windowsupdate.com^
 @@||ds.prod.vidible.tv^
 @@||dsastro.com^
-@@||dsgfs.io^
 @@||dsh.re^
 @@||dside.ca^
 @@||dsm.ok.ru^
@@ -8297,6 +8295,7 @@
 @@||go-admin.functorz.com^
 @@||go-admin.momen.app^
 @@||go-link.ru^
+@@||go-links.net^
 @@||go-to.us^
 @@||go-updater.brave.com^
 @@||go.9nl.com^
@@ -10930,7 +10929,6 @@
 @@||kutt.it^
 @@||kutt.itarian.com^
 @@||kutt.mariodian.com^
-@@||kutt.schantli.cloud^
 @@||kutt.this.team^
 @@||kutt.to^
 @@||kutt.ural-agro.com^
@@ -12986,6 +12984,7 @@
 @@||microsoftonline.com^
 @@||microsoftwindowsupdate.net^
 @@||microurl.org^
+@@||microurls.io^
 @@||midas.gtimg.cn^
 @@||midiavip.com^
 @@||miffy.me^
@@ -16501,7 +16500,6 @@
 @@||rjpl.link^
 @@||rjvn.co^
 @@||rjyjwq.com^
-@@||rkt.bio^
 @@||rkurl.com^
 @@||rli.io^
 @@||rli.nl^
@@ -16724,7 +16722,6 @@
 @@||s.g123.jp^
 @@||s.gateway.messenger.live.com^
 @@||s.gdngs.de^
-@@||s.ggwp.be^
 @@||s.gravatar.com^
 @@||s.gy^
 @@||s.hitbtc.com^
@@ -18500,7 +18497,6 @@
 @@||spti.fi^
 @@||spx.re^
 @@||spxl.ink^
-@@||spynger.net^
 @@||spyw.com^
 @@||sq-device.apple.com^
 @@||sq.com^
@@ -19471,7 +19467,6 @@
 @@||tapad.com^
 @@||tapetco.vn^
 @@||tapfiliate.com^
-@@||taplink.cc^
 @@||tapme.ink^
 @@||tapmy.app^
 @@||tapper.ai^
@@ -21149,7 +21144,6 @@
 @@||urlshortener.mahamafzar.com^
 @@||urlshortener.pro^
 @@||urlshortener.site^
-@@||urlshortenerr.live^
 @@||urlshortenertool.com^
 @@||urlshortenervip.com^
 @@||urlshortening.webalias.com^
@@ -21572,7 +21566,6 @@
 @@||videolog.blog.naver.com^
 @@||videomate.mobi^
 @@||videopress.com^
-@@||videopro.live^
 @@||videos.files.wordpress.com^
 @@||videos.pbi.tools^
 @@||videos.porsche.cn^
@@ -24203,7 +24196,6 @@
 @@||yourls.newstargeted.com^
 @@||yourls.org^
 @@||yourls.ph-freiburg.de^
-@@||yourls.website^
 @@||youronlinechoices.com^
 @@||yourwish.es^
 @@||yous.ee^
@@ -24482,6 +24474,7 @@
 @@||zyguer.com^
 @@||zynexly.com^
 @@||zynga.my^
+@@||zyp.to^
 @@||zywv.us^
 @@||zz-tw.co^
 @@||zz.ee^
