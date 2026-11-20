@@ -14031,6 +14031,7 @@
 @@||notification-prod.svc.gearsofwar.net^
 @@||notificationcontent.entrance.sonymobile.com^
 @@||notifications.google.com^
+@@||notifications.googleapis.com^
 @@||notifications.spot.im^
 @@||notifications.viafoura.co^
 @@||notify-api.line.me^
