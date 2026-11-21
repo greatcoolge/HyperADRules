@@ -335,6 +335,7 @@
 @@||316.coolapk1s.com^
 @@||321url.com^
 @@||341850582.group0.sites.hscoscdn-na3.net^
+@@||343135192.group0.sites.hscoscdn-na3.net^
 @@||350.my^
 @@||360.cn^
 @@||360links.net^
@@ -2445,6 +2446,7 @@
 @@||app2.salesmanago.pl^
 @@||app2a.gateway.portal.outreach.io^
 @@||app2a.outreach.io^
+@@||app2b.gateway.portal.outreach.io^
 @@||app2b.outreach.io^
 @@||app2c.gateway.portal.outreach.io^
 @@||app2c.outreach.io^
@@ -3784,7 +3786,11 @@
 @@||c2-sandbox.piano.io^
 @@||c2.piano.io^
 @@||c212.net^
+@@||c2369.dotomi.com^
+@@||c2411.dotomi.com^
+@@||c2466.dotomi.com^
 @@||c2827.dotomi.com^
+@@||c2990.dotomi.com^
 @@||c2c.fm^
 @@||c2mc.link^
 @@||c2z.in^
@@ -4080,7 +4086,6 @@
 @@||cdn.flurry.com^
 @@||cdn.fontawesome.com^
 @@||cdn.friendbuy.com^
-@@||cdn.ftspecialist.exponea.com^
 @@||cdn.fwupd.org^
 @@||cdn.gatehousemedia.com^
 @@||cdn.gigya.commes.122.2o7.net^
@@ -5778,7 +5783,6 @@
 @@||diversionink.com^
 @@||diwi.io^
 @@||diypriceless.com^
-@@||djarum88.shop^
 @@||djbanshi.net^
 @@||dji.com^
 @@||djix.com^
@@ -6404,7 +6408,6 @@
 @@||email.flipboard.com^
 @@||email.gotinder.com^
 @@||email.mail.breitbart.com^
-@@||email.microsoft.com^
 @@||email.microsoftonline.com^
 @@||email.notify.vuukle.com^
 @@||email.office.com^
@@ -9256,7 +9259,6 @@
 @@||imo.cx^
 @@||imop.com^
 @@||imp.i104546.net^
-@@||imp.i114863.net^
 @@||imp.i116503.net^
 @@||imp.i127447.net^
 @@||imp.i127448.net^
@@ -9761,6 +9763,7 @@
 @@||jmp.im^
 @@||jmp.sh^
 @@||jmpto.net^
+@@||jmpz.io^
 @@||jmvmul.com^
 @@||jmxxud.com^
 @@||jnfusa.org^
@@ -12140,6 +12143,7 @@
 @@||mkto-ab010150.com^
 @@||mkto-ab010164.com^
 @@||mkto-ab020242.com^
+@@||mkto-ab040081.com^
 @@||mkto-ab060134.com^
 @@||mkto-ab060144.com^
 @@||mkto-ab060212.com^
@@ -12154,6 +12158,7 @@
 @@||mkto-ab180024.com^
 @@||mkto-ab240112.com^
 @@||mkto-ab240185.com^
+@@||mkto-ab250051.com^
 @@||mkto-ab250055.com^
 @@||mkto-ab250105.com^
 @@||mkto-ab250115.com^
@@ -12165,12 +12170,12 @@
 @@||mkto-ab300154.com^
 @@||mkto-ab310016.com^
 @@||mkto-ab330018.com^
-@@||mkto-ab330197.com^
 @@||mkto-ab340022.com^
 @@||mkto-ab350122.com^
 @@||mkto-ab370015.com^
 @@||mkto-ab390033.com^
 @@||mkto-ab390037.com^
+@@||mkto-ab390108.com^
 @@||mkto-ab390129.com^
 @@||mkto-ab410098.com^
 @@||mkto-ab420198.com^
@@ -12181,8 +12186,12 @@
 @@||mkto-ab430186.com^
 @@||mkto-ab430187.com^
 @@||mkto-ab440026.com^
+@@||mkto-ab440036.com^
 @@||mkto-ab450015.com^
+@@||mkto-ab460165.com^
 @@||mkto-ab470060.com^
+@@||mkto-ab480200.com^
+@@||mkto-ab500098.com^
 @@||mkto-ab530057.com^
 @@||mkto-ab540143.com^
 @@||mkto-ab550041.com^
@@ -12237,6 +12246,7 @@
 @@||mkto-mlm10010008.com^
 @@||mkto-mlm10030005.com^
 @@||mkto-mlm10040018.com^
+@@||mkto-mlm20020026.com^
 @@||mkto-nld1010057.com^
 @@||mkto-nld1010079.com^
 @@||mkto-nld1010150.com^
@@ -12259,25 +12269,30 @@
 @@||mkto-sj080048.com^
 @@||mkto-sj090063.com^
 @@||mkto-sj090132.com^
+@@||mkto-sj110048.com^
 @@||mkto-sj130243.com^
 @@||mkto-sj140007.com^
 @@||mkto-sj140170.com^
+@@||mkto-sj160016.com^
 @@||mkto-sj160226.com^
 @@||mkto-sj170174.com^
 @@||mkto-sj180011.com^
+@@||mkto-sj190104.com^
+@@||mkto-sj200095.com^
 @@||mkto-sj200186.com^
 @@||mkto-sj200201.com^
 @@||mkto-sj210111.com^
+@@||mkto-sj210146.com^
 @@||mkto-sj210170.com^
 @@||mkto-sj220006.com^
-@@||mkto-sj230010.com^
 @@||mkto-sj240021.com^
 @@||mkto-sj250033.com^
-@@||mkto-sj250062.com^
+@@||mkto-sj250171.com^
 @@||mkto-sj270078.com^
 @@||mkto-sj270080.com^
 @@||mkto-sj280085.com^
 @@||mkto-sj290040.com^
+@@||mkto-sj290197.com^
 @@||mkto-sj300023.com^
 @@||mkto-sj310061.com^
 @@||mkto-sj320080.com^
@@ -12288,8 +12303,8 @@
 @@||mkto-sj400023.com^
 @@||mkto-sjg0030.com^
 @@||mkto-sjh0178.com^
-@@||mkto-sji0033.com^
 @@||mkto-sji0183.com^
+@@||mkto-sjo0288.com^
 @@||mkto-sn040110.com^
 @@||mkto-test.com^
 @@||mkto-trk.cisco.com^
@@ -12477,6 +12492,7 @@
 @@||mr.da.netease.com^
 @@||mrfye.org^
 @@||mrjj.uk^
+@@||mrlink.in^
 @@||mrsaeed.com^
 @@||mrthumb.nabstudio.com^
 @@||mrturl.com^
@@ -15348,6 +15364,7 @@
 @@||rptl.io^
 @@||rptrcks.walmart.com^
 @@||rpxl.me^
+@@||rqkmqleab.cc.rs6.net^
 @@||rr.be^
 @@||rs.playstation.com^
 @@||rs6.net^
@@ -17628,8 +17645,8 @@
 @@||suite33-cf.emarsys.net^
 @@||suite33.emarsys.net^
 @@||suite34.emarsys.net^
+@@||suite36.emarsys.net^
 @@||suite37.emarsys.net^
-@@||suite38-cf.emarsys.net^
 @@||suite38.emarsys.net^
 @@||suite40-cf.emarsys.net^
 @@||suite40.emarsys.net^
@@ -17897,7 +17914,6 @@
 @@||t.paypal.com^
 @@||t.purch.com^
 @@||t.sidekickopen05-eu1.com^
-@@||t.sidekickopen21.com^
 @@||t.tl^
 @@||t.uc.cn^
 @@||t.umblr.com^
@@ -18883,6 +18899,7 @@
 @@||tucowsdomains.com^
 @@||tudou.com^
 @@||tufts.au^
+@@||tuifr.tradetracker.net^
 @@||tulinks.online^
 @@||tulip.app^
 @@||tumblr.com^
