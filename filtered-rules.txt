@@ -64,6 +64,7 @@
 0x.re
 0x3.me
 0xxx.ws
+0xy.me
 1-aclk.net
 1-edge-chat.facebook.com
 1.arch.pool.ntp.org
@@ -1028,6 +1029,7 @@ adservice.google.sk
 adservice.google.vg
 adshort.click
 adshort.co
+adslinks.site
 adsmeasurement.com
 adsmoker.com
 adsp.xunlei.com
@@ -1174,7 +1176,6 @@ aklam.io
 akm.works
 akoo.ir
 akr.gr
-akses.digital
 akses.gg
 akses.me
 aktfclick.com
@@ -1252,7 +1253,6 @@ alolink.com
 alpha-t.net
 alpha.camp
 alphab.gr
-alpinehr.ca
 alsa.me
 alstr.in
 alt.techmeme.com
@@ -3288,6 +3288,7 @@ bittrex.com
 bittylink.com
 bittyvi.com
 biturl.app
+biturl.site
 biturl.top
 bitw.in
 bitx.bio
@@ -3584,6 +3585,7 @@ brightcove.map.fastly.net
 brightcove.net
 brightestbeginning.me
 brightsci.io
+briidge.life
 brilink.me
 brisktopia.com
 briurl.com
@@ -3710,6 +3712,7 @@ by.com.vn
 by1.eu
 by2.io
 bydgoszcz.tvp.pl
+bydqy.com
 byebye.pro
 byflexy.com
 byjusclasses.freshdesk.com
@@ -5902,6 +5905,7 @@ dog.bin
 dogelexus.win
 dogelexusin.store
 doh.dns.apple.com
+dohggte.com
 doi.org
 doiop.com
 dolcegabbana.com
@@ -6039,6 +6043,7 @@ drivemetadata.io
 drnx.ir
 droidqr.com
 dronescapes.video
+drop.tf
 dropbox.com
 dropboxstatic.com
 dropboxusercontent.com
@@ -6189,6 +6194,7 @@ earn4url.com
 earnestwiles.com
 earnfly.net
 earnpays.com
+earnshort.site
 earnshorter.com
 earnshortly.com
 earnwithlink.com
@@ -7775,7 +7781,6 @@ go.cwtv.com
 go.daum.net
 go.dave-wood.org
 go.dbs.com
-go.drnima.com
 go.dscuoa.nz
 go.e2language.com
 go.edh.tw
@@ -8654,7 +8659,6 @@ hooturl.com
 hopklik.com
 hopla.to
 hopli.net
-hopp.co
 hops.me
 hopth.ru
 hopto.org
@@ -8969,7 +8973,6 @@ ids.indevice.sonymobile.com
 idtag.id
 idv-prod1.apple.com
 idv.cdn-apple.com
-idvip.us
 ie.ign.com
 iea.li
 ieee.org
@@ -8996,6 +8999,7 @@ igbig.com
 ige.li
 igg-games.com
 igg.com
+igit.me
 igludostats.moonfroglabs.com
 ign.com
 ignorelist.com
@@ -10047,7 +10051,6 @@ klclick3.com
 klf.sk
 klickhier.at
 klicklink.info
-klik-ini.info
 klik-ini.one
 klik-me.chat
 klik.best
@@ -10544,7 +10547,6 @@ link.fomf.de
 link.freshmail.mx
 link.glasow.fr
 link.goglogo.com
-link.gy
 link.hexlet.io
 link.hritbot.com
 link.hxfb.org.au
@@ -10893,7 +10895,6 @@ listenanddiscover.help.soundcloud.com
 lists.blocklist.de
 lists.flipboard.com
 lists.noads.online
-lit-url.com
 litfuel.me
 lithium.com
 litly.net
@@ -11884,6 +11885,7 @@ mediaplex.com
 mediaset.it
 mediastream.am
 mediazotic.net
+medical-twin.com
 medium.com
 medium.freecodecamp.org
 medusa88.online
@@ -13380,7 +13382,6 @@ okurl.net
 oky.li
 oldmutualsa.com
 oli.vi
-oljxgv.com
 oload.cloud
 oload.tv
 oloadcdn.net
@@ -15063,6 +15064,7 @@ redfin.com
 rediff.com
 redilify.com
 redir.ec
+redir.fr
 redir.io
 redir.is
 redir.wargaming.net
@@ -15118,6 +15120,7 @@ redtext.us
 redtolnk.com
 redtube.com
 redu.it
+reduced.to
 reebok.com
 reel.io
 reelsdownload.net
@@ -15382,6 +15385,7 @@ rtam-collector.appspot.com
 rtc.la
 rte.ch
 rtedq.com
+rtfo.site
 rtk.tools
 rtmp.cloud.vimeo.com
 rtrk.ca
@@ -15502,7 +15506,6 @@ s.gravatar.com
 s.gy
 s.hitbtc.com
 s.hswstatic.com
-s.id
 s.ign.com
 s.kiot.io
 s.klinikpintar.id
@@ -16187,6 +16190,7 @@ shareandembed.help.soundcloud.com
 shareaprofit.com
 shareasale-analytics.com
 shareasale.com
+shareease.link
 sharein.com
 sharelinkpro.com
 sharem.tech
@@ -16459,8 +16463,10 @@ shortrr.xyz
 shorts.codes
 shortshare.app
 shortslinks.com
+shortslinks.site
 shortstat.com
 shortster.net
+shortsurl.site
 shortswitch.com
 shortsy.pro
 shortthis.app
@@ -16694,7 +16700,6 @@ skp.la
 skr.sk
 skrbtfb.top
 skrill.com
-skroc.pl
 skru.in
 skrun.ch
 sks.snapchat.com
@@ -17326,6 +17331,7 @@ static.mibi.xiaomi.com
 static.micloud.xiaomi.net
 static.miraheze.org
 static.moddb.com
+static.monactive.net
 static.moovitapp.com
 static.naver.com
 static.networkedblogs.com
@@ -18228,7 +18234,6 @@ thepiratebay.org
 thepiratebay.se
 theporndude.com
 theregister.co.uk
-thesa.us
 theseotools.net
 thesne.ws
 thesocial.vip
@@ -18362,7 +18367,6 @@ tinyfy.me
 tinygo.co
 tinygo.net
 tinyl.ink
-tinyl.io
 tinylink.ca
 tinylink.fr
 tinylink.ir
@@ -18973,6 +18977,7 @@ twm5g.co
 two.re
 twou.co
 twt-assets.washtimes.com
+twtr.in
 twurl.net
 twurl.nl
 tx.163.com
@@ -18994,6 +18999,7 @@ ty.163.com
 ty.gy
 tyasd.com
 tyns.me
+tyny.to
 typeform.com
 typekit.com
 typekit.net
@@ -19248,7 +19254,6 @@ uploadstatic.mihoyo.com
 upmchp.us
 uppit.com
 upqzfile.com
-upriserz.link
 uprising.kip.pro
 upside.app.link
 upstriderlinks.com
@@ -19483,6 +19488,7 @@ urlshort.click
 urlshort.co
 urlshort.dev
 urlshort.rest
+urlshort.xyz
 urlshort4.com
 urlshortener-client.vercel.app
 urlshortener-cyan-five.vercel.app
@@ -19705,7 +19711,6 @@ v2assets.zopim.io
 v3-fq-tts.fqnovelvod.com
 v3-novelapp.fqnovelvod.com
 v3.antpool.com
-v3d.net
 v4.download.windowsupdate.com
 v5-novelapp.fqnovelvod.com
 v6-fq-tts.fqnovelvod.com
@@ -22143,6 +22148,7 @@ xav.cc
 xavo.wtf
 xb5.com
 xbext.com
+xbig.info
 xbitly.com
 xbox.com
 xbox.ipv6.microsoft.com
@@ -22239,6 +22245,7 @@ xp.apple.com
 xpdll.nirsoft.net
 xperiakeyboard.sonymobile.com
 xperialounge.sonymobile.com
+xplinks.com
 xpol.com.tr
 xpr.li
 xprrtupdate.com
