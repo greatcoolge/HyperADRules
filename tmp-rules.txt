@@ -3155,6 +3155,7 @@
 @@||d3tsytm1wtjqo2.cloudfront.net^
 @@||d4.me^
 @@||d5nxst8fruw4z.cloudfront.net^
+@@||da.gd^
 @@||da.gravatar.com^
 @@||da.mmarket.com^
 @@||da.xboxservices.com^
