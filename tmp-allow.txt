@@ -4122,7 +4122,6 @@
 @@||h.163.com^
 @@||h1.nu^
 @@||h18.update.netease.com^
-@@||h2mhridayff.com^
 @@||h3x.ir^
 @@||h42.update.netease.com^
 @@||h4g3z1-referral.web.app^
@@ -5290,6 +5289,7 @@
 @@||lessnmore.net^
 @@||lesterchan.net^
 @@||lets.rok.biz^
+@@||letsconnect.fun^
 @@||letsharu.cc^
 @@||letx.be^
 @@||letz.kr^
@@ -6161,6 +6161,7 @@
 @@||m2g.me^
 @@||m42.pw^
 @@||m4rk.org^
+@@||m5.gs^
 @@||m5.lt^
 @@||m7.music.126.net^
 @@||m7.pzds.com^
@@ -8972,6 +8973,7 @@
 @@||shortenme.me^
 @@||shortenmyurl.online^
 @@||shortenn.org^
+@@||shortenn.site^
 @@||shortenpay.com^
 @@||shortenpro.com^
 @@||shortenr-app.vercel.app^
@@ -10407,6 +10409,7 @@
 @@||toofficialwebsite.com^
 @@||toolaxy.com^
 @@||toolbites.com^
+@@||toolboxdaily.com^
 @@||toolify.link^
 @@||toolking.net^
 @@||toolkingo.com^
