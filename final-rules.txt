@@ -3427,7 +3427,6 @@
 @@||biolook.net^
 @@||biopagina.com^
 @@||bioprofile.link^
-@@||bioqr.me^
 @@||bioqrs.com^
 @@||bioreling.com^
 @@||biosite.info^
@@ -9598,6 +9597,7 @@
 @@||ige.li^
 @@||igg-games.com^
 @@||igg.com^
+@@||igit.me^
 @@||igludostats.moonfroglabs.com^
 @@||ign.com^
 @@||ignorelist.com^
@@ -15392,6 +15392,7 @@
 @@||premaster-app-cdn.spot.im^
 @@||premaster-spoxy.spot.im^
 @@||premex.link^
+@@||premierbet.live^
 @@||premierleague.com^
 @@||premium.linkedin.com^
 @@||premium.soundcloud.com^
@@ -15827,6 +15828,7 @@
 @@||qraus.com^
 @@||qrb.us^
 @@||qrbee.net^
+@@||qrbiolink.com^
 @@||qrcaard.com^
 @@||qrcc.io^
 @@||qrcc.me^
@@ -17864,7 +17866,6 @@
 @@||sibly.ir^
 @@||sic.onl^
 @@||sicax.net^
-@@||sicepat.link^
 @@||sider.ai^
 @@||sidji.link^
 @@||sie.ag^
@@ -19351,7 +19352,6 @@
 @@||tags.tiqcdn.com^
 @@||tagtic.cn^
 @@||tahmil.net^
-@@||tahuplay.urlklik.com^
 @@||tailtarget.com^
 @@||tailurl.com^
 @@||taiwangov.com^

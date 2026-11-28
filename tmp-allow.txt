@@ -1524,7 +1524,6 @@
 @@||biolook.net^
 @@||biopagina.com^
 @@||bioprofile.link^
-@@||bioqr.me^
 @@||bioqrs.com^
 @@||bioreling.com^
 @@||biosite.info^
@@ -4514,6 +4513,7 @@
 @@||ifwni.com^
 @@||ig.apple.com^
 @@||ige.li^
+@@||igit.me^
 @@||iherb.co^
 @@||ihnpo.com^
 @@||ihor.se^
@@ -7816,6 +7816,7 @@
 @@||preferredds.com^
 @@||prel.ink^
 @@||premex.link^
+@@||premierbet.live^
 @@||preml.ge^
 @@||prendre-rendezvous.com^
 @@||prephe.ro^
@@ -8032,6 +8033,7 @@
 @@||qraus.com^
 @@||qrb.us^
 @@||qrbee.net^
+@@||qrbiolink.com^
 @@||qrcaard.com^
 @@||qrcc.io^
 @@||qrcc.me^
@@ -9350,7 +9352,6 @@
 @@||sibly.ir^
 @@||sic.onl^
 @@||sicax.net^
-@@||sicepat.link^
 @@||sidji.link^
 @@||sie.ag^
 @@||sieduc.digital^
@@ -10109,7 +10110,6 @@
 @@||tags.news.com.au^
 @@||tagtic.cn^
 @@||tahmil.net^
-@@||tahuplay.urlklik.com^
 @@||tailtarget.com^
 @@||tailurl.com^
 @@||taiwangov.com^
